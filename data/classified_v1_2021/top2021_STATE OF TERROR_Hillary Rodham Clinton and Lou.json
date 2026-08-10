@@ -1,0 +1,27 @@
+{
+  "sample_id": "top2021:STATE OF TERROR|Hillary Rodham Clinton and Lou",
+  "quotes": [
+    {"quote_id": "q06142", "bucket": "event", "tense": "past", "note": "specific character past state; the second sentence is past-tense generalization anchored to her, not gnomic"},
+    {"quote_id": "q06143", "bucket": "gnomic", "tense": "", "note": "quoted Einstein aphorism with a past attribution frame; epigraph-type material"},
+    {"quote_id": "q06144", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority. NOTE: the tag is PRESENT ('he continues') -- the only present-tense narration signal in the book's quote set"},
+    {"quote_id": "q06145", "bucket": "dialogue", "tense": "", "note": "long speech, fully quoted"},
+    {"quote_id": "q06146", "bucket": "event", "tense": "past", "note": "free indirect past; the weak/powerful generalization is past-tense and anchored to a character's assessment"},
+    {"quote_id": "q06147", "bucket": "event", "tense": "past", "note": "past-tense exposition about the story world"},
+    {"quote_id": "q06148", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q06149", "bucket": "dialogue", "tense": "", "note": "first-person plural present with story-world referent ('the conspirators'); speech with quote marks stripped"},
+    {"quote_id": "q06150", "bucket": "event", "tense": "past", "note": "past-tense reflection on democracy; anaphoric 'It was' ties it to a story-world referent, so not the past-gnomic exception. Flagged as a judgment call"},
+    {"quote_id": "q06151", "bucket": "dialogue", "tense": "", "note": "quoted exchange"},
+    {"quote_id": "q06152", "bucket": "event", "tense": "past", "note": "specific character, past progressive ('was appreciating'); the embedded table/menu proverb does not govern"},
+    {"quote_id": "q06153", "bucket": "event", "tense": "past", "note": "past-tense exposition about the story world"},
+    {"quote_id": "q06154", "bucket": "event", "tense": "past", "note": "specific action at a specific moment"},
+    {"quote_id": "q06155", "bucket": "gnomic", "tense": "", "note": "aphorism fragment"},
+    {"quote_id": "q06156", "bucket": "gnomic", "tense": "", "note": "quoted epigraph (Saint-Exupery); epigraph text is gnomic per METHODOLOGY"},
+    {"quote_id": "q06157", "bucket": "paratext", "tense": "", "note": "author's note -- 'this is a work of fiction'"},
+    {"quote_id": "q06158", "bucket": "dialogue", "tense": "", "note": "quoted exchange"},
+    {"quote_id": "q06159", "bucket": "event", "tense": "past", "note": "fails the quotation-mark majority test (21 quoted vs 25 narration); past dialogue tags govern -- 'she handed', 'Ellen almost asked', 'she said'"},
+    {"quote_id": "q06160", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; the past tense inside is a character's speech"},
+    {"quote_id": "q06161", "bucket": "dialogue", "tense": "", "note": "quoted exchange"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "8 event quotes, 8 past / 0 present -- meets the high-confidence past bar on count and purity. Prose fiction, not verse. ONE QUOTE WORTH AUDITING: q06144's dialogue tag is present tense ('he continues'), while every other tag in the set is past ('she said', 'she handed', 'Ellen almost asked', 'turned'). Quotation-mark majority buckets it as dialogue so it never counts, but under the tag rule it would be event/present, and it is the only hint of a present-tense strand or scene. It would not flip 8/1, but if this book has present-tense sections the quote sample is not seeing them. Heavy dialogue yield (7 of 20) plus 4 aphorisms/epigraphs -- the diagnostic base is thin relative to the page size."
+}

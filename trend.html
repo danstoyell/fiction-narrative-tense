@@ -1,0 +1,181 @@
+<title>Narrative tense in bestsellers, 2016–2025 — interim</title>
+<style>
+  :root{
+    --ink:#151A22; --paper:#FAFAF8; --surface:#FFFFFF; --line:#E2E1DC;
+    --muted:#616A78; --faint:#8B929C;
+    --past:#A8763C; --present:#2A8080; --dual:#9AA0A8; --flag:#BC5230;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{--ink:#E8E6E1;--paper:#12151A;--surface:#181C22;--line:#2B313A;
+          --muted:#9AA2AE;--faint:#6E7681;--past:#D9A163;--present:#4FB3B3;
+          --dual:#767D87;--flag:#E27A52;}
+  }
+  :root[data-theme="dark"]{--ink:#E8E6E1;--paper:#12151A;--surface:#181C22;--line:#2B313A;
+    --muted:#9AA2AE;--faint:#6E7681;--past:#D9A163;--present:#4FB3B3;--dual:#767D87;--flag:#E27A52;}
+  :root[data-theme="light"]{--ink:#151A22;--paper:#FAFAF8;--surface:#FFFFFF;--line:#E2E1DC;
+    --muted:#616A78;--faint:#8B929C;--past:#A8763C;--present:#2A8080;--dual:#9AA0A8;--flag:#BC5230;}
+
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+       -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:56rem;margin:0 auto;padding:3rem 1.5rem 5rem;
+        display:flex;flex-direction:column;gap:2.75rem;}
+  .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.13em;
+           text-transform:uppercase;color:var(--faint);}
+  h1{font-family:var(--serif);font-size:clamp(1.9rem,4.5vw,2.7rem);line-height:1.1;
+     font-weight:600;text-wrap:balance;margin:.4rem 0 0;letter-spacing:-.01em;}
+  h2{font-family:var(--serif);font-size:1.4rem;font-weight:600;margin:0;text-wrap:balance;}
+  p{margin:0;max-width:64ch;}
+  section{display:flex;flex-direction:column;gap:.9rem;}
+  .lede{font-size:1.05rem;color:var(--muted);max-width:60ch;}
+  strong{font-weight:650;}
+
+  .chartbox{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+            padding:1.4rem 1.2rem 1rem;overflow-x:auto;}
+  svg{display:block;min-width:34rem;width:100%;height:auto;}
+  .legend{display:flex;flex-wrap:wrap;gap:1.2rem;margin-top:.9rem;font-size:.78rem;color:var(--muted);}
+  .legend i{display:inline-block;width:.75rem;height:.75rem;border-radius:2px;
+            margin-right:.4rem;vertical-align:-1px;}
+
+  .tw{overflow-x:auto;border:1px solid var(--line);border-radius:3px;background:var(--surface);}
+  table{border-collapse:collapse;width:100%;font-size:.82rem;}
+  th{font-family:var(--mono);font-size:.64rem;letter-spacing:.09em;text-transform:uppercase;
+     color:var(--muted);text-align:right;font-weight:600;padding:.65rem .8rem;
+     border-bottom:1px solid var(--line);white-space:nowrap;}
+  th:first-child{text-align:left;}
+  td{padding:.5rem .8rem;border-bottom:1px solid var(--line);text-align:right;
+     font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap;}
+  td:first-child{text-align:left;font-family:var(--sans);}
+  tr:last-child td{border-bottom:none;}
+  .thin{color:var(--flag);}
+
+  .warn{border-left:2px solid var(--flag);padding:.15rem 0 .15rem 1rem;color:var(--muted);
+        font-size:.93rem;max-width:62ch;display:flex;flex-direction:column;gap:.6rem;}
+  ul{margin:0;padding-left:1.1rem;display:flex;flex-direction:column;gap:.5rem;
+     max-width:64ch;color:var(--muted);font-size:.92rem;}
+  li strong{color:var(--ink);}
+  footer{border-top:1px solid var(--line);padding-top:1.1rem;font-size:.75rem;
+         color:var(--faint);font-family:var(--mono);}
+  :focus-visible{outline:2px solid var(--present);outline-offset:2px;}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">Booktense · interim · 115 of 239 books classified</div>
+  <h1>Present-tense narration in NYT bestsellers, 2016–2025</h1>
+  <p class="lede">Share of labelled books by base narrative tense. Percentages, not counts —
+  the number of books done per year is an artifact of processing order, not of the data.</p>
+</header>
+
+<section>
+  <div class="chartbox">
+    <svg id="chart" viewBox="0 0 760 400" role="img"
+         aria-label="Stacked area chart of present, dual and past tense share by year, 2016 to 2025, with present rising from the baseline"></svg>
+    <div class="legend">
+      <span><i style="background:var(--present)"></i>Present</span>
+      <span><i style="background:var(--dual)"></i>Dual — no single base tense</span>
+      <span><i style="background:var(--past)"></i>Past</span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>The numbers behind it</h2>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Year</th><th>Past</th><th>Dual</th><th>Present</th><th>n labelled</th><th>% present</th><th>95% CI</th><th>abstained</th></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <p style="font-size:.8rem;color:var(--faint)">Years with n &lt; 10 are marked — their
+  point estimates move by 8–17 points if a single book is relabelled.</p>
+</section>
+
+<section>
+  <h2>What this does and doesn't support</h2>
+  <div class="warn">
+    <p><strong>It is consistent with a rise, and it is not yet evidence of one.</strong>
+    2016–2019 average about 6% present across 46 labelled books; 2020–2025 average about
+    30% across 57. That gap is large. But every year's confidence interval overlaps several
+    others, and the two halves differ in ways that have nothing to do with tense.</p>
+  </div>
+  <ul>
+    <li><strong>Books within a year are not a random subset.</strong> Processing order was
+    mid-size-first, then round-robin across the thinnest-covered years. So a year at n=6 is
+    showing its ~35-quote books, while a year at n=18 includes both thinner and richer ones.
+    Quote count correlates with how much event-narration a book yields, and possibly with genre.</li>
+    <li><strong>2019 sits at 0% on n=7</strong> — the only year with no present-tense book at
+    all. With 7 books, that is entirely compatible with the same underlying rate as 2018 or 2020.</li>
+    <li><strong>Abstentions are excluded from the denominator</strong>, and they are not random.
+    Dialogue-heavy commercial fiction abstains most: two Yarros novels returned 3 and 4
+    event-narration quotes against 19 and 16 dialogue quotes, and both read as present-tense.
+    If that genre skews present and abstains more, this chart understates present tense.</li>
+    <li><strong>Dual is a finding, not a failure.</strong> Books like <em>Golden Girl</em> and
+    <em>Happy Place</em> alternate tense structurally; they are counted separately rather than
+    forced into either band.</li>
+  </ul>
+</section>
+
+<footer>
+  Frame: NYT Hardcover Fiction, top 30 per year by weeks on list · Text: Goodreads pull-quotes ·
+  Labels: base narration from narrating_situation, quote ratio for confidence<br>
+  115 of 239 labelable books classified · 103 yielding a label · 12 abstained or excluded
+</footer>
+</div>
+
+<script>
+const data=[
+ {y:2016,past:15,dual:2,pres:1,ab:0},{y:2017,past:10,dual:1,pres:1,ab:2},
+ {y:2018,past:8, dual:0,pres:1,ab:0},{y:2019,past:7, dual:0,pres:0,ab:1},
+ {y:2020,past:11,dual:1,pres:5,ab:1},{y:2021,past:4, dual:0,pres:2,ab:2},
+ {y:2022,past:5, dual:0,pres:1,ab:2},{y:2023,past:6, dual:3,pres:4,ab:3},
+ {y:2024,past:5, dual:1,pres:2,ab:0},{y:2025,past:3, dual:0,pres:3,ab:2}
+];
+const W=760,H=400,L=52,R=18,T=18,B=46;
+const iw=W-L-R, ih=H-T-B;
+const x=i=>L+iw*i/(data.length-1);
+const y=v=>T+ih*(1-v);
+
+data.forEach(d=>{d.n=d.past+d.dual+d.pres;
+  d.pPast=d.past/d.n; d.pDual=d.dual/d.n; d.pPres=d.pres/d.n;});
+
+// cumulative boundaries, bottom-up: present | dual | past
+// Present sits on the baseline so the band it occupies GROWS upward over time,
+// rather than being read as a shrinking sliver hanging off the top.
+const b1=data.map(d=>d.pPres), b2=data.map(d=>d.pPres+d.pDual);
+function band(lo,hi){
+  const up=data.map((d,i)=>`${x(i)},${y(hi[i])}`).join(" ");
+  const dn=data.map((d,i)=>`${x(i)},${y(lo[i])}`).reverse().join(" ");
+  return `<polygon points="${up} ${dn}" fill="var(--${arguments[2]})" opacity="${arguments[3]}"/>`;
+}
+const zero=data.map(()=>0), one=data.map(()=>1);
+let svg="";
+// gridlines
+for(let g=0;g<=100;g+=25){
+  svg+=`<line x1="${L}" x2="${W-R}" y1="${y(g/100)}" y2="${y(g/100)}" stroke="var(--line)" stroke-width="1"/>`;
+  svg+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--faint)">${g}%</text>`;
+}
+svg+=band(zero,b1,"present",.85);
+svg+=band(b1,b2,"dual",.85);
+svg+=band(b2,one,"past",.85);
+// boundary strokes
+svg+=`<polyline points="${data.map((d,i)=>`${x(i)},${y(b1[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.5"/>`;
+svg+=`<polyline points="${data.map((d,i)=>`${x(i)},${y(b2[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.5"/>`;
+// present-share markers + n labels
+data.forEach((d,i)=>{
+  svg+=`<circle cx="${x(i)}" cy="${y(b1[i])}" r="3.2" fill="var(--present)" stroke="var(--surface)" stroke-width="1.5"/>`;
+  svg+=`<text x="${x(i)}" y="${H-B+16}" text-anchor="middle" font-family="var(--mono)" font-size="10.5" fill="var(--muted)">${d.y}</text>`;
+  svg+=`<text x="${x(i)}" y="${H-B+29}" text-anchor="middle" font-family="var(--mono)" font-size="9" fill="${d.n<10?"var(--flag)":"var(--faint)"}">n=${d.n}</text>`;
+});
+document.getElementById("chart").innerHTML=svg;
+
+function ci(p,n){const se=Math.sqrt(p*(1-p)/n);
+  return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;}
+document.getElementById("tbody").innerHTML=data.map(d=>`
+ <tr><td>${d.y}</td><td>${d.past}</td><td>${d.dual}</td><td>${d.pres}</td>
+ <td class="${d.n<10?"thin":""}">${d.n}</td>
+ <td>${(d.pPres*100).toFixed(0)}%</td><td>${ci(d.pPres,d.n)}</td><td>${d.ab}</td></tr>`).join("");
+</script>

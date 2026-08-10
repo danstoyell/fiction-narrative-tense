@@ -1,0 +1,499 @@
+{
+ "sample_id": "top2024:HERE ONE MOMENT|Liane Moriarty",
+ "quotes": [
+  {
+   "quote_id": "q09174",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q09175",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "epigraph quoted from external author (Kubler-Ross) with attribution -- not novel prose; would be gnomic if counted as in-text epigraph"
+  },
+  {
+   "quote_id": "q09176",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal"
+  },
+  {
+   "quote_id": "q09177",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person advice"
+  },
+  {
+   "quote_id": "q09178",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q09179",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization about parental love"
+  },
+  {
+   "quote_id": "q09180",
+   "bucket": "event",
+   "tense": "past",
+   "note": "thought-report frame 'and then I thought' = specific story moment; gnomic coda attached"
+  },
+  {
+   "quote_id": "q09181",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal with narrator aside ('like me'); conditional 'would not have allowed' is not past narration"
+  },
+  {
+   "quote_id": "q09182",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal"
+  },
+  {
+   "quote_id": "q09183",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic reflection, second person"
+  },
+  {
+   "quote_id": "q09184",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific referent 'these tragedies' + 'I thought' / 'they just did'; essayistic middle and present narrating-moment aside ('I still think')"
+  },
+  {
+   "quote_id": "q09185",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q09186",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic generalization about a type of person"
+  },
+  {
+   "quote_id": "q09187",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic question"
+  },
+  {
+   "quote_id": "q09188",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal; 'my mother is dying' sits inside a hypothetical utterance"
+  },
+  {
+   "quote_id": "q09189",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic reflection on mathematics"
+  },
+  {
+   "quote_id": "q09190",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generic 'you' modal generalization -- not present tense, but no story-world referent"
+  },
+  {
+   "quote_id": "q09191",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic digression on real-world chaos-theory history; past-tense but no story-world referent -- flagged per contested past-gnomic exception"
+  },
+  {
+   "quote_id": "q09192",
+   "bucket": "event",
+   "tense": "past",
+   "note": "'I told him' -- specific past speech event"
+  },
+  {
+   "quote_id": "q09193",
+   "bucket": "event",
+   "tense": "past",
+   "note": "extended past-tense recollection of a specific classroom scene"
+  },
+  {
+   "quote_id": "q09194",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific dream recounted in past tense"
+  },
+  {
+   "quote_id": "q09195",
+   "bucket": "event",
+   "tense": "past",
+   "note": "death scene, specific past moment"
+  },
+  {
+   "quote_id": "q09196",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific person from an article, past-tense report"
+  },
+  {
+   "quote_id": "q09197",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "reported speech fragment plus direct address to reader; speech is a minority of words and untagged"
+  },
+  {
+   "quote_id": "q09198",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense narration about Jill and the group; quoted matter is a minority"
+  },
+  {
+   "quote_id": "q09199",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific past accident, Kayla; 'has occurred to me' is a narrating-moment aside"
+  },
+  {
+   "quote_id": "q09200",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism plus joke plus reader address"
+  },
+  {
+   "quote_id": "q09201",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal about ageing"
+  },
+  {
+   "quote_id": "q09202",
+   "bucket": "event",
+   "tense": "present",
+   "note": "third-person present strand, specific character at a specific moment"
+  },
+  {
+   "quote_id": "q09203",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal about language"
+  },
+  {
+   "quote_id": "q09204",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization about grief"
+  },
+  {
+   "quote_id": "q09205",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character 'she'; present perfect at narrating moment"
+  },
+  {
+   "quote_id": "q09206",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism with self-correction"
+  },
+  {
+   "quote_id": "q09207",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person advice"
+  },
+  {
+   "quote_id": "q09208",
+   "bucket": "event",
+   "tense": "present",
+   "note": "narrating-moment present of a specific character ('I like to imagine Dad')"
+  },
+  {
+   "quote_id": "q09209",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q09210",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization about symptoms"
+  },
+  {
+   "quote_id": "q09211",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character; future modal 'will' from a present deictic centre, not future-in-past"
+  },
+  {
+   "quote_id": "q09212",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic generalization about financial gurus"
+  },
+  {
+   "quote_id": "q09213",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization about dying people; speech is hypothetical"
+  },
+  {
+   "quote_id": "q09214",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person address plus generalization about older women"
+  },
+  {
+   "quote_id": "q09215",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific named characters (Vodnik, Chang, Halfpenny) and specific past acts; statistics are asides"
+  },
+  {
+   "quote_id": "q09216",
+   "bucket": "event",
+   "tense": "past",
+   "note": "'Then I said' -- specific past speech event plus iterative past about the mother"
+  },
+  {
+   "quote_id": "q09217",
+   "bucket": "event",
+   "tense": "past",
+   "note": "'I was nineteen when I first learned' -- specific past; opens with narrating-moment present"
+  },
+  {
+   "quote_id": "q09218",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal"
+  },
+  {
+   "quote_id": "q09219",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character described in past tense"
+  },
+  {
+   "quote_id": "q09220",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific past acts, Stella"
+  },
+  {
+   "quote_id": "q09221",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "real-world essayistic digression closing on an aphorism; no story-world referent"
+  },
+  {
+   "quote_id": "q09222",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character 'he'; habitual present characterization, not a generalization beyond the story world"
+  },
+  {
+   "quote_id": "q09223",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific dinner-party scene in past tense"
+  },
+  {
+   "quote_id": "q09224",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character observed at a present story moment"
+  },
+  {
+   "quote_id": "q09225",
+   "bucket": "event",
+   "tense": "past",
+   "note": "'the four of us seemed', 'we were' -- specific past state; Euler aside is essayistic"
+  },
+  {
+   "quote_id": "q09226",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic claim about mathematical truth"
+  },
+  {
+   "quote_id": "q09227",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific past, Eliza and narrator"
+  },
+  {
+   "quote_id": "q09228",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic generalization about divorce"
+  },
+  {
+   "quote_id": "q09229",
+   "bucket": "event",
+   "tense": "past",
+   "note": "'I stopped and watched' -- specific past moment; gnomic coda"
+  },
+  {
+   "quote_id": "q09230",
+   "bucket": "event",
+   "tense": "present",
+   "note": "third-person present strand, Paula"
+  },
+  {
+   "quote_id": "q09231",
+   "bucket": "event",
+   "tense": "present",
+   "note": "third-person present strand, Eve; future projection is free indirect from a present base"
+  },
+  {
+   "quote_id": "q09232",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority (25 spoken words vs 9 narrating)"
+  },
+  {
+   "quote_id": "q09233",
+   "bucket": "event",
+   "tense": "present",
+   "note": "characterization of a specific character in present tense"
+  },
+  {
+   "quote_id": "q09234",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal about couples"
+  },
+  {
+   "quote_id": "q09235",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character ('the lady') at a specific boarding moment"
+  },
+  {
+   "quote_id": "q09236",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization about desire plus reader address; one embedded story-world clause ('It was all I thought about')"
+  },
+  {
+   "quote_id": "q09237",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization about being old"
+  },
+  {
+   "quote_id": "q09238",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism about marriage"
+  },
+  {
+   "quote_id": "q09239",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic exposition about life insurance"
+  },
+  {
+   "quote_id": "q09240",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "narrator-framed generalization; no specific story moment"
+  },
+  {
+   "quote_id": "q09241",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "real-world survey statistic plus generalization and reader address"
+  },
+  {
+   "quote_id": "q09242",
+   "bucket": "event",
+   "tense": "past",
+   "note": "'I boarded' -- specific past moment"
+  },
+  {
+   "quote_id": "q09243",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character's present state ('Harvey is dead') -- the canonical event/present case"
+  },
+  {
+   "quote_id": "q09244",
+   "bucket": "event",
+   "tense": "past",
+   "note": "present narrating frame ('It sometimes feels') over specific past events ('she spent', 'She won')"
+  },
+  {
+   "quote_id": "q09245",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q09246",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic definition of the gambler's fallacy"
+  },
+  {
+   "quote_id": "q09247",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization about heads-ups"
+  },
+  {
+   "quote_id": "q09248",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character self-description in habitual present; 'My name is Cherry' anchors it to the story world"
+  },
+  {
+   "quote_id": "q09249",
+   "bucket": "event",
+   "tense": "present",
+   "note": "narrating-moment stance referencing a specific character ('the bearded man') and a first-person apology as a present speech act; gnomic middle"
+  },
+  {
+   "quote_id": "q09250",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person address plus generalization about introverts"
+  },
+  {
+   "quote_id": "q09251",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific character, free indirect present strand; 'She'll have to' is future from a present base"
+  },
+  {
+   "quote_id": "q09252",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "overwhelming quotation-mark majority; tagged 'says Sue'"
+  },
+  {
+   "quote_id": "q09253",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific past night"
+  },
+  {
+   "quote_id": "q09254",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "fragment, no finite verb; generalizing advice"
+  },
+  {
+   "quote_id": "q09255",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "epigraph quoted from external author (Hawking) with attribution -- not novel prose"
+  }
+ ],
+ "narrating_situation": "dual",
+ "agent_note": "Two structurally distinct strands. (1) A first-person retrospective memoir strand (Cherry, an actuary) telling her life story in past tense to a directly addressed reader, carrying a live narrating-moment present ('I still think', 'I like to imagine', 'Harvey is dead'). (2) A third-person present-tense strand following other characters (Paula, Eve, Sue, 'the lady') at scene level. The past/present split therefore traces to an identifiable strand split, not to uncertainty. Very heavy gnomic load: this quote page is dominated by second-person universals, aphorisms and essayistic digressions on probability, fate and grief -- 43 of 82 quotes are non-diagnostic gnomic, exactly the adversarial bias METHODOLOGY warns about. Two epigraphs quoting real external authors (Kubler-Ross, Hawking) filed as paratext."
+}

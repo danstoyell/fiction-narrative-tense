@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2020:2357",
+  "quotes": [
+    {"quote_id": "q04517", "bucket": "gnomic", "tense": "", "note": "proverb; present-tense universal"},
+    {"quote_id": "q04518", "bucket": "gnomic", "tense": "", "note": "aphorism; no quote marks, generalizes beyond story world"},
+    {"quote_id": "q04519", "bucket": "gnomic", "tense": "", "note": "essayistic generalization; deictic 'that one' hints unmarked speech, but fails quotation-mark test and payload is universal"},
+    {"quote_id": "q04520", "bucket": "event", "tense": "past", "note": "fails dialogue test (no marks); past dialogue/thought tag 'he thought' governs"},
+    {"quote_id": "q04521", "bucket": "event", "tense": "present", "note": "FLIP RISK: aphoristic register but first-person specific speaker at a specific moment (cf. 'I ache from my wounds'); untagged continuation of q04520"},
+    {"quote_id": "q04522", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; explicit tag 'said Mr. Harrigan'"},
+    {"quote_id": "q04523", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = vocative 'kiddo' + imperative 'Think of that' + direct address"},
+    {"quote_id": "q04524", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = second-person direct-address question. Could alternatively read as gnomic second-person universal; non-diagnostic either way"},
+    {"quote_id": "q04525", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q04526", "bucket": "event", "tense": "past", "note": "embedded proverb but framed as past habitual exposition with story-world referent ('my grandmother used to say'); iterative/summary narration = event per METHODOLOGY, not gnomic"},
+    {"quote_id": "q04527", "bucket": "gnomic", "tense": "", "note": "second-person universal framed as narrator belief"},
+    {"quote_id": "q04528", "bucket": "unclear", "tense": "", "note": "fragment quoting Whitman ('I am large, I contain multitudes'?); stray closing mark shows it is embedded in speech or thought, but cannot tell which; not narration"},
+    {"quote_id": "q04529", "bucket": "gnomic", "tense": "", "note": "present-tense second-person generalization; may be unmarked speech but payload generalizes beyond story world"},
+    {"quote_id": "q04530", "bucket": "event", "tense": "past", "note": "past-tense exposition about the story world; gnomic is present-only"},
+    {"quote_id": "q04531", "bucket": "gnomic", "tense": "", "note": "FLAG: present-tense thematic assertion about the world at large; borderline against present-tense story-world exposition"},
+    {"quote_id": "q04532", "bucket": "gnomic", "tense": "", "note": "essayistic generalization, second-person 'when you stop to think of it'"},
+    {"quote_id": "q04533", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = vocative 'Craig' + second-person direct address"},
+    {"quote_id": "q04534", "bucket": "event", "tense": "past", "note": "specific past act of a specific character ('Mr. Harrigan also promised this'); trailing present-tense narrator commentary subordinate"},
+    {"quote_id": "q04535", "bucket": "gnomic", "tense": "", "note": "present-tense generalization ('we mostly live alone'); 'like him' is an aside, not the claim"},
+    {"quote_id": "q04536", "bucket": "gnomic", "tense": "", "note": "aphoristic reflection on phones; generalizes beyond story world"},
+    {"quote_id": "q04537", "bucket": "event", "tense": "present", "note": "FLIP RISK: content is aphoristic but present tag 'she thinks' anchors it to a specific character at a specific moment; fails dialogue test (no marks) so tag rule applies"},
+    {"quote_id": "q04538", "bucket": "event", "tense": "past", "note": "retrospective first person, age-anchored ('even at thirteen I had my doubts')"},
+    {"quote_id": "q04539", "bucket": "gnomic", "tense": "", "note": "aphorism; sentence fragment as excerpted"},
+    {"quote_id": "q04540", "bucket": "event", "tense": "past", "note": "embedded Balzac epigraph is the minority; surrounding narration is past ('That was the theme I saw', 'he was shot down in Cicero')"},
+    {"quote_id": "q04541", "bucket": "event", "tense": "present", "note": "third-person present narration about a specific character at a specific moment"}
+  ],
+  "narrating_situation": "dual",
+  "agent_note": "Two distinct narrating stances coexist in the quote set, and they do not look like one narrator's two time positions. Strand A: first-person retrospective past, age-anchored ('even at thirteen I had my doubts'), oriented on a character called Mr. Harrigan (q04520, q04526, q04530, q04534, q04538, q04540). Strand B: third-person simultaneous present about an unnamed 'she' (q04537, q04541), with no overlap of persons or referents with Strand A. This reads as a multi-strand or multi-story volume rather than a diary/epistolary dual. Heavy gnomic contamination: 11 of 25 quotes are aphorism or essayistic generalization, exactly the quotability bias METHODOLOGY warns about; a two-bucket filter would have read most of them as present-tense evidence. Quotation marks survive on only one quote (q04522), so dialogue was assigned from vocatives ('kiddo', 'Craig'), imperatives, and second-person direct address. Event yield 9 of 25: 6 past / 3 present. All 3 present-event quotes are load-bearing and are flagged individually."
+}

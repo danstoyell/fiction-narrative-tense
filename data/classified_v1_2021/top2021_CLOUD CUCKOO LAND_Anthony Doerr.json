@@ -1,0 +1,421 @@
+{
+ "sample_id": "top2021:CLOUD CUCKOO LAND|Anthony Doerr",
+ "quotes": [
+  {
+   "quote_id": "q05546",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "the canonical gnomic example in METHODOLOGY"
+  },
+  {
+   "quote_id": "q05547",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05548",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05549",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05550",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05551",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "unmarked speech (vocative \"child\"); content is gnomic but delivered as speech"
+  },
+  {
+   "quote_id": "q05552",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05553",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05554",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05555",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05556",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05557",
+   "bucket": "event",
+   "tense": "present",
+   "note": "present tense about a specific character at a specific moment; gnomic tail does not govern"
+  },
+  {
+   "quote_id": "q05558",
+   "bucket": "event",
+   "tense": "present",
+   "note": "FLIP-RISK: gnomic content carried by a present-tense cognition tag (\"he is learning\"); event/present only via the tag rule"
+  },
+  {
+   "quote_id": "q05559",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05560",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "FLAGGED CONFLICT: quotation-mark majority (11 vs 2) forces dialogue, but METHODOLOGY line 34 names this exact string as an event/present example. Strict precedence rule applied."
+  },
+  {
+   "quote_id": "q05561",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05562",
+   "bucket": "event",
+   "tense": "past",
+   "note": "embedded Aethon tale, past tense, specific character at a specific moment"
+  },
+  {
+   "quote_id": "q05563",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05564",
+   "bucket": "event",
+   "tense": "present",
+   "note": "present-tense narration of a specific boy at a specific moment"
+  },
+  {
+   "quote_id": "q05565",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05566",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05567",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05568",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05569",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05570",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05571",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05572",
+   "bucket": "event",
+   "tense": "past",
+   "note": "FLIP-RISK: verbless content; past only in the attribution tag (\"they said\"). Tag rule (METHODOLOGY) beats the fragment-to-gnomic rule."
+  },
+  {
+   "quote_id": "q05573",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05574",
+   "bucket": "event",
+   "tense": "present",
+   "note": "present cognition tag (\"he thinks\") governs"
+  },
+  {
+   "quote_id": "q05575",
+   "bucket": "event",
+   "tense": "present",
+   "note": "BORDERLINE: present main clauses with a specific story referent; could be unmarked speech"
+  },
+  {
+   "quote_id": "q05576",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05577",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05578",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05579",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05580",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05581",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05582",
+   "bucket": "event",
+   "tense": "present",
+   "note": "MIXED: past-tense reported conversation (Rex) closed by present story-moment narration (\"Zeno sharpens his pencil and tries again\"); scored present on the story-moment clause"
+  },
+  {
+   "quote_id": "q05583",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "epigraph with an in-novel attribution (Zeno Ninis is a character), so not paratext"
+  },
+  {
+   "quote_id": "q05584",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05585",
+   "bucket": "event",
+   "tense": "past",
+   "note": "FLIP-RISK: past copula (\"was\") with aphoristic content; gnomic is present-only by rule, so event/past, but this is contestable"
+  },
+  {
+   "quote_id": "q05586",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05587",
+   "bucket": "event",
+   "tense": "past",
+   "note": "FLIP-RISK: present-tense gnomic content (\"time wipes the old books from the world\") carried by a past attribution tag (\"the tall Italian said\"); event/past only via the tag rule"
+  },
+  {
+   "quote_id": "q05588",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation majority forces dialogue; contains a present narration beat (\"Zeno thinks of his father\")"
+  },
+  {
+   "quote_id": "q05589",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05590",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05591",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05592",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05593",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05594",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05595",
+   "bucket": "event",
+   "tense": "past",
+   "note": "solid past narration about a specific character (\"until now he had no comprehension\")"
+  },
+  {
+   "quote_id": "q05596",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05597",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "embedded damaged-manuscript text; present second-person universal"
+  },
+  {
+   "quote_id": "q05598",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05599",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05600",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05601",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05602",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05603",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "expository/scholarly commentary on an ancient text; not narration - possibly paratext"
+  },
+  {
+   "quote_id": "q05604",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05605",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05606",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05607",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05608",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05609",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q05610",
+   "bucket": "event",
+   "tense": "past",
+   "note": "solid past narration, summary of a specific character's reading"
+  },
+  {
+   "quote_id": "q05611",
+   "bucket": "event",
+   "tense": "past",
+   "note": "backshifted reported speech continuing the grandfather passage (cf. q05595)"
+  },
+  {
+   "quote_id": "q05612",
+   "bucket": "event",
+   "tense": "present",
+   "note": "embedded Aethon material narrated in present tense - contrast with q05562"
+  },
+  {
+   "quote_id": "q05613",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q05614",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "Multi-strand present-tense narration (Anna, Omeir, Zeno, Seymour, Konstance) with an embedded Aethon tale and a grandfather/backstory strand in past tense. 18 present / 7 past = 72.0% present, which lands in the 70-85% band METHODOLOGY flags as a known threshold gap - AUDIT REQUIRED. Only 3 of the 7 past quotes are strong (q05562 Aethon, q05595 and q05610 backstory); the other 4 (q05572, q05585, q05587, q05611) are tag-driven or aphorism-with-past-copula and are contestable. If those 4 went the other way the book reads 18/21 = 85.7% present, i.e. above the bar. The past minority is fully structural (embedded tale + recollection), matching the \"Present + recollection strand\" row. Very high gnomic rate (26/69) - this book is maximally adversarial for the Goodreads source."
+}

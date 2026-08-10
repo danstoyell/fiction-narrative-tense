@@ -1,0 +1,445 @@
+{
+ "sample_id": "top2021:HARLEM SHUFFLE|Colson Whitehead",
+ "quotes": [
+  {
+   "quote_id": "q06274",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense generalization about the story world; NOT gnomic per past-tense rule"
+  },
+  {
+   "quote_id": "q06275",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06276",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense generalization about the story world"
+  },
+  {
+   "quote_id": "q06277",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06278",
+   "bucket": "event",
+   "tense": "past",
+   "note": "no quotation marks, so dialogue test fails; past habitual tag (\"she used to say\") governs"
+  },
+  {
+   "quote_id": "q06279",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06280",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06281",
+   "bucket": "event",
+   "tense": "past",
+   "note": "mixed: past-tense conditional generalization about the story world (dominant) + present gnomic tail"
+  },
+  {
+   "quote_id": "q06282",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06283",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06284",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense second-person universal"
+  },
+  {
+   "quote_id": "q06285",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06286",
+   "bucket": "event",
+   "tense": "past",
+   "note": "BORDERLINE: past-tense historical generalization about Black Americans; close to the past-tense analogy exception but retains a story-world \"we\" referent, so event/past"
+  },
+  {
+   "quote_id": "q06287",
+   "bucket": "event",
+   "tense": "past",
+   "note": "analogy, but with an explicit story-world referent (the Theresa heist) - event/past, not the gnomic exception"
+  },
+  {
+   "quote_id": "q06288",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06289",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense second-person universal on a fragment head"
+  },
+  {
+   "quote_id": "q06290",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06291",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06292",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "unmarked speech: first person in a third-person narrative"
+  },
+  {
+   "quote_id": "q06293",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06294",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06295",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06296",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06297",
+   "bucket": "event",
+   "tense": "past",
+   "note": "mixed; the tensed verbs are past (\"was\", \"valued\", \"might not make it\") so event/past"
+  },
+  {
+   "quote_id": "q06298",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narration about Carney + one present gnomic clause; past dominates"
+  },
+  {
+   "quote_id": "q06299",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06300",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06301",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06302",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06303",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense generalization (\"There was pain and then there was pain\"); NOT gnomic per past-tense rule"
+  },
+  {
+   "quote_id": "q06304",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past copulas with a present simile; story-world referent"
+  },
+  {
+   "quote_id": "q06305",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "fragment, no finite verb"
+  },
+  {
+   "quote_id": "q06306",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06307",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06308",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06309",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06310",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense generalization about parents and children, beyond story world"
+  },
+  {
+   "quote_id": "q06311",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06312",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06313",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06314",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06315",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06316",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06317",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06318",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06319",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06320",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06321",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "unmarked speech: present tense, second-person address, spoken register"
+  },
+  {
+   "quote_id": "q06322",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06323",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06324",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06325",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06326",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation majority (about 119 quoted vs 74 narration) forces dialogue, but it contains ~70 words of strong past-tense event narration (the Gilligan shooting). Largest single mixed quote in this book."
+  },
+  {
+   "quote_id": "q06327",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narration of a rehearsed cover story; present gnomic tail"
+  },
+  {
+   "quote_id": "q06328",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06329",
+   "bucket": "event",
+   "tense": "past",
+   "note": "free indirect satire; past tags (\"the story went\", \"went a lot further\")"
+  },
+  {
+   "quote_id": "q06330",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06331",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06332",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06333",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06334",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06335",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06336",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06337",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06338",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06339",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06340",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06341",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06342",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06343",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q06344",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06345",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q06346",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Third-person past-tense narration with dense aphoristic free indirect discourse. This book is the exact trap METHODOLOGY warns about: dozens of quotes \"sound general\" but are past-tense generalization about the story world and are therefore event/past. Only 10 quotes are genuinely present-tense gnomic. No present event-narration at all; no abstentions. Robust: even if all 10 gnomic were reclassified as event/present the book would still be 84.6% past."
+}

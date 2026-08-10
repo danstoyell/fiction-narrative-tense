@@ -1,0 +1,23 @@
+{
+  "sample_id": "top2021:THE HILL WE CLIMB|Amanda Gorman",
+  "quotes": [
+    {"quote_id": "q05899", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05900", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05901", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05902", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05903", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05904", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05905", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05906", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05907", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction; quoted scripture within the poem"},
+    {"quote_id": "q05908", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05909", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05910", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05911", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05912", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05913", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"},
+    {"quote_id": "q05914", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction"}
+  ],
+  "narrating_situation": "unclear",
+  "agent_note": "NOT PROSE FICTION -- this is lineated verse and should be excluded from the tense sample, not labelled. Evidence from the quote text alone: line breaks survive the scrape as run-together capitals ('we step out of the shade of flame and unafraid.The new dawn balloons as we free it'); anaphoric stanza parallelism ('That even as we grieved, we grew / That even as we hurt, we hoped / That even as we tired, we tried'); sustained end-rhyme and internal rhyme ('merge mercy with might, and might with right'; 'legacy / birthright'; 'notions of what just is / Isn't always justice'); and a collective first-person 'we' with no characters, no scene, and no story-world events anywhere in 16 quotes. There is nothing to assign a narrative tense to -- the verbs are hortatory and declarative address, not narration. Note also that near-duplicate variants dominate the page (q05899/q05903/q05904/q05911 are the same closing lines; q05902/q05908 and q05909/q05910 and q05912/q05913 are paired), so effective yield is roughly 8 distinct passages, all verse. Same author's CALL US WHAT WE CARRY is also in the sample frame and should be checked for the same problem."
+}

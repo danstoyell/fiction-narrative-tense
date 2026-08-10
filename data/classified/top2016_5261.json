@@ -1,0 +1,30 @@
+{
+  "sample_id": "top2016:5261",
+  "quotes": [
+    {"quote_id": "q00983", "bucket": "event", "tense": "past", "note": "past-tense second-person generalization about the narrator's girlhood; not gnomic per present-tense rule -- flagged"},
+    {"quote_id": "q00984", "bucket": "event", "tense": "past", "note": "specific narrator, past"},
+    {"quote_id": "q00985", "bucket": "event", "tense": "past", "note": "retrospective summary about 'we' and 'they' in the story world; past"},
+    {"quote_id": "q00986", "bucket": "gnomic", "tense": "", "note": "present-tense universal about girls; generalizes beyond story world"},
+    {"quote_id": "q00987", "bucket": "event", "tense": "past", "note": "past-tense summary of the narrator's group at a specific age"},
+    {"quote_id": "q00988", "bucket": "gnomic", "tense": "", "note": "opens with apostrophe to a named character then generalizes in present tense ('The world fattens them on the promise of love'); majority is present generalization -- flagged, would be event/present if read as narrating-moment reflection on Sasha"},
+    {"quote_id": "q00989", "bucket": "event", "tense": "past", "note": "past-tense second-person generalization; not gnomic per present-tense rule -- flagged"},
+    {"quote_id": "q00990", "bucket": "event", "tense": "past", "note": "specific narrator memories, past"},
+    {"quote_id": "q00991", "bucket": "gnomic", "tense": "", "note": "'I should have known' frame over a present-tense generalization about men; no specific moment -- flagged"},
+    {"quote_id": "q00992", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00993", "bucket": "event", "tense": "past", "note": "specific character state; trailing second-person reflection subordinate to it"},
+    {"quote_id": "q00994", "bucket": "event", "tense": "past", "note": "narrator state at a later story moment"},
+    {"quote_id": "q00995", "bucket": "event", "tense": "past", "note": "'as if fairness were' is subjunctive, not narration; main clause is past"},
+    {"quote_id": "q00996", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00997", "bucket": "gnomic", "tense": "", "note": "imperative fragment, no finite indicative verb; instructional/generalizing"},
+    {"quote_id": "q00998", "bucket": "event", "tense": "past", "note": "opens on a specific action (Mitch studied me); following generalization is past tense"},
+    {"quote_id": "q00999", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01000", "bucket": "event", "tense": "past", "note": "extended past narration/summary about Suzanne and the ranch"},
+    {"quote_id": "q01001", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01002", "bucket": "gnomic", "tense": "", "note": "fragment -- noun phrase, no main clause"},
+    {"quote_id": "q01003", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01004", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01005", "bucket": "gnomic", "tense": "", "note": "fragment -- verbless aphorism"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Prose fiction, not verse -- the lyric density is high and several quotes are verbless fragments, but the surrounding material is clearly narrative prose. First-person adult narrator looking back on adolescence, so the reflective register that would be gnomic in a present-tense novel is here almost all cast in PAST tense ('That was part of being a girl -- you were resigned to...'). Those quotes stay event/past per the present-tense-only gnomic rule and are flagged in notes; they are the audit-sensitive set for this book. No dialogue quotes at all. Zero present-tense event narration."
+}

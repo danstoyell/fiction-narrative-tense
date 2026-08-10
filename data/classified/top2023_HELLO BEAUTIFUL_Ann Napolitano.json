@@ -1,0 +1,33 @@
+{
+  "sample_id": "top2023:HELLO BEAUTIFUL|Ann Napolitano",
+  "quotes": [
+    {"quote_id": "q07951", "bucket": "event", "tense": "past", "note": "past-tense narration of a specific character's state; generalizing shape but past, so not gnomic"},
+    {"quote_id": "q07952", "bucket": "dialogue", "tense": "", "note": "no marks survive; second-person diagnosis + speech marker 'if you ask me'"},
+    {"quote_id": "q07953", "bucket": "dialogue", "tense": "", "note": "quotation marks, speech vastly outweighs the 'Kent said' tag"},
+    {"quote_id": "q07954", "bucket": "gnomic", "tense": "", "note": "present-tense second-person universal about love and absence; no speech marker, no story-moment"},
+    {"quote_id": "q07955", "bucket": "dialogue", "tense": "", "note": "no marks; direct address, refers to hearer's 'mother and sisters'"},
+    {"quote_id": "q07956", "bucket": "gnomic", "tense": "", "note": "FLAG -- past-tense maxim/motto with no story-world referent, the contested past-tense gnomic exception; not a specific event and not story-world exposition, so not filed as event/past; could alternatively be a character's spoken motto"},
+    {"quote_id": "q07957", "bucket": "event", "tense": "past", "note": "specific character's thought at a story-moment"},
+    {"quote_id": "q07958", "bucket": "event", "tense": "past", "note": "anchor: past-tense narration framed by Sylvie's specific reading and thinking; embedded generalization about storytelling sits inside her past-tense reflection"},
+    {"quote_id": "q07959", "bucket": "event", "tense": "past", "note": "main clause 'It was hard for me to accept' is past-tense first-person state; embedded present clause is the content of the belief. Possible dialogue but no vocative or speech marker"},
+    {"quote_id": "q07960", "bucket": "event", "tense": "past", "note": "near-tie on quotation-mark majority (~12 spoken vs ~13 narrated), so fails the dialogue test; tag rule applies -- 'Julia said', 'nodded', 'Cecelia said' are past action beats"},
+    {"quote_id": "q07961", "bucket": "event", "tense": "past", "note": "truncated subordinate clause, free indirect discourse; past-tense generalization about the story world is event/past, not gnomic"},
+    {"quote_id": "q07962", "bucket": "dialogue", "tense": "", "note": "quotation marks, ~82 spoken words vs ~10 narrated; therapy exchange"},
+    {"quote_id": "q07963", "bucket": "event", "tense": "past", "note": "past and past-perfect narration about specific characters"},
+    {"quote_id": "q07964", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority (~43 spoken vs ~19 narrated) beats the 'Carrie had said' tag"},
+    {"quote_id": "q07965", "bucket": "dialogue", "tense": "", "note": "no marks; imperative + vocative 'William'"},
+    {"quote_id": "q07966", "bucket": "dialogue", "tense": "", "note": "no marks; direct address 'You and I', conversational register"},
+    {"quote_id": "q07967", "bucket": "event", "tense": "past", "note": "past-tense narration of a specific character at a specific moment"},
+    {"quote_id": "q07968", "bucket": "dialogue", "tense": "", "note": "quotation marks; only narration is the 'she paused' beat"},
+    {"quote_id": "q07969", "bucket": "dialogue", "tense": "", "note": "FLIP RISK: truncated at both ends. Read as dialogue on the clipped rhetorical question to a hearer and conversational register; if read instead as narration it would be the book's only present-tense event quote"},
+    {"quote_id": "q07970", "bucket": "event", "tense": "past", "note": "past-tense exposition about a specific character"},
+    {"quote_id": "q07971", "bucket": "event", "tense": "past", "note": "past-tense narration, specific moment"},
+    {"quote_id": "q07972", "bucket": "event", "tense": "past", "note": "past-tense summary about specific characters -- story-world exposition, not gnomic"},
+    {"quote_id": "q07973", "bucket": "event", "tense": "past", "note": "past-tense narration; abstract subject but the referent is Sylvie walking"},
+    {"quote_id": "q07974", "bucket": "event", "tense": "past", "note": "past progressive narration of specific characters"},
+    {"quote_id": "q07975", "bucket": "event", "tense": "past", "note": "past-tense narration of a specific character"},
+    {"quote_id": "q07976", "bucket": "event", "tense": "past", "note": "past-tense narration of a specific realization at a story-moment"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Clean past-tense third-person narration with shifting focalization (Sylvie, Julia, William). 15 event quotes, all past, no present event narration anywhere. Several quotes have a generalizing feel ('She was no longer who she used to be', 'just because you never thought about someone didn't mean they weren't inside you', the Sylvie-on-storytelling passage) but are past tense and anchored to specific characters -- filed event/past per the present-tense-only gnomic rule, which is where this book's error pressure sits. Only 2 gnomic. q07956 ('Opportunity did not knock until I built the door') is flagged as the contested past-tense maxim rather than decided silently. Flip risk is q07969, truncated at both ends and the only candidate present-tense quote in the set; read as dialogue on register grounds. Dialogue identified by quotation marks where they survive and by vocatives/imperatives/second-person address where they do not."
+}

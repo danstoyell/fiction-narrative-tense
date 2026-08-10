@@ -1,0 +1,10 @@
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
+top2018:5322,THE GREAT ALONE,Kristin Hannah,79,59,11,9,0,0,57,2,0.03389830508474576,retrospective,PAST,high,"97% past / 3% present of 59, situation=retrospective"
+top2018:3244,NINE PERFECT STRANGERS,Liane Moriarty,71,47,10,12,2,0,46,1,0.02127659574468085,retrospective,PAST,high,"98% past / 2% present of 47, situation=retrospective"
+top2018:1666,EVERY BREATH,Nicholas Sparks,40,25,11,3,0,1,24,1,0.04,retrospective,PAST,high,"96% past / 4% present of 25, situation=retrospective"
+top2018:4321,STILL ME,Jojo Moyes,40,20,8,11,0,1,19,1,0.05,retrospective,PAST,high,"95% past / 5% present of 20, situation=retrospective"
+top2018:1057,CIRCE,Madeline Miller,27,14,10,3,0,0,13,1,0.07142857142857142,retrospective,PAST,high,"93% past / 7% present of 14, situation=retrospective"
+top2018:1818,FIRE AND BLOOD,George R.R. Martin,27,5,6,16,0,0,5,0,0.0,retrospective,PAST,med,"100% past / 0% present of 5, situation=retrospective"
+top2018:393,ALL WE EVER WANTED,Emily Giffin,17,12,3,1,0,1,10,2,0.16666666666666666,retrospective,PAST,high,"83% past / 17% present of 12, situation=retrospective"
+top2018:1288,DARK SACRED NIGHT,Michael Connelly,16,10,1,5,0,0,10,0,0.0,retrospective,PAST,high,"100% past / 0% present of 10, situation=retrospective"
+top2018:6043,THE PRESIDENT IS MISSING,Bill Clinton and James P,38,12,22,4,0,0,3,9,0.75,simultaneous,PRESENT,high,"25% past / 75% present of 12, situation=simultaneous"

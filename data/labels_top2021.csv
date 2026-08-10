@@ -1,0 +1,9 @@
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
+top2021:CALL US WHAT WE CARRY|Amanda Gorman,CALL US WHAT WE CARRY,Amanda Gorman,26,0,0,0,0,26,0,0,,unclear,EXCLUDED-verse,,not prose fiction
+top2021:THE HILL WE CLIMB|Amanda Gorman,THE HILL WE CLIMB,Amanda Gorman,16,0,0,0,0,16,0,0,,unclear,EXCLUDED-verse,,not prose fiction
+top2021:APPLES NEVER FALL|Liane Moriarty,APPLES NEVER FALL,Liane Moriarty,80,62,9,9,0,0,61,1,0.016129032258064516,retrospective,PAST,high,"98% past / 2% present of 62, situation=retrospective"
+top2021:A COURT OF SILVER FLAMES|Sarah J. Maas,A COURT OF SILVER FLAMES,Sarah J. Maas,26,11,1,13,1,0,11,0,0.0,retrospective,PAST,high,"100% past / 0% present of 11, situation=retrospective"
+top2021:GO TELL THE BEES THAT I AM GONE|Diana Gabaldon,GO TELL THE BEES THAT I AM GONE,Diana Gabaldon,25,9,6,10,0,0,9,0,0.0,retrospective,PAST,high,"100% past / 0% present of 9, situation=retrospective"
+top2021:THE FOUR WINDS|Kristin Hannah,THE FOUR WINDS,Kristin Hannah,25,13,5,6,1,0,12,1,0.07692307692307693,retrospective,PAST,high,"92% past / 8% present of 13, situation=retrospective"
+top2021:BILLY SUMMERS|Stephen King,BILLY SUMMERS,Stephen King,44,20,18,5,1,0,2,18,0.9,simultaneous,PRESENT,high,"10% past / 90% present of 20, situation=simultaneous"
+top2021:WIN|Harlan Coben,WIN,Harlan Coben,18,7,9,2,0,0,2,5,0.7142857142857143,simultaneous,PRESENT,med,"29% past / 71% present of 7, situation=simultaneous"

@@ -1,0 +1,25 @@
+{
+  "sample_id": "top2021:WIN|Harlan Coben",
+  "quotes": [
+    {"quote_id": "q06542", "bucket": "gnomic", "tense": "", "note": "second-person universal about relationships"},
+    {"quote_id": "q06543", "bucket": "gnomic", "tense": "", "note": "essayistic generalization about inherited wealth; contains one specific-character present clause ('My father suffers from this malady') but the passage's mode is generalization"},
+    {"quote_id": "q06544", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q06545", "bucket": "gnomic", "tense": "", "note": "essayistic reflection on memory, first-person plural universal"},
+    {"quote_id": "q06546", "bucket": "gnomic", "tense": "", "note": "second-person address to the reader ('If you are reading this')"},
+    {"quote_id": "q06547", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority. NOTE: all beats and tags are PRESENT ('Sadie makes quote marks', 'I ask', 'I say', 'Sadie leans forward')"},
+    {"quote_id": "q06548", "bucket": "event", "tense": "present", "note": "first-person habitual present self-description; specific character (the narrator), not a universal claim, though not a single story-moment either"},
+    {"quote_id": "q06549", "bucket": "gnomic", "tense": "", "note": "generalization about penmanship with a deictic to a specific character's hand ('especially hers'); borderline"},
+    {"quote_id": "q06550", "bucket": "event", "tense": "past", "note": "fails quotation-mark majority (9 quoted vs ~80 narration); past tag 'she said at the press conference' plus past exposition 'Vanessa Hogan was a young widow'. Present-tense narratorial commentary overlays it but the event verbs are past"},
+    {"quote_id": "q06551", "bucket": "event", "tense": "past", "note": "past retrospective about the narrator's father ('were able to convey'); gnomic tail does not govern"},
+    {"quote_id": "q06552", "bucket": "event", "tense": "present", "note": "first-person habitual present self-description ('I use', 'I like violence', 'I fight whenever I can')"},
+    {"quote_id": "q06553", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q06554", "bucket": "gnomic", "tense": "", "note": "essayistic generalization about fulfillment"},
+    {"quote_id": "q06555", "bucket": "dialogue", "tense": "", "note": "NEAR TIE on quotation-mark majority (~22 quoted vs ~20 narration) -- bucketed dialogue by a two-word margin. Tags are PRESENT ('I tell him'); under the tag rule this is event/present"},
+    {"quote_id": "q06556", "bucket": "gnomic", "tense": "", "note": "aphorism about loyalty"},
+    {"quote_id": "q06557", "bucket": "gnomic", "tense": "", "note": "second-person essayistic argument"},
+    {"quote_id": "q06558", "bucket": "dialogue", "tense": "", "note": "speaker is not the narrator ('My relationships with men'; the narrator is addressed as Win and called male elsewhere); speech with quote marks stripped"},
+    {"quote_id": "q06559", "bucket": "gnomic", "tense": "", "note": "aphorism"}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "INSUFFICIENT: only 4 event-narration quotes (2 past / 2 present), below the >=5 floor. Prose fiction, not verse. The quote page is 11 of 18 gnomic -- an extreme aphorism harvest from a first-person essayistic narrator, exactly the source bias METHODOLOGY warns about; a two-bucket filter would read this book as overwhelmingly present on material that proves nothing. narrating_situation 'simultaneous' is inferred not from the event counts but from the dialogue-bucketed scenes: every scene beat and speech tag in the set is present tense (q06547 'I ask', 'I say', 'Sadie leans forward'; q06555 'I tell him'), while past appears only in backstory (q06550 press conference, q06551 the father). That is the shape of a present-tense novel with a recollection strand. QUOTE THAT WOULD FLIP THE READING: q06555 is a two-word margin from failing the quotation-mark test; bucketing it event/present would give 5 event, 3 present / 2 past and clear the count floor. Recommend fetching a further page rather than labelling on 4."
+}

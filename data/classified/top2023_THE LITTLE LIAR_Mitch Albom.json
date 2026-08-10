@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2023:THE LITTLE LIAR|Mitch Albom",
+  "quotes": [
+    {"quote_id": "q08079", "bucket": "gnomic", "tense": "", "note": "aphorism about lies; present-tense, generalizes beyond story world"},
+    {"quote_id": "q08080", "bucket": "gnomic", "tense": "", "note": "maxim; imperative plus present-tense universal about scars"},
+    {"quote_id": "q08081", "bucket": "gnomic", "tense": "", "note": "second-person universal"},
+    {"quote_id": "q08082", "bucket": "gnomic", "tense": "", "note": "explicit universal claim about 'all humans'"},
+    {"quote_id": "q08083", "bucket": "gnomic", "tense": "", "note": "generic maxim; 'will do' is habitual, not story-moment"},
+    {"quote_id": "q08084", "bucket": "gnomic", "tense": "", "note": "personified narrator ('I am Truth') addressing the reader in present tense; timeless self-definition, no story-moment referent. Borderline event/present -- flagged because it is the clearest evidence about the book's narrating stance"},
+    {"quote_id": "q08085", "bucket": "gnomic", "tense": "", "note": "present-tense analogy, no story-world referent"},
+    {"quote_id": "q08086", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q08087", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q08088", "bucket": "gnomic", "tense": "", "note": "explicitly framed as 'a hard truth of war'; present-tense universal"},
+    {"quote_id": "q08089", "bucket": "gnomic", "tense": "", "note": "essayistic present-tense generalization about evil"},
+    {"quote_id": "q08090", "bucket": "paratext", "tense": "", "note": "epigraph with attribution (JAMES FENTON, 'A German Requiem'); also verse"},
+    {"quote_id": "q08091", "bucket": "event", "tense": "present", "note": "FLIP RISK: 'it comes silently' predicates a specific story decision, so event/present, but the simile frame 'Like many decisions that change a life' could make it a standalone generalization (gnomic). One of only 3 event quotes, so this single call moves the split"},
+    {"quote_id": "q08092", "bucket": "gnomic", "tense": "", "note": "second-person universal about love"},
+    {"quote_id": "q08093", "bucket": "gnomic", "tense": "", "note": "second-person universal"},
+    {"quote_id": "q08094", "bucket": "dialogue", "tense": "", "note": "quotation marks survive; majority of words inside marks across a two-speaker exchange with tags. Embedded Romani phrase is inside the speech, so not treated as non-English paratext"},
+    {"quote_id": "q08095", "bucket": "gnomic", "tense": "", "note": "explicitly universal ('experienced universally', 'Loss is universal')"},
+    {"quote_id": "q08096", "bucket": "gnomic", "tense": "", "note": "second-person universal about harmony and deceit"},
+    {"quote_id": "q08097", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q08098", "bucket": "gnomic", "tense": "", "note": "second-person universal ('You exit the womb...')"},
+    {"quote_id": "q08099", "bucket": "gnomic", "tense": "", "note": "generic imperative recipe for scapegoating; generalizes beyond story world. No marks, vocative, or speech marker to make it dialogue"},
+    {"quote_id": "q08100", "bucket": "event", "tense": "present", "note": "present-tense narration of a specific story-world figure ('the Wolf') across specific events; historical present"},
+    {"quote_id": "q08101", "bucket": "event", "tense": "past", "note": "past-tense exposition/summary about the story world -- event/past per the gnomic-is-present-only rule, not an aphorism"},
+    {"quote_id": "q08102", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about people in desperate moments"}
+  ],
+  "narrating_situation": "dual",
+  "agent_note": "Severely aphorism-dominated page: 19 of 24 quotes are gnomic, leaving only 3 event-narration quotes (2 present, 1 past) -- well under the 5-quote floor, so this is insufficient for a book label. Dual is a frame-narrator read, not diary/epistolary: a personified first-person present-tense narrator ('I am Truth', q08084) addresses the reader from outside the story while story-world material appears both as present-tense historical narration (q08100) and past-tense period exposition (q08101). Flip risks: q08091 (event/present vs gnomic) and q08084 (gnomic vs event/present); with only 3 event quotes either call visibly shifts the split. Quotation marks survived on only one quote (q08094)."
+}

@@ -1,0 +1,157 @@
+{
+  "sample_id": "top2021:THE LOST APOTHECARY|Sarah Penner",
+  "quotes": [
+    {
+      "quote_id": "q06483",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech or letter; sustained second-person address with 'I have sold a poison'"
+    },
+    {
+      "quote_id": "q06484",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech; direct question to an addressee"
+    },
+    {
+      "quote_id": "q06485",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "quotation-mark majority over 'I interrupted'"
+    },
+    {
+      "quote_id": "q06486",
+      "bucket": "event",
+      "tense": "past",
+      "note": "first-person past state ('lay')"
+    },
+    {
+      "quote_id": "q06487",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "present-tense generalization about history"
+    },
+    {
+      "quote_id": "q06488",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q06489",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q06490",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q06491",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "truncated subordinate clause; present-tense general truth"
+    },
+    {
+      "quote_id": "q06492",
+      "bucket": "event",
+      "tense": "past",
+      "note": "past-tense reflective question about the story world -- not gnomic"
+    },
+    {
+      "quote_id": "q06493",
+      "bucket": "event",
+      "tense": "past",
+      "note": "anchored to 'the last few days'"
+    },
+    {
+      "quote_id": "q06494",
+      "bucket": "event",
+      "tense": "past",
+      "note": "specific object ('my register'), past"
+    },
+    {
+      "quote_id": "q06495",
+      "bucket": "unclear",
+      "tense": "",
+      "note": "past-form modals only ('might'/'would'); no finite past narrative verb -- abstained per the subjunctive/conditional rule"
+    },
+    {
+      "quote_id": "q06496",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "second-person universal, present"
+    },
+    {
+      "quote_id": "q06497",
+      "bucket": "event",
+      "tense": "past",
+      "note": "past narration of a dawning impression"
+    },
+    {
+      "quote_id": "q06498",
+      "bucket": "event",
+      "tense": "past",
+      "note": "past-tense generalization about story-world practice -- event/past per METHODOLOGY, not gnomic"
+    },
+    {
+      "quote_id": "q06499",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q06500",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "present-perfect universal about all women"
+    },
+    {
+      "quote_id": "q06501",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q06502",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q06503",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q06504",
+      "bucket": "event",
+      "tense": "past",
+      "note": "MIXED TENSE: main clause 'was' governs, relative clause 'knows' is present; past-tense maxim about the story world's own trade"
+    },
+    {
+      "quote_id": "q06505",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "quotation-mark majority; one narration beat"
+    },
+    {
+      "quote_id": "q06506",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "aphorism"
+    },
+    {
+      "quote_id": "q06507",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Prose fiction. Two first-person past narrators are visible in the sample -- a present-day researcher ('the allure of history lay in the minutiae of life long ago') and an apothecary who keeps a register and sells poison ('every woman to whom I have sold a poison'). Both are retrospective; this is a dual-TIMELINE book, not a dual-POSITION (diary/epistolary) one, so narrating_situation is retrospective, not dual. 15 event quotes, 15/15 past. q06495 abstained (modals only). q06504 is the one quote that could move a vote: it carries a present-tense relative clause inside a past main clause and is arguably a maxim rather than narration -- but even read as gnomic it removes a past vote rather than adding a present one, so the label is unaffected."
+}

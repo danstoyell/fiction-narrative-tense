@@ -1,0 +1,9 @@
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
+top2019:2795,LOST ROSES,Martha Hall Kelly,19,3,4,9,1,2,3,0,0.0,retrospective,INSUFFICIENT,,only 3 event quotes
+top2019:6649,THE WATER DANCER,Ta-Nehisi Coates,44,26,9,7,1,1,26,0,0.0,retrospective,PAST,high,"100% past / 0% present of 26, situation=retrospective"
+top2019:3115,MRS. EVERYTHING,Jennifer Weiner,43,24,4,12,2,1,24,0,0.0,retrospective,PAST,high,"100% past / 0% present of 24, situation=retrospective"
+top2019:3349,"OLIVE, AGAIN",Elizabeth Strout,42,26,2,12,0,2,26,0,0.0,retrospective,PAST,high,"100% past / 0% present of 26, situation=retrospective"
+top2019:1683,EVVIE DRAKE STARTS OVER,Linda Holmes,38,17,7,13,0,1,17,0,0.0,retrospective,PAST,high,"100% past / 0% present of 17, situation=retrospective"
+top2019:5609,THE LAST ROMANTICS,Tara Conklin,38,24,12,2,0,0,24,0,0.0,retrospective,PAST,high,"100% past / 0% present of 24, situation=retrospective"
+top2019:5026,THE DUTCH HOUSE,Ann Patchett,25,16,3,6,0,0,16,0,0.0,retrospective,PAST,high,"100% past / 0% present of 16, situation=retrospective"
+top2019:5871,THE NEW GIRL,Daniel Silva,17,6,5,5,0,1,6,0,0.0,retrospective,PAST,med,"100% past / 0% present of 6, situation=retrospective"

@@ -1,0 +1,325 @@
+<title>Narrative tense in 2021 bestsellers</title>
+<style>
+  :root{
+    --ink:#151A22; --paper:#FAFAF8; --surface:#FFFFFF; --line:#E2E1DC;
+    --muted:#616A78; --faint:#8B929C;
+    --past:#A8763C; --present:#2A8080; --flag:#BC5230; --neutral:#9AA0A8;
+    --band:rgba(188,82,48,.09);
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --ink:#E8E6E1; --paper:#12151A; --surface:#181C22; --line:#2B313A;
+      --muted:#9AA2AE; --faint:#6E7681;
+      --past:#D9A163; --present:#4FB3B3; --flag:#E27A52; --neutral:#767D87;
+      --band:rgba(226,122,82,.12);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#E8E6E1; --paper:#12151A; --surface:#181C22; --line:#2B313A;
+    --muted:#9AA2AE; --faint:#6E7681;
+    --past:#D9A163; --present:#4FB3B3; --flag:#E27A52; --neutral:#767D87;
+    --band:rgba(226,122,82,.12);
+  }
+  :root[data-theme="light"]{
+    --ink:#151A22; --paper:#FAFAF8; --surface:#FFFFFF; --line:#E2E1DC;
+    --muted:#616A78; --faint:#8B929C;
+    --past:#A8763C; --present:#2A8080; --flag:#BC5230; --neutral:#9AA0A8;
+    --band:rgba(188,82,48,.09);
+  }
+
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);
+       line-height:1.6;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:60rem;margin:0 auto;padding:3.5rem 1.5rem 6rem;
+        display:flex;flex-direction:column;gap:3.25rem;}
+
+  .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.13em;
+           text-transform:uppercase;color:var(--faint);}
+  h1{font-family:var(--serif);font-size:clamp(2rem,5vw,3rem);line-height:1.1;
+     font-weight:600;text-wrap:balance;margin:.4rem 0 0;letter-spacing:-.01em;}
+  h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;line-height:1.2;
+     text-wrap:balance;margin:0;letter-spacing:-.005em;}
+  h3{font-size:.78rem;font-family:var(--mono);letter-spacing:.1em;
+     text-transform:uppercase;color:var(--muted);margin:0;font-weight:600;}
+  p{margin:0;max-width:64ch;}
+  section{display:flex;flex-direction:column;gap:1rem;}
+  .lede{font-size:1.075rem;color:var(--muted);max-width:60ch;}
+  strong{font-weight:650;color:var(--ink);}
+  em.q{font-family:var(--serif);font-style:italic;}
+
+  /* headline figure */
+  .figure-row{display:flex;flex-wrap:wrap;gap:1.5rem;align-items:flex-end;
+              padding:1.5rem 0 .25rem;border-top:2px solid var(--ink);}
+  .bignum{font-family:var(--serif);font-size:clamp(3rem,9vw,4.75rem);
+          line-height:.92;font-weight:600;font-variant-numeric:tabular-nums;
+          color:var(--present);letter-spacing:-.02em;}
+  .bigcap{font-size:.92rem;color:var(--muted);max-width:32ch;}
+
+  /* spectrum */
+  .chart{background:var(--surface);border:1px solid var(--line);
+         border-radius:3px;padding:1.5rem 1.25rem 1.25rem;overflow-x:auto;}
+  .chart-inner{min-width:34rem;}
+  .axis{position:relative;height:1.4rem;margin-left:13.5rem;}
+  .axis span{position:absolute;transform:translateX(-50%);font-family:var(--mono);
+             font-size:.66rem;color:var(--faint);top:0;}
+  .rows{display:flex;flex-direction:column;gap:.3rem;}
+  .row{display:grid;grid-template-columns:13.5rem 1fr;align-items:center;gap:0;}
+  .bt{font-size:.78rem;padding-right:.85rem;text-align:right;
+      white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--ink);}
+  .bt .n{font-family:var(--mono);color:var(--faint);font-size:.68rem;}
+  .track{position:relative;height:1.35rem;border-left:1px solid var(--line);
+         border-right:1px solid var(--line);background:
+         linear-gradient(90deg,transparent 0,transparent 100%);}
+  .band{position:absolute;top:0;bottom:0;left:70%;width:15%;background:var(--band);}
+  .tick{position:absolute;top:0;bottom:0;width:1px;background:var(--line);}
+  .tick.hard{background:var(--flag);opacity:.5;}
+  .dot{position:absolute;top:50%;width:.72rem;height:.72rem;border-radius:50%;
+       transform:translate(-50%,-50%);border:2px solid var(--surface);}
+  .bar{position:absolute;top:50%;height:3px;transform:translateY(-50%);border-radius:2px;}
+  .d-past{background:var(--past);} .d-pres{background:var(--present);}
+  .d-flag{background:var(--flag);} .d-dual{background:var(--neutral);}
+  .legend{display:flex;flex-wrap:wrap;gap:1.1rem;margin-top:1rem;
+          font-size:.75rem;color:var(--muted);}
+  .legend i{display:inline-block;width:.6rem;height:.6rem;border-radius:50%;
+            margin-right:.35rem;vertical-align:baseline;}
+  .swatch-band{display:inline-block;width:1.4rem;height:.6rem;background:var(--band);
+               border:1px solid var(--line);margin-right:.35rem;vertical-align:baseline;}
+
+  /* tables */
+  .tw{overflow-x:auto;border:1px solid var(--line);border-radius:3px;background:var(--surface);}
+  table{border-collapse:collapse;width:100%;font-size:.83rem;}
+  th{font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+     text-transform:uppercase;color:var(--muted);text-align:left;font-weight:600;
+     padding:.7rem .85rem;border-bottom:1px solid var(--line);white-space:nowrap;}
+  td{padding:.6rem .85rem;border-bottom:1px solid var(--line);vertical-align:top;}
+  tr:last-child td{border-bottom:none;}
+  td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;text-align:right;
+         white-space:nowrap;}
+  .pill{display:inline-block;font-family:var(--mono);font-size:.63rem;
+        letter-spacing:.07em;padding:.16rem .45rem;border-radius:2px;
+        border:1px solid currentColor;white-space:nowrap;}
+  .p-past{color:var(--past);} .p-pres{color:var(--present);}
+  .p-flag{color:var(--flag);} .p-dual{color:var(--neutral);}
+  .hit{color:var(--present);font-family:var(--mono);}
+  .miss{color:var(--flag);font-family:var(--mono);font-weight:700;}
+  .part{color:var(--faint);font-family:var(--mono);}
+
+  /* stat strip */
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(8.5rem,1fr));
+         gap:1px;background:var(--line);border:1px solid var(--line);border-radius:3px;}
+  .stat{background:var(--surface);padding:.95rem 1rem;}
+  .stat b{display:block;font-family:var(--mono);font-size:1.4rem;font-weight:600;
+          font-variant-numeric:tabular-nums;line-height:1.1;}
+  .stat span{font-size:.7rem;color:var(--muted);}
+
+  /* composition bar */
+  .comp{display:flex;height:2.4rem;border-radius:3px;overflow:hidden;
+        border:1px solid var(--line);}
+  .comp div{display:flex;align-items:center;justify-content:center;
+            font-family:var(--mono);font-size:.66rem;color:#fff;}
+
+  .note{border-left:2px solid var(--flag);padding:.1rem 0 .1rem 1rem;
+        color:var(--muted);font-size:.9rem;max-width:62ch;
+        display:flex;flex-direction:column;gap:.5rem;}
+  ul{margin:0;padding-left:1.1rem;display:flex;flex-direction:column;gap:.55rem;
+     max-width:64ch;color:var(--muted);font-size:.92rem;}
+  li strong{color:var(--ink);}
+  footer{border-top:1px solid var(--line);padding-top:1.25rem;font-size:.76rem;
+         color:var(--faint);font-family:var(--mono);}
+  a{color:inherit;}
+  :focus-visible{outline:2px solid var(--present);outline-offset:2px;}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">Booktense · stratum top2021 · 30 bestsellers sampled</div>
+  <h1>What tense were the biggest novels of 2021 written in?</h1>
+  <div class="figure-row">
+    <div class="bignum">22.7%</div>
+    <p class="bigcap">of labelled 2021 bestsellers are written in the present tense —
+    <strong>5 of 22</strong>. The 95% confidence interval runs <strong>5% to 40%</strong>,
+    which is wide enough that this year alone cannot support a trend claim.</p>
+  </div>
+</header>
+
+<section>
+  <h2>Every book, plotted by how present-tense it is</h2>
+  <p class="lede">Each dot is one novel, positioned by the share of its event-narration
+  quotes in the present tense. The shaded strip is the <strong>70–85% audit band</strong> —
+  books there are one or two judgment calls away from a different label.</p>
+
+  <div class="chart">
+   <div class="chart-inner">
+    <div class="axis">
+      <span style="left:0%">0%</span><span style="left:25%">25%</span>
+      <span style="left:50%">50%</span><span style="left:70%">70%</span>
+      <span style="left:85%">85%</span><span style="left:100%">100%</span>
+    </div>
+    <div class="rows" id="rows"></div>
+   </div>
+   <div class="legend">
+    <span><i class="d-past"></i>Past</span>
+    <span><i class="d-pres"></i>Present</span>
+    <span><i class="d-flag"></i>Present — in audit band</span>
+    <span><i class="d-dual"></i>Dual / mixed</span>
+    <span><span class="swatch-band"></span>70–85% threshold gap</span>
+   </div>
+  </div>
+
+  <div class="note">
+    <p><strong>Three of the five present-tense books sit inside the audit band.</strong>
+    Only <em class="q">Project Hail Mary</em> (96%) and <em class="q">Billy Summers</em> (91%)
+    are unambiguous. Move <em class="q">The Paper Palace</em> by one quote and it clears the
+    85% bar outright; move <em class="q">Golden Girl</em> by three and it leaves the band
+    entirely. The headline 22.7% rests on judgment calls at the margin, not on 22 clean readings.</p>
+  </div>
+</section>
+
+<section>
+  <h2>What the 1,135 quotes became</h2>
+  <p class="lede">Only <strong>event-narration</strong> carries tense evidence. Gnomic present
+  (proverbs, aphorisms) is the contaminant this study exists to filter — it is present-tense
+  by nature and appears constantly in past-tense novels.</p>
+  <div class="comp">
+    <div style="width:46%;background:var(--present)">event 522 · 46%</div>
+    <div style="width:27.6%;background:var(--past)">gnomic 313 · 28%</div>
+    <div style="width:19%;background:var(--neutral)">dialogue 216</div>
+    <div style="width:5.5%;background:var(--flag)">62</div>
+    <div style="width:1.9%;background:var(--faint)"></div>
+  </div>
+  <p style="font-size:.78rem;color:var(--faint);font-family:var(--mono)">
+  event 522 · gnomic 313 · dialogue 216 · unclear 62 · paratext 22</p>
+  <p>Had a two-bucket filter been used — narration vs. dialogue, no gnomic category —
+  those <strong>313 gnomic quotes</strong> would have been counted as present-tense evidence,
+  and almost every book in this sample would have been mislabelled present.</p>
+</section>
+
+<section>
+  <h2>Did the agents follow the method, or guess?</h2>
+  <div class="stats">
+    <div class="stat"><b>1135/1135</b><span>quotes labelled — none skipped</span></div>
+    <div class="stat"><b>0</b><span>tense set on a non-event quote</span></div>
+    <div class="stat"><b>0</b><span>phantom or duplicate labels</span></div>
+    <div class="stat"><b>74%</b><span>quotes carry a written rationale</span></div>
+    <div class="stat"><b>12/12</b><span>random spot-checks I agree with</span></div>
+  </div>
+  <p>No evidence of guessing. Every quote in the CSV appears exactly once in the output,
+  tense is set only where the spec allows, and 820 of 844 notes are substantive rather than
+  boilerplate. On a blind draw of 12 labelled quotes I re-read myself, I agree with all 12.</p>
+  <ul>
+    <li><strong>They abstained rather than forced.</strong> 62 quotes marked <em>unclear</em>,
+    2 books returned <em>insufficient evidence</em> instead of a label, and future-tense
+    passages were abstained on rather than shoehorned into past or present.</li>
+    <li><strong>They flagged what would flip a label</strong> without being able to see the
+    final tally — naming the exact quote and the resulting percentage in each case.</li>
+    <li><strong>They caught the poetry from the text, not the title.</strong> Both Gorman
+    collections were identified as verse via surviving line breaks, stanza parallelism and
+    rhyme — then excluded rather than assigned a tense.</li>
+    <li><strong>They reported problems against their own interest</strong>, including three
+    gaps in my specification and a dedup failure that let Ukrainian translations through.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>My guesses vs. the text</h2>
+  <p class="lede">Before any agent output existed, I recorded a recall-based prediction for
+  all 26 books. Recall is how this project produced its first wrong answer, so the point was
+  never to grade the agents — it was to see where a prior and the text disagree.</p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>Book</th><th>My guess</th><th>conf</th><th>From the text</th><th></th></tr></thead>
+      <tbody>
+        <tr><td>Project Hail Mary</td><td>past</td><td class="num">HIGH</td><td><span class="pill p-pres">PRESENT 96%</span></td><td class="miss">WRONG</td></tr>
+        <tr><td>Billy Summers</td><td>past</td><td class="num">HIGH</td><td><span class="pill p-pres">PRESENT 91%</span></td><td class="miss">WRONG</td></tr>
+        <tr><td>Malibu Rising</td><td>present</td><td class="num">MED</td><td><span class="pill p-past">PAST 0%</span></td><td class="miss">WRONG</td></tr>
+        <tr><td>The Lost Apothecary</td><td>mixed</td><td class="num">MED</td><td><span class="pill p-past">PAST 0%</span></td><td class="miss">WRONG</td></tr>
+        <tr><td>The Lincoln Highway</td><td>mixed</td><td class="num">LOW</td><td><span class="pill p-past">PAST 5%</span></td><td class="miss">WRONG</td></tr>
+        <tr><td>Cloud Cuckoo Land</td><td>mixed</td><td class="num">MED</td><td><span class="pill p-flag">PRESENT* 72%</span></td><td class="part">partial</td></tr>
+        <tr><td>Beautiful World, Where Are You</td><td>present</td><td class="num">HIGH</td><td><span class="pill p-dual">DUAL 63%</span></td><td class="part">partial</td></tr>
+        <tr><td>The Paper Palace</td><td>mixed</td><td class="num">MED</td><td><span class="pill p-flag">PRESENT* 84%</span></td><td class="part">partial</td></tr>
+        <tr><td>Golden Girl</td><td>mixed</td><td class="num">LOW</td><td><span class="pill p-flag">PRESENT* 73%</span></td><td class="part">partial</td></tr>
+        <tr><td>Wish You Were Here</td><td>present</td><td class="num">MED</td><td><span class="pill p-dual">MIXED 69%</span></td><td class="part">partial</td></tr>
+        <tr><td>The Last Thing He Told Me</td><td>present</td><td class="num">MED</td><td><span class="pill p-dual">DUAL 56%</span></td><td class="part">partial</td></tr>
+        <tr><td colspan="5" style="color:var(--muted);font-size:.8rem;padding-top:.8rem">
+        <span class="hit">13 further books matched outright</span> — Apples Never Fall, Harlem Shuffle,
+        Klara and the Sun, The Maidens, The Wish, A Court of Silver Flames, The Four Winds,
+        Go Tell the Bees, The Judge's List, The Cellist, State of Terror, and both Gorman
+        collections (correctly predicted as poetry). Two books returned no label.</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="note">
+    <p><strong>Both of my high-confidence failures were present-tense novels I called past.</strong>
+    In each case I reasoned from author convention — <em>King writes past third-person</em>,
+    <em>Weir writes retrospective first-person</em> — rather than from any text. That is exactly
+    the failure mode this study was built to avoid, reproduced by me, on the books where it
+    matters most: present tense is the rare class, so a prior that defaults to past is wrong
+    precisely where being right counts.</p>
+    <p>The agents, reading only quotes, got both. Where my guesses were <em>useful</em> was
+    structural: I predicted the poetry contamination before any classification ran.</p>
+  </div>
+</section>
+
+<section>
+  <h2>What would change these numbers</h2>
+  <ul>
+    <li><strong>An extractor bug is still baked into this data.</strong> My quote cleaner
+    stripped opening dialogue marks — <span style="font-family:var(--mono);font-size:.8rem">"You wired the kid," Truemann said</span>
+    lost its first mark on 460+ quotes. Stripped dialogue gets promoted to event-narration,
+    and speech skews present. Fixed in code, <em>not</em> yet reflected here. Direction of
+    bias: inflates present.</li>
+    <li><strong>My specification contradicts itself.</strong> METHODOLOGY offers
+    <span style="font-family:var(--mono);font-size:.8rem">"Some stories," she says</span>
+    as an example of event/present, but the precedence rule I added makes that exact string
+    dialogue. An agent caught it. Unresolved, and it recurs.</li>
+    <li><strong>Quotation marks are absent from 87% of quotes</strong>, so the quotation-majority
+    rule I made authoritative governs only 13% of cases. Agents fell back on vocatives and
+    register — defensible, but not what the spec says.</li>
+    <li><strong>A past strand hidden inside dialogue.</strong> In <em class="q">Project Hail Mary</em>
+    the past Earth thread is conversational, so quotation-majority bucketing hides it from the
+    event count. Counting narration beats inside dialogue would move the book from 96% to ~82%
+    present — into the audit band.</li>
+    <li><strong>Goodreads quotes are selected for quotability</strong>, not sampled from the
+    text. That is why 28% of them are gnomic. Whether quotability correlates with tense is
+    still unmeasured, and it is the largest open threat to the design.</li>
+  </ul>
+</section>
+
+<footer>
+  n = 30 sampled · 26 crawled with ≥15 quotes · 24 prose fiction · 22 yielding a label<br>
+  Frame: NYT Hardcover Fiction, top 30 of 2021 by weeks on list · Text: Goodreads pull-quotes ·
+  Classification: five independent Sonnet agents, blind to each other and to my priors
+</footer>
+</div>
+
+<script>
+const books=[
+ ["Apples Never Fall",62,0,"past"],["Harlem Shuffle",55,0,"past"],
+ ["Malibu Rising",46,0,"past"],["The Maidens",29,3,"past"],
+ ["The Wish",27,0,"past"],["Klara and the Sun",23,0,"past"],
+ ["The Lincoln Highway",21,5,"past"],["The Lost Apothecary",15,0,"past"],
+ ["A Court of Silver Flames",12,0,"past"],["The Four Winds",12,0,"past"],
+ ["The Cellist",12,0,"past"],["The Judge's List",12,0,"past"],
+ ["Go Tell the Bees",9,0,"past"],["State of Terror",8,0,"past"],
+ ["The Last Thing He Told Me",18,56,"dual"],["Beautiful World, Where Are You",30,63,"dual"],
+ ["Wish You Were Here",16,69,"dual"],
+ ["Cloud Cuckoo Land",25,72,"flag"],["Golden Girl",11,73,"flag"],
+ ["The Paper Palace",25,84,"flag"],
+ ["Billy Summers",22,91,"pres"],["Project Hail Mary",26,96,"pres"]
+];
+const cls={past:"d-past",pres:"d-pres",flag:"d-flag",dual:"d-dual"};
+document.getElementById("rows").innerHTML=books.map(([t,n,p,k])=>`
+ <div class="row">
+   <div class="bt">${t} <span class="n">${n}</span></div>
+   <div class="track">
+     <div class="band"></div>
+     <div class="tick" style="left:50%"></div>
+     <div class="tick hard" style="left:85%"></div>
+     <div class="bar ${cls[k]}" style="left:0;width:${p}%;opacity:.28"></div>
+     <div class="dot ${cls[k]}" style="left:${p}%"></div>
+   </div>
+ </div>`).join("");
+</script>

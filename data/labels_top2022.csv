@@ -1,0 +1,9 @@
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
+top2022:PORTRAIT OF AN UNKNOWN WOMAN|Daniel Silva,PORTRAIT OF AN UNKNOWN WOMAN,Daniel Silva,15,2,2,11,0,0,2,0,0.0,retrospective,INSUFFICIENT,,only 2 event quotes
+top2022:HOUSE OF SKY AND BREATH|Sarah J. Maas,HOUSE OF SKY AND BREATH,Sarah J. Maas,25,8,4,13,0,0,8,0,0.0,retrospective,PAST,high,"100% past / 0% present of 8, situation=retrospective"
+"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters","RUN, ROSE, RUN",Dolly Parton and James P,23,9,3,3,1,7,9,0,0.0,retrospective,PAST,high,"100% past / 0% present of 9, situation=retrospective"
+top2022:THE 6:20 MAN|David Baldacci,THE 6:20 MAN,David Baldacci,17,6,6,5,0,0,6,0,0.0,retrospective,PAST,med,"100% past / 0% present of 6, situation=retrospective"
+top2022:THE BOYS FROM BILOXI|John Grisham,THE BOYS FROM BILOXI,John Grisham,17,12,1,4,0,0,12,0,0.0,retrospective,PAST,high,"100% past / 0% present of 12, situation=retrospective"
+top2022:DREAMLAND|Nicholas Sparks,DREAMLAND,Nicholas Sparks,15,6,6,2,0,1,6,0,0.0,retrospective,PAST,med,"100% past / 0% present of 6, situation=retrospective"
+top2022:THE HOTEL NANTUCKET|Elin Hilderbrand,THE HOTEL NANTUCKET,Elin Hilderbrand,16,5,4,4,1,2,1,4,0.8,simultaneous,PRESENT,med,"20% past / 80% present of 5, situation=simultaneous"
+top2022:SEA OF TRANQUILITY|Emily St,SEA OF TRANQUILITY,Emily St,26,6,15,5,0,0,4,2,0.3333333333333333,unclear,UNCLEAR,,situation='unclear'

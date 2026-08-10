@@ -1,0 +1,9 @@
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
+top2024:HERE ONE MOMENT|Liane Moriarty,HERE ONE MOMENT,Liane Moriarty,82,35,43,2,2,0,21,14,0.4,dual,DUAL,high,"60% past / 40% present of 35, situation=dual"
+top2024:SMALL THINGS LIKE THESE|Claire Keegan,SMALL THINGS LIKE THESE,Claire Keegan,46,34,4,3,4,1,34,0,0.0,retrospective,PAST,high,"100% past / 0% present of 34, situation=retrospective"
+top2024:GOTHIKANA|RuNyx,GOTHIKANA,RuNyx,44,22,0,22,0,0,22,0,0.0,retrospective,PAST,high,"100% past / 0% present of 22, situation=retrospective"
+top2024:THE WOMEN|Kristin Hannah,THE WOMEN,Kristin Hannah,26,18,3,5,0,0,18,0,0.0,retrospective,PAST,high,"100% past / 0% present of 18, situation=retrospective"
+top2024:HOUSE OF FLAME AND SHADOW|Sarah J. Maas,HOUSE OF FLAME AND SHADOW,Sarah J. Maas,25,5,1,19,0,0,5,0,0.0,retrospective,PAST,med,"100% past / 0% present of 5, situation=retrospective"
+top2024:TELL ME EVERYTHING|Elizabeth Strout,TELL ME EVERYTHING,Elizabeth Strout,24,7,11,5,0,1,7,0,0.0,retrospective,PAST,med,"100% past / 0% present of 7, situation=retrospective"
+top2024:FIRST LIE WINS|Ashley Elston,FIRST LIE WINS,Ashley Elston,37,18,10,9,0,0,3,15,0.8333333333333334,simultaneous,PRESENT,high,"17% past / 83% present of 18, situation=simultaneous"
+top2024:THE GAMES GODS PLAY|Abigail Owen,THE GAMES GODS PLAY,Abigail Owen,26,7,7,11,0,1,0,7,1.0,simultaneous,PRESENT,med,"0% past / 100% present of 7, situation=simultaneous"

@@ -1,0 +1,23 @@
+{
+  "sample_id": "top2022:THE HOTEL NANTUCKET|Elin Hilderbrand",
+  "quotes": [
+    {"quote_id": "q07221", "bucket": "gnomic", "tense": "", "note": "aphorism/epigraph about change; generalizes beyond story world"},
+    {"quote_id": "q07222", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about August/Sunday afternoons; true outside the book"},
+    {"quote_id": "q07223", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority (~60 spoken words vs ~11 narrating); 'she says' tag does not override"},
+    {"quote_id": "q07224", "bucket": "gnomic", "tense": "", "note": "fragment -- song-title playlist list, no finite verb"},
+    {"quote_id": "q07225", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; 'Lizbet says to Jill' is the minority"},
+    {"quote_id": "q07226", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; vocative 'Chadwick' confirms speech"},
+    {"quote_id": "q07227", "bucket": "event", "tense": "present", "note": "iterative present about a specific character (his mother); story-world habit, not a general truth"},
+    {"quote_id": "q07228", "bucket": "paratext", "tense": "", "note": "back matter -- author's first-person Nantucket travel guide with second-person instructions ('you must let the air out of your tires'), not the novel"},
+    {"quote_id": "q07229", "bucket": "gnomic", "tense": "", "note": "second-person universal rhetorical questions about heartbreak; possibly free indirect but generalizes beyond story world"},
+    {"quote_id": "q07230", "bucket": "unclear", "tense": "", "note": "truncated mid-sentence fragment, no subject; tense indeterminate"},
+    {"quote_id": "q07231", "bucket": "unclear", "tense": "", "note": "quoted aphorism (11 words) plus unquoted present-tense promotional statement about the hotel (20 words); fails dialogue test but reads as blurb/back matter -- bucket genuinely ambiguous, flip-risk"},
+    {"quote_id": "q07232", "bucket": "event", "tense": "past", "note": "backstory/recollection strand -- bulk is simple past and past perfect (was bored, she'd retired, she'd heard); present frame 'She's thrilled' / 'where she now lives' brackets it"},
+    {"quote_id": "q07233", "bucket": "event", "tense": "present", "note": "adapted pineapple slogan but predicated of a specific character ('She is'); specific state, soft call"},
+    {"quote_id": "q07234", "bucket": "event", "tense": "present", "note": "narration majority (11 words) over 3 spoken; present-tense specific moment"},
+    {"quote_id": "q07235", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority (18 spoken vs 4 narrating); 'He pumps a fist' is a beat"},
+    {"quote_id": "q07236", "bucket": "event", "tense": "present", "note": "present-tense narration, specific characters at a specific moment; truncated opening 'and asks'"}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "Present-tense third-person narration is the base: 'Lizbet changes the subject', 'He uses air quotes', 'He pumps a fist', and present-tense dialogue tags ('she says', 'Magda says') throughout. Lone past event quote (q07232) is a character-backstory recollection strand embedded in a present frame -- structural, not a competing base tense. Dialogue calls all made on quotation-mark majority; marks survive intact in this book. q07228 is authorial travel-guide back matter leaking onto the work page. 5 event quotes = at the floor, so q07231 (abstained) and q07233 (soft present) are the flip-risk pair."
+}

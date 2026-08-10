@@ -1,0 +1,30 @@
+{
+  "sample_id": "top2020:6126",
+  "quotes": [
+    {"quote_id": "q04899", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about friendship; no quotation marks (marks survive elsewhere in this book), so not filed as dialogue despite advisory register"},
+    {"quote_id": "q04900", "bucket": "gnomic", "tense": "", "note": "aphorism; trailing page/character attribution is Goodreads apparatus"},
+    {"quote_id": "q04901", "bucket": "gnomic", "tense": "", "note": "rhetorical question + present-tense universal"},
+    {"quote_id": "q04902", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; two-speaker exchange"},
+    {"quote_id": "q04903", "bucket": "gnomic", "tense": "", "note": "aphorism, present tense, generalizes beyond story world"},
+    {"quote_id": "q04904", "bucket": "event", "tense": "present", "note": "opens with a simile that generalizes, but the load-bearing clauses are the narrator's own specific present state after his grandfather's death ('the days are now endlessly cloudy', 'there is nothing there at all'); narrating-moment present of a retrospective narrator -- flip risk"},
+    {"quote_id": "q04905", "bucket": "gnomic", "tense": "", "note": "present-tense universal about aging"},
+    {"quote_id": "q04906", "bucket": "gnomic", "tense": "", "note": "imperative/second-person universal advice; no marks"},
+    {"quote_id": "q04907", "bucket": "event", "tense": "past", "note": "past iterative/summary narration of grandparents' story-world history"},
+    {"quote_id": "q04908", "bucket": "gnomic", "tense": "", "note": "proverb"},
+    {"quote_id": "q04909", "bucket": "event", "tense": "past", "note": "fails dialogue test (narration outweighs the two spoken words); dialogue tag 'I said' past"},
+    {"quote_id": "q04910", "bucket": "event", "tense": "past", "note": "specific narrator state at a story moment"},
+    {"quote_id": "q04911", "bucket": "event", "tense": "past", "note": "specific scene plus narrator's past-tense self-comparison"},
+    {"quote_id": "q04912", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority beats the past dialogue tag"},
+    {"quote_id": "q04913", "bucket": "unclear", "tense": "", "note": "one clause, no marks; reads as stripped speech but could be narration -- too short to place, abstaining rather than let it supply present-tense evidence"},
+    {"quote_id": "q04914", "bucket": "gnomic", "tense": "", "note": "second-person universal about guilt"},
+    {"quote_id": "q04915", "bucket": "event", "tense": "past", "note": "past-tense recounting majority; closes with narrating-moment present ('Now I understand'), which is retrospective-narrator commentary, not present narration"},
+    {"quote_id": "q04916", "bucket": "gnomic", "tense": "", "note": "present-tense real-world fact about honey with second-person universal; no marks"},
+    {"quote_id": "q04917", "bucket": "gnomic", "tense": "", "note": "narratorial reflection whose claim generalizes beyond the story world"},
+    {"quote_id": "q04918", "bucket": "event", "tense": "past", "note": "specific observed moment plus past-perfect belief"},
+    {"quote_id": "q04919", "bucket": "event", "tense": "past", "note": "past-tense expository background (Brazil 1957 bee history); real-world exposition in past tense, filed per the Molenbeek precedent rather than as the contested past-gnomic exception"},
+    {"quote_id": "q04920", "bucket": "event", "tense": "present", "note": "present tense but about one specific relationship at the telling moment, not a universal -- flip risk"},
+    {"quote_id": "q04921", "bucket": "unclear", "tense": "", "note": "embedded joke in generic narrative present; not a story-world event and not a generalization about life"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "First-person retrospective narrator (attributions name Trevor Benson) recounting past events in past tense, punctuated by narrating-moment present commentary and heavy aphorism. Quotation marks survive in this book (q04902, q04912, q04921), so unmarked advisory passages were bucketed on register/generality rather than assumed to be dialogue -- that decision drives most of the large gnomic count. Event split 7 past / 2 present; both present event quotes (q04904, q04920) are the narrating present of a retrospective teller, not simultaneous narration, so the retrospective reading holds independent of the counts."
+}

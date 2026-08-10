@@ -1,0 +1,17 @@
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
+top2023:HAPPY PLACE|Emily Henry,HAPPY PLACE,Emily Henry,49,21,7,21,0,0,7,14,0.6666666666666666,dual,DUAL,high,"33% past / 67% present of 21, situation=dual"
+top2023:THE HOUSE IN THE PINES|Ana Reyes,THE HOUSE IN THE PINES,Ana Reyes,27,20,1,6,0,0,13,7,0.35,dual,DUAL,high,"65% past / 35% present of 20, situation=dual"
+top2023:I WILL FIND YOU|Harlan Coben,I WILL FIND YOU,Harlan Coben,20,5,11,4,0,0,3,2,0.4,dual,DUAL,med,"60% past / 40% present of 5, situation=dual"
+top2023:FOURTH WING|Rebecca Yarros,FOURTH WING,Rebecca Yarros,26,4,6,16,0,0,0,4,1.0,simultaneous,INSUFFICIENT,,only 4 event quotes
+top2023:THE LITTLE LIAR|Mitch Albom,THE LITTLE LIAR,Mitch Albom,24,3,19,1,1,0,1,2,0.6666666666666666,dual,INSUFFICIENT,,only 3 event quotes
+top2023:IDENTITY|Nora Roberts,IDENTITY,Nora Roberts,22,1,7,13,1,0,1,0,0.0,retrospective,INSUFFICIENT,,only 1 event quotes
+top2023:PINEAPPLE STREET|Jenny Jackson,PINEAPPLE STREET,Jenny Jackson,27,19,2,5,1,0,19,0,0.0,retrospective,PAST,high,"100% past / 0% present of 19, situation=retrospective"
+top2023:HANG THE MOON|Jeannette Walls,HANG THE MOON,Jeannette Walls,26,10,11,5,0,0,2,8,0.8,retrospective,PAST,CONFLICT,"20% past / 80% present of 10, situation=retrospective"
+top2023:HELLO BEAUTIFUL|Ann Napolitano,HELLO BEAUTIFUL,Ann Napolitano,26,15,2,9,0,0,15,0,0.0,retrospective,PAST,high,"100% past / 0% present of 15, situation=retrospective"
+top2023:THE ARMOR OF LIGHT|Ken Follett,THE ARMOR OF LIGHT,Ken Follett,25,15,3,7,0,0,15,0,0.0,retrospective,PAST,high,"100% past / 0% present of 15, situation=retrospective"
+top2023:THE HEAVEN & EARTH GROCERY STORE|James McBride,THE HEAVEN & EARTH GROCERY STORE,James McBride,21,11,5,5,0,0,11,0,0.0,retrospective,PAST,high,"100% past / 0% present of 11, situation=retrospective"
+top2023:DIRTY THIRTY|Janet Evanovich,DIRTY THIRTY,Janet Evanovich,19,5,4,9,0,1,2,3,0.6,retrospective,PAST,CONFLICT,"40% past / 60% present of 5, situation=retrospective"
+top2023:HOLLY|Stephen King,HOLLY,Stephen King,41,14,18,7,2,0,1,13,0.9285714285714286,simultaneous,PRESENT,high,"7% past / 93% present of 14, situation=simultaneous"
+top2023:NONE OF THIS IS TRUE|Lisa Jewell,NONE OF THIS IS TRUE,Lisa Jewell,27,11,6,8,2,0,1,10,0.9090909090909091,simultaneous,PRESENT,high,"9% past / 91% present of 11, situation=simultaneous"
+top2023:THE FIVE-STAR WEEKEND|Elin Hilderbrand,THE FIVE-STAR WEEKEND,Elin Hilderbrand,24,12,3,9,0,0,1,11,0.9166666666666666,simultaneous,PRESENT,high,"8% past / 92% present of 12, situation=simultaneous"
+top2023:SOMEONE ELSE'S SHOES|Jojo Moyes,SOMEONE ELSE'S SHOES,Jojo Moyes,22,8,7,7,0,0,1,7,0.875,simultaneous,PRESENT,high,"12% past / 88% present of 8, situation=simultaneous"

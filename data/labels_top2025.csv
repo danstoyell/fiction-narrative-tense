@@ -1,0 +1,9 @@
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
+top2025:THE KNIGHT AND THE MOTH|Rachel Gillig,THE KNIGHT AND THE MOTH,Rachel Gillig,26,4,7,14,1,0,2,2,0.5,retrospective,INSUFFICIENT,,only 4 event quotes
+top2025:ONYX STORM|Rebecca Yarros,ONYX STORM,Rebecca Yarros,25,3,0,19,1,2,0,3,1.0,simultaneous,INSUFFICIENT,,only 3 event quotes
+top2025:QUICKSILVER|Callie Hart,QUICKSILVER,Callie Hart,81,15,2,58,2,4,15,0,0.0,retrospective,PAST,high,"100% past / 0% present of 15, situation=retrospective"
+top2025:ALCHEMISED|SenLinYu,ALCHEMISED,SenLinYu,80,27,1,49,0,3,27,0,0.0,retrospective,PAST,high,"100% past / 0% present of 27, situation=retrospective"
+top2025:NOT QUITE DEAD YET|,NOT QUITE DEAD YET,,38,11,4,22,0,1,10,1,0.09090909090909091,retrospective,PAST,high,"91% past / 9% present of 11, situation=retrospective"
+top2025:THE PERFECT DIVORCE|Jeneva Rose,THE PERFECT DIVORCE,Jeneva Rose,42,21,16,4,0,1,4,17,0.8095238095238095,simultaneous,PRESENT,high,"19% past / 81% present of 21, situation=simultaneous"
+top2025:SUMMER IN THE CITY|Alex Aster,SUMMER IN THE CITY,Alex Aster,26,12,6,8,0,0,4,8,0.6666666666666666,simultaneous,PRESENT,high,"33% past / 67% present of 12, situation=simultaneous"
+top2025:GREAT BIG BEAUTIFUL LIFE|Emily Henry,GREAT BIG BEAUTIFUL LIFE,Emily Henry,25,7,7,11,0,0,2,5,0.7142857142857143,simultaneous,PRESENT,med,"29% past / 71% present of 7, situation=simultaneous"

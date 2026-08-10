@@ -1,0 +1,139 @@
+{
+  "sample_id": "top2021:THE JUDGE'S LIST|John Grisham",
+  "quotes": [
+    {
+      "quote_id": "q05659",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q05660",
+      "bucket": "event",
+      "tense": "past",
+      "note": "truncated opening; named characters, past"
+    },
+    {
+      "quote_id": "q05661",
+      "bucket": "event",
+      "tense": "past",
+      "note": "past free indirect on one character's psychology, not a general proverb"
+    },
+    {
+      "quote_id": "q05662",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q05663",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q05664",
+      "bucket": "event",
+      "tense": "past",
+      "note": "clean scene narration; strongest past evidence in the sample"
+    },
+    {
+      "quote_id": "q05665",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech fragment; conversational assessment"
+    },
+    {
+      "quote_id": "q05666",
+      "bucket": "event",
+      "tense": "past",
+      "note": "truncated both ends; finite past verbs present"
+    },
+    {
+      "quote_id": "q05667",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "imperative maxim; reads as a quoted motto"
+    },
+    {
+      "quote_id": "q05668",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q05669",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q05670",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q05671",
+      "bucket": "event",
+      "tense": "past",
+      "note": "past reporting frame ('She had read somewhere that') around a present-tense generalization; frame governs -- flagged"
+    },
+    {
+      "quote_id": "q05672",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech"
+    },
+    {
+      "quote_id": "q05673",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech; second-person address to an interlocutor"
+    },
+    {
+      "quote_id": "q05674",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech; formal address"
+    },
+    {
+      "quote_id": "q05675",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech; vocative 'Bannick'"
+    },
+    {
+      "quote_id": "q05676",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q05677",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "quotation-mark majority over 'Allie said'"
+    },
+    {
+      "quote_id": "q05678",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech; 'my daughter's apartment', 'we'd track them'"
+    },
+    {
+      "quote_id": "q05679",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "unmarked speech"
+    },
+    {
+      "quote_id": "q05680",
+      "bucket": "dialogue",
+      "tense": "",
+      "note": "quotation-mark majority; two-speaker exchange"
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Prose fiction. Third-person past, rotating close third across Jeri, Bannick and Allie. 12 event quotes, 12/12 past, including q05664, a plain multi-clause scene ('they left Key West, drove an hour to Marathon, and found the Kronke home') -- the near-unfakeable kind of past evidence. Only 1 gnomic. q05671 is the one flaggable quote: the bulk of its words are a present-tense generalization ('It defines us'), but it sits inside the past frame 'She had read somewhere that', so it counts as event/past; dropping it to gnomic leaves 11/11 past and changes nothing."
+}

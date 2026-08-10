@@ -1,0 +1,475 @@
+{
+ "sample_id": "top2017:513",
+ "quotes": [
+  {
+   "quote_id": "q01865",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "no quote marks; direct question to an interlocutor, speech register"
+  },
+  {
+   "quote_id": "q01866",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism (idiot-proofing); may be speech"
+  },
+  {
+   "quote_id": "q01867",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q01868",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past habitual state of narrator"
+  },
+  {
+   "quote_id": "q01869",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "direct address 'you call me lazy'; speech register, marks stripped"
+  },
+  {
+   "quote_id": "q01870",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narration plus narratorial aside to reader"
+  },
+  {
+   "quote_id": "q01871",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific scene in past; second sentence is a gnomic quip"
+  },
+  {
+   "quote_id": "q01872",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "habitual-present narratorial aside to reader; story-world exposition, not a story-moment"
+  },
+  {
+   "quote_id": "q01873",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific past action (Dad spent three and a half hours) inside a present-frame joke"
+  },
+  {
+   "quote_id": "q01874",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic generalization about economies, beyond story world"
+  },
+  {
+   "quote_id": "q01875",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "no quote marks; speech outweighs the 'I yelled to him' tag (13 spoken vs 4 narrating words)"
+  },
+  {
+   "quote_id": "q01876",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "conditional wisecrack, not narration; subjunctive so not event/past"
+  },
+  {
+   "quote_id": "q01877",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01878",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narration of a specific plan; 'like all good plans' is an embedded aside"
+  },
+  {
+   "quote_id": "q01879",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "quotation-mark majority is speech"
+  },
+  {
+   "quote_id": "q01880",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person aphorism; may be speech"
+  },
+  {
+   "quote_id": "q01881",
+   "bucket": "event",
+   "tense": "past",
+   "note": "'I decided' / 'I named' are specific past acts"
+  },
+  {
+   "quote_id": "q01882",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal"
+  },
+  {
+   "quote_id": "q01883",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past reflection on a specific story moment"
+  },
+  {
+   "quote_id": "q01884",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "narrator's habitual-present aside generalizing about Earthers; not a story-moment"
+  },
+  {
+   "quote_id": "q01885",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person aphorism"
+  },
+  {
+   "quote_id": "q01886",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "tag question 'do you?' = direct address; speech register"
+  },
+  {
+   "quote_id": "q01887",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q01888",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense generalization, second person"
+  },
+  {
+   "quote_id": "q01889",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past description of a specific view"
+  },
+  {
+   "quote_id": "q01890",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense exposition about the specific patch/smelter; embedded science digression"
+  },
+  {
+   "quote_id": "q01891",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "parenthetical timeless-present generalization"
+  },
+  {
+   "quote_id": "q01892",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-perfect narration of a specific act"
+  },
+  {
+   "quote_id": "q01893",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past description of a specific character at a moment"
+  },
+  {
+   "quote_id": "q01894",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "fragment, no finite verb"
+  },
+  {
+   "quote_id": "q01895",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority is the swearing; gnomic aside is the minority"
+  },
+  {
+   "quote_id": "q01896",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "vocative 'Dad'"
+  },
+  {
+   "quote_id": "q01897",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past habitual state of narrator"
+  },
+  {
+   "quote_id": "q01898",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general science exposition, true outside the book"
+  },
+  {
+   "quote_id": "q01899",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person aphorism; 'Hey' could mark speech"
+  },
+  {
+   "quote_id": "q01900",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization referencing the real world"
+  },
+  {
+   "quote_id": "q01901",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present generalization, second person"
+  },
+  {
+   "quote_id": "q01902",
+   "bucket": "event",
+   "tense": "past",
+   "note": "action narration outweighs the brief speech"
+  },
+  {
+   "quote_id": "q01903",
+   "bucket": "event",
+   "tense": "past",
+   "note": "mixed; narration ~42 words vs ~27 spoken, narration leads"
+  },
+  {
+   "quote_id": "q01904",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "timeless-present exposition of story-world rules; generalizes within not beyond the world -- flagged"
+  },
+  {
+   "quote_id": "q01905",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "near-tie word count (6 spoken vs 7 tag words); pure speech exchange, kept non-diagnostic"
+  },
+  {
+   "quote_id": "q01906",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation marks, direct address, vocative insult"
+  },
+  {
+   "quote_id": "q01907",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority is speech"
+  },
+  {
+   "quote_id": "q01908",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "reply register ('Nope.'); speech, marks stripped"
+  },
+  {
+   "quote_id": "q01909",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism about cities"
+  },
+  {
+   "quote_id": "q01910",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "duplicate of q01875 with quotation marks; quote-mark majority = dialogue"
+  },
+  {
+   "quote_id": "q01911",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "speech exchange"
+  },
+  {
+   "quote_id": "q01912",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person generalization"
+  },
+  {
+   "quote_id": "q01913",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "habitual-present generalization"
+  },
+  {
+   "quote_id": "q01914",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01915",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "embedded letter (character discourse, second person), not narration"
+  },
+  {
+   "quote_id": "q01916",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "timeless-present exposition, physics"
+  },
+  {
+   "quote_id": "q01917",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "speech exchange in quotation marks"
+  },
+  {
+   "quote_id": "q01918",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "fragment, no finite verb"
+  },
+  {
+   "quote_id": "q01919",
+   "bucket": "event",
+   "tense": "past",
+   "note": "opening sentence is past narration of a specific character's reaction; rest is gnomic aside"
+  },
+  {
+   "quote_id": "q01920",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narration about a specific character"
+  },
+  {
+   "quote_id": "q01921",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority is speech (~33 spoken vs ~24 narrating words)"
+  },
+  {
+   "quote_id": "q01922",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "near-tie; quotation-mark majority is speech by a small margin"
+  },
+  {
+   "quote_id": "q01923",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narration of a specific reaction"
+  },
+  {
+   "quote_id": "q01924",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "vocative 'Listen, assholes'"
+  },
+  {
+   "quote_id": "q01925",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "speech exchange with tags"
+  },
+  {
+   "quote_id": "q01926",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "timeless-present exposition of story-world rules; may be speech -- flagged"
+  },
+  {
+   "quote_id": "q01927",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense exposition about the story world (METHODOLOGY: event/past, not gnomic)"
+  },
+  {
+   "quote_id": "q01928",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "'When I grow up' = child speaking; speech register, marks stripped"
+  },
+  {
+   "quote_id": "q01929",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "speech exchange"
+  },
+  {
+   "quote_id": "q01930",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "timeless-present description of the setting's geography"
+  },
+  {
+   "quote_id": "q01931",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q01932",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q01933",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01934",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01935",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "imperative aside to the reader"
+  },
+  {
+   "quote_id": "q01936",
+   "bucket": "event",
+   "tense": "past",
+   "note": "narration ~100 words vs ~37 spoken; narration dominates"
+  },
+  {
+   "quote_id": "q01937",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general exposition about smelting/oxygen"
+  },
+  {
+   "quote_id": "q01938",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "one narrating beat vs ~30 spoken words"
+  },
+  {
+   "quote_id": "q01939",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority is speech"
+  },
+  {
+   "quote_id": "q01940",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "near-tie (~72 spoken vs ~70 narrating); quotation-mark majority rule applied, kept non-diagnostic"
+  },
+  {
+   "quote_id": "q01941",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization referencing action movies, beyond story world"
+  },
+  {
+   "quote_id": "q01942",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general physiology exposition"
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "First-person retrospective comic SF. All 23 event quotes are past; zero present event-narration. The book carries a very heavy load of narrator-present commentary addressed to the reader (habitual-present exposition about the setting, second-person jokes, science digressions) -- 31 of 78 quotes. Policy applied consistently: timeless/habitual present commentary that states how the story world or the real world generally works = gnomic (this is exactly the timeless-present contamination the bucket exists to catch); present tense about a specific character at a specific story-moment would have been event/present, but no quote met that test. Several rule-of-thumb gnomics generalize within the story world rather than beyond it (q01904, q01926, q01930) -- flagged in notes rather than decided silently. Dialogue calls rest on register/vocatives/direct address for the many quotes with quotation marks stripped; q01905, q01922 and q01940 are near-ties on word count and were kept in the non-diagnostic bucket. Prose, not verse. No single quote would flip the label."
+}

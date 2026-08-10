@@ -1,0 +1,33 @@
+{
+  "sample_id": "top2025:THE KNIGHT AND THE MOTH|Rachel Gillig",
+  "quotes": [
+    {"quote_id": "q10055", "bucket": "gnomic", "tense": "", "note": "second-person universal aphorism"},
+    {"quote_id": "q10056", "bucket": "gnomic", "tense": "", "note": "aphorism, present"},
+    {"quote_id": "q10057", "bucket": "gnomic", "tense": "", "note": "second-person universal / essayistic reflection"},
+    {"quote_id": "q10058", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; one past-tense narration beat ('My hammer collided') outweighed by speech"},
+    {"quote_id": "q10059", "bucket": "event", "tense": "present", "note": "first-person present state of the narrator ('who I am'), not a universal; flip risk toward gnomic"},
+    {"quote_id": "q10060", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = direct address (you/me) and heightened spoken register"},
+    {"quote_id": "q10061", "bucket": "dialogue", "tense": "", "note": "no marks; signal = vocative 'Bartholomew' + direct address. Could instead be oral frame-narration addressing a narratee"},
+    {"quote_id": "q10062", "bucket": "dialogue", "tense": "", "note": "no marks; signal = vocative + imperative"},
+    {"quote_id": "q10063", "bucket": "gnomic", "tense": "", "note": "first-person-plural universal, present"},
+    {"quote_id": "q10064", "bucket": "paratext", "tense": "", "note": "dedication ('To the child in each of us')"},
+    {"quote_id": "q10065", "bucket": "event", "tense": "present", "note": "first-person present state of a specific character; closing simile is decorative, not the frame"},
+    {"quote_id": "q10066", "bucket": "gnomic", "tense": "", "note": "second-person universal rhetorical question"},
+    {"quote_id": "q10067", "bucket": "dialogue", "tense": "", "note": "two quoted speech turns, quotation-mark majority"},
+    {"quote_id": "q10068", "bucket": "gnomic", "tense": "", "note": "aphorism, present"},
+    {"quote_id": "q10069", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; past narration beat 'That one took me a moment' is a minority"},
+    {"quote_id": "q10070", "bucket": "event", "tense": "past", "note": "no marks; specific past state/event of a specific character. Could be unmarked speech"},
+    {"quote_id": "q10071", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority with interposed beat"},
+    {"quote_id": "q10072", "bucket": "dialogue", "tense": "", "note": "no marks; signal = vocative 'Bartholomew'"},
+    {"quote_id": "q10073", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; past beat is minority"},
+    {"quote_id": "q10074", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; vocative 'Rory'; past tag 'I whispered' is minority"},
+    {"quote_id": "q10075", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority across two speakers"},
+    {"quote_id": "q10076", "bucket": "dialogue", "tense": "", "note": "long quoted speech (embedded tale) with beats; quotation-mark majority"},
+    {"quote_id": "q10077", "bucket": "dialogue", "tense": "", "note": "speech ~46 words vs ~26 narration; quotation-mark majority. Narration beats are past tense"},
+    {"quote_id": "q10078", "bucket": "dialogue", "tense": "", "note": "no marks; signal = direct address, spoken promise register"},
+    {"quote_id": "q10079", "bucket": "event", "tense": "past", "note": "fails dialogue test (3 spoken words vs ~20 narrating); past-tense narration"},
+    {"quote_id": "q10080", "bucket": "gnomic", "tense": "", "note": "second-person aphorism, present"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "First-person narrator. Every narration beat embedded in the dialogue quotes is past tense ('My hammer collided', 'The gargoyle led me down the nave', 'six silk robes waited', 'I whispered', 'Rory's eyes flitted', 'was trained on Four'), which is the strongest available evidence and points retrospective. Quotation marks survive on most multi-speaker quotes, so mark-majority was the primary dialogue signal; for the unmarked ones (q10060, q10061, q10062, q10072, q10078) the signal was vocative/direct address and register. Page is heavily aphoristic: 7 gnomic of 26. Only 4 event quotes (2 past / 2 present) -- thin, and both present ones are reflective first-person states rather than moment-by-moment action, so they are the softest calls here. q10061 is worth a second look: read as speech to the gargoyle it is dialogue, but read as the novel's oral frame it would be event/present and would shift the narrating situation toward dual."
+}
