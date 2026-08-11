@@ -118,3 +118,18 @@ rewriting all 42 in one pass and verifying on disk.
 A partial file is indistinguishable from a live agent's in-progress chunk. Check
 that no agents are running before sweeping, or just leave partials alone: a
 re-run overwrites them anyway.
+
+## Budget: ~4.4% of a session per book
+
+Measured 2026-08-10 — **17 books = 74% of one session**.
+
+| Budget | Books |
+|---|---|
+| quarter session | 5–6 |
+| half session | 11–12 |
+| full session | 22–23 |
+
+Holds only for **five concurrent agents, one book each**. Degrades sharply otherwise:
+six-book batches at eight concurrent tripped the 600s watchdog and killed 6 of 10
+agents, and a killed agent burns budget while delivering nothing. Books range 23–48
+quotes; a round weighted toward 40+ quote books runs nearer 6% each.

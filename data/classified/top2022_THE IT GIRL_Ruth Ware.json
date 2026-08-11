@@ -1,0 +1,30 @@
+{
+  "sample_id": "top2022:THE IT GIRL|Ruth Ware",
+  "quotes": [
+    {"quote_id": "q07594", "bucket": "gnomic", "tense": "", "note": "CONTESTED: past-tense modals (might/would/could) but generalizes about books-in-general with no story-world referent, no character, nothing happening -- the 'argument by analogy' exception. Flagged rather than decided silently; if reread as event/past it is the flip-risk quote"},
+    {"quote_id": "q07595", "bucket": "gnomic", "tense": "", "note": "second-person universal, present tense"},
+    {"quote_id": "q07596", "bucket": "gnomic", "tense": "", "note": "reported proverb ('like my dad always used to say'); aphorism generalizes beyond story world, past-tense frame is attribution only"},
+    {"quote_id": "q07597", "bucket": "gnomic", "tense": "", "note": "imperative + aphorism ('that way madness lies'); no quotation marks"},
+    {"quote_id": "q07598", "bucket": "event", "tense": "present", "note": "specific character, specific moment"},
+    {"quote_id": "q07599", "bucket": "event", "tense": "present", "note": "opens with a gnomic clause about Facebook but resolves to a specific-character state ('they haven't seen or spoken to each other')"},
+    {"quote_id": "q07600", "bucket": "event", "tense": "past", "note": "named character (Hannah) at a specific moment; 'were shining' is subjunctive, not the narrating verb"},
+    {"quote_id": "q07601", "bucket": "unclear", "tense": "", "note": "verbless list with a specific story-world referent (April), so not gnomic, but no finite narrating verb fixes a tense; only verb is a conditional. Abstaining rather than guessing"},
+    {"quote_id": "q07602", "bucket": "event", "tense": "present", "note": "narrating-moment verb is present perfect ('she has done the same'); the past clause reports the prior event being reflected on"},
+    {"quote_id": "q07603", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; two-speaker exchange"},
+    {"quote_id": "q07604", "bucket": "event", "tense": "past", "note": "noun-phrase fragment but carries finite past verbs ('had bought', 'started') about a specific character"},
+    {"quote_id": "q07605", "bucket": "event", "tense": "past", "note": "free indirect thought, specific characters"},
+    {"quote_id": "q07606", "bucket": "dialogue", "tense": "", "note": "no quotation marks survived; classified on direct address (2nd person 'you're') + speech register"},
+    {"quote_id": "q07607", "bucket": "dialogue", "tense": "", "note": "no marks; first-person 'my/I' amid otherwise third-person narration, plus run-on spoken register -- signal used: person shift + register"},
+    {"quote_id": "q07608", "bucket": "gnomic", "tense": "", "note": "fragment"},
+    {"quote_id": "q07609", "bucket": "gnomic", "tense": "", "note": "second-person universal about parenthood; true outside the book"},
+    {"quote_id": "q07610", "bucket": "event", "tense": "present", "note": "specific character, specific moment"},
+    {"quote_id": "q07611", "bucket": "event", "tense": "present", "note": "specific-character state, present"},
+    {"quote_id": "q07612", "bucket": "event", "tense": "past", "note": "past-tense scene description of the story world"},
+    {"quote_id": "q07613", "bucket": "event", "tense": "present", "note": "named characters (Cathy, Hannah); embedded motto sits inside specific-character habitual narration"},
+    {"quote_id": "q07614", "bucket": "event", "tense": "present", "note": "specific moment; the simile does not generalize the clause"},
+    {"quote_id": "q07615", "bucket": "event", "tense": "present", "note": "specific-character state, present perfect"},
+    {"quote_id": "q07616", "bucket": "event", "tense": "present", "note": "fails quotation-mark majority (2 spoken words vs. more narration), so the dialogue-tag rule applies: 'Hannah says' -> present"}
+  ],
+  "narrating_situation": "dual",
+  "agent_note": "Third-person throughout. Two narrating positions coexist: a simultaneous present strand around Hannah (q07598, 07610, 07611, 07613, 07614, 07615, 07616) and a retrospective past strand set in the college timeline with April, John Neville, term starting, formal events (q07600, 07604, 07605, 07612). Not diary/epistolary -- a then/now dual-timeline split, so the past minority is structural rather than noise. 13 event quotes: 9 present / 4 past (69% present), which falls short of the 85% present bar and even the 70-85% 'present + recollection strand' row; the past strand is a separate narrated timeline, not memory inside the present strand, so this is the 'mixed -- strand' shape. Gnomic bucket is heavy (6/23) exactly as the methodology predicts for a quotable, bookish novel. q07594 is the one judgment I would want audited: past-tense generalization about how books work, kept gnomic under the no-story-world-referent exception; flipping it to event/past would make the split 5 past / 9 present."
+}

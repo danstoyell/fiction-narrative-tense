@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2022:FAIRY TALE|Stephen King",
+  "quotes": [
+    {"quote_id": "q06868", "bucket": "gnomic", "tense": "", "note": "aphorism, present-tense generalization beyond story world; no quote marks, no vocative"},
+    {"quote_id": "q06869", "bucket": "gnomic", "tense": "", "note": "second-person universal + proverb"},
+    {"quote_id": "q06870", "bucket": "gnomic", "tense": "", "note": "second-person universal; tag question hints at speech but no marks/vocative to confirm"},
+    {"quote_id": "q06871", "bucket": "gnomic", "tense": "", "note": "generalization beyond story world despite 'I think' frame"},
+    {"quote_id": "q06872", "bucket": "dialogue", "tense": "", "note": "no quote marks survived; signal used = vocative direct address ('Charlie')"},
+    {"quote_id": "q06873", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q06874", "bucket": "gnomic", "tense": "", "note": "essayistic generalization"},
+    {"quote_id": "q06875", "bucket": "gnomic", "tense": "", "note": "proverb"},
+    {"quote_id": "q06876", "bucket": "gnomic", "tense": "", "note": "essayistic second-person reflection; names Gogmagog but the argument generalizes beyond the story world"},
+    {"quote_id": "q06877", "bucket": "event", "tense": "present", "note": "narratorial habitual present about a specific character ('to me'); does not generalize beyond story world -- flip risk vs gnomic"},
+    {"quote_id": "q06878", "bucket": "gnomic", "tense": "", "note": "aphorism payload under a narrating-present frame ('Here is something I learned in Empis') -- retrospective-narrator signal"},
+    {"quote_id": "q06879", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q06880", "bucket": "event", "tense": "past", "note": "past state of specific character ('My old resentments were mostly gone') with gnomic coda; lead clause governs"},
+    {"quote_id": "q06881", "bucket": "event", "tense": "present", "note": "first-person present desire at a specific moment; no marks/vocative -- may be unmarked speech or direct thought; highest flip risk"},
+    {"quote_id": "q06882", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q06883", "bucket": "gnomic", "tense": "", "note": "embedded Latin tag glossed into an aphorism; English-majority so not paratext; possibly dialogue"},
+    {"quote_id": "q06884", "bucket": "gnomic", "tense": "", "note": "simile aphorism"},
+    {"quote_id": "q06885", "bucket": "gnomic", "tense": "", "note": "attributed external aphorism (Franklin) -- borderline paratext/epigraph, flagged not decided silently"},
+    {"quote_id": "q06886", "bucket": "gnomic", "tense": "", "note": "first-person-plural universal"},
+    {"quote_id": "q06887", "bucket": "event", "tense": "past", "note": "fails dialogue test: ~26 narrating words vs ~15 inside marks; dialogue-tag rule applies; 'I thought', 'I shook my head'"},
+    {"quote_id": "q06888", "bucket": "paratext", "tense": "", "note": "epigraph with attribution ('--Blue Fairy')"},
+    {"quote_id": "q06889", "bucket": "event", "tense": "past", "note": "past-tense narration about a specific character ('wasn't')"},
+    {"quote_id": "q06890", "bucket": "gnomic", "tense": "", "note": "fragment"},
+    {"quote_id": "q06891", "bucket": "event", "tense": "past", "note": "retrospective narrator ('Did I know before then', 'What I knew was') with a narrating-present aside"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Heavily aphoristic page-1 harvest: 16 of 24 gnomic. Only 6 event quotes (4 past / 2 present). Retrospective first-person is well evidenced by q06887, q06891, q06880 and the 'Here is something I learned in Empis' frame in q06878. Both present event quotes (q06877, q06881) are narratorial/interior present inside that retrospective frame rather than simultaneous narration, so the 67% past split understates the retrospective read; narrating_situation judged holistically, not from the counts. Quotation marks survived in only q06887 and q06888, so unmarked-speech candidates were judged by vocative/direct address (q06872 = dialogue) and abstained from elsewhere."
+}

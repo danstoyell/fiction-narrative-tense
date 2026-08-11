@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2019:5342",
+  "quotes": [
+    {"quote_id": "q03497", "bucket": "gnomic", "tense": "", "note": "present-tense statistical generalization about the real world, no story-world referent"},
+    {"quote_id": "q03498", "bucket": "gnomic", "tense": "", "note": "truncated at head; present-tense generalization about America, beyond story world"},
+    {"quote_id": "q03499", "bucket": "event", "tense": "present", "note": "specific narrator state at a specific moment ('Once again, I am thankful')"},
+    {"quote_id": "q03500", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic generalization; trailing 'Otis' is a truncation artifact"},
+    {"quote_id": "q03501", "bucket": "gnomic", "tense": "", "note": "second-person universal / imperative"},
+    {"quote_id": "q03502", "bucket": "gnomic", "tense": "", "note": "universal rhetorical question, 'how many of us'"},
+    {"quote_id": "q03503", "bucket": "event", "tense": "past", "note": "first-person recounting of a specific night; no quotation marks"},
+    {"quote_id": "q03504", "bucket": "event", "tense": "past", "note": "past-tense iterative exposition/summary about the story world's expert witnesses -- NOT gnomic per the past-tense rule; flip-risk quote"},
+    {"quote_id": "q03505", "bucket": "event", "tense": "present", "note": "specific narrator at a specific story-moment"},
+    {"quote_id": "q03506", "bucket": "event", "tense": "past", "note": "truncated fragment but carries a finite past verb about a specific character ('When I asked Lonnie')"},
+    {"quote_id": "q03507", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism; 'As I told you before' is a speech marker with no quotation marks -- could be unmarked dialogue, non-diagnostic either way"},
+    {"quote_id": "q03508", "bucket": "gnomic", "tense": "", "note": "universal rhetorical question about the death penalty"},
+    {"quote_id": "q03509", "bucket": "event", "tense": "past", "note": "truncated fragment; specific character at a specific moment"},
+    {"quote_id": "q03510", "bucket": "event", "tense": "past", "note": "specific named character, past"},
+    {"quote_id": "q03511", "bucket": "event", "tense": "present", "note": "'Such is the nature of MY daily reading' -- about the narrator specifically, not beyond the story world"},
+    {"quote_id": "q03512", "bucket": "event", "tense": "present", "note": "narrator's own caseload; no quotation marks or vocatives, read as narration"},
+    {"quote_id": "q03513", "bucket": "event", "tense": "present", "note": "present perfect, specific narrator and a specific 'her'"},
+    {"quote_id": "q03514", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about the justice system beyond the story world"},
+    {"quote_id": "q03515", "bucket": "gnomic", "tense": "", "note": "universal 'we', present-tense reflection"},
+    {"quote_id": "q03516", "bucket": "event", "tense": "past", "note": "past-tense exposition introducing a specific character; truncated"},
+    {"quote_id": "q03517", "bucket": "event", "tense": "present", "note": "habitual present but about the narrator's own attitude -- specific, not beyond story world"},
+    {"quote_id": "q03518", "bucket": "event", "tense": "present", "note": "present-tense narration of a specific character in scene; quotation-mark minority so not dialogue; embeds two past backstory sentences"},
+    {"quote_id": "q03519", "bucket": "event", "tense": "present", "note": "present-tense courtroom scene frame; embedded scientific exposition is subordinate to the specific moment"},
+    {"quote_id": "q03520", "bucket": "gnomic", "tense": "", "note": "general scientific fact, present, no story-world referent; possibly unmarked expert testimony"},
+    {"quote_id": "q03521", "bucket": "event", "tense": "present", "note": "specific object at a specific moment in scene"}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "First-person present-tense narration by a lawyer-narrator, with a past strand of case history/backstory exposition (q03504, q03516) and recounted incidents (q03503, q03506, q03509, q03510). 15 event / 10 gnomic / 0 dialogue / 0 unclear; 9 present / 6 past (60% present). Heavy gnomic load is characteristic of this Goodreads page -- the aphoristic quotes are essayistic commentary on the US justice system, present-tense and beyond the story world. Zero quotes carried a quotation-mark majority, so no dialogue bucket; signal used for the borderline cases was quotation-mark absence plus vocative/direct-address checks (q03507, q03520 flagged as possible unmarked speech). Split is 60/40 with a structural explanation (memory/backstory + case exposition), but does not clear the 70% present bar -- likely SPLIT_REVIEW."
+}
