@@ -31,6 +31,13 @@ The one past-tense case that stays gnomic is **argument by analogy with no story
 
 **Precedence when rules collide.** Quotation-mark majority wins over the dialogue-tag rule: a long speech carrying one "he shook his head" beat is `dialogue`, not event-narration. Apply the dialogue test first, the tag rule only to quotes that fail it.
 
+**Near 50%, prefer `event`.** The split decides whether a quote yields a tense-bearing
+`event` or only a `beat_tense`, so it is load-bearing. One observed quote came out 52/48
+speech. When the margin is within ~10 points, treat the quote as `event` — narration that
+substantial is evidence, and the tie-break should not silently discard it. Goodreads also
+clips quotes mid-pair, leaving a closing mark with no opener; a lone unmatched mark is not
+a quoted span for counting purposes.
+
 A dialogue tag counts as event-narration **only in quotes that fail the dialogue test**: `He hesitated. "You don't deserve it," he said aloud, and turned back to the window.` → past — the narration outweighs the speech. A quote that is mostly speech stays `dialogue` however its tag is tensed; `"Some stories," she says` is 4 spoken words to 2 narrating ones and is therefore **`dialogue`, not event/present**. An earlier version of this file used that string as an event/present example, contradicting the precedence rule directly above it; an agent caught the contradiction mid-run.
 
 **4. Classify tense of each event-narration quote:** past / present.
@@ -64,10 +71,24 @@ corroborate or contradict `narrating_situation`:
 Thresholds and labels are unchanged, so books classified before and after this field was
 added stay directly comparable on the event-only basis.
 
-**Known limitation, unmeasured.** The precedence rule already routes narration-heavy quotes
-to `event`, which keeps their tags. So `beat_tense` fires only on speech-dominant quotes —
-by construction the ones carrying the *least* narration. How much evidence it actually
-recovers beyond what precedence already captures has not been measured.
+**Measured on a dialogue-heavy book (*A Calamity of Souls*, 11 dialogue quotes).** The
+suspicion above is broadly correct: `beat_tense` recovered **no quote that precedence would
+have missed by a wide margin**. Five of eleven dialogue quotes carried a beat (5 past, 0
+present); only two were substantive, and the richest of those passed the quotation-mark test
+at **52%** — one sentence away from being routed to `event` anyway. The rules are close to
+redundant rather than complementary.
+
+Two things it *does* earn:
+
+* **Withholding, not just recovering.** Six markless oratorical quotes correctly scored
+  `none`. A naive "dialogue implies a tag" assumption would have manufactured past evidence
+  there; a regex would have found nothing either way.
+* **Corroborating `narrating_situation` on books below the event floor.** That book abstains
+  at 4 event quotes, but 5 past beats independently confirm `retrospective`. The tense label
+  stays absent; the structural read becomes well-supported.
+
+So the field's value is confidence and discipline, not extra tense evidence. Weigh that
+against backfill cost before committing.
 
 **5. Apply thresholds — asymmetric by design.**
 
