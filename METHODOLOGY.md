@@ -50,6 +50,25 @@ sit *inside* a character's speech, where it is that character narrating and must
 A ten-verb regex over the corpus missed narration outside the quotation marks on **49%** of
 mark-bearing dialogue quotes, and produced false positives wherever marks were unbalanced.
 
+**How `beat_tense` is consumed.** Beats form a **separate tally** and do **not** enter the
+event-narration ratio in §5. Pooling them would mix evidence of very different weight: an
+event quote is a whole narrated passage, a beat is often a bare "he said". Beats instead
+corroborate or contradict `narrating_situation`:
+
+* beats agree with the structural read → confidence `high`
+* beats contradict it (e.g. `simultaneous`, but beats run 8 past / 1 present) → **flag for
+  review**. This is the *Project Hail Mary* signature: a conversational past strand that
+  event counts cannot see.
+* no beats → no information, not evidence either way
+
+Thresholds and labels are unchanged, so books classified before and after this field was
+added stay directly comparable on the event-only basis.
+
+**Known limitation, unmeasured.** The precedence rule already routes narration-heavy quotes
+to `event`, which keeps their tags. So `beat_tense` fires only on speech-dominant quotes —
+by construction the ones carrying the *least* narration. How much evidence it actually
+recovers beyond what precedence already captures has not been measured.
+
 **5. Apply thresholds — asymmetric by design.**
 
 | Outcome | Requirement |
