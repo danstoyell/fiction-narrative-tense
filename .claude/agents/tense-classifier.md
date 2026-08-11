@@ -35,6 +35,13 @@ print(json.dumps([{'quote_id':r['quote_id'],'text':r['quote_text']} for r in rs]
 
 **Only `event` quotes get a tense** (`past` or `present`). Leave `tense` empty for every other bucket.
 
+**Every `dialogue` quote also gets `beat_tense`** (`past` | `present` | `none`). A speech
+quote usually carries narration the *narrator* speaks -- a tag (`he said`, `she opined`,
+`Wilson thinks`) or an action beat (`He patted the stock of Reel's rifle`). That is tense
+evidence and is otherwise discarded with the speech. Judge only narration the narrator
+speaks: a tag inside a character's own speech is that character talking, so `none`. The
+speech CONTENT never counts -- "I am hungry" in a past-tense novel is not present evidence.
+
 ### The bucket distinction that matters most
 
 The test is **specificity, not tense**.

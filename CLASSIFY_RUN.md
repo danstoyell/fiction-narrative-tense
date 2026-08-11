@@ -133,3 +133,27 @@ Holds only for **five concurrent agents, one book each**. Degrades sharply other
 six-book batches at eight concurrent tripped the 600s watchdog and killed 6 of 10
 agents, and a killed agent burns budget while delivering nothing. Books range 23–48
 quotes; a round weighted toward 40+ quote books runs nearer 6% each.
+
+## PENDING: beat_tense backfill (deferred, not abandoned)
+
+`beat_tense` was added to the spec on 2026-08-10 as a required field on every
+`dialogue` quote. Books classified **before** that date lack it.
+
+**Dan has confirmed the backfill will happen** — do not treat this as a permitted
+methodological split, and do not analyse `beat_tense` as a partial sub-study.
+Until the backfill is done, any tense figure must come from `event` quotes only,
+exactly as before, so the corpus stays internally consistent.
+
+**Scope:** 131 books, 1,093 dialogue quotes, 8.3 per book, 26% of all quotes.
+
+**Approach:** a focused second pass reading only each book's `dialogue` quotes and
+adding `beat_tense` — cheaper than re-classifying, since buckets and event tenses
+are already settled. Measure one book before quoting a per-book cost.
+
+**Why the field exists:** narration inside a speech quote (a tag, or an action beat)
+is the narrator's own words and is tense evidence; bucketing it `dialogue` threw it
+away. The loss is not random — it hits whichever strand happens to be dialogue-heavy.
+*Project Hail Mary* read 96% present on event quotes and ~82% once beats counted;
+*Wish You Were Here* lost the opposite way. A regex cannot do this job: it missed
+narration outside the marks on 49% of mark-bearing dialogue quotes and false-positived
+wherever quote marks were unbalanced.

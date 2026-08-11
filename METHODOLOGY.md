@@ -35,6 +35,21 @@ A dialogue tag counts as event-narration **only in quotes that fail the dialogue
 
 **4. Classify tense of each event-narration quote:** past / present.
 
+**4b. Record `beat_tense` on every dialogue quote.** A quote bucketed `dialogue` still
+usually contains narration *the narrator speaks* -- a tag or an action beat. That narration
+is diagnostic and was previously discarded along with the speech.
+
+This matters because the loss is not random: it hits whichever strand happens to be
+dialogue-heavy. *Project Hail Mary*'s past Earth strand is conversational, so the book read
+96% present on event quotes and ~82% once beats were counted. *Wish You Were Here* lost the
+opposite way -- all nine of its dialogue quotes carried present tags, none counted.
+
+Beats must be judged by a reader, not extracted by pattern. The tag-verb class in fiction is
+open (`opined`, `drawled`, `ventured`), many beats are not speech verbs at all, and a tag can
+sit *inside* a character's speech, where it is that character narrating and must not count.
+A ten-verb regex over the corpus missed narration outside the quotation marks on **49%** of
+mark-bearing dialogue quotes, and produced false positives wherever marks were unbalanced.
+
 **5. Apply thresholds — asymmetric by design.**
 
 | Outcome | Requirement |
