@@ -26,11 +26,14 @@ ERA_SPLIT = 2020          # first year of the later era
 # Two frames. 2016-2025 is the top 30 titles per year; 1996-2015 is only the top 5,
 # so it is a narrower, more famous slice and is NOT pooled into the headline test.
 SOURCES = [
-    dict(key="top30", books="books_topn.csv", quotes="quotes_topn.csv",
+    dict(key="modern", books=["books_topn.csv"], quotes=["quotes_topn.csv"],
          dirs=["classified"], lo=2016, hi=2025),
-    dict(key="top5", books="books_topn5_1996_2016.csv", quotes="quotes_topn5_1996_2016.csv",
-         dirs=["classified_topn5_1996_2015", "classified_topn5_1996_2015_next20"],
-         lo=1996, hi=2015),
+    # Directories are globbed, not listed: batches land in new folders as labelling
+    # proceeds, and an earlier version of this file silently dropped two of them.
+    dict(key="hist",
+         books=["books_topn5_1996_2016.csv", "books_topn5_more_1996_2015.csv"],
+         quotes=["quotes_topn5_1996_2016.csv", "quotes_topn5_more_1996_2015.csv"],
+         dirs=["classified_topn5_*"], lo=1996, hi=2015),
 ]
 BUCKETS5 = [(1996, 2000), (2001, 2005), (2006, 2010), (2011, 2015)]
 
@@ -58,26 +61,39 @@ def load():
     """Every classified book from both frames, each tagged with the frame it came from."""
     rows, missing = [], 0
     frame_n = collections.Counter()
+    skipped = collections.Counter()
     for src in SOURCES:
-        books = {r["sample_id"]: r for r in csv.DictReader(
-            open(os.path.join(DATA, src["books"]), encoding="utf-8"))}
-        qtext = {r["quote_id"]: r["quote_text"] for r in csv.DictReader(
-            open(os.path.join(DATA, src["quotes"]), encoding="utf-8"))}
+        books = {}
+        for f in src["books"]:
+            for r in csv.DictReader(open(os.path.join(DATA, f), encoding="utf-8")):
+                books[r["sample_id"]] = r
+        qtext = {}
+        for f in src["quotes"]:
+            for r in csv.DictReader(open(os.path.join(DATA, f), encoding="utf-8")):
+                qtext[r["quote_id"]] = r["quote_text"]
         for sid in books:
             y = sid[3:7]
             if y.isdigit() and src["lo"] <= int(y) <= src["hi"]:
                 frame_n[src["key"]] += 1
         seen = set()
+        paths = []
         for sub in src["dirs"]:
-            for p in sorted(glob.glob(os.path.join(DATA, sub, "*.json"))):
+            paths += sorted(glob.glob(os.path.join(DATA, sub, "*.json")))
+        for p in sorted(set(paths)):
+            if True:
                 d = json.load(open(p, encoding="utf-8"))
                 sid = d.get("sample_id", "")
                 bk = books.get(sid)
-                if not bk or sid in seen:
-                    continue            # pilot leftovers, or a duplicate file
+                if sid in seen:
+                    skipped[src["key"] + ":duplicate"] += 1
+                    continue
+                if not bk:
+                    skipped[src["key"] + ":no-book-row"] += 1
+                    continue
                 seen.add(sid)
                 year = int(sid[3:7])
                 if not (src["lo"] <= year <= src["hi"]):
+                    skipped[src["key"] + ":out-of-range"] += 1
                     continue
                 qs = d.get("quotes", [])
                 e_past, e_pres, b_past, b_pres = tally(qs, "include")
@@ -111,13 +127,17 @@ def load():
                     "q": quotes,
                 })
     rows.sort(key=lambda r: (r["year"], r["title"]))
-    return rows, missing, dict(frame_n)
+    # Never drop a classified book without saying so.
+    for k, v in sorted(skipped.items()):
+        if not k.endswith(":no-book-row") or v:
+            print(f"  NOTE: skipped {v} classified file(s) [{k}]")
+    return rows, missing, dict(frame_n), dict(skipped)
 
 
 def periods(rows):
     """Chart/table rows: four 5-year buckets, then each recent year on its own."""
-    order = [(f"{lo}-{hi}", lo, hi, f"{lo}-{str(hi)[2:]}", "top5") for lo, hi in BUCKETS5]
-    order += [(str(y), y, y, f"'{str(y)[2:]}", "top30") for y in YEARS]
+    order = [(f"{lo}-{hi}", lo, hi, f"{lo}-{str(hi)[2:]}", "hist") for lo, hi in BUCKETS5]
+    order += [(str(y), y, y, f"'{str(y)[2:]}", "modern") for y in YEARS]
     by = collections.defaultdict(collections.Counter)
     for r in rows:
         by[r["period"]][r["label"]] += 1
@@ -158,7 +178,7 @@ def trend(rows, frame=None):
 
 def era(rows):
     """Later vs earlier within the consistent top-30 frame."""
-    sel = [r for r in rows if r["frame"] == "top30"
+    sel = [r for r in rows if r["frame"] == "modern"
            and r["label"] in ("PAST", "PRESENT", "OTHER")]
     def tot(g):
         n = len(g); return sum(1 for r in g if r["label"] == "PRESENT"), n
@@ -174,8 +194,8 @@ def era(rows):
 def nonmonotonic(per):
     """A pre-2020 point that outranks later ones -- the page's own honesty check."""
     pct = lambda r: (r["pres"] / r["n"]) if r["n"] else 0
-    early = [r for r in per if r["frame"] == "top30" and float(r["mid"]) < ERA_SPLIT]
-    late = [r for r in per if r["frame"] == "top30" and float(r["mid"]) >= ERA_SPLIT]
+    early = [r for r in per if r["frame"] == "modern" and float(r["mid"]) < ERA_SPLIT]
+    late = [r for r in per if r["frame"] == "modern" and float(r["mid"]) >= ERA_SPLIT]
     if not early or not late:
         return None, [], pct
     hi = max(early, key=pct)
@@ -189,13 +209,14 @@ def mark_survival():
     lo, hi = 100.0, 0.0
     for src in SOURCES:
         by = collections.defaultdict(lambda: [0, 0])
-        for r in csv.DictReader(open(os.path.join(DATA, src["quotes"]), encoding="utf-8")):
-            y = r["sample_id"][3:7]
-            if not y.isdigit() or not (src["lo"] <= int(y) <= src["hi"]):
-                continue
-            by[y][1] += 1
-            if _re.search(r'[\u201c\u201d"]', r["quote_text"]):
-                by[y][0] += 1
+        for f in src["quotes"]:
+            for r in csv.DictReader(open(os.path.join(DATA, f), encoding="utf-8")):
+                y = r["sample_id"][3:7]
+                if not y.isdigit() or not (src["lo"] <= int(y) <= src["hi"]):
+                    continue
+                by[y][1] += 1
+                if _re.search(r'[\u201c\u201d"]', r["quote_text"]):
+                    by[y][0] += 1
         for m, t in by.values():
             if t:
                 lo = min(lo, 100 * m / t); hi = max(hi, 100 * m / t)
@@ -368,15 +389,19 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
     total_frame = sum(frame_n.values())
     below_txt = ", ".join(f"{r['y']} ({pct(r):.0%})" for r in below) or "no later point"
     swing = 0
-    recent = [r for r in per if r["frame"] == "top30"]
+    recent = [r for r in per if r["frame"] == "modern"]
     for i in range(1, len(recent)):
         if recent[i]["n"] and recent[i - 1]["n"]:
             swing = max(swing, abs(pct(recent[i]) - pct(recent[i - 1])))
     gn = gnomic_share(rows)
     hist_txt = (f"{hist['share']:.0%} present across {hist['n']} books"
                 if hist else "not enough labelled books")
-    n5 = frame_n.get("top5", 0)
-    n30 = frame_n.get("top30", 0)
+    n5 = frame_n.get("hist", 0)
+    n30 = frame_n.get("modern", 0)
+    hist_span = len({r["year"] for r in rows if r["frame"] == "hist"}) or 1
+    mod_span = len({r["year"] for r in rows if r["frame"] == "modern"}) or 1
+    hist_lbl = f"top {round(n5 / hist_span)} a year"
+    mod_lbl = f"top {round(n30 / mod_span)} a year"
 
     return f"""
 <div class="wrap wide">
@@ -405,12 +430,12 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
 <section>
   <div class="split">
     <div class="card">
-      <h3>1996&ndash;2015 &middot; top 5 a year</h3>
+      <h3>1996&ndash;2015 &middot; {hist_lbl}</h3>
       <div class="big" style="color:var(--present)">{hist['share']:.0%}</div>
       <p>present, across {hist['n']} labelled books</p>
     </div>
     <div class="card">
-      <h3>2016&ndash;2025 &middot; top 30 a year</h3>
+      <h3>2016&ndash;2025 &middot; {mod_lbl}</h3>
       <div class="big" style="color:var(--present)">{st['pres'] / st['n']:.0%}</div>
       <p>present, across {st['n']} labelled books</p>
     </div>
@@ -500,7 +525,7 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
     The two-era split reads p&nbsp;=&nbsp;{era_p:.3f}, but its {ERA_SPLIT - 1}/{ERA_SPLIT}
     boundary was drawn after seeing the data, so lead with the trend.</p>
     <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
-    come from the top {5} titles of each year against the top {30} from 2016 on, so the early
+    come from the {hist_lbl} of each year against the {mod_lbl} from 2016 on, so the early
     slice is a smaller, more famous set of books. A difference between the eras could be a
     difference between those slices. Do not read the full span as one series.</p>
     <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
@@ -574,8 +599,8 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
 </section>
 
 <footer>
-  Frame: NYT Hardcover Fiction &middot; top 30 titles a year 2016&ndash;2025 ({n30} books),
-  top 5 a year 1996&ndash;2015 ({n5} books)<br>
+  Frame: NYT Hardcover Fiction &middot; {mod_lbl} 2016&ndash;2025 ({n30} books),
+  {hist_lbl} 1996&ndash;2015 ({n5} books)<br>
   Text: Goodreads pull-quotes &middot; Labels: base narration from narrating_situation; event
   quotes and dialogue beats pooled for ratio and confidence<br>
   {cls} classified of {total_frame} in frame &middot; {st['n'] + (hist['n'] if hist else 0)}
@@ -591,6 +616,7 @@ const esc = s => String(s).replace(/[&<>"]/g, c =>
 const BUCKETS = ["event","dialogue","gnomic","paratext","unclear"];
 
 function drawChart(A){
+  const HISTLBL=window.__HISTLBL||"early", MODLBL=window.__MODLBL||"recent";
   const W=980,H=400,L=52,R=18,T=18,B=52, iw=W-L-R, ih=H-T-B;
   // Points sit at the midpoint of the span each period covers, on a real time axis,
   // so a five-year bucket is five times as far from its neighbour as a single year is.
@@ -636,7 +662,7 @@ function drawChart(A){
     return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
   document.getElementById("tbody").innerHTML=A.map(d=>`
     <tr><td>${d.y}</td>
-    <td style="color:var(--faint)">${d.frame==="top5"?"top 5":"top 30"}</td>
+    <td style="color:var(--faint)">${d.frame==="hist"?HISTLBL:MODLBL}</td>
     <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
     <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
     <td>${d.n?ci(d.pPres,d.n):"—"}</td>
@@ -793,7 +819,8 @@ function initExplorer(BOOKS){
   render();
 }
 
-function init(payload){ drawChart(payload.years); initExplorer(payload.books); }
+function init(payload){ window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
+  drawChart(payload.years); initExplorer(payload.books); }
 """
 
 EMBEDDED_BOOT = """
@@ -816,10 +843,10 @@ fetch("data/report_data.json")
 
 
 def main():
-    rows, missing, frame_n = load()
+    rows, missing, frame_n, skipped = load()
     per = periods(rows)
-    st = trend(rows, "top30")
-    hist = trend(rows, "top5")
+    st = trend(rows, "modern")
+    hist = trend(rows, "hist")
     e = era(rows)
     nq = sum(len(r["q"]) for r in rows)
     built = datetime.date.today().strftime("%d %b %Y")
@@ -827,7 +854,9 @@ def main():
     global era_p
     era_p = e["p"]
     html_body = body(rows, per, st, hist, frame_n, nq, missing, built)
-    payload = {"years": per, "books": rows}
+    payload = {"years": per, "books": rows,
+               "histLbl": f"top {round(frame_n.get('hist',0) / max(1,len({r['year'] for r in rows if r['frame']=='hist'})))}",
+               "modLbl": f"top {round(frame_n.get('modern',0) / max(1,len({r['year'] for r in rows if r['frame']=='modern'})))}"}
     blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
 
     def page(title, boot, data_script=""):
