@@ -1,0 +1,148 @@
+{
+ "sample_id": "top2018:5997",
+ "quotes": [
+  {
+   "quote_id": "q03055",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific attribution to Greer's belief."
+  },
+  {
+   "quote_id": "q03056",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific encounter and its immediate perception."
+  },
+  {
+   "quote_id": "q03057",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-world setting exposition about Nantucket."
+  },
+  {
+   "quote_id": "q03058",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific character's concluded state."
+  },
+  {
+   "quote_id": "q03059",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Conversational address and collective declaration."
+  },
+  {
+   "quote_id": "q03060",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General statement about euthanasia."
+  },
+  {
+   "quote_id": "q03061",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Aphoristic maxim."
+  },
+  {
+   "quote_id": "q03062",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Aphoristic generalization."
+  },
+  {
+   "quote_id": "q03063",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Toast addressed to others."
+  },
+  {
+   "quote_id": "q03064",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Celeste's story-specific thoughts and bodily situation."
+  },
+  {
+   "quote_id": "q03065",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General maxim."
+  },
+  {
+   "quote_id": "q03066",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Celeste's immediate thought and specific situation."
+  },
+  {
+   "quote_id": "q03067",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific characters' desires and routine."
+  },
+  {
+   "quote_id": "q03068",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific sequential action; the final line is embedded writing."
+  },
+  {
+   "quote_id": "q03069",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unattributed first-person assertion without sufficient speech or story context."
+  },
+  {
+   "quote_id": "q03070",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific setting description and current scene details."
+  },
+  {
+   "quote_id": "q03071",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narration substantially outweighs the brief spoken reply."
+  },
+  {
+   "quote_id": "q03072",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific character's reading activities over a week."
+  },
+  {
+   "quote_id": "q03073",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past biographical exposition about Robin."
+  },
+  {
+   "quote_id": "q03074",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific reflection and relationship state."
+  },
+  {
+   "quote_id": "q03075",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct conversational question and address."
+  },
+  {
+   "quote_id": "q03076",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General maxim."
+  },
+  {
+   "quote_id": "q03077",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalized rhetorical statement with no story-world referent."
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "Event narration is overwhelmingly present tense (13 present, 1 past); the lone past passage is biographical backstory."
+}

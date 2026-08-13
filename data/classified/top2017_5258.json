@@ -47,7 +47,8 @@
    "quote_id": "q02010",
    "bucket": "dialogue",
    "tense": "",
-   "note": "no quote marks; vocative 'Karin' + deictic 'this bottle of water on the table' -> speech"
+   "note": "no quote marks; vocative 'Karin' + deictic 'this bottle of water on the table' -> speech",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q02011",
@@ -101,7 +102,8 @@
    "quote_id": "q02019",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation marks, speech majority, tag 'he said'"
+   "note": "quotation marks, speech majority, tag 'he said'",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q02020",
@@ -131,7 +133,8 @@
    "quote_id": "q02024",
    "bucket": "dialogue",
    "tense": "",
-   "note": "attributed to a named character by dash byline ('- Leo Mannheimer')"
+   "note": "attributed to a named character by dash byline ('- Leo Mannheimer')",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q02025",

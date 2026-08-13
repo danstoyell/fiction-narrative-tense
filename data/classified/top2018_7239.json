@@ -1,0 +1,162 @@
+{
+ "sample_id": "top2018:7239",
+ "quotes": [
+  {
+   "quote_id": "q02341",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02342",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02343",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02344",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02345",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02346",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02347",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02348",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02349",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02350",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02351",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02352",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02353",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific observation is framed as Kya's thought."
+  },
+  {
+   "quote_id": "q02354",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02355",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02356",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Verse is explicitly introduced as whispered by a character."
+  },
+  {
+   "quote_id": "q02357",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02358",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02359",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02360",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unframed first-person verse provides no affirmative evidence of character speech or story context."
+  },
+  {
+   "quote_id": "q02361",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Vocative spoken-address framing; no narration beat."
+  },
+  {
+   "quote_id": "q02362",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02363",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unframed verse lacks a story-specific referent or affirmative speech evidence."
+  },
+  {
+   "quote_id": "q02364",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past story narration controls the passage despite its final generalizing sentence."
+  },
+  {
+   "quote_id": "q02365",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Event narration is predominantly past; one present event quote is a character-specific observation framed as Kya's thought. Two unframed verse excerpts are left unclear."
+}

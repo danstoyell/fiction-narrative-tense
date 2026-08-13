@@ -1,0 +1,300 @@
+{
+ "sample_id": "top1996:1689",
+ "quotes": [
+  {
+   "quote_id": "q00083",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Dedication."
+  },
+  {
+   "quote_id": "q00084",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00085",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00086",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00087",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00088",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00089",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Dedication."
+  },
+  {
+   "quote_id": "q00090",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00091",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense story-world generalization."
+  },
+  {
+   "quote_id": "q00092",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00093",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense exposition."
+  },
+  {
+   "quote_id": "q00094",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense exposition."
+  },
+  {
+   "quote_id": "q00095",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00096",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00097",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00098",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00099",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00100",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00101",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00102",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00103",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense story-world generalization."
+  },
+  {
+   "quote_id": "q00104",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Clipped direct address."
+  },
+  {
+   "quote_id": "q00105",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00106",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00107",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00108",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00109",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00110",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00111",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00112",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00113",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00114",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00115",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00116",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00117",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00118",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00119",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00120",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00121",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00122",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unattributed imperative; speech versus maxim is unresolved."
+  },
+  {
+   "quote_id": "q00123",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00124",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00125",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Titled verse/epigraph-like passage."
+  },
+  {
+   "quote_id": "q00126",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00127",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00128",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00129",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unattributed second-person statement; speech versus narration is unresolved."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Event-narration evidence is consistently past tense; dialogue beats are also past where present."
+}

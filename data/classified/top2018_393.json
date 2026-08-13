@@ -12,7 +12,7 @@
     {"quote_id": "q03164", "bucket": "unclear", "tense": "", "note": "three-way ambiguous and roughly evenly split: past story-world clause ('It was probably a function of getting older') vs present-tense universal ('we all become exaggerated versions of ourselves'), and the trailing comma suggests a dialogue tag was truncated away. Abstaining."},
     {"quote_id": "q03165", "bucket": "event", "tense": "past", "note": "opens with a present-tense generalization but the payoff clause 'Alone it was hard as fuck' applies it to the narrator's own past situation"},
     {"quote_id": "q03166", "bucket": "event", "tense": "past", "note": "truncated opening; specific scene at the parents' dining room table"},
-    {"quote_id": "q03167", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; the 'she said' / 'I smiled and said' beats are far outweighed by speech"},
+    {"quote_id": "q03167", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "quotation-mark majority; the 'she said' / 'I smiled and said' beats are far outweighed by speech"},
     {"quote_id": "q03168", "bucket": "event", "tense": "past", "note": "short but a finite past verb about the narrator's own state"},
     {"quote_id": "q03169", "bucket": "event", "tense": "past", "note": ""},
     {"quote_id": "q03170", "bucket": "event", "tense": "present", "note": "FLIP RISK. Present/present-perfect first-person self-description ('I've always considered myself lucky', 'a bonus has been'). Specific to the speaker rather than universal, so event by the specificity test, but it is a standing state and the woodworking reference plus chatty rhetorical questions suggest either a second POV narrator or unmarked speech."},

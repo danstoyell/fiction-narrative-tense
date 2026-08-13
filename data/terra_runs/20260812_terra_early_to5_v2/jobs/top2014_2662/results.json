@@ -1,0 +1,560 @@
+{
+  "sample_id": "top2014:2662",
+  "quotes": [
+    {
+      "quote_id": "q02162",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02163",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02164",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02165",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02166",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02167",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02168",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02169",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02170",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02171",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02172",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02173",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02174",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02175",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02176",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02177",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02178",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02179",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02180",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02181",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02182",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02183",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02184",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02185",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02186",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02187",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02188",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02189",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02190",
+      "bucket": "paratext",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02191",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02192",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02193",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02194",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02195",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02196",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02197",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "present",
+      "note": ""
+    },
+    {
+      "quote_id": "q02198",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02199",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02200",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02201",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02202",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02203",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02204",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02205",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02206",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02207",
+      "bucket": "paratext",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02208",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "present",
+      "note": ""
+    },
+    {
+      "quote_id": "q02209",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02210",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02211",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02212",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02213",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02214",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02215",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02216",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02217",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02218",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02219",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02220",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02221",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02222",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02223",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02224",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02225",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02226",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02227",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02228",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02229",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02230",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02231",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02232",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02233",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02234",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02235",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02236",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02237",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02238",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02239",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02240",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "dual",
+  "agent_note": ""
+}

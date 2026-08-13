@@ -35,7 +35,7 @@
     {"quote_id": "q03701", "bucket": "event", "tense": "present", "note": "specific narrator; present perfect 'has been constructed' anchors to now, trailing past clause is retrospective summary"},
     {"quote_id": "q03702", "bucket": "event", "tense": "past", "note": "clean past narration, specific narrator and parents"},
     {"quote_id": "q03703", "bucket": "event", "tense": "past", "note": "past narrating clause 'distracted me' with present-tense free indirect thought following"},
-    {"quote_id": "q03704", "bucket": "dialogue", "tense": "", "note": "quotation marks lost in extraction; trailing comma indicates truncated dialogue tag, plus conversational shop-talk register about clients"},
+    {"quote_id": "q03704", "bucket": "dialogue", "tense": "", "note": "quotation marks lost in extraction; trailing comma indicates truncated dialogue tag, plus conversational shop-talk register about clients", "beat_tense": "none"},
     {"quote_id": "q03705", "bucket": "gnomic", "tense": "", "note": "aphorism"},
     {"quote_id": "q03706", "bucket": "gnomic", "tense": "", "note": "general rhetorical question"},
     {"quote_id": "q03707", "bucket": "event", "tense": "present", "note": "specific narrator state at a specific moment"},

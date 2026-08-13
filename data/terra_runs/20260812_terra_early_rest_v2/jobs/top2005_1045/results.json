@@ -1,0 +1,38 @@
+{
+ "sample_id": "top2005:1045",
+ "quotes": [
+  {
+   "quote_id": "q01164",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01165",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01166",
+   "bucket": "paratext",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01167",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01168",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Speech or narration cannot be resolved from the excerpt."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

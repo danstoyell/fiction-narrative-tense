@@ -1,0 +1,139 @@
+{
+ "sample_id": "top2017:1527",
+ "quotes": [
+  {
+   "quote_id": "q02156",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense essayistic generalization about fanaticism; beyond story world"
+  },
+  {
+   "quote_id": "q02157",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense maxim; no quotation marks, no vocative"
+  },
+  {
+   "quote_id": "q02158",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense exposition about the story world (photography)"
+  },
+  {
+   "quote_id": "q02159",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority; dialect register"
+  },
+  {
+   "quote_id": "q02160",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense exposition/summary about period science; not gnomic (past)"
+  },
+  {
+   "quote_id": "q02161",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority with dialogue tag"
+  },
+  {
+   "quote_id": "q02162",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority; embedded first-person testimony"
+  },
+  {
+   "quote_id": "q02163",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "marginal: 12 quoted words vs 6 narrating; quotation-mark majority wins over the past-tense frame"
+  },
+  {
+   "quote_id": "q02164",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense moral universal ('no man...'); no quotation marks"
+  },
+  {
+   "quote_id": "q02165",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense maxim with generic 'he'"
+  },
+  {
+   "quote_id": "q02166",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "vocative 'Look boy' + speech tag; quotation-mark majority"
+  },
+  {
+   "quote_id": "q02167",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "exclamation + speech tag; quotation-mark majority"
+  },
+  {
+   "quote_id": "q02168",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "first-person reflection, no quotation marks, no tag, no vocative; interior monologue vs speech indeterminate. If interior monologue it is event/present"
+  },
+  {
+   "quote_id": "q02169",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense aphorism"
+  },
+  {
+   "quote_id": "q02170",
+   "bucket": "event",
+   "tense": "present",
+   "note": "embedded first-person document voice (cf. q02171 journal); present state of a specific person at a specific moment. Would be dialogue if spoken"
+  },
+  {
+   "quote_id": "q02171",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense scene/summary narration; embedded journal quotation is the minority"
+  },
+  {
+   "quote_id": "q02172",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense historical exposition about the story world"
+  },
+  {
+   "quote_id": "q02173",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense historical exposition about the story world"
+  },
+  {
+   "quote_id": "q02174",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority (~110 spoken words vs ~50 narrating) despite the campfire framing"
+  },
+  {
+   "quote_id": "q02175",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense iterative/summary narration of the badlands; not gnomic (past tense)"
+  },
+  {
+   "quote_id": "q02176",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character, specific moment"
+  },
+  {
+   "quote_id": "q02177",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense argumentative reflection; no quotation marks, register suggests speech - flagged either way it is not event"
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Prose. Third-person retrospective historical narration (US West, 1876) with heavy past-tense documentary exposition and embedded period quotations. Gnomic bucket is all present-tense maxims/essayistic argument; every past-tense generalization about the story world was kept as event/past per METHODOLOGY. Quotation marks survive on many quotes here, so the dialogue calls are mark-based; the unmarked ones were judged on register."
+}

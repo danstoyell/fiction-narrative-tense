@@ -1,0 +1,30 @@
+{
+  "sample_id": "top2016:4653",
+  "quotes": [
+    {"quote_id": "q01200", "bucket": "event", "tense": "past", "note": "future-in-past prolepsis ('would bear'); anchored in past narration about a specific story-world event, not a conditional"},
+    {"quote_id": "q01201", "bucket": "event", "tense": "past", "note": "specific character state"},
+    {"quote_id": "q01202", "bucket": "gnomic", "tense": "", "note": "fragment"},
+    {"quote_id": "q01203", "bucket": "event", "tense": "past", "note": "past-tense exposition about the story world (METHODOLOGY-named example)"},
+    {"quote_id": "q01204", "bucket": "event", "tense": "past", "note": "specific character's thought at a story-moment; embedded subjunctive 'if ISIS were'"},
+    {"quote_id": "q01205", "bucket": "event", "tense": "past", "note": "long past-tense historical exposition; trailing dialogue is a minority of words"},
+    {"quote_id": "q01206", "bucket": "paratext", "tense": "", "note": "acknowledgments -- author in first person about creating his character and thanking real people"},
+    {"quote_id": "q01207", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = first-person self-declaration ('I am a soldier of Allah') in a third-person book, speech register"},
+    {"quote_id": "q01208", "bucket": "unclear", "tense": "", "note": "present tense inside a past-tense book, no speech markers; probably dialogue but no evidence either way"},
+    {"quote_id": "q01209", "bucket": "gnomic", "tense": "", "note": "fragment"},
+    {"quote_id": "q01210", "bucket": "event", "tense": "past", "note": "specific characters, specific moment"},
+    {"quote_id": "q01211", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; Rousseau's speech with one 'He shook his head' beat"},
+    {"quote_id": "q01212", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic commentary on ISIS; reads as epigraph/quoted article rather than narration"},
+    {"quote_id": "q01213", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic argument; reads as epigraph/quoted article"},
+    {"quote_id": "q01214", "bucket": "event", "tense": "past", "note": "truncated but finite past verb, specific object at a specific moment"},
+    {"quote_id": "q01215", "bucket": "event", "tense": "past", "note": "free indirect discourse -- Saladin's conviction at a story-moment; 'All great empires eventually collapsed' is past-tense summary, not gnomic"},
+    {"quote_id": "q01216", "bucket": "dialogue", "tense": "", "note": "closing quotation mark; speech"},
+    {"quote_id": "q01217", "bucket": "event", "tense": "past", "note": "iterative/summary narration of the story world (METHODOLOGY-named example)"},
+    {"quote_id": "q01218", "bucket": "gnomic", "tense": "", "note": "FLAG -- the contested past-tense exception: argument by analogy (Switzerland/France) with no character and no event; METHODOLOGY-named"},
+    {"quote_id": "q01219", "bucket": "event", "tense": "past", "note": "past-tense historical exposition about the story world"},
+    {"quote_id": "q01220", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic generalization ('We civilized Westerners find this...'); no quotation marks, could be dialogue"},
+    {"quote_id": "q01221", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = second-person direct address plus 'people like me'"},
+    {"quote_id": "q01222", "bucket": "event", "tense": "past", "note": "past-tense exposition about the story world (METHODOLOGY-named example)"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Prose fiction (espionage thriller), third-person past. 11 event quotes, all past, zero present event-narration. The present-tense material splits cleanly into two non-diagnostic kinds: quoted/epigraphic essay prose about ISIS (q01212, q01213, q01220) and unmarked character speech (q01207, q01221). Goodreads has leaked the acknowledgments (q01206) onto this work page. q01218 is the Switzerland/France analogy METHODOLOGY names as the one genuinely contested past-tense gnomic; it is flagged rather than decided silently."
+}

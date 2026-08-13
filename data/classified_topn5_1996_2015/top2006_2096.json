@@ -1,0 +1,144 @@
+{
+ "sample_id": "top2006:2096",
+ "quotes": [
+  {
+   "quote_id": "q01404",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct conversational question and address."
+  },
+  {
+   "quote_id": "q01405",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct first-person address."
+  },
+  {
+   "quote_id": "q01406",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless generalization."
+  },
+  {
+   "quote_id": "q01407",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific first-person reflection."
+  },
+  {
+   "quote_id": "q01408",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted address to Mischa."
+  },
+  {
+   "quote_id": "q01409",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted advice addressed to Hannibal."
+  },
+  {
+   "quote_id": "q01410",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific description of Hannibal's archive/memory spaces."
+  },
+  {
+   "quote_id": "q01411",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past scene."
+  },
+  {
+   "quote_id": "q01412",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past state and actions."
+  },
+  {
+   "quote_id": "q01413",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific description of Hannibal's behavior."
+  },
+  {
+   "quote_id": "q01414",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Attributed verse/epigraph."
+  },
+  {
+   "quote_id": "q01415",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past scene."
+  },
+  {
+   "quote_id": "q01416",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past exposition and scene."
+  },
+  {
+   "quote_id": "q01417",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech predominates; past action beat."
+  },
+  {
+   "quote_id": "q01418",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past historical exposition about the story world."
+  },
+  {
+   "quote_id": "q01419",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past scene description."
+  },
+  {
+   "quote_id": "q01420",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific narrated description of bodies and their discovery."
+  },
+  {
+   "quote_id": "q01421",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past action sequence."
+  },
+  {
+   "quote_id": "q01422",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Clipped but past-tense narration."
+  },
+  {
+   "quote_id": "q01423",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Clipped past-tense narration."
+  },
+  {
+   "quote_id": "q01424",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Injected travel-service copy, not novel text."
+  },
+  {
+   "quote_id": "q01425",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Injected travel-service copy, not novel text."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Event narration is predominantly retrospective past tense, with three present-tense story-specific descriptive/reflection passages."
+}

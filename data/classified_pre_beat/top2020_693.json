@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2020:693",
+  "quotes": [
+    {"quote_id": "q04738", "bucket": "event", "tense": "past", "note": "past-tense generalization anchored to the narrator ('I had learned') -- story-world referent, so not the gnomic past exception"},
+    {"quote_id": "q04739", "bucket": "gnomic", "tense": "", "note": "present-tense second-person exhortation; reads as an embedded blog post or speech -- non-diagnostic either way"},
+    {"quote_id": "q04740", "bucket": "event", "tense": "past", "note": "past-tense generalization about the story world (free indirect), not a proverb; per past-tense rule"},
+    {"quote_id": "q04741", "bucket": "event", "tense": "past", "note": "specific character resolution, future-in-the-past"},
+    {"quote_id": "q04742", "bucket": "gnomic", "tense": "", "note": "PAST-TENSE GNOMIC EXCEPTION -- argument by analogy (Alien tagline vs the internet) with no story-world referent; flagged per methodology rather than decided silently"},
+    {"quote_id": "q04743", "bucket": "gnomic", "tense": "", "note": "present-tense second-person universal"},
+    {"quote_id": "q04744", "bucket": "gnomic", "tense": "", "note": "proverb plus second-person universal"},
+    {"quote_id": "q04745", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic generalization about people online; no vocative or speech marker to make it dialogue"},
+    {"quote_id": "q04746", "bucket": "event", "tense": "past", "note": "flip risk: unmarked reported speech (~23 words) plus narrator's past frame (~15 words); marks survive elsewhere in this book, so the mark-majority test fails and the dialogue-tag rule applies -> event/past"},
+    {"quote_id": "q04747", "bucket": "gnomic", "tense": "", "note": "present-tense polemical generalization; 'and come on' hints at unmarked speech but there is no addressee"},
+    {"quote_id": "q04748", "bucket": "event", "tense": "past", "note": "specific sensory moment"},
+    {"quote_id": "q04749", "bucket": "gnomic", "tense": "", "note": "explicitly universalizing ('For all women'), present tense, second person"},
+    {"quote_id": "q04750", "bucket": "gnomic", "tense": "", "note": "quoted maxim (Holmes), present-tense aphorism"},
+    {"quote_id": "q04751", "bucket": "event", "tense": "past", "note": "past-tense summary/exposition about the story world"},
+    {"quote_id": "q04752", "bucket": "gnomic", "tense": "", "note": "present-tense exhortation with 'right?' addressee tag; same register as q04739 and bucketed the same way for consistency; opens with one past clause, a minority of the quote"},
+    {"quote_id": "q04753", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q04754", "bucket": "gnomic", "tense": "", "note": "present-tense argument about social media generally; no speech marker"},
+    {"quote_id": "q04755", "bucket": "event", "tense": "past", "note": "past-tense narration about a named character; the 'you' is generalizing but the frame is 'I knew'"},
+    {"quote_id": "q04756", "bucket": "event", "tense": "past", "note": "specific narrator moment"},
+    {"quote_id": "q04757", "bucket": "event", "tense": "past", "note": "iterative past narration; narration outweighs the short quoted beat"},
+    {"quote_id": "q04758", "bucket": "event", "tense": "past", "note": "future-in-the-past life summary of a specific character; conditional frame noted"},
+    {"quote_id": "q04759", "bucket": "unclear", "tense": "", "note": "verse -- not prose fiction; embedded Dorothy Parker quatrain with a prose lead-in"},
+    {"quote_id": "q04760", "bucket": "event", "tense": "past", "note": "truncated excerpt but carries a finite past verb about the narrator"},
+    {"quote_id": "q04761", "bucket": "event", "tense": "past", "note": "narration (~15 words) outweighs quoted speech (~9); iterative past"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "First-person past-tense retrospective narration by a body-positive blogger. Extremely high gnomic load -- 10 of 24 quotes -- exactly the Goodreads quotability bias, and several are embedded blog-post/speech register that generalizes beyond the story world. Zero present-tense event quotes: every specific-moment quote is past. q04742 is the flagged past-tense gnomic exception (analogy, no story-world referent); q04746 is the main flip-risk bucketing call."
+}

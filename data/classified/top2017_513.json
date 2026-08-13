@@ -5,6 +5,7 @@
    "quote_id": "q01865",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no quote marks; direct question to an interlocutor, speech register"
   },
   {
@@ -29,6 +30,7 @@
    "quote_id": "q01869",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "direct address 'you call me lazy'; speech register, marks stripped"
   },
   {
@@ -65,6 +67,7 @@
    "quote_id": "q01875",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "no quote marks; speech outweighs the 'I yelled to him' tag (13 spoken vs 4 narrating words)"
   },
   {
@@ -131,6 +134,7 @@
    "quote_id": "q01886",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "tag question 'do you?' = direct address; speech register"
   },
   {
@@ -185,12 +189,14 @@
    "quote_id": "q01895",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "quotation-mark majority is the swearing; gnomic aside is the minority"
   },
   {
    "quote_id": "q01896",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "vocative 'Dad'"
   },
   {
@@ -245,24 +251,28 @@
    "quote_id": "q01905",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "near-tie word count (6 spoken vs 7 tag words); pure speech exchange, kept non-diagnostic"
   },
   {
    "quote_id": "q01906",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "quotation marks, direct address, vocative insult"
   },
   {
    "quote_id": "q01907",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quotation-mark majority is speech"
   },
   {
    "quote_id": "q01908",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "reply register ('Nope.'); speech, marks stripped"
   },
   {
@@ -275,12 +285,14 @@
    "quote_id": "q01910",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "duplicate of q01875 with quotation marks; quote-mark majority = dialogue"
   },
   {
    "quote_id": "q01911",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech exchange"
   },
   {
@@ -305,6 +317,7 @@
    "quote_id": "q01915",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "embedded letter (character discourse, second person), not narration"
   },
   {
@@ -317,6 +330,7 @@
    "quote_id": "q01917",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech exchange in quotation marks"
   },
   {
@@ -341,12 +355,14 @@
    "quote_id": "q01921",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quotation-mark majority is speech (~33 spoken vs ~24 narrating words)"
   },
   {
    "quote_id": "q01922",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "near-tie; quotation-mark majority is speech by a small margin"
   },
   {
@@ -359,12 +375,14 @@
    "quote_id": "q01924",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "vocative 'Listen, assholes'"
   },
   {
    "quote_id": "q01925",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech exchange with tags"
   },
   {
@@ -383,12 +401,14 @@
    "quote_id": "q01928",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "'When I grow up' = child speaking; speech register, marks stripped"
   },
   {
    "quote_id": "q01929",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "speech exchange"
   },
   {
@@ -443,18 +463,21 @@
    "quote_id": "q01938",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "one narrating beat vs ~30 spoken words"
   },
   {
    "quote_id": "q01939",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quotation-mark majority is speech"
   },
   {
    "quote_id": "q01940",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "near-tie (~72 spoken vs ~70 narrating); quotation-mark majority rule applied, kept non-diagnostic"
   },
   {

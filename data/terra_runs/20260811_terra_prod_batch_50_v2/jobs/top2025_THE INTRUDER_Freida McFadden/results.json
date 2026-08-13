@@ -1,0 +1,26 @@
+{
+  "sample_id": "top2025:THE INTRUDER|Freida McFadden",
+  "quotes": [
+    {"quote_id":"q09974","bucket":"dialogue","tense":"","beat_tense":"none","note":""},
+    {"quote_id":"q09975","bucket":"dialogue","tense":"","beat_tense":"present","note":""},
+    {"quote_id":"q09976","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09977","bucket":"event","tense":"present","note":"Narration outweighs the brief quoted speech."},
+    {"quote_id":"q09978","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09979","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q09980","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09981","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09982","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09983","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q09984","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q09985","bucket":"unclear","tense":"","note":"Unattributed rhetorical question; speech versus narration is unresolved."},
+    {"quote_id":"q09986","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09987","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09988","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09989","bucket":"dialogue","tense":"","beat_tense":"none","note":""},
+    {"quote_id":"q09990","bucket":"event","tense":"present","note":""},
+    {"quote_id":"q09991","bucket":"event","tense":"past","note":"Story-specific retrospective framing controls the passage."},
+    {"quote_id":"q09992","bucket":"event","tense":"present","note":"Present state controls; the final past clause is recollection."}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "Present-tense story-moment narration predominates; the past event excerpts are recollection or retrospective exposition."
+}

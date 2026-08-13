@@ -1,0 +1,573 @@
+<title>Narrative tense in NYT bestsellers (local)</title>
+<style>
+  :root{
+    --ink:#12161C; --paper:#F6F7F9; --surface:#FFFFFF; --line:#DFE3E8;
+    --muted:#59626E; --faint:#858E9A;
+    --past:#A8763C; --present:#1F7A7A; --dual:#98A0AA; --flag:#B44A2C;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
+          --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;
+          --dual:#737B86;--flag:#DE7A56;}
+  }
+  :root[data-theme="dark"]{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
+    --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;--dual:#737B86;--flag:#DE7A56;}
+  :root[data-theme="light"]{--ink:#12161C;--paper:#F6F7F9;--surface:#FFFFFF;--line:#DFE3E8;
+    --muted:#59626E;--faint:#858E9A;--past:#A8763C;--present:#1F7A7A;--dual:#98A0AA;--flag:#B44A2C;}
+
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+       -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:58rem;margin:0 auto;padding:3.5rem 1.5rem 6rem;
+        display:flex;flex-direction:column;gap:3.25rem;}
+  .wide{max-width:76rem;}
+  .eyebrow{font-family:var(--mono);font-size:.68rem;letter-spacing:.14em;
+           text-transform:uppercase;color:var(--faint);}
+  h1{font-family:var(--serif);font-size:clamp(2rem,5vw,2.9rem);line-height:1.08;
+     font-weight:600;text-wrap:balance;margin:.5rem 0 0;letter-spacing:-.015em;
+     max-width:30ch;}
+  h2{font-family:var(--serif);font-size:1.45rem;font-weight:600;margin:0;text-wrap:balance;}
+  h3{font-family:var(--sans);font-size:.82rem;font-weight:650;margin:0;
+     letter-spacing:.02em;color:var(--ink);}
+  p{margin:0;max-width:64ch;}
+  section{display:flex;flex-direction:column;gap:1rem;}
+  .lede{font-size:1.08rem;color:var(--muted);max-width:66ch;}
+  strong{font-weight:650;}
+
+  .chartbox{background:var(--surface);border:1px solid var(--line);border-radius:2px;
+            padding:1.5rem 1.3rem 1.1rem;overflow-x:auto;}
+  #chart{display:block;min-width:44rem;width:100%;height:auto;}
+  .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:1rem;font-size:.76rem;color:var(--muted);}
+  .legend i{display:inline-block;width:.7rem;height:.7rem;border-radius:1px;
+            margin-right:.42rem;vertical-align:-1px;}
+
+  .tw{overflow-x:auto;border:1px solid var(--line);border-radius:2px;background:var(--surface);}
+  table{border-collapse:collapse;width:100%;font-size:.81rem;}
+  th{font-family:var(--mono);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;
+     color:var(--muted);text-align:right;font-weight:600;padding:.7rem .8rem;
+     border-bottom:1px solid var(--line);white-space:nowrap;background:var(--surface);}
+  th:first-child,th.l{text-align:left;}
+  td{padding:.52rem .8rem;border-bottom:1px solid var(--line);text-align:right;
+     font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap;
+     vertical-align:top;}
+  td:first-child,td.l{text-align:left;font-family:var(--sans);}
+  td.l{white-space:normal;}
+  tbody tr:last-child td{border-bottom:none;}
+
+  .split{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1rem;}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:2px;
+        padding:1.1rem 1.2rem;display:flex;flex-direction:column;gap:.45rem;}
+  .big{font-family:var(--mono);font-size:1.65rem;font-variant-numeric:tabular-nums;
+       letter-spacing:-.02em;line-height:1;}
+  .card p{font-size:.85rem;color:var(--muted);}
+
+  td.def{text-align:left;font-family:var(--sans);white-space:normal;color:var(--muted);
+         line-height:1.5;min-width:22rem;}
+  td.yes{font-size:.7rem;letter-spacing:.05em;text-transform:uppercase;color:var(--present);}
+  td.no{color:var(--faint);}
+  .ladder{margin:0;padding-left:1.35rem;display:flex;flex-direction:column;gap:.7rem;
+          max-width:64ch;color:var(--muted);font-size:.92rem;}
+  .ladder li::marker{font-family:var(--mono);font-size:.8em;color:var(--faint);}
+  .ladder strong{color:var(--ink);}
+
+  .caution{border-left:2px solid var(--flag);padding:.2rem 0 .2rem 1.15rem;
+           display:flex;flex-direction:column;gap:.75rem;}
+  .caution p{color:var(--muted);font-size:.95rem;max-width:62ch;}
+  .caution strong{color:var(--ink);}
+  ul{margin:0;padding-left:1.15rem;display:flex;flex-direction:column;gap:.65rem;
+     max-width:64ch;color:var(--muted);font-size:.92rem;}
+  li strong{color:var(--ink);}
+
+  /* ---- explorer ---- */
+  .controls{display:flex;flex-wrap:wrap;gap:.55rem;align-items:center;
+            background:var(--surface);border:1px solid var(--line);border-radius:2px;
+            padding:.75rem .85rem;position:sticky;top:0;z-index:6;}
+  select,input[type=search]{font-family:var(--sans);font-size:.82rem;color:var(--ink);
+    background:var(--paper);border:1px solid var(--line);border-radius:2px;
+    padding:.36rem .45rem;}
+  input[type=search]{flex:1 1 15rem;min-width:9rem;}
+  .count{font-family:var(--mono);font-size:.73rem;color:var(--muted);margin-left:auto;
+         white-space:nowrap;}
+  button.reset{font-family:var(--sans);font-size:.78rem;color:var(--muted);background:none;
+    border:1px solid var(--line);border-radius:2px;padding:.36rem .6rem;cursor:pointer;}
+  button.reset:hover{color:var(--ink);border-color:var(--muted);}
+  #xtable th{cursor:pointer;user-select:none;font-size:.61rem;}
+  #xtable th:hover{color:var(--ink);}
+  #xtable th .ar{color:var(--present);font-size:.85em;}
+  #xtable td{padding:.45rem .7rem;font-size:.82rem;}
+  tr.book{cursor:pointer;}
+  tr.book:hover>td{background:color-mix(in srgb,var(--present) 6%,transparent);}
+  tr.book.open>td{background:color-mix(in srgb,var(--present) 10%,transparent);}
+  .ttl{font-weight:600;}
+  .au{color:var(--muted);font-size:.92em;}
+  .caret{display:inline-block;width:.75em;color:var(--faint);transition:transform .12s ease;}
+  tr.book.open .caret{transform:rotate(90deg);color:var(--present);}
+  .pill{display:inline-block;font-family:var(--mono);font-size:.63rem;letter-spacing:.06em;
+        text-transform:uppercase;padding:.12rem .4rem;border-radius:2px;
+        border:1px solid currentColor;line-height:1.4;}
+  .l-PAST{color:var(--past);} .l-PRESENT{color:var(--present);}
+  .l-DUAL{color:var(--dual);}
+  .l-INSUFFICIENT,.l-UNCLEAR,.l-EXCLUDED-verse{color:var(--faint);}
+  .c-CONFLICT{color:var(--flag);font-weight:600;}
+  .c-high,.c-med,.c-none{color:var(--faint);}
+  tr.detail-row>td{background:var(--paper);padding:0;}
+  .detail{padding:.1rem 0 1.1rem;}
+  .anote{font-size:.83rem;color:var(--muted);max-width:82ch;padding:.8rem .9rem .2rem;
+         white-space:normal;font-family:var(--sans);text-align:left;line-height:1.6;}
+  .anote strong{color:var(--ink);}
+  .qlist{display:flex;flex-direction:column;padding:.45rem .6rem 0;}
+  .q{display:grid;grid-template-columns:6rem 1fr;gap:.8rem;padding:.55rem .35rem;
+     border-top:1px solid var(--line);text-align:left;white-space:normal;}
+  .qmeta{display:flex;flex-direction:column;gap:.25rem;align-items:flex-start;}
+  .qid{font-family:var(--mono);font-size:.61rem;color:var(--faint);}
+  .qtx{font-family:var(--serif);font-size:.93rem;line-height:1.55;color:var(--ink);
+       white-space:pre-wrap;}
+  .qnote{font-family:var(--sans);font-size:.76rem;color:var(--muted);margin-top:.4rem;
+         padding-left:.7rem;border-left:2px solid var(--line);}
+  .b-event{color:var(--present);} .b-dialogue{color:var(--ink);}
+  .b-gnomic{color:var(--past);} .b-paratext,.b-unclear{color:var(--faint);}
+  .t{font-family:var(--mono);font-size:.61rem;letter-spacing:.04em;color:var(--muted);}
+  .empty,.loading{padding:2.5rem 1rem;text-align:center;color:var(--faint);font-size:.9rem;}
+  .pager{display:flex;align-items:center;justify-content:center;gap:1rem;padding:.2rem 0;}
+  .pg{font-family:var(--sans);font-size:.8rem;color:var(--ink);background:var(--surface);
+      border:1px solid var(--line);border-radius:2px;padding:.4rem .8rem;cursor:pointer;}
+  .pg:hover:not(:disabled){border-color:var(--present);color:var(--present);}
+  .pg:disabled{color:var(--faint);cursor:default;opacity:.5;}
+  .pgnum{font-family:var(--mono);font-size:.74rem;color:var(--muted);
+         font-variant-numeric:tabular-nums;}
+  ul ul{margin-top:.4rem;padding-left:1.05rem;gap:.4rem;font-size:.9rem;}
+
+  footer{border-top:1px solid var(--line);padding-top:1.2rem;font-size:.73rem;
+         color:var(--faint);font-family:var(--mono);line-height:1.8;}
+  :focus-visible{outline:2px solid var(--present);outline-offset:2px;}
+</style>
+
+<div class="wrap wide">
+
+<header>
+  <div class="eyebrow">Booktense &middot; 309 books classified &middot; 12,950 quotes &middot; built 12 Aug 2026</div>
+  <h1>Present-tense narration in NYT bestsellers, 1996&ndash;2025</h1>
+  <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
+  The four earliest points group five years each, because coverage before 2016 is thin and
+  drawn from a narrower slice of the list. Every quote behind every label is in the explorer
+  at the bottom.</p>
+</header>
+
+<section>
+  <div class="chartbox">
+    <svg id="chart" viewBox="0 0 980 400" role="img"
+         aria-label="Stacked area chart of present, other and past tense share over time, with the present band rising from the baseline"></svg>
+    <div class="legend">
+      <span><i style="background:var(--present)"></i>Present</span>
+      <span><i style="background:var(--dual)"></i>Other &mdash; dual-tense or not prose fiction</span>
+      <span><i style="background:var(--past)"></i>Past</span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="split">
+    <div class="card">
+      <h3>1996&ndash;2015 &middot; top 5 a year</h3>
+      <div class="big" style="color:var(--present)">5%</div>
+      <p>present, across 62 labelled books</p>
+    </div>
+    <div class="card">
+      <h3>2016&ndash;2025 &middot; top 30 a year</h3>
+      <div class="big" style="color:var(--present)">28%</div>
+      <p>present, across 229 labelled books</p>
+    </div>
+    <div class="card">
+      <h3>Trend within 2016&ndash;2025</h3>
+      <div class="big">p = 0.007</div>
+      <p>z = 2.71 &middot; the one frame consistent enough to test</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>The numbers behind it</h2>
+  <div class="tw">
+    <table>
+      <thead><tr>
+        <th class="l">Period</th><th class="l">Frame</th><th>Past</th><th>Other</th>
+        <th>Present</th><th>n labelled</th><th>% present</th><th>95% CI</th>
+        <th>abstained</th><th>classified</th>
+      </tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <p style="font-size:.79rem;color:var(--faint)">Each point rests on 14&ndash;27
+  labelled books. <strong>Other</strong> covers books with no single base tense and books that
+  turned out not to be prose fiction &mdash; Amanda Gorman&rsquo;s verse collections reached
+  the hardcover fiction list and sit here rather than being dropped.</p>
+</section>
+
+<section>
+  <h2>How a book gets its label</h2>
+  <p>Each quote is sorted into one bucket. Only two of them carry evidence about the
+  narrator&rsquo;s tense &mdash; the other three exist to keep those two clean.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="l">Bucket</th><th class="l">What it is</th><th class="l">Yields</th></tr></thead>
+      <tbody>
+        <tr><td>event</td>
+          <td class="def">A specific character at a specific story-moment, or past-tense
+              exposition about the story world</td><td class="yes">tense</td></tr>
+        <tr><td>dialogue</td>
+          <td class="def">Character speech &mdash; but the narrator&rsquo;s own tag or action
+              beat around it still counts</td><td class="yes">beat&nbsp;tense</td></tr>
+        <tr><td>gnomic</td>
+          <td class="def"><em>Present-tense</em> generalization reaching beyond the story
+              world: proverbs, epigraphs, essayistic asides</td><td class="no">&mdash;</td></tr>
+        <tr><td>paratext</td>
+          <td class="def">Acknowledgments, dedications, jacket copy &mdash; not the novel</td>
+          <td class="no">&mdash;</td></tr>
+        <tr><td>unclear</td>
+          <td class="def">Undecidable from the excerpt alone</td><td class="no">&mdash;</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>The load-bearing split is <strong>gnomic against event, and the test is specificity, not
+  tense</strong>. &ldquo;My father is dead&rdquo; is present tense but concerns one person at
+  one moment, so it counts. &ldquo;Books, like people, die&rdquo; does not.</p>
+
+  <p>Those two evidence-bearing buckets pool into a single tally, and the book&rsquo;s label
+  follows in three steps:</p>
+
+  <ol class="ladder">
+    <li><strong>Gate.</strong> Fewer than five tense-bearing quotes and the book abstains
+    rather than guessing.</li>
+    <li><strong>Base tense.</strong> A holistic read of the narrating situation &mdash;
+    recorded independently of the counts &mdash; sets it: <em>retrospective</em> gives past,
+    <em>simultaneous</em> gives present, <em>dual</em> gives other unless the tally runs 80%
+    one way, which marks a base tense with a strand rather than true duality.</li>
+    <li><strong>Confidence.</strong> The tally then either corroborates that read or
+    contradicts it, flagging the book for review.</li>
+  </ol>
+
+  <p>The counts do not set the label because they cannot. <em>Golden Girl</em> and
+  <em>Cloud Cuckoo Land</em> sit one percentage point apart and are structurally opposite
+  &mdash; one alternates tense across its main narrative, the other is present-narrated with a
+  past tale embedded inside it. No threshold separates those two; reading the narrating
+  situation does.</p>
+</section>
+
+<section>
+  <h2>What this does and doesn&rsquo;t support</h2>
+  <div class="caution">
+    <p><strong>Within 2016&ndash;2025 the rise is statistically detectable</strong> &mdash; a
+    linear trend across those ten years gives p&nbsp;=&nbsp;0.007 on 229 books.
+    The two-era split reads p&nbsp;=&nbsp;0.004, but its 2019/2020
+    boundary was drawn after seeing the data, so lead with the trend.</p>
+    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
+    come from the top 5 titles of each year against the top 30 from 2016 on, so the early
+    slice is a smaller, more famous set of books. A difference between the eras could be a
+    difference between those slices. Do not read the full span as one series.</p>
+    <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
+    23%, and 2018 (26%) sits at or above 2022 (25%), 2024 (26%). What the recent
+    data supports is a level shift, not a steady year-on-year climb.</p>
+  </div>
+  <ul>
+    <li><strong>Goodreads pull-quotes are a biased source, and the bias runs toward apparent
+    present tense.</strong> Everything below is a symptom of reading books through the
+    passages readers chose to excerpt:
+      <ul style="margin-top:.55rem">
+        <li>Quotes are selected for quotability, and quotability loves aphorism &mdash;
+        22% of all quotes are gnomic, timeless-present generalization that says nothing
+        about a book&rsquo;s narration. The bucket scheme exists to strip exactly this.</li>
+        <li>Quotation marks survive only 6&ndash;22% of the time, so
+        speech and narration often cannot be told apart from the text alone.</li>
+        <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
+        who is speaking.</li>
+        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
+        abstain more often &mdash; 18 do here.</li>
+        <li>Nothing marks where in a book a quote came from, so a framed prologue or an
+        embedded tale reads the same as the main narration.</li>
+      </ul>
+    </li>
+    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
+    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
+    buckets &mdash; yet both produced the same book label, and every disagreement was a
+    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Every book, every quote</h2>
+  <p>All 309 classified books and all 12,950 quotes behind them &mdash; nothing truncated,
+  no bucket hidden. Click a row for its quotes, buckets, and the classifier&rsquo;s reasoning.
+  Search reaches into quote text and notes, not just titles.</p>
+
+  <div class="controls">
+    <select id="fyear"><option value="">All periods</option></select>
+    <select id="flabel"><option value="">All labels</option></select>
+    <select id="fconf"><option value="">Any confidence</option></select>
+    <select id="fsit"><option value="">Any situation</option></select>
+    <select id="fbucket"><option value="">Any bucket present</option></select>
+    <input type="search" id="fq" placeholder="Search titles, authors, quote text, notes…">
+    <button class="reset" id="reset">Reset</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tw">
+    <table id="xtable">
+      <thead><tr>
+        <th class="l" data-k="year">Year <span class="ar"></span></th>
+        <th class="l" data-k="title">Book <span class="ar"></span></th>
+        <th class="l" data-k="label">Label <span class="ar"></span></th>
+        <th class="l" data-k="conf">Conf <span class="ar"></span></th>
+        <th class="l" data-k="sit">Situation <span class="ar"></span></th>
+        <th data-k="pct">% pres <span class="ar"></span></th>
+        <th data-k="ev">Event <span class="ar"></span></th>
+        <th data-k="bt">Beats <span class="ar"></span></th>
+        <th data-k="n">Quotes <span class="ar"></span></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="loading" id="status">Loading…</div>
+  </div>
+  <div class="pager" id="pager" hidden>
+    <button class="pg" id="prev">&larr; Previous</button>
+    <span class="pgnum" id="pgnum"></span>
+    <button class="pg" id="next">Next &rarr;</button>
+  </div>
+</section>
+
+<footer>
+  Frame: NYT Hardcover Fiction &middot; top 30 titles a year 2016&ndash;2025 (300 books),
+  top 5 a year 1996&ndash;2015 (100 books)<br>
+  Text: Goodreads pull-quotes &middot; Labels: base narration from narrating_situation; event
+  quotes and dialogue beats pooled for ratio and confidence<br>
+  309 classified of 400 in frame &middot; 291
+  yielding a label &middot; 18 abstained
+</footer>
+</div>
+
+<script>
+const esc = s => String(s).replace(/[&<>"]/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const BUCKETS = ["event","dialogue","gnomic","paratext","unclear"];
+
+function drawChart(A){
+  const W=980,H=400,L=52,R=18,T=18,B=52, iw=W-L-R, ih=H-T-B;
+  // Points sit at the midpoint of the span each period covers, on a real time axis,
+  // so a five-year bucket is five times as far from its neighbour as a single year is.
+  A.forEach(d=>{ d.mid=(d.lo + d.hi + 1)/2;
+                 d.pPres=d.n?d.pres/d.n:0; d.pOther=d.n?d.other/d.n:0; });
+  const X0=A[0].mid, X1=A[A.length-1].mid;
+  const x=v=>L+iw*(v-X0)/(X1-X0), y=v=>T+ih*(1-v);
+
+  const b1=A.map(d=>d.pPres), b2=A.map(d=>d.pPres+d.pOther);
+  const zero=A.map(()=>0), one=A.map(()=>1);
+  const band=(lo,hi,tok)=>{
+    const up=A.map((d,i)=>`${x(d.mid)},${y(hi[i])}`).join(" ");
+    const dn=A.map((d,i)=>`${x(d.mid)},${y(lo[i])}`).reverse().join(" ");
+    return `<polygon points="${up} ${dn}" fill="var(--${tok})" opacity="0.88"/>`;
+  };
+  let s="";
+  for(let g=0;g<=100;g+=25){
+    s+=`<line x1="${L}" x2="${W-R}" y1="${y(g/100)}" y2="${y(g/100)}" stroke="var(--line)" stroke-width="1"/>`;
+    s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--faint)">${g}%</text>`;
+  }
+  s+=band(zero,b1,"present")+band(b1,b2,"dual")+band(b2,one,"past");
+  s+=`<polyline points="${A.map((d,i)=>`${x(d.mid)},${y(b1[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.6"/>`;
+  s+=`<polyline points="${A.map((d,i)=>`${x(d.mid)},${y(b2[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.2"/>`;
+
+  A.forEach((d,i)=>{
+    const cx=x(d.mid);
+    // a bucket averages several years; show the span it stands for
+    if(d.span>1){
+      const a=x(d.lo), b=x(d.hi+1);
+      s+=`<line x1="${Math.max(a,L)}" x2="${Math.min(b,W-R)}" y1="${H-B+4}" y2="${H-B+4}"
+           stroke="var(--faint)" stroke-width="1" opacity="0.5"/>`;
+    }
+    s+=`<circle cx="${cx}" cy="${y(b1[i])}" r="3.2" fill="var(--present)"
+         stroke="var(--surface)" stroke-width="1.5"/>`;
+    s+=`<text x="${cx}" y="${H-B+18}" text-anchor="middle" font-family="var(--mono)"
+         font-size="9.5" fill="var(--muted)">${d.short}</text>`;
+    s+=`<text x="${cx}" y="${H-B+30}" text-anchor="middle" font-family="var(--mono)"
+         font-size="8" fill="var(--faint)">n=${d.n}</text>`;
+  });
+  document.getElementById("chart").innerHTML=s;
+
+  const ci=(p,n)=>{const se=Math.sqrt(p*(1-p)/n);
+    return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
+  document.getElementById("tbody").innerHTML=A.map(d=>`
+    <tr><td>${d.y}</td>
+    <td style="color:var(--faint)">${d.frame==="top5"?"top 5":"top 30"}</td>
+    <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
+    <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
+    <td>${d.n?ci(d.pPres,d.n):"—"}</td>
+    <td>${d.ab}</td><td style="color:var(--faint)">${d.cls}</td></tr>`).join("");
+}
+
+function initExplorer(BOOKS){
+  const rowsEl=document.getElementById("rows");
+  const statusEl=document.getElementById("status");
+  const countEl=document.getElementById("count");
+
+  BOOKS.forEach(b=>{
+    const t=b.ev[0]+b.ev[1];
+    b.pct=t?b.ev[1]/t:-1; b.evn=t; b.btn=b.bt[0]+b.bt[1];
+    b._hay=(b.title+" "+b.author+" "+b.note+" "+
+            b.q.map(q=>q.x+" "+q.n).join(" ")).toLowerCase();
+  });
+
+  const fill=(id,vals)=>{const s=document.getElementById(id);
+    vals.forEach(v=>{const o=document.createElement("option");
+      o.value=v; o.textContent=v; s.appendChild(o);});};
+  fill("fyear",[...new Set(BOOKS.map(b=>b.period))].sort());
+  fill("flabel",[...new Set(BOOKS.map(b=>b.label))].sort());
+  fill("fconf",[...new Set(BOOKS.map(b=>b.conf).filter(Boolean))].sort());
+  fill("fsit",[...new Set(BOOKS.map(b=>b.sit).filter(Boolean))].sort());
+  fill("fbucket",BUCKETS);
+
+  let sortKey="year", sortDir=1, page=0;
+  const PAGE=20;
+  const open=new Set();
+  const val=id=>document.getElementById(id).value;
+
+  const current=()=>{
+    const q=val("fq").trim().toLowerCase();
+    const bIdx=BUCKETS.indexOf(val("fbucket"));
+    return BOOKS.filter(b=>
+      (!val("fyear")||b.period===val("fyear")) &&
+      (!val("flabel")||b.label===val("flabel")) &&
+      (!val("fconf")||b.conf===val("fconf")) &&
+      (!val("fsit")||b.sit===val("fsit")) &&
+      (bIdx<0||b.bk[bIdx]>0) &&
+      (!q||b._hay.includes(q)));
+  };
+
+  function detailHTML(b){
+    const rows=b.q.map(q=>{
+      const bits=[`<span class="pill b-${esc(q.b)}">${esc(q.b)}</span>`];
+      if(q.t)  bits.push(`<span class="t">tense · ${esc(q.t)}</span>`);
+      if(q.bt) bits.push(`<span class="t">beat · ${esc(q.bt)}</span>`);
+      return `<div class="q">
+        <div class="qmeta"><span class="qid">${esc(q.id)}</span>${bits.join("")}</div>
+        <div><div class="qtx">${q.x?esc(q.x):"<span style='color:var(--faint)'>[no text on file]</span>"}</div>
+        ${q.n?`<div class="qnote">${esc(q.n)}</div>`:""}</div></div>`;
+    }).join("");
+    const bk=BUCKETS.map((nm,i)=>b.bk[i]?`${b.bk[i]} ${nm}`:null).filter(Boolean).join(" · ");
+    return `<td class="l" colspan="9"><div class="detail">
+      <div class="anote"><strong>${esc(b.why||"no tense evidence")}</strong><br>${esc(bk)}
+      ${b.note?`<br><br>${esc(b.note)}`:""}</div>
+      <div class="qlist">${rows}</div></div></td>`;
+  }
+
+  function render(){
+    const all=current();
+    all.sort((a,z)=>{
+      let A=a[sortKey], Z=z[sortKey];
+      if(sortKey==="ev"){A=a.evn;Z=z.evn;}
+      if(sortKey==="bt"){A=a.btn;Z=z.btn;}
+      if(typeof A==="string") return sortDir*A.localeCompare(Z);
+      return sortDir*(A-Z);
+    });
+    const pages=Math.max(1,Math.ceil(all.length/PAGE));
+    if(page>=pages) page=pages-1;
+    if(page<0) page=0;
+    const list=all.slice(page*PAGE,(page+1)*PAGE);
+    const frag=document.createDocumentFragment();
+    list.forEach(b=>{
+      const tr=document.createElement("tr");
+      tr.className="book"+(open.has(b.sid)?" open":"");
+      tr.dataset.sid=b.sid;
+      tr.innerHTML=
+        `<td class="l">${b.year}</td>
+         <td class="l"><span class="caret">&#9656;</span> <span class="ttl">${esc(b.title)}</span>
+             <span class="au">— ${esc(b.author)}</span></td>
+         <td class="l"><span class="pill l-${esc(b.label)}">${esc(b.label)}</span></td>
+         <td class="l"><span class="c-${esc(b.conf||"none")}">${esc(b.conf||"—")}</span></td>
+         <td class="l">${esc(b.sit||"—")}</td>
+         <td>${b.pct<0?"—":Math.round(b.pct*100)+"%"}</td>
+         <td>${b.ev[0]}/${b.ev[1]}</td>
+         <td>${b.bt[0]}/${b.bt[1]}</td>
+         <td>${b.n}</td>`;
+      frag.appendChild(tr);
+      if(open.has(b.sid)){
+        const d=document.createElement("tr");
+        d.className="detail-row"; d.innerHTML=detailHTML(b);
+        frag.appendChild(d);
+      }
+    });
+    rowsEl.replaceChildren(frag);
+    const from=all.length?page*PAGE+1:0, to=Math.min(all.length,(page+1)*PAGE);
+    countEl.textContent=all.length===BOOKS.length
+      ? `${from}–${to} of ${all.length} books`
+      : `${from}–${to} of ${all.length} matching · ${BOOKS.length} total`;
+    statusEl.hidden=all.length>0;
+    statusEl.textContent="No books match those filters.";
+    statusEl.className="empty";
+    document.getElementById("pager").hidden=all.length<=PAGE;
+    document.getElementById("pgnum").textContent=`Page ${page+1} of ${pages}`;
+    document.getElementById("prev").disabled=page===0;
+    document.getElementById("next").disabled=page>=pages-1;
+  }
+
+  const go=d=>{ page+=d; open.clear(); render();
+    document.getElementById("xtable").scrollIntoView({block:"start",behavior:"smooth"}); };
+  document.getElementById("prev").addEventListener("click",()=>go(-1));
+  document.getElementById("next").addEventListener("click",()=>go(1));
+
+  /* detail rows build on demand -- all quotes never hit the DOM at once */
+  rowsEl.addEventListener("click",e=>{
+    const tr=e.target.closest("tr.book");
+    if(!tr) return;
+    const sid=tr.dataset.sid;
+    if(open.has(sid)){
+      open.delete(sid); tr.classList.remove("open");
+      const nx=tr.nextElementSibling;
+      if(nx&&nx.classList.contains("detail-row")) nx.remove();
+    }else{
+      open.add(sid); tr.classList.add("open");
+      const d=document.createElement("tr");
+      d.className="detail-row";
+      d.innerHTML=detailHTML(BOOKS.find(x=>x.sid===sid));
+      tr.after(d);
+    }
+  });
+
+  document.querySelectorAll("#xtable th[data-k]").forEach(th=>{
+    th.addEventListener("click",()=>{
+      const k=th.dataset.k;
+      sortDir=(sortKey===k)?-sortDir:1; sortKey=k;
+      document.querySelectorAll("#xtable th .ar").forEach(a=>a.textContent="");
+      th.querySelector(".ar").textContent=sortDir>0?"▲":"▼";
+      page=0; render();
+    });
+  });
+  const refilter=()=>{ page=0; render(); };
+  ["fyear","flabel","fconf","fsit","fbucket"].forEach(id=>
+    document.getElementById(id).addEventListener("change",refilter));
+  document.getElementById("fq").addEventListener("input",refilter);
+  document.getElementById("reset").addEventListener("click",()=>{
+    ["fyear","flabel","fconf","fsit","fbucket"].forEach(id=>
+      document.getElementById(id).value="");
+    document.getElementById("fq").value="";
+    open.clear(); page=0; render();
+  });
+  render();
+}
+
+function init(payload){ drawChart(payload.years); initExplorer(payload.books); }
+
+
+fetch("data/report_data.json")
+  .then(r => { if(!r.ok) throw new Error(r.status+" "+r.statusText); return r.json(); })
+  .then(init)
+  .catch(err => {
+    const s=document.getElementById("status");
+    s.className="empty";
+    s.innerHTML="Could not load <code>data/report_data.json</code> — "+esc(err.message)+
+      ".<br><br>This page must be served over http, not opened from the filesystem.<br>"+
+      "Run <code>python3 -m http.server 8000</code> in the project directory, "+
+      "then open <code>localhost:8000/trend_local.html</code>.";
+  });
+</script>

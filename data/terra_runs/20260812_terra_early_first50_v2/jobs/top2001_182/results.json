@@ -1,0 +1,28 @@
+{
+  "sample_id": "top2001:182",
+  "quotes": [
+    {"quote_id": "q00888", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00889", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00890", "bucket": "event", "tense": "past", "note": "Story-specific recollection controls the final generalizing sentence."},
+    {"quote_id": "q00891", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00892", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00893", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00894", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00895", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00896", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00897", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00898", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00899", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00900", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00901", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00902", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00903", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Quoted speech is the substantial majority; the attribution/action beat is past tense."},
+    {"quote_id": "q00904", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00905", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00906", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00907", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00908", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "20 event-narration quotes are past tense. The single dialogue quote has a past-tense narration beat."
+}

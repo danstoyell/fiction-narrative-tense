@@ -1,0 +1,29 @@
+{
+  "sample_id": "top2018:2758",
+  "quotes": [
+    {"quote_id": "q02918", "bucket": "gnomic", "tense": "", "note": "Timeless reflection on justice and the greater good."},
+    {"quote_id": "q02919", "bucket": "gnomic", "tense": "", "note": "Generalized description of narcissists and serial murderers."},
+    {"quote_id": "q02920", "bucket": "event", "tense": "past", "note": "Story-specific recollection about her and Margaret Mitchell."},
+    {"quote_id": "q02921", "bucket": "gnomic", "tense": "", "note": "General political maxim."},
+    {"quote_id": "q02922", "bucket": "unclear", "tense": "", "note": "Sentence fragment without enough context."},
+    {"quote_id": "q02923", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Quoted first-person address; no narration beat."},
+    {"quote_id": "q02924", "bucket": "event", "tense": "past", "note": "Specific group entering a cave and finding evidence."},
+    {"quote_id": "q02925", "bucket": "event", "tense": "past", "note": "Story-specific journey and setting description."},
+    {"quote_id": "q02926", "bucket": "event", "tense": "past", "note": "Specific trip and comparison involving her."},
+    {"quote_id": "q02927", "bucket": "gnomic", "tense": "", "note": "Timeless aphorism."},
+    {"quote_id": "q02928", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Direct speech is dominant; 'said Blum slowly' is a past beat."},
+    {"quote_id": "q02929", "bucket": "unclear", "tense": "", "note": "Fragment without a complete predicate or context."},
+    {"quote_id": "q02930", "bucket": "gnomic", "tense": "", "note": "General reflection on hindsight and decision-making."},
+    {"quote_id": "q02931", "bucket": "event", "tense": "past", "note": "Specific completed action by her."},
+    {"quote_id": "q02932", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Quoted spoken address; no narration beat."},
+    {"quote_id": "q02933", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Direct exchange is the majority; intervening and following narration beats are past."},
+    {"quote_id": "q02934", "bucket": "event", "tense": "past", "note": "Past-tense exposition about people in the story world."},
+    {"quote_id": "q02935", "bucket": "unclear", "tense": "", "note": "Fragment lacks a subject and sufficient context."},
+    {"quote_id": "q02936", "bucket": "event", "tense": "present", "note": "First-person, story-specific reflection; speech is not affirmatively established."},
+    {"quote_id": "q02937", "bucket": "event", "tense": "past", "note": "Story-specific statement about the Bureau."},
+    {"quote_id": "q02938", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Unmistakable spoken-address imperative; no narration beat."},
+    {"quote_id": "q02939", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Direct exchange is dominant; Pine's action and speech beats are past."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Event narration is predominantly past (7 past, 1 present). The single present event is first-person reflection, not evidence of a simultaneous narrating situation."
+}

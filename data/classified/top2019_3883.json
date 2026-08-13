@@ -1,0 +1,148 @@
+{
+ "sample_id": "top2019:3883",
+ "quotes": [
+  {
+   "quote_id": "q04064",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q04065",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Unattributed but clearly addressed speech."
+  },
+  {
+   "quote_id": "q04066",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q04067",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04068",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04069",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q04070",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04071",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Prayer-like general exhortation."
+  },
+  {
+   "quote_id": "q04072",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04073",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q04074",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04075",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04076",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific frame: Simon remembered reading this."
+  },
+  {
+   "quote_id": "q04077",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04078",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04079",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Near-even speech/narration mix; routed to event per tie-break."
+  },
+  {
+   "quote_id": "q04080",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04081",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narration outweighs the brief speech."
+  },
+  {
+   "quote_id": "q04082",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q04083",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04084",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narration outweighs the brief speech."
+  },
+  {
+   "quote_id": "q04085",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q04086",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "23 quotes classified in input order. Event narration is consistently past tense; dialogue beats are past where present."
+}

@@ -1,0 +1,76 @@
+{
+ "sample_id": "top2010:1335",
+ "quotes": [
+  {
+   "quote_id": "q01668",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01669",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01670",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01671",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q01672",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q01673",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01674",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01675",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "Opening quotation mark is absent; the excerpt contains two character speech turns and a past-tense action beat.",
+   "beat_tense": "past"
+  },
+  {
+   "quote_id": "q01676",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Aphoristic contrast with no story-specific referent."
+  },
+  {
+   "quote_id": "q01677",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01678",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

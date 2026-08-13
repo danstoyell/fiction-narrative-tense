@@ -29,6 +29,7 @@
    "quote_id": "q08495",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quotation-mark majority (10 of 16 words inside marks) beats the past-tense frame verb, per precedence rule. CONTESTED/FLIP RISK: truncated at the start, and the quoted material is a cited Voltaire maxim rather than in-scene speech; read as narration it would be event/past ('used to quote Voltaire to me' = past iterative about a specific character)"
   },
   {
@@ -59,6 +60,7 @@
    "quote_id": "q08500",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quotation-mark majority; tagged exchange ('she added'), vocative 'Rachel'"
   },
   {
@@ -101,6 +103,7 @@
    "quote_id": "q08507",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no quotation marks; signal used = vocative plus elongated spelling ('Staaaaaar-shine'), a spoken greeting / quoted lyric"
   },
   {
@@ -119,6 +122,7 @@
    "quote_id": "q08510",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "marks truncated away; signal used = vocative 'Max' plus stacked imperatives and second-person address"
   }
  ],

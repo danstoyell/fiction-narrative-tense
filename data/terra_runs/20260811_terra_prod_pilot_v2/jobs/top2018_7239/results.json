@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2018:7239",
+  "quotes": [
+    {"quote_id":"q02341","bucket":"event","tense":"past","note":"First-person story-specific recollection."},
+    {"quote_id":"q02342","bucket":"event","tense":"past","note":"Past-tense exposition tied to his father."},
+    {"quote_id":"q02343","bucket":"gnomic","tense":"","note":"Timeless personified generalization."},
+    {"quote_id":"q02344","bucket":"gnomic","tense":"","note":"General aphoristic conditional."},
+    {"quote_id":"q02345","bucket":"gnomic","tense":"","note":"Generalizing maxim."},
+    {"quote_id":"q02346","bucket":"gnomic","tense":"","note":"General reflection on love."},
+    {"quote_id":"q02347","bucket":"gnomic","tense":"","note":"General rhetorical question."},
+    {"quote_id":"q02348","bucket":"gnomic","tense":"","note":"General statement about people."},
+    {"quote_id":"q02349","bucket":"event","tense":"past","note":"Specific character action and state."},
+    {"quote_id":"q02350","bucket":"event","tense":"past","note":"Specific character backstory and state."},
+    {"quote_id":"q02351","bucket":"gnomic","tense":"","note":"General rhetorical question."},
+    {"quote_id":"q02352","bucket":"event","tense":"past","note":"Specific character experience and action."},
+    {"quote_id":"q02353","bucket":"event","tense":"past","note":"Story-specific observation framed by Kya thought."},
+    {"quote_id":"q02354","bucket":"gnomic","tense":"","note":"General aphorism."},
+    {"quote_id":"q02355","bucket":"dialogue","tense":"","beat_tense":"past","note":"Direct character speech with past-tense attribution."},
+    {"quote_id":"q02356","bucket":"dialogue","tense":"","beat_tense":"past","note":"A character recites a verse; past-tense speech beat."},
+    {"quote_id":"q02357","bucket":"dialogue","tense":"","beat_tense":"past","note":"Quoted speech predominates; past-tense attributions."},
+    {"quote_id":"q02358","bucket":"gnomic","tense":"","note":"General scientific-philosophical reflection."},
+    {"quote_id":"q02359","bucket":"dialogue","tense":"","beat_tense":"past","note":"Quoted conversational exchange predominates; past-tense beats."},
+    {"quote_id":"q02360","bucket":"unclear","tense":"","note":"Unanchored lyrical first-person passage; speech versus embedded verse is unresolved."},
+    {"quote_id":"q02361","bucket":"dialogue","tense":"","beat_tense":"none","note":"Unmistakable spoken address; no external narration beat."},
+    {"quote_id":"q02362","bucket":"dialogue","tense":"","beat_tense":"none","note":"Direct imperative address with no narration beat."},
+    {"quote_id":"q02363","bucket":"unclear","tense":"","note":"Unanchored lyric without affirmative speech framing."},
+    {"quote_id":"q02364","bucket":"event","tense":"past","note":"Extended narration of specific characters and events."},
+    {"quote_id":"q02365","bucket":"gnomic","tense":"","note":"General aphorism."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Seven event-narration quotes are all past tense. Dialogue beats are past where present; unanchored lyric excerpts were left unclear."
+}

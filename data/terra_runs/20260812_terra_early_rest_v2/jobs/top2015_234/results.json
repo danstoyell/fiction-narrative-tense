@@ -1,0 +1,371 @@
+{
+  "sample_id": "top2015:234",
+  "quotes": [
+    {
+      "quote_id": "q02400",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02401",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02402",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02403",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02404",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02405",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02406",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02407",
+      "bucket": "unclear",
+      "tense": "",
+      "beat_tense": "",
+      "note": "Unattributed aphoristic fragment; speech versus narration is unresolved."
+    },
+    {
+      "quote_id": "q02408",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02409",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02410",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02411",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02412",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02413",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02414",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02415",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02416",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02417",
+      "bucket": "paratext",
+      "tense": "",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02418",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02419",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02420",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02421",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02422",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02423",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02424",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02425",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02426",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02427",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02428",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02429",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02430",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02431",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02432",
+      "bucket": "unclear",
+      "tense": "",
+      "beat_tense": "",
+      "note": "Unattributed first-person accusation; speech versus narration is unresolved."
+    },
+    {
+      "quote_id": "q02433",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02434",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02435",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02436",
+      "bucket": "unclear",
+      "tense": "",
+      "beat_tense": "",
+      "note": "Unattributed first-person vow; speech versus narration is unresolved."
+    },
+    {
+      "quote_id": "q02437",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02438",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q02439",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02440",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02441",
+      "bucket": "unclear",
+      "tense": "",
+      "beat_tense": "",
+      "note": "Truncated narrative fragment."
+    },
+    {
+      "quote_id": "q02442",
+      "bucket": "event",
+      "tense": "present",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02443",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02444",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02445",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02446",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02447",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02448",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02449",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02450",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02451",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

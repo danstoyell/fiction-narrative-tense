@@ -1,0 +1,484 @@
+{
+ "sample_id": "top2022:LESSONS IN CHEMISTRY|Bonnie Garmus",
+ "quotes": [
+  {
+   "quote_id": "q06582",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "spoken address"
+  },
+  {
+   "quote_id": "q06583",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted speech"
+  },
+  {
+   "quote_id": "q06584",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution"
+  },
+  {
+   "quote_id": "q06585",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general exhortation"
+  },
+  {
+   "quote_id": "q06586",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general statement"
+  },
+  {
+   "quote_id": "q06587",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06588",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06589",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06590",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "exchange with action and speech beats"
+  },
+  {
+   "quote_id": "q06591",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06592",
+   "bucket": "event",
+   "tense": "past",
+   "note": "story-specific reflective narration"
+  },
+  {
+   "quote_id": "q06593",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general hypothetical"
+  },
+  {
+   "quote_id": "q06594",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character state"
+  },
+  {
+   "quote_id": "q06595",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution and action beat"
+  },
+  {
+   "quote_id": "q06596",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06597",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06598",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06599",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general rhetorical reflection"
+  },
+  {
+   "quote_id": "q06600",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06601",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character thought and action"
+  },
+  {
+   "quote_id": "q06602",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character narration"
+  },
+  {
+   "quote_id": "q06603",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character narration"
+  },
+  {
+   "quote_id": "q06604",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character reflection"
+  },
+  {
+   "quote_id": "q06605",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution"
+  },
+  {
+   "quote_id": "q06606",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06607",
+   "bucket": "event",
+   "tense": "past",
+   "note": "story-specific narration"
+  },
+  {
+   "quote_id": "q06608",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech exchange with beats"
+  },
+  {
+   "quote_id": "q06609",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06610",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06611",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "general exhortation"
+  },
+  {
+   "quote_id": "q06612",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character observation"
+  },
+  {
+   "quote_id": "q06613",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06614",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06615",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06616",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution"
+  },
+  {
+   "quote_id": "q06617",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06618",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06619",
+   "bucket": "event",
+   "tense": "past",
+   "note": "narration outweighs brief signature line"
+  },
+  {
+   "quote_id": "q06620",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted address"
+  },
+  {
+   "quote_id": "q06621",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "directly addressed quoted speech"
+  },
+  {
+   "quote_id": "q06622",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06623",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted rhetorical speech"
+  },
+  {
+   "quote_id": "q06624",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "conversational address"
+  },
+  {
+   "quote_id": "q06625",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "quoted exchange"
+  },
+  {
+   "quote_id": "q06626",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character reflection"
+  },
+  {
+   "quote_id": "q06627",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character description"
+  },
+  {
+   "quote_id": "q06628",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech predominates; external action beats"
+  },
+  {
+   "quote_id": "q06629",
+   "bucket": "event",
+   "tense": "past",
+   "note": "story-world historical summary"
+  },
+  {
+   "quote_id": "q06630",
+   "bucket": "event",
+   "tense": "past",
+   "note": "first-person story-specific recollection"
+  },
+  {
+   "quote_id": "q06631",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character narration"
+  },
+  {
+   "quote_id": "q06632",
+   "bucket": "event",
+   "tense": "past",
+   "note": "near-even speech and narration; narration retained"
+  },
+  {
+   "quote_id": "q06633",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalization"
+  },
+  {
+   "quote_id": "q06634",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "fragment lacks enough framing"
+  },
+  {
+   "quote_id": "q06635",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech exchange"
+  },
+  {
+   "quote_id": "q06636",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character state"
+  },
+  {
+   "quote_id": "q06637",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech predominates with attribution"
+  },
+  {
+   "quote_id": "q06638",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution"
+  },
+  {
+   "quote_id": "q06639",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "exchange with attribution"
+  },
+  {
+   "quote_id": "q06640",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech exchange with action beats"
+  },
+  {
+   "quote_id": "q06641",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech exchange with beats"
+  },
+  {
+   "quote_id": "q06642",
+   "bucket": "event",
+   "tense": "past",
+   "note": "story-specific character narration and summary"
+  },
+  {
+   "quote_id": "q06643",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution"
+  },
+  {
+   "quote_id": "q06644",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution and action beat"
+  },
+  {
+   "quote_id": "q06645",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character state"
+  },
+  {
+   "quote_id": "q06646",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech exchange with beats"
+  },
+  {
+   "quote_id": "q06647",
+   "bucket": "event",
+   "tense": "present",
+   "note": "first-person story-specific reflection"
+  },
+  {
+   "quote_id": "q06648",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution"
+  },
+  {
+   "quote_id": "q06649",
+   "bucket": "event",
+   "tense": "past",
+   "note": "story-specific reflective narration"
+  },
+  {
+   "quote_id": "q06650",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific characters and relationship"
+  },
+  {
+   "quote_id": "q06651",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character reflection"
+  },
+  {
+   "quote_id": "q06652",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific character recollection"
+  },
+  {
+   "quote_id": "q06653",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific story event"
+  },
+  {
+   "quote_id": "q06654",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "speech attribution"
+  },
+  {
+   "quote_id": "q06655",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narrative generalization"
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Classified only from the supplied excerpts. Event narration is predominantly retrospective, with one supplied present-tense first-person reflection."
+}

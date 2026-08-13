@@ -1,0 +1,49 @@
+{
+  "sample_id": "top2003:5543",
+  "quotes": [
+    {
+      "quote_id": "q01087",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q01088",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q01089",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q01090",
+      "bucket": "event",
+      "tense": "past",
+      "note": "Past-tense exposition about the story world."
+    },
+    {
+      "quote_id": "q01091",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q01092",
+      "bucket": "unclear",
+      "tense": "",
+      "note": "Fragment without sufficient narrative or speech context."
+    },
+    {
+      "quote_id": "q01093",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Five event-narration excerpts are past tense; no dialogue beats were identifiable."
+}

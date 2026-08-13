@@ -1,0 +1,129 @@
+{
+ "sample_id": "top2019:4374",
+ "quotes": [
+  {
+   "quote_id": "q03885",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Universal imperative."
+  },
+  {
+   "quote_id": "q03886",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General claim about sadness."
+  },
+  {
+   "quote_id": "q03887",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General statement about soldiers and mothers."
+  },
+  {
+   "quote_id": "q03888",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific prospective reflection on this summer."
+  },
+  {
+   "quote_id": "q03889",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific reflection and projection concerning a particular summer."
+  },
+  {
+   "quote_id": "q03890",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Universal statement about relationships."
+  },
+  {
+   "quote_id": "q03891",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific character's current realization."
+  },
+  {
+   "quote_id": "q03892",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generic second-person maxim."
+  },
+  {
+   "quote_id": "q03893",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": "Speech predominates; the attributions 'asks' and 'guesses' are present tense."
+  },
+  {
+   "quote_id": "q03894",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character's past experience and state."
+  },
+  {
+   "quote_id": "q03895",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General belief about people rather than a story event."
+  },
+  {
+   "quote_id": "q03896",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific characters' past interaction."
+  },
+  {
+   "quote_id": "q03897",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generic statement about telling the truth."
+  },
+  {
+   "quote_id": "q03898",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General instructional description of tennis scoring."
+  },
+  {
+   "quote_id": "q03899",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Present-tense report of a specific reaction; the embedded line does not control the passage."
+  },
+  {
+   "quote_id": "q03900",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character's past feeling and inability to speak."
+  },
+  {
+   "quote_id": "q03901",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Present-tense narration of Kate's current age and feeling."
+  },
+  {
+   "quote_id": "q03902",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct speech with no narrating beat outside the spoken passage."
+  },
+  {
+   "quote_id": "q03903",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generic rhetorical question addressed to an indefinite 'you'."
+  },
+  {
+   "quote_id": "q03904",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific character's present realization about her mother."
+  }
+ ],
+ "narrating_situation": "dual",
+ "agent_note": "Event excerpts include a present-tense story frame and past-tense recollective passages. Generic maxims and instructional prose were excluded as gnomic."
+}

@@ -1,0 +1,46 @@
+{
+ "sample_id": "top2006:1196",
+ "quotes": [
+  {
+   "quote_id": "q01385",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless imperative proverb."
+  },
+  {
+   "quote_id": "q01386",
+   "bucket": "event",
+   "tense": "present",
+   "note": "First-person, story-specific mental state."
+  },
+  {
+   "quote_id": "q01387",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quotation-mark majority; no narration beat."
+  },
+  {
+   "quote_id": "q01388",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted direct speech; no narration beat."
+  },
+  {
+   "quote_id": "q01389",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted direct question; no narration beat."
+  },
+  {
+   "quote_id": "q01390",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific statement about a character\u2019s need, empathy, and compassion."
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "Two present-tense event-narration excerpts support a simultaneous narrating situation; remaining excerpts are gnomic or dialogue."
+}

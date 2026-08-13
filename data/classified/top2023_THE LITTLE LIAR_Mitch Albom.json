@@ -16,7 +16,7 @@
     {"quote_id": "q08091", "bucket": "event", "tense": "present", "note": "FLIP RISK: 'it comes silently' predicates a specific story decision, so event/present, but the simile frame 'Like many decisions that change a life' could make it a standalone generalization (gnomic). One of only 3 event quotes, so this single call moves the split"},
     {"quote_id": "q08092", "bucket": "gnomic", "tense": "", "note": "second-person universal about love"},
     {"quote_id": "q08093", "bucket": "gnomic", "tense": "", "note": "second-person universal"},
-    {"quote_id": "q08094", "bucket": "dialogue", "tense": "", "note": "quotation marks survive; majority of words inside marks across a two-speaker exchange with tags. Embedded Romani phrase is inside the speech, so not treated as non-English paratext"},
+    {"quote_id": "q08094", "bucket": "dialogue", "tense": "", "note": "quotation marks survive; majority of words inside marks across a two-speaker exchange with tags. Embedded Romani phrase is inside the speech, so not treated as non-English paratext", "beat_tense": "past"},
     {"quote_id": "q08095", "bucket": "gnomic", "tense": "", "note": "explicitly universal ('experienced universally', 'Loss is universal')"},
     {"quote_id": "q08096", "bucket": "gnomic", "tense": "", "note": "second-person universal about harmony and deceit"},
     {"quote_id": "q08097", "bucket": "gnomic", "tense": "", "note": "aphorism"},

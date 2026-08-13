@@ -34,11 +34,11 @@ def _load_done(path, key="sample_id"):
     if not os.path.exists(path):
         return set()
     with open(path, encoding="utf-8") as fh:
-        return {r[key] for r in csv.DictReader(fh)}
+        return {r[key] for r in csv.DictReader(fh) if r.get(key) and r[key] != key}
 
 
 def _appender(path, fields):
-    new = not os.path.exists(path)
+    new = not os.path.exists(path) or os.path.getsize(path) == 0
     fh = open(path, "a", newline="", encoding="utf-8")
     w = csv.DictWriter(fh, fieldnames=fields)
     if new:
@@ -87,10 +87,12 @@ def main():
     try:
         for i, r in enumerate(todo, 1):
             try:
+                print(f"  [{i}/{len(todo)}] fetching {r['title'][:34]}", flush=True)
                 res = gr.resolve(r["title"], r["author"], r.get("year"), r.get("isbn"),
                                  patient=args.patient)
-                qs = gr.quotes(res["work_id"], args.max_pages,
-                               patient=args.patient) if res["work_id"] else []
+                qs, raw_count = (gr.quotes(res["work_id"], args.max_pages,
+                                           patient=args.patient)
+                                 if res["work_id"] else ([], 0))
             except gr.RateLimited as e:
                 print(f"\nRATE LIMITED: {e}\nStopping cleanly. Wait ~15min and re-run; "
                       f"cache preserved, {i-1} books done this run.")
@@ -111,7 +113,7 @@ def main():
                 resolve_method=res["method"], resolve_confidence=res["confidence"],
                 resolve_notes=res["notes"],
                 pages_fetched=max([p for p, *_ in qs], default=0),
-                quotes_raw=len(qs), quotes_dedup=len(qs), fetched_at=now))
+                quotes_raw=raw_count, quotes_dedup=len(qs), fetched_at=now))
             bfh.flush(); qfh.flush()
             print(f"  [{i}/{len(todo)}] {r['title'][:34]:36s} "
                   f"{res['method']:>12} {res['confidence']:>6} "

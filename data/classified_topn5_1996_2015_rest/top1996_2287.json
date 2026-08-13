@@ -1,0 +1,32 @@
+{
+ "sample_id": "top1996:2287",
+ "quotes": [
+  {
+   "quote_id": "q00037",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific first-person reflection."
+  },
+  {
+   "quote_id": "q00038",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Retrospective memory scene; present forms occur within the remembered thought."
+  },
+  {
+   "quote_id": "q00039",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": "Conversational exchange; present-tense narration frames the speech."
+  },
+  {
+   "quote_id": "q00040",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific first-person scene in progress."
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "Present-tense first-person narration, with a retrospective memory passage."
+}

@@ -1,0 +1,133 @@
+{
+ "sample_id": "top2021:STATE OF TERROR|Hillary Rodham Clinton and Lou",
+ "quotes": [
+  {
+   "quote_id": "q06142",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific description of Ellen Adams; the following generalization remains within the narrated context."
+  },
+  {
+   "quote_id": "q06143",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Attributed Einstein quotation rather than story narration."
+  },
+  {
+   "quote_id": "q06144",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": "Predominantly quoted speech; the external tag is \"he continues.\""
+  },
+  {
+   "quote_id": "q06145",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted character speech without an external narrating beat."
+  },
+  {
+   "quote_id": "q06146",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narration and story-world summary."
+  },
+  {
+   "quote_id": "q06147",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narration of the administration."
+  },
+  {
+   "quote_id": "q06148",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless aphorism."
+  },
+  {
+   "quote_id": "q06149",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Quotation marks and speaker context are absent; the passage does not independently establish spoken dialogue."
+  },
+  {
+   "quote_id": "q06150",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narration about the story world."
+  },
+  {
+   "quote_id": "q06151",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted exchange without an external narrating beat."
+  },
+  {
+   "quote_id": "q06152",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific past narration of Ellen Adams, with an embedded aphoristic formulation."
+  },
+  {
+   "quote_id": "q06153",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narration of the previous administration."
+  },
+  {
+   "quote_id": "q06154",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense story action involving Ellen's security chief."
+  },
+  {
+   "quote_id": "q06155",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General maxim."
+  },
+  {
+   "quote_id": "q06156",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless general statement with no supplied story-world referent."
+  },
+  {
+   "quote_id": "q06157",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Authorial framing about the work of fiction, not novel narration."
+  },
+  {
+   "quote_id": "q06158",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted exchange without an external narrating beat."
+  },
+  {
+   "quote_id": "q06159",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narration substantially outweighs the embedded speech, so the near-even passage is routed to event."
+  },
+  {
+   "quote_id": "q06160",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted exchange without an external narrating beat."
+  },
+  {
+   "quote_id": "q06161",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted exchange without an external narrating beat."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "The supplied event-narration excerpts are past tense. The present-tense material is dialogue, gnomic, or paratext, apart from one present dialogue beat."
+}

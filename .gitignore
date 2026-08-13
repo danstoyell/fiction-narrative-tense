@@ -1,5 +1,6 @@
 # Credentials — never commit. .env.example documents the required names.
 .env
+.venv-progress/
 
 # Scraped Goodreads HTML: 336 MB, in-copyright, and fully regenerable by
 # crawl.py (responses are disk-cached so re-running costs no requests).

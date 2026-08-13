@@ -20,6 +20,30 @@ STRAND_BAR = 0.70           # 70-85% present + memory strand -> PRESENT (flagged
 DOMINANT = 0.80             # a "dual" book this one-sided has a base tense + a strand
 
 
+def tally(quotes, beats="include"):
+    """Count tense-bearing quotes.
+
+    `event` quotes carry a `tense` directly. `dialogue` quotes carry `beat_tense`
+    -- the tense of narration the NARRATOR speaks inside a speech quote (a tag or
+    an action beat). Both are the narrator's own words about the story world, so
+    with beats="include" they land in the same tally.
+
+    The caveat the spec raised is real: an event quote is a whole narrated passage,
+    a beat is often a bare "he said". Pooling lets a book clear the event floor on
+    thinner evidence than the thresholds were calibrated against. Counts are kept
+    separate in the output so either view can be recovered without re-running.
+    """
+    ev = [q for q in quotes if q.get("bucket") == "event"]
+    ev_past = sum(1 for q in ev if q.get("tense") == "past")
+    ev_pres = sum(1 for q in ev if q.get("tense") == "present")
+    bt_past = bt_pres = 0
+    if beats == "include":
+        dq = [q for q in quotes if q.get("bucket") == "dialogue"]
+        bt_past = sum(1 for q in dq if q.get("beat_tense") == "past")
+        bt_pres = sum(1 for q in dq if q.get("beat_tense") == "present")
+    return ev_past, ev_pres, bt_past, bt_pres
+
+
 def label(ev_past, ev_present, situation, verse):
     """Label the BASE NARRATION, using narrating_situation as the primary signal.
 
@@ -71,6 +95,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--stratum", default="top2021")
     ap.add_argument("--out", default=None)
+    ap.add_argument("--beats", choices=("include", "exclude"), default="include",
+                    help="whether dialogue beat_tense counts toward the tense tally")
     a = ap.parse_args()
 
     books = {r["sample_id"]: r for r in csv.DictReader(
@@ -87,9 +113,8 @@ def main():
             continue
         qs = d.get("quotes", [])
         bk = collections.Counter(q.get("bucket", "") for q in qs)
-        ev = [q for q in qs if q.get("bucket") == "event"]
-        ev_past = sum(1 for q in ev if q.get("tense") == "past")
-        ev_pres = sum(1 for q in ev if q.get("tense") == "present")
+        e_past, e_pres, b_past, b_pres = tally(qs, a.beats)
+        ev_past, ev_pres = e_past + b_past, e_pres + b_pres
         # A book is verse only if MOST quotes carry the verdict marker. Matching
         # the bare substring "verse" flagged novels whose notes mentioned an
         # embedded Tennyson quotation or an epigraph -- "universe", "reverse" and
@@ -106,6 +131,8 @@ def main():
             event=bk["event"], gnomic=bk["gnomic"], dialogue=bk["dialogue"],
             paratext=bk["paratext"], unclear=bk["unclear"],
             ev_past=ev_past, ev_present=ev_pres,
+            event_past=e_past, event_present=e_pres,
+            beat_past=b_past, beat_present=b_pres,
             pct_present=(ev_pres / (ev_past + ev_pres)) if (ev_past + ev_pres) else "",
             situation=sit, label=lab, confidence=conf, why=why))
 

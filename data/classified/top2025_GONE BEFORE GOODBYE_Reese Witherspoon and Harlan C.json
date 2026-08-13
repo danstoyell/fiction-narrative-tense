@@ -1,0 +1,130 @@
+{
+ "sample_id": "top2025:GONE BEFORE GOODBYE|Reese Witherspoon and Harlan C",
+ "quotes": [
+  {
+   "quote_id": "q09993",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalized second-person reflection."
+  },
+  {
+   "quote_id": "q09994",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalized second-person observation."
+  },
+  {
+   "quote_id": "q09995",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Present narration of her specific grief response."
+  },
+  {
+   "quote_id": "q09996",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": "Speech exchange; Sharon shrugs in a present-tense beat."
+  },
+  {
+   "quote_id": "q09997",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Sentence fragment lacks enough context to identify its function."
+  },
+  {
+   "quote_id": "q09998",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General aphorism."
+  },
+  {
+   "quote_id": "q09999",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Present narration of a specific character's state."
+  },
+  {
+   "quote_id": "q10000",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalized second-person assertion."
+  },
+  {
+   "quote_id": "q10001",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General aphorism."
+  },
+  {
+   "quote_id": "q10002",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalized second-person reflection on loss and fate."
+  },
+  {
+   "quote_id": "q10003",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General reflection framed as a rhetorical question."
+  },
+  {
+   "quote_id": "q10004",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalized second-person maxim."
+  },
+  {
+   "quote_id": "q10005",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Present narration of her specific coping action."
+  },
+  {
+   "quote_id": "q10006",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific present-time statement that a deal has been made."
+  },
+  {
+   "quote_id": "q10007",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": "Speech exchange with a present-tense smile beat."
+  },
+  {
+   "quote_id": "q10008",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Standalone general imperative."
+  },
+  {
+   "quote_id": "q10009",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General statement about humans."
+  },
+  {
+   "quote_id": "q10010",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past narration of a specific character's realization."
+  },
+  {
+   "quote_id": "q10011",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": "Character speech with a present-tense says tag."
+  },
+  {
+   "quote_id": "q10012",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General first-person-plural reflection."
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "Four event-narration quotes: three present and one past recollection. Present event narration concerns immediate character states/actions; no dual-form evidence appears in the supplied excerpts."
+}

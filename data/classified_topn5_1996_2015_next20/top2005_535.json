@@ -1,0 +1,106 @@
+{
+ "sample_id": "top2005:535",
+ "quotes": [
+  {
+   "quote_id": "q01303",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01304",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01305",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01306",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01307",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "direct address supports character speech; no narrating beat"
+  },
+  {
+   "quote_id": "q01308",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01309",
+   "bucket": "event",
+   "tense": "past",
+   "note": "story-specific cognition frames the aphoristic observation"
+  },
+  {
+   "quote_id": "q01310",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01311",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01312",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01313",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "spoken-address framing; no narrating beat"
+  },
+  {
+   "quote_id": "q01314",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "direct address supports character speech; no narrating beat"
+  },
+  {
+   "quote_id": "q01315",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01316",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01317",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01318",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Six story-specific event-narration excerpts are past tense; the remaining excerpts are primarily gnomic, with three supported dialogue excerpts and no narrating beats."
+}

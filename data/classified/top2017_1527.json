@@ -23,6 +23,7 @@
    "quote_id": "q02159",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "quotation-mark majority; dialect register"
   },
   {
@@ -35,18 +36,21 @@
    "quote_id": "q02161",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quotation-mark majority with dialogue tag"
   },
   {
    "quote_id": "q02162",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "quotation-mark majority; embedded first-person testimony"
   },
   {
    "quote_id": "q02163",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "marginal: 12 quoted words vs 6 narrating; quotation-mark majority wins over the past-tense frame"
   },
   {
@@ -65,12 +69,14 @@
    "quote_id": "q02166",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "vocative 'Look boy' + speech tag; quotation-mark majority"
   },
   {
    "quote_id": "q02167",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "exclamation + speech tag; quotation-mark majority"
   },
   {
@@ -113,6 +119,7 @@
    "quote_id": "q02174",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quotation-mark majority (~110 spoken words vs ~50 narrating) despite the campfire framing"
   },
   {

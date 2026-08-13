@@ -1,0 +1,128 @@
+{
+ "sample_id": "top1998:3707",
+ "quotes": [
+  {
+   "quote_id": "q00555",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00556",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00557",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00558",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Past-tense analogy with no story-world referent."
+  },
+  {
+   "quote_id": "q00559",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00560",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00561",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q00562",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00563",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00564",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00565",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00566",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Truncated fragment with an unmatched quotation mark."
+  },
+  {
+   "quote_id": "q00567",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00568",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00569",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00570",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00571",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Fragment without a recoverable narrative tense."
+  },
+  {
+   "quote_id": "q00572",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q00573",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Truncated dependent clause without a recoverable narrative tense."
+  },
+  {
+   "quote_id": "q00574",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

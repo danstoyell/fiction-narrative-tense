@@ -3,7 +3,7 @@
   "quotes": [
     {"quote_id": "q06483", "bucket": "gnomic", "tense": "", "note": "second-person universal aphorism about trust/betrayal; opening 'there was' clauses are generalizing framing, not story events"},
     {"quote_id": "q06484", "bucket": "gnomic", "tense": "", "note": "second-person universal; no quotation marks though marks survive elsewhere in this book, so read as narration/aphorism rather than stripped dialogue -- possible unmarked dialogue"},
-    {"quote_id": "q06485", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority: speech far outweighs the 'I interrupted' tag"},
+    {"quote_id": "q06485", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority: speech far outweighs the 'I interrupted' tag", "beat_tense": "past"},
     {"quote_id": "q06486", "bucket": "event", "tense": "past", "note": "specific narrator state, 'To me ... lay'"},
     {"quote_id": "q06487", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about history and women beyond the story world"},
     {"quote_id": "q06488", "bucket": "event", "tense": "past", "note": "specific narrator realization at a story moment, 'I understood now'"},
@@ -23,7 +23,7 @@
     {"quote_id": "q06502", "bucket": "event", "tense": "past", "note": "past-tense backstory about a specific character, the narrator's mother"},
     {"quote_id": "q06503", "bucket": "event", "tense": "past", "note": "specific narrator moment, 'It felt as though'"},
     {"quote_id": "q06504", "bucket": "gnomic", "tense": "", "note": "maxim about apothecaries generally, no story-world referent; mixed tense -- past copula 'was' with present 'knows' -- flagged, since gnomic is normally present-only"},
-    {"quote_id": "q06505", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority: Nella's speech dominates over 'Nella whispered' and the tracing beat"},
+    {"quote_id": "q06505", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority: Nella's speech dominates over 'Nella whispered' and the tracing beat", "beat_tense": "past"},
     {"quote_id": "q06506", "bucket": "gnomic", "tense": "", "note": "present-tense proverb"},
     {"quote_id": "q06507", "bucket": "event", "tense": "past", "note": "specific narrator state, 'had done this to me'"}
   ],

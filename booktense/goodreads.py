@@ -29,6 +29,17 @@ class RateLimited(Exception):
     """Goodreads served a bot challenge (HTTP 202 / empty body)."""
 
 
+def _pause(seconds, reason):
+    """Sleep in observable increments so unattended crawls remain monitorable."""
+    remaining = seconds
+    while remaining > 0:
+        nap = min(remaining, 10)
+        time.sleep(nap)
+        remaining -= nap
+        if remaining > 0:
+            print(f"      {reason} -- {remaining:.0f}s remaining", flush=True)
+
+
 def _get(url, retries=3):
     """GET with retry on transient network faults.
 
@@ -70,7 +81,7 @@ def fetch(url, use_cache=True, patient=False, cooldown=75, max_waits=25):
     for attempt in range(max_waits + 1):
         wait = DELAY - (time.time() - _last[0])
         if wait > 0:
-            time.sleep(wait)
+            _pause(wait, "pacing Goodreads request")
         status, body = _get(url)
         _last[0] = time.time()
 
@@ -87,7 +98,7 @@ def fetch(url, use_cache=True, patient=False, cooldown=75, max_waits=25):
             nap = min(cooldown * (1.4 ** attempt), 600)
             print(f"      throttled -- retry in {nap:.0f}s "
                   f"(attempt {attempt+1}/{max_waits})", flush=True)
-            time.sleep(nap)
+            _pause(nap, "throttle recovery")
             continue
 
         os.makedirs(CACHE, exist_ok=True)
@@ -382,8 +393,8 @@ def _is_dup(text, seen_shingles, thresh=0.45):
 
 
 def quotes(work_id, max_pages=4, patient=False):
-    """Fetch and dedupe quotes. Returns [(page, idx, url, text)]."""
-    seen, out = [], []
+    """Fetch and dedupe quotes. Returns (deduplicated quotes, raw count)."""
+    seen, out, raw_count = [], [], 0
     for p in range(1, max_pages + 1):
         url = f"https://www.goodreads.com/work/quotes/{work_id}"
         if p > 1:
@@ -408,6 +419,7 @@ def quotes(work_id, max_pages=4, patient=False):
             if len(t.split()) < 6:
                 continue
             found += 1
+            raw_count += 1
             if not is_english(t):                     # translated editions leak in
                 continue
             if _is_dup(t, seen):                      # overlapping excerpts of one passage
@@ -416,4 +428,4 @@ def quotes(work_id, max_pages=4, patient=False):
             out.append((p, i, url, t))
         if found < 30:      # page not full -> no more pages exist
             break
-    return out
+    return out, raw_count

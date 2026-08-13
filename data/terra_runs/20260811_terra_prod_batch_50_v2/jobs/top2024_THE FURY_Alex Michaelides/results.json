@@ -1,0 +1,29 @@
+{
+  "sample_id": "top2024:THE FURY|Alex Michaelides",
+  "quotes": [
+    {"quote_id": "q09490", "bucket": "gnomic", "tense": "", "note": "Timeless universal claim."},
+    {"quote_id": "q09491", "bucket": "event", "tense": "present", "note": "First-person, present-moment reflection."},
+    {"quote_id": "q09492", "bucket": "event", "tense": "past", "note": "Story-anchored recollection."},
+    {"quote_id": "q09493", "bucket": "gnomic", "tense": "", "note": "Generalized present-tense reflection."},
+    {"quote_id": "q09494", "bucket": "gnomic", "tense": "", "note": "Generalized conditional statement."},
+    {"quote_id": "q09495", "bucket": "gnomic", "tense": "", "note": "Aphoristic reflection about life, love, death, and reality."},
+    {"quote_id": "q09496", "bucket": "event", "tense": "past", "note": "Story-specific recollection of Mariana's past speech."},
+    {"quote_id": "q09497", "bucket": "event", "tense": "present", "note": "Narrator's current, story-specific practice."},
+    {"quote_id": "q09498", "bucket": "gnomic", "tense": "", "note": "Direct-address advice generalizing beyond a story moment."},
+    {"quote_id": "q09499", "bucket": "gnomic", "tense": "", "note": "Generalized account of how people communicate."},
+    {"quote_id": "q09500", "bucket": "event", "tense": "present", "note": "Story-specific report of Mr. Levy's stated answer; the quoted speech is not a majority."},
+    {"quote_id": "q09501", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational rhetorical question; no external narration beat."},
+    {"quote_id": "q09502", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Mr Levy is explicitly attributed as speaker."},
+    {"quote_id": "q09503", "bucket": "event", "tense": "past", "note": "Story-specific first-person recollection controls the passage."},
+    {"quote_id": "q09504", "bucket": "gnomic", "tense": "", "note": "The brief first-person setup introduces a general theological proposition."},
+    {"quote_id": "q09505", "bucket": "gnomic", "tense": "", "note": "General proposition about creativity and escape."},
+    {"quote_id": "q09506", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Character speech with a past-tense attribution."},
+    {"quote_id": "q09507", "bucket": "event", "tense": "present", "note": "Narrator's current, story-specific self-description."},
+    {"quote_id": "q09508", "bucket": "gnomic", "tense": "", "note": "Generalized reflection on love and happiness."},
+    {"quote_id": "q09509", "bucket": "event", "tense": "past", "note": "Story-specific recollection and explanation of past experience."},
+    {"quote_id": "q09510", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational turn without a narrated beat."},
+    {"quote_id": "q09511", "bucket": "unclear", "tense": "", "note": "Stripped rhetorical question lacks affirmative evidence of spoken dialogue versus narrated thought."}
+  ],
+  "narrating_situation": "unclear",
+  "agent_note": "Event narration is evenly split (4 past, 4 present). The past passages are recollective/autobiographical, while the present passages are a narrator's writing-moment self-description or reflection; the supplied excerpts alone do not establish the wider narrating situation. Dialogue beats are 2 past and 0 present."
+}

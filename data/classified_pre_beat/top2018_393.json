@@ -1,0 +1,24 @@
+{
+  "sample_id": "top2018:393",
+  "quotes": [
+    {"quote_id": "q03156", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism, generalizes beyond the story world"},
+    {"quote_id": "q03157", "bucket": "gnomic", "tense": "", "note": "present-tense second-person universal"},
+    {"quote_id": "q03158", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism about justice"},
+    {"quote_id": "q03159", "bucket": "event", "tense": "past", "note": "first-person past about the narrator's own friendship; closing rhetorical question is also past-tense"},
+    {"quote_id": "q03160", "bucket": "event", "tense": "past", "note": "anchored by 'I felt myself tense up' at a specific moment; the generalization about men is reported as the narrator's past observation"},
+    {"quote_id": "q03161", "bucket": "event", "tense": "past", "note": "matrix verb 'I also knew' is past narration of the narrator's state; the following clauses are conditionals, not past narration"},
+    {"quote_id": "q03162", "bucket": "event", "tense": "present", "note": "FLIP RISK. Present-tense first-person standing attitude ('What I can't stand are...'). Specific to the narrator, so not a universal proverb, but it is a habitual state rather than a story-moment and shades toward essayistic reflection. Conversational register raises unmarked-dialogue as a third reading, though quotation marks do survive elsewhere in this book (q03167)."},
+    {"quote_id": "q03163", "bucket": "event", "tense": "past", "note": "past-tense exposition about a specific story-world character, not gnomic"},
+    {"quote_id": "q03164", "bucket": "unclear", "tense": "", "note": "three-way ambiguous and roughly evenly split: past story-world clause ('It was probably a function of getting older') vs present-tense universal ('we all become exaggerated versions of ourselves'), and the trailing comma suggests a dialogue tag was truncated away. Abstaining."},
+    {"quote_id": "q03165", "bucket": "event", "tense": "past", "note": "opens with a present-tense generalization but the payoff clause 'Alone it was hard as fuck' applies it to the narrator's own past situation"},
+    {"quote_id": "q03166", "bucket": "event", "tense": "past", "note": "truncated opening; specific scene at the parents' dining room table"},
+    {"quote_id": "q03167", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; the 'she said' / 'I smiled and said' beats are far outweighed by speech"},
+    {"quote_id": "q03168", "bucket": "event", "tense": "past", "note": "short but a finite past verb about the narrator's own state"},
+    {"quote_id": "q03169", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03170", "bucket": "event", "tense": "present", "note": "FLIP RISK. Present/present-perfect first-person self-description ('I've always considered myself lucky', 'a bonus has been'). Specific to the speaker rather than universal, so event by the specificity test, but it is a standing state and the woodworking reference plus chatty rhetorical questions suggest either a second POV narrator or unmarked speech."},
+    {"quote_id": "q03171", "bucket": "event", "tense": "past", "note": "truncated interior questions but carries finite past verbs ('Had I somehow lost myself as Finch grew')"},
+    {"quote_id": "q03172", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "First-person retrospective, quote-page heavily loaded with aphorism (3 clean gnomic) as METHODOLOGY predicts for this source. 12 event quotes, 10 past / 2 present. Both present quotes (q03162, q03170) are habitual first-person standing states rather than story-moments and are the borderline calls; if either were reassigned to gnomic the book goes 100% past, so the past reading is stable in both directions. q03164 abstained. Quotation marks survive in this book's excerpts, so mark-absence was treated as informative."
+}

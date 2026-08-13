@@ -1,0 +1,29 @@
+{
+  "sample_id": "top2017:5794",
+  "quotes": [
+    {"quote_id": "q01768", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational welcome/address."},
+    {"quote_id": "q01769", "bucket": "event", "tense": "past", "note": "Past narration outweighs the embedded quoted comparison."},
+    {"quote_id": "q01770", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Character speech."},
+    {"quote_id": "q01771", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational reply."},
+    {"quote_id": "q01772", "bucket": "gnomic", "tense": "", "note": "Present-tense generalization about opiate highs and people generally."},
+    {"quote_id": "q01773", "bucket": "event", "tense": "past", "note": "Specific narrated action."},
+    {"quote_id": "q01774", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Speech-majority excerpt; past reporting beat: Reacher said."},
+    {"quote_id": "q01775", "bucket": "event", "tense": "past", "note": "Specific character's observation and setting at a story moment."},
+    {"quote_id": "q01776", "bucket": "event", "tense": "past", "note": "Past story-world description centered on him and Wyoming."},
+    {"quote_id": "q01777", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Speech-majority conversational exchange."},
+    {"quote_id": "q01778", "bucket": "unclear", "tense": "", "note": "Contextless demonstrative claim; insufficient evidence to identify a story-specific referent or speech."},
+    {"quote_id": "q01779", "bucket": "event", "tense": "past", "note": "Specific movement, setting, and character speculation."},
+    {"quote_id": "q01780", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Speech-majority exchange; past reporting beat: the guy said."},
+    {"quote_id": "q01781", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Attributed character speech."},
+    {"quote_id": "q01782", "bucket": "unclear", "tense": "", "note": "Incomplete descriptive fragment with no finite narrative tense."},
+    {"quote_id": "q01783", "bucket": "event", "tense": "past", "note": "Past narration recounting a joke and its speakers' actions."},
+    {"quote_id": "q01784", "bucket": "unclear", "tense": "", "note": "Fragmentary story-specific thought followed by the content of an old joke; no finite narrative tense."},
+    {"quote_id": "q01785", "bucket": "unclear", "tense": "", "note": "Noun phrase only; no finite narrative tense."},
+    {"quote_id": "q01786", "bucket": "event", "tense": "past", "note": "Past narration of a specific character's reasoning and actions."},
+    {"quote_id": "q01787", "bucket": "gnomic", "tense": "", "note": "Second-person, iterative generalization beyond a specific story moment."},
+    {"quote_id": "q01788", "bucket": "event", "tense": "past", "note": "Past narration describing a specific observed landscape."},
+    {"quote_id": "q01789", "bucket": "event", "tense": "past", "note": "Past description of a specific person."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Event-narration evidence is uniformly past tense in this supplied sample. Dialogue beats that are present are absent; the two observed reporting beats are past."
+}

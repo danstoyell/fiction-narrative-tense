@@ -1,0 +1,162 @@
+{
+ "sample_id": "top2014:2250",
+ "quotes": [
+  {
+   "quote_id": "q02265",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02266",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02267",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02268",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02269",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "fragment lacks a classifiable predicate"
+  },
+  {
+   "quote_id": "q02270",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q02271",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "fragment lacks a classifiable predicate"
+  },
+  {
+   "quote_id": "q02272",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02273",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02274",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02275",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02276",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02277",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02278",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "fragment lacks a classifiable predicate"
+  },
+  {
+   "quote_id": "q02279",
+   "bucket": "event",
+   "tense": "past",
+   "note": "first-person action narration despite unmatched quotation mark"
+  },
+  {
+   "quote_id": "q02280",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02281",
+   "bucket": "event",
+   "tense": "past",
+   "note": "unmatched quotation mark; story-specific narration"
+  },
+  {
+   "quote_id": "q02282",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02283",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02284",
+   "bucket": "event",
+   "tense": "past",
+   "note": "story-specific narrated events despite quotation marks"
+  },
+  {
+   "quote_id": "q02285",
+   "bucket": "event",
+   "tense": "past",
+   "note": "first-person story narration despite quotation marks"
+  },
+  {
+   "quote_id": "q02286",
+   "bucket": "event",
+   "tense": "past",
+   "note": "fragmentary but story-specific first-person recollection"
+  },
+  {
+   "quote_id": "q02287",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02288",
+   "bucket": "event",
+   "tense": "past",
+   "note": "near-even speech/narration split; event tie-break"
+  },
+  {
+   "quote_id": "q02289",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "fragment lacks a classifiable predicate"
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

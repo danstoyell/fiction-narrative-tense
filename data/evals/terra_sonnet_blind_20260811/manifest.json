@@ -1,0 +1,290 @@
+{
+  "seed": 20260811,
+  "books_per_year": 3,
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "books": [
+    {
+      "sample_id": "top2016:116",
+      "year": 2016,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2016_116.json",
+      "production_sha256": "131824d2ddcdf8c96e4790018e772e9c9ad11494541e3f7374f49b8ea6b9f8ff",
+      "snapshot": "sonnet_snapshot/top2016_116.json",
+      "quote_count": 77
+    },
+    {
+      "sample_id": "top2016:1834",
+      "year": 2016,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2016_1834.json",
+      "production_sha256": "3896c1f1993a59780d790a7e6fe53e8f0bb84bbb0a19d05d2a2ff277b7332ef3",
+      "snapshot": "sonnet_snapshot/top2016_1834.json",
+      "quote_count": 22
+    },
+    {
+      "sample_id": "top2016:5261",
+      "year": 2016,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2016_5261.json",
+      "production_sha256": "d83e724a72381cb2f61716297d5e6972bc80a4acdba5a7d009a2c65fdc81637c",
+      "snapshot": "sonnet_snapshot/top2016_5261.json",
+      "quote_count": 23
+    },
+    {
+      "sample_id": "top2017:2441",
+      "year": 2017,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2017_2441.json",
+      "production_sha256": "fd953bd55d05dde55d240b131f1243e886370e2fcc56a9b9c371661a469a1546",
+      "snapshot": "sonnet_snapshot/top2017_2441.json",
+      "quote_count": 43
+    },
+    {
+      "sample_id": "top2017:640",
+      "year": 2017,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2017_640.json",
+      "production_sha256": "bb2545b4ad86fdea0cb388b877e29248ceeb4696a40ed371fadcd394150602b0",
+      "snapshot": "sonnet_snapshot/top2017_640.json",
+      "quote_count": 47
+    },
+    {
+      "sample_id": "top2017:2897",
+      "year": 2017,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2017_2897.json",
+      "production_sha256": "fbd70a02412d64d464770bb9577a2eca75f6bea0affbb089e865d3e0bb7de08f",
+      "snapshot": "sonnet_snapshot/top2017_2897.json",
+      "quote_count": 68
+    },
+    {
+      "sample_id": "top2018:3244",
+      "year": 2018,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2018_3244.json",
+      "production_sha256": "7626860dcc0f06fa5047d73d76e7570396333d7f3c9ec8576872c773133748fc",
+      "snapshot": "sonnet_snapshot/top2018_3244.json",
+      "quote_count": 71
+    },
+    {
+      "sample_id": "top2018:1288",
+      "year": 2018,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2018_1288.json",
+      "production_sha256": "cee50cbf77599e7f1384908dff71f528c04c1c38f257072827b8f32b2f467acf",
+      "snapshot": "sonnet_snapshot/top2018_1288.json",
+      "quote_count": 16
+    },
+    {
+      "sample_id": "top2018:5322",
+      "year": 2018,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2018_5322.json",
+      "production_sha256": "262b3ccb7c47b931e507a47ff8883a820f8a0dd3ba462a4e6399a2c49f17dc01",
+      "snapshot": "sonnet_snapshot/top2018_5322.json",
+      "quote_count": 79
+    },
+    {
+      "sample_id": "top2019:5026",
+      "year": 2019,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2019_5026.json",
+      "production_sha256": "de11473859039589c4fd8635da86cb5cbda6df82889046842fc91a397fad784e",
+      "snapshot": "sonnet_snapshot/top2019_5026.json",
+      "quote_count": 25
+    },
+    {
+      "sample_id": "top2019:2795",
+      "year": 2019,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2019_2795.json",
+      "production_sha256": "082340d4ea5141423663f55f4a87027d09c14b5cbd0a011344c4c0de9561f74c",
+      "snapshot": "sonnet_snapshot/top2019_2795.json",
+      "quote_count": 19
+    },
+    {
+      "sample_id": "top2019:776",
+      "year": 2019,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2019_776.json",
+      "production_sha256": "8bfb3bced25df563e361b39e7f22b6d72d2eaf3a21dc3e2c8e6961a1f8f2b5ff",
+      "snapshot": "sonnet_snapshot/top2019_776.json",
+      "quote_count": 24
+    },
+    {
+      "sample_id": "top2020:4687",
+      "year": 2020,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2020_4687.json",
+      "production_sha256": "50673e5e0dee47a8e3fa2a2bb658881636ce06987b620f9335283ad31cfa0800",
+      "snapshot": "sonnet_snapshot/top2020_4687.json",
+      "quote_count": 48
+    },
+    {
+      "sample_id": "top2020:1718",
+      "year": 2020,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2020_1718.json",
+      "production_sha256": "25a75dc586e9cabec488f8acb98383dcd2fd929e3531c6f0ccb1ed7cac6c838f",
+      "snapshot": "sonnet_snapshot/top2020_1718.json",
+      "quote_count": 16
+    },
+    {
+      "sample_id": "top2020:414",
+      "year": 2020,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2020_414.json",
+      "production_sha256": "345b6f077c188497e124ba01e6d89c0d6eda77547be6be35c44e2edb739d6fdc",
+      "snapshot": "sonnet_snapshot/top2020_414.json",
+      "quote_count": 52
+    },
+    {
+      "sample_id": "top2021:APPLES NEVER FALL|Liane Moriarty",
+      "year": 2021,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2021_APPLES NEVER FALL_Liane Moriarty.json",
+      "production_sha256": "161a5cf8082b5e4b8e00588bee2b11f4b2f00e21bf3e80f35454efd98c901587",
+      "snapshot": "sonnet_snapshot/top2021_APPLES NEVER FALL_Liane Moriarty.json",
+      "quote_count": 80
+    },
+    {
+      "sample_id": "top2021:THE PAPER PALACE|Miranda Cowley Heller",
+      "year": 2021,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2021_THE PAPER PALACE_Miranda Cowley Heller.json",
+      "production_sha256": "b78bafbb3d2b79eabddae100bd209205dcd15c4d6e8a24588e9c3921d45bda23",
+      "snapshot": "sonnet_snapshot/top2021_THE PAPER PALACE_Miranda Cowley Heller.json",
+      "quote_count": 47
+    },
+    {
+      "sample_id": "top2021:THE HILL WE CLIMB|Amanda Gorman",
+      "year": 2021,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2021_THE HILL WE CLIMB_Amanda Gorman.json",
+      "production_sha256": "edfa5ee1123d7bf0ae3f26919f44a3a460ade6cc5bfc49a5667cd2fa7dab7fe4",
+      "snapshot": "sonnet_snapshot/top2021_THE HILL WE CLIMB_Amanda Gorman.json",
+      "quote_count": 16
+    },
+    {
+      "sample_id": "top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",
+      "year": 2022,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2022_RUN, ROSE, RUN_Dolly Parton and James Patters.json",
+      "production_sha256": "889277fe31a1d085b0e2d197a5125e11a7e5afdc780aab405107a60e4c811c4e",
+      "snapshot": "sonnet_snapshot/top2022_RUN, ROSE, RUN_Dolly Parton and James Patters.json",
+      "quote_count": 23
+    },
+    {
+      "sample_id": "top2022:FAIRY TALE|Stephen King",
+      "year": 2022,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2022_FAIRY TALE_Stephen King.json",
+      "production_sha256": "cd5fe04321d4e4673bbd7df1d3f587533b34f45820fff64c60554364d2e2c92b",
+      "snapshot": "sonnet_snapshot/top2022_FAIRY TALE_Stephen King.json",
+      "quote_count": 24
+    },
+    {
+      "sample_id": "top2022:SEA OF TRANQUILITY|Emily St",
+      "year": 2022,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2022_SEA OF TRANQUILITY_Emily St.json",
+      "production_sha256": "e49ed65eb8f8c55b678717f45fc1f8e423e0ba6861ac6ab9acc193eb4705cec8",
+      "snapshot": "sonnet_snapshot/top2022_SEA OF TRANQUILITY_Emily St.json",
+      "quote_count": 26
+    },
+    {
+      "sample_id": "top2023:NONE OF THIS IS TRUE|Lisa Jewell",
+      "year": 2023,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2023_NONE OF THIS IS TRUE_Lisa Jewell.json",
+      "production_sha256": "6922ed9a452199accc044ff73a72ca3c21c04afe9fde7a00c40044e5f7343829",
+      "snapshot": "sonnet_snapshot/top2023_NONE OF THIS IS TRUE_Lisa Jewell.json",
+      "quote_count": 27
+    },
+    {
+      "sample_id": "top2023:DIRTY THIRTY|Janet Evanovich",
+      "year": 2023,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2023_DIRTY THIRTY_Janet Evanovich.json",
+      "production_sha256": "53559b0d6f817f9096979a5f8c54542a92b105530ca87207d8fc0d1b0951e2ee",
+      "snapshot": "sonnet_snapshot/top2023_DIRTY THIRTY_Janet Evanovich.json",
+      "quote_count": 19
+    },
+    {
+      "sample_id": "top2023:THE HOUSE IN THE PINES|Ana Reyes",
+      "year": 2023,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2023_THE HOUSE IN THE PINES_Ana Reyes.json",
+      "production_sha256": "37c26994e50ffdcb563294596a064e49701a1c74ccc662f74ca7894c73c2e16e",
+      "snapshot": "sonnet_snapshot/top2023_THE HOUSE IN THE PINES_Ana Reyes.json",
+      "quote_count": 27
+    },
+    {
+      "sample_id": "top2024:TELL ME EVERYTHING|Elizabeth Strout",
+      "year": 2024,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2024_TELL ME EVERYTHING_Elizabeth Strout.json",
+      "production_sha256": "9afb14ad810abe971cac8419d28ae897ebf2a049095ed27bb6af2c9304c7d8c2",
+      "snapshot": "sonnet_snapshot/top2024_TELL ME EVERYTHING_Elizabeth Strout.json",
+      "quote_count": 24
+    },
+    {
+      "sample_id": "top2024:SMALL THINGS LIKE THESE|Claire Keegan",
+      "year": 2024,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2024_SMALL THINGS LIKE THESE_Claire Keegan.json",
+      "production_sha256": "c7db8c71e64cf7a1e9d52a496d55b31be1174cac9c9aedf628d0a0308fb0efdd",
+      "snapshot": "sonnet_snapshot/top2024_SMALL THINGS LIKE THESE_Claire Keegan.json",
+      "quote_count": 46
+    },
+    {
+      "sample_id": "top2024:HERE ONE MOMENT|Liane Moriarty",
+      "year": 2024,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2024_HERE ONE MOMENT_Liane Moriarty.json",
+      "production_sha256": "2d2c5cea8632d94e67a46fed4c5c7c664bbf613ea62499fd5561a91368623077",
+      "snapshot": "sonnet_snapshot/top2024_HERE ONE MOMENT_Liane Moriarty.json",
+      "quote_count": 82
+    },
+    {
+      "sample_id": "top2025:ALCHEMISED|SenLinYu",
+      "year": 2025,
+      "agent_id": "agent_1",
+      "production_source": "data/classified/top2025_ALCHEMISED_SenLinYu.json",
+      "production_sha256": "11406bfb88dbb0e31d4915c6224e98fcbed0edc54b290109db31c9a95492796d",
+      "snapshot": "sonnet_snapshot/top2025_ALCHEMISED_SenLinYu.json",
+      "quote_count": 80
+    },
+    {
+      "sample_id": "top2025:ONYX STORM|Rebecca Yarros",
+      "year": 2025,
+      "agent_id": "agent_2",
+      "production_source": "data/classified/top2025_ONYX STORM_Rebecca Yarros.json",
+      "production_sha256": "0580da1ca0a71ae968ec9f18875183076aa7b145080223d4699b7fd7c041bd53",
+      "snapshot": "sonnet_snapshot/top2025_ONYX STORM_Rebecca Yarros.json",
+      "quote_count": 25
+    },
+    {
+      "sample_id": "top2025:SUMMER IN THE CITY|Alex Aster",
+      "year": 2025,
+      "agent_id": "agent_3",
+      "production_source": "data/classified/top2025_SUMMER IN THE CITY_Alex Aster.json",
+      "production_sha256": "569902267246533466f59ab08232275b92abf3bef20395affd767de60bcc0c94",
+      "snapshot": "sonnet_snapshot/top2025_SUMMER IN THE CITY_Alex Aster.json",
+      "quote_count": 26
+    }
+  ]
+}

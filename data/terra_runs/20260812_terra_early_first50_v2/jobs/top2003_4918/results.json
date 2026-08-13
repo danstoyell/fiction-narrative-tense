@@ -1,0 +1,30 @@
+{
+  "sample_id": "top2003:4918",
+  "quotes": [
+    {"quote_id": "q01020", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01021", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01022", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Faukman's eyes went wide; Faukman cringed."},
+    {"quote_id": "q01023", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01024", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01025", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01026", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01027", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01028", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01029", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01030", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01031", "bucket": "unclear", "tense": "", "note": "Unattributed first-person reflection; speech versus narration is unresolved."},
+    {"quote_id": "q01032", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01033", "bucket": "event", "tense": "past", "note": "Specific character thought at a story moment."},
+    {"quote_id": "q01034", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01035", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01036", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01037", "bucket": "event", "tense": "past", "note": "Unmatched opening quotation mark does not establish dialogue; this reports a historical event."},
+    {"quote_id": "q01038", "bucket": "event", "tense": "past", "note": "Story-specific description of Langdon and his past teaching."},
+    {"quote_id": "q01039", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01040", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q01041", "bucket": "event", "tense": "past", "note": "Specific character thought at a story moment."},
+    {"quote_id": "q01042", "bucket": "unclear", "tense": "", "note": "Unattributed exclamation; speech versus narration is unresolved."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Four event-narration excerpts are all past tense; the remaining present-tense aphorisms are non-diagnostic."
+}

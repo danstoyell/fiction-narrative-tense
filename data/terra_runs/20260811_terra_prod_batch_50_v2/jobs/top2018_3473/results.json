@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2018:3473",
+  "quotes": [
+    {"quote_id": "q02893", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02894", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02895", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02896", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q02897", "bucket": "event", "tense": "past", "note": "Story-specific focalized reflection and description."},
+    {"quote_id": "q02898", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Unmarked but clearly conversational speech."},
+    {"quote_id": "q02899", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q02900", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q02901", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q02902", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02903", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02904", "bucket": "event", "tense": "past", "note": "Narration slightly outweighs the quoted speech."},
+    {"quote_id": "q02905", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02906", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q02907", "bucket": "unclear", "tense": "", "note": "Fragment without a finite tense-bearing clause."},
+    {"quote_id": "q02908", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02909", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02910", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02911", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02912", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02913", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02914", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02915", "bucket": "event", "tense": "past", "note": "Narration outweighs the brief spoken exchange."},
+    {"quote_id": "q02916", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02917", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "24 event quotes: 23 past and 1 present. The present-tense event excerpt does not establish a dual narrating situation."
+}

@@ -5,24 +5,28 @@
    "quote_id": "q10122",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority: speech outweighs the 'he commanded'/'cocked his head' beats"
   },
   {
    "quote_id": "q10123",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Saeris Fane' + 2nd-person direct address"
   },
   {
    "quote_id": "q10124",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Saeris Fane' + direct address"
   },
   {
    "quote_id": "q10125",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'he whispered roughly'"
   },
   {
@@ -35,60 +39,70 @@
    "quote_id": "q10127",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; retort register (profanity, responsive defiance), reads as reply in the 'fates' exchange (cf. q10129)"
   },
   {
    "quote_id": "q10128",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; responsive retort about a third party"
   },
   {
    "quote_id": "q10129",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Alchemist' + 'Tell me, do you believe...'"
   },
   {
    "quote_id": "q10130",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Saeris' + 2nd person"
   },
   {
    "quote_id": "q10131",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Saeris'; expository line delivered in speech"
   },
   {
    "quote_id": "q10132",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority"
   },
   {
    "quote_id": "q10133",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'His eyes danced'"
   },
   {
    "quote_id": "q10134",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative + exclamatory direct address"
   },
   {
    "quote_id": "q10135",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority; 'Fisher said' / 'Ren laid a hand' are beats"
   },
   {
    "quote_id": "q10136",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; imperative direct address 'Never forget'; aphoristic content but speech act"
   },
   {
@@ -107,12 +121,14 @@
    "quote_id": "q10139",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; conversational reply register ('Sure. Why not.')"
   },
   {
    "quote_id": "q10140",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'I commanded'"
   },
   {
@@ -125,18 +141,21 @@
    "quote_id": "q10142",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority; ends on vocative 'Isn't that right, Renfis?'"
   },
   {
    "quote_id": "q10143",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority"
   },
   {
    "quote_id": "q10144",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "telepathic speech; 'Fisher's voice rumbled in my mind' is a tag, speech is the majority"
   },
   {
@@ -155,18 +174,21 @@
    "quote_id": "q10147",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; imperative + 'Now go' dismissal to a listener"
   },
   {
    "quote_id": "q10148",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; imperative 'Count yourself lucky' addressed to a listener; aphoristic content but speech act"
   },
   {
    "quote_id": "q10149",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority"
   },
   {
@@ -185,6 +207,7 @@
    "quote_id": "q10152",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'he purred'"
   },
   {
@@ -203,18 +226,21 @@
    "quote_id": "q10155",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over the 'Kingfisher considered me' beat"
   },
   {
    "quote_id": "q10156",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "pure exchange, all speech"
   },
   {
    "quote_id": "q10157",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'he snarled in my head'"
   },
   {
@@ -227,6 +253,7 @@
    "quote_id": "q10159",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Little Osha' + 2nd person"
   },
   {
@@ -239,6 +266,7 @@
    "quote_id": "q10161",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "FLIP RISK: speech ~47 vs narration ~32; quote-mark majority wins despite substantive past narration ('I darted forward... It bit me.')"
   },
   {
@@ -251,12 +279,14 @@
    "quote_id": "q10163",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; 2nd-person direct address throughout"
   },
   {
    "quote_id": "q10164",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority"
   },
   {
@@ -269,24 +299,28 @@
    "quote_id": "q10166",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Saeris Fane' + direct address"
   },
   {
    "quote_id": "q10167",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; self-justifying explanation, spoken register with inclusive 'we'"
   },
   {
    "quote_id": "q10168",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'he demanded'"
   },
   {
    "quote_id": "q10169",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'he snarled'"
   },
   {
@@ -311,30 +345,35 @@
    "quote_id": "q10173",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; 2nd-person accusation"
   },
   {
    "quote_id": "q10174",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'bitch' + imperative"
   },
   {
    "quote_id": "q10175",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'he taunted'"
   },
   {
    "quote_id": "q10176",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; imperative plea to an addressee"
   },
   {
    "quote_id": "q10177",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'He cast an amused look'"
   },
   {
@@ -347,48 +386,56 @@
    "quote_id": "q10179",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "pure exchange"
   },
   {
    "quote_id": "q10180",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Kingfisher' + imperatives; in-world spoken/written address, not paratext"
   },
   {
    "quote_id": "q10181",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; 2nd-person address, responsive 'Because'"
   },
   {
    "quote_id": "q10182",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; declamatory litany with 'our lungs' -- addressed to a group (cf. q10122)"
   },
   {
    "quote_id": "q10183",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; vocative 'Little Osha' + 2nd person"
   },
   {
    "quote_id": "q10184",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority; ends on vocative"
   },
   {
    "quote_id": "q10185",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; 2nd-person compliment"
   },
   {
    "quote_id": "q10186",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech ~32 vs narration ~9"
   },
   {
@@ -407,48 +454,56 @@
    "quote_id": "q10189",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech ~20 vs narration ~16; vocative 'Saeris'"
   },
   {
    "quote_id": "q10190",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority across a long exchange"
   },
   {
    "quote_id": "q10191",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'he said quietly'"
   },
   {
    "quote_id": "q10192",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "marked speech"
   },
   {
    "quote_id": "q10193",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech ~22 vs narration ~8"
   },
   {
    "quote_id": "q10194",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; responsive 'Because' + 2nd person 'you do'"
   },
   {
    "quote_id": "q10195",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "quote-mark majority over 'Carrion said'"
   },
   {
    "quote_id": "q10196",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "none",
    "note": "no marks; sustained address with vocative 'Saeris', 2nd person throughout"
   },
   {
@@ -461,12 +516,14 @@
    "quote_id": "q10198",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech 7 words vs narration 5; slim quote-mark majority"
   },
   {
    "quote_id": "q10199",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech ~48 vs narration ~35"
   },
   {
@@ -485,6 +542,7 @@
    "quote_id": "q10202",
    "bucket": "dialogue",
    "tense": "",
+   "beat_tense": "past",
    "note": "speech ~66 vs narration ~20"
   }
  ],

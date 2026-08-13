@@ -1,0 +1,140 @@
+{
+ "sample_id": "top2024:SWAN SONG|Elin Hilderbrand",
+ "quotes": [
+  {
+   "quote_id": "q09120",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Attributed Mary Oliver poem excerpt."
+  },
+  {
+   "quote_id": "q09121",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless generalization."
+  },
+  {
+   "quote_id": "q09122",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific interior thought."
+  },
+  {
+   "quote_id": "q09123",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past exposition about a character's seminar and learning."
+  },
+  {
+   "quote_id": "q09124",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific action and reflection."
+  },
+  {
+   "quote_id": "q09125",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Scene-specific description."
+  },
+  {
+   "quote_id": "q09126",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narration slightly outweighs the short quoted speech."
+  },
+  {
+   "quote_id": "q09127",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General rhetorical question."
+  },
+  {
+   "quote_id": "q09128",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific thought and habitual state."
+  },
+  {
+   "quote_id": "q09129",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific actions and current state."
+  },
+  {
+   "quote_id": "q09130",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific contemplation."
+  },
+  {
+   "quote_id": "q09131",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific actions and response."
+  },
+  {
+   "quote_id": "q09132",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": "Quoted instructional speech is the large majority; present narration supplies beats."
+  },
+  {
+   "quote_id": "q09133",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific action; closing speech is brief."
+  },
+  {
+   "quote_id": "q09134",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific action and opinion."
+  },
+  {
+   "quote_id": "q09135",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific scene description."
+  },
+  {
+   "quote_id": "q09136",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific character state."
+  },
+  {
+   "quote_id": "q09137",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific first-person perception."
+  },
+  {
+   "quote_id": "q09138",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific scene, action, and thought."
+  },
+  {
+   "quote_id": "q09139",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-world habitual action of a specific character."
+  },
+  {
+   "quote_id": "q09140",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narration outweighs the clipped, unmatched quoted fragment."
+  },
+  {
+   "quote_id": "q09141",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Book title only."
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "Event narration is predominantly simultaneous present; the sole past event is backstory/exposition."
+}

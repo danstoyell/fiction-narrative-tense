@@ -1,0 +1,361 @@
+{
+ "sample_id": "top2023:I HAVE SOME QUESTIONS FOR YOU|Rebecca Makkai",
+ "quotes": [
+  {
+   "quote_id": "q08395",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific reflective narration."
+  },
+  {
+   "quote_id": "q08396",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless generalization."
+  },
+  {
+   "quote_id": "q08397",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific remembered account."
+  },
+  {
+   "quote_id": "q08398",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific reflective recollection; past dominates."
+  },
+  {
+   "quote_id": "q08399",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character situation."
+  },
+  {
+   "quote_id": "q08400",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Aphoristic generalization."
+  },
+  {
+   "quote_id": "q08401",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narrator's personal history."
+  },
+  {
+   "quote_id": "q08402",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General imperative aphorism."
+  },
+  {
+   "quote_id": "q08403",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific narrator reflection framed as a past lesson."
+  },
+  {
+   "quote_id": "q08404",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct character speech without an external narration beat."
+  },
+  {
+   "quote_id": "q08405",
+   "bucket": "event",
+   "tense": "present",
+   "note": "First-person state, not affirmative evidence of speech."
+  },
+  {
+   "quote_id": "q08406",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalizing reflection beyond a story moment."
+  },
+  {
+   "quote_id": "q08407",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific recollection and summary; later present reflection remains story-anchored."
+  },
+  {
+   "quote_id": "q08408",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narrated recollection of a friend's speech."
+  },
+  {
+   "quote_id": "q08409",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless second-person generalization."
+  },
+  {
+   "quote_id": "q08410",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narrator's current bodily and emotional state."
+  },
+  {
+   "quote_id": "q08411",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Rhetorical, generalized address."
+  },
+  {
+   "quote_id": "q08412",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalization about teenagers."
+  },
+  {
+   "quote_id": "q08413",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific school-world event and commentary."
+  },
+  {
+   "quote_id": "q08414",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Conversational direct address; no narration beat."
+  },
+  {
+   "quote_id": "q08415",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narrator's current reflective state."
+  },
+  {
+   "quote_id": "q08416",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Present story-world reflection anchored by Omar."
+  },
+  {
+   "quote_id": "q08417",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific recollection; past narration dominates."
+  },
+  {
+   "quote_id": "q08418",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific scene and future-in-the-past projection."
+  },
+  {
+   "quote_id": "q08419",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character assessment."
+  },
+  {
+   "quote_id": "q08420",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narrator's current, story-specific self-assessment."
+  },
+  {
+   "quote_id": "q08421",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character impression."
+  },
+  {
+   "quote_id": "q08422",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narration outweighs the brief spoken phrase; present speech tag controls."
+  },
+  {
+   "quote_id": "q08423",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific projected sequence expressed with would."
+  },
+  {
+   "quote_id": "q08424",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Character exchange with past-tense action and speech beats."
+  },
+  {
+   "quote_id": "q08425",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Current first-person reflection, not dialogue."
+  },
+  {
+   "quote_id": "q08426",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific narrated interaction."
+  },
+  {
+   "quote_id": "q08427",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Extended personal recollection; past dominates."
+  },
+  {
+   "quote_id": "q08428",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narrator's past self-reminder."
+  },
+  {
+   "quote_id": "q08429",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific narrator reflection."
+  },
+  {
+   "quote_id": "q08430",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narrated conversation; narration is substantial and past-tense."
+  },
+  {
+   "quote_id": "q08431",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Essayistic explanation without a story event."
+  },
+  {
+   "quote_id": "q08432",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific recollection of bodily experience."
+  },
+  {
+   "quote_id": "q08433",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Conversational character speech without an external beat."
+  },
+  {
+   "quote_id": "q08434",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific group at a story moment."
+  },
+  {
+   "quote_id": "q08435",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific reported case."
+  },
+  {
+   "quote_id": "q08436",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific retrospective comparison."
+  },
+  {
+   "quote_id": "q08437",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct character speech without an external beat."
+  },
+  {
+   "quote_id": "q08438",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific account of Jerome; past narration dominates."
+  },
+  {
+   "quote_id": "q08439",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Current narrator reflection, with past memories embedded."
+  },
+  {
+   "quote_id": "q08440",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific news reports at a narrated moment."
+  },
+  {
+   "quote_id": "q08441",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific group recollection."
+  },
+  {
+   "quote_id": "q08442",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific girl's treatment, followed by story-anchored reflection."
+  },
+  {
+   "quote_id": "q08443",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narrator's current, story-specific reflection."
+  },
+  {
+   "quote_id": "q08444",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Clearly spoken conversational exchange; no external beat."
+  },
+  {
+   "quote_id": "q08445",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific loss and consequence."
+  },
+  {
+   "quote_id": "q08446",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific remembered place and perception."
+  },
+  {
+   "quote_id": "q08447",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific personal recollection."
+  },
+  {
+   "quote_id": "q08448",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past relationship and feeling."
+  },
+  {
+   "quote_id": "q08449",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Descriptive remembered person."
+  },
+  {
+   "quote_id": "q08450",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Fragment lacks enough context and a finite tense for classification."
+  },
+  {
+   "quote_id": "q08451",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past touring experience."
+  },
+  {
+   "quote_id": "q08452",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific retrospective habit."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Classification uses only supplied quote text. Event narration is predominantly retrospective, with present-tense narrator reflection at the apparent telling moment; no evidence requires a dual or simultaneous narrating situation."
+}

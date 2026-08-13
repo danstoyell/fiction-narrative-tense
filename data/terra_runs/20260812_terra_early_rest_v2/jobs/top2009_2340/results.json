@@ -1,0 +1,44 @@
+{
+ "sample_id": "top2009:2340",
+ "quotes": [
+  {
+   "quote_id": "q01469",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01470",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q01471",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01472",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q01473",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01474",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": ""
+}

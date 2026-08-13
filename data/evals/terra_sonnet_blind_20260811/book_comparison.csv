@@ -1,0 +1,31 @@
+agent_id,sample_id,sonnet_situation,terra_situation,sonnet_label,terra_label
+job_top2016_116,top2016:116,retrospective,retrospective,PAST,PAST
+job_top2016_1834,top2016:1834,simultaneous,simultaneous,PRESENT,PRESENT
+job_top2016_5261,top2016:5261,retrospective,retrospective,PAST,PAST
+job_top2017_2441,top2017:2441,dual,retrospective,DUAL,PAST
+job_top2017_2897,top2017:2897,retrospective,retrospective,PAST,PAST
+job_top2017_640,top2017:640,simultaneous,simultaneous,PRESENT,PRESENT
+job_top2018_1288,top2018:1288,retrospective,retrospective,PAST,PAST
+job_top2018_3244,top2018:3244,retrospective,retrospective,PAST,PAST
+job_top2018_5322,top2018:5322,retrospective,retrospective,PAST,PAST
+job_top2019_2795,top2019:2795,retrospective,retrospective,PAST,PAST
+job_top2019_5026,top2019:5026,retrospective,retrospective,PAST,PAST
+job_top2019_776,top2019:776,retrospective,retrospective,PAST,PAST
+job_top2020_1718,top2020:1718,retrospective,retrospective,PAST,PAST
+job_top2020_414,top2020:414,simultaneous,simultaneous,PRESENT,PRESENT
+job_top2020_4687,top2020:4687,retrospective,retrospective,PAST,PAST
+job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,retrospective,retrospective,PAST,PAST
+job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,unclear,simultaneous,EXCLUDED-verse,PRESENT
+job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,simultaneous,simultaneous,PRESENT,PRESENT
+job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,retrospective,unclear,PAST,INSUFFICIENT
+job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",retrospective,retrospective,PAST,PAST
+job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,unclear,retrospective,UNCLEAR,PAST
+job_top2023_DIRTY_THIRTY_Janet_Evanovich,top2023:DIRTY THIRTY|Janet Evanovich,retrospective,retrospective,PAST,PAST
+job_top2023_NONE_OF_THIS_IS_TRUE_Lisa_Jewell,top2023:NONE OF THIS IS TRUE|Lisa Jewell,simultaneous,simultaneous,PRESENT,PRESENT
+job_top2023_THE_HOUSE_IN_THE_PINES_Ana_Reyes,top2023:THE HOUSE IN THE PINES|Ana Reyes,dual,dual,DUAL,DUAL
+job_top2024_HERE_ONE_MOMENT_Liane_Moriarty,top2024:HERE ONE MOMENT|Liane Moriarty,dual,dual,DUAL,DUAL
+job_top2024_SMALL_THINGS_LIKE_THESE_Claire_Keegan,top2024:SMALL THINGS LIKE THESE|Claire Keegan,retrospective,retrospective,PAST,PAST
+job_top2024_TELL_ME_EVERYTHING_Elizabeth_Strout,top2024:TELL ME EVERYTHING|Elizabeth Strout,retrospective,retrospective,PAST,PAST
+job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,retrospective,retrospective,PAST,PAST
+job_top2025_ONYX_STORM_Rebecca_Yarros,top2025:ONYX STORM|Rebecca Yarros,simultaneous,simultaneous,PRESENT,PRESENT
+job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,simultaneous,simultaneous,PRESENT,PRESENT

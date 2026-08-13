@@ -5,7 +5,8 @@
    "quote_id": "q00795",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation-mark majority + \"she said\""
+   "note": "quotation-mark majority + \"she said\"",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00796",
@@ -17,7 +18,8 @@
    "quote_id": "q00797",
    "bucket": "dialogue",
    "tense": "",
-   "note": "1st-person present aphorism inside a 3rd-person past novel -> speech register; no marks, contested with gnomic"
+   "note": "1st-person present aphorism inside a 3rd-person past novel -> speech register; no marks, contested with gnomic",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00798",
@@ -41,7 +43,8 @@
    "quote_id": "q00801",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation-mark majority + \"Fix said\""
+   "note": "quotation-mark majority + \"Fix said\"",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00802",
@@ -59,7 +62,8 @@
    "quote_id": "q00804",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation-mark majority across an exchange"
+   "note": "quotation-mark majority across an exchange",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00805",
@@ -77,7 +81,8 @@
    "quote_id": "q00807",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation marks + \"Franny said\""
+   "note": "quotation marks + \"Franny said\"",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00808",
@@ -95,7 +100,8 @@
    "quote_id": "q00810",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quoted exchange"
+   "note": "quoted exchange",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00811",
@@ -113,13 +119,15 @@
    "quote_id": "q00813",
    "bucket": "dialogue",
    "tense": "",
-   "note": "1st-person conversational simile in a 3rd-person book -> speech register"
+   "note": "1st-person conversational simile in a 3rd-person book -> speech register",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00814",
    "bucket": "dialogue",
    "tense": "",
-   "note": "2nd-person advice, conversational \"But\" opener; contested with gnomic 2nd-person universal"
+   "note": "2nd-person advice, conversational \"But\" opener; contested with gnomic 2nd-person universal",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00815",
@@ -131,7 +139,8 @@
    "quote_id": "q00816",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation-mark majority, long speech"
+   "note": "quotation-mark majority, long speech",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00817",
@@ -143,7 +152,8 @@
    "quote_id": "q00818",
    "bucket": "dialogue",
    "tense": "",
-   "note": "isolated line of speech; duplicate of the line quoted inside q00804"
+   "note": "isolated line of speech; duplicate of the line quoted inside q00804",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00819",
@@ -221,7 +231,8 @@
    "quote_id": "q00831",
    "bucket": "dialogue",
    "tense": "",
-   "note": "2nd-person + \"look at me\" direct address"
+   "note": "2nd-person + \"look at me\" direct address",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00832",
@@ -239,7 +250,8 @@
    "quote_id": "q00834",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quoted exchange"
+   "note": "quoted exchange",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00835",
@@ -251,13 +263,15 @@
    "quote_id": "q00836",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation-mark majority, two speakers"
+   "note": "quotation-mark majority, two speakers",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00837",
    "bucket": "dialogue",
    "tense": "",
-   "note": "direct address, \"your mother\" - advice to a listener"
+   "note": "direct address, \"your mother\" - advice to a listener",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00838",
@@ -329,7 +343,8 @@
    "quote_id": "q00849",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation-mark majority + \"Fix had said\""
+   "note": "quotation-mark majority + \"Fix had said\"",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00850",
@@ -413,7 +428,8 @@
    "quote_id": "q00863",
    "bucket": "dialogue",
    "tense": "",
-   "note": "1st-person recollection with speech markers (\"I don't know\", \"I have to tell you\")"
+   "note": "1st-person recollection with speech markers (\"I don't know\", \"I have to tell you\")",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q00864",
@@ -443,7 +459,8 @@
    "quote_id": "q00868",
    "bucket": "dialogue",
    "tense": "",
-   "note": "speech majority, tag \"She said it lightly\""
+   "note": "speech majority, tag \"She said it lightly\"",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q00869",

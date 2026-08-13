@@ -1,9 +1,24 @@
-sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,pct_present,situation,label,confidence,why
-top2022:PORTRAIT OF AN UNKNOWN WOMAN|Daniel Silva,PORTRAIT OF AN UNKNOWN WOMAN,Daniel Silva,15,2,2,11,0,0,2,0,0.0,retrospective,INSUFFICIENT,,only 2 event quotes
-top2022:HOUSE OF SKY AND BREATH|Sarah J. Maas,HOUSE OF SKY AND BREATH,Sarah J. Maas,25,8,4,13,0,0,8,0,0.0,retrospective,PAST,high,"100% past / 0% present of 8, situation=retrospective"
-"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters","RUN, ROSE, RUN",Dolly Parton and James P,23,9,3,3,1,7,9,0,0.0,retrospective,PAST,high,"100% past / 0% present of 9, situation=retrospective"
-top2022:THE 6:20 MAN|David Baldacci,THE 6:20 MAN,David Baldacci,17,6,6,5,0,0,6,0,0.0,retrospective,PAST,med,"100% past / 0% present of 6, situation=retrospective"
-top2022:THE BOYS FROM BILOXI|John Grisham,THE BOYS FROM BILOXI,John Grisham,17,12,1,4,0,0,12,0,0.0,retrospective,PAST,high,"100% past / 0% present of 12, situation=retrospective"
-top2022:DREAMLAND|Nicholas Sparks,DREAMLAND,Nicholas Sparks,15,6,6,2,0,1,6,0,0.0,retrospective,PAST,med,"100% past / 0% present of 6, situation=retrospective"
-top2022:THE HOTEL NANTUCKET|Elin Hilderbrand,THE HOTEL NANTUCKET,Elin Hilderbrand,16,5,4,4,1,2,1,4,0.8,simultaneous,PRESENT,med,"20% past / 80% present of 5, situation=simultaneous"
-top2022:SEA OF TRANQUILITY|Emily St,SEA OF TRANQUILITY,Emily St,26,6,15,5,0,0,4,2,0.3333333333333333,unclear,UNCLEAR,,situation='unclear'
+sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,event_past,event_present,beat_past,beat_present,pct_present,situation,label,confidence,why
+top2022:THE PARIS APARTMENT|Lucy Foley,THE PARIS APARTMENT,Lucy Foley,87,60,7,17,0,3,27,42,24,36,3,6,0.6086956521739131,dual,DUAL,high,"39% past / 61% present of 69, situation=dual"
+top2022:OUR MISSING HEARTS|Celeste Ng,OUR MISSING HEARTS,Celeste Ng,24,14,6,4,0,0,6,11,6,8,0,3,0.6470588235294118,dual,DUAL,high,"35% past / 65% present of 17, situation=dual"
+top2022:THE IT GIRL|Ruth Ware,THE IT GIRL,Ruth Ware,23,13,6,3,0,1,4,9,4,9,0,0,0.6923076923076923,dual,DUAL,high,"31% past / 69% present of 13, situation=dual"
+top2022:PORTRAIT OF AN UNKNOWN WOMAN|Daniel Silva,PORTRAIT OF AN UNKNOWN WOMAN,Daniel Silva,15,2,2,11,0,0,4,0,2,0,2,0,0.0,retrospective,INSUFFICIENT,,only 4 event quotes
+top2022:BABEL|R.F. Kuang,BABEL,R.F. Kuang,78,27,21,28,2,0,40,0,27,0,13,0,0.0,retrospective,PAST,high,"100% past / 0% present of 40, situation=retrospective"
+top2022:DEMON COPPERHEAD|Barbara Kingsolver,DEMON COPPERHEAD,Barbara Kingsolver,76,40,33,1,2,0,32,8,32,8,0,0,0.2,retrospective,PAST,high,"80% past / 20% present of 40, situation=retrospective"
+top2022:LESSONS IN CHEMISTRY|Bonnie Garmus,LESSONS IN CHEMISTRY,Bonnie Garmus,74,25,15,33,0,1,42,1,24,1,18,0,0.023255813953488372,retrospective,PAST,high,"98% past / 2% present of 43, situation=retrospective"
+"top2022:TOMORROW, AND TOMORROW, AND TOMORROW|Gabrielle Zevin","TOMORROW, AND TOMORROW, AND TOMORROW",Gabrielle Zevin,72,26,19,24,0,3,37,2,24,2,13,0,0.05128205128205128,retrospective,PAST,high,"95% past / 5% present of 39, situation=retrospective"
+top2022:HORSE|Geraldine Brooks,HORSE,Geraldine Brooks,51,26,5,18,1,1,28,5,21,5,7,0,0.15151515151515152,retrospective,PAST,high,"85% past / 15% present of 33, situation=retrospective"
+top2022:ALL GOOD PEOPLE HERE|Ashley Flowers with Alex Kiest,ALL GOOD PEOPLE HERE,Ashley Flowers with Alex,48,34,0,14,0,0,37,0,34,0,3,0,0.0,retrospective,PAST,high,"100% past / 0% present of 37, situation=retrospective"
+top2022:HOUSE OF SKY AND BREATH|Sarah J. Maas,HOUSE OF SKY AND BREATH,Sarah J. Maas,25,8,4,13,0,0,11,0,8,0,3,0,0.0,retrospective,PAST,high,"100% past / 0% present of 11, situation=retrospective"
+top2022:FAIRY TALE|Stephen King,FAIRY TALE,Stephen King,24,6,16,1,1,0,4,2,4,2,0,0,0.3333333333333333,retrospective,PAST,med,"67% past / 33% present of 6, situation=retrospective"
+"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters","RUN, ROSE, RUN",Dolly Parton and James P,23,9,3,3,1,7,10,0,9,0,1,0,0.0,retrospective,PAST,high,"100% past / 0% present of 10, situation=retrospective"
+top2022:THE 6:20 MAN|David Baldacci,THE 6:20 MAN,David Baldacci,17,6,6,5,0,0,8,0,6,0,2,0,0.0,retrospective,PAST,high,"100% past / 0% present of 8, situation=retrospective"
+top2022:THE BOYS FROM BILOXI|John Grisham,THE BOYS FROM BILOXI,John Grisham,17,12,1,4,0,0,13,0,12,0,1,0,0.0,retrospective,PAST,high,"100% past / 0% present of 13, situation=retrospective"
+top2022:DREAMLAND|Nicholas Sparks,DREAMLAND,Nicholas Sparks,15,6,6,2,0,1,8,0,6,0,2,0,0.0,retrospective,PAST,high,"100% past / 0% present of 8, situation=retrospective"
+top2022:MAD HONEY|Jodi Picoult and Jennifer Finn,MAD HONEY,Jodi Picoult and Jennife,70,29,28,7,3,3,6,27,6,23,0,4,0.8181818181818182,simultaneous,PRESENT,high,"18% past / 82% present of 33, situation=simultaneous"
+top2022:REMARKABLY BRIGHT CREATURES|Shelby Van Pelt,REMARKABLY BRIGHT CREATURES,Shelby Van Pelt,64,36,20,8,0,0,11,30,11,25,0,5,0.7317073170731707,simultaneous,PRESENT,high,"27% past / 73% present of 41, situation=simultaneous"
+top2022:THE MAID|Nita Prose,THE MAID,Nita Prose,59,31,23,4,1,0,5,29,2,29,3,0,0.8529411764705882,simultaneous,PRESENT,high,"15% past / 85% present of 34, situation=simultaneous"
+top2022:ONE ITALIAN SUMMER|Rebecca Serle,ONE ITALIAN SUMMER,Rebecca Serle,57,29,17,9,1,1,12,23,11,18,1,5,0.6571428571428571,simultaneous,PRESENT,high,"34% past / 66% present of 35, situation=simultaneous"
+top2022:THE HOTEL NANTUCKET|Elin Hilderbrand,THE HOTEL NANTUCKET,Elin Hilderbrand,16,5,4,4,1,2,1,8,1,4,0,4,0.8888888888888888,simultaneous,PRESENT,high,"11% past / 89% present of 9, situation=simultaneous"
+top2022:VERITY|Colleen Hoover,VERITY,Colleen Hoover,50,14,7,28,0,1,6,10,6,8,0,2,0.625,unclear,UNCLEAR,,situation='unclear'
+top2022:SEA OF TRANQUILITY|Emily St,SEA OF TRANQUILITY,Emily St,26,6,15,5,0,0,8,2,4,2,4,0,0.2,unclear,UNCLEAR,,situation='unclear'

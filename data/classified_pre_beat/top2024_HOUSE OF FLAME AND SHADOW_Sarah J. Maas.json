@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2024:HOUSE OF FLAME AND SHADOW|Sarah J. Maas",
+  "quotes": [
+    {"quote_id": "q09073", "bucket": "event", "tense": "past", "note": "past-tense summary of specific characters ('the friends they'd made were what mattered') with a gnomic aphorism appended; base clause is story-world summary -- FLIP RISK, a gnomic read here drops event count to 4"},
+    {"quote_id": "q09074", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = first-person direct address ('I love you... your soul')"},
+    {"quote_id": "q09075", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = direct address question to hearer ('Can you imagine')"},
+    {"quote_id": "q09076", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority: speech outweighs the 'raised their hands' beat"},
+    {"quote_id": "q09077", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; vocative 'Hunt'; one 'She smiled slightly' beat"},
+    {"quote_id": "q09078", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = sarcastic colloquial register, first-person plural ('all us females')"},
+    {"quote_id": "q09079", "bucket": "event", "tense": "past", "note": "past-perfect exposition about a specific character's naming and story-world legend; finite verbs present so not the fragment rule"},
+    {"quote_id": "q09080", "bucket": "event", "tense": "past", "note": "fails dialogue test -- narration (~60 words) outweighs speech (~20); dialogue tags 'Azriel said', 'Azriel went on'"},
+    {"quote_id": "q09081", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; vocative 'Day'"},
+    {"quote_id": "q09082", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = first-person colloquial complaint/register; borderline with event/present interior state"},
+    {"quote_id": "q09083", "bucket": "gnomic", "tense": "", "note": "aphorism -- present-tense generalization about love/eternity, true outside the story world; no vocative or address to mark it as speech"},
+    {"quote_id": "q09084", "bucket": "dialogue", "tense": "", "note": "two speakers, marks present, no narration"},
+    {"quote_id": "q09085", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = sustained second-person direct address ('you saw me')"},
+    {"quote_id": "q09086", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; one 'She could have sworn' beat"},
+    {"quote_id": "q09087", "bucket": "dialogue", "tense": "", "note": "multi-turn exchange, marks present; tags outweighed by speech"},
+    {"quote_id": "q09088", "bucket": "dialogue", "tense": "", "note": "close call -- speech ~16 words vs narration ~15; quotation-mark majority applied"},
+    {"quote_id": "q09089", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = performative first-person declaration ('I yield my crown')"},
+    {"quote_id": "q09090", "bucket": "event", "tense": "past", "note": "fails dialogue test -- narration (~40 words) outweighs speech (~10); specific story-moment"},
+    {"quote_id": "q09091", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = first/second-person direct address ('You and I, we'll finish this')"},
+    {"quote_id": "q09092", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = deictic first-person joke naming the speaker in third person; borderline with interior monologue"},
+    {"quote_id": "q09093", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; trailing 'Bryce said' tag"},
+    {"quote_id": "q09094", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; two action beats outweighed by speech"},
+    {"quote_id": "q09095", "bucket": "event", "tense": "past", "note": "pure past narration of a specific story-moment"},
+    {"quote_id": "q09096", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = second-person direct address plus tag phrase 'you know'"},
+    {"quote_id": "q09097", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; one 'Nesta snorted' beat"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Heavily dialogue-dominated sample (19/25) -- Goodreads selection for this book favors romantic and banter lines. All five event-narration quotes are past-tense third-person limited narration; no present-tense event narration anywhere in the sample. Quotation marks survive on roughly half the quotes; where absent I used direct address, vocatives, and colloquial register (recorded per quote). Event count is exactly at the >=5 threshold, so q09073 is load-bearing: it pairs past-tense summary about specific characters with a present-tense aphorism, and a gnomic read would leave only 4 event quotes and force abstention. q09082 and q09092 are the other soft calls (dialogue vs. present-tense interior state); both were read as speech, and neither was counted as present event-narration."
+}

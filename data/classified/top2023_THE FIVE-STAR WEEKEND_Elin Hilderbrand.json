@@ -1,7 +1,7 @@
 {
   "sample_id": "top2023:THE FIVE-STAR WEEKEND|Elin Hilderbrand",
   "quotes": [
-    {"quote_id": "q08103", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority (closing mark survives); tag 'he says' outweighed by speech"},
+    {"quote_id": "q08103", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "quotation-mark majority (closing mark survives); tag 'he says' outweighed by speech"},
     {"quote_id": "q08104", "bucket": "event", "tense": "present", "note": "specific meal at a specific moment; only finite main verb is future 'This will be followed by' (not 'would'), which anchors to a present narrating moment; 'her mother churned' is a relative-clause anterior"},
     {"quote_id": "q08105", "bucket": "event", "tense": "past", "note": "past-tense summary of the speaker's own past ('the years our children were nine, ten, eleven'); gnomic second-person tail ('you never realize it's the golden age until it's over') does not make the whole quote gnomic since gnomic is present-only; FLIP RISK - lone past event in the book, and could be read as wholly essayistic"},
     {"quote_id": "q08106", "bucket": "gnomic", "tense": "", "note": "present-tense generalization beyond the story world about reading fiction; second-person 'you'"},
@@ -15,16 +15,16 @@
     {"quote_id": "q08114", "bucket": "gnomic", "tense": "", "note": "present-tense universal about people generally"},
     {"quote_id": "q08115", "bucket": "event", "tense": "present", "note": "generalizing content about motherhood but anchored by explicit cognition report 'she has come to realize'; same treatment as q08107"},
     {"quote_id": "q08116", "bucket": "event", "tense": "present", "note": "clean third-person present action narration"},
-    {"quote_id": "q08117", "bucket": "dialogue", "tense": "", "note": "no quotation marks; colloquial register ('wanna') and first-person declarative - speech"},
-    {"quote_id": "q08118", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; tag 'Dru-Ann deadpans' is the minority"},
-    {"quote_id": "q08119", "bucket": "dialogue", "tense": "", "note": "no quotation marks; direct address ('your tequila') and conversational fragments"},
-    {"quote_id": "q08120", "bucket": "dialogue", "tense": "", "note": "no quotation marks; direct address ('if you've experienced this'), hesitation ellipsis, spoken cadence"},
-    {"quote_id": "q08121", "bucket": "dialogue", "tense": "", "note": "no quotation marks; second-person direct address ('Your generation')"},
+    {"quote_id": "q08117", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no quotation marks; colloquial register ('wanna') and first-person declarative - speech"},
+    {"quote_id": "q08118", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "quotation-mark majority; tag 'Dru-Ann deadpans' is the minority"},
+    {"quote_id": "q08119", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no quotation marks; direct address ('your tequila') and conversational fragments"},
+    {"quote_id": "q08120", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no quotation marks; direct address ('if you've experienced this'), hesitation ellipsis, spoken cadence"},
+    {"quote_id": "q08121", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no quotation marks; second-person direct address ('Your generation')"},
     {"quote_id": "q08122", "bucket": "event", "tense": "present", "note": "clean third-person present action narration"},
-    {"quote_id": "q08123", "bucket": "dialogue", "tense": "", "note": "no quotation marks; direct address plus exclamation - speech"},
-    {"quote_id": "q08124", "bucket": "dialogue", "tense": "", "note": "no quotation marks, no vocative; first-person past confessional register with no narrating frame in an otherwise third-person-present book - read as speech; genuinely ambiguous against the first-person reflective strand"},
+    {"quote_id": "q08123", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no quotation marks; direct address plus exclamation - speech"},
+    {"quote_id": "q08124", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no quotation marks, no vocative; first-person past confessional register with no narrating frame in an otherwise third-person-present book - read as speech; genuinely ambiguous against the first-person reflective strand"},
     {"quote_id": "q08125", "bucket": "event", "tense": "present", "note": "specific character's present state; parenthetical narration aside"},
-    {"quote_id": "q08126", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority across two speakers"}
+    {"quote_id": "q08126", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "quotation-mark majority across two speakers"}
   ],
   "narrating_situation": "simultaneous",
   "agent_note": "Third-person present narration across multiple focal characters (Hollis, Dru-Ann, Ethan): 'Hollis glides', 'She stuffs', 'It pains Ethan'. Quotation-mark survival is INCONSISTENT in this book - marks survive in q08103/q08118/q08126 but are stripped from clear speech in q08117/q08119/q08121/q08123, so mark-less quotes were judged on vocatives, direct address, and register (recorded per quote). A cluster of first-person quotes (q08105, q08106, q08109, and arguably q08120/q08124) reads as an embedded first-person reflective/essayistic strand; where direct address or spoken cadence was present I filed them dialogue, otherwise event. The book's only past event quote (q08105) belongs to that strand."

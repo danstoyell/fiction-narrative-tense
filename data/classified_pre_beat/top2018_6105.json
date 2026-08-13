@@ -1,0 +1,33 @@
+{
+  "sample_id": "top2018:6105",
+  "quotes": [
+    {"quote_id": "q02446", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02447", "bucket": "event", "tense": "past", "note": "3 spoken words vs 3 narrating words -- not a quotation-mark majority, so dialogue test fails and the tag rule applies; genuine flip risk to dialogue"},
+    {"quote_id": "q02448", "bucket": "dialogue", "tense": "", "note": "closing quote mark plus trailing comma of a severed dialogue tag; all words inside marks"},
+    {"quote_id": "q02449", "bucket": "event", "tense": "past", "note": "past-tense exposition about the story world, NOT gnomic"},
+    {"quote_id": "q02450", "bucket": "event", "tense": "past", "note": "~24 spoken words vs ~26 narrating words; narration edges out speech so the dialogue test fails and the tag rule applies -- close call"},
+    {"quote_id": "q02451", "bucket": "event", "tense": "past", "note": "past-tense free indirect summary of a specific character's situation; gnomic is present-only"},
+    {"quote_id": "q02452", "bucket": "event", "tense": "past", "note": "elliptical but carries finite verb 'was'; specific state at a story-moment"},
+    {"quote_id": "q02453", "bucket": "event", "tense": "past", "note": "free indirect discourse, past-tense modal 'couldn't'; specific character, specific moment"},
+    {"quote_id": "q02454", "bucket": "dialogue", "tense": "", "note": "no quote marks; read as speech from register -- first-person present declarative assertion of personal policy, conversational, against an otherwise past-tense third-person book"},
+    {"quote_id": "q02455", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02456", "bucket": "dialogue", "tense": "", "note": "extended exchange, near-all words inside marks; vocative 'Counselor'"},
+    {"quote_id": "q02457", "bucket": "event", "tense": "past", "note": "past-tense summary about specific characters"},
+    {"quote_id": "q02458", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02459", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02460", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02461", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; one 'Joel asked' beat"},
+    {"quote_id": "q02462", "bucket": "event", "tense": "present", "note": "FLIP RISK -- present-tense clinical account of one specific character's state, so not gnomic; zero quotation marks though marks survive reliably elsewhere in this book (q02447/50/56/61), which argues against dialogue; likely an embedded psychiatric report or expert testimony rendered without marks"},
+    {"quote_id": "q02463", "bucket": "event", "tense": "past", "note": "excerpt starts mid-sentence; clearly past narration"},
+    {"quote_id": "q02464", "bucket": "event", "tense": "past", "note": "excerpt truncated mid-sentence; past narration"},
+    {"quote_id": "q02465", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02466", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02467", "bucket": "event", "tense": "past", "note": "past-tense historical exposition about the story world"},
+    {"quote_id": "q02468", "bucket": "event", "tense": "past", "note": "past-tense historical exposition about the story world"},
+    {"quote_id": "q02469", "bucket": "event", "tense": "past", "note": "past-tense historical exposition about the story world"},
+    {"quote_id": "q02470", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q02471", "bucket": "event", "tense": "past", "note": "past-tense statistical exposition about the story world; not gnomic despite generalizing register"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Clean retrospective past-tense third-person narration with a strong strand of past-tense historical/expository summary (Bataan, oil embargo, state hangings) -- exactly the material the methodology warns must be scored event/past rather than gnomic. Zero gnomic and zero paratext in this set. Dialogue marks survive well in this book, so mark presence was the primary bucketing signal; register was the fallback for the two unmarked quotes (q02454 dialogue, q02462 event). 22 event / 4 dialogue; 21 past / 1 present (95.5% past)."
+}

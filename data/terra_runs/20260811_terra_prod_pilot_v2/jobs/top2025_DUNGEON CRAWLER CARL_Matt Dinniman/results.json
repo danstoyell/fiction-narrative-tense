@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2025:DUNGEON CRAWLER CARL|Matt Dinniman",
+  "quotes": [
+    {"quote_id": "q10316", "bucket": "event", "tense": "present", "note": "In-world item description."},
+    {"quote_id": "q10317", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Direct conversational address."},
+    {"quote_id": "q10318", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Direct conditional address."},
+    {"quote_id": "q10319", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational question."},
+    {"quote_id": "q10320", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Question-and-answer address."},
+    {"quote_id": "q10321", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Speech with past-tense tag."},
+    {"quote_id": "q10322", "bucket": "event", "tense": "present", "note": "In-world reward notification."},
+    {"quote_id": "q10323", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Direct address to Carl."},
+    {"quote_id": "q10324", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational insult."},
+    {"quote_id": "q10325", "bucket": "event", "tense": "past", "note": "In-world achievement notification reporting completed actions."},
+    {"quote_id": "q10326", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Explicit speaker exchange."},
+    {"quote_id": "q10327", "bucket": "event", "tense": "past", "note": "In-world achievement notification reporting completed action."},
+    {"quote_id": "q10328", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Direct address to Carl."},
+    {"quote_id": "q10329", "bucket": "event", "tense": "present", "note": "Story-specific in-world creature description, with historical backstory."},
+    {"quote_id": "q10330", "bucket": "paratext", "tense": "", "note": "Authorial request for a review."},
+    {"quote_id": "q10331", "bucket": "event", "tense": "present", "note": "In-world creature description."},
+    {"quote_id": "q10332", "bucket": "event", "tense": "past", "note": "Specific narrated actions."},
+    {"quote_id": "q10333", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "First-person character statement about a cat race."},
+    {"quote_id": "q10334", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Mostly quoted speech with past-tense tag/action beat."},
+    {"quote_id": "q10335", "bucket": "event", "tense": "past", "note": "Past-tense story-world reflection."},
+    {"quote_id": "q10336", "bucket": "event", "tense": "present", "note": "In-world party-status notifications."},
+    {"quote_id": "q10337", "bucket": "gnomic", "tense": "", "note": "Timeless generalization."},
+    {"quote_id": "q10338", "bucket": "event", "tense": "past", "note": "In-world notification reporting a completed attack."},
+    {"quote_id": "q10339", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Quoted speech with past-tense tag."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Past-tense event narration is accompanied by present-tense in-world status, reward, and creature-description text; the supplied excerpts do not establish a dual-position form."
+}

@@ -1,0 +1,33 @@
+{
+  "sample_id": "top2024:THE WOMEN|Kristin Hannah",
+  "quotes": [
+    {"quote_id": "q08530", "bucket": "event", "tense": "past", "note": "past-tense summary of the story world ('a world that was run by men'); gnomic is present-only"},
+    {"quote_id": "q08531", "bucket": "event", "tense": "past", "note": "past-tense summary about specific characters ('the women')"},
+    {"quote_id": "q08532", "bucket": "event", "tense": "past", "note": "retrospective first-person; past recounting dominates but carries narrating-moment present ('I wonder', 'It's hard to see clearly') -- flip risk"},
+    {"quote_id": "q08533", "bucket": "event", "tense": "past", "note": "past-tense aphorism in free indirect style; flagged -- a looser reading would call this gnomic, but gnomic is present-only"},
+    {"quote_id": "q08534", "bucket": "gnomic", "tense": "", "note": "present-tense generalization beyond the story world"},
+    {"quote_id": "q08535", "bucket": "event", "tense": "past", "note": "past-tense iterative summary"},
+    {"quote_id": "q08536", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; narration beat 'She leaned close' does not override"},
+    {"quote_id": "q08537", "bucket": "gnomic", "tense": "", "note": "present-tense proverb"},
+    {"quote_id": "q08538", "bucket": "event", "tense": "past", "note": "past-tense aphorism in free indirect style; flagged, not gnomic"},
+    {"quote_id": "q08539", "bucket": "dialogue", "tense": "", "note": "no quotation marks; vocative 'Frances' = direct address"},
+    {"quote_id": "q08540", "bucket": "gnomic", "tense": "", "note": "fragment"},
+    {"quote_id": "q08541", "bucket": "event", "tense": "past", "note": "deictic 'From here' anchors a story-moment; past-tense reflection"},
+    {"quote_id": "q08542", "bucket": "event", "tense": "past", "note": "past-tense reflection anchored to 'this ruined world'"},
+    {"quote_id": "q08543", "bucket": "event", "tense": "past", "note": "past-tense free indirect reflection"},
+    {"quote_id": "q08544", "bucket": "event", "tense": "past", "note": "specific character ('She learned'); iterative past"},
+    {"quote_id": "q08545", "bucket": "event", "tense": "past", "note": "free indirect with tag 'she guessed'"},
+    {"quote_id": "q08546", "bucket": "dialogue", "tense": "", "note": "no marks; vocative 'Frankie' plus imperative"},
+    {"quote_id": "q08547", "bucket": "event", "tense": "past", "note": "specific character state"},
+    {"quote_id": "q08548", "bucket": "event", "tense": "past", "note": "specific character's thought; conditional 'wouldn't be surprised' rides on past narration"},
+    {"quote_id": "q08549", "bucket": "event", "tense": "past", "note": "named character at a specific story-moment"},
+    {"quote_id": "q08550", "bucket": "event", "tense": "past", "note": "specific story-moment"},
+    {"quote_id": "q08551", "bucket": "event", "tense": "past", "note": "past-tense reflection; flagged, not gnomic"},
+    {"quote_id": "q08552", "bucket": "dialogue", "tense": "", "note": "no marks; vocative 'McGrath' plus imperative, greeting register"},
+    {"quote_id": "q08553", "bucket": "event", "tense": "past", "note": "past-tense free indirect question about a specific character's grief"},
+    {"quote_id": "q08554", "bucket": "dialogue", "tense": "", "note": "no marks; hortatory first-person-plural address register, group-specific not universal"},
+    {"quote_id": "q08555", "bucket": "event", "tense": "past", "note": "reported speech; words inside/outside marks roughly even so dialogue test fails, past narration frame governs"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Past-tense third person centered on Frankie/'she', with a first-person retrospective frame surfacing in q08532 ('I wonder if any generation will ever believe again'), which implies a narrator looking back from a later present. 18 event quotes, all past, 0 present. The book is heavily aphoristic, but the aphorisms are overwhelmingly PAST-tense free indirect reflection (q08533, q08538, q08542, q08543, q08551) -- per METHODOLOGY these are event/past, not gnomic; only the three genuinely present-tense generalizations (q08534, q08537, q08540) were bucketed gnomic. Dialogue detection: quotation marks survive on only one quote (q08536), so the remaining four dialogue calls rest on vocatives (Frances, Frankie, McGrath), imperatives, and hortatory register."
+}

@@ -65,7 +65,8 @@
    "quote_id": "q01322",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quotation-mark majority"
+   "note": "quotation-mark majority",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q01323",
@@ -113,7 +114,8 @@
    "quote_id": "q01330",
    "bucket": "dialogue",
    "tense": "",
-   "note": "\"Yes, but think about it\" - conversational turn + imperative; 2nd-person address"
+   "note": "\"Yes, but think about it\" - conversational turn + imperative; 2nd-person address",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01331",
@@ -131,19 +133,22 @@
    "quote_id": "q01333",
    "bucket": "dialogue",
    "tense": "",
-   "note": "fragmentary; quotation-mark majority over \"It was starting to click\""
+   "note": "fragmentary; quotation-mark majority over \"It was starting to click\"",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q01334",
    "bucket": "dialogue",
    "tense": "",
-   "note": "long speech in quotes, \"don't you think?\""
+   "note": "long speech in quotes, \"don't you think?\"",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01335",
    "bucket": "dialogue",
    "tense": "",
-   "note": "1st person + direct address \"in your case, if your government\""
+   "note": "1st person + direct address \"in your case, if your government\"",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01336",
@@ -191,31 +196,36 @@
    "quote_id": "q01343",
    "bucket": "dialogue",
    "tense": "",
-   "note": "1st-person declarative in a 3rd-person past novel -> speech or quoted message; no marks - contested"
+   "note": "1st-person declarative in a 3rd-person past novel -> speech or quoted message; no marks - contested",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01344",
    "bucket": "dialogue",
    "tense": "",
-   "note": "tag question \"isn't it?\" = direct address; quoted-within-speech marks"
+   "note": "tag question \"isn't it?\" = direct address; quoted-within-speech marks",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01345",
    "bucket": "dialogue",
    "tense": "",
-   "note": "1st/2nd person conversational fragment"
+   "note": "1st/2nd person conversational fragment",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01346",
    "bucket": "dialogue",
    "tense": "",
-   "note": "reported speech addressed to \"you\""
+   "note": "reported speech addressed to \"you\"",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01347",
    "bucket": "dialogue",
    "tense": "",
-   "note": "quoted exchange"
+   "note": "quoted exchange",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01348",
@@ -239,7 +249,8 @@
    "quote_id": "q01351",
    "bucket": "dialogue",
    "tense": "",
-   "note": "1st-person speech, \"You know what I mean?\" + answering line in quotes"
+   "note": "1st-person speech, \"You know what I mean?\" + answering line in quotes",
+   "beat_tense": "none"
   },
   {
    "quote_id": "q01352",
@@ -263,7 +274,8 @@
    "quote_id": "q01355",
    "bucket": "dialogue",
    "tense": "",
-   "note": "speech majority over the framing narration"
+   "note": "speech majority over the framing narration",
+   "beat_tense": "past"
   },
   {
    "quote_id": "q01356",

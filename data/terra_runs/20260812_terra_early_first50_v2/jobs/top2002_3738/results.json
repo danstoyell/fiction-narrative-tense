@@ -1,0 +1,30 @@
+{
+  "sample_id": "top2002:3738",
+  "quotes": [
+    {"quote_id":"q00975","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00976","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00977","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00978","bucket":"dialogue","tense":"","beat_tense":"past","note":""},
+    {"quote_id":"q00979","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00980","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q00981","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00982","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00983","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00984","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00985","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00986","bucket":"gnomic","tense":"","note":""},
+    {"quote_id":"q00987","bucket":"gnomic","tense":"","note":"No affirmative evidence of character speech."},
+    {"quote_id":"q00988","bucket":"dialogue","tense":"","beat_tense":"none","note":""},
+    {"quote_id":"q00989","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q00990","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q00991","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q00992","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q00993","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q00994","bucket":"dialogue","tense":"","beat_tense":"past","note":""},
+    {"quote_id":"q00995","bucket":"event","tense":"past","note":""},
+    {"quote_id":"q00996","bucket":"event","tense":"past","note":"story-specific recollection controls the aphoristic statement"},
+    {"quote_id":"q00997","bucket":"gnomic","tense":"","note":""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Eight event-narration excerpts are past tense; the remaining non-dialogue excerpts are chiefly generalized aphorisms."
+}

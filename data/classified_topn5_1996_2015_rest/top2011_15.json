@@ -1,0 +1,163 @@
+{
+ "sample_id": "top2011:15",
+ "quotes": [
+  {
+   "quote_id": "q02379",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02380",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02381",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02382",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02383",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02384",
+   "bucket": "event",
+   "tense": "present",
+   "note": "First-person, story-specific reflective state."
+  },
+  {
+   "quote_id": "q02385",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02386",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02387",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific past frame controls the reflective passage."
+  },
+  {
+   "quote_id": "q02388",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02389",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02390",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Past action beat: He stared at me, baffled."
+  },
+  {
+   "quote_id": "q02391",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Narration substantially outweighs the spoken lines."
+  },
+  {
+   "quote_id": "q02392",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02393",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02394",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02395",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02396",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02397",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02398",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q02399",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02400",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q02401",
+   "bucket": "event",
+   "tense": "past",
+   "note": "First-person story-specific perception."
+  },
+  {
+   "quote_id": "q02402",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "unclear",
+ "agent_note": "Classified solely from supplied quote text. Event evidence is evenly split (2 past, 2 present), with no supplied-text basis to identify a narrating structure."
+}

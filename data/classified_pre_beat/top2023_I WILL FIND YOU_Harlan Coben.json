@@ -1,0 +1,127 @@
+{
+ "sample_id": "top2023:I WILL FIND YOU|Harlan Coben",
+ "quotes": [
+  {
+   "quote_id": "q08491",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "first-person-plural universal aphorism"
+  },
+  {
+   "quote_id": "q08492",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "proverb"
+  },
+  {
+   "quote_id": "q08493",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense universal about memory, with rhetorical tag question to the reader"
+  },
+  {
+   "quote_id": "q08494",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism, explicitly labeled 'Human nature'"
+  },
+  {
+   "quote_id": "q08495",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority (10 of 16 words inside marks) beats the past-tense frame verb, per precedence rule. CONTESTED/FLIP RISK: truncated at the start, and the quoted material is a cited Voltaire maxim rather than in-scene speech; read as narration it would be event/past ('used to quote Voltaire to me' = past iterative about a specific character)"
+  },
+  {
+   "quote_id": "q08496",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense report of a specific character's standing belief ('Gertrude believed'); generalizing in content but past tense, so event/past not gnomic - the load-bearing rule"
+  },
+  {
+   "quote_id": "q08497",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense personification of grief; second-person universal"
+  },
+  {
+   "quote_id": "q08498",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "universal claim plus direct challenge to the reader"
+  },
+  {
+   "quote_id": "q08499",
+   "bucket": "event",
+   "tense": "present",
+   "note": "specific characters at a story-moment: 'He asks me', 'I try to explain to him'; the embedded generalization is inside a specific present-tense frame"
+  },
+  {
+   "quote_id": "q08500",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority; tagged exchange ('she added'), vocative 'Rachel'"
+  },
+  {
+   "quote_id": "q08501",
+   "bucket": "event",
+   "tense": "present",
+   "note": "opens essayistic but anchors to the narrator's specific present state: 'I have never been in better shape, and it's finally paying off'"
+  },
+  {
+   "quote_id": "q08502",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic present-tense generalization about the world outside the story"
+  },
+  {
+   "quote_id": "q08503",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense iterative summary; second person addresses a story-world group ('You were family'), not a universal - past-tense summary of the story world is event/past"
+  },
+  {
+   "quote_id": "q08504",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal closing on an explicit generalization: 'The world doesn't work that way'"
+  },
+  {
+   "quote_id": "q08505",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q08506",
+   "bucket": "event",
+   "tense": "past",
+   "note": "truncated at the start; mixed clauses - generalized 'It helps really' (present) but the only story-world-specific finite clause is 'It kept me alive' (past, narrator). Secondary flip risk"
+  },
+  {
+   "quote_id": "q08507",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "no quotation marks; signal used = vocative plus elongated spelling ('Staaaaaar-shine'), a spoken greeting / quoted lyric"
+  },
+  {
+   "quote_id": "q08508",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "generalized present-tense pattern about 'the guy', no specific story-moment referent"
+  },
+  {
+   "quote_id": "q08509",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person present-tense maxim ('Exteriors, you learn, are...')"
+  },
+  {
+   "quote_id": "q08510",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "marks truncated away; signal used = vocative 'Max' plus stacked imperatives and second-person address"
+  }
+ ],
+ "narrating_situation": "dual",
+ "agent_note": "Two distinct narrating positions appear in the text. A first-person present-tense strand narrates the narrator's current situation ('He asks me about that... I try to explain', 'I have never been in better shape, and it's finally paying off') - simultaneous. Separately, q08496 is third-person past with access to a named character's interiority ('All men, Gertrude believed, tended to...'), a different narrating position entirely, and q08503/q08506 are past-tense recollection. Called dual on strand grounds, not diary form; the alternative reading is simultaneous first-person with a past recollection/third-person strand, and 5 event quotes is too thin to separate those. Yield is the adversarial case METHODOLOGY warns about: 11 of 20 quotes are gnomic aphorism (Coben pull-quotes are selected almost entirely for quotability), leaving only 5 event-narration quotes, split 3 past / 2 present. Recommend fetching a deeper page before labeling."
+}

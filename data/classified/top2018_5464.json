@@ -1,0 +1,302 @@
+{
+ "sample_id": "top2018:5464",
+ "quotes": [
+  {
+   "quote_id": "q03238",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03239",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03240",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03241",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General reflection on words, not a story-specific event."
+  },
+  {
+   "quote_id": "q03242",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03243",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03244",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03245",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03246",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Proverb."
+  },
+  {
+   "quote_id": "q03247",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Recounts an earlier exchange."
+  },
+  {
+   "quote_id": "q03248",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03249",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03250",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03251",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q03252",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03253",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03254",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03255",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Prospective narration."
+  },
+  {
+   "quote_id": "q03256",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q03257",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03258",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03259",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03260",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q03261",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General natural-history exposition rather than a story-specific event."
+  },
+  {
+   "quote_id": "q03262",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03263",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03264",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03265",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03266",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q03267",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03268",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03269",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03270",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Rhetorical generalization."
+  },
+  {
+   "quote_id": "q03271",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Counterfactual reflection on their earlier conduct."
+  },
+  {
+   "quote_id": "q03272",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03273",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03274",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03275",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03276",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Aphoristic generalization beyond a specific story moment."
+  },
+  {
+   "quote_id": "q03277",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03278",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q03279",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past recollection."
+  },
+  {
+   "quote_id": "q03280",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03281",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q03282",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Present story moment with embedded past history."
+  },
+  {
+   "quote_id": "q03283",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q03284",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "Event narration is predominantly present-tense, with past-tense recollections and historical backstory."
+}

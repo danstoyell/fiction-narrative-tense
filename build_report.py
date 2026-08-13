@@ -1,0 +1,862 @@
+"""Build the Booktense report: trend chart, method, limits, and the full quote explorer.
+
+One page, two builds:
+
+  trend.html        data inlined -- no server, publishable as an artifact
+  trend_local.html  fetches ./data/report_data.json -- always current
+
+The local page needs an origin so `fetch` is not CORS-blocked:
+
+    python3 -m http.server 8000      # then localhost:8000/trend_local.html
+
+Every number on the page -- year counts, era shares, p-values, coverage, abstentions --
+is computed here from data/, and labels come from analyze_year rather than a copy of its
+rules. Nothing on the page is hand-maintained, so it cannot drift. Rebuild with:
+
+    python3 build_report.py
+"""
+import csv, json, glob, os, math, collections, datetime
+from analyze_year import tally, label
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(HERE, "data")
+YEARS = list(range(2016, 2026))
+ERA_SPLIT = 2020          # first year of the later era
+
+# Two frames. 2016-2025 is the top 30 titles per year; 1996-2015 is only the top 5,
+# so it is a narrower, more famous slice and is NOT pooled into the headline test.
+SOURCES = [
+    dict(key="top30", books="books_topn.csv", quotes="quotes_topn.csv",
+         dirs=["classified"], lo=2016, hi=2025),
+    dict(key="top5", books="books_topn5_1996_2016.csv", quotes="quotes_topn5_1996_2016.csv",
+         dirs=["classified_topn5_1996_2015", "classified_topn5_1996_2015_next20"],
+         lo=1996, hi=2015),
+]
+BUCKETS5 = [(1996, 2000), (2001, 2005), (2006, 2010), (2011, 2015)]
+
+
+def period(year):
+    """Sparse early years group into 5-year buckets; recent years stand alone."""
+    for lo, hi in BUCKETS5:
+        if lo <= year <= hi:
+            return f"{lo}-{hi}", (lo + hi) / 2, f"{str(lo)[2:]}-{str(hi)[2:]}"
+    return str(year), float(year), str(year)
+
+
+def group(lab):
+    """Three display classes plus abstention. DUAL and verse both read as OTHER."""
+    if lab in ("PAST", "PRESENT"):
+        return lab
+    if lab in ("DUAL", "EXCLUDED-verse"):
+        return "OTHER"
+    return "ABSTAIN"
+
+
+# ---------------------------------------------------------------- data
+
+def load():
+    """Every classified book from both frames, each tagged with the frame it came from."""
+    rows, missing = [], 0
+    frame_n = collections.Counter()
+    for src in SOURCES:
+        books = {r["sample_id"]: r for r in csv.DictReader(
+            open(os.path.join(DATA, src["books"]), encoding="utf-8"))}
+        qtext = {r["quote_id"]: r["quote_text"] for r in csv.DictReader(
+            open(os.path.join(DATA, src["quotes"]), encoding="utf-8"))}
+        for sid in books:
+            y = sid[3:7]
+            if y.isdigit() and src["lo"] <= int(y) <= src["hi"]:
+                frame_n[src["key"]] += 1
+        seen = set()
+        for sub in src["dirs"]:
+            for p in sorted(glob.glob(os.path.join(DATA, sub, "*.json"))):
+                d = json.load(open(p, encoding="utf-8"))
+                sid = d.get("sample_id", "")
+                bk = books.get(sid)
+                if not bk or sid in seen:
+                    continue            # pilot leftovers, or a duplicate file
+                seen.add(sid)
+                year = int(sid[3:7])
+                if not (src["lo"] <= year <= src["hi"]):
+                    continue
+                qs = d.get("quotes", [])
+                e_past, e_pres, b_past, b_pres = tally(qs, "include")
+                verse_notes = sum(1 for q in qs
+                                  if "not prose fiction" in (q.get("note") or "").lower())
+                verse = bool(qs) and verse_notes > len(qs) / 2
+                lab, why, conf = label(e_past + b_past, e_pres + b_pres,
+                                       d.get("narrating_situation", ""), verse)
+                bkt = collections.Counter(q.get("bucket", "") for q in qs)
+                quotes = []
+                for q in qs:
+                    qid = q.get("quote_id", "")
+                    txt = qtext.get(qid, "")
+                    if not txt:
+                        missing += 1
+                    quotes.append({"id": qid, "b": q.get("bucket", ""),
+                                   "t": q.get("tense", "") or "",
+                                   "bt": q.get("beat_tense", "") or "",
+                                   "n": q.get("note", "") or "", "x": txt})
+                key, mid, short = period(year)
+                rows.append({
+                    "sid": sid, "year": year, "frame": src["key"],
+                    "period": key,
+                    "title": bk.get("title", ""), "author": bk.get("author", ""),
+                    "label": group(lab), "raw": lab, "conf": conf,
+                    "sit": d.get("narrating_situation", ""),
+                    "why": why, "note": d.get("agent_note", "") or "",
+                    "n": len(qs), "ev": [e_past, e_pres], "bt": [b_past, b_pres],
+                    "bk": [bkt["event"], bkt["dialogue"], bkt["gnomic"],
+                           bkt["paratext"], bkt["unclear"]],
+                    "q": quotes,
+                })
+    rows.sort(key=lambda r: (r["year"], r["title"]))
+    return rows, missing, dict(frame_n)
+
+
+def periods(rows):
+    """Chart/table rows: four 5-year buckets, then each recent year on its own."""
+    order = [(f"{lo}-{hi}", lo, hi, f"{lo}-{str(hi)[2:]}", "top5") for lo, hi in BUCKETS5]
+    order += [(str(y), y, y, f"'{str(y)[2:]}", "top30") for y in YEARS]
+    by = collections.defaultdict(collections.Counter)
+    for r in rows:
+        by[r["period"]][r["label"]] += 1
+        by[r["period"]]["cls"] += 1
+    out = []
+    for key, lo, hi, short, frame in order:
+        c = by.get(key, collections.Counter())
+        n = c["PAST"] + c["PRESENT"] + c["OTHER"]
+        out.append({"y": key, "short": short, "lo": lo, "hi": hi,
+                    "mid": (lo + hi) / 2, "span": hi - lo + 1, "frame": frame,
+                    "past": c["PAST"], "other": c["OTHER"], "pres": c["PRESENT"],
+                    "ab": c["ABSTAIN"], "cls": c["cls"], "n": n})
+    return out
+
+
+def trend(rows, frame=None):
+    """Weighted linear trend in present-share against year. One frame at a time."""
+    sel = [r for r in rows if r["label"] in ("PAST", "PRESENT", "OTHER")
+           and (frame is None or r["frame"] == frame)]
+    if not sel:
+        return None
+    by = collections.defaultdict(collections.Counter)
+    for r in sel:
+        by[r["year"]]["n"] += 1
+        by[r["year"]]["p"] += (r["label"] == "PRESENT")
+    ys = sorted(by)
+    tp = sum(by[y]["p"] for y in ys)
+    tn = sum(by[y]["n"] for y in ys)
+    pbar = tp / tn
+    xbar = sum(ys) / len(ys)
+    num = sum((y - xbar) * (by[y]["p"] - by[y]["n"] * pbar) for y in ys)
+    den = sum(by[y]["n"] * (y - xbar) ** 2 for y in ys)
+    if den == 0 or pbar in (0, 1):
+        return None
+    z = num / math.sqrt(pbar * (1 - pbar) * den)
+    return dict(z=z, p=math.erfc(abs(z) / math.sqrt(2)), n=tn, pres=tp, share=pbar)
+
+
+def era(rows):
+    """Later vs earlier within the consistent top-30 frame."""
+    sel = [r for r in rows if r["frame"] == "top30"
+           and r["label"] in ("PAST", "PRESENT", "OTHER")]
+    def tot(g):
+        n = len(g); return sum(1 for r in g if r["label"] == "PRESENT"), n
+    p1, n1 = tot([r for r in sel if r["year"] < ERA_SPLIT])
+    p2, n2 = tot([r for r in sel if r["year"] >= ERA_SPLIT])
+    P1, P2 = p1 / n1, p2 / n2
+    pp = (p1 + p2) / (n1 + n2)
+    z = (P2 - P1) / math.sqrt(pp * (1 - pp) * (1 / n1 + 1 / n2))
+    return dict(p1=p1, n1=n1, P1=P1, p2=p2, n2=n2, P2=P2,
+                z=z, p=math.erfc(abs(z) / math.sqrt(2)), labelled=n1 + n2)
+
+
+def nonmonotonic(per):
+    """A pre-2020 point that outranks later ones -- the page's own honesty check."""
+    pct = lambda r: (r["pres"] / r["n"]) if r["n"] else 0
+    early = [r for r in per if r["frame"] == "top30" and float(r["mid"]) < ERA_SPLIT]
+    late = [r for r in per if r["frame"] == "top30" and float(r["mid"]) >= ERA_SPLIT]
+    if not early or not late:
+        return None, [], pct
+    hi = max(early, key=pct)
+    below = sorted([r for r in late if pct(r) <= pct(hi)], key=lambda r: r["mid"])
+    return hi, below, pct
+
+
+def mark_survival():
+    """Share of quotes that kept their quotation marks, across both frames."""
+    import re as _re
+    lo, hi = 100.0, 0.0
+    for src in SOURCES:
+        by = collections.defaultdict(lambda: [0, 0])
+        for r in csv.DictReader(open(os.path.join(DATA, src["quotes"]), encoding="utf-8")):
+            y = r["sample_id"][3:7]
+            if not y.isdigit() or not (src["lo"] <= int(y) <= src["hi"]):
+                continue
+            by[y][1] += 1
+            if _re.search(r'[\u201c\u201d"]', r["quote_text"]):
+                by[y][0] += 1
+        for m, t in by.values():
+            if t:
+                lo = min(lo, 100 * m / t); hi = max(hi, 100 * m / t)
+    return lo, hi
+
+
+def gnomic_share(rows):
+    g = sum(r["bk"][2] for r in rows)
+    n = sum(r["n"] for r in rows)
+    return 100 * g / n if n else 0
+
+
+# ---------------------------------------------------------------- page
+
+CSS = """
+  :root{
+    --ink:#12161C; --paper:#F6F7F9; --surface:#FFFFFF; --line:#DFE3E8;
+    --muted:#59626E; --faint:#858E9A;
+    --past:#A8763C; --present:#1F7A7A; --dual:#98A0AA; --flag:#B44A2C;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
+          --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;
+          --dual:#737B86;--flag:#DE7A56;}
+  }
+  :root[data-theme="dark"]{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
+    --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;--dual:#737B86;--flag:#DE7A56;}
+  :root[data-theme="light"]{--ink:#12161C;--paper:#F6F7F9;--surface:#FFFFFF;--line:#DFE3E8;
+    --muted:#59626E;--faint:#858E9A;--past:#A8763C;--present:#1F7A7A;--dual:#98A0AA;--flag:#B44A2C;}
+
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+       -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:58rem;margin:0 auto;padding:3.5rem 1.5rem 6rem;
+        display:flex;flex-direction:column;gap:3.25rem;}
+  .wide{max-width:76rem;}
+  .eyebrow{font-family:var(--mono);font-size:.68rem;letter-spacing:.14em;
+           text-transform:uppercase;color:var(--faint);}
+  h1{font-family:var(--serif);font-size:clamp(2rem,5vw,2.9rem);line-height:1.08;
+     font-weight:600;text-wrap:balance;margin:.5rem 0 0;letter-spacing:-.015em;
+     max-width:30ch;}
+  h2{font-family:var(--serif);font-size:1.45rem;font-weight:600;margin:0;text-wrap:balance;}
+  h3{font-family:var(--sans);font-size:.82rem;font-weight:650;margin:0;
+     letter-spacing:.02em;color:var(--ink);}
+  p{margin:0;max-width:64ch;}
+  section{display:flex;flex-direction:column;gap:1rem;}
+  .lede{font-size:1.08rem;color:var(--muted);max-width:66ch;}
+  strong{font-weight:650;}
+
+  .chartbox{background:var(--surface);border:1px solid var(--line);border-radius:2px;
+            padding:1.5rem 1.3rem 1.1rem;overflow-x:auto;}
+  #chart{display:block;min-width:44rem;width:100%;height:auto;}
+  .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:1rem;font-size:.76rem;color:var(--muted);}
+  .legend i{display:inline-block;width:.7rem;height:.7rem;border-radius:1px;
+            margin-right:.42rem;vertical-align:-1px;}
+
+  .tw{overflow-x:auto;border:1px solid var(--line);border-radius:2px;background:var(--surface);}
+  table{border-collapse:collapse;width:100%;font-size:.81rem;}
+  th{font-family:var(--mono);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;
+     color:var(--muted);text-align:right;font-weight:600;padding:.7rem .8rem;
+     border-bottom:1px solid var(--line);white-space:nowrap;background:var(--surface);}
+  th:first-child,th.l{text-align:left;}
+  td{padding:.52rem .8rem;border-bottom:1px solid var(--line);text-align:right;
+     font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap;
+     vertical-align:top;}
+  td:first-child,td.l{text-align:left;font-family:var(--sans);}
+  td.l{white-space:normal;}
+  tbody tr:last-child td{border-bottom:none;}
+
+  .split{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1rem;}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:2px;
+        padding:1.1rem 1.2rem;display:flex;flex-direction:column;gap:.45rem;}
+  .big{font-family:var(--mono);font-size:1.65rem;font-variant-numeric:tabular-nums;
+       letter-spacing:-.02em;line-height:1;}
+  .card p{font-size:.85rem;color:var(--muted);}
+
+  td.def{text-align:left;font-family:var(--sans);white-space:normal;color:var(--muted);
+         line-height:1.5;min-width:22rem;}
+  td.yes{font-size:.7rem;letter-spacing:.05em;text-transform:uppercase;color:var(--present);}
+  td.no{color:var(--faint);}
+  .ladder{margin:0;padding-left:1.35rem;display:flex;flex-direction:column;gap:.7rem;
+          max-width:64ch;color:var(--muted);font-size:.92rem;}
+  .ladder li::marker{font-family:var(--mono);font-size:.8em;color:var(--faint);}
+  .ladder strong{color:var(--ink);}
+
+  .caution{border-left:2px solid var(--flag);padding:.2rem 0 .2rem 1.15rem;
+           display:flex;flex-direction:column;gap:.75rem;}
+  .caution p{color:var(--muted);font-size:.95rem;max-width:62ch;}
+  .caution strong{color:var(--ink);}
+  ul{margin:0;padding-left:1.15rem;display:flex;flex-direction:column;gap:.65rem;
+     max-width:64ch;color:var(--muted);font-size:.92rem;}
+  li strong{color:var(--ink);}
+
+  /* ---- explorer ---- */
+  .controls{display:flex;flex-wrap:wrap;gap:.55rem;align-items:center;
+            background:var(--surface);border:1px solid var(--line);border-radius:2px;
+            padding:.75rem .85rem;position:sticky;top:0;z-index:6;}
+  select,input[type=search]{font-family:var(--sans);font-size:.82rem;color:var(--ink);
+    background:var(--paper);border:1px solid var(--line);border-radius:2px;
+    padding:.36rem .45rem;}
+  input[type=search]{flex:1 1 15rem;min-width:9rem;}
+  .count{font-family:var(--mono);font-size:.73rem;color:var(--muted);margin-left:auto;
+         white-space:nowrap;}
+  button.reset{font-family:var(--sans);font-size:.78rem;color:var(--muted);background:none;
+    border:1px solid var(--line);border-radius:2px;padding:.36rem .6rem;cursor:pointer;}
+  button.reset:hover{color:var(--ink);border-color:var(--muted);}
+  #xtable th{cursor:pointer;user-select:none;font-size:.61rem;}
+  #xtable th:hover{color:var(--ink);}
+  #xtable th .ar{color:var(--present);font-size:.85em;}
+  #xtable td{padding:.45rem .7rem;font-size:.82rem;}
+  tr.book{cursor:pointer;}
+  tr.book:hover>td{background:color-mix(in srgb,var(--present) 6%,transparent);}
+  tr.book.open>td{background:color-mix(in srgb,var(--present) 10%,transparent);}
+  .ttl{font-weight:600;}
+  .au{color:var(--muted);font-size:.92em;}
+  .caret{display:inline-block;width:.75em;color:var(--faint);transition:transform .12s ease;}
+  tr.book.open .caret{transform:rotate(90deg);color:var(--present);}
+  .pill{display:inline-block;font-family:var(--mono);font-size:.63rem;letter-spacing:.06em;
+        text-transform:uppercase;padding:.12rem .4rem;border-radius:2px;
+        border:1px solid currentColor;line-height:1.4;}
+  .l-PAST{color:var(--past);} .l-PRESENT{color:var(--present);}
+  .l-DUAL{color:var(--dual);}
+  .l-INSUFFICIENT,.l-UNCLEAR,.l-EXCLUDED-verse{color:var(--faint);}
+  .c-CONFLICT{color:var(--flag);font-weight:600;}
+  .c-high,.c-med,.c-none{color:var(--faint);}
+  tr.detail-row>td{background:var(--paper);padding:0;}
+  .detail{padding:.1rem 0 1.1rem;}
+  .anote{font-size:.83rem;color:var(--muted);max-width:82ch;padding:.8rem .9rem .2rem;
+         white-space:normal;font-family:var(--sans);text-align:left;line-height:1.6;}
+  .anote strong{color:var(--ink);}
+  .qlist{display:flex;flex-direction:column;padding:.45rem .6rem 0;}
+  .q{display:grid;grid-template-columns:6rem 1fr;gap:.8rem;padding:.55rem .35rem;
+     border-top:1px solid var(--line);text-align:left;white-space:normal;}
+  .qmeta{display:flex;flex-direction:column;gap:.25rem;align-items:flex-start;}
+  .qid{font-family:var(--mono);font-size:.61rem;color:var(--faint);}
+  .qtx{font-family:var(--serif);font-size:.93rem;line-height:1.55;color:var(--ink);
+       white-space:pre-wrap;}
+  .qnote{font-family:var(--sans);font-size:.76rem;color:var(--muted);margin-top:.4rem;
+         padding-left:.7rem;border-left:2px solid var(--line);}
+  .b-event{color:var(--present);} .b-dialogue{color:var(--ink);}
+  .b-gnomic{color:var(--past);} .b-paratext,.b-unclear{color:var(--faint);}
+  .t{font-family:var(--mono);font-size:.61rem;letter-spacing:.04em;color:var(--muted);}
+  .empty,.loading{padding:2.5rem 1rem;text-align:center;color:var(--faint);font-size:.9rem;}
+  .pager{display:flex;align-items:center;justify-content:center;gap:1rem;padding:.2rem 0;}
+  .pg{font-family:var(--sans);font-size:.8rem;color:var(--ink);background:var(--surface);
+      border:1px solid var(--line);border-radius:2px;padding:.4rem .8rem;cursor:pointer;}
+  .pg:hover:not(:disabled){border-color:var(--present);color:var(--present);}
+  .pg:disabled{color:var(--faint);cursor:default;opacity:.5;}
+  .pgnum{font-family:var(--mono);font-size:.74rem;color:var(--muted);
+         font-variant-numeric:tabular-nums;}
+  ul ul{margin-top:.4rem;padding-left:1.05rem;gap:.4rem;font-size:.9rem;}
+
+  footer{border-top:1px solid var(--line);padding-top:1.2rem;font-size:.73rem;
+         color:var(--faint);font-family:var(--mono);line-height:1.8;}
+  :focus-visible{outline:2px solid var(--present);outline-offset:2px;}
+"""
+
+
+era_p = 0.0
+
+
+def body(rows, per, st, hist, frame_n, nq, missing, built):
+    hi, below, pct = nonmonotonic(per)
+    lo_mark, hi_mark = mark_survival()
+    cls = len(rows)
+    ab = sum(r["ab"] for r in per)
+    ns = [r["n"] for r in per if r["n"]]
+    total_frame = sum(frame_n.values())
+    below_txt = ", ".join(f"{r['y']} ({pct(r):.0%})" for r in below) or "no later point"
+    swing = 0
+    recent = [r for r in per if r["frame"] == "top30"]
+    for i in range(1, len(recent)):
+        if recent[i]["n"] and recent[i - 1]["n"]:
+            swing = max(swing, abs(pct(recent[i]) - pct(recent[i - 1])))
+    gn = gnomic_share(rows)
+    hist_txt = (f"{hist['share']:.0%} present across {hist['n']} books"
+                if hist else "not enough labelled books")
+    n5 = frame_n.get("top5", 0)
+    n30 = frame_n.get("top30", 0)
+
+    return f"""
+<div class="wrap wide">
+
+<header>
+  <div class="eyebrow">Booktense &middot; {cls} books classified &middot; {nq:,} quotes &middot; built {built}</div>
+  <h1>Present-tense narration in NYT bestsellers, 1996&ndash;2025</h1>
+  <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
+  The four earliest points group five years each, because coverage before 2016 is thin and
+  drawn from a narrower slice of the list. Every quote behind every label is in the explorer
+  at the bottom.</p>
+</header>
+
+<section>
+  <div class="chartbox">
+    <svg id="chart" viewBox="0 0 980 400" role="img"
+         aria-label="Stacked area chart of present, other and past tense share over time, with the present band rising from the baseline"></svg>
+    <div class="legend">
+      <span><i style="background:var(--present)"></i>Present</span>
+      <span><i style="background:var(--dual)"></i>Other &mdash; dual-tense or not prose fiction</span>
+      <span><i style="background:var(--past)"></i>Past</span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="split">
+    <div class="card">
+      <h3>1996&ndash;2015 &middot; top 5 a year</h3>
+      <div class="big" style="color:var(--present)">{hist['share']:.0%}</div>
+      <p>present, across {hist['n']} labelled books</p>
+    </div>
+    <div class="card">
+      <h3>2016&ndash;2025 &middot; top 30 a year</h3>
+      <div class="big" style="color:var(--present)">{st['pres'] / st['n']:.0%}</div>
+      <p>present, across {st['n']} labelled books</p>
+    </div>
+    <div class="card">
+      <h3>Trend within 2016&ndash;2025</h3>
+      <div class="big">p = {st['p']:.3f}</div>
+      <p>z = {st['z']:.2f} &middot; the one frame consistent enough to test</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>The numbers behind it</h2>
+  <div class="tw">
+    <table>
+      <thead><tr>
+        <th class="l">Period</th><th class="l">Frame</th><th>Past</th><th>Other</th>
+        <th>Present</th><th>n labelled</th><th>% present</th><th>95% CI</th>
+        <th>abstained</th><th>classified</th>
+      </tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <p style="font-size:.79rem;color:var(--faint)">Each point rests on {min(ns)}&ndash;{max(ns)}
+  labelled books. <strong>Other</strong> covers books with no single base tense and books that
+  turned out not to be prose fiction &mdash; Amanda Gorman&rsquo;s verse collections reached
+  the hardcover fiction list and sit here rather than being dropped.</p>
+</section>
+
+<section>
+  <h2>How a book gets its label</h2>
+  <p>Each quote is sorted into one bucket. Only two of them carry evidence about the
+  narrator&rsquo;s tense &mdash; the other three exist to keep those two clean.</p>
+
+  <div class="tw">
+    <table>
+      <thead><tr><th class="l">Bucket</th><th class="l">What it is</th><th class="l">Yields</th></tr></thead>
+      <tbody>
+        <tr><td>event</td>
+          <td class="def">A specific character at a specific story-moment, or past-tense
+              exposition about the story world</td><td class="yes">tense</td></tr>
+        <tr><td>dialogue</td>
+          <td class="def">Character speech &mdash; but the narrator&rsquo;s own tag or action
+              beat around it still counts</td><td class="yes">beat&nbsp;tense</td></tr>
+        <tr><td>gnomic</td>
+          <td class="def"><em>Present-tense</em> generalization reaching beyond the story
+              world: proverbs, epigraphs, essayistic asides</td><td class="no">&mdash;</td></tr>
+        <tr><td>paratext</td>
+          <td class="def">Acknowledgments, dedications, jacket copy &mdash; not the novel</td>
+          <td class="no">&mdash;</td></tr>
+        <tr><td>unclear</td>
+          <td class="def">Undecidable from the excerpt alone</td><td class="no">&mdash;</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>The load-bearing split is <strong>gnomic against event, and the test is specificity, not
+  tense</strong>. &ldquo;My father is dead&rdquo; is present tense but concerns one person at
+  one moment, so it counts. &ldquo;Books, like people, die&rdquo; does not.</p>
+
+  <p>Those two evidence-bearing buckets pool into a single tally, and the book&rsquo;s label
+  follows in three steps:</p>
+
+  <ol class="ladder">
+    <li><strong>Gate.</strong> Fewer than five tense-bearing quotes and the book abstains
+    rather than guessing.</li>
+    <li><strong>Base tense.</strong> A holistic read of the narrating situation &mdash;
+    recorded independently of the counts &mdash; sets it: <em>retrospective</em> gives past,
+    <em>simultaneous</em> gives present, <em>dual</em> gives other unless the tally runs 80%
+    one way, which marks a base tense with a strand rather than true duality.</li>
+    <li><strong>Confidence.</strong> The tally then either corroborates that read or
+    contradicts it, flagging the book for review.</li>
+  </ol>
+
+  <p>The counts do not set the label because they cannot. <em>Golden Girl</em> and
+  <em>Cloud Cuckoo Land</em> sit one percentage point apart and are structurally opposite
+  &mdash; one alternates tense across its main narrative, the other is present-narrated with a
+  past tale embedded inside it. No threshold separates those two; reading the narrating
+  situation does.</p>
+</section>
+
+<section>
+  <h2>What this does and doesn&rsquo;t support</h2>
+  <div class="caution">
+    <p><strong>Within 2016&ndash;2025 the rise is statistically detectable</strong> &mdash; a
+    linear trend across those ten years gives p&nbsp;=&nbsp;{st['p']:.3f} on {st['n']} books.
+    The two-era split reads p&nbsp;=&nbsp;{era_p:.3f}, but its {ERA_SPLIT - 1}/{ERA_SPLIT}
+    boundary was drawn after seeing the data, so lead with the trend.</p>
+    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
+    come from the top {5} titles of each year against the top {30} from 2016 on, so the early
+    slice is a smaller, more famous set of books. A difference between the eras could be a
+    difference between those slices. Do not read the full span as one series.</p>
+    <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
+    {swing:.0%}, and {hi['y']} ({pct(hi):.0%}) sits at or above {below_txt}. What the recent
+    data supports is a level shift, not a steady year-on-year climb.</p>
+  </div>
+  <ul>
+    <li><strong>Goodreads pull-quotes are a biased source, and the bias runs toward apparent
+    present tense.</strong> Everything below is a symptom of reading books through the
+    passages readers chose to excerpt:
+      <ul style="margin-top:.55rem">
+        <li>Quotes are selected for quotability, and quotability loves aphorism &mdash;
+        {gn:.0f}% of all quotes are gnomic, timeless-present generalization that says nothing
+        about a book&rsquo;s narration. The bucket scheme exists to strip exactly this.</li>
+        <li>Quotation marks survive only {lo_mark:.0f}&ndash;{hi_mark:.0f}% of the time, so
+        speech and narration often cannot be told apart from the text alone.</li>
+        <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
+        who is speaking.</li>
+        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
+        abstain more often &mdash; {ab} do here.</li>
+        <li>Nothing marks where in a book a quote came from, so a framed prologue or an
+        embedded tale reads the same as the main narration.</li>
+      </ul>
+    </li>
+    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
+    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
+    buckets &mdash; yet both produced the same book label, and every disagreement was a
+    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Every book, every quote</h2>
+  <p>All {cls} classified books and all {nq:,} quotes behind them &mdash; nothing truncated,
+  no bucket hidden. Click a row for its quotes, buckets, and the classifier&rsquo;s reasoning.
+  Search reaches into quote text and notes, not just titles.</p>
+
+  <div class="controls">
+    <select id="fyear"><option value="">All periods</option></select>
+    <select id="flabel"><option value="">All labels</option></select>
+    <select id="fconf"><option value="">Any confidence</option></select>
+    <select id="fsit"><option value="">Any situation</option></select>
+    <select id="fbucket"><option value="">Any bucket present</option></select>
+    <input type="search" id="fq" placeholder="Search titles, authors, quote text, notes…">
+    <button class="reset" id="reset">Reset</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tw">
+    <table id="xtable">
+      <thead><tr>
+        <th class="l" data-k="year">Year <span class="ar"></span></th>
+        <th class="l" data-k="title">Book <span class="ar"></span></th>
+        <th class="l" data-k="label">Label <span class="ar"></span></th>
+        <th class="l" data-k="conf">Conf <span class="ar"></span></th>
+        <th class="l" data-k="sit">Situation <span class="ar"></span></th>
+        <th data-k="pct">% pres <span class="ar"></span></th>
+        <th data-k="ev">Event <span class="ar"></span></th>
+        <th data-k="bt">Beats <span class="ar"></span></th>
+        <th data-k="n">Quotes <span class="ar"></span></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="loading" id="status">Loading…</div>
+  </div>
+  <div class="pager" id="pager" hidden>
+    <button class="pg" id="prev">&larr; Previous</button>
+    <span class="pgnum" id="pgnum"></span>
+    <button class="pg" id="next">Next &rarr;</button>
+  </div>
+</section>
+
+<footer>
+  Frame: NYT Hardcover Fiction &middot; top 30 titles a year 2016&ndash;2025 ({n30} books),
+  top 5 a year 1996&ndash;2015 ({n5} books)<br>
+  Text: Goodreads pull-quotes &middot; Labels: base narration from narrating_situation; event
+  quotes and dialogue beats pooled for ratio and confidence<br>
+  {cls} classified of {total_frame} in frame &middot; {st['n'] + (hist['n'] if hist else 0)}
+  yielding a label &middot; {ab} abstained{'' if not missing else f' &middot; {missing} quotes with no text on file'}
+</footer>
+</div>
+"""
+
+
+APP = r"""
+const esc = s => String(s).replace(/[&<>"]/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const BUCKETS = ["event","dialogue","gnomic","paratext","unclear"];
+
+function drawChart(A){
+  const W=980,H=400,L=52,R=18,T=18,B=52, iw=W-L-R, ih=H-T-B;
+  // Points sit at the midpoint of the span each period covers, on a real time axis,
+  // so a five-year bucket is five times as far from its neighbour as a single year is.
+  A.forEach(d=>{ d.mid=(d.lo + d.hi + 1)/2;
+                 d.pPres=d.n?d.pres/d.n:0; d.pOther=d.n?d.other/d.n:0; });
+  const X0=A[0].mid, X1=A[A.length-1].mid;
+  const x=v=>L+iw*(v-X0)/(X1-X0), y=v=>T+ih*(1-v);
+
+  const b1=A.map(d=>d.pPres), b2=A.map(d=>d.pPres+d.pOther);
+  const zero=A.map(()=>0), one=A.map(()=>1);
+  const band=(lo,hi,tok)=>{
+    const up=A.map((d,i)=>`${x(d.mid)},${y(hi[i])}`).join(" ");
+    const dn=A.map((d,i)=>`${x(d.mid)},${y(lo[i])}`).reverse().join(" ");
+    return `<polygon points="${up} ${dn}" fill="var(--${tok})" opacity="0.88"/>`;
+  };
+  let s="";
+  for(let g=0;g<=100;g+=25){
+    s+=`<line x1="${L}" x2="${W-R}" y1="${y(g/100)}" y2="${y(g/100)}" stroke="var(--line)" stroke-width="1"/>`;
+    s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--faint)">${g}%</text>`;
+  }
+  s+=band(zero,b1,"present")+band(b1,b2,"dual")+band(b2,one,"past");
+  s+=`<polyline points="${A.map((d,i)=>`${x(d.mid)},${y(b1[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.6"/>`;
+  s+=`<polyline points="${A.map((d,i)=>`${x(d.mid)},${y(b2[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.2"/>`;
+
+  A.forEach((d,i)=>{
+    const cx=x(d.mid);
+    // a bucket averages several years; show the span it stands for
+    if(d.span>1){
+      const a=x(d.lo), b=x(d.hi+1);
+      s+=`<line x1="${Math.max(a,L)}" x2="${Math.min(b,W-R)}" y1="${H-B+4}" y2="${H-B+4}"
+           stroke="var(--faint)" stroke-width="1" opacity="0.5"/>`;
+    }
+    s+=`<circle cx="${cx}" cy="${y(b1[i])}" r="3.2" fill="var(--present)"
+         stroke="var(--surface)" stroke-width="1.5"/>`;
+    s+=`<text x="${cx}" y="${H-B+18}" text-anchor="middle" font-family="var(--mono)"
+         font-size="9.5" fill="var(--muted)">${d.short}</text>`;
+    s+=`<text x="${cx}" y="${H-B+30}" text-anchor="middle" font-family="var(--mono)"
+         font-size="8" fill="var(--faint)">n=${d.n}</text>`;
+  });
+  document.getElementById("chart").innerHTML=s;
+
+  const ci=(p,n)=>{const se=Math.sqrt(p*(1-p)/n);
+    return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
+  document.getElementById("tbody").innerHTML=A.map(d=>`
+    <tr><td>${d.y}</td>
+    <td style="color:var(--faint)">${d.frame==="top5"?"top 5":"top 30"}</td>
+    <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
+    <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
+    <td>${d.n?ci(d.pPres,d.n):"—"}</td>
+    <td>${d.ab}</td><td style="color:var(--faint)">${d.cls}</td></tr>`).join("");
+}
+
+function initExplorer(BOOKS){
+  const rowsEl=document.getElementById("rows");
+  const statusEl=document.getElementById("status");
+  const countEl=document.getElementById("count");
+
+  BOOKS.forEach(b=>{
+    const t=b.ev[0]+b.ev[1];
+    b.pct=t?b.ev[1]/t:-1; b.evn=t; b.btn=b.bt[0]+b.bt[1];
+    b._hay=(b.title+" "+b.author+" "+b.note+" "+
+            b.q.map(q=>q.x+" "+q.n).join(" ")).toLowerCase();
+  });
+
+  const fill=(id,vals)=>{const s=document.getElementById(id);
+    vals.forEach(v=>{const o=document.createElement("option");
+      o.value=v; o.textContent=v; s.appendChild(o);});};
+  fill("fyear",[...new Set(BOOKS.map(b=>b.period))].sort());
+  fill("flabel",[...new Set(BOOKS.map(b=>b.label))].sort());
+  fill("fconf",[...new Set(BOOKS.map(b=>b.conf).filter(Boolean))].sort());
+  fill("fsit",[...new Set(BOOKS.map(b=>b.sit).filter(Boolean))].sort());
+  fill("fbucket",BUCKETS);
+
+  let sortKey="year", sortDir=1, page=0;
+  const PAGE=20;
+  const open=new Set();
+  const val=id=>document.getElementById(id).value;
+
+  const current=()=>{
+    const q=val("fq").trim().toLowerCase();
+    const bIdx=BUCKETS.indexOf(val("fbucket"));
+    return BOOKS.filter(b=>
+      (!val("fyear")||b.period===val("fyear")) &&
+      (!val("flabel")||b.label===val("flabel")) &&
+      (!val("fconf")||b.conf===val("fconf")) &&
+      (!val("fsit")||b.sit===val("fsit")) &&
+      (bIdx<0||b.bk[bIdx]>0) &&
+      (!q||b._hay.includes(q)));
+  };
+
+  function detailHTML(b){
+    const rows=b.q.map(q=>{
+      const bits=[`<span class="pill b-${esc(q.b)}">${esc(q.b)}</span>`];
+      if(q.t)  bits.push(`<span class="t">tense · ${esc(q.t)}</span>`);
+      if(q.bt) bits.push(`<span class="t">beat · ${esc(q.bt)}</span>`);
+      return `<div class="q">
+        <div class="qmeta"><span class="qid">${esc(q.id)}</span>${bits.join("")}</div>
+        <div><div class="qtx">${q.x?esc(q.x):"<span style='color:var(--faint)'>[no text on file]</span>"}</div>
+        ${q.n?`<div class="qnote">${esc(q.n)}</div>`:""}</div></div>`;
+    }).join("");
+    const bk=BUCKETS.map((nm,i)=>b.bk[i]?`${b.bk[i]} ${nm}`:null).filter(Boolean).join(" · ");
+    return `<td class="l" colspan="9"><div class="detail">
+      <div class="anote"><strong>${esc(b.why||"no tense evidence")}</strong><br>${esc(bk)}
+      ${b.note?`<br><br>${esc(b.note)}`:""}</div>
+      <div class="qlist">${rows}</div></div></td>`;
+  }
+
+  function render(){
+    const all=current();
+    all.sort((a,z)=>{
+      let A=a[sortKey], Z=z[sortKey];
+      if(sortKey==="ev"){A=a.evn;Z=z.evn;}
+      if(sortKey==="bt"){A=a.btn;Z=z.btn;}
+      if(typeof A==="string") return sortDir*A.localeCompare(Z);
+      return sortDir*(A-Z);
+    });
+    const pages=Math.max(1,Math.ceil(all.length/PAGE));
+    if(page>=pages) page=pages-1;
+    if(page<0) page=0;
+    const list=all.slice(page*PAGE,(page+1)*PAGE);
+    const frag=document.createDocumentFragment();
+    list.forEach(b=>{
+      const tr=document.createElement("tr");
+      tr.className="book"+(open.has(b.sid)?" open":"");
+      tr.dataset.sid=b.sid;
+      tr.innerHTML=
+        `<td class="l">${b.year}</td>
+         <td class="l"><span class="caret">&#9656;</span> <span class="ttl">${esc(b.title)}</span>
+             <span class="au">— ${esc(b.author)}</span></td>
+         <td class="l"><span class="pill l-${esc(b.label)}">${esc(b.label)}</span></td>
+         <td class="l"><span class="c-${esc(b.conf||"none")}">${esc(b.conf||"—")}</span></td>
+         <td class="l">${esc(b.sit||"—")}</td>
+         <td>${b.pct<0?"—":Math.round(b.pct*100)+"%"}</td>
+         <td>${b.ev[0]}/${b.ev[1]}</td>
+         <td>${b.bt[0]}/${b.bt[1]}</td>
+         <td>${b.n}</td>`;
+      frag.appendChild(tr);
+      if(open.has(b.sid)){
+        const d=document.createElement("tr");
+        d.className="detail-row"; d.innerHTML=detailHTML(b);
+        frag.appendChild(d);
+      }
+    });
+    rowsEl.replaceChildren(frag);
+    const from=all.length?page*PAGE+1:0, to=Math.min(all.length,(page+1)*PAGE);
+    countEl.textContent=all.length===BOOKS.length
+      ? `${from}–${to} of ${all.length} books`
+      : `${from}–${to} of ${all.length} matching · ${BOOKS.length} total`;
+    statusEl.hidden=all.length>0;
+    statusEl.textContent="No books match those filters.";
+    statusEl.className="empty";
+    document.getElementById("pager").hidden=all.length<=PAGE;
+    document.getElementById("pgnum").textContent=`Page ${page+1} of ${pages}`;
+    document.getElementById("prev").disabled=page===0;
+    document.getElementById("next").disabled=page>=pages-1;
+  }
+
+  const go=d=>{ page+=d; open.clear(); render();
+    document.getElementById("xtable").scrollIntoView({block:"start",behavior:"smooth"}); };
+  document.getElementById("prev").addEventListener("click",()=>go(-1));
+  document.getElementById("next").addEventListener("click",()=>go(1));
+
+  /* detail rows build on demand -- all quotes never hit the DOM at once */
+  rowsEl.addEventListener("click",e=>{
+    const tr=e.target.closest("tr.book");
+    if(!tr) return;
+    const sid=tr.dataset.sid;
+    if(open.has(sid)){
+      open.delete(sid); tr.classList.remove("open");
+      const nx=tr.nextElementSibling;
+      if(nx&&nx.classList.contains("detail-row")) nx.remove();
+    }else{
+      open.add(sid); tr.classList.add("open");
+      const d=document.createElement("tr");
+      d.className="detail-row";
+      d.innerHTML=detailHTML(BOOKS.find(x=>x.sid===sid));
+      tr.after(d);
+    }
+  });
+
+  document.querySelectorAll("#xtable th[data-k]").forEach(th=>{
+    th.addEventListener("click",()=>{
+      const k=th.dataset.k;
+      sortDir=(sortKey===k)?-sortDir:1; sortKey=k;
+      document.querySelectorAll("#xtable th .ar").forEach(a=>a.textContent="");
+      th.querySelector(".ar").textContent=sortDir>0?"▲":"▼";
+      page=0; render();
+    });
+  });
+  const refilter=()=>{ page=0; render(); };
+  ["fyear","flabel","fconf","fsit","fbucket"].forEach(id=>
+    document.getElementById(id).addEventListener("change",refilter));
+  document.getElementById("fq").addEventListener("input",refilter);
+  document.getElementById("reset").addEventListener("click",()=>{
+    ["fyear","flabel","fconf","fsit","fbucket"].forEach(id=>
+      document.getElementById(id).value="");
+    document.getElementById("fq").value="";
+    open.clear(); page=0; render();
+  });
+  render();
+}
+
+function init(payload){ drawChart(payload.years); initExplorer(payload.books); }
+"""
+
+EMBEDDED_BOOT = """
+init(JSON.parse(document.getElementById("data").textContent));
+"""
+
+FETCH_BOOT = """
+fetch("data/report_data.json")
+  .then(r => { if(!r.ok) throw new Error(r.status+" "+r.statusText); return r.json(); })
+  .then(init)
+  .catch(err => {
+    const s=document.getElementById("status");
+    s.className="empty";
+    s.innerHTML="Could not load <code>data/report_data.json</code> — "+esc(err.message)+
+      ".<br><br>This page must be served over http, not opened from the filesystem.<br>"+
+      "Run <code>python3 -m http.server 8000</code> in the project directory, "+
+      "then open <code>localhost:8000/trend_local.html</code>.";
+  });
+"""
+
+
+def main():
+    rows, missing, frame_n = load()
+    per = periods(rows)
+    st = trend(rows, "top30")
+    hist = trend(rows, "top5")
+    e = era(rows)
+    nq = sum(len(r["q"]) for r in rows)
+    built = datetime.date.today().strftime("%d %b %Y")
+
+    global era_p
+    era_p = e["p"]
+    html_body = body(rows, per, st, hist, frame_n, nq, missing, built)
+    payload = {"years": per, "books": rows}
+    blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+
+    def page(title, boot, data_script=""):
+        return (f"<title>{title}</title>\n<style>{CSS}</style>\n{html_body}\n"
+                f"{data_script}<script>{APP}\n{boot}</script>\n")
+
+    safe = (blob.replace("<", "\\u003c")
+                .replace("\u2028", "\\u2028").replace("\u2029", "\\u2029"))
+    full = page("Narrative tense in NYT bestsellers, 1996-2025", EMBEDDED_BOOT,
+                f'<script id="data" type="application/json">{safe}</script>\n')
+    open(os.path.join(HERE, "trend.html"), "w", encoding="utf-8").write(full)
+
+    open(os.path.join(DATA, "report_data.json"), "w", encoding="utf-8").write(blob)
+    local = page("Narrative tense in NYT bestsellers (local)", FETCH_BOOT)
+    open(os.path.join(HERE, "trend_local.html"), "w", encoding="utf-8").write(local)
+
+    print(f"{len(rows)} books, {nq} quotes"
+          + (f", {missing} quotes missing text" if missing else ""))
+    print(f"  top30 2016-2025 : {st['pres']}/{st['n']} = {st['share']:.1%} present"
+          f"  trend z={st['z']:.2f} p={st['p']:.4f}")
+    if hist:
+        print(f"  top5  1996-2015 : {hist['pres']}/{hist['n']} = {hist['share']:.1%} present"
+              f"  trend z={hist['z']:.2f} p={hist['p']:.4f}")
+    print(f"  era {2016}-{ERA_SPLIT-1} {e['P1']:.1%} vs {ERA_SPLIT}-2025 {e['P2']:.1%}"
+          f"  z={e['z']:.2f} p={e['p']:.4f}")
+    print(f"  trend.html        {len(full)/1e6:.2f} MB  (self-contained)")
+    print(f"  trend_local.html  {len(local)/1e3:.1f} KB  + data/report_data.json "
+          f"{len(blob)/1e6:.2f} MB")
+
+
+if __name__ == "__main__":
+    main()

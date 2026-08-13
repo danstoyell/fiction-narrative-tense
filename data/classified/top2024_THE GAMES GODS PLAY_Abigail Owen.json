@@ -17,12 +17,14 @@
       "quote_id": "q09614",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "none",
       "note": "no quotation marks; signal = direct address to 'you' + avowal register, parallel to q09615/q09617"
     },
     {
       "quote_id": "q09615",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "none",
       "note": "no quotation marks; signal = vocative 'my star' + direct address"
     },
     {
@@ -35,6 +37,7 @@
       "quote_id": "q09617",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "none",
       "note": "no marks; signal = direct address to 'you' + avowal register, parallel to q09614"
     },
     {
@@ -77,18 +80,21 @@
       "quote_id": "q09624",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "none",
       "note": "marks stripped by source; trailing comma indicates an excised dialogue tag"
     },
     {
       "quote_id": "q09625",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "present",
       "note": "quotation-mark majority (speech far outweighs beats); narrative beats are present tense but non-diagnostic under precedence rule"
     },
     {
       "quote_id": "q09626",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "present",
       "note": "mark-majority ~26 spoken vs ~19 narrating words; present-tense beats not counted"
     },
     {
@@ -107,12 +113,14 @@
       "quote_id": "q09629",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "present",
       "note": "mark-majority: 9 spoken words vs 2-word tag 'I insist'"
     },
     {
       "quote_id": "q09630",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "none",
       "note": "no marks; signal = direct address to 'you' + first-person avowal register"
     },
     {
@@ -125,6 +133,7 @@
       "quote_id": "q09632",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "present",
       "note": "mark-majority ~27 spoken vs ~10 narrating words"
     },
     {
@@ -143,6 +152,7 @@
       "quote_id": "q09635",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "none",
       "note": "FLIP RISK: no marks; direct address + avowal register matches q09614/17/30 so filed dialogue, but if read as narration it is the only past-tense event quote in the book"
     },
     {
@@ -155,6 +165,7 @@
       "quote_id": "q09637",
       "bucket": "dialogue",
       "tense": "",
+      "beat_tense": "none",
       "note": "no marks; signal = direct address insult to 'you'"
     }
   ],

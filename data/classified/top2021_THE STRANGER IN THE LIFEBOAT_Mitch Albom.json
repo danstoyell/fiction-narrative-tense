@@ -1,0 +1,148 @@
+{
+ "sample_id": "top2021:THE STRANGER IN THE LIFEBOAT|Mitch Albom",
+ "quotes": [
+  {
+   "quote_id": "q05681",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech dominates; \u2018I rasped\u2019 and \u2018She smiled\u2019 are past-tense beats."
+  },
+  {
+   "quote_id": "q05682",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Conversational exchange; the external action beat is \u2018He squinted.\u2019"
+  },
+  {
+   "quote_id": "q05683",
+   "bucket": "event",
+   "tense": "present",
+   "note": "First-person, story-specific reflection on a death."
+  },
+  {
+   "quote_id": "q05684",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted direct address."
+  },
+  {
+   "quote_id": "q05685",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless generalization."
+  },
+  {
+   "quote_id": "q05686",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted explanatory speech."
+  },
+  {
+   "quote_id": "q05687",
+   "bucket": "event",
+   "tense": "present",
+   "note": "First-person narrator state/reflection."
+  },
+  {
+   "quote_id": "q05688",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General aphorism."
+  },
+  {
+   "quote_id": "q05689",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalized second-person statement."
+  },
+  {
+   "quote_id": "q05690",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Question-and-answer exchange."
+  },
+  {
+   "quote_id": "q05691",
+   "bucket": "event",
+   "tense": "past",
+   "note": "First-person retrospective narration of a prior consideration."
+  },
+  {
+   "quote_id": "q05692",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Rhetorical generalization beyond a specific story moment."
+  },
+  {
+   "quote_id": "q05693",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Essayistic reflection about stories and belief."
+  },
+  {
+   "quote_id": "q05694",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Mark-stripped standalone aphorism; no affirmative evidence of character speech."
+  },
+  {
+   "quote_id": "q05695",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Quoted speech with past-tense \u2018he said\u2019 tag."
+  },
+  {
+   "quote_id": "q05696",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Extended conversational exchange; \u2018I actually laughed\u2019 is a past-tense beat."
+  },
+  {
+   "quote_id": "q05697",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unattributed imperative without quotation marks; speech versus aphoristic address is unresolved."
+  },
+  {
+   "quote_id": "q05698",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unattributed imperative without quotation marks; likely address but not affirmatively identifiable as dialogue."
+  },
+  {
+   "quote_id": "q05699",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific past event and resulting state; final general observation is subordinate."
+  },
+  {
+   "quote_id": "q05700",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Question-and-answer exchange."
+  },
+  {
+   "quote_id": "q05701",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless personification and generalization."
+  },
+  {
+   "quote_id": "q05702",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted direct-address questions."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Event narration is sparse (4 quotes: 2 past, 2 present). The past events are retrospective recollections, while the present events are narrator reflection/current state; no supplied excerpt establishes a dual writing position or independent simultaneous strand."
+}

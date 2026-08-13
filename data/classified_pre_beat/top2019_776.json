@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2019:776",
+  "quotes": [
+    {"quote_id": "q03716", "bucket": "gnomic", "tense": "", "note": "fragment -- no finite verb"},
+    {"quote_id": "q03717", "bucket": "gnomic", "tense": "", "note": "second-person universal / rule of thumb, present tense, no quotation marks"},
+    {"quote_id": "q03718", "bucket": "gnomic", "tense": "", "note": "proverb"},
+    {"quote_id": "q03719", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03720", "bucket": "event", "tense": "past", "note": "past-tense summary of a specific character's state"},
+    {"quote_id": "q03722", "bucket": "event", "tense": "past", "note": "truncated at start but finite past verb, specific action"},
+    {"quote_id": "q03723", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03721", "bucket": "dialogue", "tense": "", "note": "two-speaker exchange, quotation marks throughout, no narration"},
+    {"quote_id": "q03724", "bucket": "dialogue", "tense": "", "note": "no quotation marks in excerpt; signal used = register + first-person deixis (I/my) inside an otherwise third-person past narration, argumentative speech"},
+    {"quote_id": "q03725", "bucket": "unclear", "tense": "", "note": "truncated mid-sentence on both ends; reads as threat speech but too little text to bucket"},
+    {"quote_id": "q03726", "bucket": "event", "tense": "past", "note": "FLIP RISK -- unmarked free indirect discourse; 'You can bet' is a present-tense address but the reported event 'they did' is past and story-specific; could alternatively be unmarked dialogue"},
+    {"quote_id": "q03727", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03728", "bucket": "event", "tense": "past", "note": "'Human nature.' is a fragment gloss but the quote's body is past-tense specific action"},
+    {"quote_id": "q03729", "bucket": "event", "tense": "past", "note": "conditional 'would have' is inference, base narration past"},
+    {"quote_id": "q03730", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority beats the dialogue tags"},
+    {"quote_id": "q03731", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03732", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03733", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03734", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03735", "bucket": "dialogue", "tense": "", "note": "quotation-marked exchange, all speech"},
+    {"quote_id": "q03736", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03737", "bucket": "event", "tense": "past", "note": "mixed, but narration outweighs the short speech beats (~130 narrating words vs ~50 spoken)"},
+    {"quote_id": "q03738", "bucket": "event", "tense": "past", "note": "evolutionary aside is anchored to a specific character's moment and stays past-tense"},
+    {"quote_id": "q03739", "bucket": "event", "tense": "past", "note": "one 6-word question inside marks, rest is past narration"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Clean past-tense third-person limited narration following a character named Reacher, heavy free indirect discourse in clipped fragments. 16 event quotes, all past, none present. Gnomic bucket used only for three genuinely present-tense generalizations (a proverb, a second-person rule of thumb, a verbless fragment); past-tense summary such as q03720 kept as event/past per the specificity-not-tense rule. Dialogue identified by quotation-mark majority everywhere except q03724, where marks are absent and register/first-person deixis was the signal. No paratext, no non-English, no verse."
+}

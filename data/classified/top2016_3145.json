@@ -3,7 +3,7 @@
   "quotes": [
     {"quote_id": "q01033", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic reflection on 'how we find ways to feel superior'; generalizes beyond story world"},
     {"quote_id": "q01034", "bucket": "event", "tense": "past", "note": "first-person retrospective, specific narrator state"},
-    {"quote_id": "q01035", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech far outweighs 'she had said'"},
+    {"quote_id": "q01035", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech far outweighs 'she had said'", "beat_tense": "past"},
     {"quote_id": "q01036", "bucket": "event", "tense": "past", "note": "opens on a specific past realization ('Then I understood I would never marry him'); trailing present-tense generalization does not outweigh it"},
     {"quote_id": "q01037", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about 'we children'"},
     {"quote_id": "q01038", "bucket": "event", "tense": "past", "note": "specific past effect on narrator; 'This is my point' is a narrating-moment aside"},
@@ -14,7 +14,7 @@
     {"quote_id": "q01043", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about 'most of us'"},
     {"quote_id": "q01044", "bucket": "event", "tense": "past", "note": ""},
     {"quote_id": "q01045", "bucket": "event", "tense": "past", "note": "anchored on a specific past act ('I said nothing'); narrating-moment habitual present attached"},
-    {"quote_id": "q01046", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech majority over the attributing clause"},
+    {"quote_id": "q01046", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech majority over the attributing clause", "beat_tense": "past"},
     {"quote_id": "q01047", "bucket": "event", "tense": "past", "note": "specific named character on a specific day"},
     {"quote_id": "q01048", "bucket": "event", "tense": "past", "note": "reported speech inside past narration"},
     {"quote_id": "q01049", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about people and government; essayistic, beyond story world"},
