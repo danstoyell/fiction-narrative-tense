@@ -138,8 +138,8 @@ def main():
 
     rows.sort(key=lambda r: (r["label"], -r["n_quotes"]))
     out = a.out or os.path.join(DATA, f"labels_{a.stratum}.csv")
-    with open(out, "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
+    with open(out, "w", newline="\n", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()), lineterminator="\n")
         w.writeheader(); w.writerows(rows)
 
     print(f"{'label':<16}{'n':>3}  books")

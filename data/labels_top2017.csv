@@ -1,4 +1,5 @@
 sample_id,title,author,n_quotes,event,gnomic,dialogue,paratext,unclear,ev_past,ev_present,event_past,event_present,beat_past,beat_present,pct_present,situation,label,confidence,why
+top2017:137,A LEGACY OF SPIES,John le Carré,64,38,4,21,1,0,16,27,15,23,1,4,0.627906976744186,dual,DUAL,high,"37% past / 63% present of 43, situation=dual"
 top2017:2441,INTO THE WATER,Paula Hawkins,43,30,8,3,2,0,23,8,22,8,1,0,0.25806451612903225,dual,DUAL,high,"74% past / 26% present of 31, situation=dual"
 top2017:513,ARTEMIS,Andy Weir,78,23,32,23,0,0,36,0,23,0,13,0,0.0,retrospective,PAST,high,"100% past / 0% present of 36, situation=retrospective"
 top2017:2897,MANHATTAN BEACH,Jennifer Egan,68,53,5,10,0,0,60,0,53,0,7,0,0.0,retrospective,PAST,high,"100% past / 0% present of 60, situation=retrospective"
@@ -18,7 +19,6 @@ top2017:5627,THE LATE SHOW,Michael Connelly,18,7,3,7,1,0,10,0,7,0,3,0,0.0,retros
 top2017:910,CAMINO ISLAND,John Grisham,17,6,5,6,0,0,6,0,6,0,0,0,0.0,retrospective,PAST,med,"100% past / 0% present of 6, situation=retrospective"
 top2017:1636,END GAME,David Baldacci,16,3,1,11,0,1,10,0,3,0,7,0,0.0,retrospective,PAST,high,"100% past / 0% present of 10, situation=retrospective"
 top2017:4108,"SING, UNBURIED, SING",Jesmyn Ward,65,46,5,12,2,0,23,30,20,26,3,4,0.5660377358490566,simultaneous,PRESENT,CONFLICT,"43% past / 57% present of 53, situation=simultaneous"
-top2017:137,A LEGACY OF SPIES,John le Carré,64,38,4,21,1,0,16,27,15,23,1,4,0.627906976744186,simultaneous,PRESENT,CONFLICT,"37% past / 63% present of 43, situation=simultaneous"
 top2017:640,BEFORE WE WERE YOURS,Lisa Wingate,47,21,20,3,2,1,4,18,4,17,0,1,0.8181818181818182,simultaneous,PRESENT,high,"18% past / 82% present of 22, situation=simultaneous"
 top2017:5457,THE IDENTICALS,Elin Hilderbrand,24,13,6,4,0,1,4,9,4,9,0,0,0.6923076923076923,simultaneous,PRESENT,high,"31% past / 69% present of 13, situation=simultaneous"
 top2017:2719,LINCOLN IN THE BARDO,George Saunders,60,40,9,9,0,2,33,10,30,10,3,0,0.23255813953488372,unclear,UNCLEAR,,situation='unclear'

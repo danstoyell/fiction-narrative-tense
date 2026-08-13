@@ -35,17 +35,6 @@ SOURCES = [
          quotes=["quotes_topn5_1996_2016.csv", "quotes_topn5_more_1996_2015.csv"],
          dirs=["classified_topn5_*"], lo=1996, hi=2015),
 ]
-BUCKETS5 = [(1996, 2000), (2001, 2005), (2006, 2010), (2011, 2015)]
-
-
-def period(year):
-    """Sparse early years group into 5-year buckets; recent years stand alone."""
-    for lo, hi in BUCKETS5:
-        if lo <= year <= hi:
-            return f"{lo}-{hi}", (lo + hi) / 2, f"{str(lo)[2:]}-{str(hi)[2:]}"
-    return str(year), float(year), str(year)
-
-
 def group(lab):
     """Three display classes plus abstention. DUAL and verse both read as OTHER."""
     if lab in ("PAST", "PRESENT"):
@@ -113,10 +102,9 @@ def load():
                                    "t": q.get("tense", "") or "",
                                    "bt": q.get("beat_tense", "") or "",
                                    "n": q.get("note", "") or "", "x": txt})
-                key, mid, short = period(year)
                 rows.append({
                     "sid": sid, "year": year, "frame": src["key"],
-                    "period": key,
+                    "period": str(year),
                     "title": bk.get("title", ""), "author": bk.get("author", ""),
                     "label": group(lab), "raw": lab, "conf": conf,
                     "sit": d.get("narrating_situation", ""),
@@ -134,17 +122,23 @@ def load():
     return rows, missing, dict(frame_n), dict(skipped)
 
 
-def periods(rows):
-    """Chart/table rows: four 5-year buckets, then each recent year on its own."""
-    order = [(f"{lo}-{hi}", lo, hi, f"{lo}-{str(hi)[2:]}", "hist") for lo, hi in BUCKETS5]
-    order += [(str(y), y, y, f"'{str(y)[2:]}", "modern") for y in YEARS]
-    by = collections.defaultdict(collections.Counter)
+def periods(rows, span=1):
+    """Chart/table rows grouped into evenly sized periods across 1996--2025."""
+    if span not in (1, 3, 5, 10):
+        raise ValueError(f"unsupported period span: {span}")
+    by_year = collections.defaultdict(collections.Counter)
     for r in rows:
-        by[r["period"]][r["label"]] += 1
-        by[r["period"]]["cls"] += 1
+        by_year[r["year"]][r["label"]] += 1
+        by_year[r["year"]]["cls"] += 1
     out = []
-    for key, lo, hi, short, frame in order:
-        c = by.get(key, collections.Counter())
+    for lo in range(1996, 2026, span):
+        hi = min(2025, lo + span - 1)
+        c = collections.Counter()
+        for year in range(lo, hi + 1):
+            c.update(by_year[year])
+        key = str(lo) if lo == hi else f"{lo}\u2013{hi}"
+        short = f"'{str(lo)[2:]}" if lo == hi else f"{str(lo)[2:]}\u2013{str(hi)[2:]}"
+        frame = "hist" if hi <= 2015 else "modern" if lo >= 2016 else "mixed"
         n = c["PAST"] + c["PRESENT"] + c["OTHER"]
         out.append({"y": key, "short": short, "lo": lo, "hi": hi,
                     "mid": (lo + hi) / 2, "span": hi - lo + 1, "frame": frame,
@@ -270,6 +264,8 @@ CSS = """
 
   .chartbox{background:var(--surface);border:1px solid var(--line);border-radius:2px;
             padding:1.5rem 1.3rem 1.1rem;overflow-x:auto;}
+  .chart-controls{display:flex;align-items:center;justify-content:flex-end;gap:.45rem;
+                  margin-bottom:.7rem;font-size:.78rem;color:var(--muted);}
   #chart{display:block;min-width:44rem;width:100%;height:auto;}
   .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:1rem;font-size:.76rem;color:var(--muted);}
   .legend i{display:inline-block;width:.7rem;height:.7rem;border-radius:1px;
@@ -410,13 +406,22 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
   <div class="eyebrow">Booktense &middot; {cls} books classified &middot; {nq:,} quotes &middot; built {built}</div>
   <h1>Present-tense narration in NYT bestsellers, 1996&ndash;2025</h1>
   <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
-  The four earliest points group five years each, because coverage before 2016 is thin and
-  drawn from a narrower slice of the list. Every quote behind every label is in the explorer
-  at the bottom.</p>
+  Choose one-, three-, five-, or ten-year periods across the whole series. The early years are
+  drawn from a narrower slice of the list. Every quote behind every label
+  is in the explorer at the bottom.</p>
 </header>
 
 <section>
   <div class="chartbox">
+    <div class="chart-controls">
+      <label for="period-view">Bucket size</label>
+      <select id="period-view">
+        <option value="1">1 year</option>
+        <option value="3">3 years</option>
+        <option value="5">5 years</option>
+        <option value="10">10 years</option>
+      </select>
+    </div>
     <svg id="chart" viewBox="0 0 980 400" role="img"
          aria-label="Stacked area chart of present, other and past tense share over time, with the present band rising from the baseline"></svg>
     <div class="legend">
@@ -459,7 +464,7 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
       <tbody id="tbody"></tbody>
     </table>
   </div>
-  <p style="font-size:.79rem;color:var(--faint)">Each point rests on {min(ns)}&ndash;{max(ns)}
+  <p id="point-note" style="font-size:.79rem;color:var(--faint)">Each point rests on {min(ns)}&ndash;{max(ns)}
   labelled books. <strong>Other</strong> covers books with no single base tense and books that
   turned out not to be prose fiction &mdash; Amanda Gorman&rsquo;s verse collections reached
   the hardcover fiction list and sit here rather than being dropped.</p>
@@ -618,8 +623,7 @@ const BUCKETS = ["event","dialogue","gnomic","paratext","unclear"];
 function drawChart(A){
   const HISTLBL=window.__HISTLBL||"early", MODLBL=window.__MODLBL||"recent";
   const W=980,H=400,L=52,R=18,T=18,B=52, iw=W-L-R, ih=H-T-B;
-  // Points sit at the midpoint of the span each period covers, on a real time axis,
-  // so a five-year bucket is five times as far from its neighbour as a single year is.
+  // Points sit at the midpoint of the span each period covers on a real time axis.
   A.forEach(d=>{ d.mid=(d.lo + d.hi + 1)/2;
                  d.pPres=d.n?d.pres/d.n:0; d.pOther=d.n?d.other/d.n:0; });
   const X0=A[0].mid, X1=A[A.length-1].mid;
@@ -643,7 +647,7 @@ function drawChart(A){
 
   A.forEach((d,i)=>{
     const cx=x(d.mid);
-    // a bucket averages several years; show the span it stands for
+    // A multi-year bucket spans its full interval on the x-axis.
     if(d.span>1){
       const a=x(d.lo), b=x(d.hi+1);
       s+=`<line x1="${Math.max(a,L)}" x2="${Math.min(b,W-R)}" y1="${H-B+4}" y2="${H-B+4}"
@@ -662,11 +666,14 @@ function drawChart(A){
     return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
   document.getElementById("tbody").innerHTML=A.map(d=>`
     <tr><td>${d.y}</td>
-    <td style="color:var(--faint)">${d.frame==="hist"?HISTLBL:MODLBL}</td>
+    <td style="color:var(--faint)">${d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"both frames"}</td>
     <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
     <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
     <td>${d.n?ci(d.pPres,d.n):"—"}</td>
     <td>${d.ab}</td><td style="color:var(--faint)">${d.cls}</td></tr>`).join("");
+  const counts=A.filter(d=>d.n).map(d=>d.n);
+  document.getElementById("point-note").firstChild.textContent=
+    `Each point rests on ${Math.min(...counts)}–${Math.max(...counts)} labelled books. `;
 }
 
 function initExplorer(BOOKS){
@@ -684,7 +691,7 @@ function initExplorer(BOOKS){
   const fill=(id,vals)=>{const s=document.getElementById(id);
     vals.forEach(v=>{const o=document.createElement("option");
       o.value=v; o.textContent=v; s.appendChild(o);});};
-  fill("fyear",[...new Set(BOOKS.map(b=>b.period))].sort());
+  fill("fyear",[...new Set(BOOKS.map(b=>String(b.year)))].sort());
   fill("flabel",[...new Set(BOOKS.map(b=>b.label))].sort());
   fill("fconf",[...new Set(BOOKS.map(b=>b.conf).filter(Boolean))].sort());
   fill("fsit",[...new Set(BOOKS.map(b=>b.sit).filter(Boolean))].sort());
@@ -699,7 +706,7 @@ function initExplorer(BOOKS){
     const q=val("fq").trim().toLowerCase();
     const bIdx=BUCKETS.indexOf(val("fbucket"));
     return BOOKS.filter(b=>
-      (!val("fyear")||b.period===val("fyear")) &&
+      (!val("fyear")||String(b.year)===val("fyear")) &&
       (!val("flabel")||b.label===val("flabel")) &&
       (!val("fconf")||b.conf===val("fconf")) &&
       (!val("fsit")||b.sit===val("fsit")) &&
@@ -819,8 +826,14 @@ function initExplorer(BOOKS){
   render();
 }
 
-function init(payload){ window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
-  drawChart(payload.years); initExplorer(payload.books); }
+function init(payload){
+  window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
+  const periodView=document.getElementById("period-view");
+  const renderPeriods=()=>drawChart(payload.periods[periodView.value]);
+  periodView.addEventListener("change",renderPeriods);
+  renderPeriods();
+  initExplorer(payload.books);
+}
 """
 
 EMBEDDED_BOOT = """
@@ -854,7 +867,8 @@ def main():
     global era_p
     era_p = e["p"]
     html_body = body(rows, per, st, hist, frame_n, nq, missing, built)
-    payload = {"years": per, "books": rows,
+    payload = {"periods": {str(span): periods(rows, span) for span in (1, 3, 5, 10)},
+               "books": rows,
                "histLbl": f"top {round(frame_n.get('hist',0) / max(1,len({r['year'] for r in rows if r['frame']=='hist'})))}",
                "modLbl": f"top {round(frame_n.get('modern',0) / max(1,len({r['year'] for r in rows if r['frame']=='modern'})))}"}
     blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
