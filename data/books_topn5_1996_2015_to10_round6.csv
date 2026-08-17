@@ -1,0 +1,7 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top2001:2636,top2001,LAST MAN STANDING,David Baldacci,2001,0446525804,14839,3238533,Last Man Standing,David Baldacci,2001,54830,isbn,high,,1,2,1,2026-08-14T21:44:28
+top2001:6295,top2001,THE SIGMA PROTOCOL,Robert Ludlum,2001,0312276885,31260,2470112,The Sigma Protocol,Robert Ludlum,2001,12585,isbn,high,,1,3,3,2026-08-14T21:44:28
+top2001:1369,top2001,DEATH IN HOLY ORDERS,P. D. James,2001,0375412557,3825,728749,Death In Holy Orders,P.D. James,2001,18172,isbn,high,,1,14,12,2026-08-14T21:44:28
+top2002:7083,top2002,UP COUNTRY,Nelson DeMille,2002,,33820,3343186,Up Country,Nelson DeMille,2002,21608,title_author,high,,1,10,10,2026-08-14T21:44:28
+top2002:4837,top2002,THE CHRISTMAS TRAIN,David Baldacci,2002,9780446525732,126185,3181772,The Christmas Train,David Baldacci,1984,37976,isbn,medium,year_off(1984vs2002),2,35,24,2026-08-14T21:44:28
+top2002:735,top2002,BLESSINGS,Anna Quindlen,2002,,77477,1121880,Blessings,Anna Quindlen,2002,20264,title_author,high,,1,14,14,2026-08-14T21:44:28

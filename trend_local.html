@@ -39,10 +39,11 @@
   .chartbox{background:var(--surface);border:1px solid var(--line);border-radius:2px;
             padding:1.5rem 1.3rem 1.1rem;overflow-x:auto;}
   .chart-controls{display:flex;align-items:center;justify-content:flex-end;gap:.45rem;
-                  margin-bottom:.7rem;font-size:.78rem;color:var(--muted);}
+                  margin-bottom:.7rem;font-size:.92rem;color:var(--muted);}
+  .chart-title{margin:0 0 .45rem;font-size:1.35rem;}
   #chart{display:block;min-width:44rem;width:100%;height:auto;}
-  .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:1rem;font-size:.76rem;color:var(--muted);}
-  .legend i{display:inline-block;width:.7rem;height:.7rem;border-radius:1px;
+  .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:.35rem;font-size:.9rem;color:var(--muted);}
+  .legend i{display:inline-block;width:.8rem;height:.8rem;border-radius:1px;
             margin-right:.42rem;vertical-align:-1px;}
 
   .tw{overflow-x:auto;border:1px solid var(--line);border-radius:2px;background:var(--surface);}
@@ -149,8 +150,8 @@
 <div class="wrap wide">
 
 <header>
-  <div class="eyebrow">Booktense &middot; 434 books classified &middot; 15,846 quotes &middot; built 13 Aug 2026</div>
-  <h1>Present-tense narration in NYT bestsellers, 1996&ndash;2025</h1>
+  <div class="eyebrow">Booktense &middot; 781 books classified &middot; 22,530 quotes &middot; built 16 Aug 2026</div>
+  <h1>Present-tense narration in NYT bestsellers, 1931&ndash;2025</h1>
   <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
   Choose one-, three-, five-, or ten-year periods across the whole series. The early years are
   drawn from a narrower slice of the list. Every quote behind every label
@@ -160,6 +161,12 @@
 <section>
   <div class="chartbox">
     <div class="chart-controls">
+      <label for="range-view">Time range</label>
+      <select id="range-view">
+        <option value="all">All classified years</option>
+        <option value="pilot">1931&ndash;1995 historical sample</option>
+        <option value="main">1996&ndash;2025 main study</option>
+      </select>
       <label for="period-view">Bucket size</label>
       <select id="period-view">
         <option value="1">1 year</option>
@@ -168,6 +175,7 @@
         <option value="10">10 years</option>
       </select>
     </div>
+    <h2 class="chart-title">Narrative Tense in NYT Bestsellers</h2>
     <svg id="chart" viewBox="0 0 980 400" role="img"
          aria-label="Stacked area chart of present, other and past tense share over time, with the present band rising from the baseline"></svg>
     <div class="legend">
@@ -181,19 +189,19 @@
 <section>
   <div class="split">
     <div class="card">
-      <h3>1996&ndash;2015 &middot; top 10 a year</h3>
-      <div class="big" style="color:var(--present)">10%</div>
-      <p>present, across 144 labelled books</p>
+      <h3>1996&ndash;2015 &middot; top 16 a year</h3>
+      <div class="big" style="color:var(--present)">9%</div>
+      <p>present, across 202 labelled books</p>
     </div>
     <div class="card">
       <h3>2016&ndash;2025 &middot; top 30 a year</h3>
-      <div class="big" style="color:var(--present)">27%</div>
-      <p>present, across 229 labelled books</p>
+      <div class="big" style="color:var(--present)">26%</div>
+      <p>present, across 236 labelled books</p>
     </div>
     <div class="card">
       <h3>Trend within 2016&ndash;2025</h3>
-      <div class="big">p = 0.002</div>
-      <p>z = 3.05 &middot; the one frame consistent enough to test</p>
+      <div class="big">p = 0.003</div>
+      <p>z = 2.95 &middot; the one frame consistent enough to test</p>
     </div>
   </div>
 </section>
@@ -210,7 +218,7 @@
       <tbody id="tbody"></tbody>
     </table>
   </div>
-  <p id="point-note" style="font-size:.79rem;color:var(--faint)">Each point rests on 5&ndash;27
+  <p id="point-note" style="font-size:.79rem;color:var(--faint)">Each point rests on 10&ndash;27
   labelled books. <strong>Other</strong> covers books with no single base tense and books that
   turned out not to be prose fiction &mdash; Amanda Gorman&rsquo;s verse collections reached
   the hardcover fiction list and sit here rather than being dropped.</p>
@@ -272,15 +280,15 @@
   <h2>What this does and doesn&rsquo;t support</h2>
   <div class="caution">
     <p><strong>Within 2016&ndash;2025 the rise is statistically detectable</strong> &mdash; a
-    linear trend across those ten years gives p&nbsp;=&nbsp;0.002 on 229 books.
-    The two-era split reads p&nbsp;=&nbsp;0.001, but its 2019/2020
+    linear trend across those ten years gives p&nbsp;=&nbsp;0.003 on 236 books.
+    The two-era split reads p&nbsp;=&nbsp;0.002, but its 2019/2020
     boundary was drawn after seeing the data, so lead with the trend.</p>
     <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
-    come from the top 10 a year of each year against the top 30 a year from 2016 on, so the early
+    come from the top 16 a year of each year against the top 30 a year from 2016 on, so the early
     slice is a smaller, more famous set of books. A difference between the eras could be a
     difference between those slices. Do not read the full span as one series.</p>
     <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
-    23%, and 2018 (22%) sits at or above no later point. What the recent
+    22%, and 2018 (22%) sits at or above no later point. What the recent
     data supports is a level shift, not a steady year-on-year climb.</p>
   </div>
   <ul>
@@ -289,14 +297,14 @@
     passages readers chose to excerpt:
       <ul style="margin-top:.55rem">
         <li>Quotes are selected for quotability, and quotability loves aphorism &mdash;
-        23% of all quotes are gnomic, timeless-present generalization that says nothing
+        22% of all quotes are gnomic, timeless-present generalization that says nothing
         about a book&rsquo;s narration. The bucket scheme exists to strip exactly this.</li>
-        <li>Quotation marks survive only 7&ndash;21% of the time, so
+        <li>Quotation marks survive only 0&ndash;52% of the time, so
         speech and narration often cannot be told apart from the text alone.</li>
         <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
         who is speaking.</li>
         <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
-        abstain more often &mdash; 61 do here.</li>
+        abstain more often &mdash; 106 do here.</li>
         <li>Nothing marks where in a book a quote came from, so a framed prologue or an
         embedded tale reads the same as the main narration.</li>
       </ul>
@@ -310,7 +318,7 @@
 
 <section>
   <h2>Every book, every quote</h2>
-  <p>All 434 classified books and all 15,846 quotes behind them &mdash; nothing truncated,
+  <p>All 781 classified books and all 22,530 quotes behind them &mdash; nothing truncated,
   no bucket hidden. Click a row for its quotes, buckets, and the classifier&rsquo;s reasoning.
   Search reaches into quote text and notes, not just titles.</p>
 
@@ -351,11 +359,11 @@
 
 <footer>
   Frame: NYT Hardcover Fiction &middot; top 30 a year 2016&ndash;2025 (300 books),
-  top 10 a year 1996&ndash;2015 (200 books)<br>
+  top 16 a year 1996&ndash;2015 (323 books)<br>
   Text: Goodreads pull-quotes &middot; Labels: base narration from narrating_situation; event
   quotes and dialogue beats pooled for ratio and confidence<br>
-  434 classified of 500 in frame &middot; 373
-  yielding a label &middot; 61 abstained
+  781 classified of 960 in frame &middot; 438
+  yielding a label &middot; 106 abstained
 </footer>
 </div>
 
@@ -365,8 +373,8 @@ const esc = s => String(s).replace(/[&<>"]/g, c =>
 const BUCKETS = ["event","dialogue","gnomic","paratext","unclear"];
 
 function drawChart(A){
-  const HISTLBL=window.__HISTLBL||"early", MODLBL=window.__MODLBL||"recent";
-  const W=980,H=400,L=52,R=18,T=18,B=52, iw=W-L-R, ih=H-T-B;
+  const PILOTLBL=window.__PILOTLBL||"pilot", HISTLBL=window.__HISTLBL||"early", MODLBL=window.__MODLBL||"recent";
+  const W=980,H=400,L=52,R=45,T=18,B=52, iw=W-L-R, ih=H-T-B;
   // Points sit at the midpoint of the span each period covers on a real time axis.
   A.forEach(d=>{ d.mid=(d.lo + d.hi + 1)/2;
                  d.pPres=d.n?d.pres/d.n:0; d.pOther=d.n?d.other/d.n:0; });
@@ -383,7 +391,8 @@ function drawChart(A){
   let s="";
   for(let g=0;g<=100;g+=25){
     s+=`<line x1="${L}" x2="${W-R}" y1="${y(g/100)}" y2="${y(g/100)}" stroke="var(--line)" stroke-width="1"/>`;
-    s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--faint)">${g}%</text>`;
+    s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
+    s+=`<text x="${W-R+9}" y="${y(g/100)+4}" text-anchor="start" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
   }
   s+=band(zero,b1,"present")+band(b1,b2,"dual")+band(b2,one,"past");
   s+=`<polyline points="${A.map((d,i)=>`${x(d.mid)},${y(b1[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.6"/>`;
@@ -397,12 +406,11 @@ function drawChart(A){
       s+=`<line x1="${Math.max(a,L)}" x2="${Math.min(b,W-R)}" y1="${H-B+4}" y2="${H-B+4}"
            stroke="var(--faint)" stroke-width="1" opacity="0.5"/>`;
     }
-    s+=`<circle cx="${cx}" cy="${y(b1[i])}" r="3.2" fill="var(--present)"
-         stroke="var(--surface)" stroke-width="1.5"/>`;
+    const xLabel=d.span===10 ? `${d.lo}–${d.hi}` : d.short;
     s+=`<text x="${cx}" y="${H-B+18}" text-anchor="middle" font-family="var(--mono)"
-         font-size="9.5" fill="var(--muted)">${d.short}</text>`;
+         font-size="11.5" fill="var(--muted)">${xLabel}</text>`;
     s+=`<text x="${cx}" y="${H-B+30}" text-anchor="middle" font-family="var(--mono)"
-         font-size="8" fill="var(--faint)">n=${d.n}</text>`;
+         font-size="9.5" fill="var(--faint)">n=${d.n}</text>`;
   });
   document.getElementById("chart").innerHTML=s;
 
@@ -410,7 +418,7 @@ function drawChart(A){
     return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
   document.getElementById("tbody").innerHTML=A.map(d=>`
     <tr><td>${d.y}</td>
-    <td style="color:var(--faint)">${d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"both frames"}</td>
+    <td style="color:var(--faint)">${d.frame==="pilot"?PILOTLBL:d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"both frames"}</td>
     <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
     <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
     <td>${d.n?ci(d.pPres,d.n):"—"}</td>
@@ -571,10 +579,12 @@ function initExplorer(BOOKS){
 }
 
 function init(payload){
-  window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
+  window.__PILOTLBL=payload.pilotLbl; window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
   const periodView=document.getElementById("period-view");
-  const renderPeriods=()=>drawChart(payload.periods[periodView.value]);
+  const rangeView=document.getElementById("range-view");
+  const renderPeriods=()=>drawChart(payload.periods[rangeView.value][periodView.value].filter(d=>d.cls));
   periodView.addEventListener("change",renderPeriods);
+  rangeView.addEventListener("change",renderPeriods);
   renderPeriods();
   initExplorer(payload.books);
 }

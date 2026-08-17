@@ -1,0 +1,7 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top2001:5199,top2001,THE FOURTH HAND,John Irving,2001,0375506276,4656,1137643,The Fourth Hand,John Irving,2001,32032,isbn,high,,1,10,7,2026-08-14T17:48:45
+top2001:5550,top2001,THE KISS,Danielle Steel,2001,0385335407,891081,1036938,The Kiss,Danielle Steel,2001,8922,isbn,high,,1,2,2,2026-08-14T17:48:45
+top2001:73,top2001,A COMMON LIFE,Jan Karon,2001,,71785,1009145,A Common Life: The Wedding Story,Jan Karon,2001,17716,title_author,high,,1,11,10,2026-08-14T17:48:45
+top2002:3789,top2002,REVERSIBLE ERRORS,Scott Turow,2002,0374281602,4681,1441628,Reversible Errors,Scott Turow,2002,7218,isbn,high,,1,4,4,2026-08-14T17:48:45
+top2002:4992,top2002,THE DIVE FROM CLAUSEN'S PIER,Ann Packer,2002,0375412824,16059,1617177,The Dive From Clausen's Pier,Ann Packer,2002,25974,isbn,high,,1,5,4,2026-08-14T17:48:45
+top2002:1235,top2002,DADDY'S LITTLE GIRL,Mary Higgins Clark,2002,0743206045,170618,3013598,Daddy's Little Girl,Mary Higgins Clark,2002,24388,isbn,high,,1,1,1,2026-08-14T17:48:45

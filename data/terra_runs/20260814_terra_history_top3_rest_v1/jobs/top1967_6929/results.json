@@ -1,0 +1,46 @@
+{
+  "sample_id": "top1967:6929",
+  "quotes": [
+    {
+      "quote_id": "q01473",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q01474",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": "Internally voiced thought tagged by past-tense narration."
+    },
+    {
+      "quote_id": "q01475",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q01476",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q01477",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q01478",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

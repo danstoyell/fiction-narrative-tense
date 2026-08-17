@@ -1,0 +1,3 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top2001:3943,top2001,SCARLET FEATHER,Maeve Binchy,2001,0525945938,41951,3154658,Scarlet Feather,Maeve Binchy,2000,30856,isbn,high,,0,0,0,2026-08-14T23:52:56
+top2001:3158,top2001,MYSTIC RIVER,Dennis Lehane,2001,0688163165,21671,1234249,Mystic River,Dennis Lehane,2001,170829,isbn,high,,2,59,44,2026-08-14T23:52:56

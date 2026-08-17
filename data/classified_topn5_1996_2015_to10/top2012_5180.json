@@ -1,0 +1,134 @@
+{
+ "sample_id": "top2012:5180",
+ "quotes": [
+  {
+   "quote_id": "q00680",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General reflection on human spirit."
+  },
+  {
+   "quote_id": "q00681",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Quoted character speech."
+  },
+  {
+   "quote_id": "q00682",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific group description."
+  },
+  {
+   "quote_id": "q00683",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narrated assessment of Puller's immediate situation."
+  },
+  {
+   "quote_id": "q00684",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense character and institutional exposition."
+  },
+  {
+   "quote_id": "q00685",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Puller's narrated thoughts and circumstances."
+  },
+  {
+   "quote_id": "q00686",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific narration framed by her letter-writing."
+  },
+  {
+   "quote_id": "q00687",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narration substantially outweighs the embedded dialogue."
+  },
+  {
+   "quote_id": "q00688",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narrated action and immediate circumstances outweigh the thought fragment."
+  },
+  {
+   "quote_id": "q00689",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense description of a specific setting."
+  },
+  {
+   "quote_id": "q00690",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense summary about the story world."
+  },
+  {
+   "quote_id": "q00691",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Clipped noun phrase provides no classifiable narration."
+  },
+  {
+   "quote_id": "q00692",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "Dedication."
+  },
+  {
+   "quote_id": "q00693",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Clipped descriptive fragment."
+  },
+  {
+   "quote_id": "q00694",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narrated sequence and decision."
+  },
+  {
+   "quote_id": "q00695",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Clipped fragment without enough context."
+  },
+  {
+   "quote_id": "q00696",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narration outweighs the embedded spoken exchange."
+  },
+  {
+   "quote_id": "q00697",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Clipped location-description fragment."
+  },
+  {
+   "quote_id": "q00698",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense story-moment description."
+  },
+  {
+   "quote_id": "q00699",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Clipped descriptive fragment."
+  },
+  {
+   "quote_id": "q00700",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General maxim beyond a specific story event."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

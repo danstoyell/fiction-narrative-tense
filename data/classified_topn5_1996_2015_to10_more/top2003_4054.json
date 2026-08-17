@@ -1,0 +1,91 @@
+{
+ "sample_id": "top2003:4054",
+ "quotes": [
+  {
+   "quote_id": "q00174",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Scriptural exhortation stated universally."
+  },
+  {
+   "quote_id": "q00175",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific account of her belief."
+  },
+  {
+   "quote_id": "q00176",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct addressed speech."
+  },
+  {
+   "quote_id": "q00177",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct prayer."
+  },
+  {
+   "quote_id": "q00178",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Universal reflection on love."
+  },
+  {
+   "quote_id": "q00179",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific narrated action and recollection."
+  },
+  {
+   "quote_id": "q00180",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific account of his thought."
+  },
+  {
+   "quote_id": "q00181",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech predominates; the attribution is past-tense."
+  },
+  {
+   "quote_id": "q00182",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct exclamatory speech."
+  },
+  {
+   "quote_id": "q00183",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Generalization beyond a specific story moment."
+  },
+  {
+   "quote_id": "q00184",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech predominates; the attribution is past-tense."
+  },
+  {
+   "quote_id": "q00185",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific past recollection."
+  },
+  {
+   "quote_id": "q00186",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct prayer."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Event narration is consistently retrospective."
+}

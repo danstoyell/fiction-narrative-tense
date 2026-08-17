@@ -1,0 +1,43 @@
+{
+ "sample_id": "top1931:2878",
+ "quotes": [
+  {
+   "quote_id": "q00028",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific first-person state."
+  },
+  {
+   "quote_id": "q00029",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character's thoughts at a story moment."
+  },
+  {
+   "quote_id": "q00030",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "General maxim without a story-world referent."
+  },
+  {
+   "quote_id": "q00031",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-anchored first-person reflection, not affirmative speech evidence."
+  },
+  {
+   "quote_id": "q00032",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense summary narration about the story world."
+  },
+  {
+   "quote_id": "q00033",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character action and recollection."
+  }
+ ],
+ "narrating_situation": "unclear",
+ "agent_note": "Classified from the supplied excerpts only."
+}

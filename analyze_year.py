@@ -9,6 +9,7 @@ import csv, json, os, glob, argparse, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
+MANUAL_LABEL_OVERRIDES = os.path.join(DATA, "manual_label_overrides.json")
 
 MIN_EVENT_PAST = 5          # >=5 event quotes, >=80% past
 MIN_EVENT_PRESENT = 8       # >=8 event quotes, >=85% present
@@ -98,6 +99,8 @@ def main():
     ap.add_argument("--beats", choices=("include", "exclude"), default="include",
                     help="whether dialogue beat_tense counts toward the tense tally")
     a = ap.parse_args()
+    manual_overrides = json.load(open(MANUAL_LABEL_OVERRIDES, encoding="utf-8")) \
+        if os.path.exists(MANUAL_LABEL_OVERRIDES) else {}
 
     books = {r["sample_id"]: r for r in csv.DictReader(
         open(os.path.join(DATA, "books_topn.csv"), encoding="utf-8"))}
@@ -124,6 +127,10 @@ def main():
         verse = bool(qs) and verse_notes > len(qs) / 2
         sit = d.get("narrating_situation", "")
         lab, why, conf = label(ev_past, ev_pres, sit, verse)
+        if override := manual_overrides.get(sid):
+            lab = override["label"]
+            why = override["note"]
+            conf = "manual"
         b = books.get(sid, {})
         rows.append(dict(
             sample_id=sid, title=b.get("title", sid.split(":")[-1])[:40],

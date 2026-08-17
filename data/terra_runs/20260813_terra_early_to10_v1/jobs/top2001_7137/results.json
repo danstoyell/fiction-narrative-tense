@@ -1,0 +1,16 @@
+{
+  "sample_id": "top2001:7137",
+  "quotes": [
+    {"quote_id": "q00038", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00039", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00040", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00041", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00042", "bucket": "event", "tense": "past", "note": "Near-even narration and speech; event tie-break applied."},
+    {"quote_id": "q00043", "bucket": "event", "tense": "past", "note": "Near-even speech and narration; event tie-break applied."},
+    {"quote_id": "q00044", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00045", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00046", "bucket": "event", "tense": "past", "note": "Story-specific narrator reflection following a quoted philosophical claim."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

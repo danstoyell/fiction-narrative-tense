@@ -1,0 +1,120 @@
+{
+ "sample_id": "top1948:6765",
+ "quotes": [
+  {
+   "quote_id": "q00379",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Unmarked first-person reflection; story-specific experience and current beliefs."
+  },
+  {
+   "quote_id": "q00380",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless generalization."
+  },
+  {
+   "quote_id": "q00381",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific soldier experience, culminating in past recollection."
+  },
+  {
+   "quote_id": "q00382",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific character's present thought at a story moment."
+  },
+  {
+   "quote_id": "q00383",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech predominates; external attribution is past."
+  },
+  {
+   "quote_id": "q00384",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct spoken address without an external narrating beat."
+  },
+  {
+   "quote_id": "q00385",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct spoken address."
+  },
+  {
+   "quote_id": "q00386",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Specific character's present thought at a story moment."
+  },
+  {
+   "quote_id": "q00387",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech predominates; attribution and action beat are past."
+  },
+  {
+   "quote_id": "q00388",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech predominates; attribution is past."
+  },
+  {
+   "quote_id": "q00389",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific narration and interior thought are controlled by past framing."
+  },
+  {
+   "quote_id": "q00390",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense description of a specific wartime setting."
+  },
+  {
+   "quote_id": "q00391",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense story-world generalization."
+  },
+  {
+   "quote_id": "q00392",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narration about the story world."
+  },
+  {
+   "quote_id": "q00393",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character state in past narration."
+  },
+  {
+   "quote_id": "q00394",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narration anchored to Michael's thought."
+  },
+  {
+   "quote_id": "q00395",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense story-specific character state."
+  },
+  {
+   "quote_id": "q00396",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense narration about a specific character and city."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Classified 18 excerpts: 12 event (9 past, 3 present), 4 dialogue, and 2 gnomic. Past narration predominates, while the present event excerpts are character thoughts or current states."
+}

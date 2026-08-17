@@ -1,0 +1,16 @@
+{
+  "sample_id": "top2004:4540",
+  "quotes": [
+    {"quote_id": "q00302", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00303", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00304", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00305", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00306", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00307", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00308", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00309", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00310", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

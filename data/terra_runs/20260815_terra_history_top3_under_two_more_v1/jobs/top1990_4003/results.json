@@ -1,0 +1,20 @@
+{
+  "sample_id": "top1990:4003",
+  "quotes": [
+    {"quote_id": "q01091", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q01092", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q01093", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q01094", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01095", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q01096", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01097", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": "General historical reflection with no story-specific referent."},
+    {"quote_id": "q01098", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01099", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01100", "bucket": "unclear", "tense": "", "beat_tense": "", "note": "Sentence fragment supplies no reliable narrative or paratext context."},
+    {"quote_id": "q01101", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q01102", "bucket": "event", "tense": "present", "beat_tense": "", "note": ""},
+    {"quote_id": "q01103", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": "Past-form generic observation with no story-world referent."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

@@ -1,0 +1,41 @@
+{
+  "sample_id": "top1960:5599",
+  "quotes": [
+    {
+      "quote_id": "q01072",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "present",
+      "note": ""
+    },
+    {
+      "quote_id": "q01073",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q01074",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q01075",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q01076",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

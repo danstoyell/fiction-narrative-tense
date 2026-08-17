@@ -1,0 +1,32 @@
+{
+  "sample_id": "top1988:352",
+  "quotes": [
+    {"quote_id": "q01033", "bucket": "event", "tense": "present", "beat_tense": "", "note": ""},
+    {"quote_id": "q01034", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01035", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01036", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01037", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01038", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01039", "bucket": "unclear", "tense": "", "beat_tense": "", "note": "Clipped non-finite narrative fragment."},
+    {"quote_id": "q01040", "bucket": "event", "tense": "present", "beat_tense": "", "note": ""},
+    {"quote_id": "q01041", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01042", "bucket": "event", "tense": "present", "beat_tense": "", "note": ""},
+    {"quote_id": "q01043", "bucket": "unclear", "tense": "", "beat_tense": "", "note": "Clipped non-finite fragment."},
+    {"quote_id": "q01044", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01045", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q01046", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01047", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01048", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01049", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01050", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q01051", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q01052", "bucket": "event", "tense": "present", "beat_tense": "", "note": "Story-specific first-person writing-moment reflection."},
+    {"quote_id": "q01053", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01054", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01055", "bucket": "event", "tense": "past", "beat_tense": "", "note": "Clipped historical narration with embedded speech."},
+    {"quote_id": "q01056", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01057", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

@@ -1,0 +1,14 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1997:6930,top1997,TOTAL CONTROL,David Baldacci,1997,,226791,3181762,Total Control,David Baldacci,1996,51194,title_author,high,,1,16,13,2026-08-13T22:07:20
+top1997:1659,top1997,EVENING CLASS,Maeve Binchy,1997,0385318073,41967,1004459,Evening Class,Maeve Binchy,1996,45524,isbn,high,,1,5,1,2026-08-13T22:07:20
+top2000:1173,top2000,CRADLE AND ALL,James Patterson,2000,0316690619,5575,3035972,Cradle and All,James Patterson,1980,35781,isbn,medium,year_off(1980vs2000),0,0,0,2026-08-13T22:07:20
+top2000:2969,top2000,MERRICK,Anne Rice,2000,0679454489,43781,2925968,Merrick,Anne Rice,2000,46005,isbn,high,,3,89,86,2026-08-13T22:07:20
+top2001:4403,top2001,SUZANNE'S DIARY FOR NICHOLAS,James Patterson,2001,9780316969444,7494,141228,Suzanne's Diary for Nicholas,James Patterson,2001,156550,isbn,high,,2,45,26,2026-08-13T22:07:20
+top2001:87,top2001,A DAY LATE AND A DOLLAR SHORT,Terry McMillan,2001,,122209,1213972,A Day Late and a Dollar Short,Terry McMillan,2000,9022,title_author,high,,1,4,4,2026-08-13T22:07:20
+top2003:4932,top2003,THE DARK TOWER: Volumes 1-5,Stephen King,2003,,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-13T22:07:20
+top2003:2497,top2003,JOHNNY ANGEL,Danielle Steel,2003,0385335490,82795,1912772,Johnny Angel,Danielle Steel,2003,8363,isbn,high,,0,0,0,2026-08-13T22:07:20
+top2002:2318,top2002,I DON'T KNOW HOW SHE DOES IT,Allison Pearson,2002,0375414053,39045,2101859,I Don't Know How She Does It,Allison Pearson,2001,22659,isbn,high,,1,23,21,2026-08-13T22:07:20
+top2002:480,top2002,ANSWERED PRAYERS,Danielle Steel,2002,0385335431,59879,1450751,Answered Prayers,Danielle Steel,2002,7926,isbn,high,,1,9,6,2026-08-13T22:07:20
+top2004:2502,top2004,JONATHAN STRANGE & MR. NORRELL,Susanna Clarke,2004,,7221800,21833625,"Jonathan Strange & Mr. Norrell, Jilid II",Susanna Clarke,2004,1493,title_author,high,,1,2,2,2026-08-13T22:07:20
+top2005:2703,top2005,LIGHT FROM HEAVEN,Jan Karon,2005,0670034533,78673,41601630,Light from Heaven,Jan Karon,2005,16030,isbn,high,,1,22,20,2026-08-13T22:07:20
+top2005:3596,top2005,PREP,Curtis Sittenfeld,2005,1400062314,9844,2317177,Prep,Curtis Sittenfeld,2005,75959,isbn,high,,4,115,85,2026-08-13T22:07:20

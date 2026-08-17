@@ -1,0 +1,20 @@
+{
+ "sample_id": "top1992:5993",
+ "quotes": [
+  {
+   "quote_id": "q03283",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q03284",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

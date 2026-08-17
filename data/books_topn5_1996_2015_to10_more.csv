@@ -1,0 +1,28 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1996:2012,top1996,GODS AND GENERALS,Jeff Shaara,1996,0345404920,29925,30342,Gods and Generals,Jeff Shaara,1996,38078,isbn,high,,1,18,14,2026-08-13T20:22:40
+top1996:2436,top1996,INTENSITY,Dean Koontz,1996,067942525X,32439,442737,Intensity,Dean Koontz,1995,96005,isbn,high,,1,29,27,2026-08-13T20:22:40
+top1996:967,top1996,CAUSE OF DEATH,Patricia Cornwell,1996,,6541,2408,Cause of Death,Patricia Cornwell,1996,57920,title_author,high,,1,8,8,2026-08-13T20:22:40
+top1997:7138,top1997,VIOLIN,Anne Rice,1997,,31333,2925978,Violin,Anne Rice,1997,20220,title_author,high,,2,41,28,2026-08-13T20:22:40
+top1997:5778,top1997,THE MATARESE COUNTDOWN,Robert Ludlum,1997,0553106678,573202,3246881,The Matarese Countdown,Robert Ludlum,1997,6781,isbn,high,,1,3,3,2026-08-13T20:22:40
+top1997:1762,top1997,FAT TUESDAY,Sandra Brown,1997,0446516325,30374,13538690,Fat Tuesday,Sandra Brown,1997,14985,isbn,high,,1,2,2,2026-08-13T20:22:40
+top2000:4665,top2000,THE BLUEST EYE,Toni Morrison,2000,9780452282193,11337,1987778,The Bluest Eye,Toni Morrison,1970,319394,isbn,medium,year_off(1970vs2000),3,89,62,2026-08-13T20:22:40
+top2000:1600,top2000,EASY PREY,John Sandford,2000,039914613X,6838,1515166,Easy Prey,John Sandford,2000,22735,isbn,high,,1,5,5,2026-08-13T20:22:40
+top2001:1425,top2001,DESECRATION,Tim LaHaye and Jerry B. Jenkins,2001,,421962,1008407,Desecration: An Experience in Sound and Drama,Tim LaHaye,2001,28832,title_author,high,,1,2,2,2026-08-13T20:22:40
+top2001:3367,top2001,ON THE STREET WHERE YOU LIVE,Mary Higgins Clark,2001,0743206029,41490,1080696,On the Street Where You Live,Mary Higgins Clark,2001,25954,isbn,high,,1,1,1,2026-08-13T20:22:40
+top2002:6281,top2002,THE SHELTERS OF STONE,Jean M. Auel,2002,0609610597,46544,2982200,The Shelters of Stone,Jean M. Auel,2002,53050,isbn,high,,1,13,12,2026-08-13T20:22:40
+top2002:5048,top2002,THE EMPEROR OF OCEAN PARK,Stephen L. Carter,2002,9780375413636,108505,104562,The Emperor of Ocean Park,Stephen L. Carter,2002,7351,isbn,high,,1,7,7,2026-08-13T20:22:40
+top2003:4623,top2003,THE BIG BAD WOLF,James Patterson,2003,0316602906,6588,1877371,The Big Bad Wolf,James Patterson,2003,64220,isbn,high,,1,2,2,2026-08-13T20:22:40
+top2003:4054,top2003,SHEPHERDS ABIDING,Jan Karon,2003,0670031208,71783,1756312,Shepherds Abiding,Jan Karon,2003,17920,isbn,high,,1,14,13,2026-08-13T20:22:40
+top2004:211,top2004,A SALTY PIECE OF LAND,Jimmy Buffett,2004,0316908452,196766,2943315,A Salty Piece of Land,Jimmy Buffett,2004,7761,isbn,high,,1,10,10,2026-08-13T20:22:40
+top2005:3787,top2005,REVENGE OF THE SITH,Matthew Stover,2005,0345428838,35458,476816,Star Wars: Revenge of the Sith,Matthew Woodring Stover,2005,27580,isbn,high,,2,59,44,2026-08-13T20:22:40
+top2005:2241,top2005,HONEYMOON,James Patterson and Howard Roughan,2005,0739449672,13147,2172512,Honeymoon,James Patterson,2005,49866,isbn,high,,1,1,1,2026-08-13T20:22:40
+top2005:2603,top2005,KNIFE OF DREAMS,Robert Jordan,2005,0312873077,13888,987750,Knife of Dreams,Robert Jordan,2005,152855,isbn,high,,4,109,52,2026-08-13T20:22:40
+top2006:978,top2006,CELL,Stephen King,2006,,10567,3017730,Cell,Stephen King,2006,240994,title_author,high,,1,29,18,2026-08-13T20:22:40
+top2006:6800,top2006,THIRTEEN MOONS,Charles Frazier,2006,,33896,2414732,Thirteen Moons,Charles Frazier,2006,16721,title_author,high,,1,28,23,2026-08-13T20:22:40
+top2006:913,top2006,CAN'T WAIT TO GET TO HEAVEN,Fannie Flagg,2006,,199530,3263283,Can't Wait to Get to Heaven,Fannie Flagg,2006,21637,title_author,high,,1,30,19,2026-08-13T20:22:40
+top2007:3544,top2007,PLUM LOVIN’,Janet Evanovich,2007,9780312306342,6419,1087783,Plum Lovin',Janet Evanovich,2007,60877,isbn,high,,1,7,7,2026-08-13T20:22:40
+top2009:3884,top2009,RUN FOR YOUR LIFE,James Patterson and Michael Ledwidge,2009,9780316018746,3188186,3221117,Run for Your Life,James Patterson,2009,38808,isbn,high,,1,25,19,2026-08-13T20:22:40
+top2009:6983,top2009,TRUE BLUE,David Baldacci,2009,,6528034,6719993,True Blue,David Baldacci,2009,36166,title_author,high,,1,11,11,2026-08-13T20:22:40
+top2011:26,top2011,1Q84,Haruki Murakami,2011,9780307593313,10357575,18160093,1Q84,Haruki Murakami,2009,348095,isbn,high,,3,89,83,2026-08-13T20:22:40
+top2013:275,top2013,A WEEK IN WINTER,Maeve Binchy,2013,9780307273574,15990489,21746515,A Week in Winter,Maeve Binchy,2012,62484,isbn,high,,1,20,16,2026-08-13T20:22:40
+top2013:5397,top2013,THE HIT,David Baldacci,2013,9781455521210,15791154,21512735,The Hit,David Baldacci,2013,80964,isbn,high,,1,22,20,2026-08-13T20:22:40

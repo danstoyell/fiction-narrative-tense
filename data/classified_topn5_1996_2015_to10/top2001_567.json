@@ -1,0 +1,77 @@
+{
+ "sample_id": "top2001:567",
+ "quotes": [
+  {
+   "quote_id": "q00229",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00230",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00231",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00232",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Unanchored first-person reflection; speech versus narration is unresolved."
+  },
+  {
+   "quote_id": "q00233",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00234",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00235",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00236",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00237",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q00238",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Storytelling phrasing lacks enough context to establish speech or narration."
+  },
+  {
+   "quote_id": "q00239",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

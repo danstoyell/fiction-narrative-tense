@@ -1,0 +1,21 @@
+{
+  "sample_id": "top2013:1201",
+  "quotes": [
+    {"quote_id": "q00769", "bucket": "gnomic", "tense": "", "note": "Timeless generalization about humans."},
+    {"quote_id": "q00770", "bucket": "gnomic", "tense": "", "note": "Abstract philosophical generalization."},
+    {"quote_id": "q00771", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00772", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00773", "bucket": "event", "tense": "past", "note": "Story-world philosophical exposition in past tense."},
+    {"quote_id": "q00774", "bucket": "event", "tense": "past", "note": "Story-specific exposition about the writer."},
+    {"quote_id": "q00775", "bucket": "event", "tense": "past", "note": "Story-specific summary of the writer's experience."},
+    {"quote_id": "q00776", "bucket": "unclear", "tense": "", "note": "Sentence fragment without a tense-bearing predicate."},
+    {"quote_id": "q00777", "bucket": "unclear", "tense": "", "note": "Sentence fragment without enough context to classify."},
+    {"quote_id": "q00778", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Bree's attribution is a past-tense narration beat."},
+    {"quote_id": "q00779", "bucket": "event", "tense": "past", "note": "Narration substantially outweighs the embedded speech."},
+    {"quote_id": "q00780", "bucket": "event", "tense": "past", "note": "Narration outweighs the clipped spoken fragment."},
+    {"quote_id": "q00781", "bucket": "unclear", "tense": "", "note": "Incomplete sentence fragment."},
+    {"quote_id": "q00782", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Event narration is consistently past tense; the dialogue beats are also past or absent."
+}

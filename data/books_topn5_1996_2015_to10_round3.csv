@@ -1,0 +1,8 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1997:1013,top1997,CHASING CEZANNE,Peter Mayle,1997,0679455116,40191,245911,Chasing Cezanne,Peter Mayle,1991,4247,isbn,medium,year_off(1991vs1997),0,0,0,2026-08-14T13:20:20
+top2001:5148,top2001,THE FIRST COUNSEL,Brad Meltzer,2001,0446527289,512314,500291,The First Counsel,Brad Meltzer,2001,10278,isbn,high,,1,3,1,2026-08-14T13:20:20
+top2001:4620,top2001,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,2001,,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-14T13:20:20
+top2002:5797,top2002,THE MILLIONAIRES,Brad Meltzer,2002,0446527297,85319,2705389,The Millionaires,Brad Meltzer,2002,10566,isbn,high,,1,2,2,2026-08-14T13:20:20
+top2002:597,top2002,BASKET CASE,Carl Hiaasen,2002,0375411070,13063,25591382,Basket Case,Carl Hiaasen,2002,18966,isbn,high,,1,8,8,2026-08-14T13:20:20
+top2003:6898,top2003,TO THE NINES,Janet Evanovich,2003,,40331,826485,To the Nines,Janet Evanovich,2003,128014,title_author,high,,1,29,25,2026-08-14T13:20:20
+top2004:3210,top2004,NIGHT FALL,Nelson DeMille,2004,0446576638,40940631,706023,Night Fall,Nelson DeMille,2004,37137,isbn,high,,1,17,13,2026-08-14T13:20:20

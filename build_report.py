@@ -20,19 +20,46 @@ from analyze_year import tally, label
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
+MANUAL_LABEL_OVERRIDES = os.path.join(DATA, "manual_label_overrides.json")
 YEARS = list(range(2016, 2026))
 ERA_SPLIT = 2020          # first year of the later era
 
-# Two frames. 2016-2025 is the top 30 titles per year; 1996-2015 is only the top 5,
-# so it is a narrower, more famous slice and is NOT pooled into the headline test.
+# The 1931--1995 data is a historical top-three sample. 2016--2025 is the top 30 titles
+# per year; 1996--2015 is a narrower, more famous slice and is not pooled into the
+# headline test.
 SOURCES = [
+    dict(key="pilot", books=["books_top3_1931_1995.csv", "books_top3_1931_1995_zero_label_more.csv",
+                              "books_top3_1931_1995_zero_label_final.csv",
+                              "books_top3_1931_1995_under_two_more.csv"],
+         quotes=["quotes_top3_1931_1995.csv", "quotes_top3_1931_1995_zero_label_more.csv",
+                 "quotes_top3_1931_1995_zero_label_final.csv",
+                 "quotes_top3_1931_1995_under_two_more.csv"],
+         dirs=["classified_top3_1931_1995_first31", "classified_top3_1931_1995_rest",
+               "classified_top3_1931_1995_zero_label_more", "classified_top3_1931_1995_zero_label_final",
+               "classified_top3_1931_1995_zero_label_final_rest",
+               "classified_top3_1931_1995_under_two_more"],
+         lo=1931, hi=1995),
     dict(key="modern", books=["books_topn.csv"], quotes=["quotes_topn.csv"],
          dirs=["classified"], lo=2016, hi=2025),
     # Directories are globbed, not listed: batches land in new folders as labelling
     # proceeds, and an earlier version of this file silently dropped two of them.
     dict(key="hist",
-         books=["books_topn5_1996_2016.csv", "books_topn5_more_1996_2015.csv"],
-         quotes=["quotes_topn5_1996_2016.csv", "quotes_topn5_more_1996_2015.csv"],
+         books=["books_topn5_1996_2016.csv", "books_topn5_more_1996_2015.csv",
+                "books_topn5_1996_2015_to10.csv", "books_topn5_1996_2015_to10_more.csv",
+                "books_topn5_1996_2015_to10_final.csv",
+                "books_topn5_1996_2015_to10_round3.csv",
+                "books_topn5_1996_2015_to10_round4.csv",
+                "books_topn5_1996_2015_to10_round5.csv",
+                "books_topn5_1996_2015_to10_round6.csv",
+                "books_topn5_1996_2015_to10_round7.csv"],
+         quotes=["quotes_topn5_1996_2016.csv", "quotes_topn5_more_1996_2015.csv",
+                 "quotes_topn5_1996_2015_to10.csv", "quotes_topn5_1996_2015_to10_more.csv",
+                 "quotes_topn5_1996_2015_to10_final.csv",
+                 "quotes_topn5_1996_2015_to10_round3.csv",
+                 "quotes_topn5_1996_2015_to10_round4.csv",
+                 "quotes_topn5_1996_2015_to10_round5.csv",
+                 "quotes_topn5_1996_2015_to10_round6.csv",
+                 "quotes_topn5_1996_2015_to10_round7.csv"],
          dirs=["classified_topn5_*"], lo=1996, hi=2015),
 ]
 def group(lab):
@@ -49,6 +76,8 @@ def group(lab):
 def load():
     """Every classified book from both frames, each tagged with the frame it came from."""
     rows, missing = [], 0
+    manual_overrides = json.load(open(MANUAL_LABEL_OVERRIDES, encoding="utf-8")) \
+        if os.path.exists(MANUAL_LABEL_OVERRIDES) else {}
     frame_n = collections.Counter()
     skipped = collections.Counter()
     for src in SOURCES:
@@ -91,6 +120,10 @@ def load():
                 verse = bool(qs) and verse_notes > len(qs) / 2
                 lab, why, conf = label(e_past + b_past, e_pres + b_pres,
                                        d.get("narrating_situation", ""), verse)
+                if override := manual_overrides.get(sid):
+                    lab = override["label"]
+                    why = override["note"]
+                    conf = "manual"
                 bkt = collections.Counter(q.get("bucket", "") for q in qs)
                 quotes = []
                 for q in qs:
@@ -122,8 +155,8 @@ def load():
     return rows, missing, dict(frame_n), dict(skipped)
 
 
-def periods(rows, span=1):
-    """Chart/table rows grouped into evenly sized periods across 1996--2025."""
+def periods(rows, span=1, lo=1996, hi=2025):
+    """Chart/table rows grouped into evenly sized periods for an inclusive range."""
     if span not in (1, 3, 5, 10):
         raise ValueError(f"unsupported period span: {span}")
     by_year = collections.defaultdict(collections.Counter)
@@ -131,17 +164,17 @@ def periods(rows, span=1):
         by_year[r["year"]][r["label"]] += 1
         by_year[r["year"]]["cls"] += 1
     out = []
-    for lo in range(1996, 2026, span):
-        hi = min(2025, lo + span - 1)
+    for start in range(lo, hi + 1, span):
+        end = min(hi, start + span - 1)
         c = collections.Counter()
-        for year in range(lo, hi + 1):
+        for year in range(start, end + 1):
             c.update(by_year[year])
-        key = str(lo) if lo == hi else f"{lo}\u2013{hi}"
-        short = f"'{str(lo)[2:]}" if lo == hi else f"{str(lo)[2:]}\u2013{str(hi)[2:]}"
-        frame = "hist" if hi <= 2015 else "modern" if lo >= 2016 else "mixed"
+        key = str(start) if start == end else f"{start}\u2013{end}"
+        short = f"'{str(start)[2:]}" if start == end else f"{str(start)[2:]}\u2013{str(end)[2:]}"
+        frame = "pilot" if end <= 1995 else "hist" if end <= 2015 else "modern" if start >= 2016 else "mixed"
         n = c["PAST"] + c["PRESENT"] + c["OTHER"]
-        out.append({"y": key, "short": short, "lo": lo, "hi": hi,
-                    "mid": (lo + hi) / 2, "span": hi - lo + 1, "frame": frame,
+        out.append({"y": key, "short": short, "lo": start, "hi": end,
+                    "mid": (start + end) / 2, "span": end - start + 1, "frame": frame,
                     "past": c["PAST"], "other": c["OTHER"], "pres": c["PRESENT"],
                     "ab": c["ABSTAIN"], "cls": c["cls"], "n": n})
     return out
@@ -265,10 +298,11 @@ CSS = """
   .chartbox{background:var(--surface);border:1px solid var(--line);border-radius:2px;
             padding:1.5rem 1.3rem 1.1rem;overflow-x:auto;}
   .chart-controls{display:flex;align-items:center;justify-content:flex-end;gap:.45rem;
-                  margin-bottom:.7rem;font-size:.78rem;color:var(--muted);}
+                  margin-bottom:.7rem;font-size:.92rem;color:var(--muted);}
+  .chart-title{margin:0 0 .45rem;font-size:1.35rem;}
   #chart{display:block;min-width:44rem;width:100%;height:auto;}
-  .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:1rem;font-size:.76rem;color:var(--muted);}
-  .legend i{display:inline-block;width:.7rem;height:.7rem;border-radius:1px;
+  .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:.35rem;font-size:.9rem;color:var(--muted);}
+  .legend i{display:inline-block;width:.8rem;height:.8rem;border-radius:1px;
             margin-right:.42rem;vertical-align:-1px;}
 
   .tw{overflow-x:auto;border:1px solid var(--line);border-radius:2px;background:var(--surface);}
@@ -404,7 +438,7 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
 
 <header>
   <div class="eyebrow">Booktense &middot; {cls} books classified &middot; {nq:,} quotes &middot; built {built}</div>
-  <h1>Present-tense narration in NYT bestsellers, 1996&ndash;2025</h1>
+  <h1>Present-tense narration in NYT bestsellers, 1931&ndash;2025</h1>
   <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
   Choose one-, three-, five-, or ten-year periods across the whole series. The early years are
   drawn from a narrower slice of the list. Every quote behind every label
@@ -414,6 +448,12 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
 <section>
   <div class="chartbox">
     <div class="chart-controls">
+      <label for="range-view">Time range</label>
+      <select id="range-view">
+        <option value="all">All classified years</option>
+        <option value="pilot">1931&ndash;1995 historical sample</option>
+        <option value="main">1996&ndash;2025 main study</option>
+      </select>
       <label for="period-view">Bucket size</label>
       <select id="period-view">
         <option value="1">1 year</option>
@@ -422,6 +462,7 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
         <option value="10">10 years</option>
       </select>
     </div>
+    <h2 class="chart-title">Narrative Tense in NYT Bestsellers</h2>
     <svg id="chart" viewBox="0 0 980 400" role="img"
          aria-label="Stacked area chart of present, other and past tense share over time, with the present band rising from the baseline"></svg>
     <div class="legend">
@@ -621,8 +662,8 @@ const esc = s => String(s).replace(/[&<>"]/g, c =>
 const BUCKETS = ["event","dialogue","gnomic","paratext","unclear"];
 
 function drawChart(A){
-  const HISTLBL=window.__HISTLBL||"early", MODLBL=window.__MODLBL||"recent";
-  const W=980,H=400,L=52,R=18,T=18,B=52, iw=W-L-R, ih=H-T-B;
+  const PILOTLBL=window.__PILOTLBL||"pilot", HISTLBL=window.__HISTLBL||"early", MODLBL=window.__MODLBL||"recent";
+  const W=980,H=400,L=52,R=45,T=18,B=52, iw=W-L-R, ih=H-T-B;
   // Points sit at the midpoint of the span each period covers on a real time axis.
   A.forEach(d=>{ d.mid=(d.lo + d.hi + 1)/2;
                  d.pPres=d.n?d.pres/d.n:0; d.pOther=d.n?d.other/d.n:0; });
@@ -639,7 +680,8 @@ function drawChart(A){
   let s="";
   for(let g=0;g<=100;g+=25){
     s+=`<line x1="${L}" x2="${W-R}" y1="${y(g/100)}" y2="${y(g/100)}" stroke="var(--line)" stroke-width="1"/>`;
-    s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--faint)">${g}%</text>`;
+    s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
+    s+=`<text x="${W-R+9}" y="${y(g/100)+4}" text-anchor="start" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
   }
   s+=band(zero,b1,"present")+band(b1,b2,"dual")+band(b2,one,"past");
   s+=`<polyline points="${A.map((d,i)=>`${x(d.mid)},${y(b1[i])}`).join(" ")}" fill="none" stroke="var(--surface)" stroke-width="1.6"/>`;
@@ -653,12 +695,11 @@ function drawChart(A){
       s+=`<line x1="${Math.max(a,L)}" x2="${Math.min(b,W-R)}" y1="${H-B+4}" y2="${H-B+4}"
            stroke="var(--faint)" stroke-width="1" opacity="0.5"/>`;
     }
-    s+=`<circle cx="${cx}" cy="${y(b1[i])}" r="3.2" fill="var(--present)"
-         stroke="var(--surface)" stroke-width="1.5"/>`;
+    const xLabel=d.span===10 ? `${d.lo}–${d.hi}` : d.short;
     s+=`<text x="${cx}" y="${H-B+18}" text-anchor="middle" font-family="var(--mono)"
-         font-size="9.5" fill="var(--muted)">${d.short}</text>`;
+         font-size="11.5" fill="var(--muted)">${xLabel}</text>`;
     s+=`<text x="${cx}" y="${H-B+30}" text-anchor="middle" font-family="var(--mono)"
-         font-size="8" fill="var(--faint)">n=${d.n}</text>`;
+         font-size="9.5" fill="var(--faint)">n=${d.n}</text>`;
   });
   document.getElementById("chart").innerHTML=s;
 
@@ -666,7 +707,7 @@ function drawChart(A){
     return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
   document.getElementById("tbody").innerHTML=A.map(d=>`
     <tr><td>${d.y}</td>
-    <td style="color:var(--faint)">${d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"both frames"}</td>
+    <td style="color:var(--faint)">${d.frame==="pilot"?PILOTLBL:d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"both frames"}</td>
     <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
     <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
     <td>${d.n?ci(d.pPres,d.n):"—"}</td>
@@ -827,10 +868,12 @@ function initExplorer(BOOKS){
 }
 
 function init(payload){
-  window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
+  window.__PILOTLBL=payload.pilotLbl; window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
   const periodView=document.getElementById("period-view");
-  const renderPeriods=()=>drawChart(payload.periods[periodView.value]);
+  const rangeView=document.getElementById("range-view");
+  const renderPeriods=()=>drawChart(payload.periods[rangeView.value][periodView.value].filter(d=>d.cls));
   periodView.addEventListener("change",renderPeriods);
+  rangeView.addEventListener("change",renderPeriods);
   renderPeriods();
   initExplorer(payload.books);
 }
@@ -857,7 +900,7 @@ fetch("data/report_data.json")
 
 def main():
     rows, missing, frame_n, skipped = load()
-    per = periods(rows)
+    per = periods(rows, lo=1996, hi=2025)
     st = trend(rows, "modern")
     hist = trend(rows, "hist")
     e = era(rows)
@@ -867,8 +910,13 @@ def main():
     global era_p
     era_p = e["p"]
     html_body = body(rows, per, st, hist, frame_n, nq, missing, built)
-    payload = {"periods": {str(span): periods(rows, span) for span in (1, 3, 5, 10)},
+    ranges = {"all": (min(r["year"] for r in rows), 2025), "pilot": (1931, 1995),
+              "main": (1996, 2025)}
+    payload = {"periods": {name: {str(span): periods(rows, span, lo, hi)
+                                   for span in (1, 3, 5, 10)}
+                           for name, (lo, hi) in ranges.items()},
                "books": rows,
+               "pilotLbl": f"top {round(frame_n.get('pilot',0) / max(1,len({r['year'] for r in rows if r['frame']=='pilot'})))} pilot",
                "histLbl": f"top {round(frame_n.get('hist',0) / max(1,len({r['year'] for r in rows if r['frame']=='hist'})))}",
                "modLbl": f"top {round(frame_n.get('modern',0) / max(1,len({r['year'] for r in rows if r['frame']=='modern'})))}"}
     blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))

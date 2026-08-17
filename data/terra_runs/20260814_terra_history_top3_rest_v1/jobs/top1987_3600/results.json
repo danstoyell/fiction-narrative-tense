@@ -1,0 +1,51 @@
+{
+  "sample_id": "top1987:3600",
+  "quotes": [
+    {
+      "quote_id": "q02902",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "present",
+      "note": ""
+    },
+    {
+      "quote_id": "q02903",
+      "bucket": "event",
+      "tense": "present",
+      "note": ""
+    },
+    {
+      "quote_id": "q02904",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q02905",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "present",
+      "note": ""
+    },
+    {
+      "quote_id": "q02906",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02907",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q02908",
+      "bucket": "unclear",
+      "tense": "",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "dual",
+  "agent_note": ""
+}

@@ -1,0 +1,68 @@
+{
+  "run_id": "20260814_terra_history_top3_zero_label_final_v1",
+  "created_at": "2026-08-15T06:03:00.084561+00:00",
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "prompt": "terra_prompt_v2.md",
+  "prompt_sha256": "386b2af9d06d5dc2b8a7216a5ca341bd9ceb8f0423d873fd312fd5b0191aa791",
+  "methodology_sha256": "bbc39e4c4c4c20e7c873ef29f74bbeec6097bd251bdbb0ca68638b0c91c3eb7d",
+  "sample_source": "/Users/danstoyell/Desktop/projects/booktense/data/sample_top3_1931_1995_zero_label_final_labelable.csv",
+  "quote_source": [
+    "/Users/danstoyell/Desktop/projects/booktense/data/quotes_top3_1931_1995_zero_label_final.csv"
+  ],
+  "selection_rule": "top two quote-yield books per year 1996\u20132015, plus third for odd years; minimum 15 quotes",
+  "books": [
+    {
+      "sample_id": "top1932:6279",
+      "title": "THE SHELTERED LIFE",
+      "author": "Ellen Glasgow",
+      "year": "1932",
+      "quote_count": 1,
+      "quotes_sha256": "e495119e3b4d7405b80396fc5a8dc601d3e789d84d4365f4522e04256cf102ff",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_history_top3_zero_label_final_v1/jobs/top1932_6279/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_top3_1931_1995_zero_label_final/top1932_6279.json",
+      "status": "promoted",
+      "output_sha256": "f38929d78ca7434984172c5cedb3bdc4b0302b3dc8dea12d0c513311de0c8a9a",
+      "promoted_at": "2026-08-15T06:05:02.375700+00:00"
+    },
+    {
+      "sample_id": "top1932:4216",
+      "title": "SONS",
+      "author": "Pearl S. Buck",
+      "year": "1932",
+      "quote_count": 11,
+      "quotes_sha256": "066c86ac6a8376b9b8f442d96eb2f55f772ddb0f5bb4fd6c8e6b98bd955858be",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_history_top3_zero_label_final_v1/jobs/top1932_4216/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_top3_1931_1995_zero_label_final/top1932_4216.json",
+      "status": "promoted",
+      "output_sha256": "e393aa0a63221e8c374142dca7efe46cd7b32a843033f10a521f91e0b46d0f79",
+      "promoted_at": "2026-08-15T06:05:02.375879+00:00"
+    },
+    {
+      "sample_id": "top1946:5547",
+      "title": "THE KING'S GENERAL",
+      "author": "Daphne du Maurier",
+      "year": "1946",
+      "quote_count": 12,
+      "quotes_sha256": "6961e2fc5e40f27d1f9db4bc1206501978c27f8da3220333f28bbe38237d9be8",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_history_top3_zero_label_final_v1/jobs/top1946_5547/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_top3_1931_1995_zero_label_final/top1946_5547.json",
+      "status": "promoted",
+      "output_sha256": "d04d981a89e42a48bb3cbf5c2cf58c588c38a26a6042d4d10ffe505d68d3392d",
+      "promoted_at": "2026-08-15T06:05:02.375993+00:00"
+    },
+    {
+      "sample_id": "top1949:5756",
+      "title": "THE MAN WITH THE GOLDEN ARM",
+      "author": "Nelson Algren",
+      "year": "1949",
+      "quote_count": 20,
+      "quotes_sha256": "431e9d8b49c2cea70cc1e72baf2c4283e0b123228a3ac17a216eeb60a96684fc",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_history_top3_zero_label_final_v1/jobs/top1949_5756/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_top3_1931_1995_zero_label_final/top1949_5756.json",
+      "status": "promoted",
+      "output_sha256": "dcf250dda8ec59690c1ed7261c51a96f1e2f84241ecfa9c2a3c6a22e10b05f3d",
+      "promoted_at": "2026-08-15T06:05:02.376108+00:00"
+    }
+  ]
+}

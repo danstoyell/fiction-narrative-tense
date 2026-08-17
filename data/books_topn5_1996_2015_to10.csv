@@ -1,0 +1,57 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1997:6712,top1997,THE WINNER,David Baldacci,1997,,113138,1369417,The Winner,David Baldacci,1997,57533,title_author,high,,1,7,7,2026-08-13T15:24:54
+top1998:156,top1998,A MAN IN FULL,Tom Wolfe,1998,0374270325,86172,1997693,A Man in Full,Tom Wolfe,1998,20993,isbn,high,,1,23,22,2026-08-13T15:24:54
+top2000:3866,top2000,ROSES ARE RED,James Patterson,2000,0316693251,79378,22566,Roses Are Red,James Patterson,2000,78478,isbn,high,,1,9,8,2026-08-13T15:24:54
+top2001:7137,top2001,VIOLETS ARE BLUE,James Patterson,2001,,79379,1827952,Violets Are Blue,James Patterson,2001,73106,title_author,high,,1,11,9,2026-08-13T15:24:54
+top2013:5912,top2013,THE OCEAN AT THE END OF THE LANE,Neil Gaiman,2013,9780062255655,18505792,21500681,The Ocean at the End of the Lane,Neil Gaiman,2013,665357,isbn,high,,1,29,27,2026-08-13T15:24:54
+top1996:293,top1996,ABSOLUTE POWER,David Baldacci,1996,0446519960,15159,2837,Absolute Power,David Baldacci,1996,116373,isbn,high,,1,26,22,2026-08-13T15:32:47
+top1996:1431,top1996,DESPERATION,Stephen King,1996,9780670868360,10584,14015,Desperation,Stephen King,1996,156748,isbn,high,,1,28,23,2026-08-13T15:32:47
+top1996:5634,top1996,THE LAWS OF OUR FATHERS,Scott Turow,1996,0374184232,4682,32792,The Laws Of Our Fathers,Scott Turow,1996,5586,isbn,high,,1,7,7,2026-08-13T15:32:47
+top1996:6117,top1996,THE REGULATORS,Richard Bachman,1996,0525941908,10596,955346,The Regulators,Richard Bachman,1996,93053,isbn,high,,1,10,10,2026-08-13T15:32:47
+top1996:2330,top1996,I WAS AMELIA EARHART,Jane Mendelsohn,1996,0679450548,767526,2702591,I WAS AMELIA EARHART.,Jane Mendelsohn,1996,2737,isbn,high,,1,4,4,2026-08-13T15:32:47
+top1997:957,top1997,CAT & MOUSE,James Patterson,1997,,21436,2983256,Cat & Mouse,James Patterson,1997,85010,title_author,high,,1,14,12,2026-08-13T15:32:47
+top1997:64,top1997,A CERTAIN JUSTICE,P. D. James,1997,,29204,2781025,A Certain Justice,P.D. James,1994,12302,title_author,high,,1,13,10,2026-08-13T15:32:47
+top1997:5238,top1997,THE GHOST,Danielle Steel,1997,038531695X,59849,1461240,The Ghost,Danielle Steel,1997,11293,isbn,high,,1,1,1,2026-08-13T15:32:47
+top1997:7070,top1997,UNNATURAL EXPOSURE,Patricia Cornwell,1997,,128504879,2589885,"Unnatural Exposure by Cornwell, Patricia [Berkley,2008] (Mass Market Paperback) Reissue",Patricia Cornwell,1997,65881,title_author,high,,1,6,6,2026-08-13T15:32:47
+top1998:2322,top1998,I KNOW THIS MUCH IS TRUE,Wally Lamb,1998,0060391626,227711,1191096,I Know This Much Is True,Wally Lamb,1998,333519,isbn,high,,1,28,25,2026-08-13T15:32:47
+top2000:1965,top2000,GAP CREEK,Robert Morgan,2000,1565122429,77398,879027,Gap Creek,Robert Morgan,1999,55049,isbn,high,,1,8,8,2026-08-13T15:32:47
+top2000:635,top2000,BEFORE I SAY GOOD-BYE,Mary Higgins Clark,2000,9780684835983,691775,1612744,Before I Say Good-Bye,Mary Higgins Clark,2000,14286,isbn,high,,0,0,0,2026-08-13T15:32:47
+top2000:5435,top2000,THE HOUSE ON HOPE STREET,Danielle Steel,2000,0385333064,528659,1516725,The House on Hope Street,Danielle Steel,2000,11139,isbn,high,,1,1,1,2026-08-13T15:32:47
+top2000:7326,top2000,WINTER SOLSTICE,Rosamunde Pilcher,2000,,116054,2067411,Winter Solstice,Rosamunde Pilcher,2000,47344,title_author,high,,1,28,26,2026-08-13T15:32:47
+top2001:567,top2001,BACK WHEN WE WERE GROWNUPS,Anne Tyler,2001,0375412530,31178,2731250,Back When We Were Grownups,Anne Tyler,2001,23361,isbn,high,,1,16,11,2026-08-13T15:32:47
+top2001:5621,top2001,THE LAST TIME THEY MET,Anita Shreve,2001,0316781142,96082,7403922,The Last Time They Met,Anita Shreve,2001,19238,isbn,high,,1,7,6,2026-08-13T15:32:47
+top2002:1936,top2002,FROM A BUICK 8,Stephen King,2002,0743211375,22076,2818729,From a Buick 8,Stephen King,2002,76480,isbn,high,,1,24,23,2026-08-13T15:32:47
+top2002:3237,top2002,NIGHTS IN RODANTHE,Nicholas Sparks,2002,0446531332,15926,943470,Nights in Rodanthe,Nicholas Sparks,2002,184381,isbn,high,,1,33,27,2026-08-13T15:32:47
+top2002:4982,top2002,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,2002,,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-13T15:32:47
+top2002:6122,top2002,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,2002,,27530,2172654,The Remnant,Tim LaHaye,2002,27769,title_author,high,,0,0,0,2026-08-13T15:32:47
+top2003:509,top2003,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,2003,,27525,411077,Armageddon: The Cosmic Battle of the Ages,Tim LaHaye,2003,22532,title_author,high,,1,1,1,2026-08-13T15:32:47
+top2003:5567,top2003,THE LAKE HOUSE,James Patterson,2003,0316603287,110444,106431,The Lake House,James Patterson,2003,41329,isbn,high,,1,5,5,2026-08-13T15:32:47
+top2004:4540,top2004,THE AMATEUR MARRIAGE,Anne Tyler,2004,1400042070,15764,838459,The Amateur Marriage,Anne Tyler,2004,20266,isbn,high,,1,9,9,2026-08-13T15:32:47
+top2004:2747,top2004,LONDON BRIDGES,James Patterson,2004,9780316710596,13151,3236105,London Bridges,James Patterson,2004,57301,isbn,high,,1,1,1,2026-08-13T15:32:47
+top2004:4133,top2004,SKINNY DIP,Carl Hiaasen,2004,0375411089,13079,817175,Skinny Dip,Carl Hiaasen,2004,49228,isbn,high,,2,37,36,2026-08-13T15:32:47
+top2005:39,top2005,4TH OF JULY,James Patterson and Maxine Paetro,2005,,33668,15334,4th of July,James Patterson,2005,101836,title_author,high,,1,2,2,2026-08-13T15:32:47
+top2005:7423,top2005,“S” IS FOR SILENCE,Sue Grafton,2005,,128511770,137034,"S is for Silence by Grafton, Sue [A Marian Wood Book/Putnam,2005]",Sue Grafton,2005,31866,title_author,high,,1,2,2,2026-08-13T15:32:47
+top2005:2702,top2005,LIFEGUARD,James Patterson and Andrew Gross,2005,,86424,260314,Lifeguard,James Patterson,2005,29906,title_author,high,,0,0,0,2026-08-13T15:32:47
+top2006:3202,top2006,NEXT,Michael Crichton,2006,0060872985,7661,2821071,Next,Michael Crichton,2006,78417,isbn,high,,1,19,15,2026-08-13T15:32:47
+top2006:7290,top2006,WILD FIRE,Nelson DeMille,2006,,1849,2834249,Wild Fire,Nelson DeMille,2006,31631,title_author,high,,1,13,12,2026-08-13T15:32:47
+top2006:4670,top2006,THE BOLEYN INHERITANCE,Philippa Gregory,2006,0743272501,16180,816515,The Boleyn Inheritance,Philippa Gregory,2006,96453,isbn,high,,1,26,25,2026-08-13T15:32:47
+top2006:5450,top2006,THE HUSBAND,Dean Koontz,2006,0553804790,16429,944272,The Husband,Dean Koontz,2006,50087,isbn,high,,1,13,13,2026-08-13T15:32:47
+top2006:7028,top2006,TWO LITTLE GIRLS IN BLUE,Mary Higgins Clark,2006,,154423,1612722,Two Little Girls in Blue,Mary Higgins Clark,2006,35692,title_author,high,,1,1,1,2026-08-13T15:32:47
+top2007:4507,top2007,THE 6TH TARGET,James Patterson and Maxine Paetro,2007,,13131,15302,The 6th Target,James Patterson,2007,78778,title_author,high,,1,11,10,2026-08-13T15:32:47
+top2007:4699,top2007,THE BOURNE BETRAYAL,Eric Van Lustbader,2007,9780446580373,70087,1173089,The Bourne Betrayal,Eric Van Lustbader,2007,11734,isbn,high,,1,2,2,2026-08-13T15:32:47
+top2007:805,top2007,BOOK OF THE DEAD,Patricia Cornwell,2007,,6526,3602953,Book of the Dead,Patricia Cornwell,2007,37287,title_author,high,,1,16,15,2026-08-13T15:32:47
+top2008:1017,top2008,CHASING HARRY WINSTON,Lauren Weisberger,2008,9780743290111,426775,2902978,Chasing Harry Winston,Lauren Weisberger,2008,86359,isbn,high,,1,9,9,2026-08-13T15:32:47
+top2008:164,top2008,A MERCY,Toni Morrison,2008,9780307264237,3009435,3039966,A Mercy,Toni Morrison,2008,34089,isbn,high,,2,47,37,2026-08-13T15:32:47
+top2009:1835,top2009,FIRST FAMILY,David Baldacci,2009,9780446539753,5509321,5617267,First Family,David Baldacci,2009,51793,isbn,high,,1,20,19,2026-08-13T15:32:47
+top2009:1890,top2009,FORD COUNTY,John Grisham,2009,9780385532457,6398972,6587666,Ford County,John Grisham,2008,29815,isbn,high,,1,2,2,2026-08-13T15:32:47
+top2009:4223,top2009,SOUTH OF BROAD,Pat Conroy,2009,9780385413053,6135237,6264122,South of Broad,Pat Conroy,2009,51882,isbn,high,,2,43,39,2026-08-13T15:32:47
+top2009:7053,top2009,UNDER THE DOME,Stephen King,2009,,18528452,35554137,Under the Dome: Part One,Stephen King,2009,11691,title_author,high,,1,1,1,2026-08-13T15:32:47
+top2010:2158,top2010,HELL'S CORNER,David Baldacci,2010,9780446195522,8045080,15254849,Hell's Corner,David Baldacci,2010,45754,isbn,high,,1,12,12,2026-08-13T15:32:47
+top2010:2284,top2010,HOUSE RULES,Jodi Picoult,2010,9780743296434,6614960,6809039,House Rules,Jodi Picoult,2010,192532,isbn,high,,4,120,94,2026-08-13T15:32:47
+top2011:3309,top2011,NOW YOU SEE HER,James Patterson and Michael Ledwidge,2011,,7926569,11240905,Now You See Her,James Patterson,2011,43084,title_author,high,,1,2,1,2026-08-13T15:32:47
+top2011:5131,top2011,THE FIFTH WITNESS,Michael Connelly,2011,9780316069359,9681098,14183705,The Fifth Witness,Michael Connelly,2011,95348,isbn,high,,1,22,21,2026-08-13T15:32:47
+top2012:5180,top2012,THE FORGOTTEN,David Baldacci,2012,9780446573054,15842230,21412154,The Forgotten,David Baldacci,2012,71409,isbn,high,,1,24,21,2026-08-13T15:32:47
+top2013:4475,top2013,TENTH OF DECEMBER,George Saunders,2013,9780812993806,13641208,19256026,Tenth of December,George Saunders,2013,84449,isbn,high,,2,59,50,2026-08-13T15:32:47
+top2013:3892,top2013,S.,Doug Dorst,2013,9780316201643,7826998,10879824,The Surf Guru: Stories,Doug Dorst,2010,219,title_author,high,,0,0,0,2026-08-13T15:32:47
+top2013:1127,top2013,COMMAND AUTHORITY,Tom Clancy with Mark Greaney,2013,,18342283,25897610,Command Authority,Tom Clancy,2013,19350,title_author,high,,1,25,18,2026-08-13T15:32:47
+top2013:1201,top2013,CROSS MY HEART,James Patterson,2013,9780316210911,17333277,24064581,Cross My Heart,James Patterson,2013,30039,isbn,high,,1,15,14,2026-08-13T15:32:47

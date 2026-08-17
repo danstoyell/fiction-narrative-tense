@@ -1,0 +1,27 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1932:5855,top1932,THE NARROW CORNER,W. Someset Maugham,1932,,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-14T18:07:06
+top1932:2875,top1932,MAGNOLIA STREET,Louis Golding,1932,,2463730,2470926,Magnolia Street,Louis Golding,1932,31,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1933:7341,top1933,WITHIN THIS PRESENT,Margaret Ayer Barnes,1933,,12489495,17474483,Within This Present,Margaret Ayer Barnes,1933,3,title_author,medium,low_ratings,0,0,0,2026-08-14T18:07:06
+top1933:2731,top1933,"LITTLE MAN, WHAT NOW?",Hans Fallada,1933,,466354,454727,"Little Man, What Now?",Hans Fallada,1932,6717,title_author,high,,1,5,4,2026-08-14T18:07:06
+top1937:453,top1937,AND SO - VICTORIA,Vaughan Wilkins,1937,,6522744,6714659,And So - Victoria,Vaughan Wilkins,1937,14,title_author,medium,low_ratings,0,0,0,2026-08-14T18:07:06
+top1937:6761,top1937,THE YEARS,Virginia Woolf,1937,,18852,2970368,The Years,Virginia Woolf,1937,6794,title_author,high,,1,29,25,2026-08-14T18:07:06
+top1942:6064,top1942,THE PRODIGAL WOMEN,Nancy Hale,1942,,2977275,3007640,The Prodigal Women,Nancy Hale,1942,147,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1942:1525,top1942,DRAGON SEED,Pearl S. Buck,1942,1559210338,93517,1548866,Dragon Seed,Pearl S. Buck,1941,3711,isbn,high,,1,24,23,2026-08-14T18:07:06
+top1945:5195,top1945,THE FOUNTAINHEAD,Ayn Rand,1945,0452286751,2122,3331807,The Fountainhead,Ayn Rand,1943,341145,isbn,high,,2,59,56,2026-08-14T18:07:06
+top1945:6687,top1945,THE WHITE TOWER,James Ramsey Ullman,1945,,710790,697057,The White Tower,James Ramsey Ullman,1945,79,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1946:3093,top1946,MR. ADAM,Pat Frank,1946,,3135492,3166915,Mr. Adam,Pat Frank,1946,548,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1946:5438,top1946,THE HUCKSTERS,Frederic Wakeman,1946,,153033,147715,The Hucksters,Frederic Wakeman,1946,61,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1947:1978,top1947,GENTLEMAN'S AGREEMENT,Laura Z. Hobson,1947,9780877973256,13568094,895000,Gentleman's Agreement,Laura Z. Hobson,1946,1060,isbn,high,,1,30,29,2026-08-14T18:07:06
+top1947:5816,top1947,THE MONEYMAN,Thomas B. Costain,1947,,401942,391346,The Moneyman,Thomas B. Costain,1947,172,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1949:1776,top1949,FATHER OF THE BRIDE,Edward Streeter,1949,9781617934308,1142897,42136148,Father of the Bride,Edward Streeter,1948,421,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1949:2912,top1949,MARY,Sholem Asch,1949,,85929022,110416689,MARY.,Sholem Asch,1950,0,title_author,medium,low_ratings,0,0,0,2026-08-14T18:07:06
+top1950:2516,top1950,JOY STREET,Frances Parkinson Keyes,1950,,2238478,829306,Joy Street,Frances Parkinson Keyes,1950,201,title_author,high,,1,1,1,2026-08-14T18:07:06
+top1950:6633,top1950,THE WALL,John Hersey,1950,,128565271,148954003,The Wall,John Hersey,1950,2,title_author,medium,low_ratings,0,0,0,2026-08-14T18:07:06
+top1953:687,top1953,BEYOND THIS PLACE,A.J. Cronin,1953,,1458918,2429750,Beyond This Place,A.J. Cronin,1950,671,title_author,high,,1,1,1,2026-08-14T18:07:06
+top1953:5125,top1953,THE FEMALE,Paul Wellman,1953,,5959661,1383018,The Female,Paul I. Wellman,1953,368,title_author,high,,0,0,0,2026-08-14T18:07:06
+top1954:2811,top1954,LOVE IS ETERNAL,Irving Stone,1954,,158417,3095258,Love is Eternal,Irving Stone,1954,1719,title_author,high,,1,1,1,2026-08-14T18:07:06
+top1954:2913,top1954,MARY ANNE,Daphne du Maurier,1954,,144371103,2186383,Mary Anne (VMC) by Daphne Du Maurier,Daphne du Maurier,1954,3125,title_author,high,,1,6,6,2026-08-14T18:07:06
+top1957:6200,top1957,THE SCAPEGOAT,Daphne du Maurier,1957,,18869971,2278127,The Scapegoat,Daphne du Maurier,1957,14184,title_author,high,,1,28,24,2026-08-14T18:07:06
+top1957:5575,top1957,THE LAST ANGRY MAN,Gerald Green,1957,,2816254,2842187,The Last Angry Man,Gerald Green,1956,132,title_author,high,,1,1,1,2026-08-14T18:07:06
+top1984:2718,top1984,LINCOLN,Gore Vidal,1984,0394528956,8716,658163,Lincoln,Gore Vidal,1984,9998,isbn,high,,1,29,28,2026-08-14T18:07:06
+top1984:5202,top1984,THE FOURTH PROTOCOL,Frederick Forsyth,1984,0670326372,327255,1493348,The Fourth Protocol,Frederick Forsyth,1984,36009,isbn,high,,1,3,1,2026-08-14T18:07:06

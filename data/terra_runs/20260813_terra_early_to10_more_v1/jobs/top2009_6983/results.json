@@ -1,0 +1,18 @@
+{
+  "sample_id": "top2009:6983",
+  "quotes": [
+    {"quote_id": "q00380", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00381", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00382", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00383", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00384", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00385", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00386", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00387", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00388", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00389", "bucket": "unclear", "tense": "", "note": "Incomplete fragment without a classifiable tense."},
+    {"quote_id": "q00390", "bucket": "unclear", "tense": "", "note": "Incomplete fragment without a classifiable tense."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

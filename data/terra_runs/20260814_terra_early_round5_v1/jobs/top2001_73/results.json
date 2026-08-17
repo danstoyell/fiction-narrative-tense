@@ -1,0 +1,17 @@
+{
+  "sample_id": "top2001:73",
+  "quotes": [
+    {"quote_id": "q00010", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00011", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00012", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00013", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00014", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00015", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00016", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00017", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00018", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00019", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

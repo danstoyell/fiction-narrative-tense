@@ -1,0 +1,19 @@
+{
+  "sample_id": "top1990:2956",
+  "quotes": [
+    {"quote_id": "q01107", "bucket": "paratext", "tense": "", "beat_tense": "", "note": "Attributed literary quotation."},
+    {"quote_id": "q01108", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01109", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01110", "bucket": "event", "tense": "past", "beat_tense": "", "note": "Historical exposition."},
+    {"quote_id": "q01111", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01112", "bucket": "unclear", "tense": "", "beat_tense": "", "note": "Speech versus internal narration is unresolved."},
+    {"quote_id": "q01113", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01114", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q01115", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q01116", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q01117", "bucket": "event", "tense": "past", "beat_tense": "", "note": "Narration outweighs the embedded speech."},
+    {"quote_id": "q01118", "bucket": "event", "tense": "present", "beat_tense": "", "note": "Story-specific internal reflection."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "6 event quotes: 5 past and 1 present; dialogue beats provide no additional tense evidence."
+}

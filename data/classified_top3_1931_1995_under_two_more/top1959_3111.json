@@ -1,0 +1,31 @@
+{
+ "sample_id": "top1959:3111",
+ "quotes": [
+  {
+   "quote_id": "q00748",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00749",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00750",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00751",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "Timeless generalization."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Three story-specific past event excerpts; one gnomic generalization."
+}

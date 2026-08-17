@@ -1,0 +1,15 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1932:6279,top1932,THE SHELTERED LIFE,Ellen Glasgow,1932,,266873,258750,The Sheltered Life,Ellen Glasgow,1932,147,title_author,high,,1,1,1,2026-08-14T21:56:21
+top1932:4216,top1932,SONS,Pearl S. Buck,1932,9781727421057,40776308,3258094,Sons,Pearl S. Buck,1932,7756,isbn,high,,1,11,11,2026-08-14T21:56:21
+top1933:3382,top1933,ONE MORE RIVER,John Galsworthy,1933,,2805250,1726813,One More River,John Galsworthy,1933,368,title_author,high,,0,0,0,2026-08-14T21:56:21
+top1933:5574,top1933,THE LAST ADAM,James G. Cozzens,1933,,1209224,1197595,The Last Adam,James Gould Cozzens,1933,16,title_author,medium,low_ratings,0,0,0,2026-08-14T21:56:21
+top1946:1596,top1946,EAST RIVER,Sholem Asch,1946,,947216,615345,East River,Sholem Asch,1946,73,title_author,high,,0,0,0,2026-08-14T21:56:21
+top1946:5547,top1946,THE KING'S GENERAL,Daphne du Maurier,1946,9781402217081,18869969,627187,The King's General,Daphne du Maurier,1946,6294,isbn,high,,1,12,12,2026-08-14T21:56:21
+top1949:2671,top1949,LET LOVE COME LAST,Taylor Caldwell,1949,,40678023,2050239,Let Love Come Last: A Novel,Taylor Caldwell,1949,367,title_author,high,,0,0,0,2026-08-14T21:56:21
+top1949:5756,top1949,THE MAN WITH THE GOLDEN ARM,Nelson Algren,1949,,228602474,826056,The Man with the Golden Arm by Nelson Algren,Nelson Algren,1949,3334,title_author,high,,1,20,20,2026-08-14T21:56:21
+top1950:5676,top1950,THE LITTLE WORLD OF DON CAMILLO,Giovanni Guareschi,1950,038523242X,66878,64845,The Little World Of Don Camillo,Giovannino Guareschi,1948,4724,isbn,high,,1,3,1,2026-08-14T21:56:21
+top1950:2239,top1950,HOMEWARD BORNE,Ruth Chatterton,1950,,4577998,4627389,Homeward Borne,Ruth Chatterton,1950,4,title_author,medium,low_ratings,0,0,0,2026-08-14T21:56:21
+top1953:2779,top1953,LORD VANITY,Samuel Shellabarger,1953,,547398,534663,Lord Vanity,Samuel Shellabarger,1953,163,title_author,high,,0,0,0,2026-08-14T21:56:21
+top1953:5565,top1953,THE LADY OF ARLINGTON,Harnett T. Kane,1953,,1882965,1884058,Lady of Arlington : A Novel Based on the Life of Mrs. Robert E. Lee,Harnett T. Kane,1953,69,title_author,high,,0,0,0,2026-08-14T21:56:21
+top1954:4999,top1954,THE DOLLMAKER,Harriette Arnow,1954,,600335,586935,The Dollmaker,Harriette Simpson Arnow,1954,3929,title_author,high,,1,5,4,2026-08-14T21:56:21
+top1954:555,top1954,AWAY ALL BOATS,Kenneth Dodson,1954,,1835865,1835851,Away All Boats,Kenneth Dodson,1954,136,title_author,high,,0,0,0,2026-08-14T21:56:21

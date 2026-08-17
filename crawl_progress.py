@@ -19,6 +19,18 @@ PRESETS = {
         "data/sample_topn5_more_1996_2015.csv",
         "data/books_topn5_more_1996_2015.csv",
     ),
+    "to10": (
+        "data/sample_topn5_1996_2015_to10.csv",
+        "data/books_topn5_1996_2015_to10.csv",
+    ),
+    "to10-more": (
+        "data/sample_topn5_1996_2015_to10_more.csv",
+        "data/books_topn5_1996_2015_to10_more.csv",
+    ),
+    "history-top3": (
+        "data/sample_top3_1931_1995.csv",
+        "data/books_top3_1931_1995.csv",
+    ),
 }
 
 

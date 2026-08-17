@@ -1,0 +1,30 @@
+{
+  "sample_id": "top1996:1431",
+  "quotes": [
+    {"quote_id":"q00096","bucket":"event","tense":"past","note":"Specific story-world state."},
+    {"quote_id":"q00097","bucket":"dialogue","tense":"","beat_tense":"past","note":"Speech dominates; intervening action is past."},
+    {"quote_id":"q00098","bucket":"event","tense":"past","note":"Specific character's internal state."},
+    {"quote_id":"q00099","bucket":"gnomic","tense":"","note":"General proverb."},
+    {"quote_id":"q00100","bucket":"dialogue","tense":"","beat_tense":"none","note":"Quoted character speech."},
+    {"quote_id":"q00101","bucket":"dialogue","tense":"","beat_tense":"past","note":"Quoted speech with past speaker tag."},
+    {"quote_id":"q00102","bucket":"dialogue","tense":"","beat_tense":"none","note":"Quoted character speech."},
+    {"quote_id":"q00103","bucket":"event","tense":"present","note":"Story-specific present reflection."},
+    {"quote_id":"q00104","bucket":"event","tense":"past","note":"Extended narration of a specific character."},
+    {"quote_id":"q00105","bucket":"event","tense":"past","note":"Specific narrated actions and observation."},
+    {"quote_id":"q00106","bucket":"dialogue","tense":"","beat_tense":"none","note":"Conversational exchange."},
+    {"quote_id":"q00107","bucket":"unclear","tense":"","note":"Untensed fragment without enough context."},
+    {"quote_id":"q00108","bucket":"gnomic","tense":"","note":"General aphorism."},
+    {"quote_id":"q00109","bucket":"dialogue","tense":"","beat_tense":"past","note":"Quoted speech with past speaker tag."},
+    {"quote_id":"q00110","bucket":"dialogue","tense":"","beat_tense":"none","note":"Quoted character speech."},
+    {"quote_id":"q00111","bucket":"dialogue","tense":"","beat_tense":"present","note":"Speech dominates; present attribution frames it."},
+    {"quote_id":"q00112","bucket":"event","tense":"past","note":"Near-even speech and narration; past narration controls under tie-break."},
+    {"quote_id":"q00113","bucket":"gnomic","tense":"","note":"General aphorism."},
+    {"quote_id":"q00114","bucket":"unclear","tense":"","note":"Nominal fragment without a tense-bearing event."},
+    {"quote_id":"q00115","bucket":"event","tense":"past","note":"Specific character description."},
+    {"quote_id":"q00116","bucket":"event","tense":"past","note":"Narration outweighs the brief spoken utterance."},
+    {"quote_id":"q00117","bucket":"event","tense":"past","note":"Specific narrated reaction; generalizing clause is subordinate."},
+    {"quote_id":"q00118","bucket":"event","tense":"past","note":"Narration outweighs the brief spoken greeting."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

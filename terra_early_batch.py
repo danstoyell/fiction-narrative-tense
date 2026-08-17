@@ -46,7 +46,7 @@ Write `results.json` with exactly this production-compatible shape:
 {{
   "sample_id": "{sample_id}",
   "quotes": [
-    {{"quote_id": "q00001", "bucket": "dialogue|gnomic|event|paratext|unclear", "tense": "past|present|", "beat_tense": "past|present|none (dialogue only)", "note": ""}}
+    {{"quote_id": "q00001", "bucket": "dialogue|gnomic|event|paratext|unclear", "tense": "past|present|", "note": ""}}
   ],
   "narrating_situation": "retrospective|simultaneous|dual|unclear",
   "agent_note": ""
@@ -55,8 +55,9 @@ Write `results.json` with exactly this production-compatible shape:
 
 Every input quote must appear exactly once and in input order. Every quote object
 must include `tense`: use `past` or `present` only for `event`, otherwise `""`.
-Only `dialogue` has `beat_tense`; use `past`, `present`, or `none`. Do not compute
-an overall book label. Validate the file before responding.
+Only `dialogue` has `beat_tense`: add that key only for dialogue quotes, using
+`past`, `present`, or `none`; omit it from every other bucket. Do not compute an
+overall book label. Validate the file before responding.
 """
 
 
@@ -133,6 +134,9 @@ def promote() -> None:
         if not result.exists():
             raise SystemExit(f"missing staged result: {result}")
         payload = json.loads(result.read_text(encoding="utf-8"))
+        for quote in payload.get("quotes", []):
+            if quote.get("bucket") != "dialogue" and quote.get("beat_tense") in {"", "none"}:
+                del quote["beat_tense"]
         ids = [row["quote_id"] for row in csv.DictReader((result.parent / "quotes.csv").open(encoding="utf-8"))]
         validate(entry["sample_id"], payload, ids)
         validated.append((entry, payload, destination))

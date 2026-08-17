@@ -1,0 +1,196 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1931:5304,top1931,THE GOOD EARTH,Pearl S. Buck,1931,9780743272933,1078,2346070,The Good Earth,Pearl S. Buck,1931,264297,isbn,high,,1,29,27,2026-08-13T21:33:57
+top1931:2878,top1931,MAID IN WAITING,John Galsworthy,1931,,1729347,1726812,Maid in Waiting,John Galsworthy,1931,486,title_author,high,,1,6,6,2026-08-13T21:33:57
+top1931:7209,top1931,WESTWARD PASSAGE,Margaret Ayer Barnes,1931,,46228253,71206171,Westward Passage,Margaret Ayer Barnes,1931,2,title_author,medium,low_ratings,0,0,0,2026-08-13T21:33:57
+top1932:5193,top1932,THE FOUNTAIN,Charles Morgan,1932,,36127,36036,The Fountain,Charles Morgan,1932,57,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1932:2916,top1932,MARY'S NECK,Booth Tarkington,1932,,13550632,19117544,Mary's Neck,Booth Tarkington,1932,24,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1932:1865,top1932,FLOWERING WILDERNESS,John Galsworthy,1932,,1380929,1726810,Flowering Wilderness,John Galsworthy,1932,439,title_author,high,,1,7,7,2026-08-13T21:33:57
+top1933:481,top1933,ANTHONY ADVERSE,Hervey Allen,1933,,1755883,1753744,Anthony Adverse,Hervey Allen,1933,221,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1933:472,top1933,ANN VICKERS,Sinclair Lewis,1933,,703003,689295,Ann Vickers,Sinclair Lewis,1994,182,title_author,medium,year_off(1994vs1933),0,0,0,2026-08-13T21:33:57
+top1933:518,top1933,AS THE EARTH TURNS,Gladys Hasty Carroll,1933,,1059921,1046505,As the Earth Turns,Gladys Hasty Carroll,1933,77,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1934:2031,top1934,"GOOD-BYE, MR. CHIPS",James Hilton,1934,0316364207,413617,2147442,"Good-Bye, Mr. Chips",James Hilton,1934,15651,isbn,high,,2,39,29,2026-08-13T21:33:57
+top1934:4182,top1934,SO RED THE ROSE,Stark Young,1934,,123752196,145132841,SO RED THE ROSE,Stark Young,1969,0,title_author,medium,year_off(1969vs1934);low_ratings,0,0,0,2026-08-13T21:33:57
+top1934:2626,top1934,LAMB IN HIS BOSOM,Caroline Miller,1934,,267478,259320,Lamb in His Bosom,Caroline Miller,1933,1896,title_author,high,,1,3,3,2026-08-13T21:33:57
+top1935:2055,top1935,GREEN LIGHT,Lloyd C. Douglas,1935,,759187,745296,Green Light,Lloyd C. Douglas,1934,214,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1935:2467,top1935,IT CAN'T HAPPEN HERE,Sinclair Lewis,1935,,40692733,1296784,It Can't Happen Here by Sinclair Lewis: Dystopia's Wake: Unveiling the Shadows of Tomorrow in It Can't Happen Here,Sinclair Lewis,1935,26269,title_author,high,,4,120,86,2026-08-13T21:33:57
+top1935:3338,top1935,OF TIME AND THE RIVER,Thomas Wolfe,1935,0684147394,12451,14752,Of Time and the River: A Legend of Man's Hunger in his Youth,Thomas Wolfe,1935,1350,isbn,high,,1,15,14,2026-08-13T21:33:57
+top1936:2026,top1936,GONE WITH THE WIND,Margaret Mitchell,1936,9781416548898,34689759,3358283,Gone with the Wind,Margaret Mitchell,1936,1269749,isbn,high,,1,29,26,2026-08-13T21:33:57
+top1936:1558,top1936,DRUMS ALONG THE MOHAWK,Walter D. Edmonds,1936,,167069,161335,Drums Along the Mohawk,Walter D. Edmonds,1936,1661,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1936:5608,top1936,THE LAST PURITAN,George Santayana,1936,0684131323,403281,2124658,The Last Puritan: A Memoir in the Form of a Novel,George Santayana,1936,114,isbn,high,,1,1,1,2026-08-13T21:33:57
+top1937:4844,top1937,THE CITADEL,A. J. Cronin,1937,9780316161831,634747,621034,The Citadel,A.J. Cronin,1937,11223,isbn,high,,1,6,3,2026-08-13T21:33:57
+top1937:3291,top1937,NORTHWEST PASSAGE,Kenneth Roberts,1937,,103171,2484967,Northwest Passage,Kenneth Roberts,1937,3240,title_author,high,,1,2,2,2026-08-13T21:33:57
+top1937:6097,top1937,THE RAINS CAME,Louis Bromfield,1937,9997405099,396988,386462,The Rains Came,Louis Bromfield,1937,925,isbn,high,,1,1,1,2026-08-13T21:33:57
+top1938:6760,top1938,THE YEARLING,Marjorie Kinnan Rawlings,1938,,170973550,583534,The Yearling - Marjorie Kinnan Rawlings - The Franklin Library - Thomas Allen Illustrations,Marjorie Kinnan Rawlings,1938,31067,title_author,high,,2,35,32,2026-08-13T21:33:57
+top1938:389,top1938,ALL THIS AND HEAVEN TOO,Rachel Field,1938,,1397878,2710160,"All This, and Heaven Too",Rachel Field,1929,506,title_author,medium,year_off(1929vs1938),1,9,9,2026-08-13T21:33:57
+top1938:3727,top1938,REBECCA,Daphne Du Maurier,1938,0380778556,636993,267287709,Rebecca,Daphne du Maurier,1938,8893,isbn,high,,1,1,1,2026-08-13T21:33:57
+top1939:5317,top1939,THE GRAPES OF WRATH,John Steinbeck,1939,0670347914,18114322,2931549,The Grapes of Wrath,John Steinbeck,1939,1022712,isbn,high,,4,120,92,2026-08-13T21:33:57
+top1939:2600,top1939,KITTY FOYLE,Christopher Morley,1939,,2235096,2240933,Kitty Foyle,Christopher Morley,1939,223,title_author,high,,1,3,3,2026-08-13T21:33:57
+top1939:5861,top1939,THE NAZARENE,Sholem Asch,1939,,165907465,1183864,THE NAZARENE. Signed by Sholem Asch.,Sholem Asch,1939,238,title_author,high,,1,3,3,2026-08-13T21:33:57
+top1940:2286,top1940,HOW GREEN WAS MY VALLEY,Richard Llewellyn,1940,,40496,2329482,How Green Was My Valley,Richard Llewellyn,1939,19347,title_author,high,,1,29,29,2026-08-13T21:33:57
+top1940:3120,top1940,MRS. MINIVER,Jan Struther,1940,,60643589,1108185,Mrs. Miniver by Jan Struther: A Heartfelt Portrait of Everyday Life and Resilience,Jan Struther,1939,2074,title_author,high,,2,49,44,2026-08-13T21:33:57
+top1940:1886,top1940,FOR WHOM THE BELL TOLLS,Ernest Hemingway,1940,0684803356,46170,2252079,For Whom the Bell Tolls,Ernest Hemingway,1940,326179,isbn,high,,3,89,70,2026-08-13T21:33:57
+top1941:5530,top1941,THE KEYS OF THE KINGDOM,A. J. Cronin,1941,,184803,2429749,The Keys of the Kingdom,A.J. Cronin,1941,3761,title_author,high,,1,13,12,2026-08-13T21:33:57
+top1941:6439,top1941,THE SUN IS MY UNDOING,Marguerite Steen,1941,,232741752,433186,"The sun is my undoing, by Marguerite Steen",Marguerite Steen,1941,83,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1941:3715,top1941,RANDOM HARVEST,James Hilton,1941,,153279627,6860,"Random Harvest by James Hilton: A Heartwarming Tale of Love, Memory, and Redemption",James Hilton,1941,2417,title_author,high,,1,10,10,2026-08-13T21:33:57
+top1942:6157,top1942,THE ROBE,Lloyd C. Douglas,1942,,60395731,467637,The Robe by Lloyd C. Douglas: A Tale of Redemption and Spiritual Awakening,Lloyd C. Douglas,1942,27636,title_author,high,,1,28,22,2026-08-13T21:33:57
+top1942:6594,top1942,THE VALLEY OF DECISION,Marcia Davenport,1942,,136456,131509,The Valley Of Decision,Marcia Davenport,1942,527,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1942:6355,top1942,THE SONG OF BERNADETTE,Franz Werfel,1942,,234722022,249846164,the Song of Bernadette,Franz Werfel,,0,title_author,medium,low_ratings,0,0,0,2026-08-13T21:33:57
+top1943:263,top1943,A TREE GROWS IN BROOKLYN,Betty Smith,1943,,148061217,833257,A Tree Grows In Brooklyn by Betty Smith,Betty Smith,1943,530568,title_author,high,,3,89,74,2026-08-13T21:33:57
+top1943:4179,top1943,SO LITTLE TIME,John P. Marquand,1943,,1069159,1055830,So Little Time,John P. Marquand,1943,69,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1943:4559,top1943,THE APOSTLE,Sholem Asch,1943,9997406265,628995,2158407,The Apostle,Sholem Asch,1939,106,isbn,medium,year_off(1939vs1943),1,4,4,2026-08-13T21:33:57
+top1944:1896,top1944,FOREVER AMBER,Kathleen Winsor,1944,,22012574,2522906,Forever Amber / Kathleen Winsor,Kathleen Winsor,1944,19943,title_author,high,,1,9,9,2026-08-13T21:33:57
+top1944:4344,top1944,STRANGE FRUIT,Lillian Smith,1944,,163686658,801643,Strange Fruit,Lillian E. Smith,1944,1101,title_author,high,,1,10,9,2026-08-13T21:33:57
+top1944:1589,top1944,EARTH AND HIGH HEAVEN,Gwenthalyn Graham,1944,,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-13T21:33:57
+top1945:926,top1945,CAPTAIN FROM CASTILLE,Samuel Shellaburger,1945,,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-13T21:33:57
+top1945:4651,top1945,THE BLACK ROSE,Thomas B. Costain,1945,9781568497013,401921,517534,The Black Rose,Thomas B. Costain,1945,1433,isbn,high,,0,0,0,2026-08-13T21:33:57
+top1945:142,top1945,A LION IS IN THE STREETS,Adria Locke Langley,1945,,3199179,3232391,A Lion Is In The Streets,Adria Locke Langley,1945,18,title_author,medium,low_ratings,0,0,0,2026-08-13T21:33:57
+top1946:5803,top1946,THE MIRACLE OF THE BELLS,Russell Janney,1946,9997502205,29929411,1433380,Miracle of the Bells,Russell Janney,1946,147,isbn,high,,0,0,0,2026-08-13T21:33:57
+top1946:5205,top1946,THE FOXES OF HARROW,Frank Yerby,1946,,1269821,1258743,The Foxes of Harrow,Frank Yerby,1946,750,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1946:6812,top1946,THIS SIDE OF INNOCENCE,Taylor Caldwell,1946,,133779026,3112047,This Side of Innocence by Taylor Caldwell,Taylor Caldwell,1946,693,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1947:2605,top1947,KNOCK ON ANY DOOR,Willard Motley,1947,,257127,249195,Knock on Any Door,Willard Motley,1947,403,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1947:2281,top1947,HOUSE DIVIDED,Ben Ames Williams,1947,039508329X,428669,417675,House Divided,Ben Ames Williams,1947,257,isbn,high,,0,0,0,2026-08-13T21:33:57
+top1947:4640,top1947,THE BISHOP'S MANTLE,Agnes Sligh Turnbull,1947,,425878,414936,The Bishop's Mantle,Agnes Sligh Turnbull,1947,118,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1948:4625,top1948,THE BIG FISHERMAN,Lloyd C. Douglas,1948,,778667,764696,The Big Fisherman,Lloyd C. Douglas,1936,1966,title_author,medium,year_off(1936vs1948),0,0,0,2026-08-13T21:33:57
+top1948:5848,top1948,THE NAKED AND THE DEAD,Norman Mailer,1948,0030295904,12467,2223651,The naked and the dead,Norman Mailer,1948,26810,isbn,high,,2,43,42,2026-08-13T21:33:57
+top1948:1458,top1948,DINNER AT ANTOINE'S,Frances Parkinson Keyes,1948,,128865,2197195,Dinner at Antoine's,Frances Parkinson Keyes,1948,569,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1949:5038,top1949,THE EGYPTIAN,Mika Waltari,1949,0399102345,364826,2072467,The Egyptian,Mika Waltari,1945,29186,isbn,medium,year_off(1945vs1949),2,52,17,2026-08-13T21:33:57
+top1949:3548,top1949,POINT OF NO RETURN,John P. Marquand,1949,,279416,271021,Point of No Return,John P. Marquand,1947,374,title_author,high,,1,5,5,2026-08-13T21:33:57
+top1949:205,top1949,A RAGE TO LIVE,John O'Hara,1949,,503994,2846792,A Rage to Live,John O'Hara,1949,342,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1950:4758,top1950,THE CARDINAL,Henry Morton Robinson,1950,,1866494,1867260,The Cardinal,Henry Morton Robinson,1950,541,title_author,high,,1,2,2,2026-08-13T21:33:57
+top1950:2518,top1950,JUBILEE TRAIL,Gwen Bristow,1950,0690467508,74725,1787863,Jubilee Trail,Gwen Bristow,1950,4527,isbn,high,,1,7,7,2026-08-13T21:33:57
+top1950:4990,top1950,THE DISENCHANTED,Budd Schulberg,1950,0670005843,1293866,1282972,The Disenchanted,David Schulberg,1950,479,isbn,high,,0,1,0,2026-08-13T21:33:57
+top1951:4749,top1951,THE CAINE MUTINY,Herman Wouk,1951,,368772,1059565,The Caine Mutiny,Herman Wouk,1951,27490,title_author,high,,2,58,48,2026-08-13T21:33:57
+top1951:1938,top1951,FROM HERE TO ETERNITY,James Jones,1951,9780385333641,116114,2504920,From Here to Eternity,James Jones,1951,18322,isbn,high,,1,29,27,2026-08-13T21:33:57
+top1951:4907,top1951,THE CRUEL SEA,Nicholas Monsarrat,1951,1580800467,183586,1104357,The Cruel Sea,Nicholas Monsarrat,1951,8588,isbn,high,,1,8,7,2026-08-13T21:33:57
+top1952:6310,top1952,THE SILVER CHALICE,Thomas B. Costain,1952,0385044291,122771,2219799,The Silver Chalice,Thomas B. Costain,1952,4532,isbn,high,,1,3,3,2026-08-13T21:33:57
+top1952:1594,top1952,EAST OF EDEN,John Steinbeck,1952,0142000655,4406,2574991,East of Eden,John Steinbeck,1952,707843,isbn,high,,4,120,95,2026-08-13T21:33:57
+top1952:5437,top1952,THE HOUSES IN BETWEEN,Howard Spring,1952,,1016637,1002761,The Houses in Between,Howard Spring,1951,144,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1953:5386,top1953,THE HIGH AND THE MIGHTY,Ernest K. Gann,1953,,990079,975573,The High and the Mighty,Ernest K. Gann,1953,340,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1953:1428,top1953,DESIREE,Annemarie Selinko,1953,0688014488,84049,845141,Désirée,Annemarie Selinko,1951,12521,isbn,high,,1,2,1,2026-08-13T21:33:57
+top1953:599,top1953,BATTLE CRY,Leon Uris,1953,,131728982,42163,"Battle Cry by Uris, Leon. (Avon,2005) [Mass Market Paperback]",Leon Uris,1953,10336,title_author,high,,1,3,3,2026-08-13T21:33:57
+top1954:3294,top1954,NOT AS A STRANGER,Morton Thompson,1954,,1877857,1878854,Not As a Stranger,Morton Thompson,1954,317,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1954:3274,top1954,NO TIME FOR SERGEANTS,Mac Hyman,1954,,236716242,252253448,NO TIME FOR SERGEANTS,Mac Hyman,,0,title_author,medium,low_ratings,0,0,0,2026-08-13T21:33:57
+top1954:6611,top1954,THE VIEW FROM POMPEY'S HEAD,Hamilton Basso,1954,,208637054,214761096,The View From Pompey's Head,Hamilton Basso,1956,0,title_author,medium,low_ratings,0,0,0,2026-08-13T21:33:57
+top1955:549,top1955,AUNTIE MAME,Patrick Dennis,1955,,187060,2248207,Auntie Mame: An Irreverent Escapade,Patrick Dennis,1955,18739,title_author,high,,1,12,11,2026-08-13T21:33:57
+top1955:457,top1955,ANDERSONVILLE,MacKinlay Kantor,1955,0452269563,77239,74658,Andersonville,MacKinlay Kantor,1955,8496,isbn,high,,1,2,2,2026-08-13T21:33:57
+top1955:5750,top1955,THE MAN IN THE GRAY FLANNEL SUIT,Sloan Wilson,1955,1568582463,90886,87701,The Man in the Gray Flannel Suit,Sloan Wilson,1955,3946,isbn,high,,1,19,17,2026-08-13T21:33:57
+top1956:3507,top1956,PEYTON PLACE,Grace Metalious,1956,9781555537593,526869,37258,Peyton Place,Grace Metalious,1956,14176,isbn,high,,1,19,12,2026-08-13T21:33:57
+top1956:1135,top1956,COMPULSION,Meyer Levin,1956,0786703199,22750385,364986,Compulsion,Meyer Levin,1956,2056,isbn,high,,1,1,1,2026-08-13T21:33:57
+top1956:5591,top1956,THE LAST HURRAH,Edwin O'Connor,1956,,199999558,1177687,The Last Hurrah,Edwin O'Connor,1956,1076,title_author,high,,1,29,29,2026-08-13T21:33:57
+top1957:3713,top1957,RALLY ROUND THE FLAG BOYS!,Max Schulman,1957,,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-13T21:33:57
+top1957:892,top1957,BY LOVE POSSESSED,James Gould Cozzens,1957,,603190,589762,By Love Possessed,James Gould Cozzens,1957,133,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1957:771,top1957,BLUE CAMELLIA,Frances Parkinson Keyes,1957,,2191475,2197196,Blue Camellia,Frances Parkinson Keyes,1957,164,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1958:1699,top1958,EXODUS,Leon Uris,1958,9780553258479,42697,804397,Exodus,Leon Uris,1958,101907,isbn,high,,2,56,32,2026-08-13T21:33:57
+top1958:6574,top1958,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,1958,,40180100,3085087,The Ugly American,William J. Lederer,1958,5268,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1958:447,top1958,ANATOMY OF A MURDER,Robert Traver,1958,9780312033569,994663,2285757,Anatomy of a Murder,Robert Traver,1958,3931,isbn,high,,1,8,8,2026-08-13T21:33:57
+top1959:319,top1959,ADVISE AND CONSENT,Allen Drury,1959,038505419X,159346,153802,Advise and Consent,Allen Drury,1959,10178,isbn,high,,1,6,5,2026-08-13T21:33:57
+top1959:2126,top1959,HAWAII,James A. Michener,1959,0965629279,12658,1056841,Hawaii,James A. Michener,1959,82487,isbn,high,,1,26,24,2026-08-13T21:33:57
+top1959:1355,top1959,DEAR AND GLORIOUS PHYSICIAN,Taylor Caldwell,1959,,59097,755652,Dear and Glorious Physician,Taylor Caldwell,1958,8592,title_author,high,,1,22,15,2026-08-13T21:33:57
+top1960:6887,top1960,TO KILL A MOCKINGBIRD,Harper Lee,1960,,137656240,3275794,"To Kill a Mockingbird by Lee, Harper (2010) Paperback",Harper Lee,1960,7091871,title_author,high,,1,29,25,2026-08-13T21:33:57
+top1960:5599,top1960,THE LAST OF THE JUST,Andre Schwarz-Bart,1960,0689703651,253292,245453,The Last of the Just,André Schwarz-Bart,1959,1460,isbn,high,,1,7,5,2026-08-13T21:33:57
+top1960:5646,top1960,THE LEOPARD,Guiseppe di Lampedusa,1960,0679731210,625094,1132275,The Leopard,Giuseppe Tomasi di Lampedusa,1958,50757,isbn,high,,1,29,26,2026-08-13T21:33:57
+top1961:4529,top1961,THE AGONY AND THE ECSTASY,Irving Stone,1961,0451171357,321552,1504548,The Agony and the Ecstasy,Irving Stone,1961,99209,isbn,high,,2,58,47,2026-08-13T21:33:57
+top1961:1919,top1961,FRANNY AND ZOOEY,J.D. Salinger,1961,,181130,55846478,The Catcher in the Rye/Franny and Zooey/Nine Stories/Raise High the Roof Beam,J.D. Salinger,2010,1160,title_author,medium,year_off(2010vs1961),1,1,1,2026-08-13T21:33:57
+top1961:4764,top1961,THE CARPETBAGGERS,Harold Robbins,1961,,308581,1887073,The Carpetbaggers,Harold Robbins,1961,5089,title_author,high,,1,12,12,2026-08-13T21:33:57
+top1962:4011,top1962,SEVEN DAYS IN MAY,Fletcher Knebel and Charles W. Bailey II,1962,,133319671,778848,Seven Days in May,Fletcher and Charles W. Bailey II Knebel,1962,2148,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1962:4059,top1962,SHIP OF FOOLS,Katherine Anne Porter,1962,0316713902,410760,232329,Ship of Fools,Katherine Anne Porter,1962,3458,isbn,high,,1,20,15,2026-08-13T21:33:57
+top1962:1360,top1962,DEARLY BELOVED,Anne Morrow Lindbergh,1962,,110028,106045,Dearly Beloved,Anne Morrow Lindbergh,1962,243,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1963:5339,top1963,THE GROUP,Mary McCarthy,1963,,387348,1496165,"The Group: Mary McCarthy's Celebrated Novel of Vassar Women, Friendship, and Ambition in 1930s New York",Mary McCarthy,1963,17846,title_author,high,,1,23,22,2026-08-13T21:33:57
+top1963:6289,top1963,THE SHOES OF THE FISHERMAN,Morris L. West,1963,,315272,306106,The Shoes of the Fisherman,Morris L. West,1963,3647,title_author,high,,1,31,25,2026-08-13T21:33:57
+top1963:6606,top1963,THE VENETIAN AFFAIR,Helen MacInnes,1963,,146893607,1323899,The Venetian Affair,Helen MacInnes,1963,1522,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1964:6381,top1964,THE SPY WHO CAME IN FROM THE COLD,John le Carré,1964,9780143124757,19494,1177001,The Spy Who Came in from the Cold,John le Carré,1963,133419,isbn,high,,3,89,57,2026-08-13T21:33:57
+top1964:2178,top1964,HERZOG,Saul Bellow,1964,0670369128,6551,2088454,Herzog,Saul Bellow,1964,23321,isbn,high,,2,59,51,2026-08-13T21:33:57
+top1964:5745,top1964,THE MAN,Irving Wallace,1964,,551932,1885405,The Man,Irving Wallace,1964,1597,title_author,high,,1,11,10,2026-08-13T21:33:57
+top1965:6366,top1965,THE SOURCE,James Michener,1965,9780002843232,12657,1251662,The Source,James A. Michener,1964,46237,title_author,high,,1,28,22,2026-08-13T21:33:57
+top1965:7086,top1965,UP THE DOWN STAIRCASE,Bel Kaufman,1965,,129856693,154741,Up the Down Staircase by Bel Kaufman,Bel Kaufman,1965,10653,title_author,high,,2,39,26,2026-08-13T21:33:57
+top1965:2271,top1965,HOTEL,Arthur Hailey,1965,0385032226,124920,2727285,Hotel,Arthur Hailey,1965,18468,isbn,high,,1,6,5,2026-08-13T21:33:57
+top1966:7095,top1966,VALLEY OF THE DOLLS,Jacqueline Susann,1966,,581811,1203845,Valley of the Dolls,Jacqueline Susann,1960,80468,title_author,medium,year_off(1960vs1966),3,65,48,2026-08-13T21:33:57
+top1966:6232,top1966,THE SECRET OF SANTA VITTORIA,Robert Crichton,1966,,7685,10761,The Secret of Santa Vittoria,Robert Crichton,1966,1358,title_author,high,,1,2,2,2026-08-13T21:33:57
+top1966:4428,top1966,TAI-PAN,James Clavell,1966,,132078437,1755754,Tai-Pan,James Clavell,1966,60688,title_author,high,,2,32,26,2026-08-13T21:33:57
+top1967:6929,top1967,TOPAZ,Leon Uris,1967,,368819,2784864,Topaz,Leon Uris,1967,5709,title_author,high,,1,6,6,2026-08-13T21:33:57
+top1967:4879,top1967,THE CONFESSIONS OF NAT TURNER,William Styron,1967,9780679736639,577283,1607259,The Confessions of Nat Turner,William Styron,1968,15373,isbn,high,,2,38,38,2026-08-13T21:33:57
+top1967:3864,top1967,ROSEMARY'S BABY,Ira Levin,1967,9781605981109,228296,883024,Rosemary's Baby,Ira Levin,1967,165953,isbn,high,,1,21,17,2026-08-13T21:33:57
+top1968:350,top1968,AIRPORT,Arthur Hailey,1968,038504139X,124918,120317,Airport,Arthur Hailey,1968,42414,isbn,high,,1,14,12,2026-08-13T21:33:57
+top1968:6186,top1968,THE SALZBURG CONNECTION,Helen MacInnes,1968,9781781163290,230619,2290204,The Salzburg Connection,Helen MacInnes,1968,4209,isbn,high,,1,2,1,2026-08-13T21:33:57
+top1968:4482,top1968,TESTIMONY OF TWO MEN,Taylor Caldwell,1968,0449232123,59102,2618812,Testimony of Two Men,Taylor Caldwell,1968,3140,isbn,high,,1,1,1,2026-08-13T21:33:57
+top1969:5279,top1969,THE GODFATHER,Mario Puzo,1969,0399103422,22034,266624,The Godfather,Mario Puzo,1969,476785,isbn,high,,2,59,50,2026-08-13T21:33:57
+top1969:5206,top1969,THE FRENCH LIEUTENANT'S WOMAN,John Fowles,1969,9780316291163,56034,1816464,The French Lieutenant's Woman,John Fowles,1969,56416,isbn,high,,2,59,49,2026-08-13T21:33:57
+top1969:3566,top1969,PORTNOY'S COMPLAINT,Philip Roth,1969,0679756450,43945,911489,Portnoy's Complaint,Philip Roth,1969,75557,isbn,high,,3,72,53,2026-08-13T21:33:57
+top1970:2816,top1970,LOVE STORY,Erich Segal,1970,9780380017607,73968,816372,Love Story,Erich Segal,1969,65317,isbn,high,,1,27,22,2026-08-13T21:33:57
+top1970:3671,top1970,QB VII,Leon Uris,1970,,426825,69653,QB VII,Leon Uris,1970,30652,title_author,high,,1,9,9,2026-08-13T21:33:57
+top1970:4911,top1970,THE CRYSTAL CAVE,Mary Stewart,1970,9780060548254,82192,1864677,The Crystal Cave,Mary Stewart,1970,49156,isbn,high,,1,20,19,2026-08-13T21:33:57
+top1971:6709,top1971,THE WINDS OF WAR,Herman Wouk,1971,,21484,1936731,The Winds of War,Herman Wouk,1971,60280,title_author,high,,1,28,25,2026-08-13T21:33:57
+top1971:5081,top1971,THE EXORCIST,William Peter Blatty,1971,0060103655,179780,1945267,The Exorcist,William Peter Blatty,1971,281140,isbn,high,,2,59,49,2026-08-13T21:33:57
+top1971:4939,top1971,THE DAY OF THE JACKAL,Frederick Forsyth,1971,0670259365,540020,1792180,The Day of the Jackal,Frederick Forsyth,1971,149006,isbn,high,,1,16,15,2026-08-13T21:33:57
+top1972:2501,top1972,JONATHAN LIVINGSTON SEAGULL,Richard Bach,1972,0743278909,71728,1743336,Jonathan Livingston Seagull,Richard Bach,1970,278692,isbn,high,,1,28,23,2026-08-13T21:33:57
+top1972:5914,top1972,THE ODESSA FILE,Frederick Forsyth,1972,067052042X,149572,1274575,The Odessa File,Frederick Forsyth,1972,65110,isbn,high,,1,19,14,2026-08-13T21:33:57
+top1972:6743,top1972,THE WORD,Irving Wallace,1972,,551931,539171,The Word,Irving Wallace,1972,1694,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1973:886,top1973,BURR,Gore Vidal,1973,,150293882,1702196,Burr by Gore Vidal,Gore Vidal,1973,10896,title_author,high,,2,49,45,2026-08-13T21:33:57
+top1973:3369,top1973,ONCE IS NOT ENOUGH,Jacqueline Susann,1973,0688001564,131155,1030327,Once Is Not Enough,Jacqueline Susann,1973,8513,isbn,high,,0,0,0,2026-08-13T21:33:57
+top1973:5401,top1973,THE HOLLOW HILLS,Mary Stewart,1973,0688001793,116343,1282681,The Hollow Hills,Mary Stewart,1973,23305,isbn,high,,1,26,25,2026-08-13T21:33:57
+top1974:982,top1974,CENTENNIAL,James Michener.,1974,,133430,14948,Centennial,James A. Michener,1974,45682,title_author,high,,1,15,15,2026-08-13T21:33:57
+top1974:2482,top1974,JAWS,Peter Benchley,1974,0385047711,126232,2318370,Jaws,Peter Benchley,1974,184451,isbn,high,,2,47,37,2026-08-13T21:33:57
+top1974:6874,top1974,"TINKER, TAILOR, SOLDIER, SPY",John le Carré,1974,,10073506,2491780,"Tinker, Tailor, Soldier, Spy",John le Carré,1974,109625,title_author,high,,4,120,104,2026-08-13T21:33:57
+top1975:3699,top1975,RAGTIME,E. L. Doctorow,1975,0394469011,175675,551195,Ragtime,E.L. Doctorow,1975,48032,isbn,high,,2,40,34,2026-08-13T21:33:57
+top1975:5815,top1975,THE MONEYCHANGERS,Arthur Hailey,1975,9780385008969,124923,120315,The Moneychangers,Arthur Hailey,1975,5775,isbn,high,,1,2,2,2026-08-13T21:33:57
+top1975:2769,top1975,LOOKING FOR MR. GOODBAR,Judith Rossner,1975,067122025X,166982,161255,Looking for Mr. Goodbar,Judith Rossner,1975,6884,isbn,high,,1,9,9,2026-08-13T21:33:57
+top1976:6971,top1976,TRINITY,Leon Uris,1976,,42696,363317,Trinity,Leon Uris,1976,25837,title_author,high,,1,27,25,2026-08-13T21:33:57
+top1976:4899,top1976,THE CRASH OF '79,Paul E. Erdman,1976,,67264,65228,The Crash of '79,Paul Emil Erdman,1976,520,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1976:4148,top1976,SLEEPING MURDER,Agatha Christie,1976,0396073735,16300,739878,Sleeping Murder,Agatha Christie,1976,55234,isbn,high,,1,12,10,2026-08-13T21:33:57
+top1977:2363,top1977,ILLUSIONS,Richard Bach,1977,0440043182,29946,30365,Illusions: The Adventures of a Reluctant Messiah,Richard Bach,1977,67440,isbn,high,,2,59,47,2026-08-13T21:33:57
+top1977:6308,top1977,THE SILMARILLION,J.R.R. Tolkien,1977,0395257301,7332,4733799,The Silmarillion,J.R.R. Tolkien,1977,347618,isbn,high,,4,120,95,2026-08-13T21:33:57
+top1977:6511,top1977,THE THORN BIRDS,Colleen McCullough,1977,,3412,816449,The Thorn Birds,Colleen McCullough,1977,369599,title_author,high,,3,89,50,2026-08-13T21:33:57
+top1978:7166,top1978,WAR AND REMEMBRANCE,Herman Wouk,1978,,143021454,1936731,War and Remembrance (Wwii) by Herman Wouk,Herman Wouk,1971,60281,title_author,medium,year_off(1971vs1978),1,28,25,2026-08-13T21:33:57
+top1978:1023,top1978,CHESAPEAKE,James A. Michener,1978,0394500792,12661,1200992,Chesapeake,James A. Michener,1978,27798,isbn,high,,1,16,16,2026-08-13T21:33:57
+top1978:1664,top1978,EVERGREEN,Belva Plain,1978,044002661X,182496,1279777,Evergreen,Belva Plain,1978,28091,isbn,high,,1,1,1,2026-08-13T21:33:57
+top1979:4218,top1979,SOPHIE'S CHOICE,William Styron,1979,0394461096,228560,2912834,Sophie's Choice,William Styron,1979,95424,isbn,high,,2,58,51,2026-08-13T21:33:57
+top1979:5777,top1979,THE MATARESE CIRCLE,Robert Ludlum,1979,0399900438,31231,2254814,The Matarese Circle,Robert Ludlum,1979,42484,isbn,high,,1,4,4,2026-08-13T21:33:57
+top1979:6507,top1979,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,1979,,136171229,1365663,The Third World War August 1985,General Sir John Hackett & other Top-Ranking NATO Generals & Advisors,1978,2298,title_author,high,,0,0,0,2026-08-13T21:33:57
+top1980:3696,top1980,RAGE OF ANGELS,Sidney Sheldon,1980,0688036872,43328,1475717,Rage of Angels,Sidney Sheldon,1980,41334,isbn,high,,1,14,13,2026-08-13T21:33:57
+top1980:4897,top1980,THE COVENANT,James A. Michener,1980,0394505050,12663,1017593,The Covenant: A Novel,James A. Michener,1980,22176,isbn,high,,1,21,19,2026-08-13T21:33:57
+top1980:3621,top1980,PRINCESS DAISY,Judith Krantz,1980,0517536064,56893,900492,Princess Daisy,Judith Krantz,1980,4747,isbn,high,,1,4,4,2026-08-13T21:33:57
+top1981:3278,top1981,NOBLE HOUSE,James Clavell,1981,0440064562,390711,1486259,Noble House,James Clavell,1981,43222,isbn,high,,2,48,45,2026-08-13T21:33:57
+top1981:2036,top1981,GORKY PARK,Martin Cruz Smith,1981,0394517482,762806,90322,Gorky Park,Martin Cruz Smith,1981,70811,isbn,high,,2,32,29,2026-08-13T21:33:57
+top1981:2921,top1981,MASQUERADE,Kit Williams,1981,,137610744,1120802,MASQUERADE by Kit Williams,Kit Williams,1979,981,title_author,high,,1,1,1,2026-08-13T21:33:57
+top1982:6595,top1982,THE VALLEY OF HORSES,Jean M. Auel,1982,,40493,630903,The Valley of Horses,Jean M. Auel,1982,98172,title_author,high,,1,29,25,2026-08-13T21:33:57
+top1982:5974,top1982,THE PARSIFAL MOSAIC,Robert Ludlum,1982,0394521110,251823,244020,The Parsifal Mosaic,Robert Ludlum,1980,8701,isbn,high,,0,0,0,2026-08-13T21:33:57
+top1982:4231,top1982,SPACE,James A. Michener,1982,0394505557,644949,1360492,Space,James A. Michener,1982,7214,isbn,high,,1,17,16,2026-08-13T21:33:57
+top1983:5851,top1983,THE NAME OF THE ROSE,Umberto Eco,1983,0151446474,119073,3138328,The Name of the Rose,Umberto Eco,1980,405384,isbn,high,,1,29,25,2026-08-13T21:33:57
+top1983:3550,top1983,POLAND,James A. Michener,1983,0394531892,769896,892330,Poland,James A. Michener,1983,12293,isbn,high,,1,22,18,2026-08-13T21:33:57
+top1983:7278,top1983,WHO KILLED THE ROBINS FAMILY?,Thomas Chastain,1983,,123976047,145375929,who killed the robins family,thomas (created by bill adler) chastain,1983,0,title_author,medium,low_ratings,0,0,0,2026-08-13T21:33:57
+top1984:4746,top1984,THE BUTTER BATTLE BOOK,Dr. Seuss,1984,0394867165,275325,218092,The BUTTER BATTLE BOOK.,Dr. Seuss,1984,14713,isbn,high,,0,0,0,2026-08-13T21:33:57
+top1984:9,top1984,"''. . . AND LADIES OF THE CLUB,''",Helen Hooven Santmyer,1984,,576666,1480967,...And Ladies of the Club,Helen Hooven Santmyer,1982,13253,title_author,high,,1,7,7,2026-08-13T21:33:57
+top1984:4564,top1984,THE AQUITAINE PROGRESSION,Robert Ludlum,1984,0394536746,31268,680939,The Aquitaine Progression,Robert Ludlum,1984,20286,isbn,high,,1,5,5,2026-08-13T21:33:57
+top1985:2624,top1985,LAKE WOBEGON DAYS,Garrison Keillor,1985,0670805149,77244,897867,Lake Wobegon Days,Garrison Keillor,1985,8610,isbn,high,,1,15,14,2026-08-13T21:33:57
+top1985:5744,top1985,THE MAMMOTH HUNTERS,Jean M. Auel,1985,0517556278,49824,927520,The Mammoth Hunters,Jean M. Auel,1985,79265,isbn,high,,1,29,20,2026-08-13T21:33:57
+top1985:2361,top1985,IF TOMORROW COMES,Sidney Sheldon,1985,0688042171,14554,1742291,If Tomorrow Comes,Sidney Sheldon,1985,71713,isbn,high,,1,17,15,2026-08-13T21:33:57
+top1986:3741,top1986,RED STORM RISING,Tom Clancy,1986,0399131493,318525,5054712,Red Storm Rising,Tom Clancy,1986,86039,isbn,high,,1,27,26,2026-08-13T21:33:57
+top1986:6051,top1986,THE PRINCE OF TIDES,Pat Conroy,1986,0395353009,16735,1312477,The Prince of Tides,Pat Conroy,1986,220700,isbn,high,,4,120,101,2026-08-13T21:33:57
+top1986:2466,top1986,IT,Stephen King,1986,0670813028,830502,150259,It,Stephen King,1986,1313706,isbn,high,,1,27,24,2026-08-13T21:33:57
+top1987:4679,top1987,THE BONFIRE OF THE VANITIES,Tom Wolfe,1987,0374115346,2666,1080201,The Bonfire of the Vanities,Tom Wolfe,1987,89188,isbn,high,,1,27,23,2026-08-13T21:33:57
+top1987:3600,top1987,PRESUMED INNOCENT,Scott Turow,1987,0374237131,425029,7732,Presumed Innocent,Scott Turow,1987,128319,isbn,high,,1,7,7,2026-08-13T21:33:57
+top1987:3480,top1987,PATRIOT GAMES,Tom Clancy,1987,0399132414,32682,5054702,Patriot Games,Tom Clancy,1987,215986,isbn,high,,1,20,20,2026-08-13T21:33:57
+top1988:6278,top1988,THE SHELL SEEKERS,Rosamunde Pilcher,1988,0312010583,37095,517040,The Shell Seekers,Rosamunde Pilcher,1987,126337,isbn,high,,2,57,49,2026-08-13T21:33:57
+top1988:4759,top1988,THE CARDINAL OF THE KREMLIN,Tom Clancy,1988,0399133453,382549,17028815,The Cardinal of the Kremlin,Tom Clancy,1988,61960,isbn,high,,1,16,14,2026-08-13T21:33:57
+top1988:2809,top1988,LOVE IN THE TIME OF CHOLERA,Gabriel Garcia Marquez,1988,0394561619,,,,,,0,failed,review,no_candidate,0,0,0,2026-08-13T21:33:57
+top1989:1079,top1989,CLEAR AND PRESENT DANGER,Tom Clancy,1989,0399134409,32669,5054704,Clear and Present Danger,Tom Clancy,1989,145368,isbn,high,,1,21,20,2026-08-13T21:33:57
+top1989:5515,top1989,THE JOY LUCK CLUB,Amy Tan,1989,0399134204,7763,1955658,The Joy Luck Club,Amy Tan,1989,717567,isbn,high,,4,120,96,2026-08-13T21:33:57
+top1989:4438,top1989,TALES FROM MARGARITAVILLE,Jimmy Buffett,1989,0151879834,42818,42283,Tales from Margaritaville: Fictional Facts and Factual Fictions,Jimmy Buffett,1989,3538,isbn,high,,1,2,2,2026-08-13T21:33:57
+top1990:3343,top1990,"OH, THE PLACES YOU'LL GO!",Dr. Seuss,1990,0679805273,191139,2125304,"Oh, the Places You’ll Go!",Dr. Seuss,1990,450421,isbn,high,,1,29,21,2026-08-13T21:33:57
+top1990:4734,top1990,THE BURDEN OF PROOF,Scott Turow,1990,0374117349,4035,1732833,The Burden of Proof,Scott Turow,1990,40805,isbn,high,,1,3,3,2026-08-13T21:33:57
+top1990:6019,top1990,THE PLAINS OF PASSAGE,Jean M. Auel,1990,0517580497,74389,1377315,The Plains of Passage,Jean M. Auel,1990,63155,isbn,high,,1,15,14,2026-08-13T21:33:57
+top1991:5144,top1991,THE FIRM,John Grisham,1991,0385416342,452235,220589870,The Firm,John Grisham,1991,123481,isbn,high,,1,15,13,2026-08-13T21:33:57
+top1991:3945,top1991,SCARLETT,Alexandra Ripley,1991,0446515078,73062,2103634,Scarlett,Alexandra Ripley,1991,69966,isbn,high,,2,58,49,2026-08-13T21:33:57
+top1991:6426,top1991,THE SUM OF ALL FEARS,Tom Clancy,1991,,34993,5054706,The Sum of All Fears,Tom Clancy,1991,67764,title_author,high,,1,20,18,2026-08-13T21:33:57
+top1992:4723,top1992,THE BRIDGES OF MADISON COUNTY,Robert James Waller,1992,044651652X,83674,3338995,The Bridges of Madison County,Robert James Waller,1992,109782,isbn,high,,4,102,55,2026-08-13T21:33:57
+top1992:5993,top1992,THE PELICAN BRIEF,John Grisham,1992,0385421982,32499,490324,The Pelican Brief,John Grisham,1992,453483,isbn,high,,1,2,2,2026-08-13T21:33:57
+top1992:2060,top1992,GRIFFIN & SABINE,Nick Bantock,1992,,381102,981140,Griffin & Sabine,Nick Bantock,1991,77964,title_author,high,,1,7,4,2026-08-13T21:33:57
+top1993:2712,top1993,LIKE WATER FOR CHOCOLATE,Laura Esquivel,1993,0385420161,6952,1172473,Like Water for Chocolate,Laura Esquivel,1989,404271,isbn,medium,year_off(1989vs1993),4,118,25,2026-08-13T21:33:57
+top1993:4852,top1993,THE CLIENT,John Grisham,1993,038542471X,5359,137715,The Client,John Grisham,1993,467594,isbn,high,,1,27,23,2026-08-13T21:33:57
+top1993:7344,top1993,WITHOUT REMORSE,Tom Clancy,1993,,134099066,5054709,Without Remorse by Tom Clancy,Tom Clancy,1993,78241,title_author,high,,2,32,30,2026-08-13T21:33:57
+top1994:4796,top1994,THE CELESTINE PROPHECY,James Redfield,1994,044651862X,50063639,2603195,The Celestine Prophecy,James Redfield,1993,125231,isbn,high,,1,29,27,2026-08-13T21:33:57
+top1994:3555,top1994,POLITICALLY CORRECT BEDTIME STORIES,James Finn Garner,1994,002542730X,132380,127514,Politically Correct Bedtime Stories,James Finn Garner,1994,8511,isbn,high,,1,11,11,2026-08-13T21:33:57
+top1994:3132,top1994,MUTANT MESSAGE DOWN UNDER,Marlo Morgan,1994,0060171928,32349,3289577,Mutant Message Down Under,Marlo Morgan,1990,24258,isbn,medium,year_off(1990vs1994),1,27,16,2026-08-13T21:33:57
+top1995:5413,top1995,THE HORSE WHISPERER,Nicholas Evans,1995,0385315236,479415,467825,The Horse Whisperer,Nicholas Evans,1995,62635,isbn,high,,1,19,14,2026-08-13T21:33:57
+top1995:4830,top1995,THE CHRISTMAS BOX,Richard Paul Evans,1995,0684814994,161361,2493019,The Christmas Box,Richard Paul Evans,1993,33527,isbn,high,,1,6,6,2026-08-13T21:33:57
+top1995:6096,top1995,THE RAINMAKER,John Grisham,1995,038542471X,5359,137715,The Client,John Grisham,1993,467594,isbn,high,,1,27,23,2026-08-13T21:33:57

@@ -1,0 +1,19 @@
+{
+  "sample_id": "top1997:957",
+  "quotes": [
+    {"quote_id": "q00140", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00141", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00142", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00143", "bucket": "unclear", "tense": "", "note": "Descriptive fragment lacks enough context to determine whether it is story narration or quoted paratext."},
+    {"quote_id": "q00144", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00145", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00146", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00147", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00148", "bucket": "unclear", "tense": "", "note": "Prayer-like statement lacks affirmative evidence of character speech or story-specific narration."},
+    {"quote_id": "q00149", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00150", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00151", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Three event-narration excerpts are past-tense; the remaining excerpts are primarily aphoristic or dialogue."
+}

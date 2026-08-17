@@ -1,0 +1,42 @@
+{
+  "run_id": "20260814_terra_history_top3_zero_label_final_rest_v1",
+  "created_at": "2026-08-15T06:51:45.637789+00:00",
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "prompt": "terra_prompt_v2.md",
+  "prompt_sha256": "386b2af9d06d5dc2b8a7216a5ca341bd9ceb8f0423d873fd312fd5b0191aa791",
+  "methodology_sha256": "bbc39e4c4c4c20e7c873ef29f74bbeec6097bd251bdbb0ca68638b0c91c3eb7d",
+  "sample_source": "/Users/danstoyell/Desktop/projects/booktense/data/sample_top3_1931_1995_zero_label_final_rest_labelable.csv",
+  "quote_source": [
+    "/Users/danstoyell/Desktop/projects/booktense/data/quotes_top3_1931_1995_zero_label_final.csv"
+  ],
+  "selection_rule": "top two quote-yield books per year 1996\u20132015, plus third for odd years; minimum 15 quotes",
+  "books": [
+    {
+      "sample_id": "top1950:5676",
+      "title": "THE LITTLE WORLD OF DON CAMILLO",
+      "author": "Giovanni Guareschi",
+      "year": "1950",
+      "quote_count": 1,
+      "quotes_sha256": "f9f9f9aac96372e30a41de17fa89c22d2f04a68e011bd94289e27cdc0db06020",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_history_top3_zero_label_final_rest_v1/jobs/top1950_5676/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_top3_1931_1995_zero_label_final_rest/top1950_5676.json",
+      "status": "promoted",
+      "output_sha256": "557b554ad49c18fde09695392ddfd4ec75d0c6a8c05f04f88e1aa8e9eeefc2cc",
+      "promoted_at": "2026-08-15T06:53:10.024306+00:00"
+    },
+    {
+      "sample_id": "top1954:4999",
+      "title": "THE DOLLMAKER",
+      "author": "Harriette Arnow",
+      "year": "1954",
+      "quote_count": 4,
+      "quotes_sha256": "99b3a6053069eb954bd8e2db2823d33a83d980db3dc5390d6ca5fca587753e83",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_history_top3_zero_label_final_rest_v1/jobs/top1954_4999/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_top3_1931_1995_zero_label_final_rest/top1954_4999.json",
+      "status": "promoted",
+      "output_sha256": "c7be4b6a21852d97bd968275130a7b9d179581ec1dc91175d5f3d8db56650c2a",
+      "promoted_at": "2026-08-15T06:53:10.024513+00:00"
+    }
+  ]
+}

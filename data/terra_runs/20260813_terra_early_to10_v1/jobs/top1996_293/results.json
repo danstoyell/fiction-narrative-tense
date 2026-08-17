@@ -1,0 +1,29 @@
+{
+  "sample_id": "top1996:293",
+  "quotes": [
+    {"quote_id": "q00074", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00075", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00076", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00077", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00078", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00079", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00080", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00081", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00082", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00083", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00084", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00085", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00086", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00087", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00088", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00089", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00090", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00091", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00092", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00093", "bucket": "unclear", "tense": "", "note": "Truncated non-finite fragment."},
+    {"quote_id": "q00094", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00095", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

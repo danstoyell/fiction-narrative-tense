@@ -1,0 +1,94 @@
+{
+ "sample_id": "top1962:7404",
+ "quotes": [
+  {
+   "quote_id": "q00764",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Spoken-address rhetoric despite stripped quotation marks."
+  },
+  {
+   "quote_id": "q00765",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00766",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q00767",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q00768",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00769",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00770",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00771",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00772",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00773",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Clipped incomplete clause; speech versus narration cannot be determined."
+  },
+  {
+   "quote_id": "q00774",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00775",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific Fanny reference controls the mixed reflection."
+  },
+  {
+   "quote_id": "q00776",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00777",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Event narration is predominantly retrospective, with present-tense first-person reflection in the sampled excerpts."
+}

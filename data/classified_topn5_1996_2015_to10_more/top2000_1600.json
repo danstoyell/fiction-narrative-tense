@@ -1,0 +1,38 @@
+{
+ "sample_id": "top2000:1600",
+ "quotes": [
+  {
+   "quote_id": "q00145",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q00146",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q00147",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q00148",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Fragment has no finite verb to establish tense."
+  },
+  {
+   "quote_id": "q00149",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

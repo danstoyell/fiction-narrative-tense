@@ -1,0 +1,28 @@
+{
+  "sample_id": "top1990:4708",
+  "quotes": [
+    {
+      "quote_id": "q01104",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": "Direct spoken address to gentlemen."
+    },
+    {
+      "quote_id": "q01105",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "",
+      "note": "General imperative aphorism."
+    },
+    {
+      "quote_id": "q01106",
+      "bucket": "gnomic",
+      "tense": "",
+      "beat_tense": "",
+      "note": "Timeless generalization beyond a story moment."
+    }
+  ],
+  "narrating_situation": "unclear",
+  "agent_note": "No event-narration excerpts are available to determine a narrating situation."
+}

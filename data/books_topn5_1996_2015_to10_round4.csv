@@ -1,0 +1,7 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1997:2256,top1997,HORNET'S NEST,Patricia Cornwell,1997,0399142282,392217,1434181,Hornet's Nest,Patricia Cornwell,1997,18942,isbn,high,,1,1,1,2026-08-14T17:04:51
+top1997:1110,top1997,COMANCHE MOON,Larry McMurtry,1997,0684807548,54807,1167241,Comanche Moon,Larry McMurtry,1997,23955,isbn,high,,1,25,23,2026-08-14T17:04:51
+top1997:4187,top1997,SOLE SURVIVOR,Dean Koontz,1997,0679425268,16431,2925779,Sole Survivor,Dean Koontz,1997,32303,isbn,high,,1,20,19,2026-08-14T17:04:51
+top2001:5812,top2001,THE MITFORD SNOWMEN,Jan Karon,2001,0670030198,112876,108684,The Mitford Snowmen,Jan Karon,2001,3470,isbn,high,,0,0,0,2026-08-14T17:04:51
+top2001:1940,top2001,FROM THE CORNER OF HIS EYE,Dean Koontz,2001,0553801341,65948,1775449,From the Corner of His Eye,Dean Koontz,2000,35923,isbn,high,,2,50,39,2026-08-14T17:04:51
+top2001:2654,top2001,LEAP OF FAITH,Danielle Steel,2001,0385332963,780368,1036916,Leap of Faith,Danielle Steel,2000,0,isbn,medium,low_ratings,0,0,0,2026-08-14T17:04:51

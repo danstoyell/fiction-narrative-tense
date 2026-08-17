@@ -1,0 +1,16 @@
+{
+  "sample_id": "top2008:1017",
+  "quotes": [
+    {"quote_id": "q00445", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00446", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00447", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00448", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00449", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00450", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00451", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00452", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00453", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}
