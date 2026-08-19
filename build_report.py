@@ -85,10 +85,15 @@ def load():
         for f in src["books"]:
             for r in csv.DictReader(open(os.path.join(DATA, f), encoding="utf-8")):
                 books[r["sample_id"]] = r
+        # Keyed by (sample_id, quote_id): crawl.py numbers quote_id sequentially
+        # *within a single batch CSV*, restarting at q00001 per file. A frame
+        # assembled from several batch files (pilot, hist) reuses the same ids
+        # across unrelated books, so quote_id alone collides and silently
+        # overwrites another book's text with last-file-loaded-wins.
         qtext = {}
         for f in src["quotes"]:
             for r in csv.DictReader(open(os.path.join(DATA, f), encoding="utf-8")):
-                qtext[r["quote_id"]] = r["quote_text"]
+                qtext[(r["sample_id"], r["quote_id"])] = r["quote_text"]
         for sid in books:
             y = sid[3:7]
             if y.isdigit() and src["lo"] <= int(y) <= src["hi"]:
@@ -128,7 +133,7 @@ def load():
                 quotes = []
                 for q in qs:
                     qid = q.get("quote_id", "")
-                    txt = qtext.get(qid, "")
+                    txt = qtext.get((sid, qid), "")
                     if not txt:
                         missing += 1
                     quotes.append({"id": qid, "b": q.get("bucket", ""),
