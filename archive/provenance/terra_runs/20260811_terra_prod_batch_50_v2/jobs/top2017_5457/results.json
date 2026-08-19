@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2017:5457",
+  "quotes": [
+    {"quote_id":"q02027","bucket":"dialogue","tense":"","beat_tense":"none","note":"Direct spoken-address wording; no narrating beat."},
+    {"quote_id":"q02028","bucket":"gnomic","tense":"","note":"General statement about love and chemistry."},
+    {"quote_id":"q02029","bucket":"gnomic","tense":"","note":"Timeless generalization about human desire."},
+    {"quote_id":"q02030","bucket":"event","tense":"past","note":"Specific described night."},
+    {"quote_id":"q02031","bucket":"event","tense":"present","note":"Story-specific present state and routine for Harper."},
+    {"quote_id":"q02032","bucket":"dialogue","tense":"","beat_tense":"none","note":"Direct-address response; no narrating beat."},
+    {"quote_id":"q02033","bucket":"event","tense":"present","note":"Specific character's current state."},
+    {"quote_id":"q02034","bucket":"gnomic","tense":"","note":"Present-tense generalization defining suicide."},
+    {"quote_id":"q02035","bucket":"event","tense":"present","note":"Specific character's present perception."},
+    {"quote_id":"q02036","bucket":"dialogue","tense":"","beat_tense":"none","note":"Quotation-mark majority is character speech; no external beat."},
+    {"quote_id":"q02037","bucket":"event","tense":"present","note":"Specific character's cooking action and routine."},
+    {"quote_id":"q02038","bucket":"event","tense":"past","note":"Story-specific prior encounter."},
+    {"quote_id":"q02039","bucket":"unclear","tense":"","note":"Unattributed explanatory passage about mythology; speech versus embedded narration is unresolved."},
+    {"quote_id":"q02040","bucket":"event","tense":"present","note":"Specific character's present grief."},
+    {"quote_id":"q02041","bucket":"event","tense":"present","note":"Clipped but story-specific character preference."},
+    {"quote_id":"q02042","bucket":"dialogue","tense":"","beat_tense":"none","note":"Direct imperative and address; no narrating beat."},
+    {"quote_id":"q02043","bucket":"gnomic","tense":"","note":"Universal reflection on coincidence."},
+    {"quote_id":"q02044","bucket":"event","tense":"past","note":"Narration substantially outweighs the brief embedded speech."},
+    {"quote_id":"q02045","bucket":"event","tense":"present","note":"Narration and exposition outweigh the spoken exchange."},
+    {"quote_id":"q02046","bucket":"event","tense":"past","note":"Specific character's prior state."},
+    {"quote_id":"q02047","bucket":"event","tense":"present","note":"First-person story-specific present experience."},
+    {"quote_id":"q02048","bucket":"event","tense":"present","note":"Specific character's current action."},
+    {"quote_id":"q02049","bucket":"gnomic","tense":"","note":"Proverbial universal statement."},
+    {"quote_id":"q02050","bucket":"gnomic","tense":"","note":"Second-person generalization about the Vineyard."}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "13 event excerpts: 9 present and 4 past. The present narration is dominant; the past excerpts read as recollection or backstory rather than a separate narrating position. One unattributed mythology passage is retained as unclear."
+}

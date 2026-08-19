@@ -1,0 +1,23 @@
+{
+  "sample_id": "top2025:REMAIN|Nicholas Sparks with M. Night ",
+  "quotes": [
+    {"quote_id":"q10614","bucket":"gnomic","tense":"","note":"Timeless generalization."},
+    {"quote_id":"q10615","bucket":"gnomic","tense":"","note":"Timeless second-person generalization."},
+    {"quote_id":"q10616","bucket":"unclear","tense":"","note":"Unmarked first-person address; supplied text does not affirmatively establish speech."},
+    {"quote_id":"q10617","bucket":"gnomic","tense":"","note":"General statements about people and motives."},
+    {"quote_id":"q10618","bucket":"gnomic","tense":"","note":"Timeless philosophical statement without a story-specific referent."},
+    {"quote_id":"q10619","bucket":"gnomic","tense":"","note":"Universal reflection on life and death."},
+    {"quote_id":"q10620","bucket":"event","tense":"past","note":"Story-specific recollection of what she taught the narrator."},
+    {"quote_id":"q10621","bucket":"event","tense":"past","note":"Story-specific narration with a past reporting verb."},
+    {"quote_id":"q10622","bucket":"event","tense":"past","note":"Substantial past-tense narration and action beats; near speech/narration split resolves to event."},
+    {"quote_id":"q10623","bucket":"gnomic","tense":"","note":"General poetic reflection without a story-world referent."},
+    {"quote_id":"q10624","bucket":"gnomic","tense":"","note":"Timeless general poetic statement."},
+    {"quote_id":"q10625","bucket":"gnomic","tense":"","note":"General poetic wish without a story-world referent."},
+    {"quote_id":"q10626","bucket":"dialogue","tense":"","beat_tense":"past","note":"Conversational exchange; the attribution is ‘I said’."},
+    {"quote_id":"q10627","bucket":"dialogue","tense":"","beat_tense":"none","note":"Direct second-person address."},
+    {"quote_id":"q10628","bucket":"dialogue","tense":"","beat_tense":"none","note":"Direct first-person address."},
+    {"quote_id":"q10629","bucket":"event","tense":"past","note":"Story-specific narrated perception and state in the past."}
+  ],
+  "narrating_situation":"retrospective",
+  "agent_note":"Four event-narration excerpts are all past-tense. This is below the five-event threshold for an overall tense label; narrating situation reflects the supplied event evidence only."
+}

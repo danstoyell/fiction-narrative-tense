@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2002:4837",
+  "quotes": [
+    {"quote_id": "q00027", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00028", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00029", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00030", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00031", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00032", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00033", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00034", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00035", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00036", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00037", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00038", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00039", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00040", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00041", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00042", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00043", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00044", "bucket": "unclear", "tense": "", "note": ""},
+    {"quote_id": "q00045", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00046", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00047", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00048", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00049", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00050", "bucket": "unclear", "tense": "", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

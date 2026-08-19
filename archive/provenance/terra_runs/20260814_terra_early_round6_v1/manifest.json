@@ -1,0 +1,94 @@
+{
+  "run_id": "20260814_terra_early_round6_v1",
+  "created_at": "2026-08-15T06:03:00.050200+00:00",
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "prompt": "terra_prompt_v2.md",
+  "prompt_sha256": "386b2af9d06d5dc2b8a7216a5ca341bd9ceb8f0423d873fd312fd5b0191aa791",
+  "methodology_sha256": "bbc39e4c4c4c20e7c873ef29f74bbeec6097bd251bdbb0ca68638b0c91c3eb7d",
+  "sample_source": "/Users/danstoyell/Desktop/projects/booktense/data/sample_topn5_1996_2015_to10_round6_labelable.csv",
+  "quote_source": [
+    "/Users/danstoyell/Desktop/projects/booktense/data/quotes_topn5_1996_2015_to10_round6.csv"
+  ],
+  "selection_rule": "top two quote-yield books per year 1996\u20132015, plus third for odd years; minimum 15 quotes",
+  "books": [
+    {
+      "sample_id": "top2001:2636",
+      "title": "LAST MAN STANDING",
+      "author": "David Baldacci",
+      "year": "2001",
+      "quote_count": 1,
+      "quotes_sha256": "915e70cbc5924d0623b4a4c431ded05c2fcf334976ed9cdcaf22e65929aab40c",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_early_round6_v1/jobs/top2001_2636/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_topn5_1996_2015_to10_round6/top2001_2636.json",
+      "status": "promoted",
+      "output_sha256": "217c0ae0ffd1251a8269941d0cc0cf3a7fde427bd92cd823716299566a943fc4",
+      "promoted_at": "2026-08-15T06:05:02.335035+00:00"
+    },
+    {
+      "sample_id": "top2001:6295",
+      "title": "THE SIGMA PROTOCOL",
+      "author": "Robert Ludlum",
+      "year": "2001",
+      "quote_count": 3,
+      "quotes_sha256": "4232a418e666e270bf12851aba12d0a5f8399f748885a89c8b7fd07615a4bc41",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_early_round6_v1/jobs/top2001_6295/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_topn5_1996_2015_to10_round6/top2001_6295.json",
+      "status": "promoted",
+      "output_sha256": "688379d32e223426f0c417ae7fdd1a1d06d0fe080b5880d51cb75a1cb0ce4fa9",
+      "promoted_at": "2026-08-15T06:05:02.335343+00:00"
+    },
+    {
+      "sample_id": "top2001:1369",
+      "title": "DEATH IN HOLY ORDERS",
+      "author": "P. D. James",
+      "year": "2001",
+      "quote_count": 12,
+      "quotes_sha256": "477bd1eb92a3dce05faf5330651ad298bed7cf2ab608b77ddd77139bf1c6f54d",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_early_round6_v1/jobs/top2001_1369/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_topn5_1996_2015_to10_round6/top2001_1369.json",
+      "status": "promoted",
+      "output_sha256": "c3a13b4ff53b48b4dadd03dfb0b66a3d1d3e0d164790bf41a87e5d7daa6fdf2a",
+      "promoted_at": "2026-08-15T06:05:02.335472+00:00"
+    },
+    {
+      "sample_id": "top2002:7083",
+      "title": "UP COUNTRY",
+      "author": "Nelson DeMille",
+      "year": "2002",
+      "quote_count": 10,
+      "quotes_sha256": "dc582a56cf772c2514831d66fabd6fa5e42a0e7147318161b348dacfba2147ad",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_early_round6_v1/jobs/top2002_7083/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_topn5_1996_2015_to10_round6/top2002_7083.json",
+      "status": "promoted",
+      "output_sha256": "5bf5a4716aff9e1a0d8383a898d9d62c883fc85abb183af5b475350d291d85db",
+      "promoted_at": "2026-08-15T06:05:02.335597+00:00"
+    },
+    {
+      "sample_id": "top2002:4837",
+      "title": "THE CHRISTMAS TRAIN",
+      "author": "David Baldacci",
+      "year": "2002",
+      "quote_count": 24,
+      "quotes_sha256": "a07c8f799689e438af98d06af5130d1fd59d9bf5c141ff2c83349e3baa6c23a2",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_early_round6_v1/jobs/top2002_4837/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_topn5_1996_2015_to10_round6/top2002_4837.json",
+      "status": "promoted",
+      "output_sha256": "ef9cc114d573450ef9a170ce6c673b928b2c1881b1f2a6d2744321e9808b462d",
+      "promoted_at": "2026-08-15T06:05:02.335720+00:00"
+    },
+    {
+      "sample_id": "top2002:735",
+      "title": "BLESSINGS",
+      "author": "Anna Quindlen",
+      "year": "2002",
+      "quote_count": 14,
+      "quotes_sha256": "f2a9f956b84c5b4f8a8cb192844c08b0058231ebfff7ecad1282e56c4968a23f",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260814_terra_early_round6_v1/jobs/top2002_735/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified_topn5_1996_2015_to10_round6/top2002_735.json",
+      "status": "promoted",
+      "output_sha256": "5d2591730a7fc5244107bcdb70028e5648a41c09b490c89bcd42e5672f2dc5bb",
+      "promoted_at": "2026-08-15T06:05:02.335918+00:00"
+    }
+  ]
+}

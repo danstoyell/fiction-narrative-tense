@@ -1,0 +1,26 @@
+{
+  "sample_id": "top1956:2374",
+  "quotes": [
+    {"quote_id": "q00564", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00565", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00566", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00567", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00568", "bucket": "unclear", "tense": "", "note": "Truncated fragment lacks a classifiable predicate or speaker context."},
+    {"quote_id": "q00569", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00570", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00571", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00572", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00573", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00574", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00575", "bucket": "event", "tense": "past", "note": "Near-even speech/narration split; narration retained as event evidence."},
+    {"quote_id": "q00576", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00577", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00578", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00579", "bucket": "event", "tense": "past", "note": "Near-even speech/narration split; narration retained as event evidence."},
+    {"quote_id": "q00580", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00581", "bucket": "event", "tense": "present", "note": "Story-specific present statement with no affirmative dialogue evidence."},
+    {"quote_id": "q00582", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Event narration is overwhelmingly retrospective; one story-specific present statement does not indicate a dual narrating position."
+}

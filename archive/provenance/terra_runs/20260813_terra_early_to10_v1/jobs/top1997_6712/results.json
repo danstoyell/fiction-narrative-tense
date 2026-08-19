@@ -1,0 +1,14 @@
+{
+  "sample_id": "top1997:6712",
+  "quotes": [
+    {"quote_id": "q00001", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00002", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00003", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00004", "bucket": "event", "tense": "past", "note": "Story-specific exposition anchored to LuAnn."},
+    {"quote_id": "q00005", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00006", "bucket": "unclear", "tense": "", "note": "Truncated fragment lacks enough context to classify."},
+    {"quote_id": "q00007", "bucket": "unclear", "tense": "", "note": "Fragment lacks enough context to classify."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

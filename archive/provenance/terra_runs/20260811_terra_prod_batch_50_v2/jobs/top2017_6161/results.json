@@ -1,0 +1,30 @@
+{
+  "sample_id": "top2017:6161",
+  "quotes": [
+    {"quote_id": "q01571", "bucket": "gnomic", "tense": "", "note": "General reflection on mistakes and regrets."},
+    {"quote_id": "q01572", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01573", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01574", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01575", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01576", "bucket": "gnomic", "tense": "", "note": "General statement about enforcement agencies and quotas."},
+    {"quote_id": "q01577", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01578", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q01579", "bucket": "gnomic", "tense": "", "note": "Generalized explanation of referral practice."},
+    {"quote_id": "q01580", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q01581", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01582", "bucket": "unclear", "tense": "", "note": "Fragment lacks enough context to identify narration or speech."},
+    {"quote_id": "q01583", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q01584", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01585", "bucket": "gnomic", "tense": "", "note": "General political assertion."},
+    {"quote_id": "q01586", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01587", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01588", "bucket": "event", "tense": "past", "note": "First-person recollection controls the passage."},
+    {"quote_id": "q01589", "bucket": "event", "tense": "past", "note": "First-person recollection of a specific reading."},
+    {"quote_id": "q01590", "bucket": "gnomic", "tense": "", "note": "General critique of law-school admissions and lending."},
+    {"quote_id": "q01591", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01592", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01593", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Speaker attribution identifies clipped speech."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Event-narration excerpts are consistently past tense; present-tense generalizations were excluded as gnomic."
+}

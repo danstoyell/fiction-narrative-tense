@@ -1,0 +1,26 @@
+{
+  "sample_id": "top2009:3884",
+  "quotes": [
+    {"quote_id": "q00361", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00362", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00363", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00364", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00365", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00366", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00367", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q00368", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00369", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00370", "bucket": "paratext", "tense": "", "note": ""},
+    {"quote_id": "q00371", "bucket": "paratext", "tense": "", "note": ""},
+    {"quote_id": "q00372", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00373", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00374", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00375", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00376", "bucket": "unclear", "tense": "", "note": "Sentence fragment without enough context to assign a bucket."},
+    {"quote_id": "q00377", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00378", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00379", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

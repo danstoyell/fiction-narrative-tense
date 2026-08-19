@@ -1,0 +1,33 @@
+{
+  "sample_id": "top2022:SEA OF TRANQUILITY|Emily St",
+  "quotes": [
+    {"quote_id": "q07568", "bucket": "gnomic", "tense": "", "note": "essayistic generalization about 'us as a species'; no quotation marks anywhere, but 'My point is' is a speech marker -- if unmarked panel speech this would be dialogue"},
+    {"quote_id": "q07569", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q07570", "bucket": "gnomic", "tense": "", "note": "second-person universal"},
+    {"quote_id": "q07571", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about pandemics as a class, not a story-moment"},
+    {"quote_id": "q07572", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q07573", "bucket": "event", "tense": "present", "note": "specific first-person narrator, specific moment ('lately'); present perfect reflection at the narrating moment"},
+    {"quote_id": "q07574", "bucket": "gnomic", "tense": "", "note": "explicitly framed as a general 'lesson'"},
+    {"quote_id": "q07575", "bucket": "gnomic", "tense": "", "note": "second-person universal, iterated hypotheticals"},
+    {"quote_id": "q07576", "bucket": "gnomic", "tense": "", "note": "rhetorical question generalizing beyond the story world"},
+    {"quote_id": "q07577", "bucket": "gnomic", "tense": "", "note": "second-person universal, 'Sometimes'"},
+    {"quote_id": "q07578", "bucket": "gnomic", "tense": "", "note": "essayistic 'we' generalization; unmarked, possibly panel speech"},
+    {"quote_id": "q07579", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; 'Olive said' tag is a small minority of the words", "beat_tense": "past"},
+    {"quote_id": "q07580", "bucket": "event", "tense": "present", "note": "named specific character; present-tense character state, not a generalization beyond the story world"},
+    {"quote_id": "q07581", "bucket": "gnomic", "tense": "", "note": "fails quotation-mark majority (8 quoted words vs ~35 unmarked); remainder is generalizing epidemiological argument -- but plausibly continued unmarked speech"},
+    {"quote_id": "q07582", "bucket": "gnomic", "tense": "", "note": "generalization about bureaucracy/organisms; 'What you have to understand' is a speech marker but no marks survive"},
+    {"quote_id": "q07583", "bucket": "event", "tense": "past", "note": "iterative summary about a named specific character (Jessica); trailing present clause generalizes but the finite narration is past"},
+    {"quote_id": "q07584", "bucket": "event", "tense": "past", "note": "opens with second-person generalization then shifts to past narration of a specific character ('She'd seen five of those tattoos'); finite past narration is load-bearing"},
+    {"quote_id": "q07585", "bucket": "gnomic", "tense": "", "note": "'Perhaps we believe' -- present-tense speculation about people generally; subjunctive 'were to end' is not past narration"},
+    {"quote_id": "q07586", "bucket": "dialogue", "tense": "", "note": "no quotation marks; classified as speech on direct address ('you'/'me') and conversational register", "beat_tense": "none"},
+    {"quote_id": "q07587", "bucket": "gnomic", "tense": "", "note": "second-person universal"},
+    {"quote_id": "q07588", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; 'a poet asked' tag is a minority of the words", "beat_tense": "past"},
+    {"quote_id": "q07589", "bucket": "gnomic", "tense": "", "note": "modal generalization ('could be'); conditional is not past narration, and no specific character or moment appears -- possibly free indirect thought"},
+    {"quote_id": "q07590", "bucket": "event", "tense": "past", "note": "first-person-plural past summary of story-world events; past-tense exposition, not gnomic"},
+    {"quote_id": "q07591", "bucket": "dialogue", "tense": "", "note": "marginal -- ~9 quoted words vs ~8 narrating; quotation-mark majority applied, but the trailing free-indirect fragment nearly tips it to event/past", "beat_tense": "past"},
+    {"quote_id": "q07592", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; 'Olive said' tag only", "beat_tense": "past"},
+    {"quote_id": "q07593", "bucket": "event", "tense": "past", "note": "fails quotation-mark majority (8 quoted vs ~35 narrating); dialogue-tag rule applies -- 'Olive wasn't sure how to answer' is past narration of a specific moment"}
+  ],
+  "narrating_situation": "unclear",
+  "agent_note": "Heavily aphoristic quote set: 15 of 26 are gnomic (present-tense generalization about pandemics, time, apocalypse, second-person universals), which is exactly the false-present bias METHODOLOGY warns about. Only 6 event quotes, 4 past / 2 present. The past ones are third-person narration of named characters (Olive, Jessica, an unnamed 'she'); the present ones are a first-person reflective voice ('I've been thinking... lately') and a present-tense character state for Edwin. That pattern suggests multiple strands narrated in different tenses rather than one stance, but 6 event quotes is too thin to call which dominates, so narrating_situation is unclear rather than retrospective. Quotation marks survive on ~5 quotes; several unmarked essayistic passages (q07568, q07578, q07581, q07582) carry speech markers and panel/lectern framing elsewhere in the set, so they may be stripped-mark dialogue -- bucketed gnomic on content, noted individually. No non-English or paratext quotes; no verse."
+}

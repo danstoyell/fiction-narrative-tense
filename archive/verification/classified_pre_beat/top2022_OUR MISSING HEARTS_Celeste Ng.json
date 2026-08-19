@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2022:OUR MISSING HEARTS|Celeste Ng",
+  "quotes": [
+    {"quote_id": "q07439", "bucket": "gnomic", "tense": "", "note": "present-tense second-person universal about memory and loss; generalizes beyond story world"},
+    {"quote_id": "q07440", "bucket": "event", "tense": "past", "note": "first-person address to 'you' (no quotation marks); specific speaker's specific past motives"},
+    {"quote_id": "q07441", "bucket": "event", "tense": "past", "note": "'it seemed' anchors a specific story-moment judgment; embedded maxim does not make it gnomic"},
+    {"quote_id": "q07442", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism / stated principle; no story-world referent, no speech markers"},
+    {"quote_id": "q07443", "bucket": "event", "tense": "past", "note": "past-tense generalization about the story world (librarians) -- gnomic is present-only, so event/past"},
+    {"quote_id": "q07444", "bucket": "event", "tense": "present", "note": "no quotation marks, fails dialogue test; present tag 'she thinks' frames the reflection at a specific moment"},
+    {"quote_id": "q07445", "bucket": "event", "tense": "present", "note": "'he remembers' -- specific character at a specific moment; generalizing content is inside his thought"},
+    {"quote_id": "q07446", "bucket": "event", "tense": "past", "note": "'It happened so slowly' -- past summary of a specific story-world change"},
+    {"quote_id": "q07447", "bucket": "event", "tense": "present", "note": "'He wonders' x2; specific character, present narrating moment"},
+    {"quote_id": "q07448", "bucket": "gnomic", "tense": "", "note": "essayistic present-tense statement about real-world history; possibly author's note, but classified from text alone"},
+    {"quote_id": "q07449", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = direct address to 'you', tag questions ('right', \"don't they?\"), spoken register"},
+    {"quote_id": "q07450", "bucket": "gnomic", "tense": "", "note": "fragment -- no finite verb"},
+    {"quote_id": "q07451", "bucket": "gnomic", "tense": "", "note": "fragment -- participial, no finite verb"},
+    {"quote_id": "q07452", "bucket": "dialogue", "tense": "", "note": "marks absent; speech-word majority over the 'The librarian sighs / she says' beats"},
+    {"quote_id": "q07453", "bucket": "event", "tense": "present", "note": "present narrating base ('Somewhere out there are') with future-projective 'He will find them'"},
+    {"quote_id": "q07454", "bucket": "dialogue", "tense": "", "note": "marks absent; speech majority, 'she says' tag, 1st-person plural address with 'right?'"},
+    {"quote_id": "q07455", "bucket": "dialogue", "tense": "", "note": "marks absent; speech majority, 'she says' tag, conversational register"},
+    {"quote_id": "q07456", "bucket": "event", "tense": "present", "note": "FLIP RISK: three past iterative/pluperfect sentences, then deictic 'Now it occurs to him' anchoring a present narrating base; counted present on the deixis"},
+    {"quote_id": "q07457", "bucket": "gnomic", "tense": "", "note": "essayistic present-tense reflection on stories generally; trailing 'She does not know' is the only story-world clause"},
+    {"quote_id": "q07458", "bucket": "event", "tense": "present", "note": "specific character, specific moment"},
+    {"quote_id": "q07459", "bucket": "event", "tense": "past", "note": "first-person address strand (mother to child); past recounting of naming; opening line duplicated in the scraped text"},
+    {"quote_id": "q07460", "bucket": "event", "tense": "present", "note": "deictic 'Today', named character Bird; quote truncated mid-sentence"},
+    {"quote_id": "q07461", "bucket": "event", "tense": "past", "note": "free indirect thought with past tag 'she thought'"},
+    {"quote_id": "q07462", "bucket": "event", "tense": "present", "note": "specific character moving through a specific scene, present tense"}
+  ],
+  "narrating_situation": "dual",
+  "agent_note": "Quotation marks appear to be absent from this book's dialogue entirely -- every speech quote here relies on speech tags ('she says'), direct address, tag questions and register rather than marks. Two distinct strands are visible in the quote text: a present-tense close-third strand around a male character ('He wonders', 'he is unremarkable', 'Today it strikes Bird'), and a past-tense first-person address strand from a woman to a child ('Why did I tell you so many stories?', 'When you were born, your father wanted you to have my name'), plus past-tense retrospective summary. The past minority is therefore structural (an embedded address/recollection strand), not noise. Gnomic bucket kept strictly present-tense: q07443 is past-tense generalization about the story world and was filed event/past, not gnomic. q07448 reads as essayistic real-world commentary and could be an author's note leaking from the work page; filed gnomic rather than paratext since nothing in the text marks it as front/back matter, and it is non-diagnostic either way."
+}

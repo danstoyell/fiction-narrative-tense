@@ -1,0 +1,50 @@
+{
+  "run_id": "20260811_terra_prod_pilot_v2",
+  "created_at": "2026-08-12T06:51:42.972944+00:00",
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "prompt": "terra_prompt_v2.md",
+  "prompt_sha256": "386b2af9d06d5dc2b8a7216a5ca341bd9ceb8f0423d873fd312fd5b0191aa791",
+  "methodology_sha256": "bbc39e4c4c4c20e7c873ef29f74bbeec6097bd251bdbb0ca68638b0c91c3eb7d",
+  "books": [
+    {
+      "sample_id": "top2025:DUNGEON CRAWLER CARL|Matt Dinniman",
+      "title": "DUNGEON CRAWLER CARL",
+      "author": "Matt Dinniman",
+      "year": "2025",
+      "quote_count": 24,
+      "quotes_sha256": "249b6ed7b30c2cafcba7626849389185adbf97ce27c7ad08befa9a5d716bf72b",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260811_terra_prod_pilot_v2/jobs/top2025_DUNGEON CRAWLER CARL_Matt Dinniman/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified/top2025_DUNGEON CRAWLER CARL_Matt Dinniman.json",
+      "status": "promoted",
+      "output_sha256": "0b01eed9bd65be006d6ece911d2c91126259904daf44e2e2a0660885b8ab206d",
+      "promoted_at": "2026-08-12T06:53:25.939071+00:00"
+    },
+    {
+      "sample_id": "top2018:7239",
+      "title": "WHERE THE CRAWDADS SING",
+      "author": "Delia Owens",
+      "year": "2018",
+      "quote_count": 25,
+      "quotes_sha256": "7d42c880015d3f58f97e8c24960294fcd3e676b45f21e2d5fe6415a3497fb4bc",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260811_terra_prod_pilot_v2/jobs/top2018_7239/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified/top2018_7239.json",
+      "status": "promoted",
+      "output_sha256": "4414dfbd76e3944f40e1142eb829c42bbe8ce8488b754dea7dc60663ded1f97e",
+      "promoted_at": "2026-08-12T06:53:25.939549+00:00"
+    },
+    {
+      "sample_id": "top2019:3883",
+      "title": "RUN AWAY",
+      "author": "Harlan Coben",
+      "year": "2019",
+      "quote_count": 23,
+      "quotes_sha256": "1a980c76a716853de376c79f93af615786ce72774cdc121db3f55749922b4970",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/data/terra_runs/20260811_terra_prod_pilot_v2/jobs/top2019_3883/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/data/classified/top2019_3883.json",
+      "status": "promoted",
+      "output_sha256": "a47ecc43a84bc8313656e9c81298ef5c5ddc3e602d88279d78df5c0dc938583e",
+      "promoted_at": "2026-08-12T06:53:25.939797+00:00"
+    }
+  ]
+}

@@ -4,6 +4,8 @@
     --ink:#12161C; --paper:#F6F7F9; --surface:#FFFFFF; --line:#DFE3E8;
     --muted:#59626E; --faint:#858E9A;
     --past:#A8763C; --present:#1F7A7A; --dual:#98A0AA; --flag:#B44A2C;
+    --quote-event:#7EC1BD; --quote-gnomic:#D7B177; --quote-paratext:#B6BEC8; --quote-unclear:#E2A08B;
+    --dialogue-none:#D4D9E0; --dialogue-past:#AAA0D0; --dialogue-present:#9CB8EA;
     --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
     --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
     --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
@@ -11,12 +13,17 @@
   @media (prefers-color-scheme:dark){
     :root{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
           --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;
-          --dual:#737B86;--flag:#DE7A56;}
+          --dual:#737B86;--flag:#DE7A56;--quote-event:#4FA29C;--quote-gnomic:#C79757;--quote-paratext:#77818E;--quote-unclear:#C96E55;
+          --dialogue-none:#77818E;--dialogue-past:#A99AE0;--dialogue-present:#84A9F6;}
   }
   :root[data-theme="dark"]{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
-    --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;--dual:#737B86;--flag:#DE7A56;}
+    --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;--dual:#737B86;--flag:#DE7A56;
+    --quote-event:#4FA29C;--quote-gnomic:#C79757;--quote-paratext:#77818E;--quote-unclear:#C96E55;
+    --dialogue-none:#77818E;--dialogue-past:#A99AE0;--dialogue-present:#84A9F6;}
   :root[data-theme="light"]{--ink:#12161C;--paper:#F6F7F9;--surface:#FFFFFF;--line:#DFE3E8;
-    --muted:#59626E;--faint:#858E9A;--past:#A8763C;--present:#1F7A7A;--dual:#98A0AA;--flag:#B44A2C;}
+    --muted:#59626E;--faint:#858E9A;--past:#A8763C;--present:#1F7A7A;--dual:#98A0AA;--flag:#B44A2C;
+    --quote-event:#7EC1BD;--quote-gnomic:#D7B177;--quote-paratext:#B6BEC8;--quote-unclear:#E2A08B;
+    --dialogue-none:#D4D9E0;--dialogue-past:#AAA0D0;--dialogue-present:#9CB8EA;}
 
   body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
        -webkit-font-smoothing:antialiased;}
@@ -45,6 +52,15 @@
   .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:.35rem;font-size:.9rem;color:var(--muted);}
   .legend i{display:inline-block;width:.8rem;height:.8rem;border-radius:1px;
             margin-right:.42rem;vertical-align:-1px;}
+  .quote-chart{background:var(--surface);border:1px solid var(--line);border-radius:2px;
+               padding:1.05rem 1.1rem .85rem;}
+  .quote-chart p{font-size:.84rem;color:var(--muted);max-width:68ch;}
+  #quote-chart{display:block;width:100%;height:auto;margin:.35rem 0 .2rem;}
+  .quote-legend{display:flex;flex-wrap:wrap;gap:.45rem 1rem;margin-top:.25rem;
+                font-size:.76rem;color:var(--muted);}
+  .quote-legend span{white-space:nowrap;}
+  .quote-legend i{display:inline-block;width:.65rem;height:.65rem;border-radius:1px;
+                  margin-right:.32rem;vertical-align:-1px;}
 
   .tw{overflow-x:auto;border:1px solid var(--line);border-radius:2px;background:var(--surface);}
   table{border-collapse:collapse;width:100%;font-size:.81rem;}
@@ -150,7 +166,7 @@
 <div class="wrap wide">
 
 <header>
-  <div class="eyebrow">Booktense &middot; 781 books classified &middot; 22,530 quotes &middot; built 16 Aug 2026</div>
+  <div class="eyebrow">Booktense &middot; 781 books classified &middot; 22,530 quotes &middot; built 19 Aug 2026</div>
   <h1>Present-tense narration in NYT bestsellers, 1931&ndash;2025</h1>
   <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
   Choose one-, three-, five-, or ten-year periods across the whole series. The early years are
@@ -172,10 +188,10 @@
         <option value="1">1 year</option>
         <option value="3">3 years</option>
         <option value="5">5 years</option>
-        <option value="10">10 years</option>
+        <option value="10" selected>10 years</option>
       </select>
     </div>
-    <h2 class="chart-title">Narrative Tense in NYT Bestsellers</h2>
+    <h2 class="chart-title" id="chart-title">Narrative Tense in NYT Bestsellers, 1931&ndash;2025</h2>
     <svg id="chart" viewBox="0 0 980 400" role="img"
          aria-label="Stacked area chart of present, other and past tense share over time, with the present band rising from the baseline"></svg>
     <div class="legend">
@@ -189,19 +205,24 @@
 <section>
   <div class="split">
     <div class="card">
-      <h3>1996&ndash;2015 &middot; top 16 a year</h3>
-      <div class="big" style="color:var(--present)">9%</div>
-      <p>present, across 202 labelled books</p>
+      <h3>1931&ndash;1995</h3>
+      <div class="big" style="color:var(--present)">1%</div>
+      <p>present, across 137 labelled books</p>
     </div>
     <div class="card">
-      <h3>2016&ndash;2025 &middot; top 30 a year</h3>
-      <div class="big" style="color:var(--present)">26%</div>
-      <p>present, across 236 labelled books</p>
+      <h3>1996&ndash;2019</h3>
+      <div class="big" style="color:var(--present)">11%</div>
+      <p>present, across 291 labelled books</p>
     </div>
     <div class="card">
-      <h3>Trend within 2016&ndash;2025</h3>
-      <div class="big">p = 0.003</div>
-      <p>z = 2.95 &middot; the one frame consistent enough to test</p>
+      <h3>2020&ndash;2025</h3>
+      <div class="big" style="color:var(--present)">33%</div>
+      <p>present, across 147 labelled books</p>
+    </div>
+    <div class="card">
+      <h3>Trend within 1996&ndash;2025</h3>
+      <div class="big" style="color:var(--present)">+1.0% a year</div>
+      <p>p = 0.000</p>
     </div>
   </div>
 </section>
@@ -225,7 +246,7 @@
 </section>
 
 <section>
-  <h2>How a book gets its label</h2>
+  <h2>Methodology</h2>
   <p>Each quote is sorted into one bucket. Only two of them carry evidence about the
   narrator&rsquo;s tense &mdash; the other three exist to keep those two clean.</p>
 
@@ -251,9 +272,17 @@
     </table>
   </div>
 
-  <p>The load-bearing split is <strong>gnomic against event, and the test is specificity, not
-  tense</strong>. &ldquo;My father is dead&rdquo; is present tense but concerns one person at
+  <p>&ldquo;My father is dead&rdquo; is present tense but concerns one person at
   one moment, so it counts. &ldquo;Books, like people, die&rdquo; does not.</p>
+
+  <div class="quote-chart">
+    <h3>Quote labels across all classified excerpts</h3>
+    <p><strong>Dialogue is one top-level bucket</strong>, outlined below. Within it, gray means
+    no narratorial beat; purple and blue mean a past- or present-tense narrator beat.</p>
+    <svg id="quote-chart" viewBox="0 0 920 140" role="img"
+         aria-label="Stacked bar showing all classified quotes by bucket, with dialogue subdivided by beat tense"></svg>
+    <div class="quote-legend" id="quote-legend"></div>
+  </div>
 
   <p>Those two evidence-bearing buckets pool into a single tally, and the book&rsquo;s label
   follows in three steps:</p>
@@ -277,47 +306,7 @@
 </section>
 
 <section>
-  <h2>What this does and doesn&rsquo;t support</h2>
-  <div class="caution">
-    <p><strong>Within 2016&ndash;2025 the rise is statistically detectable</strong> &mdash; a
-    linear trend across those ten years gives p&nbsp;=&nbsp;0.003 on 236 books.
-    The two-era split reads p&nbsp;=&nbsp;0.002, but its 2019/2020
-    boundary was drawn after seeing the data, so lead with the trend.</p>
-    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
-    come from the top 16 a year of each year against the top 30 a year from 2016 on, so the early
-    slice is a smaller, more famous set of books. A difference between the eras could be a
-    difference between those slices. Do not read the full span as one series.</p>
-    <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
-    22%, and 2018 (22%) sits at or above no later point. What the recent
-    data supports is a level shift, not a steady year-on-year climb.</p>
-  </div>
-  <ul>
-    <li><strong>Goodreads pull-quotes are a biased source, and the bias runs toward apparent
-    present tense.</strong> Everything below is a symptom of reading books through the
-    passages readers chose to excerpt:
-      <ul style="margin-top:.55rem">
-        <li>Quotes are selected for quotability, and quotability loves aphorism &mdash;
-        22% of all quotes are gnomic, timeless-present generalization that says nothing
-        about a book&rsquo;s narration. The bucket scheme exists to strip exactly this.</li>
-        <li>Quotation marks survive only 0&ndash;52% of the time, so
-        speech and narration often cannot be told apart from the text alone.</li>
-        <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
-        who is speaking.</li>
-        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
-        abstain more often &mdash; 106 do here.</li>
-        <li>Nothing marks where in a book a quote came from, so a framed prologue or an
-        embedded tale reads the same as the main narration.</li>
-      </ul>
-    </li>
-    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
-    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
-    buckets &mdash; yet both produced the same book label, and every disagreement was a
-    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Every book, every quote</h2>
+  <h2>Raw Data</h2>
   <p>All 781 classified books and all 22,530 quotes behind them &mdash; nothing truncated,
   no bucket hidden. Click a row for its quotes, buckets, and the classifier&rsquo;s reasoning.
   Search reaches into quote text and notes, not just titles.</p>
@@ -357,6 +346,46 @@
   </div>
 </section>
 
+<section>
+  <h2>Notes</h2>
+  <div class="caution">
+    <p><strong>Across 1996&ndash;2025 the rise is statistically detectable</strong> &mdash; a
+    linear trend across those years gives p&nbsp;=&nbsp;0.000 on 438 books.
+    The two-era split reads p&nbsp;=&nbsp;0.002, but its 2019/2020
+    boundary was drawn after seeing the data, so lead with the trend.</p>
+    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
+    come from the top 16 a year of each year against the top 30 a year from 2016 on, so the early
+    slice is a smaller, more famous set of books. A difference between the eras could be a
+    difference between those slices. Do not read the full span as one series.</p>
+    <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
+    22%, and 2018 (22%) sits at or above no later point. What the recent
+    data supports is a level shift, not a steady year-on-year climb.</p>
+  </div>
+  <ul>
+    <li><strong>Goodreads pull-quotes are a biased source, and the bias runs toward apparent
+    present tense.</strong> Everything below is a symptom of reading books through the
+    passages readers chose to excerpt:
+      <ul style="margin-top:.55rem">
+        <li>Quotes are selected for quotability, and quotability loves aphorism &mdash;
+        22% of all quotes are gnomic, timeless-present generalization that says nothing
+        about a book&rsquo;s narration. The bucket scheme exists to strip exactly this.</li>
+        <li>Quotation marks survive only 0&ndash;52% of the time, so
+        speech and narration often cannot be told apart from the text alone.</li>
+        <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
+        who is speaking.</li>
+        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
+        abstain more often &mdash; 106 do here.</li>
+        <li>Nothing marks where in a book a quote came from, so a framed prologue or an
+        embedded tale reads the same as the main narration.</li>
+      </ul>
+    </li>
+    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
+    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
+    buckets &mdash; yet both produced the same book label, and every disagreement was a
+    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
+  </ul>
+</section>
+
 <footer>
   Frame: NYT Hardcover Fiction &middot; top 30 a year 2016&ndash;2025 (300 books),
   top 16 a year 1996&ndash;2015 (323 books)<br>
@@ -389,7 +418,7 @@ function drawChart(A){
     return `<polygon points="${up} ${dn}" fill="var(--${tok})" opacity="0.88"/>`;
   };
   let s="";
-  for(let g=0;g<=100;g+=25){
+  for(let g=0;g<=100;g+=10){
     s+=`<line x1="${L}" x2="${W-R}" y1="${y(g/100)}" y2="${y(g/100)}" stroke="var(--line)" stroke-width="1"/>`;
     s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
     s+=`<text x="${W-R+9}" y="${y(g/100)+4}" text-anchor="start" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
@@ -426,6 +455,57 @@ function drawChart(A){
   const counts=A.filter(d=>d.n).map(d=>d.n);
   document.getElementById("point-note").firstChild.textContent=
     `Each point rests on ${Math.min(...counts)}–${Math.max(...counts)} labelled books. `;
+}
+
+function drawQuoteChart(summary){
+  const {total,buckets,dialogueBeats}=summary;
+  const W=920,L=14,R=14,Y=45,H=42,iw=W-L-R;
+  const color={event:"var(--quote-event)",gnomic:"var(--quote-gnomic)",paratext:"var(--quote-paratext)",unclear:"var(--quote-unclear)"};
+  const x={}; let cursor=L;
+  const width=n=>iw*n/total;
+  const rect=(left,w,fill)=>`<rect x="${left}" y="${Y}" width="${w}" height="${H}" fill="${fill}"/>`;
+  let svg="";
+
+  for(const bucket of ["event","dialogue","gnomic","paratext","unclear"]){
+    const w=width(buckets[bucket]); x[bucket]=[cursor,w];
+    if(bucket!=="dialogue") svg+=rect(cursor,w,color[bucket]);
+    cursor+=w;
+  }
+  let dialogueX=x.dialogue[0];
+  const dialogueColors={none:"var(--dialogue-none)",past:"var(--dialogue-past)",present:"var(--dialogue-present)"};
+  const beatLabels={none:"no beat",past:"past beat"};
+  for(const beat of ["none","past","present"]){
+    const w=width(dialogueBeats[beat]);
+    svg+=rect(dialogueX,w,dialogueColors[beat]);
+    if(beatLabels[beat] && w>55) svg+=`<text x="${dialogueX+w/2}" y="${Y+25}" text-anchor="middle" font-family="var(--mono)" font-size="10" font-weight="600" fill="var(--ink)">${beatLabels[beat]}</text>`;
+    if(beat!=="present") svg+=`<line x1="${dialogueX+w}" x2="${dialogueX+w}" y1="${Y}" y2="${Y+H}" stroke="var(--surface)" stroke-width="1.25"/>`;
+    dialogueX+=w;
+  }
+  svg+=`<rect x="${x.dialogue[0]+.5}" y="${Y+.5}" width="${x.dialogue[1]-1}" height="${H-1}" fill="none" stroke="var(--ink)" stroke-width="1.5"/>`;
+  svg+=`<path d="M ${x.dialogue[0]} 35 v-6 H ${x.dialogue[0]+x.dialogue[1]} v6" fill="none" stroke="var(--ink)" stroke-width="1.25"/>`;
+  svg+=`<text x="${x.dialogue[0]+x.dialogue[1]/2}" y="18" text-anchor="middle" font-family="var(--mono)" font-size="11" font-weight="600" fill="var(--ink)">DIALOGUE · ${buckets.dialogue.toLocaleString()}</text>`;
+  const presentX=x.dialogue[0]+x.dialogue[1];
+  svg+=`<path d="M ${presentX-7} ${Y+H+1} v9 h-13" fill="none" stroke="var(--dialogue-present)" stroke-width="1.5"/>`;
+  svg+=`<text x="${presentX-24}" y="${Y+H+22}" text-anchor="end" font-family="var(--mono)" font-size="10" font-weight="600" fill="var(--ink)">present beat · ${dialogueBeats.present.toLocaleString()}</text>`;
+
+  const labels={event:"EVENT",gnomic:"GNOMIC"};
+  for(const bucket of Object.keys(labels)){
+    const [left,w]=x[bucket];
+    if(w>120) svg+=`<text x="${left+w/2}" y="${Y+18}" text-anchor="middle" font-family="var(--mono)" font-size="11" font-weight="600" fill="var(--ink)">${labels[bucket]}</text><text x="${left+w/2}" y="${Y+31}" text-anchor="middle" font-family="var(--mono)" font-size="10" fill="var(--ink)">${buckets[bucket].toLocaleString()}</text>`;
+  }
+  svg+=`<line x1="${L}" x2="${W-R}" y1="${Y+H+10}" y2="${Y+H+10}" stroke="var(--line)"/>`;
+  document.getElementById("quote-chart").innerHTML=svg;
+
+  const item=(fill,text)=>`<span><i style="background:${fill}"></i>${text}</span>`;
+  document.getElementById("quote-legend").innerHTML=[
+    item(color.event,`Event ${buckets.event.toLocaleString()}`),
+    item("var(--dialogue-none)",`Dialogue — no narratorial beat ${dialogueBeats.none.toLocaleString()}`),
+    item("var(--dialogue-past)",`Dialogue — past-tense beat ${dialogueBeats.past.toLocaleString()}`),
+    item("var(--dialogue-present)",`Dialogue — present-tense beat ${dialogueBeats.present.toLocaleString()}`),
+    item(color.gnomic,`Gnomic ${buckets.gnomic.toLocaleString()}`),
+    item(color.paratext,`Paratext ${buckets.paratext.toLocaleString()}`),
+    item(color.unclear,`Unclear ${buckets.unclear.toLocaleString()}`),
+  ].join("");
 }
 
 function initExplorer(BOOKS){
@@ -582,10 +662,16 @@ function init(payload){
   window.__PILOTLBL=payload.pilotLbl; window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
   const periodView=document.getElementById("period-view");
   const rangeView=document.getElementById("range-view");
-  const renderPeriods=()=>drawChart(payload.periods[rangeView.value][periodView.value].filter(d=>d.cls));
+  const rangeLabels={all:"1931–2025",pilot:"1931–1995",main:"1996–2025"};
+  const renderPeriods=()=>{
+    document.getElementById("chart-title").textContent=
+      `Narrative Tense in NYT Bestsellers, ${rangeLabels[rangeView.value]}`;
+    drawChart(payload.periods[rangeView.value][periodView.value].filter(d=>d.cls));
+  };
   periodView.addEventListener("change",renderPeriods);
   rangeView.addEventListener("change",renderPeriods);
   renderPeriods();
+  drawQuoteChart(payload.quoteSummary);
   initExplorer(payload.books);
 }
 

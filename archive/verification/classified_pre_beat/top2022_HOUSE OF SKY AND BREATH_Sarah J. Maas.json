@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2022:HOUSE OF SKY AND BREATH|Sarah J. Maas",
+  "quotes": [
+    {"quote_id": "q07463", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = direct address to 'you' + explicit speech act ('I promise')"},
+    {"quote_id": "q07464", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = vocative 'Quinlan' + second-person address"},
+    {"quote_id": "q07465", "bucket": "event", "tense": "past", "note": "fails dialogue test (11 narrating words vs 5 spoken); past dialogue tag 'was...as he said'"},
+    {"quote_id": "q07466", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism generalizing beyond the story world"},
+    {"quote_id": "q07467", "bucket": "event", "tense": "past", "note": "narration majority (~22 words vs 6 spoken); 'broadened', 'had been' past"},
+    {"quote_id": "q07468", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = second-person direct address, no narrating frame"},
+    {"quote_id": "q07469", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = second-person address + joking register/speech act"},
+    {"quote_id": "q07470", "bucket": "event", "tense": "past", "note": "narration majority (~20 words vs 9 spoken); 'looked...said softly', 'It was'"},
+    {"quote_id": "q07471", "bucket": "event", "tense": "past", "note": "third-person past narration of a specific character at a specific moment"},
+    {"quote_id": "q07472", "bucket": "gnomic", "tense": "", "note": "present/habitual generalization ('will always', 'are their go-to methods'); no marks, no vocative"},
+    {"quote_id": "q07473", "bucket": "event", "tense": "past", "note": "narration majority (~26 words vs 8 spoken); 'stepped', 'smiled', 'said'"},
+    {"quote_id": "q07474", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = sustained second-person address ('you're', 'your scent'), explanatory speech register"},
+    {"quote_id": "q07475", "bucket": "event", "tense": "past", "note": "narration majority; 'were frozen', 'whispered', 'looked over', 'had never once heard'"},
+    {"quote_id": "q07476", "bucket": "event", "tense": "past", "note": "specific character's state, past ('What she wanted was')"},
+    {"quote_id": "q07477", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority (~19 spoken vs 5 narrating) beats the past dialogue tag"},
+    {"quote_id": "q07478", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = direct question to an addressee"},
+    {"quote_id": "q07479", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = first-person-plural declaration to an addressee; 'we' is specific, not universal, so not gnomic"},
+    {"quote_id": "q07480", "bucket": "dialogue", "tense": "", "note": "closing quotation mark present; second-person address, no narration"},
+    {"quote_id": "q07481", "bucket": "event", "tense": "past", "note": "third-person past narration; 'blinked', 'were'"},
+    {"quote_id": "q07482", "bucket": "dialogue", "tense": "", "note": "multi-speaker exchange, quotation-mark majority over the interleaved tags"},
+    {"quote_id": "q07483", "bucket": "gnomic", "tense": "", "note": "present-tense maxim generalizing beyond the story world"},
+    {"quote_id": "q07484", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = direct question, second-person address"},
+    {"quote_id": "q07485", "bucket": "dialogue", "tense": "", "note": "marks stripped; signal = vocative 'angel' + rhetorical question to an addressee"},
+    {"quote_id": "q07486", "bucket": "gnomic", "tense": "", "note": "fragment -- no finite main verb"},
+    {"quote_id": "q07487", "bucket": "dialogue", "tense": "", "note": "FLIP RISK: 7 spoken words vs 6 narrating; quotation-mark majority is razor-thin, would be event/past if counted the other way"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Third-person past narration throughout; all 8 event quotes are past, no present event-narration. Heavy dialogue share (13/25) and Goodreads has stripped quotation marks from most of it -- those were bucketed on vocatives, second-person address, and speech-act register rather than marks. 3 gnomic aphorisms plus 1 verbless fragment. q07487 is the only bucket that could flip on a recount."
+}

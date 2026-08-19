@@ -1,0 +1,29 @@
+{
+  "sample_id": "top2016:1834",
+  "quotes": [
+    {"quote_id": "q01290", "bucket": "gnomic", "tense": "", "note": "present-tense universal with second-person address ('one thing you can always count on')"},
+    {"quote_id": "q01291", "bucket": "gnomic", "tense": "", "note": "aphorism about grief"},
+    {"quote_id": "q01292", "bucket": "event", "tense": "present", "note": "frame is a specific mental act of the narrator now ('I find myself wondering'); generalizing content sits inside it"},
+    {"quote_id": "q01293", "bucket": "gnomic", "tense": "", "note": "proverb"},
+    {"quote_id": "q01294", "bucket": "event", "tense": "past", "note": "third-person past narration of a specific character ('she would go back and read the entry'); proleptic. Note 'the entry' -- diary material inside the book"},
+    {"quote_id": "q01295", "bucket": "event", "tense": "present", "note": "specific named character, narrator's present-tense interior voice"},
+    {"quote_id": "q01296", "bucket": "gnomic", "tense": "", "note": "present-tense universal, second person"},
+    {"quote_id": "q01297", "bucket": "gnomic", "tense": "", "note": "FLAG -- past/conditional-framed second-person universal about memory with no character and no event; contested past-tense gnomic, continuation of q01294's passage"},
+    {"quote_id": "q01298", "bucket": "event", "tense": "present", "note": "present-tense state of a specific character; reported-thought fragment"},
+    {"quote_id": "q01299", "bucket": "gnomic", "tense": "", "note": "habitual 'sometimes I have the feeling' framing a generalization about people and the South; bulk of the words generalize beyond the story world"},
+    {"quote_id": "q01300", "bucket": "event", "tense": "past", "note": "past-tense state of the narrator; recollection/backstory"},
+    {"quote_id": "q01301", "bucket": "event", "tense": "present", "note": "specific group's act of agreeing at a story-moment; the agreed content generalizes -- borderline, frame decides it"},
+    {"quote_id": "q01302", "bucket": "event", "tense": "present", "note": "indirect discourse, no quoted words -- narration of a specific speech act, so event not dialogue"},
+    {"quote_id": "q01303", "bucket": "event", "tense": "present", "note": "'It occurs to me' -- specific mental act now"},
+    {"quote_id": "q01304", "bucket": "event", "tense": "past", "note": "past-tense state of the narrator; recollection"},
+    {"quote_id": "q01305", "bucket": "event", "tense": "present", "note": "specific character action at a specific moment"},
+    {"quote_id": "q01306", "bucket": "event", "tense": "present", "note": "specific character action plus accompanying thought"},
+    {"quote_id": "q01307", "bucket": "event", "tense": "present", "note": "specific mental act now; reports another character's theory"},
+    {"quote_id": "q01308", "bucket": "event", "tense": "past", "note": "past-tense state of a specific character; recollection of someone gone"},
+    {"quote_id": "q01309", "bucket": "unclear", "tense": "", "note": "truncated mid-sentence snippet, medical-form register; insufficient context to bucket"},
+    {"quote_id": "q01310", "bucket": "event", "tense": "present", "note": "habitual present about the narrator specifically; no speech marker, could be dialogue -- specific-person referent decided it"},
+    {"quote_id": "q01311", "bucket": "event", "tense": "present", "note": "'I also appreciate' -- specific narrator state; generalizing content is reported, not asserted"}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "Prose fiction, first-person present-tense contemporary narration. 15 event quotes: 11 present / 4 past (73.3% present). The past minority is not noise -- q01300, q01304, q01308 are first-person recollection/backstory, and q01294 is a distinct THIRD-PERSON past strand referring to reading back 'the entry', suggesting an embedded diary or a separately narrated past section. So the split has a structural explanation on both counts (recollection strand plus a third-person past strand), not uncertainty. Very high gnomic share (6/22) -- this book's quote page is heavily aphorism-selected, exactly the source bias METHODOLOGY warns about; a two-bucket filter would have counted five of those six as present-tense evidence."
+}

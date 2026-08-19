@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2020:2978",
+  "quotes": [
+    {"quote_id": "q04803", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism generalizing beyond story world; no quotation marks, no vocative"},
+    {"quote_id": "q04804", "bucket": "event", "tense": "past", "note": "free indirect reflection; finite verb 'swallowed' is past, so not gnomic (gnomic is present-only). Borderline: reads as argument-by-image, but ties to story-world snake motif in q04810"},
+    {"quote_id": "q04805", "bucket": "event", "tense": "past", "note": "past-tense generalization in free indirect discourse -> event/past, not gnomic"},
+    {"quote_id": "q04806", "bucket": "event", "tense": "past", "note": "reported speech about a specific character, no quotation marks"},
+    {"quote_id": "q04807", "bucket": "event", "tense": "past", "note": "specific character state"},
+    {"quote_id": "q04808", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = first-person conversational quip, rhetorical question register"},
+    {"quote_id": "q04809", "bucket": "event", "tense": "past", "note": "past-modal maxim in free indirect discourse; past tense so not gnomic"},
+    {"quote_id": "q04810", "bucket": "event", "tense": "past", "note": "specific character state"},
+    {"quote_id": "q04811", "bucket": "event", "tense": "past", "note": "anchored to a specific story-moment ('that morning')"},
+    {"quote_id": "q04812", "bucket": "event", "tense": "past", "note": "free indirect generalization but past-anchored by 'It seemed to her'"},
+    {"quote_id": "q04813", "bucket": "gnomic", "tense": "", "note": "present-tense first-person-plural universal ('our bodies'); no marks, no address. Flip risk if misread as event/present"},
+    {"quote_id": "q04814", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism; possible dialogue but no marks, vocative or address. Either way non-diagnostic"},
+    {"quote_id": "q04815", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = second-person direct address, spoken register"},
+    {"quote_id": "q04816", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = vocative 'Noemi' plus direct address"},
+    {"quote_id": "q04817", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = first-person 'I' voice inside an otherwise third-person narration"},
+    {"quote_id": "q04818", "bucket": "event", "tense": "past", "note": "specific story-world referent"},
+    {"quote_id": "q04819", "bucket": "gnomic", "tense": "", "note": "present-tense universal about dreams; possible dialogue, no marks or address. Non-diagnostic either way"},
+    {"quote_id": "q04820", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = second-person direct address"},
+    {"quote_id": "q04821", "bucket": "dialogue", "tense": "", "note": "quotation marks present, two-speaker exchange; marks majority"},
+    {"quote_id": "q04822", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = vocative 'Noemi' plus sustained second-person address"},
+    {"quote_id": "q04823", "bucket": "event", "tense": "past", "note": "specific character state"},
+    {"quote_id": "q04824", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = vocative, imperatives, direct address"},
+    {"quote_id": "q04825", "bucket": "dialogue", "tense": "", "note": "quotation marks over majority of words; single narrating beat 'she protested' does not override"},
+    {"quote_id": "q04826", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = first-person conversational register, rhetorical question, 'I always figure'"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Third-person past narration centered on a single focalizing character, with heavy free indirect discourse. The free indirect passages generalize a great deal (marriage, women, dreams) but do so in past tense/past-modal, so they are event/past per the present-only gnomic rule rather than gnomic. Quotation marks survive in only 2 of 10 dialogue quotes; the rest were identified by vocative, second-person address, imperative, or first-person voice inside a third-person narrative. 10 event quotes, 10/10 past."
+}

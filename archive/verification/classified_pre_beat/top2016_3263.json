@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2016:3263",
+  "quotes": [
+    {"quote_id": "q01076", "bucket": "event", "tense": "past", "note": "past-tense second-person maxim about soldiering; not gnomic per present-tense rule; could equally be spoken -- no speech marker survives -- flagged"},
+    {"quote_id": "q01077", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01078", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = vocative ('Puller') plus sustained first/second-person direct address"},
+    {"quote_id": "q01079", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = 'as you know' direct address and colloquial register; truncated"},
+    {"quote_id": "q01080", "bucket": "event", "tense": "past", "note": "truncated at both ends; plainly third-person past narration"},
+    {"quote_id": "q01081", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01082", "bucket": "dialogue", "tense": "", "note": "quotation marks present; spoken words outnumber the narrative lead-in"},
+    {"quote_id": "q01083", "bucket": "event", "tense": "past", "note": "extended past exposition/deduction; closing question is past-tense FID"},
+    {"quote_id": "q01084", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = 'Yeah' discourse marker, imperative, first-person plural"},
+    {"quote_id": "q01085", "bucket": "event", "tense": "past", "note": "scene narration then past-tense summary of the story world ('Countries were at war') -- summary, not gnomic"},
+    {"quote_id": "q01086", "bucket": "paratext", "tense": "", "note": "acknowledgments (audiobook performers)"},
+    {"quote_id": "q01087", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech majority over two narrative beats"},
+    {"quote_id": "q01088", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech majority"},
+    {"quote_id": "q01089", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech majority over one action beat"},
+    {"quote_id": "q01090", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01091", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01092", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01093", "bucket": "event", "tense": "past", "note": "past narration plus verbless fragments"},
+    {"quote_id": "q01094", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = vocative ('soldier') and imperative direct address"},
+    {"quote_id": "q01095", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = vocative ('Agent Puller'). Aphoristic content but it is addressed speech, and dialogue takes precedence over gnomic"},
+    {"quote_id": "q01096", "bucket": "event", "tense": "past", "note": "truncated fragment but finite past verb ('seemed'), specific character"},
+    {"quote_id": "q01097", "bucket": "event", "tense": "past", "note": "truncated; past narration, specific characters"},
+    {"quote_id": "q01098", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech ~21 words vs ~19 narration -- near-even, called on quotation-mark majority. Would be event/past if flipped"},
+    {"quote_id": "q01099", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech majority"},
+    {"quote_id": "q01100", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Prose fiction, not verse. Third-person past-tense thriller with alternating Puller and Rogers strands and a very high dialogue share (11 of 25). Quotation marks survive in about half the dialogue quotes; the rest were called on vocatives ('Puller', 'soldier', 'Agent Puller') and direct address. No present-tense event narration anywhere. One paratext quote (audiobook acknowledgments)."
+}

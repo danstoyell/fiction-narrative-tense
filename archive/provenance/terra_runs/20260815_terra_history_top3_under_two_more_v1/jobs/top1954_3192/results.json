@@ -1,0 +1,21 @@
+{
+  "sample_id": "top1954:3192",
+  "quotes": [
+    {
+      "quote_id": "q00561",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": "Story-specific interior state and narrated summary; embedded generalizations remain event narration."
+    },
+    {
+      "quote_id": "q00562",
+      "bucket": "event",
+      "tense": "past",
+      "beat_tense": "",
+      "note": "Story-world summary followed by a past-tense action beat; lone closing quotation mark is not dialogue evidence."
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Validated: two input quotes are represented once each in source order with production-compatible fields."
+}

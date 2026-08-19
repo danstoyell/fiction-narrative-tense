@@ -1,0 +1,25 @@
+{
+  "sample_id": "top2018:1620",
+  "quotes": [
+    {"quote_id": "q03018", "bucket": "event", "tense": "past", "note": "Past thought attribution frames the passage."},
+    {"quote_id": "q03019", "bucket": "event", "tense": "past", "note": "Story-specific past reflection."},
+    {"quote_id": "q03020", "bucket": "gnomic", "tense": "", "note": "Timeless generalization."},
+    {"quote_id": "q03021", "bucket": "gnomic", "tense": "", "note": "General rhetorical questions."},
+    {"quote_id": "q03022", "bucket": "event", "tense": "past", "note": "Past thought attribution anchors the otherwise immediate reflection."},
+    {"quote_id": "q03023", "bucket": "event", "tense": "past", "note": "Past habitual speech attribution."},
+    {"quote_id": "q03024", "bucket": "gnomic", "tense": "", "note": "Generalized reflection on weight, time, and measurement."},
+    {"quote_id": "q03025", "bucket": "gnomic", "tense": "", "note": "Aphoristic generalization."},
+    {"quote_id": "q03026", "bucket": "unclear", "tense": "", "note": "Fragment lacks enough story-specific context to establish an event."},
+    {"quote_id": "q03027", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Quotation-marked utterance; no narrating beat."},
+    {"quote_id": "q03028", "bucket": "event", "tense": "past", "note": "Specific scene narrated in past tense."},
+    {"quote_id": "q03029", "bucket": "unclear", "tense": "", "note": "Isolated exclamation has no affirmative speech framing."},
+    {"quote_id": "q03030", "bucket": "event", "tense": "past", "note": "Specific characters and actions in past-tense narration."},
+    {"quote_id": "q03031", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational turn despite stripped quotation marks."},
+    {"quote_id": "q03032", "bucket": "event", "tense": "past", "note": "Specific character summary in past tense."},
+    {"quote_id": "q03033", "bucket": "event", "tense": "past", "note": "Past-tense story-world exposition."},
+    {"quote_id": "q03034", "bucket": "event", "tense": "past", "note": "Specific character state in past tense."},
+    {"quote_id": "q03035", "bucket": "event", "tense": "present", "note": "Story-specific first-person thought at the immediate moment; not spoken dialogue."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Event narration is predominantly past-tense; the single present event is an immediate, story-specific interior thought. Present aphorisms were excluded as gnomic."
+}

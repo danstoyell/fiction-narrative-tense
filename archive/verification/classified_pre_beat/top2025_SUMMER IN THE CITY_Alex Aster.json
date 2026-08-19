@@ -1,0 +1,33 @@
+{
+  "sample_id": "top2025:SUMMER IN THE CITY|Alex Aster",
+  "quotes": [
+    {"quote_id": "q10630", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; tag 'he says' is the minority"},
+    {"quote_id": "q10631", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; one 'He leans forward' beat does not override"},
+    {"quote_id": "q10632", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = direct address ('either of you') + imperative"},
+    {"quote_id": "q10633", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority across two speakers"},
+    {"quote_id": "q10634", "bucket": "gnomic", "tense": "", "note": "present-tense universal, second-person 'you'; 'I think' is parenthetical"},
+    {"quote_id": "q10635", "bucket": "gnomic", "tense": "", "note": "aphorism about love, generalizes beyond the story world"},
+    {"quote_id": "q10636", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic reflection on love, no specific story-moment"},
+    {"quote_id": "q10637", "bucket": "event", "tense": "past", "note": "past reporting verb 'She told me'; embedded content is gnomic but frame is a specific character's act; memory/backstory strand"},
+    {"quote_id": "q10638", "bucket": "event", "tense": "present", "note": "habitual present, but about the narrator specifically - does not generalize beyond the story world"},
+    {"quote_id": "q10639", "bucket": "event", "tense": "past", "note": "FLIP RISK: past backstory clause 'My mom had dreams' + present reflective coda 'It's weird'; tag question 'right?' could also read as dialogue"},
+    {"quote_id": "q10640", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q10641", "bucket": "event", "tense": "past", "note": "past narration about a specific character; 'like being strong meant' clauses are comparative, not extra past narration; backstory strand"},
+    {"quote_id": "q10642", "bucket": "event", "tense": "present", "note": "specific moment, simultaneous narration"},
+    {"quote_id": "q10643", "bucket": "event", "tense": "present", "note": "first-person credo/habitual present; specific to narrator, so not gnomic"},
+    {"quote_id": "q10644", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority, two speakers"},
+    {"quote_id": "q10645", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = vocative 'asshole' + spoken register"},
+    {"quote_id": "q10646", "bucket": "event", "tense": "past", "note": "mixed: past event 'One day, I woke up' + present-state coda 'I'm no longer'; metaphorical summary of narrator's own past"},
+    {"quote_id": "q10647", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q10648", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about men/women beyond the story world"},
+    {"quote_id": "q10649", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority, two speakers"},
+    {"quote_id": "q10650", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; 'I say' tag is the minority"},
+    {"quote_id": "q10651", "bucket": "gnomic", "tense": "", "note": "present-tense reflection on bookstores generally; 'if we need it' is a universal we"},
+    {"quote_id": "q10652", "bucket": "event", "tense": "present", "note": "'I wonder' - narrator's thought at the narrating moment"},
+    {"quote_id": "q10653", "bucket": "event", "tense": "present", "note": "habitual self-characterization of the narrator; character-specific, not gnomic"},
+    {"quote_id": "q10654", "bucket": "event", "tense": "present", "note": "specific moment, simultaneous narration"},
+    {"quote_id": "q10655", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about New York City"}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "First-person present-tense narration; the present event quotes report specific moments as they happen ('He kisses me until my head empties', 'Something in my chest tightens', 'I go to bed'). All four past event quotes are a recollection/backstory strand - a mother's told wisdom, a mother's dreams, a woman who 'locked herself like a prison', and the narrator's own 'One day, I woke up'. Two of those four (q10639, q10646) are internally mixed, pairing a past clause with a present-tense coda, and would push the split to 10/2 present if read the other way. Heavy dialogue and aphorism yield here is typical of the source's quotability bias; gnomic applied only to present-tense generalizations beyond the story world."
+}

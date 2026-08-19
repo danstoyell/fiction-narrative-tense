@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2020:4361",
+  "quotes": [
+    {"quote_id": "q04556", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = first/second-person direct address + spoken register ('it just like... happens')"},
+    {"quote_id": "q04557", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = first-person proposal to an addressee. 'went'/'crossed' are subjunctive, not past narration"},
+    {"quote_id": "q04558", "bucket": "event", "tense": "past", "note": "third-person past narration anchored to a moment ('Emira realized'); future-in-past 'she'd go' is projection, not present. Two quoted snippets are a small minority"},
+    {"quote_id": "q04559", "bucket": "event", "tense": "past", "note": "past-tense state of a specific character"},
+    {"quote_id": "q04560", "bucket": "event", "tense": "past", "note": "iterative past narration about a specific character; iterative/summary = event per METHODOLOGY"},
+    {"quote_id": "q04561", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority (marks partly degraded to apostrophes) + tag 'she said'"},
+    {"quote_id": "q04562", "bucket": "event", "tense": "past", "note": "future-in-past narration about specific characters; source text garbled ('Emira when Emira')"},
+    {"quote_id": "q04563", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority + tag 'she said'"},
+    {"quote_id": "q04564", "bucket": "event", "tense": "past", "note": "past-tense narration of a specific character's recurring reaction; embedded song titles are not speech"},
+    {"quote_id": "q04565", "bucket": "event", "tense": "past", "note": "FLAG: freestanding past-tense simile. Not the gnomic past exception — New York is a story-world referent, so this is past-tense exposition about the story world"},
+    {"quote_id": "q04566", "bucket": "event", "tense": "past", "note": "past-tense summary about a specific character"},
+    {"quote_id": "q04567", "bucket": "event", "tense": "past", "note": "past progressive, specific character"},
+    {"quote_id": "q04568", "bucket": "gnomic", "tense": "", "note": "present-tense universal ('Any mom who...'). Colloquial 'to me' hints unmarked speech, but no vocative or addressee and the payload generalizes beyond the story world; non-diagnostic either way"},
+    {"quote_id": "q04569", "bucket": "event", "tense": "past", "note": "past-tense exposition and character knowledge; scare-quoted phrases are not speech"},
+    {"quote_id": "q04570", "bucket": "event", "tense": "past", "note": "fails dialogue test — roughly 22 spoken words against 70 narrating; past narration and free indirect thought dominate"},
+    {"quote_id": "q04571", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; 'she tried to explain' is a single interposed beat"},
+    {"quote_id": "q04572", "bucket": "event", "tense": "past", "note": "fails dialogue test — 14 marked words against 29 of narration plus untagged free direct thought; past tags 'was shocked', 'wondered' govern"},
+    {"quote_id": "q04573", "bucket": "event", "tense": "past", "note": "fails dialogue test — 5 spoken words against 21 narrating; past narration governs"},
+    {"quote_id": "q04574", "bucket": "event", "tense": "past", "note": "past main clause about specific characters ('The messages... were'); the second-person 'as you try to' relative clause is an embedded generalization, not the frame"},
+    {"quote_id": "q04575", "bucket": "dialogue", "tense": "", "note": "FLIP RISK: near-tie on quotation-mark majority, roughly 20 spoken words against 19 narrating. Precedence rule awards it to dialogue by one word; if flipped it would be event/past, so the book's direction is unaffected"},
+    {"quote_id": "q04576", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = heavily colloquial spoken register ('who's like, super hyped'). Present tense in a book whose narration is uniformly past, which argues against reading it as narration"},
+    {"quote_id": "q04577", "bucket": "unclear", "tense": "", "note": "syntactic fragment opening 'Or that' — the governing main clause and its tense fall outside the excerpt; colloquial 'gonna' suggests embedded speech or thought. Abstaining rather than assigning a present tense that may not be the narration's"},
+    {"quote_id": "q04578", "bucket": "event", "tense": "past", "note": "fragment of a larger sentence but tense is visible and past ('was', 'held', 'were trusted'); specific character"},
+    {"quote_id": "q04579", "bucket": "dialogue", "tense": "", "note": "marks absent; first-person present self-questioning — speech or free direct thought, the same untagged device seen inside q04572, not narration"},
+    {"quote_id": "q04580", "bucket": "dialogue", "tense": "", "note": "marks absent; signal = first-person present plus imperative 'give it' addressed to someone"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Clean third-person past narration centred on Emira, with Alix/Alex, Briar and Kelley as recurring figures. Event yield is high (14 of 25) and unanimously past — no present-tense narration survives once dialogue is separated out, which is the near-unfakeable evidence pattern METHODOLOGY describes for past. Unusually low gnomic contamination for this source: only 1 of 25. Quotation marks survive on 5 quotes (some degraded to single apostrophes by the scrape), so the remaining dialogue was assigned from direct address, vocative-free second person, imperatives, and colloquial spoken register. Several quotes mix speech and narration and were resolved by word-count on the quotation-mark majority rule: q04570, q04572 and q04573 fall clearly to event; q04575 is a 20-to-19 near-tie awarded to dialogue and is the one genuine flip risk, though flipping it would only add another past event quote. Every present-tense verb in the set sits inside speech, free direct thought, an embedded generalization (q04574), or the abstained fragment q04577."
+}

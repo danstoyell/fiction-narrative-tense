@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2019:5026",
+  "quotes": [
+    {"quote_id": "q03400", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "quotation-mark majority; tagged 'Maeve said' beat is minority"},
+    {"quote_id": "q03401", "bucket": "gnomic", "tense": "", "note": "present-tense second-person universal ('there are a few times in life when you...')"},
+    {"quote_id": "q03402", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03403", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03404", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03405", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no marks survived; direct-address question to an interlocutor -- signal: second-person question form"},
+    {"quote_id": "q03406", "bucket": "event", "tense": "past", "note": "retrospective summary, specific narrator"},
+    {"quote_id": "q03407", "bucket": "event", "tense": "past", "note": "indirect/reported speech with past tag, no marks -- fails dialogue test, iterative summary"},
+    {"quote_id": "q03408", "bucket": "gnomic", "tense": "", "note": "present-tense second-person maxim, no marks or speech markers; could be spoken advice"},
+    {"quote_id": "q03409", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03410", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no marks; signal: 'you know' conversational speech marker"},
+    {"quote_id": "q03411", "bucket": "event", "tense": "past", "note": "past-tense summary about the story world (metaphor has story-world referent)"},
+    {"quote_id": "q03412", "bucket": "event", "tense": "past", "note": "simile but with story-world referent ('we', the house, the parents) -- not gnomic"},
+    {"quote_id": "q03413", "bucket": "event", "tense": "past", "note": "past-perfect main clause; 'takes you forward' is a relative-clause metaphor"},
+    {"quote_id": "q03414", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03415", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no marks; signal: vocative 'Maeve' plus imperatives"},
+    {"quote_id": "q03416", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03417", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no marks; signal: imperative 'remember that' plus colloquial register 'You gotta'"},
+    {"quote_id": "q03418", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03419", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no marks; direct address about the addressee's specific state -- speech, not a universal"},
+    {"quote_id": "q03420", "bucket": "event", "tense": "past", "note": "'you wouldn't think' aside is conditional, main narration past"},
+    {"quote_id": "q03421", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03422", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q03423", "bucket": "gnomic", "tense": "", "note": "present-tense second-person aphorism"},
+    {"quote_id": "q03424", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "First-person retrospective narration throughout; narrator looks back on childhood and a father, frequently marking the distance ('after so many years', 'I had never thought about him as a child'). All 16 event quotes past; zero present event-narration. Quotation marks survived on only one quote (q03400), so dialogue elsewhere was identified by vocatives, imperatives, direct-address questions, 'you know', and colloquial register -- recorded per quote. Three gnomic quotes are all present-tense second-person universals; no past-tense quote was filed gnomic."
+}

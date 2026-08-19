@@ -1,0 +1,45 @@
+# Consolidated dataset
+
+Two flat CSVs covering every classified book across all three frames (pilot 1931–1995,
+hist 1996–2015, modern 2016–2025). **Generated, not authoritative** — regenerate with
+`python3 build_dataset.py` from the repo root. Never hand-edit these files; the source of
+truth is the per-frame fragment CSVs and `classified_*/` directories documented in
+[`../DATASET.md`](../DATASET.md), which `build_report.py` reads directly. This pair exists
+because that fragmentation isn't a convenient shape to consume the dataset in — these are a
+derived, presentable view of the same data, kept in sync by reusing `build_report.py`'s own
+`load()` function rather than re-implementing the join.
+
+For what the classification judgments mean, see [`../../METHODOLOGY.md`](../../METHODOLOGY.md).
+
+## `books.csv` — one row per book
+
+| Column | Meaning |
+|---|---|
+| `sample_id` | Unique book ID, e.g. `top2021:PROJECT HAIL MARY` |
+| `frame` | `pilot` (1931–1995, top 3/yr) · `hist` (1996–2015, top ~10/yr) · `modern` (2016–2025, top 30/yr) |
+| `year`, `title`, `author` | |
+| `label` | Display class: `PAST`, `PRESENT`, `OTHER` (dual-narration or excluded-verse), or `ABSTAIN` |
+| `raw_label` | Finer-grained: `PAST`, `PRESENT`, `DUAL`, `EXCLUDED-verse`, `INSUFFICIENT`, or `UNCLEAR` |
+| `confidence` | `high`, `med`, `CONFLICT` (structural read disagrees with the quote ratio), or `manual` (a manual override applied) |
+| `narrating_situation` | The classifying agent's holistic read: `retrospective`, `simultaneous`, `dual`, or `unclear` — the primary signal `raw_label` is derived from |
+| `agent_note` | Free-text note from the classifying agent |
+| `why` | One-line explanation of the label (ratio + situation) |
+| `n_quotes` | Total quotes fetched for this book (all buckets) |
+| `event_past`, `event_present` | Tense counts on `event`-bucket quotes only |
+| `beat_past`, `beat_present` | `beat_tense` counts on `dialogue`-bucket quotes (narrator's tag/action-beat tense, pooled with event counts to produce the label per `METHODOLOGY.md` §4b) |
+| `bucket_event`, `bucket_dialogue`, `bucket_gnomic`, `bucket_paratext`, `bucket_unclear` | Quote counts by bucket |
+
+## `quotes.csv` — one row per quote
+
+| Column | Meaning |
+|---|---|
+| `sample_id`, `frame`, `year`, `title` | Joins back to `books.csv` |
+| `quote_id` | Unique within a book |
+| `bucket` | `event`, `dialogue`, `gnomic`, `paratext`, or `unclear` |
+| `tense` | `past`/`present`, set only when `bucket == event` |
+| `beat_tense` | `past`/`present`/`none`, set only when `bucket == dialogue` |
+| `note` | Classifying agent's per-quote note |
+| `quote_text` | The excerpt itself, verbatim |
+
+`quote_text` is an in-copyright excerpt from the source novel, included here because most of
+the existing per-frame quote CSVs in `data/` already commit quote text the same way.

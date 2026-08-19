@@ -1,0 +1,29 @@
+{
+  "sample_id": "top1943:5439",
+  "quotes": [
+    {"quote_id": "q00239", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00240", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00241", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00242", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q00243", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00244", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00245", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00246", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00247", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00248", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00249", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00250", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00251", "bucket": "event", "tense": "present", "beat_tense": "", "note": ""},
+    {"quote_id": "q00252", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00253", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00254", "bucket": "event", "tense": "present", "beat_tense": "", "note": ""},
+    {"quote_id": "q00255", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00256", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00257", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00258", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00259", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00260", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Event narration is predominantly past; the present-tense first-person excerpts are story-specific reflections."
+}

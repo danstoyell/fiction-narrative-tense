@@ -1,0 +1,167 @@
+{
+  "sample_id": "top2002:5722",
+  "quotes": [
+    {
+      "quote_id": "q00940",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q00941",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q00942",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00943",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00944",
+      "bucket": "event",
+      "tense": "past",
+      "note": "Story-specific recounting controls despite the closing generalization."
+    },
+    {
+      "quote_id": "q00945",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00946",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00947",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "Past-tense universal aphorism with no story-world referent."
+    },
+    {
+      "quote_id": "q00948",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q00949",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": ""
+    },
+    {
+      "quote_id": "q00950",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q00951",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00952",
+      "bucket": "event",
+      "tense": "past",
+      "note": "Extended story-specific recounting; present passages describe the narrator's current state."
+    },
+    {
+      "quote_id": "q00953",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q00954",
+      "bucket": "event",
+      "tense": "past",
+      "note": "Narration outweighs the short spoken exchanges."
+    },
+    {
+      "quote_id": "q00955",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00956",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00957",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q00958",
+      "bucket": "unclear",
+      "tense": "",
+      "note": "Unanchored verse provides no affirmative evidence of character speech or story event."
+    },
+    {
+      "quote_id": "q00959",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00960",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00961",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00962",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00963",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00964",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00965",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Classification is based solely on supplied quote text. Event narration is predominantly retrospective; q00952 also includes the narrator's present-state description."
+}

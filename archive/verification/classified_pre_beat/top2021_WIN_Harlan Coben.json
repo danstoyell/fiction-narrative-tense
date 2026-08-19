@@ -1,0 +1,115 @@
+{
+ "sample_id": "top2021:WIN|Harlan Coben",
+ "quotes": [
+  {
+   "quote_id": "q06542",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism about relationships; generalizes beyond story world"
+  },
+  {
+   "quote_id": "q06543",
+   "bucket": "event",
+   "tense": "present",
+   "note": "essayistic frame but turns on a specific character state -- 'My father suffers from this malady'; FLIP RISK, could read gnomic"
+  },
+  {
+   "quote_id": "q06544",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q06545",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic universal about memory; 'we all see what we want to see'"
+  },
+  {
+   "quote_id": "q06546",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal, direct address to reader"
+  },
+  {
+   "quote_id": "q06547",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority (long Sadie speech); narration beats are present tense ('Sadie leans forward', 'I ask')"
+  },
+  {
+   "quote_id": "q06548",
+   "bucket": "event",
+   "tense": "present",
+   "note": "iterative first-person self-characterization of the narrator, not a general truth; one embedded universal ('a woman will sense')"
+  },
+  {
+   "quote_id": "q06549",
+   "bucket": "event",
+   "tense": "present",
+   "note": "reflection anchored to a specific character's handwriting ('especially hers'); FLIP RISK, opening clause is a generalization about penmanship"
+  },
+  {
+   "quote_id": "q06550",
+   "bucket": "event",
+   "tense": "past",
+   "note": "fails dialogue test; past dialogue tag 'she said at the press conference' plus past exposition 'Vanessa Hogan was a young widow'; narrator's commentary is gnomic present but the narration is past"
+  },
+  {
+   "quote_id": "q06551",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past summary about the story world ('my father and golf were able to convey'), closing aphorism attached"
+  },
+  {
+   "quote_id": "q06552",
+   "bucket": "event",
+   "tense": "present",
+   "note": "iterative first-person self-characterization ('I like violence', 'I fight whenever I can')"
+  },
+  {
+   "quote_id": "q06553",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q06554",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "essayistic reflection, generalizes beyond story world"
+  },
+  {
+   "quote_id": "q06555",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority, narrow (~23 spoken vs ~19 narrating words); present-tense tags 'I tell him'"
+  },
+  {
+   "quote_id": "q06556",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism about loyalty"
+  },
+  {
+   "quote_id": "q06557",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal about self-interest"
+  },
+  {
+   "quote_id": "q06558",
+   "bucket": "event",
+   "tense": "present",
+   "note": "iterative first-person self-characterization; no quote marks and speaker may not be the main narrator ('my relationships with men'), but no vocative/speech marker to justify dialogue"
+  },
+  {
+   "quote_id": "q06559",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "anaphoric aphorism"
+  }
+ ],
+ "narrating_situation": "simultaneous",
+ "agent_note": "First-person narrator, heavily aphoristic (9 of 18 quotes are gnomic -- this source is maximally biased for this book). Scene narration that survives is present tense: 'I ask', 'I say', 'I tell him', 'Sadie leans forward'. Past strand is backstory/exposition (childhood golf with father) and a reported press conference. Only 7 event quotes, below the >=8 present bar; 5 present / 2 past. Flip-risk quotes q06543 and q06549 -- both event/present calls that could read gnomic; if both flipped, event count drops to 5 with 3 present / 2 past."
+}

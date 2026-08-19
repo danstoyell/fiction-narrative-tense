@@ -1,0 +1,26 @@
+{
+  "sample_id": "top1990:4734",
+  "quotes": [
+    {
+      "quote_id": "q03131",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "none",
+      "note": "Prayer-like direct address."
+    },
+    {
+      "quote_id": "q03132",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q03133",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

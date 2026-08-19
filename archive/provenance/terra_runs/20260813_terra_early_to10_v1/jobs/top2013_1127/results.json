@@ -1,0 +1,25 @@
+{
+  "sample_id": "top2013:1127",
+  "quotes": [
+    {"quote_id": "q00751", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00752", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00753", "bucket": "unclear", "tense": "", "note": "Speech versus narration is unresolved in this contextless prediction."},
+    {"quote_id": "q00754", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00755", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00756", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00757", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00758", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00759", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q00760", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00761", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00762", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00763", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00764", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00765", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00766", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00767", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00768", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

@@ -1,0 +1,26 @@
+{
+  "sample_id": "top2019:2795",
+  "quotes": [
+    {"quote_id": "q04130", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "marks stripped; signal = vocative (dear) + first-person plural address"},
+    {"quote_id": "q04131", "bucket": "gnomic", "tense": "", "note": "FLIP RISK: second-person universal, present tense; no speech marker or vocative, but could be a line of speech"},
+    {"quote_id": "q04132", "bucket": "event", "tense": "past", "note": "main clause 'I marveled' = specific narrator at specific moment; embedded generalization is subordinate"},
+    {"quote_id": "q04133", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "quotation-mark majority (9 spoken words vs 2-word tag) beats the dialogue-tag rule"},
+    {"quote_id": "q04134", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism, true outside the book"},
+    {"quote_id": "q04135", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "outer marks lost; signal = imperatives, first-person vow (I swear), oratorical register"},
+    {"quote_id": "q04136", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "marks absent; signal = imperative direct address (keep to your reading)"},
+    {"quote_id": "q04137", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "quotation-mark majority; vocative (Mother); embedded quoted maxim stays inside the speech"},
+    {"quote_id": "q04138", "bucket": "gnomic", "tense": "", "note": "fragment (noun phrase, no finite main verb); second-person general"},
+    {"quote_id": "q04139", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "marks absent; signal = vocative (Varinka) + direct question"},
+    {"quote_id": "q04140", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "quotation-mark majority; two-speaker exchange"},
+    {"quote_id": "q04141", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "quotation-mark majority (15 spoken words vs 8 narrating) beats the two tags; Latin is speech within the novel, not a leaked translation, so not paratext"},
+    {"quote_id": "q04142", "bucket": "paratext", "tense": "", "note": "FLIP RISK: author's note / historical afterword -- present-day real-world locations addressed to the reader; discarded rather than counted as present-tense narration"},
+    {"quote_id": "q04143", "bucket": "gnomic", "tense": "", "note": "aphorism"},
+    {"quote_id": "q04144", "bucket": "unclear", "tense": "", "note": "modal 'should have been'; no speech marker; neither event narration nor present-tense generalization -- abstaining"},
+    {"quote_id": "q04145", "bucket": "unclear", "tense": "", "note": "bare question; could be dialogue or free indirect thought; conditional 'would' is not past narration per spec -- abstaining"},
+    {"quote_id": "q04146", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "marks partial; signal = speech marker 'I quote' + oratorical register"},
+    {"quote_id": "q04147", "bucket": "event", "tense": "past", "note": "past-tense exposition about the story world (the narrator's home)"},
+    {"quote_id": "q04148", "bucket": "event", "tense": "past", "note": "past-tense narration, specific moment (victory flags fluttered)"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Heavily dialogue-dominated quote page (9 of 19) -- Goodreads selected the speeches. Only 3 event-narration quotes survive, all past, which is below the >=5 threshold; label.py will read this as insufficient rather than high-confidence past. Quotation marks survive on about half the quotes; for the rest I used vocatives, imperatives, and speech markers, recorded per quote. q04142 is the one that could move the count: it is present tense and I filed it paratext as an afterword about real present-day places, not narration."
+}

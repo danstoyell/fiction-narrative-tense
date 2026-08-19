@@ -1,0 +1,109 @@
+{
+ "sample_id": "top2022:THE 6:20 MAN|David Baldacci",
+ "quotes": [
+  {
+   "quote_id": "q07237",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism; present-tense generalization beyond story world"
+  },
+  {
+   "quote_id": "q07238",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "no quote marks; vocative 'Devine' + 'What I'm offering you' -> direct address"
+  },
+  {
+   "quote_id": "q07239",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q07240",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism; generalization about money/government beyond story world"
+  },
+  {
+   "quote_id": "q07241",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal"
+  },
+  {
+   "quote_id": "q07242",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority; two speakers, tag 'Montgomery said' is minority"
+  },
+  {
+   "quote_id": "q07243",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense characterization of a specific character"
+  },
+  {
+   "quote_id": "q07244",
+   "bucket": "event",
+   "tense": "past",
+   "note": "free indirect past musing + 'He had come out of the theater'; gnomic is present-only"
+  },
+  {
+   "quote_id": "q07245",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority; IP-class exchange, tag 'asked Devine' is minority"
+  },
+  {
+   "quote_id": "q07246",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "no quote marks; vocative 'soldier' -> direct address"
+  },
+  {
+   "quote_id": "q07247",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "no quote marks; 'we both' + conversational register; non-diagnostic either way"
+  },
+  {
+   "quote_id": "q07248",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal; no marks or speech markers"
+  },
+  {
+   "quote_id": "q07249",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific story-moment scene narration"
+  },
+  {
+   "quote_id": "q07250",
+   "bucket": "event",
+   "tense": "past",
+   "note": "FLIP RISK: habitual past with generalized 'you'; gnomic is present-only so filed event/past"
+  },
+  {
+   "quote_id": "q07251",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific story-moment scene narration"
+  },
+  {
+   "quote_id": "q07252",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "aphorism"
+  },
+  {
+   "quote_id": "q07253",
+   "bucket": "event",
+   "tense": "past",
+   "note": "specific past action"
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Third-person past thriller narration. Heavy aphorism load (6 gnomic of 17) typical of the Goodreads source. Event quotes 6/6 past, no present event-narration at all. Quotation marks survive in this book's quotes, so mark-majority drove the dialogue calls; two unmarked quotes (q07238, q07246) were called dialogue on vocative evidence. q07250 is the one flip-risk: habitual past second-person that a loose gnomic test would misfile."
+}

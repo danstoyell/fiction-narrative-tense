@@ -1,0 +1,27 @@
+{
+  "sample_id": "top2021:GOLDEN GIRL|Elin Hilderbrand",
+  "quotes": [
+    {"quote_id": "q06042", "bucket": "gnomic", "tense": "", "note": "Attributed maxim; no story-world event."},
+    {"quote_id": "q06043", "bucket": "event", "tense": "present", "note": "Story-specific statement about Vivi."},
+    {"quote_id": "q06044", "bucket": "event", "tense": "present", "note": "Story-specific prospective state for Willa."},
+    {"quote_id": "q06045", "bucket": "gnomic", "tense": "", "note": "General statement about sisters."},
+    {"quote_id": "q06046", "bucket": "unclear", "tense": "", "note": "Noun-phrase fragment without enough context to identify narration or speech."},
+    {"quote_id": "q06047", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "Spoken address to Andrea; present-tense attribution."},
+    {"quote_id": "q06048", "bucket": "event", "tense": "present", "note": "Story-specific interior/prospective narration."},
+    {"quote_id": "q06049", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "Extended character speech; present-tense action beat."},
+    {"quote_id": "q06050", "bucket": "gnomic", "tense": "", "note": "Truncated generalization about television."},
+    {"quote_id": "q06051", "bucket": "event", "tense": "present", "note": "Story-specific prospective narration."},
+    {"quote_id": "q06052", "bucket": "event", "tense": "present", "note": "Truncated but story-specific habitual narration about Willa."},
+    {"quote_id": "q06053", "bucket": "event", "tense": "past", "note": "Specific characters' recurring past activities."},
+    {"quote_id": "q06054", "bucket": "event", "tense": "past", "note": "Specific past events involving Vivi and Brett."},
+    {"quote_id": "q06055", "bucket": "event", "tense": "past", "note": "Past exposition about Vivi."},
+    {"quote_id": "q06056", "bucket": "gnomic", "tense": "", "note": "General statement about sisters."},
+    {"quote_id": "q06057", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Direct address with no narrating beat."},
+    {"quote_id": "q06058", "bucket": "event", "tense": "past", "note": "First-person, story-specific recollection; no affirmative speech framing."},
+    {"quote_id": "q06059", "bucket": "event", "tense": "present", "note": "Story-specific statement of Vivi's current literary preference."},
+    {"quote_id": "q06060", "bucket": "gnomic", "tense": "", "note": "General definition; closing question lacks affirmative speech framing."},
+    {"quote_id": "q06061", "bucket": "event", "tense": "past", "note": "Specific past hospital event."}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "Present-time story-specific narration is accompanied by past recollection and exposition about Vivi; no overall book label calculated."
+}

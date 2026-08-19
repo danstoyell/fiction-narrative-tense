@@ -1,0 +1,212 @@
+level,agent_id,sample_id,quote_id,field,sonnet,terra
+quote,job_top2016_116,top2016:116,q00595,bucket,dialogue,event
+quote,job_top2016_116,top2016:116,q00599,bucket,gnomic,event
+quote,job_top2016_116,top2016:116,q00601,bucket,event,unclear
+quote,job_top2016_116,top2016:116,q00635,bucket,gnomic,dialogue
+quote,job_top2016_116,top2016:116,q00645,bucket,event,gnomic
+quote,job_top2016_1834,top2016:1834,q01295,bucket,event,dialogue
+quote,job_top2016_1834,top2016:1834,q01299,bucket,gnomic,dialogue
+quote,job_top2016_1834,top2016:1834,q01301,bucket,event,dialogue
+quote,job_top2016_1834,top2016:1834,q01309,bucket,unclear,dialogue
+quote,job_top2016_1834,top2016:1834,q01310,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01595,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01601,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01607,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01608,event_tense,present,past
+quote,job_top2017_2441,top2017:2441,q01609,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01610,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01614,bucket,gnomic,event
+quote,job_top2017_2441,top2017:2441,q01616,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01618,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01621,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01626,bucket,event,dialogue
+quote,job_top2017_2441,top2017:2441,q01636,bucket,event,dialogue
+book,job_top2017_2441,top2017:2441,,narrating_situation,dual,retrospective
+book,job_top2017_2441,top2017:2441,,derived_label,DUAL,PAST
+quote,job_top2017_640,top2017:640,q01454,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01456,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01457,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01458,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01459,bucket,event,dialogue
+quote,job_top2017_640,top2017:640,q01462,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01463,bucket,event,gnomic
+quote,job_top2017_640,top2017:640,q01469,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01471,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01472,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01474,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01479,bucket,gnomic,dialogue
+quote,job_top2017_640,top2017:640,q01480,beat_tense,present,none
+quote,job_top2017_640,top2017:640,q01487,bucket,event,dialogue
+quote,job_top2017_640,top2017:640,q01488,event_tense,present,past
+quote,job_top2017_640,top2017:640,q01492,bucket,unclear,event
+quote,job_top2017_640,top2017:640,q01495,bucket,event,dialogue
+quote,job_top2017_640,top2017:640,q01497,bucket,gnomic,dialogue
+quote,job_top2017_2897,top2017:2897,q02193,bucket,event,dialogue
+quote,job_top2017_2897,top2017:2897,q02197,bucket,gnomic,unclear
+quote,job_top2017_2897,top2017:2897,q02213,bucket,event,dialogue
+quote,job_top2017_2897,top2017:2897,q02237,bucket,dialogue,event
+quote,job_top2018_3244,top2018:3244,q02721,bucket,event,gnomic
+quote,job_top2018_3244,top2018:3244,q02723,bucket,event,gnomic
+quote,job_top2018_3244,top2018:3244,q02750,bucket,gnomic,dialogue
+quote,job_top2018_3244,top2018:3244,q02767,bucket,event,dialogue
+quote,job_top2018_3244,top2018:3244,q02780,bucket,event,dialogue
+quote,job_top2018_3244,top2018:3244,q02782,bucket,gnomic,dialogue
+quote,job_top2018_5322,top2018:5322,q02474,bucket,event,gnomic
+quote,job_top2018_5322,top2018:5322,q02477,bucket,gnomic,dialogue
+quote,job_top2018_5322,top2018:5322,q02481,bucket,gnomic,dialogue
+quote,job_top2018_5322,top2018:5322,q02484,bucket,gnomic,dialogue
+quote,job_top2018_5322,top2018:5322,q02498,bucket,event,gnomic
+quote,job_top2018_5322,top2018:5322,q02510,bucket,event,gnomic
+quote,job_top2018_5322,top2018:5322,q02517,bucket,gnomic,dialogue
+quote,job_top2018_5322,top2018:5322,q02525,bucket,event,dialogue
+quote,job_top2018_5322,top2018:5322,q02528,bucket,event,dialogue
+quote,job_top2018_5322,top2018:5322,q02532,bucket,event,dialogue
+quote,job_top2018_5322,top2018:5322,q02538,bucket,gnomic,dialogue
+quote,job_top2018_5322,top2018:5322,q02548,bucket,event,gnomic
+quote,job_top2018_5322,top2018:5322,q02549,bucket,event,dialogue
+quote,job_top2019_5026,top2019:5026,q03408,bucket,gnomic,dialogue
+quote,job_top2019_5026,top2019:5026,q03412,bucket,event,dialogue
+quote,job_top2019_5026,top2019:5026,q03423,bucket,gnomic,dialogue
+quote,job_top2019_2795,top2019:2795,q04144,bucket,unclear,event
+quote,job_top2019_2795,top2019:2795,q04145,bucket,unclear,event
+quote,job_top2020_4687,top2020:4687,q05307,bucket,dialogue,gnomic
+quote,job_top2020_4687,top2020:4687,q05313,bucket,event,dialogue
+quote,job_top2020_4687,top2020:4687,q05314,bucket,gnomic,dialogue
+quote,job_top2020_4687,top2020:4687,q05322,bucket,gnomic,dialogue
+quote,job_top2020_4687,top2020:4687,q05324,bucket,gnomic,dialogue
+quote,job_top2020_4687,top2020:4687,q05326,bucket,event,dialogue
+quote,job_top2020_4687,top2020:4687,q05340,bucket,gnomic,dialogue
+quote,job_top2020_4687,top2020:4687,q05351,bucket,gnomic,dialogue
+quote,job_top2020_4687,top2020:4687,q05352,bucket,gnomic,dialogue
+quote,job_top2020_1718,top2020:1718,q05096,bucket,gnomic,unclear
+quote,job_top2020_1718,top2020:1718,q05099,bucket,gnomic,dialogue
+quote,job_top2020_1718,top2020:1718,q05100,bucket,unclear,dialogue
+quote,job_top2020_414,top2020:414,q04322,bucket,gnomic,event
+quote,job_top2020_414,top2020:414,q04325,event_tense,present,past
+quote,job_top2020_414,top2020:414,q04336,bucket,unclear,dialogue
+quote,job_top2020_414,top2020:414,q04343,bucket,unclear,dialogue
+quote,job_top2020_414,top2020:414,q04347,bucket,paratext,gnomic
+quote,job_top2020_414,top2020:414,q04360,event_tense,present,past
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06062,bucket,gnomic,dialogue
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06077,bucket,gnomic,dialogue
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06079,bucket,dialogue,event
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06081,bucket,gnomic,dialogue
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06087,bucket,gnomic,event
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06089,bucket,event,dialogue
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06100,bucket,event,dialogue
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06112,bucket,gnomic,dialogue
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06118,bucket,gnomic,dialogue
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06133,bucket,event,gnomic
+quote,job_top2021_APPLES_NEVER_FALL_Liane_Moriarty,top2021:APPLES NEVER FALL|Liane Moriarty,q06141,beat_tense,past,none
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06002,bucket,event,dialogue
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06005,bucket,gnomic,event
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06011,bucket,unclear,event
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06014,bucket,event,dialogue
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06020,bucket,event,dialogue
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06025,bucket,paratext,event
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06026,bucket,paratext,event
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06032,bucket,dialogue,event
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06036,bucket,gnomic,dialogue
+quote,job_top2021_THE_PAPER_PALACE_Miranda_Cowley_Heller,top2021:THE PAPER PALACE|Miranda Cowley Heller,q06037,bucket,event,dialogue
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05899,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05900,bucket,unclear,event
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05901,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05902,bucket,unclear,event
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05903,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05904,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05905,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05906,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05907,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05908,bucket,unclear,event
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05909,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05910,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05911,bucket,unclear,gnomic
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05912,bucket,unclear,event
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05913,bucket,unclear,event
+quote,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,q05914,bucket,unclear,gnomic
+book,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,,narrating_situation,unclear,simultaneous
+book,job_top2021_THE_HILL_WE_CLIMB_Amanda_Gorman,top2021:THE HILL WE CLIMB|Amanda Gorman,,derived_label,EXCLUDED-verse,PRESENT
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07066,bucket,unclear,gnomic
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07067,bucket,unclear,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07070,bucket,event,gnomic
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07071,bucket,unclear,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07074,bucket,gnomic,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07075,bucket,gnomic,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07076,bucket,event,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07077,bucket,unclear,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07078,bucket,unclear,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07079,bucket,gnomic,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07081,bucket,unclear,dialogue
+quote,job_top2022_RUN__ROSE__RUN_Dolly_Parton_and_James_Patters,"top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",q07088,bucket,unclear,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06869,bucket,gnomic,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06870,bucket,gnomic,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06875,bucket,gnomic,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06876,bucket,gnomic,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06877,bucket,event,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06879,bucket,gnomic,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06880,bucket,event,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06881,bucket,event,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06883,bucket,gnomic,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06885,bucket,gnomic,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06887,bucket,event,dialogue
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06890,bucket,gnomic,unclear
+quote,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,q06891,bucket,event,dialogue
+book,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,,narrating_situation,retrospective,unclear
+book,job_top2022_FAIRY_TALE_Stephen_King,top2022:FAIRY TALE|Stephen King,,derived_label,PAST,INSUFFICIENT
+quote,job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,q07568,bucket,gnomic,dialogue
+quote,job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,q07573,bucket,event,dialogue
+quote,job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,q07578,bucket,gnomic,dialogue
+quote,job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,q07582,bucket,gnomic,dialogue
+quote,job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,q07590,bucket,event,dialogue
+book,job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,,narrating_situation,unclear,retrospective
+book,job_top2022_SEA_OF_TRANQUILITY_Emily_St,top2022:SEA OF TRANQUILITY|Emily St,,derived_label,UNCLEAR,PAST
+quote,job_top2023_NONE_OF_THIS_IS_TRUE_Lisa_Jewell,top2023:NONE OF THIS IS TRUE|Lisa Jewell,q08213,bucket,event,gnomic
+quote,job_top2023_NONE_OF_THIS_IS_TRUE_Lisa_Jewell,top2023:NONE OF THIS IS TRUE|Lisa Jewell,q08214,bucket,gnomic,dialogue
+quote,job_top2023_NONE_OF_THIS_IS_TRUE_Lisa_Jewell,top2023:NONE OF THIS IS TRUE|Lisa Jewell,q08216,bucket,gnomic,event
+quote,job_top2023_NONE_OF_THIS_IS_TRUE_Lisa_Jewell,top2023:NONE OF THIS IS TRUE|Lisa Jewell,q08217,bucket,gnomic,dialogue
+quote,job_top2023_NONE_OF_THIS_IS_TRUE_Lisa_Jewell,top2023:NONE OF THIS IS TRUE|Lisa Jewell,q08220,bucket,gnomic,dialogue
+quote,job_top2023_NONE_OF_THIS_IS_TRUE_Lisa_Jewell,top2023:NONE OF THIS IS TRUE|Lisa Jewell,q08226,bucket,gnomic,unclear
+quote,job_top2023_DIRTY_THIRTY_Janet_Evanovich,top2023:DIRTY THIRTY|Janet Evanovich,q08512,bucket,gnomic,dialogue
+quote,job_top2023_DIRTY_THIRTY_Janet_Evanovich,top2023:DIRTY THIRTY|Janet Evanovich,q08514,bucket,unclear,dialogue
+quote,job_top2023_DIRTY_THIRTY_Janet_Evanovich,top2023:DIRTY THIRTY|Janet Evanovich,q08518,bucket,dialogue,paratext
+quote,job_top2023_DIRTY_THIRTY_Janet_Evanovich,top2023:DIRTY THIRTY|Janet Evanovich,q08526,bucket,dialogue,paratext
+quote,job_top2023_THE_HOUSE_IN_THE_PINES_Ana_Reyes,top2023:THE HOUSE IN THE PINES|Ana Reyes,q08165,bucket,event,dialogue
+quote,job_top2024_TELL_ME_EVERYTHING_Elizabeth_Strout,top2024:TELL ME EVERYTHING|Elizabeth Strout,q09515,bucket,gnomic,dialogue
+quote,job_top2024_TELL_ME_EVERYTHING_Elizabeth_Strout,top2024:TELL ME EVERYTHING|Elizabeth Strout,q09516,bucket,gnomic,dialogue
+quote,job_top2024_TELL_ME_EVERYTHING_Elizabeth_Strout,top2024:TELL ME EVERYTHING|Elizabeth Strout,q09517,beat_tense,past,present
+quote,job_top2024_TELL_ME_EVERYTHING_Elizabeth_Strout,top2024:TELL ME EVERYTHING|Elizabeth Strout,q09522,bucket,gnomic,dialogue
+quote,job_top2024_TELL_ME_EVERYTHING_Elizabeth_Strout,top2024:TELL ME EVERYTHING|Elizabeth Strout,q09526,bucket,unclear,event
+quote,job_top2024_TELL_ME_EVERYTHING_Elizabeth_Strout,top2024:TELL ME EVERYTHING|Elizabeth Strout,q09530,bucket,gnomic,event
+quote,job_top2024_SMALL_THINGS_LIKE_THESE_Claire_Keegan,top2024:SMALL THINGS LIKE THESE|Claire Keegan,q09390,bucket,event,gnomic
+quote,job_top2024_SMALL_THINGS_LIKE_THESE_Claire_Keegan,top2024:SMALL THINGS LIKE THESE|Claire Keegan,q09412,bucket,gnomic,dialogue
+quote,job_top2024_SMALL_THINGS_LIKE_THESE_Claire_Keegan,top2024:SMALL THINGS LIKE THESE|Claire Keegan,q09419,bucket,event,gnomic
+quote,job_top2024_SMALL_THINGS_LIKE_THESE_Claire_Keegan,top2024:SMALL THINGS LIKE THESE|Claire Keegan,q09427,bucket,paratext,dialogue
+quote,job_top2024_SMALL_THINGS_LIKE_THESE_Claire_Keegan,top2024:SMALL THINGS LIKE THESE|Claire Keegan,q09428,bucket,gnomic,unclear
+quote,job_top2024_HERE_ONE_MOMENT_Liane_Moriarty,top2024:HERE ONE MOMENT|Liane Moriarty,q09184,event_tense,past,present
+quote,job_top2024_HERE_ONE_MOMENT_Liane_Moriarty,top2024:HERE ONE MOMENT|Liane Moriarty,q09233,bucket,event,gnomic
+quote,job_top2024_HERE_ONE_MOMENT_Liane_Moriarty,top2024:HERE ONE MOMENT|Liane Moriarty,q09236,bucket,gnomic,event
+quote,job_top2024_HERE_ONE_MOMENT_Liane_Moriarty,top2024:HERE ONE MOMENT|Liane Moriarty,q09248,bucket,event,dialogue
+quote,job_top2024_HERE_ONE_MOMENT_Liane_Moriarty,top2024:HERE ONE MOMENT|Liane Moriarty,q09249,bucket,event,dialogue
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09894,bucket,dialogue,gnomic
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09917,bucket,unclear,event
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09925,bucket,unclear,event
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09939,bucket,unclear,event
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09942,bucket,event,dialogue
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09944,bucket,event,dialogue
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09954,bucket,event,dialogue
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09955,bucket,dialogue,event
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09956,bucket,event,gnomic
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09957,bucket,event,dialogue
+quote,job_top2025_ALCHEMISED_SenLinYu,top2025:ALCHEMISED|SenLinYu,q09958,bucket,dialogue,gnomic
+quote,job_top2025_ONYX_STORM_Rebecca_Yarros,top2025:ONYX STORM|Rebecca Yarros,q09641,beat_tense,none,present
+quote,job_top2025_ONYX_STORM_Rebecca_Yarros,top2025:ONYX STORM|Rebecca Yarros,q09648,bucket,unclear,event
+quote,job_top2025_ONYX_STORM_Rebecca_Yarros,top2025:ONYX STORM|Rebecca Yarros,q09651,bucket,event,dialogue
+quote,job_top2025_ONYX_STORM_Rebecca_Yarros,top2025:ONYX STORM|Rebecca Yarros,q09660,bucket,event,dialogue
+quote,job_top2025_ONYX_STORM_Rebecca_Yarros,top2025:ONYX STORM|Rebecca Yarros,q09661,bucket,unclear,dialogue
+quote,job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,q10632,bucket,dialogue,event
+quote,job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,q10635,bucket,gnomic,dialogue
+quote,job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,q10636,bucket,gnomic,event
+quote,job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,q10639,bucket,event,dialogue
+quote,job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,q10646,bucket,event,dialogue
+quote,job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,q10651,bucket,gnomic,dialogue
+quote,job_top2025_SUMMER_IN_THE_CITY_Alex_Aster,top2025:SUMMER IN THE CITY|Alex Aster,q10655,bucket,gnomic,dialogue

@@ -1,0 +1,445 @@
+{
+ "sample_id": "top2018:3244",
+ "quotes": [
+  {
+   "quote_id": "q02716",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person universal, present"
+  },
+  {
+   "quote_id": "q02717",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02718",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense generalization about men/women, deictic \"that phrase\" -- FLAG: generalizes beyond story world but past tense, kept event"
+  },
+  {
+   "quote_id": "q02719",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense aphorism"
+  },
+  {
+   "quote_id": "q02720",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "fragment, no finite verb"
+  },
+  {
+   "quote_id": "q02721",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-modal free indirect justification -- FLAG: quip with no story-world referent, kept event per past-tense rule"
+  },
+  {
+   "quote_id": "q02722",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "exhortative second-person direct address, exclamatory speech register; no quote marks",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02723",
+   "bucket": "event",
+   "tense": "past",
+   "note": "second-person past generalization (free indirect) -- FLAG: generalizes beyond story world but past tense, kept event"
+  },
+  {
+   "quote_id": "q02724",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02725",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02726",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "attributed epigraph (George Carlin)"
+  },
+  {
+   "quote_id": "q02727",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02728",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "imperative second-person instruction, retreat-leader register; no quote marks",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02729",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02730",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02731",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02732",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02733",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02734",
+   "bucket": "paratext",
+   "tense": "",
+   "note": "attributed epigraph (Rumi)"
+  },
+  {
+   "quote_id": "q02735",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "imperative aphorism; possibly spoken"
+  },
+  {
+   "quote_id": "q02736",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02737",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense generalization about girls/boys, free indirect -- FLAG: kept event per past-tense rule"
+  },
+  {
+   "quote_id": "q02738",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02739",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02740",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02741",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-conditional hypothetical framed in past narration -- FLAG: conditional, not clean past indicative"
+  },
+  {
+   "quote_id": "q02742",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority + tag \"he told Yao\"",
+   "beat_tense": "past"
+  },
+  {
+   "quote_id": "q02743",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02744",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02745",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02746",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "first-person accusation, second-person direct address, shouted caps; speech register",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02747",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02748",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02749",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "\"Please\" + imperative instruction to an addressee; speech register",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02750",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person present permission-statement, general; possibly spoken"
+  },
+  {
+   "quote_id": "q02751",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02752",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02753",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense generalization, fragmentary question"
+  },
+  {
+   "quote_id": "q02754",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "\"I think it's...\" conversational first-person assertion; speech register",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02755",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02756",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02757",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02758",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02759",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "imperative/present aphorism, epigraph-like (unattributed)"
+  },
+  {
+   "quote_id": "q02760",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02761",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02762",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02763",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02764",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02765",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02766",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02767",
+   "bucket": "event",
+   "tense": "past",
+   "note": "unquoted interior speech with past tag \"she told herself\"; no quotation marks so tag rule applies"
+  },
+  {
+   "quote_id": "q02768",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02769",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense universal"
+  },
+  {
+   "quote_id": "q02770",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "vocative \"darling\", exclamatory speech register",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02771",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02772",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02773",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02774",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "string of imperatives to an addressee; retreat-leader speech register",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02775",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02776",
+   "bucket": "event",
+   "tense": "present",
+   "note": "sustained present-tense interior passage, specific character at a specific moment (the funeral)"
+  },
+  {
+   "quote_id": "q02777",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "second-person direct address with vocative insults (\"you deluded fool\")",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02778",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "second-person consolation clichés addressed to a listener; speech register",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02779",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "first-person confessional monologue, conversational \"And then I...\"; book is third-person elsewhere",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02780",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense exposition (\"The requests often had...\") with an illustrative quoted request -- FLAG: quotation-mark majority, but quoted text is a generic exemplar, not scene speech"
+  },
+  {
+   "quote_id": "q02781",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02782",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "second-person present generalization; possibly spoken"
+  },
+  {
+   "quote_id": "q02783",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02784",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "\"I want you to reflect...\" explicit address to a listener; speech register",
+   "beat_tense": "none"
+  },
+  {
+   "quote_id": "q02785",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02786",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense definition/generalization"
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Third-person past narration, multiple POV characters (Frances, Heather, Jessica, Lars, Carmel). One sustained present-tense interior passage (q02776). Two attributed epigraphs bucketed paratext. Prose fiction, not verse. Many quotes are unquoted speech from a retreat setting -- identified by imperatives, vocatives and direct address rather than quotation marks. Six past-tense generalizations flagged as contested gnomic candidates; all kept as event/past per the past-tense rule."
+}

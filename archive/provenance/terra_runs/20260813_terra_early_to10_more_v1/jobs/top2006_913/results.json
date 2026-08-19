@@ -1,0 +1,26 @@
+{
+  "sample_id": "top2006:913",
+  "quotes": [
+    {"quote_id": "q00335", "bucket": "paratext", "tense": "", "note": ""},
+    {"quote_id": "q00336", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00337", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00338", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00339", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00340", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00341", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00342", "bucket": "paratext", "tense": "", "note": ""},
+    {"quote_id": "q00343", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00344", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00345", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00346", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00347", "bucket": "paratext", "tense": "", "note": ""},
+    {"quote_id": "q00348", "bucket": "paratext", "tense": "", "note": ""},
+    {"quote_id": "q00349", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00350", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00351", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00352", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00353", "bucket": "event", "tense": "past", "note": ""}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

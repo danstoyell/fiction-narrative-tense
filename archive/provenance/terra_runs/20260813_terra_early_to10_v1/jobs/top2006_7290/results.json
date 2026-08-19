@@ -1,0 +1,19 @@
+{
+  "sample_id": "top2006:7290",
+  "quotes": [
+    {"quote_id": "q00367", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00368", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00369", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": ""},
+    {"quote_id": "q00370", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00371", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q00372", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q00373", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00374", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00375", "bucket": "paratext", "tense": "", "note": ""},
+    {"quote_id": "q00376", "bucket": "event", "tense": "present", "note": ""},
+    {"quote_id": "q00377", "bucket": "gnomic", "tense": "", "note": ""},
+    {"quote_id": "q00378", "bucket": "unclear", "tense": "", "note": "Speaker context is absent."}
+  ],
+  "narrating_situation": "unclear",
+  "agent_note": ""
+}

@@ -1,0 +1,25 @@
+{
+  "sample_id": "top2016:6757",
+  "quotes": [
+    {"quote_id": "q01006", "bucket": "event", "tense": "past", "note": "past-tense free indirect reflection anchored to the port jetties and to Bosch; past-tense generalization about the story world, not gnomic"},
+    {"quote_id": "q01007", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; two-sided speech"},
+    {"quote_id": "q01008", "bucket": "event", "tense": "past", "note": "framed as a specific character's experience ('It had been Bosch's experience'); the second-person generalization sits inside that past frame"},
+    {"quote_id": "q01009", "bucket": "event", "tense": "past", "note": "specific character's knowledge/state"},
+    {"quote_id": "q01010", "bucket": "event", "tense": "past", "note": "extended past narration, specific characters and dates"},
+    {"quote_id": "q01011", "bucket": "event", "tense": "past", "note": "specific character plus past-tense exposition about the book's reception among veterans"},
+    {"quote_id": "q01012", "bucket": "event", "tense": "past", "note": "specific character's actions"},
+    {"quote_id": "q01013", "bucket": "event", "tense": "past", "note": "past-tense place exposition about the story world"},
+    {"quote_id": "q01014", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; the closing narrating beat is a minority of the words"},
+    {"quote_id": "q01015", "bucket": "event", "tense": "past", "note": "appositive fragment but finite past verb in the relative clause ('Bosch recognized'); specific character"},
+    {"quote_id": "q01016", "bucket": "event", "tense": "past", "note": "extended past narration; the tagged clerk line is a small minority"},
+    {"quote_id": "q01017", "bucket": "event", "tense": "past", "note": "truncated, finite past verbs, specific characters"},
+    {"quote_id": "q01018", "bucket": "gnomic", "tense": "", "note": "present/future universal about humans; generalizes beyond the story world"},
+    {"quote_id": "q01019", "bucket": "event", "tense": "past", "note": "specific character's actions"},
+    {"quote_id": "q01020", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal = first-person present boast, speech register"},
+    {"quote_id": "q01021", "bucket": "gnomic", "tense": "", "note": "present-tense second-person aphorism/saying; no speech marker, could be spoken"},
+    {"quote_id": "q01022", "bucket": "gnomic", "tense": "", "note": "fragment"},
+    {"quote_id": "q01023", "bucket": "event", "tense": "past", "note": "truncated but finite past verb, specific character at a specific moment"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Prose fiction (detective novel), third-person past, close on one character. 12 event quotes, all past, zero present event-narration. The only present-tense material is two aphorisms and one unmarked boast. Watch q01006 and q01008: both are reflective passages that a loose 'sounds general' reading would file gnomic, but both are past-tense and anchored to the story world (the jetties; 'It had been Bosch's experience') -- exactly the 54%-precision error METHODOLOGY documents. They are event/past."
+}

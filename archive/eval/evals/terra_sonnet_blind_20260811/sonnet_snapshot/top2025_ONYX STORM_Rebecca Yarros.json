@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2025:ONYX STORM|Rebecca Yarros",
+  "quotes": [
+    {"quote_id": "q09638", "bucket": "paratext", "tense": "", "note": "dedication (\"To the ones who...\") — front matter, not narration"},
+    {"quote_id": "q09639", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "quotation-mark majority (~65 spoken words vs ~40 narrating); narration beats are present tense (\"I enunciate\", \"He cups\")"},
+    {"quote_id": "q09640", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no surviving marks; signal used = direct address to \"you\" throughout + declarative romantic register → speech"},
+    {"quote_id": "q09641", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "marks survive around interrupted speech; \"punch\" beats are em-dash interjections, not narration majority"},
+    {"quote_id": "q09642", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech ~15 words vs narration ~11; tags present tense (\"Rhi snorts\", \"Xaden says\")"},
+    {"quote_id": "q09643", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no marks; signal used = direct address (\"with you\") + taunt register → speech"},
+    {"quote_id": "q09644", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech dominant; single tag \"Andarna blatantly mocks him\" is a beat"},
+    {"quote_id": "q09645", "bucket": "event", "tense": "present", "note": "no marks, no vocative or speech marker; third-person referent \"She\" reads as interior narration. Specific character, not a generalization beyond the story world, so not gnomic. Possible unmarked dialogue — flagged"},
+    {"quote_id": "q09646", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech ~48 words vs narration ~16; present-tense beat (\"He cradles\")"},
+    {"quote_id": "q09647", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech ~15 vs narration ~5; present-tense tags (\"I whisper\", \"He fucking smirks\")"},
+    {"quote_id": "q09648", "bucket": "unclear", "tense": "", "note": "six words, past tense, no marks and no speech markers; could be unmarked dialogue or a summary line. Abstaining rather than inject the book's only clean past evidence on a guess"},
+    {"quote_id": "q09649", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "multi-speaker exchange, speech overwhelmingly dominant"},
+    {"quote_id": "q09650", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no opening mark; signal used = vocative \"my love\" + direct address → speech"},
+    {"quote_id": "q09651", "bucket": "event", "tense": "present", "note": "FAILS dialogue test: narration ~21 words vs speech ~9. Dialogue-tag rule then applies; narration is present tense (\"ticks\", \"stares\")"},
+    {"quote_id": "q09652", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech dominant; one tag \"Tairn chimes in\""},
+    {"quote_id": "q09653", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech dominant; single beat \"He lifts his head\""},
+    {"quote_id": "q09654", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech ~80 words vs 6-word closing interior line; quotation-mark majority wins"},
+    {"quote_id": "q09655", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech 13 vs tag 6; present-tense tag (\"Ridoc says\")"},
+    {"quote_id": "q09656", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech dominant; embedded past clause sits inside the quoted speech"},
+    {"quote_id": "q09657", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech ~17 vs narration ~10; present-tense beat (\"Xaden slides\")"},
+    {"quote_id": "q09658", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "no marks; signal used = second-person address to a group (\"you can all\") → speech"},
+    {"quote_id": "q09659", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech ~35 vs narration ~13; vocative \"Graycastle\"; present-tense tag (\"Aaric asks\")"},
+    {"quote_id": "q09660", "bucket": "event", "tense": "present", "note": "no marks; both other parties named in third person (Tairn, Xaden), so no addressee — reads as interior narration. Specific characters, not gnomic"},
+    {"quote_id": "q09661", "bucket": "unclear", "tense": "", "note": "FLIP RISK. Past-tense lore exposition about the story world, which would be event/past (not gnomic) if narration. But no marks, and \"We'll figure out how to do it again\" reads as reassurance to an addressee. Genuinely 50/50 unmarked dialogue vs narration; abstaining because this would be the sole past-tense event evidence in the book"},
+    {"quote_id": "q09662", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech 8 words vs tag 3; present-tense tag (\"I tell Tairn\")"}
+  ],
+  "narrating_situation": "simultaneous",
+  "agent_note": "First-person present-tense narration. Quote set is heavily dialogue-selected (19 of 25) — typical of Goodreads romantasy pages — leaving only 3 usable event-narration quotes, all present. The strongest evidence is not the event count but the tags and beats attached to the dialogue quotes, which are uniformly present tense across 12 separate quotes (\"I enunciate\", \"He cups\", \"Rhi snorts\", \"Xaden says\", \"He cradles\", \"I whisper\", \"He fucking smirks\", \"He lifts his head\", \"Ridoc says/asks\", \"Xaden slides\", \"Aaric asks\", \"I tell Tairn\") with zero past-tense tags. Mark survival is inconsistent: several quotes lost their opening quotation mark, so unmarked quotes were judged on vocatives and second-person address rather than punctuation; the four unmarked quotes with an addressee went to dialogue, the two without went to event. Two abstentions (q09648, q09661) are the only past-tense candidates in the set and both lack marks — under 5 event quotes, so this book is INSUFFICIENT by the thresholds and may need a deeper page fetch."
+}

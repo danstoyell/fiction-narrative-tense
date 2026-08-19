@@ -1,0 +1,31 @@
+{
+  "sample_id": "top2000:4603",
+  "quotes": [
+    {"quote_id": "q00777", "bucket": "unclear", "tense": "", "note": "Clipped motto fragment; no recoverable narrative tense."},
+    {"quote_id": "q00778", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00779", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00780", "bucket": "paratext", "tense": "", "note": "Attributed all-caps quotation."},
+    {"quote_id": "q00781", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00782", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00783", "bucket": "paratext", "tense": "", "note": "Attributed quotation."},
+    {"quote_id": "q00784", "bucket": "event", "tense": "present", "note": "Story-specific first-person memory; present writing/memory moment controls."},
+    {"quote_id": "q00785", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00786", "bucket": "unclear", "tense": "", "note": "Clipped fragment without sufficient speech or narrative framing."},
+    {"quote_id": "q00787", "bucket": "event", "tense": "past", "note": "Clipped past-tense exposition."},
+    {"quote_id": "q00788", "bucket": "gnomic", "tense": "", "note": "Timeless attributed maxim."},
+    {"quote_id": "q00789", "bucket": "event", "tense": "past", "note": "Character-specific thought."},
+    {"quote_id": "q00790", "bucket": "event", "tense": "past", "note": "Past-tense exposition about the story world."},
+    {"quote_id": "q00791", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00792", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q00793", "bucket": "unclear", "tense": "", "note": "Clipped fragment."},
+    {"quote_id": "q00794", "bucket": "unclear", "tense": "", "note": "Clipped fragment without a recoverable referent."},
+    {"quote_id": "q00795", "bucket": "gnomic", "tense": "", "note": "Timeless generalization."},
+    {"quote_id": "q00796", "bucket": "gnomic", "tense": "", "note": "Timeless generalization with universal second person."},
+    {"quote_id": "q00797", "bucket": "gnomic", "tense": "", "note": "Timeless definition of politics."},
+    {"quote_id": "q00798", "bucket": "event", "tense": "past", "note": "Narration outweighs the brief quoted code words."},
+    {"quote_id": "q00799", "bucket": "event", "tense": "past", "note": "Past-tense story-world exposition."},
+    {"quote_id": "q00800", "bucket": "gnomic", "tense": "", "note": "Timeless maxim."}
+  ],
+  "narrating_situation": "unclear",
+  "agent_note": "Classified solely from the supplied excerpts. The sample is dominated by aphorisms and clipped text; usable event narration is past-dominant, but no overall book label has been computed."
+}

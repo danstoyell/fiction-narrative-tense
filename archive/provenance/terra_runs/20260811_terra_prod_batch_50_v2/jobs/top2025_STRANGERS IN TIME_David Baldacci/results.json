@@ -1,0 +1,29 @@
+{
+  "sample_id": "top2025:STRANGERS IN TIME|David Baldacci",
+  "quotes": [
+    {"quote_id": "q10476", "bucket": "gnomic", "tense": "", "note": "Timeless generalization."},
+    {"quote_id": "q10477", "bucket": "gnomic", "tense": "", "note": "General statement about humans."},
+    {"quote_id": "q10478", "bucket": "gnomic", "tense": "", "note": "General reflection without a story-world referent."},
+    {"quote_id": "q10479", "bucket": "gnomic", "tense": "", "note": "Universal reflection on pain."},
+    {"quote_id": "q10480", "bucket": "event", "tense": "past", "note": "Story-specific reflection centered on she and a relationship."},
+    {"quote_id": "q10481", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Direct speech; no external narration beat."},
+    {"quote_id": "q10482", "bucket": "event", "tense": "past", "note": "Specific story-moment state, expressed as a clipped past-oriented fragment."},
+    {"quote_id": "q10483", "bucket": "gnomic", "tense": "", "note": "General moral reflection."},
+    {"quote_id": "q10484", "bucket": "event", "tense": "past", "note": "Narration specifically anchored to Oliver."},
+    {"quote_id": "q10485", "bucket": "unclear", "tense": "", "note": "Fragmentary image without enough context to establish speech or a specific event."},
+    {"quote_id": "q10486", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Conversational rhetorical address; no external narration beat."},
+    {"quote_id": "q10487", "bucket": "event", "tense": "past", "note": "Narration and attribution outweigh the clipped spoken words."},
+    {"quote_id": "q10488", "bucket": "paratext", "tense": "", "note": "Attributed quotation."},
+    {"quote_id": "q10489", "bucket": "gnomic", "tense": "", "note": "Slogan-like general statements without a story-world referent."},
+    {"quote_id": "q10490", "bucket": "event", "tense": "past", "note": "Specific historical and character-centered narration."},
+    {"quote_id": "q10491", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Direct speech excerpt with no external narration beat."},
+    {"quote_id": "q10492", "bucket": "dialogue", "tense": "", "beat_tense": "past", "note": "Quoted speech predominates; 'bellowed Lonzo' is a past narration beat."},
+    {"quote_id": "q10493", "bucket": "gnomic", "tense": "", "note": "Second-person generalization rather than a specific story event."},
+    {"quote_id": "q10494", "bucket": "gnomic", "tense": "", "note": "Universal reflection."},
+    {"quote_id": "q10495", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Character speech excerpt; no external narration beat."},
+    {"quote_id": "q10496", "bucket": "event", "tense": "past", "note": "First-person story-specific reflection on staying here."},
+    {"quote_id": "q10497", "bucket": "gnomic", "tense": "", "note": "Generalized second-person reflection."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Six event-narration excerpts are past-tense and no event excerpt is present-tense. Dialogue beats provide one additional past-tense corroboration."
+}

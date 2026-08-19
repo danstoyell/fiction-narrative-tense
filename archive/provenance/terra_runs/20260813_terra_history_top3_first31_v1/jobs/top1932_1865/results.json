@@ -1,0 +1,50 @@
+{
+  "sample_id": "top1932:1865",
+  "quotes": [
+    {
+      "quote_id": "q00035",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00036",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": "Past-tense rhetorical analogy without a story-world referent."
+    },
+    {
+      "quote_id": "q00037",
+      "bucket": "event",
+      "tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00038",
+      "bucket": "dialogue",
+      "tense": "",
+      "beat_tense": "past",
+      "note": ""
+    },
+    {
+      "quote_id": "q00039",
+      "bucket": "gnomic",
+      "tense": "",
+      "note": ""
+    },
+    {
+      "quote_id": "q00040",
+      "bucket": "unclear",
+      "tense": "",
+      "note": "Fragment lacks sufficient context to classify."
+    },
+    {
+      "quote_id": "q00041",
+      "bucket": "event",
+      "tense": "past",
+      "note": "Fragmentary, but reports a specific past event."
+    }
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

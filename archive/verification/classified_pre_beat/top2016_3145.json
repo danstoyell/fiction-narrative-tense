@@ -1,0 +1,33 @@
+{
+  "sample_id": "top2016:3145",
+  "quotes": [
+    {"quote_id": "q01033", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic reflection on 'how we find ways to feel superior'; generalizes beyond story world"},
+    {"quote_id": "q01034", "bucket": "event", "tense": "past", "note": "first-person retrospective, specific narrator state"},
+    {"quote_id": "q01035", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech far outweighs 'she had said'"},
+    {"quote_id": "q01036", "bucket": "event", "tense": "past", "note": "opens on a specific past realization ('Then I understood I would never marry him'); trailing present-tense generalization does not outweigh it"},
+    {"quote_id": "q01037", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about 'we children'"},
+    {"quote_id": "q01038", "bucket": "event", "tense": "past", "note": "specific past effect on narrator; 'This is my point' is a narrating-moment aside"},
+    {"quote_id": "q01039", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism plus essayistic gloss on what 'the mind cannot will itself to do'"},
+    {"quote_id": "q01040", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic reflection on a literary quotation; no story-world event"},
+    {"quote_id": "q01041", "bucket": "gnomic", "tense": "", "note": "present-tense universal aphorism"},
+    {"quote_id": "q01042", "bucket": "event", "tense": "past", "note": "'that was when I learned' -- specific past moment; embedded maxim does not control"},
+    {"quote_id": "q01043", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about 'most of us'"},
+    {"quote_id": "q01044", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01045", "bucket": "event", "tense": "past", "note": "anchored on a specific past act ('I said nothing'); narrating-moment habitual present attached"},
+    {"quote_id": "q01046", "bucket": "dialogue", "tense": "", "note": "quotation marks present; speech majority over the attributing clause"},
+    {"quote_id": "q01047", "bucket": "event", "tense": "past", "note": "specific named character on a specific day"},
+    {"quote_id": "q01048", "bucket": "event", "tense": "past", "note": "reported speech inside past narration"},
+    {"quote_id": "q01049", "bucket": "gnomic", "tense": "", "note": "present-tense generalization about people and government; essayistic, beyond story world"},
+    {"quote_id": "q01050", "bucket": "event", "tense": "past", "note": "specific past self-states; brief present coda does not control"},
+    {"quote_id": "q01051", "bucket": "event", "tense": "past", "note": "narrating-moment present frame ('I think of...') over past recounting of specific choices; flagged"},
+    {"quote_id": "q01052", "bucket": "event", "tense": "past", "note": "opens with a present-tense maxim then reports specific past states ('I was getting tired', 'he was getting tired too'); borderline gnomic/event -- flagged"},
+    {"quote_id": "q01053", "bucket": "event", "tense": "past", "note": "narrating-moment present frame over iterative past memory of a specific place; mid-quote shift to present ('if you turn around, the land is still available') -- flagged"},
+    {"quote_id": "q01054", "bucket": "gnomic", "tense": "", "note": "habitual present ('once in a while I see') with a generalizing payload about children; no specific moment"},
+    {"quote_id": "q01055", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q01056", "bucket": "gnomic", "tense": "", "note": "present-tense generalization, 'what happens to a lot of us'"},
+    {"quote_id": "q01057", "bucket": "event", "tense": "past", "note": "past narration majority; embedded historical quotation"},
+    {"quote_id": "q01058", "bucket": "gnomic", "tense": "", "note": "present-tense universal about judgment 'in this world'"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Prose fiction, not verse. First-person retrospective narrator of memoir cast, with an unusually strong narrating-moment present used for essayistic reflection rather than for reporting events -- which is why gnomic is large here (10 of 26) while every event quote is past. Not diary/dual: the present-tense material generalizes beyond the story world instead of describing the writing situation. Three quotes (q01051, q01052, q01053) sit on the boundary because a present-tense 'I think' frame wraps past recounting; all are called event/past on the recounted content."
+}

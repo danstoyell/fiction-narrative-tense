@@ -1,0 +1,415 @@
+{
+ "sample_id": "top2017:2897",
+ "quotes": [
+  {
+   "quote_id": "q02178",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quoted speech exchange"
+  },
+  {
+   "quote_id": "q02179",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense simile/aphorism; may be speech"
+  },
+  {
+   "quote_id": "q02180",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense social generalization about the story world -- METHODOLOGY: not gnomic (gnomic is present-only)"
+  },
+  {
+   "quote_id": "q02181",
+   "bucket": "event",
+   "tense": "past",
+   "note": "iterative past narration of a specific character"
+  },
+  {
+   "quote_id": "q02182",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "long quoted speech with 'he said quietly' beat; quotation-mark majority"
+  },
+  {
+   "quote_id": "q02183",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense summary about the story world; embedded quoted saying"
+  },
+  {
+   "quote_id": "q02184",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02185",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority is speech"
+  },
+  {
+   "quote_id": "q02186",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "speech exchange with tags"
+  },
+  {
+   "quote_id": "q02187",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02188",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past generalization plus specific character's state"
+  },
+  {
+   "quote_id": "q02189",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02190",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past state of a specific character"
+  },
+  {
+   "quote_id": "q02191",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "~31 spoken vs ~13 narrating words"
+  },
+  {
+   "quote_id": "q02192",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02193",
+   "bucket": "event",
+   "tense": "past",
+   "note": "near-tie (~16 spoken vs ~20 narrating); narration outweighs speech, tag rule applies"
+  },
+  {
+   "quote_id": "q02194",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02195",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02196",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "vocative 'dearie' plus imperative direct address; marks partly stripped"
+  },
+  {
+   "quote_id": "q02197",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "fragment, no finite verb"
+  },
+  {
+   "quote_id": "q02198",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past habitual state of a specific character"
+  },
+  {
+   "quote_id": "q02199",
+   "bucket": "event",
+   "tense": "past",
+   "note": "narration (9 words) outweighs the quoted line (7); past action narration"
+  },
+  {
+   "quote_id": "q02200",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02201",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02202",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02203",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "vocative 'Third', sustained second-person address; speech, marks stripped"
+  },
+  {
+   "quote_id": "q02204",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "quotation-mark majority is speech"
+  },
+  {
+   "quote_id": "q02205",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense generalization in free indirect style; not gnomic (past)"
+  },
+  {
+   "quote_id": "q02206",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02207",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02208",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02209",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "~107 spoken vs ~90 narrating words; quotation-mark majority, though close"
+  },
+  {
+   "quote_id": "q02210",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02211",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past narration framing a repeated maxim"
+  },
+  {
+   "quote_id": "q02212",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense exposition about the story world"
+  },
+  {
+   "quote_id": "q02213",
+   "bucket": "event",
+   "tense": "past",
+   "note": "narration ~42 vs ~34 spoken words; free indirect past dominates"
+  },
+  {
+   "quote_id": "q02214",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02215",
+   "bucket": "event",
+   "tense": "past",
+   "note": "narration ~39 vs ~22 spoken words"
+  },
+  {
+   "quote_id": "q02216",
+   "bucket": "event",
+   "tense": "past",
+   "note": "narration ~40 vs ~32 spoken words"
+  },
+  {
+   "quote_id": "q02217",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "present-tense aphorism; likely speech"
+  },
+  {
+   "quote_id": "q02218",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02219",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02220",
+   "bucket": "event",
+   "tense": "past",
+   "note": "iterative past narration ('would stand'), with free indirect question"
+  },
+  {
+   "quote_id": "q02221",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense summary about a specific character's practice"
+  },
+  {
+   "quote_id": "q02222",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02223",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "imperative maxim"
+  },
+  {
+   "quote_id": "q02224",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense ethnic generalization about the story world; not gnomic (past)"
+  },
+  {
+   "quote_id": "q02225",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past-tense exposition about the story world"
+  },
+  {
+   "quote_id": "q02226",
+   "bucket": "event",
+   "tense": "past",
+   "note": "narration ~34 vs ~28 spoken words; past evaluative narration of a specific plan"
+  },
+  {
+   "quote_id": "q02227",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02228",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02229",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02230",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02231",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02232",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": "conditional aphorism"
+  },
+  {
+   "quote_id": "q02233",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02234",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02235",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02236",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02237",
+   "bucket": "dialogue",
+   "tense": "",
+   "note": "free direct speech/thought outweighs the 'as if another voice had interposed itself' beat"
+  },
+  {
+   "quote_id": "q02238",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02239",
+   "bucket": "event",
+   "tense": "past",
+   "note": "past scene description at a specific moment"
+  },
+  {
+   "quote_id": "q02240",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02241",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02242",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02243",
+   "bucket": "event",
+   "tense": "past",
+   "note": "reads like a maxim but is past tense free indirect thought -- event/past per METHODOLOGY"
+  },
+  {
+   "quote_id": "q02244",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q02245",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": "Third-person past-tense literary novel with several focalizers (Anna, Dexter, Eddie). 53 of 53 event quotes are past; no present event-narration at all. Only 5 gnomic quotes, all genuinely present-tense aphorisms or fragments. Several quotes that 'sound general' (q02180, q02183, q02205, q02224, q02243) are past-tense free indirect generalization about the story world and are filed event/past per METHODOLOGY's rule that gnomic is present-only -- this is the exact error direction the spec warns about. Mixed scene quotes were decided by word count under the quotation-mark-majority precedence rule; q02193, q02209 and q02226 are the close calls and are noted individually. Prose, not verse. No single quote would flip the label; the book is unambiguously past."
+}

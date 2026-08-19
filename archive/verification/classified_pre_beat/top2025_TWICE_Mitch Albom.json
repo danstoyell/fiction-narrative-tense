@@ -1,0 +1,32 @@
+{
+  "sample_id": "top2025:TWICE|Mitch Albom",
+  "quotes": [
+    {"quote_id": "q10097", "bucket": "gnomic", "tense": "", "note": "aphorism; present-tense universal about God/desire, no story-world referent"},
+    {"quote_id": "q10098", "bucket": "gnomic", "tense": "", "note": "aphorism; chiastic proverb about years and moments"},
+    {"quote_id": "q10099", "bucket": "gnomic", "tense": "", "note": "aphorism; metaphorical proverb"},
+    {"quote_id": "q10100", "bucket": "dialogue", "tense": "", "note": "no quotation marks survived; signal used = vocative direct address ('Alfie') plus second-person admonition register"},
+    {"quote_id": "q10101", "bucket": "gnomic", "tense": "", "note": "aphorism; generalizes beyond the story world"},
+    {"quote_id": "q10102", "bucket": "gnomic", "tense": "", "note": "first-person-plural universal ('what we yearn for'), not a specific moment"},
+    {"quote_id": "q10103", "bucket": "gnomic", "tense": "", "note": "aphorism; extended metaphor stated as general truth"},
+    {"quote_id": "q10104", "bucket": "dialogue", "tense": "", "note": "no quotation marks survived; signal used = vocative ('Boss') plus speech-report opener 'I've noticed something'; body is gnomic but the frame is speech"},
+    {"quote_id": "q10105", "bucket": "event", "tense": "past", "note": "specific past action at a story moment ('I blinked back tears', 'I looked up into Lallu's eyes'); gnomic coda does not outweigh it"},
+    {"quote_id": "q10106", "bucket": "gnomic", "tense": "", "note": "present-tense universal about how hearts break"},
+    {"quote_id": "q10107", "bucket": "gnomic", "tense": "", "note": "aphorism; refrain formula 'The Truth About True Love is...'"},
+    {"quote_id": "q10108", "bucket": "gnomic", "tense": "", "note": "second-person/first-plural universal about youth and age"},
+    {"quote_id": "q10109", "bucket": "gnomic", "tense": "", "note": "second-person universal"},
+    {"quote_id": "q10110", "bucket": "gnomic", "tense": "", "note": "second-person universal with simile"},
+    {"quote_id": "q10111", "bucket": "gnomic", "tense": "", "note": "rhetorical question generalizing about time and love"},
+    {"quote_id": "q10112", "bucket": "paratext", "tense": "", "note": "epigraph with attribution to C. S. Lewis"},
+    {"quote_id": "q10113", "bucket": "gnomic", "tense": "", "note": "second-person universal about losing a parent; no specific character or moment"},
+    {"quote_id": "q10114", "bucket": "event", "tense": "past", "note": "opening clause is a specific past state of the narrator ('A split had formed in my heart'); second sentence is a gnomic coda -- mixed quote, called on the leading specific clause"},
+    {"quote_id": "q10115", "bucket": "paratext", "tense": "", "note": "register reads as acknowledgments -- author thanking God for 'the grace and blessings God has given me in this life'; front/back matter leak. Contested: could be a first-person narrator's reflection, in which case event/present"},
+    {"quote_id": "q10116", "bucket": "gnomic", "tense": "", "note": "aphorism; modal generalization about boys and mothers"},
+    {"quote_id": "q10117", "bucket": "event", "tense": "past", "note": "specific past event of specific characters ('we entered the hospital... we left'); metaphorical coda still refers to their story-world situation"},
+    {"quote_id": "q10118", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; two-speaker exchange with tag 'Yaya asked me'"},
+    {"quote_id": "q10119", "bucket": "event", "tense": "past", "note": "specific past moment ('in that hospital room I realized'); addressed to a 'you', suggesting an addressee-directed retrospective frame"},
+    {"quote_id": "q10120", "bucket": "gnomic", "tense": "", "note": "second-person universal"},
+    {"quote_id": "q10121", "bucket": "gnomic", "tense": "", "note": "fragment -- noun phrase with no finite main verb"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "First-person retrospective narration, past tense in every event quote (4/4 past, 0 present). Overwhelmingly aphoristic sample: 16 of 25 quotes are gnomic present-tense generalization, which is exactly the false-present contamination METHODOLOGY warns about -- a two-bucket filter would read this book as present. Quotation marks survived on only one quote (q10118); for q10100 and q10104 the dialogue call rests on vocatives ('Alfie', 'Boss') and direct-address register, recorded per quote. Event-narration yield is 4, below the >=5 threshold for HIGH CONF PAST, so this is INSUFFICIENT on page 1 and needs a further page fetched before labeling. Two mixed event/gnomic quotes (q10105, q10114) were called on their leading specific clause; if both were re-read as gnomic the yield would drop to 2."
+}

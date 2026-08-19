@@ -19,3 +19,4 @@ data/archive/quotes.csv
 *.log
 throttle_out.txt
 data/batches/
+__pycache__/

@@ -1,0 +1,28 @@
+{
+  "sample_id": "top2023:THE HEAVEN & EARTH GROCERY STORE|James McBride",
+  "quotes": [
+    {"quote_id": "q07859", "bucket": "gnomic", "tense": "", "note": "present-tense aphorism about cultures generally; no story-world referent"},
+    {"quote_id": "q07860", "bucket": "dialogue", "tense": "", "note": "quotation-mark majority; carries 'she said' tag but speech dominates"},
+    {"quote_id": "q07861", "bucket": "gnomic", "tense": "", "note": "present-tense essayistic reflection on American history; generalizes beyond story world"},
+    {"quote_id": "q07862", "bucket": "event", "tense": "past", "note": "specific characters moving down hospital corridor; long proleptic digression but past-tense anchored"},
+    {"quote_id": "q07863", "bucket": "event", "tense": "past", "note": "past-tense exposition about Chona; specific character"},
+    {"quote_id": "q07864", "bucket": "gnomic", "tense": "", "note": "fragment"},
+    {"quote_id": "q07865", "bucket": "gnomic", "tense": "", "note": "present-tense second-person universal"},
+    {"quote_id": "q07866", "bucket": "event", "tense": "past", "note": "past-tense exposition/summary about story world (Pottstown parade referent); not gnomic per past-tense rule"},
+    {"quote_id": "q07867", "bucket": "dialogue", "tense": "", "note": "no quotation marks; signal used = nonstandard dialect register ('don't matter'), second-person direct address, trailing imperative 'Don't' - contrasts with the book's standard-English literary narration"},
+    {"quote_id": "q07868", "bucket": "dialogue", "tense": "", "note": "no outer marks (inner marks quote a prayer); signal used = first-person spoken monologue, 'our father', 'my children', spoken register"},
+    {"quote_id": "q07869", "bucket": "dialogue", "tense": "", "note": "no marks; signal used = nonstandard verb form 'gived' and inclusive 'us' mark this as character speech, not narration; would be gnomic if read as narration - flip risk"},
+    {"quote_id": "q07870", "bucket": "event", "tense": "past", "note": "specific character at a specific moment of consciousness"},
+    {"quote_id": "q07871", "bucket": "event", "tense": "past", "note": "narratorial prolepsis; finite anchor 'he believed' is past, 'would crystallize' is future-in-past not conditional - flip risk"},
+    {"quote_id": "q07872", "bucket": "gnomic", "tense": "", "note": "opening is a verbless fragment; closes in present-tense generalization ('it all boils down to... Love')"},
+    {"quote_id": "q07873", "bucket": "dialogue", "tense": "", "note": "unmarked dialogue; signal used = speech tags ('the old man said', 'the cops said'), question-and-answer exchange, direct address; speech is the clear word-count majority over the past-tense narration"},
+    {"quote_id": "q07874", "bucket": "event", "tense": "past", "note": "free indirect discourse, past tense; generalizing phrasing but past tense is never gnomic"},
+    {"quote_id": "q07875", "bucket": "event", "tense": "past", "note": "past-tense exposition about a specific character's situation"},
+    {"quote_id": "q07876", "bucket": "event", "tense": "past", "note": "past-tense summary exposition about the story world"},
+    {"quote_id": "q07877", "bucket": "event", "tense": "past", "note": "specific character"},
+    {"quote_id": "q07878", "bucket": "event", "tense": "past", "note": "past-tense free indirect discourse; rhetorical questions are Doc's, still past-anchored"},
+    {"quote_id": "q07879", "bucket": "event", "tense": "past", "note": "specific past-tense memory image"}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "Third-person past-tense narration with a strong essayistic/aphoristic overlay - the gnomic quotes are all genuinely present-tense sententiae, while the book's exposition and summary are uniformly past. Quotation marks survive inconsistently: two quotes keep them, three clear speech passages have none, so dialogue there was judged on dialect register, speech tags, and direct address. Deliberately did NOT file past-tense generalizations (q07866, q07874, q07875, q07876) as gnomic. Event evidence is 11/11 past."
+}

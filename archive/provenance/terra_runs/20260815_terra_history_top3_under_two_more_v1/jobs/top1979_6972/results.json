@@ -1,0 +1,16 @@
+{
+  "sample_id": "top1979:6972",
+  "quotes": [
+    {"quote_id": "q00864", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00865", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q00866", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": ""},
+    {"quote_id": "q00867", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00868", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": ""},
+    {"quote_id": "q00869", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00870", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00871", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00872", "bucket": "unclear", "tense": "", "beat_tense": "", "note": "Clipped non-finite fragment; no reliable tense-bearing narration."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": ""
+}

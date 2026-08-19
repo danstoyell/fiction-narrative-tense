@@ -200,7 +200,8 @@ def trend(rows, frame=None):
     if den == 0 or pbar in (0, 1):
         return None
     z = num / math.sqrt(pbar * (1 - pbar) * den)
-    return dict(z=z, p=math.erfc(abs(z) / math.sqrt(2)), n=tn, pres=tp, share=pbar)
+    return dict(z=z, p=math.erfc(abs(z) / math.sqrt(2)), slope=num / den,
+                n=tn, pres=tp, share=pbar)
 
 
 def era(rows):
@@ -256,6 +257,24 @@ def gnomic_share(rows):
     return 100 * g / n if n else 0
 
 
+def quote_summary(rows):
+    """Top-level quote buckets, with the dialogue-only beat subdivision."""
+    buckets = collections.Counter()
+    dialogue_beats = collections.Counter()
+    for row in rows:
+        for quote in row["q"]:
+            buckets[quote["b"]] += 1
+            if quote["b"] == "dialogue":
+                dialogue_beats[quote["bt"] or "none"] += 1
+    return {
+        "total": sum(buckets.values()),
+        "buckets": {bucket: buckets[bucket] for bucket in
+                    ("event", "dialogue", "gnomic", "paratext", "unclear")},
+        "dialogueBeats": {beat: dialogue_beats[beat] for beat in
+                          ("past", "present", "none")},
+    }
+
+
 # ---------------------------------------------------------------- page
 
 CSS = """
@@ -263,6 +282,8 @@ CSS = """
     --ink:#12161C; --paper:#F6F7F9; --surface:#FFFFFF; --line:#DFE3E8;
     --muted:#59626E; --faint:#858E9A;
     --past:#A8763C; --present:#1F7A7A; --dual:#98A0AA; --flag:#B44A2C;
+    --quote-event:#7EC1BD; --quote-gnomic:#D7B177; --quote-paratext:#B6BEC8; --quote-unclear:#E2A08B;
+    --dialogue-none:#D4D9E0; --dialogue-past:#AAA0D0; --dialogue-present:#9CB8EA;
     --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
     --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
     --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
@@ -270,12 +291,17 @@ CSS = """
   @media (prefers-color-scheme:dark){
     :root{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
           --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;
-          --dual:#737B86;--flag:#DE7A56;}
+          --dual:#737B86;--flag:#DE7A56;--quote-event:#4FA29C;--quote-gnomic:#C79757;--quote-paratext:#77818E;--quote-unclear:#C96E55;
+          --dialogue-none:#77818E;--dialogue-past:#A99AE0;--dialogue-present:#84A9F6;}
   }
   :root[data-theme="dark"]{--ink:#E6E8EC;--paper:#0F1216;--surface:#161A20;--line:#282E37;
-    --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;--dual:#737B86;--flag:#DE7A56;}
+    --muted:#98A1AD;--faint:#6B7480;--past:#D9A163;--present:#4FB3B3;--dual:#737B86;--flag:#DE7A56;
+    --quote-event:#4FA29C;--quote-gnomic:#C79757;--quote-paratext:#77818E;--quote-unclear:#C96E55;
+    --dialogue-none:#77818E;--dialogue-past:#A99AE0;--dialogue-present:#84A9F6;}
   :root[data-theme="light"]{--ink:#12161C;--paper:#F6F7F9;--surface:#FFFFFF;--line:#DFE3E8;
-    --muted:#59626E;--faint:#858E9A;--past:#A8763C;--present:#1F7A7A;--dual:#98A0AA;--flag:#B44A2C;}
+    --muted:#59626E;--faint:#858E9A;--past:#A8763C;--present:#1F7A7A;--dual:#98A0AA;--flag:#B44A2C;
+    --quote-event:#7EC1BD;--quote-gnomic:#D7B177;--quote-paratext:#B6BEC8;--quote-unclear:#E2A08B;
+    --dialogue-none:#D4D9E0;--dialogue-past:#AAA0D0;--dialogue-present:#9CB8EA;}
 
   body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
        -webkit-font-smoothing:antialiased;}
@@ -304,6 +330,15 @@ CSS = """
   .legend{display:flex;flex-wrap:wrap;gap:1.3rem;margin-top:.35rem;font-size:.9rem;color:var(--muted);}
   .legend i{display:inline-block;width:.8rem;height:.8rem;border-radius:1px;
             margin-right:.42rem;vertical-align:-1px;}
+  .quote-chart{background:var(--surface);border:1px solid var(--line);border-radius:2px;
+               padding:1.05rem 1.1rem .85rem;}
+  .quote-chart p{font-size:.84rem;color:var(--muted);max-width:68ch;}
+  #quote-chart{display:block;width:100%;height:auto;margin:.35rem 0 .2rem;}
+  .quote-legend{display:flex;flex-wrap:wrap;gap:.45rem 1rem;margin-top:.25rem;
+                font-size:.76rem;color:var(--muted);}
+  .quote-legend span{white-space:nowrap;}
+  .quote-legend i{display:inline-block;width:.65rem;height:.65rem;border-radius:1px;
+                  margin-right:.32rem;vertical-align:-1px;}
 
   .tw{overflow-x:auto;border:1px solid var(--line);border-radius:2px;background:var(--surface);}
   table{border-collapse:collapse;width:100%;font-size:.81rem;}
@@ -410,7 +445,7 @@ CSS = """
 era_p = 0.0
 
 
-def body(rows, per, st, hist, frame_n, nq, missing, built):
+def body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, missing, built):
     hi, below, pct = nonmonotonic(per)
     lo_mark, hi_mark = mark_survival()
     cls = len(rows)
@@ -419,17 +454,20 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
     total_frame = sum(frame_n.values())
     below_txt = ", ".join(f"{r['y']} ({pct(r):.0%})" for r in below) or "no later point"
     swing = 0
-    recent = [r for r in per if r["frame"] == "modern"]
-    for i in range(1, len(recent)):
-        if recent[i]["n"] and recent[i - 1]["n"]:
-            swing = max(swing, abs(pct(recent[i]) - pct(recent[i - 1])))
+    modern_periods = [r for r in per if r["frame"] == "modern"]
+    for i in range(1, len(modern_periods)):
+        if modern_periods[i]["n"] and modern_periods[i - 1]["n"]:
+            swing = max(swing, abs(pct(modern_periods[i]) - pct(modern_periods[i - 1])))
     gn = gnomic_share(rows)
     hist_txt = (f"{hist['share']:.0%} present across {hist['n']} books"
                 if hist else "not enough labelled books")
     n5 = frame_n.get("hist", 0)
     n30 = frame_n.get("modern", 0)
+    npilot = frame_n.get("pilot", 0)
+    pilot_span = len({r["year"] for r in rows if r["frame"] == "pilot"}) or 1
     hist_span = len({r["year"] for r in rows if r["frame"] == "hist"}) or 1
     mod_span = len({r["year"] for r in rows if r["frame"] == "modern"}) or 1
+    pilot_lbl = f"top {round(npilot / pilot_span)} pilot"
     hist_lbl = f"top {round(n5 / hist_span)} a year"
     mod_lbl = f"top {round(n30 / mod_span)} a year"
 
@@ -459,10 +497,10 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
         <option value="1">1 year</option>
         <option value="3">3 years</option>
         <option value="5">5 years</option>
-        <option value="10">10 years</option>
+        <option value="10" selected>10 years</option>
       </select>
     </div>
-    <h2 class="chart-title">Narrative Tense in NYT Bestsellers</h2>
+    <h2 class="chart-title" id="chart-title">Narrative Tense in NYT Bestsellers, 1931&ndash;2025</h2>
     <svg id="chart" viewBox="0 0 980 400" role="img"
          aria-label="Stacked area chart of present, other and past tense share over time, with the present band rising from the baseline"></svg>
     <div class="legend">
@@ -476,19 +514,24 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
 <section>
   <div class="split">
     <div class="card">
-      <h3>1996&ndash;2015 &middot; {hist_lbl}</h3>
-      <div class="big" style="color:var(--present)">{hist['share']:.0%}</div>
-      <p>present, across {hist['n']} labelled books</p>
+      <h3>1931&ndash;1995</h3>
+      <div class="big" style="color:var(--present)">{pilot['share']:.0%}</div>
+      <p>present, across {pilot['n']} labelled books</p>
     </div>
     <div class="card">
-      <h3>2016&ndash;2025 &middot; {mod_lbl}</h3>
-      <div class="big" style="color:var(--present)">{st['pres'] / st['n']:.0%}</div>
-      <p>present, across {st['n']} labelled books</p>
+      <h3>1996&ndash;2019</h3>
+      <div class="big" style="color:var(--present)">{early['share']:.0%}</div>
+      <p>present, across {early['n']} labelled books</p>
     </div>
     <div class="card">
-      <h3>Trend within 2016&ndash;2025</h3>
-      <div class="big">p = {st['p']:.3f}</div>
-      <p>z = {st['z']:.2f} &middot; the one frame consistent enough to test</p>
+      <h3>2020&ndash;2025</h3>
+      <div class="big" style="color:var(--present)">{recent['share']:.0%}</div>
+      <p>present, across {recent['n']} labelled books</p>
+    </div>
+    <div class="card">
+      <h3>Trend within 1996&ndash;2025</h3>
+      <div class="big" style="color:var(--present)">{p_trend['slope']:+.1%} a year</div>
+      <p>p = {p_trend['p']:.3f}</p>
     </div>
   </div>
 </section>
@@ -512,7 +555,7 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
 </section>
 
 <section>
-  <h2>How a book gets its label</h2>
+  <h2>Methodology</h2>
   <p>Each quote is sorted into one bucket. Only two of them carry evidence about the
   narrator&rsquo;s tense &mdash; the other three exist to keep those two clean.</p>
 
@@ -538,9 +581,17 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
     </table>
   </div>
 
-  <p>The load-bearing split is <strong>gnomic against event, and the test is specificity, not
-  tense</strong>. &ldquo;My father is dead&rdquo; is present tense but concerns one person at
+  <p>&ldquo;My father is dead&rdquo; is present tense but concerns one person at
   one moment, so it counts. &ldquo;Books, like people, die&rdquo; does not.</p>
+
+  <div class="quote-chart">
+    <h3>Quote labels across all classified excerpts</h3>
+    <p><strong>Dialogue is one top-level bucket</strong>, outlined below. Within it, gray means
+    no narratorial beat; purple and blue mean a past- or present-tense narrator beat.</p>
+    <svg id="quote-chart" viewBox="0 0 920 140" role="img"
+         aria-label="Stacked bar showing all classified quotes by bucket, with dialogue subdivided by beat tense"></svg>
+    <div class="quote-legend" id="quote-legend"></div>
+  </div>
 
   <p>Those two evidence-bearing buckets pool into a single tally, and the book&rsquo;s label
   follows in three steps:</p>
@@ -564,47 +615,7 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
 </section>
 
 <section>
-  <h2>What this does and doesn&rsquo;t support</h2>
-  <div class="caution">
-    <p><strong>Within 2016&ndash;2025 the rise is statistically detectable</strong> &mdash; a
-    linear trend across those ten years gives p&nbsp;=&nbsp;{st['p']:.3f} on {st['n']} books.
-    The two-era split reads p&nbsp;=&nbsp;{era_p:.3f}, but its {ERA_SPLIT - 1}/{ERA_SPLIT}
-    boundary was drawn after seeing the data, so lead with the trend.</p>
-    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
-    come from the {hist_lbl} of each year against the {mod_lbl} from 2016 on, so the early
-    slice is a smaller, more famous set of books. A difference between the eras could be a
-    difference between those slices. Do not read the full span as one series.</p>
-    <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
-    {swing:.0%}, and {hi['y']} ({pct(hi):.0%}) sits at or above {below_txt}. What the recent
-    data supports is a level shift, not a steady year-on-year climb.</p>
-  </div>
-  <ul>
-    <li><strong>Goodreads pull-quotes are a biased source, and the bias runs toward apparent
-    present tense.</strong> Everything below is a symptom of reading books through the
-    passages readers chose to excerpt:
-      <ul style="margin-top:.55rem">
-        <li>Quotes are selected for quotability, and quotability loves aphorism &mdash;
-        {gn:.0f}% of all quotes are gnomic, timeless-present generalization that says nothing
-        about a book&rsquo;s narration. The bucket scheme exists to strip exactly this.</li>
-        <li>Quotation marks survive only {lo_mark:.0f}&ndash;{hi_mark:.0f}% of the time, so
-        speech and narration often cannot be told apart from the text alone.</li>
-        <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
-        who is speaking.</li>
-        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
-        abstain more often &mdash; {ab} do here.</li>
-        <li>Nothing marks where in a book a quote came from, so a framed prologue or an
-        embedded tale reads the same as the main narration.</li>
-      </ul>
-    </li>
-    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
-    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
-    buckets &mdash; yet both produced the same book label, and every disagreement was a
-    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Every book, every quote</h2>
+  <h2>Raw Data</h2>
   <p>All {cls} classified books and all {nq:,} quotes behind them &mdash; nothing truncated,
   no bucket hidden. Click a row for its quotes, buckets, and the classifier&rsquo;s reasoning.
   Search reaches into quote text and notes, not just titles.</p>
@@ -644,12 +655,52 @@ def body(rows, per, st, hist, frame_n, nq, missing, built):
   </div>
 </section>
 
+<section>
+  <h2>Notes</h2>
+  <div class="caution">
+    <p><strong>Across 1996&ndash;2025 the rise is statistically detectable</strong> &mdash; a
+    linear trend across those years gives p&nbsp;=&nbsp;{p_trend['p']:.3f} on {p_trend['n']} books.
+    The two-era split reads p&nbsp;=&nbsp;{era_p:.3f}, but its {ERA_SPLIT - 1}/{ERA_SPLIT}
+    boundary was drawn after seeing the data, so lead with the trend.</p>
+    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
+    come from the {hist_lbl} of each year against the {mod_lbl} from 2016 on, so the early
+    slice is a smaller, more famous set of books. A difference between the eras could be a
+    difference between those slices. Do not read the full span as one series.</p>
+    <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
+    {swing:.0%}, and {hi['y']} ({pct(hi):.0%}) sits at or above {below_txt}. What the recent
+    data supports is a level shift, not a steady year-on-year climb.</p>
+  </div>
+  <ul>
+    <li><strong>Goodreads pull-quotes are a biased source, and the bias runs toward apparent
+    present tense.</strong> Everything below is a symptom of reading books through the
+    passages readers chose to excerpt:
+      <ul style="margin-top:.55rem">
+        <li>Quotes are selected for quotability, and quotability loves aphorism &mdash;
+        {gn:.0f}% of all quotes are gnomic, timeless-present generalization that says nothing
+        about a book&rsquo;s narration. The bucket scheme exists to strip exactly this.</li>
+        <li>Quotation marks survive only {lo_mark:.0f}&ndash;{hi_mark:.0f}% of the time, so
+        speech and narration often cannot be told apart from the text alone.</li>
+        <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
+        who is speaking.</li>
+        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
+        abstain more often &mdash; {ab} do here.</li>
+        <li>Nothing marks where in a book a quote came from, so a framed prologue or an
+        embedded tale reads the same as the main narration.</li>
+      </ul>
+    </li>
+    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
+    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
+    buckets &mdash; yet both produced the same book label, and every disagreement was a
+    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
+  </ul>
+</section>
+
 <footer>
   Frame: NYT Hardcover Fiction &middot; {mod_lbl} 2016&ndash;2025 ({n30} books),
   {hist_lbl} 1996&ndash;2015 ({n5} books)<br>
   Text: Goodreads pull-quotes &middot; Labels: base narration from narrating_situation; event
   quotes and dialogue beats pooled for ratio and confidence<br>
-  {cls} classified of {total_frame} in frame &middot; {st['n'] + (hist['n'] if hist else 0)}
+  {cls} classified of {total_frame} in frame &middot; {modern['n'] + (hist['n'] if hist else 0)}
   yielding a label &middot; {ab} abstained{'' if not missing else f' &middot; {missing} quotes with no text on file'}
 </footer>
 </div>
@@ -678,7 +729,7 @@ function drawChart(A){
     return `<polygon points="${up} ${dn}" fill="var(--${tok})" opacity="0.88"/>`;
   };
   let s="";
-  for(let g=0;g<=100;g+=25){
+  for(let g=0;g<=100;g+=10){
     s+=`<line x1="${L}" x2="${W-R}" y1="${y(g/100)}" y2="${y(g/100)}" stroke="var(--line)" stroke-width="1"/>`;
     s+=`<text x="${L-9}" y="${y(g/100)+4}" text-anchor="end" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
     s+=`<text x="${W-R+9}" y="${y(g/100)+4}" text-anchor="start" font-family="var(--mono)" font-size="12" fill="var(--faint)">${g}%</text>`;
@@ -715,6 +766,57 @@ function drawChart(A){
   const counts=A.filter(d=>d.n).map(d=>d.n);
   document.getElementById("point-note").firstChild.textContent=
     `Each point rests on ${Math.min(...counts)}–${Math.max(...counts)} labelled books. `;
+}
+
+function drawQuoteChart(summary){
+  const {total,buckets,dialogueBeats}=summary;
+  const W=920,L=14,R=14,Y=45,H=42,iw=W-L-R;
+  const color={event:"var(--quote-event)",gnomic:"var(--quote-gnomic)",paratext:"var(--quote-paratext)",unclear:"var(--quote-unclear)"};
+  const x={}; let cursor=L;
+  const width=n=>iw*n/total;
+  const rect=(left,w,fill)=>`<rect x="${left}" y="${Y}" width="${w}" height="${H}" fill="${fill}"/>`;
+  let svg="";
+
+  for(const bucket of ["event","dialogue","gnomic","paratext","unclear"]){
+    const w=width(buckets[bucket]); x[bucket]=[cursor,w];
+    if(bucket!=="dialogue") svg+=rect(cursor,w,color[bucket]);
+    cursor+=w;
+  }
+  let dialogueX=x.dialogue[0];
+  const dialogueColors={none:"var(--dialogue-none)",past:"var(--dialogue-past)",present:"var(--dialogue-present)"};
+  const beatLabels={none:"no beat",past:"past beat"};
+  for(const beat of ["none","past","present"]){
+    const w=width(dialogueBeats[beat]);
+    svg+=rect(dialogueX,w,dialogueColors[beat]);
+    if(beatLabels[beat] && w>55) svg+=`<text x="${dialogueX+w/2}" y="${Y+25}" text-anchor="middle" font-family="var(--mono)" font-size="10" font-weight="600" fill="var(--ink)">${beatLabels[beat]}</text>`;
+    if(beat!=="present") svg+=`<line x1="${dialogueX+w}" x2="${dialogueX+w}" y1="${Y}" y2="${Y+H}" stroke="var(--surface)" stroke-width="1.25"/>`;
+    dialogueX+=w;
+  }
+  svg+=`<rect x="${x.dialogue[0]+.5}" y="${Y+.5}" width="${x.dialogue[1]-1}" height="${H-1}" fill="none" stroke="var(--ink)" stroke-width="1.5"/>`;
+  svg+=`<path d="M ${x.dialogue[0]} 35 v-6 H ${x.dialogue[0]+x.dialogue[1]} v6" fill="none" stroke="var(--ink)" stroke-width="1.25"/>`;
+  svg+=`<text x="${x.dialogue[0]+x.dialogue[1]/2}" y="18" text-anchor="middle" font-family="var(--mono)" font-size="11" font-weight="600" fill="var(--ink)">DIALOGUE · ${buckets.dialogue.toLocaleString()}</text>`;
+  const presentX=x.dialogue[0]+x.dialogue[1];
+  svg+=`<path d="M ${presentX-7} ${Y+H+1} v9 h-13" fill="none" stroke="var(--dialogue-present)" stroke-width="1.5"/>`;
+  svg+=`<text x="${presentX-24}" y="${Y+H+22}" text-anchor="end" font-family="var(--mono)" font-size="10" font-weight="600" fill="var(--ink)">present beat · ${dialogueBeats.present.toLocaleString()}</text>`;
+
+  const labels={event:"EVENT",gnomic:"GNOMIC"};
+  for(const bucket of Object.keys(labels)){
+    const [left,w]=x[bucket];
+    if(w>120) svg+=`<text x="${left+w/2}" y="${Y+18}" text-anchor="middle" font-family="var(--mono)" font-size="11" font-weight="600" fill="var(--ink)">${labels[bucket]}</text><text x="${left+w/2}" y="${Y+31}" text-anchor="middle" font-family="var(--mono)" font-size="10" fill="var(--ink)">${buckets[bucket].toLocaleString()}</text>`;
+  }
+  svg+=`<line x1="${L}" x2="${W-R}" y1="${Y+H+10}" y2="${Y+H+10}" stroke="var(--line)"/>`;
+  document.getElementById("quote-chart").innerHTML=svg;
+
+  const item=(fill,text)=>`<span><i style="background:${fill}"></i>${text}</span>`;
+  document.getElementById("quote-legend").innerHTML=[
+    item(color.event,`Event ${buckets.event.toLocaleString()}`),
+    item("var(--dialogue-none)",`Dialogue — no narratorial beat ${dialogueBeats.none.toLocaleString()}`),
+    item("var(--dialogue-past)",`Dialogue — past-tense beat ${dialogueBeats.past.toLocaleString()}`),
+    item("var(--dialogue-present)",`Dialogue — present-tense beat ${dialogueBeats.present.toLocaleString()}`),
+    item(color.gnomic,`Gnomic ${buckets.gnomic.toLocaleString()}`),
+    item(color.paratext,`Paratext ${buckets.paratext.toLocaleString()}`),
+    item(color.unclear,`Unclear ${buckets.unclear.toLocaleString()}`),
+  ].join("");
 }
 
 function initExplorer(BOOKS){
@@ -871,10 +973,16 @@ function init(payload){
   window.__PILOTLBL=payload.pilotLbl; window.__HISTLBL=payload.histLbl; window.__MODLBL=payload.modLbl;
   const periodView=document.getElementById("period-view");
   const rangeView=document.getElementById("range-view");
-  const renderPeriods=()=>drawChart(payload.periods[rangeView.value][periodView.value].filter(d=>d.cls));
+  const rangeLabels={all:"1931–2025",pilot:"1931–1995",main:"1996–2025"};
+  const renderPeriods=()=>{
+    document.getElementById("chart-title").textContent=
+      `Narrative Tense in NYT Bestsellers, ${rangeLabels[rangeView.value]}`;
+    drawChart(payload.periods[rangeView.value][periodView.value].filter(d=>d.cls));
+  };
   periodView.addEventListener("change",renderPeriods);
   rangeView.addEventListener("change",renderPeriods);
   renderPeriods();
+  drawQuoteChart(payload.quoteSummary);
   initExplorer(payload.books);
 }
 """
@@ -901,21 +1009,27 @@ fetch("data/report_data.json")
 def main():
     rows, missing, frame_n, skipped = load()
     per = periods(rows, lo=1996, hi=2025)
-    st = trend(rows, "modern")
+    pilot = trend(rows, "pilot")
+    modern = trend(rows, "modern")
+    early = trend([row for row in rows if 1996 <= row["year"] <= 2019])
+    recent = trend([row for row in rows if row["frame"] == "modern" and row["year"] >= 2020])
+    p_trend = trend([row for row in rows if 1996 <= row["year"] <= 2025])
     hist = trend(rows, "hist")
     e = era(rows)
     nq = sum(len(r["q"]) for r in rows)
+    quote_buckets = quote_summary(rows)
     built = datetime.date.today().strftime("%d %b %Y")
 
     global era_p
     era_p = e["p"]
-    html_body = body(rows, per, st, hist, frame_n, nq, missing, built)
+    html_body = body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, missing, built)
     ranges = {"all": (min(r["year"] for r in rows), 2025), "pilot": (1931, 1995),
               "main": (1996, 2025)}
     payload = {"periods": {name: {str(span): periods(rows, span, lo, hi)
                                    for span in (1, 3, 5, 10)}
                            for name, (lo, hi) in ranges.items()},
                "books": rows,
+               "quoteSummary": quote_buckets,
                "pilotLbl": f"top {round(frame_n.get('pilot',0) / max(1,len({r['year'] for r in rows if r['frame']=='pilot'})))} pilot",
                "histLbl": f"top {round(frame_n.get('hist',0) / max(1,len({r['year'] for r in rows if r['frame']=='hist'})))}",
                "modLbl": f"top {round(frame_n.get('modern',0) / max(1,len({r['year'] for r in rows if r['frame']=='modern'})))}"}
@@ -937,8 +1051,8 @@ def main():
 
     print(f"{len(rows)} books, {nq} quotes"
           + (f", {missing} quotes missing text" if missing else ""))
-    print(f"  top30 2016-2025 : {st['pres']}/{st['n']} = {st['share']:.1%} present"
-          f"  trend z={st['z']:.2f} p={st['p']:.4f}")
+    print(f"  top30 2016-2025 : {modern['pres']}/{modern['n']} = {modern['share']:.1%} present")
+    print(f"  trend 1996-2025 : p={p_trend['p']:.4f}")
     if hist:
         print(f"  top5  1996-2015 : {hist['pres']}/{hist['n']} = {hist['share']:.1%} present"
               f"  trend z={hist['z']:.2f} p={hist['p']:.4f}")

@@ -1,0 +1,161 @@
+{
+ "sample_id": "top2005:4206",
+ "quotes": [
+  {
+   "quote_id": "q01105",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01106",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01107",
+   "bucket": "event",
+   "tense": "present",
+   "note": ""
+  },
+  {
+   "quote_id": "q01108",
+   "bucket": "event",
+   "tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01109",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01110",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01111",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01112",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01113",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q01114",
+   "bucket": "unclear",
+   "tense": "",
+   "note": "Markless first-person quip; speech versus narration is irresolvable."
+  },
+  {
+   "quote_id": "q01115",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01116",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": ""
+  },
+  {
+   "quote_id": "q01117",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01118",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01119",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narration outweighs the quoted speech."
+  },
+  {
+   "quote_id": "q01120",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01121",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Past-tense exposition."
+  },
+  {
+   "quote_id": "q01122",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-world-specific present exposition."
+  },
+  {
+   "quote_id": "q01123",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific thought frame controls the generalizing sentence."
+  },
+  {
+   "quote_id": "q01124",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01125",
+   "bucket": "gnomic",
+   "tense": "",
+   "note": ""
+  },
+  {
+   "quote_id": "q01126",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific thought is narrated in past tense."
+  },
+  {
+   "quote_id": "q01127",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Narration and dialogue are near-even; event tie-break applied."
+  },
+  {
+   "quote_id": "q01128",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": ""
+  },
+  {
+   "quote_id": "q01129",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-world-specific present statement."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}

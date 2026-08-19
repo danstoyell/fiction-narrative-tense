@@ -1,0 +1,29 @@
+{
+  "sample_id": "top2021:THE CELLIST|Daniel Silva",
+  "quotes": [
+    {"quote_id": "q06560", "bucket": "event", "tense": "present", "note": "Story-specific contemporary political state, not a timeless maxim."},
+    {"quote_id": "q06561", "bucket": "paratext", "tense": "", "note": "Authorial reference to the writer's fictitious bank and real-world sources."},
+    {"quote_id": "q06562", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06563", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06564", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06565", "bucket": "dialogue", "tense": "", "beat_tense": "none", "note": "Vocative direct address supplies affirmative speech evidence."},
+    {"quote_id": "q06566", "bucket": "gnomic", "tense": "", "note": "General maxim about money and nuclear bombs."},
+    {"quote_id": "q06567", "bucket": "paratext", "tense": "", "note": "Bibliographic citation fragment."},
+    {"quote_id": "q06568", "bucket": "unclear", "tense": "", "note": "Clipped nominal fragment without enough narrative context."},
+    {"quote_id": "q06569", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06570", "bucket": "unclear", "tense": "", "note": "Clipped procedural noun phrase without a narrating frame."},
+    {"quote_id": "q06571", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06572", "bucket": "unclear", "tense": "", "note": "Truncated political statement; no reliable speech or narration frame."},
+    {"quote_id": "q06573", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06574", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06575", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06576", "bucket": "event", "tense": "past", "note": "Clipped story-world exposition; the embedded quotation is not a speech-majority span."},
+    {"quote_id": "q06577", "bucket": "paratext", "tense": "", "note": "Author's note about fictionalization and writing choices."},
+    {"quote_id": "q06578", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06579", "bucket": "event", "tense": "past", "note": ""},
+    {"quote_id": "q06580", "bucket": "gnomic", "tense": "", "note": "Timeless philosophical generalization, expressed with modal past forms."},
+    {"quote_id": "q06581", "bucket": "event", "tense": "past", "note": "Narration reports the appearance of a specific quoted sentence."}
+  ],
+  "narrating_situation": "retrospective",
+  "agent_note": "The usable event-narration excerpts are overwhelmingly retrospective past; q06560 is a present-tense story-specific contemporary state."
+}
