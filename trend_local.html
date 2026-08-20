@@ -166,12 +166,12 @@
 <div class="wrap wide">
 
 <header>
-  <div class="eyebrow">Booktense &middot; 781 books classified &middot; 22,530 quotes &middot; built 19 Aug 2026</div>
+  <div class="eyebrow">Booktense &middot; 793 books classified &middot; 22,910 quotes &middot; built 20 Aug 2026</div>
   <h1>Present-tense narration in NYT bestsellers, 1931&ndash;2025</h1>
   <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
-  Choose one-, three-, five-, or ten-year periods across the whole series. The early years are
-  drawn from a narrower slice of the list. Every quote behind every label
-  is in the explorer at the bottom.</p>
+  Choose one-, three-, five-, or ten-year periods across the whole series. Earlier years were
+  extended toward annual usable-label targets; 2016 onward uses all quote-eligible books in a
+  fixed top-30 candidate pool. Every quote behind every label is in the explorer at the bottom.</p>
 </header>
 
 <section>
@@ -207,12 +207,12 @@
     <div class="card">
       <h3>1931&ndash;1995</h3>
       <div class="big" style="color:var(--present)">1%</div>
-      <p>present, across 137 labelled books</p>
+      <p>present, across 141 labelled books</p>
     </div>
     <div class="card">
       <h3>1996&ndash;2019</h3>
       <div class="big" style="color:var(--present)">11%</div>
-      <p>present, across 291 labelled books</p>
+      <p>present, across 296 labelled books</p>
     </div>
     <div class="card">
       <h3>2020&ndash;2025</h3>
@@ -221,7 +221,7 @@
     </div>
     <div class="card">
       <h3>Trend within 1996&ndash;2025</h3>
-      <div class="big" style="color:var(--present)">+1.0% a year</div>
+      <div class="big" style="color:var(--present)">+1.1% a year</div>
       <p>p = 0.000</p>
     </div>
   </div>
@@ -232,8 +232,8 @@
   <div class="tw">
     <table>
       <thead><tr>
-        <th class="l">Period</th><th class="l">Frame</th><th>Past</th><th>Other</th>
-        <th>Present</th><th>n labelled</th><th>% present</th><th>95% CI</th>
+        <th class="l">Period</th><th class="l">Selection plan</th><th>Past</th><th>Other</th>
+        <th>Present</th><th>n labelled</th><th>% present</th><th>95% Wilson CI</th>
         <th>abstained</th><th>classified</th>
       </tr></thead>
       <tbody id="tbody"></tbody>
@@ -307,7 +307,7 @@
 
 <section>
   <h2>Raw Data</h2>
-  <p>All 781 classified books and all 22,530 quotes behind them &mdash; nothing truncated,
+  <p>All 793 classified books and all 22,910 quotes behind them &mdash; nothing truncated,
   no bucket hidden. Click a row for its quotes, buckets, and the classifier&rsquo;s reasoning.
   Search reaches into quote text and notes, not just titles.</p>
 
@@ -350,15 +350,15 @@
   <h2>Notes</h2>
   <div class="caution">
     <p><strong>Across 1996&ndash;2025 the rise is statistically detectable</strong> &mdash; a
-    linear trend across those years gives p&nbsp;=&nbsp;0.000 on 438 books.
-    The two-era split reads p&nbsp;=&nbsp;0.002, but its 2019/2020
+    linear trend across those years gives p&nbsp;=&nbsp;0.000 on 443 books.
+    The two-era split reads p&nbsp;=&nbsp;0.001, but its 2019/2020
     boundary was drawn after seeing the data, so lead with the trend.</p>
-    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
-    come from the top 16 a year of each year against the top 30 a year from 2016 on, so the early
-    slice is a smaller, more famous set of books. A difference between the eras could be a
-    difference between those slices. Do not read the full span as one series.</p>
+    <p><strong>Selection depth changes over time.</strong> The 1996&ndash;2015 batches extend
+    NYT-ranked candidates toward ten usable labels per year; from 2016 on, all quote-eligible
+    books in a fixed top-30 candidate pool are classified. The same label method is applied
+    throughout, but the represented depth of the list and annual precision vary.</p>
     <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
-    22%, and 2018 (22%) sits at or above no later point. What the recent
+    23%, and 2018 (22%) sits at or above no later point. What the recent
     data supports is a level shift, not a steady year-on-year climb.</p>
   </div>
   <ul>
@@ -373,26 +373,30 @@
         speech and narration often cannot be told apart from the text alone.</li>
         <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
         who is speaking.</li>
-        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
-        abstain more often &mdash; 106 do here.</li>
+        <li>How many quotes a book has tracks its fame, not its prose. Across all annual
+        candidate batches, 396 of 980 selected candidates do
+        not yield a usable label, either because they never reach classification or because
+        the available evidence requires abstention.</li>
         <li>Nothing marks where in a book a quote came from, so a framed prologue or an
         embedded tale reads the same as the main narration.</li>
       </ul>
     </li>
-    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
-    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
-    buckets &mdash; yet both produced the same book label, and every disagreement was a
-    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
+    <li><strong>Quote-level labels are noisier than tense judgments.</strong> In the latest
+    blind reproducibility check over 30 books, Terra and the earlier Sonnet pass agreed on
+    83.9% of quote buckets, 99.1% of event tense where both chose event, 98.2% of dialogue-beat
+    tense where both chose dialogue, and 86.7% of narrating situations and derived book labels.
+    Sonnet is a comparator, not an external accuracy gold standard.</li>
   </ul>
 </section>
 
 <footer>
-  Frame: NYT Hardcover Fiction &middot; top 30 a year 2016&ndash;2025 (300 books),
-  top 16 a year 1996&ndash;2015 (323 books)<br>
+  Selection: NYT Hardcover Fiction &middot; target ≥2 labels/year in 1931&ndash;1995 (357 candidates),
+  target ≥10 labels/year in 1996&ndash;2015 (323 candidates), fixed top-30 candidate pool in
+  2016&ndash;2025 (300 candidates)<br>
   Text: Goodreads pull-quotes &middot; Labels: base narration from narrating_situation; event
   quotes and dialogue beats pooled for ratio and confidence<br>
-  781 classified of 960 in frame &middot; 438
-  yielding a label &middot; 106 abstained
+  980 selected candidates &middot; 793 classified &middot; 584 usable labels
+  &middot; 209 classified abstentions &middot; 187 not classified
 </footer>
 </div>
 
@@ -443,14 +447,12 @@ function drawChart(A){
   });
   document.getElementById("chart").innerHTML=s;
 
-  const ci=(p,n)=>{const se=Math.sqrt(p*(1-p)/n);
-    return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
   document.getElementById("tbody").innerHTML=A.map(d=>`
     <tr><td>${d.y}</td>
-    <td style="color:var(--faint)">${d.frame==="pilot"?PILOTLBL:d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"both frames"}</td>
+    <td style="color:var(--faint)">${d.frame==="pilot"?PILOTLBL:d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"mixed cohorts"}</td>
     <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
     <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
-    <td>${d.n?ci(d.pPres,d.n):"—"}</td>
+    <td>${d.n?`${Math.round(d.ci_lo*100)}–${Math.round(d.ci_hi*100)}%`:"—"}</td>
     <td>${d.ab}</td><td style="color:var(--faint)">${d.cls}</td></tr>`).join("");
   const counts=A.filter(d=>d.n).map(d=>d.n);
   document.getElementById("point-note").firstChild.textContent=

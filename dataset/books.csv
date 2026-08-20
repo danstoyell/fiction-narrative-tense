@@ -1,121 +1,128 @@
 sample_id,frame,year,title,author,label,raw_label,confidence,narrating_situation,agent_note,why,n_quotes,event_past,event_present,beat_past,beat_present,bucket_event,bucket_dialogue,bucket_gnomic,bucket_paratext,bucket_unclear
-top1931:413,pilot,1931,AMERICAN BEAUTY,Edna Ferber,ABSTAIN,INSUFFICIENT,,unclear,One event quote is insufficient to infer a narrating situation.,only 1 event quotes,3,1,0,0,0,1,1,0,0,1
+top1931:413,pilot,1931,AMERICAN BEAUTY,Edna Ferber,ABSTAIN,INSUFFICIENT,,unclear,One event quote is insufficient to infer a narrating situation.,only 1 tense-bearing quotes,3,1,0,0,0,1,1,0,0,1
 top1931:2878,pilot,1931,MAID IN WAITING,John Galsworthy,ABSTAIN,UNCLEAR,,unclear,Classified from the supplied excerpts only.,situation='unclear',6,3,2,0,0,5,0,1,0,0
 top1931:5304,pilot,1931,THE GOOD EARTH,Pearl S. Buck,PAST,PAST,high,retrospective,,"100% past / 0% present of 15, situation=retrospective",27,15,0,0,0,15,9,2,1,0
-top1932:1865,pilot,1932,FLOWERING WILDERNESS,John Galsworthy,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,7,3,0,1,0,3,1,2,0,1
-top1932:4216,pilot,1932,SONS,Pearl S. Buck,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,11,3,0,1,0,3,4,3,0,1
-top1932:4639,pilot,1932,THE BISHOP'S JAEGERS,Thorne Smith,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,2,0,0,0,2,0,0,0,0
-top1932:5193,pilot,1932,THE FOUNTAIN,Charles Morgan,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
-top1932:6279,pilot,1932,THE SHELTERED LIFE,Ellen Glasgow,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1933:518,pilot,1933,AS THE EARTH TURNS,Gladys Hasty Carroll,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
-top1933:2731,pilot,1933,"LITTLE MAN, WHAT NOW?",Hans Fallada,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,4,2,1,0,0,3,1,0,0,0
+top1932:1865,pilot,1932,FLOWERING WILDERNESS,John Galsworthy,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,7,3,0,1,0,3,1,2,0,1
+top1932:2450,pilot,1932,INVITATION TO THE WALTZ,Rosamond Lehmann,OTHER,DUAL,med,dual,The excerpts include both present-tense journal-style first-person narration and past-tense third-person narration.,"40% past / 60% present of 5, situation=dual",6,2,3,0,0,5,0,1,0,0
+top1932:4216,pilot,1932,SONS,Pearl S. Buck,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,11,3,0,1,0,3,4,3,0,1
+top1932:4639,pilot,1932,THE BISHOP'S JAEGERS,Thorne Smith,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,2,0,0,0,2,0,0,0,0
+top1932:5193,pilot,1932,THE FOUNTAIN,Charles Morgan,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
+top1932:6279,pilot,1932,THE SHELTERED LIFE,Ellen Glasgow,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1932:6399,pilot,1932,THE STORE,T. S. Stribling,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
+top1933:371,pilot,1933,ALL MEN ARE ENEMIES,Richard Aldington,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,5,2,1,0,0,3,2,0,0,0
+top1933:518,pilot,1933,AS THE EARTH TURNS,Gladys Hasty Carroll,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
+top1933:2731,pilot,1933,"LITTLE MAN, WHAT NOW?",Hans Fallada,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,4,2,1,0,0,3,1,0,0,0
+top1933:4222,pilot,1933,SOUTH MOON UNDER,Marjorie K. Rawlings,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,8,4,0,0,0,4,3,0,0,1
+top1933:6671,pilot,1933,THE WEREWOLF OF PARIS,Guy Endore,PAST,PAST,med,retrospective,,"80% past / 20% present of 5, situation=retrospective",9,3,1,1,0,4,2,3,0,0
 top1934:2031,pilot,1934,"GOOD-BYE, MR. CHIPS",James Hilton,PAST,PAST,high,retrospective,,"96% past / 4% present of 24, situation=retrospective",29,21,1,2,0,22,3,2,2,0
-top1934:2626,pilot,1934,LAMB IN HIS BOSOM,Caroline Miller,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,3,2,0,1,0,2,1,0,0,0
+top1934:2626,pilot,1934,LAMB IN HIS BOSOM,Caroline Miller,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,3,2,0,1,0,2,1,0,0,0
 top1934:2791,pilot,1934,LOST HORIZON,James Hilton,PAST,PAST,high,retrospective,,"100% past / 0% present of 44, situation=retrospective",67,31,0,13,0,31,22,8,3,3
-top1934:5191,pilot,1934,THE FORTY DAYS OF MUSA DAGH,Franz Werfel,ABSTAIN,INSUFFICIENT,,retrospective,Three past event-narration excerpts; remaining excerpts are gnomic. No dialogue excerpts.,only 3 event quotes,7,3,0,0,0,3,0,4,0,0
-top1934:7359,pilot,1934,WORK OF ART,Sinclair Lewis,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top1934:5191,pilot,1934,THE FORTY DAYS OF MUSA DAGH,Franz Werfel,ABSTAIN,INSUFFICIENT,,retrospective,Three past event-narration excerpts; remaining excerpts are gnomic. No dialogue excerpts.,only 3 tense-bearing quotes,7,3,0,0,0,3,0,4,0,0
+top1934:7359,pilot,1934,WORK OF ART,Sinclair Lewis,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top1935:2467,pilot,1935,IT CAN'T HAPPEN HERE,Sinclair Lewis,PAST,PAST,high,retrospective,,"100% past / 0% present of 41, situation=retrospective",86,36,0,5,0,36,29,11,4,6
 top1935:3338,pilot,1935,OF TIME AND THE RIVER,Thomas Wolfe,PAST,PAST,CONFLICT,retrospective,Manual audit: consecutive excerpts confirm past base narration; present passages are stylistic or reflective.,"44% past / 56% present of 9, situation=retrospective",14,4,5,0,0,9,0,5,0,0
 top1936:2026,pilot,1936,GONE WITH THE WIND,Margaret Mitchell,PAST,PAST,med,retrospective,,"80% past / 20% present of 5, situation=retrospective",26,2,1,2,0,3,20,3,0,0
-top1936:5608,pilot,1936,THE LAST PURITAN,George Santayana,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1937:3291,pilot,1937,NORTHWEST PASSAGE,Kenneth Roberts,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,1,0,0,0,1,0,1,0,0
-top1937:3337,pilot,1937,OF MICE AND MEN,John Steinbeck,PAST,PAST,high,retrospective,,"78% past / 22% present of 41, situation=retrospective",92,21,9,11,0,30,39,15,6,2
-top1937:4844,pilot,1937,THE CITADEL,A. J. Cronin,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,3,1,0,0,0,1,2,0,0,0
-top1937:6097,pilot,1937,THE RAINS CAME,Louis Bromfield,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top1936:5608,pilot,1936,THE LAST PURITAN,George Santayana,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1937:3291,pilot,1937,NORTHWEST PASSAGE,Kenneth Roberts,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,1,0,0,0,1,0,1,0,0
+top1937:3337,pilot,1937,OF MICE AND MEN,John Steinbeck,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",26,7,0,3,0,7,18,1,0,0
+top1937:4844,pilot,1937,THE CITADEL,A. J. Cronin,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,3,1,0,0,0,1,2,0,0,0
+top1937:6097,pilot,1937,THE RAINS CAME,Louis Bromfield,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top1937:6761,pilot,1937,THE YEARS,Virginia Woolf,PAST,PAST,high,retrospective,,"100% past / 0% present of 22, situation=retrospective",25,3,0,19,0,3,22,0,0,0
 top1937:6769,pilot,1937,THEATRE,Somerset Maugham,PAST,PAST,med,retrospective,,"100% past / 0% present of 6, situation=retrospective",18,5,0,1,0,5,8,5,0,0
-top1938:389,pilot,1938,ALL THIS AND HEAVEN TOO,Rachel Field,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,9,2,0,2,0,2,4,2,0,1
-top1938:3727,pilot,1938,REBECCA,Daphne Du Maurier,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1938:389,pilot,1938,ALL THIS AND HEAVEN TOO,Rachel Field,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,9,2,0,2,0,2,4,2,0,1
+top1938:3727,pilot,1938,REBECCA,Daphne Du Maurier,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1938:6760,pilot,1938,THE YEARLING,Marjorie Kinnan Rawlings,PAST,PAST,high,retrospective,,"96% past / 4% present of 26, situation=retrospective",32,22,1,3,0,23,8,1,0,0
-top1939:2600,pilot,1939,KITTY FOYLE,Christopher Morley,ABSTAIN,INSUFFICIENT,,simultaneous,,only 2 event quotes,3,0,2,0,0,2,0,1,0,0
-top1939:3039,pilot,1939,MOMENT IN PEKING,Lin Yutang,ABSTAIN,INSUFFICIENT,,unclear,"No event-narration quotes remain after bucketing, so the narrating situation cannot be determined.",only 0 event quotes,2,0,0,0,0,0,1,1,0,0
+top1939:2600,pilot,1939,KITTY FOYLE,Christopher Morley,ABSTAIN,INSUFFICIENT,,simultaneous,,only 2 tense-bearing quotes,3,0,2,0,0,2,0,1,0,0
+top1939:3039,pilot,1939,MOMENT IN PEKING,Lin Yutang,ABSTAIN,INSUFFICIENT,,unclear,"No event-narration quotes remain after bucketing, so the narrating situation cannot be determined.",only 0 tense-bearing quotes,2,0,0,0,0,0,1,1,0,0
 top1939:5317,pilot,1939,THE GRAPES OF WRATH,John Steinbeck,PAST,PAST,high,retrospective,,"89% past / 11% present of 36, situation=retrospective",92,21,4,11,0,25,48,13,6,0
-top1939:5861,pilot,1939,THE NAZARENE,Sholem Asch,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,3,2,0,0,0,2,0,1,0,0
+top1939:5861,pilot,1939,THE NAZARENE,Sholem Asch,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,3,2,0,0,0,2,0,1,0,0
 top1940:1886,pilot,1940,FOR WHOM THE BELL TOLLS,Ernest Hemingway,PAST,PAST,high,retrospective,,"82% past / 18% present of 34, situation=retrospective",70,22,6,6,0,28,30,10,0,2
 top1940:2286,pilot,1940,HOW GREEN WAS MY VALLEY,Richard Llewellyn,PAST,PAST,high,retrospective,,"67% past / 33% present of 9, situation=retrospective",29,6,3,0,0,9,2,18,0,0
 top1940:3120,pilot,1940,MRS. MINIVER,Jan Struther,PAST,PAST,high,retrospective,,"100% past / 0% present of 34, situation=retrospective",44,29,0,5,0,29,7,8,0,0
 top1941:3715,pilot,1941,RANDOM HARVEST,James Hilton,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",10,4,0,1,0,4,6,0,0,0
-top1941:5530,pilot,1941,THE KEYS OF THE KINGDOM,A. J. Cronin,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,12,0,0,0,0,0,9,3,0,0
+top1941:5530,pilot,1941,THE KEYS OF THE KINGDOM,A. J. Cronin,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,12,0,0,0,0,0,9,3,0,0
 top1942:450,pilot,1942,AND NOW TOMORROW,Rachel Field,PAST,PAST,med,retrospective,All event-narration evidence is retrospective; non-event excerpts are gnomic reflections.,"100% past / 0% present of 7, situation=retrospective",12,7,0,0,0,7,0,5,0,0
-top1942:533,pilot,1942,ASSIGNMENT IN BRITTANY,Helen MacInnes,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,4,1,0,2,0,1,2,1,0,0
+top1942:533,pilot,1942,ASSIGNMENT IN BRITTANY,Helen MacInnes,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,4,1,0,2,0,1,2,1,0,0
 top1942:1525,pilot,1942,DRAGON SEED,Pearl S. Buck,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",23,9,0,1,0,9,10,3,0,1
 top1942:5820,pilot,1942,THE MOON IS DOWN,John Steinbeck,PAST,PAST,high,retrospective,,"89% past / 11% present of 9, situation=retrospective",20,5,1,3,0,6,12,2,0,0
-top1942:6157,pilot,1942,THE ROBE,Lloyd C. Douglas,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,22,3,0,1,0,3,15,3,1,0
+top1942:6157,pilot,1942,THE ROBE,Lloyd C. Douglas,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,22,3,0,1,0,3,15,3,1,0
 top1943:263,pilot,1943,A TREE GROWS IN BROOKLYN,Betty Smith,PAST,PAST,high,retrospective,,"100% past / 0% present of 39, situation=retrospective",74,25,0,14,0,25,43,5,1,0
 top1943:2298,pilot,1943,HUNGRY HILL,Daphne du Maurier,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",10,6,0,1,0,6,2,2,0,0
-top1943:3122,pilot,1943,MRS. PARKINGTON,Louis Bromfield,ABSTAIN,INSUFFICIENT,,unclear,No event-narration evidence in the supplied excerpt.,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1943:4559,pilot,1943,THE APOSTLE,Sholem Asch,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,4,0,0,2,0,0,4,0,0,0
+top1943:3122,pilot,1943,MRS. PARKINGTON,Louis Bromfield,ABSTAIN,INSUFFICIENT,,unclear,No event-narration evidence in the supplied excerpt.,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1943:4559,pilot,1943,THE APOSTLE,Sholem Asch,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,4,0,0,2,0,0,4,0,0,0
 top1943:5439,pilot,1943,THE HUMAN COMEDY,William Saroyan,PAST,PAST,high,retrospective,Event narration is predominantly past; the present-tense first-person excerpts are story-specific reflections.,"78% past / 22% present of 9, situation=retrospective",22,6,2,1,0,8,12,2,0,0
-top1944:50,pilot,1944,A BELL FOR ADANO,John Hersey,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,3,2,0,0,0,2,0,0,0,1
+top1944:50,pilot,1944,A BELL FOR ADANO,John Hersey,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,3,2,0,0,0,2,0,0,0,1
 top1944:1896,pilot,1944,FOREVER AMBER,Kathleen Winsor,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",9,5,0,0,0,5,2,1,1,0
-top1944:4344,pilot,1944,STRANGE FRUIT,Lillian Smith,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,9,2,0,0,0,2,7,0,0,0
-top1944:5334,pilot,1944,THE GREEN YEARS,A. J. Cronin,ABSTAIN,INSUFFICIENT,,retrospective,One past-tense event quote supports a retrospective narrating situation; the remaining fragment is non-diagnostic.,only 1 event quotes,2,1,0,0,0,1,0,0,0,1
+top1944:4344,pilot,1944,STRANGE FRUIT,Lillian Smith,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,9,2,0,0,0,2,7,0,0,0
+top1944:5334,pilot,1944,THE GREEN YEARS,A. J. Cronin,ABSTAIN,INSUFFICIENT,,retrospective,One past-tense event quote supports a retrospective narrating situation; the remaining fragment is non-diagnostic.,only 1 tense-bearing quotes,2,1,0,0,0,1,0,0,0,1
 top1944:6102,pilot,1944,THE RAZOR'S EDGE,Somerset Maugham,PAST,PAST,high,retrospective,,"85% past / 15% present of 39, situation=retrospective",84,27,6,6,0,33,23,26,1,1
 top1945:5195,pilot,1945,THE FOUNTAINHEAD,Ayn Rand,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",56,4,0,3,0,4,35,17,0,0
 top1946:505,pilot,1946,ARCH OF TRIUMPH,Erich Maria Remarque,PAST,PAST,high,retrospective,"Event narration is chiefly retrospective, with present-moment interior thought excerpts.","82% past / 18% present of 11, situation=retrospective",26,8,2,1,0,10,7,9,0,0
-top1946:3027,pilot,1946,MISTER ROBERTS,Thomas Heggen,ABSTAIN,INSUFFICIENT,,simultaneous,One present-tense event quote; the remaining unframed line is conservatively unclear.,only 1 event quotes,2,0,1,0,0,1,0,0,0,1
+top1946:3027,pilot,1946,MISTER ROBERTS,Thomas Heggen,ABSTAIN,INSUFFICIENT,,simultaneous,One present-tense event quote; the remaining unframed line is conservatively unclear.,only 1 tense-bearing quotes,2,0,1,0,0,1,0,0,0,1
 top1946:5547,pilot,1946,THE KING'S GENERAL,Daphne du Maurier,PAST,PAST,med,retrospective,,"86% past / 14% present of 7, situation=retrospective",12,4,1,2,0,5,3,3,1,0
-top1946:6812,pilot,1946,THIS SIDE OF INNOCENCE,Taylor Caldwell,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1946:6812,pilot,1946,THIS SIDE OF INNOCENCE,Taylor Caldwell,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1947:1978,pilot,1947,GENTLEMAN'S AGREEMENT,Laura Z. Hobson,PAST,PAST,high,retrospective,,"100% past / 0% present of 26, situation=retrospective",29,14,0,12,0,14,13,1,1,0
 top1948:1215,pilot,1948,"CRY, THE BELOVED COUNTRY",Alan Paton,OTHER,DUAL,high,dual,Manual override: dual narration confirmed by review.,"33% past / 67% present of 27, situation=dual",50,8,16,1,2,24,7,18,0,1
 top1948:3709,pilot,1948,RAINTREE COUNTY,Ross Lockridge,PAST,PAST,high,retrospective,,"88% past / 12% present of 8, situation=retrospective",10,6,1,1,0,7,2,0,0,1
 top1948:5848,pilot,1948,THE NAKED AND THE DEAD,Norman Mailer,PAST,PAST,high,retrospective,,"84% past / 16% present of 25, situation=retrospective",42,20,3,1,1,23,15,3,1,0
 top1948:6765,pilot,1948,THE YOUNG LIONS,Irwin Shaw,PAST,PAST,high,retrospective,"Classified 18 excerpts: 12 event (9 past, 3 present), 4 dialogue, and 2 gnomic. Past narration predominates, while the present event excerpts are character thoughts or current states.","80% past / 20% present of 15, situation=retrospective",18,9,3,3,0,12,5,1,0,0
-top1949:205,pilot,1949,A RAGE TO LIVE,John O'Hara,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
-top1949:3548,pilot,1949,POINT OF NO RETURN,John P. Marquand,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,5,4,0,0,0,4,1,0,0,0
-top1949:4715,pilot,1949,THE BRAVE BULLS,Tom Lea,ABSTAIN,INSUFFICIENT,,unclear,The only excerpt is gnomic and provides no narrating-situation evidence.,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1949:5038,pilot,1949,THE EGYPTIAN,Mika Waltari,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,17,2,0,1,0,2,5,7,2,1
+top1949:205,pilot,1949,A RAGE TO LIVE,John O'Hara,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
+top1949:3548,pilot,1949,POINT OF NO RETURN,John P. Marquand,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,5,4,0,0,0,4,1,0,0,0
+top1949:4715,pilot,1949,THE BRAVE BULLS,Tom Lea,ABSTAIN,INSUFFICIENT,,unclear,The only excerpt is gnomic and provides no narrating-situation evidence.,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1949:5038,pilot,1949,THE EGYPTIAN,Mika Waltari,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,17,2,0,1,0,2,5,7,2,1
 top1949:5756,pilot,1949,THE MAN WITH THE GOLDEN ARM,Nelson Algren,PAST,PAST,high,retrospective,,"100% past / 0% present of 12, situation=retrospective",20,8,0,4,0,8,7,3,2,0
 top1950:302,pilot,1950,ACROSS THE RIVER AND INTO THE TREES,Ernest Hemingway,PAST,PAST,high,retrospective,,"86% past / 14% present of 14, situation=retrospective",25,7,2,5,0,9,10,5,0,1
-top1950:2516,pilot,1950,JOY STREET,Frances Parkinson Keyes,ABSTAIN,INSUFFICIENT,,simultaneous,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1950:2518,pilot,1950,JUBILEE TRAIL,Gwen Bristow,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,7,2,0,0,0,2,3,2,0,0
-top1950:4286,pilot,1950,STAR MONEY,Kathleen Winsor,ABSTAIN,INSUFFICIENT,,unclear,,only 1 event quotes,2,0,1,0,0,1,1,0,0,0
-top1950:4518,pilot,1950,THE ADVENTURER,Mika Waltari,ABSTAIN,INSUFFICIENT,,unclear,Single quote is insufficient to determine a narrating situation.,only 0 event quotes,1,0,0,0,0,0,0,0,0,1
-top1950:4758,pilot,1950,THE CARDINAL,Henry Morton Robinson,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,0,0,1,0,0,2,0,0,0
-top1950:5676,pilot,1950,THE LITTLE WORLD OF DON CAMILLO,Giovanni Guareschi,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1950:2516,pilot,1950,JOY STREET,Frances Parkinson Keyes,ABSTAIN,INSUFFICIENT,,simultaneous,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1950:2518,pilot,1950,JUBILEE TRAIL,Gwen Bristow,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,7,2,0,0,0,2,3,2,0,0
+top1950:4286,pilot,1950,STAR MONEY,Kathleen Winsor,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,2,0,1,0,0,1,1,0,0,0
+top1950:4518,pilot,1950,THE ADVENTURER,Mika Waltari,ABSTAIN,INSUFFICIENT,,unclear,Single quote is insufficient to determine a narrating situation.,only 0 tense-bearing quotes,1,0,0,0,0,0,0,0,0,1
+top1950:4758,pilot,1950,THE CARDINAL,Henry Morton Robinson,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,0,0,1,0,0,2,0,0,0
+top1950:5676,pilot,1950,THE LITTLE WORLD OF DON CAMILLO,Giovanni Guareschi,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1951:1938,pilot,1951,FROM HERE TO ETERNITY,James Jones,PAST,PAST,high,retrospective,,"100% past / 0% present of 19, situation=retrospective",27,9,0,10,0,9,13,5,0,0
 top1951:4749,pilot,1951,THE CAINE MUTINY,Herman Wouk,PAST,PAST,high,retrospective,,"94% past / 6% present of 17, situation=retrospective",48,13,1,3,0,14,29,4,0,1
 top1951:4907,pilot,1951,THE CRUEL SEA,Nicholas Monsarrat,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",7,5,0,0,0,5,0,1,0,1
 top1952:1594,pilot,1952,EAST OF EDEN,John Steinbeck,PAST,PAST,high,retrospective,,"95% past / 5% present of 21, situation=retrospective",95,13,1,7,0,14,63,17,1,0
 top1952:3138,pilot,1952,MY COUSIN RACHEL,Daphne du Maurier,PAST,PAST,high,retrospective,,"93% past / 7% present of 28, situation=retrospective",46,25,2,1,0,27,15,4,0,0
-top1952:6310,pilot,1952,THE SILVER CHALICE,Thomas B. Costain,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,3,0,0,0,0,0,3,0,0,0
-top1953:599,pilot,1953,BATTLE CRY,Leon Uris,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,3,0,0,0,0,0,3,0,0,0
-top1953:687,pilot,1953,BEYOND THIS PLACE,A.J. Cronin,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1953:1428,pilot,1953,DESIREE,Annemarie Selinko,ABSTAIN,INSUFFICIENT,,unclear,,only 1 event quotes,1,0,0,0,1,0,1,0,0,0
-top1953:6863,pilot,1953,TIME AND TIME AGAIN,James Hilton,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,1,0,0,0,1,0,1,0,0
+top1952:6310,pilot,1952,THE SILVER CHALICE,Thomas B. Costain,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,3,0,0,0,0,0,3,0,0,0
+top1953:599,pilot,1953,BATTLE CRY,Leon Uris,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,3,0,0,0,0,0,3,0,0,0
+top1953:687,pilot,1953,BEYOND THIS PLACE,A.J. Cronin,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1953:1428,pilot,1953,DESIREE,Annemarie Selinko,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,1,0,0,0,1,0,1,0,0,0
+top1953:2583,pilot,1953,KINGFISHERS CATCH FIRE,Rumer Godden,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,4,3,0,1,0,3,1,0,0,0
+top1953:4924,pilot,1953,THE DARK ANGEL,Mika Waltari,ABSTAIN,INSUFFICIENT,,unclear,The two excerpts do not establish the work's overall narrating situation.,only 2 tense-bearing quotes,2,1,0,1,0,1,1,0,0,0
+top1953:6863,pilot,1953,TIME AND TIME AGAIN,James Hilton,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,1,0,0,0,1,0,1,0,0
+top1953:6923,pilot,1953,TOO LATE THE PHALAROPE,Alan Paton,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",11,5,0,2,0,5,4,2,0,0
 top1954:2545,pilot,1954,KATHERINE,Anya Seton,PAST,PAST,high,retrospective,,"93% past / 7% present of 15, situation=retrospective",27,11,1,3,0,12,7,6,0,2
-top1954:2811,pilot,1954,LOVE IS ETERNAL,Irving Stone,ABSTAIN,INSUFFICIENT,,unclear,The excerpt contains no scene-level narration from which to establish a base narrating situation.,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1954:2913,pilot,1954,MARY ANNE,Daphne du Maurier,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,6,2,0,1,0,2,2,1,1,0
-top1954:3192,pilot,1954,"NEVER VICTORIOUS, NEVER DEFEATED",Taylor Caldwell,ABSTAIN,INSUFFICIENT,,retrospective,Validated: two input quotes are represented once each in source order with production-compatible fields.,only 2 event quotes,2,2,0,0,0,2,0,0,0,0
-top1954:4999,pilot,1954,THE DOLLMAKER,Harriette Arnow,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,4,1,0,0,0,1,3,0,0,0
-top1954:6168,pilot,1954,THE ROYAL BOX,Frances Parkinson Keyes,ABSTAIN,INSUFFICIENT,,retrospective,Single event-narration excerpt is retrospective.,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
-top1955:457,pilot,1955,ANDERSONVILLE,MacKinlay Kantor,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,1,0,1,0,1,1,0,0,0
+top1954:2811,pilot,1954,LOVE IS ETERNAL,Irving Stone,ABSTAIN,INSUFFICIENT,,unclear,The excerpt contains no scene-level narration from which to establish a base narrating situation.,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1954:2913,pilot,1954,MARY ANNE,Daphne du Maurier,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,6,2,0,1,0,2,2,1,1,0
+top1954:3192,pilot,1954,"NEVER VICTORIOUS, NEVER DEFEATED",Taylor Caldwell,ABSTAIN,INSUFFICIENT,,retrospective,Validated: two input quotes are represented once each in source order with production-compatible fields.,only 2 tense-bearing quotes,2,2,0,0,0,2,0,0,0,0
+top1954:4999,pilot,1954,THE DOLLMAKER,Harriette Arnow,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,4,1,0,0,0,1,3,0,0,0
+top1954:6168,pilot,1954,THE ROYAL BOX,Frances Parkinson Keyes,ABSTAIN,INSUFFICIENT,,retrospective,Single event-narration excerpt is retrospective.,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
+top1955:457,pilot,1955,ANDERSONVILLE,MacKinlay Kantor,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,1,0,1,0,1,1,0,0,0
 top1955:549,pilot,1955,AUNTIE MAME,Patrick Dennis,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",11,3,0,2,0,3,4,2,2,0
 top1955:5750,pilot,1955,THE MAN IN THE GRAY FLANNEL SUIT,Sloan Wilson,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",17,4,0,5,0,4,11,2,0,0
-top1956:1135,pilot,1956,COMPULSION,Meyer Levin,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top1956:1135,pilot,1956,COMPULSION,Meyer Levin,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top1956:2374,pilot,1956,IMPERIAL WOMAN,Pearl S. Buck,PAST,PAST,high,retrospective,Event narration is overwhelmingly retrospective; one story-specific present statement does not indicate a dual narrating position.,"93% past / 7% present of 15, situation=retrospective",19,12,1,2,0,13,3,2,0,1
-top1956:3507,pilot,1956,PEYTON PLACE,Grace Metalious,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,12,2,0,2,0,2,8,2,0,0
+top1956:3507,pilot,1956,PEYTON PLACE,Grace Metalious,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,12,2,0,2,0,2,8,2,0,0
 top1956:5591,pilot,1956,THE LAST HURRAH,Edwin O'Connor,PAST,PAST,high,retrospective,,"94% past / 6% present of 17, situation=retrospective",29,5,1,11,0,6,23,0,0,0
 top1956:5761,pilot,1956,THE MANDARINS,Simone de Beauvoir,PAST,PAST,high,retrospective,,"87% past / 13% present of 15, situation=retrospective",26,10,2,3,0,12,6,8,0,0
-top1957:771,pilot,1957,BLUE CAMELLIA,Frances Parkinson Keyes,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1957:771,pilot,1957,BLUE CAMELLIA,Frances Parkinson Keyes,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1957:3363,pilot,1957,ON THE BEACH,Nevil Shute,PAST,PAST,high,retrospective,,"71% past / 29% present of 14, situation=retrospective",23,5,4,5,0,9,12,2,0,0
-top1957:5575,pilot,1957,THE LAST ANGRY MAN,Gerald Green,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1957:5575,pilot,1957,THE LAST ANGRY MAN,Gerald Green,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1957:6200,pilot,1957,THE SCAPEGOAT,Daphne du Maurier,PAST,PAST,high,retrospective,,"100% past / 0% present of 15, situation=retrospective",24,15,0,0,0,15,6,2,0,1
-top1958:447,pilot,1958,ANATOMY OF A MURDER,Robert Traver,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,8,3,0,0,0,3,0,4,1,0
+top1958:447,pilot,1958,ANATOMY OF A MURDER,Robert Traver,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,8,3,0,0,0,3,0,4,1,0
 top1958:1484,pilot,1958,DOCTOR ZHIVAGO,Boris Pasternak,PAST,PAST,high,retrospective,,"84% past / 16% present of 25, situation=retrospective",68,21,4,0,0,25,15,23,0,5
 top1958:1699,pilot,1958,EXODUS,Leon Uris,PAST,PAST,high,retrospective,,"100% past / 0% present of 23, situation=retrospective",32,19,0,4,0,19,10,2,0,1
 top1958:2745,pilot,1958,LOLITA,Vladimir Nabokov,PAST,PAST,high,retrospective,,"83% past / 17% present of 12, situation=retrospective",24,10,2,0,0,12,6,5,0,1
-top1958:6715,pilot,1958,THE WINTHROP WOMAN,Anya Seton,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,5,2,0,1,0,2,2,1,0,0
-top1959:319,pilot,1959,ADVISE AND CONSENT,Allen Drury,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,5,1,0,2,0,1,3,0,1,0
-top1959:1355,pilot,1959,DEAR AND GLORIOUS PHYSICIAN,Taylor Caldwell,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,15,1,0,2,0,1,5,9,0,0
+top1958:6715,pilot,1958,THE WINTHROP WOMAN,Anya Seton,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,5,2,0,1,0,2,2,1,0,0
+top1959:319,pilot,1959,ADVISE AND CONSENT,Allen Drury,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,5,1,0,2,0,1,3,0,1,0
+top1959:1355,pilot,1959,DEAR AND GLORIOUS PHYSICIAN,Taylor Caldwell,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,15,1,0,2,0,1,5,9,0,0
 top1959:2126,pilot,1959,HAWAII,James A. Michener,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",24,7,0,3,0,7,12,5,0,0
-top1959:2619,pilot,1959,LADY CHATTERLY'S LOVER,D.H. Lawrence,ABSTAIN,INSUFFICIENT,,simultaneous,,only 1 event quotes,1,0,1,0,0,1,0,0,0,0
-top1959:3111,pilot,1959,MRS. ARRIS GOES TO PARIS,Paul Gallico,ABSTAIN,INSUFFICIENT,,retrospective,Three story-specific past event excerpts; one gnomic generalization.,only 3 event quotes,4,3,0,0,0,3,0,1,0,0
+top1959:3111,pilot,1959,MRS. ARRIS GOES TO PARIS,Paul Gallico,ABSTAIN,INSUFFICIENT,,retrospective,Three story-specific past event excerpts; one gnomic generalization.,only 3 tense-bearing quotes,4,3,0,0,0,3,0,1,0,0
 top1959:4970,pilot,1959,THE DEVIL'S ADVOCATE,Morris L. West,PAST,PAST,CONFLICT,retrospective,,"50% past / 50% present of 12, situation=retrospective",19,6,6,0,0,12,3,4,0,0
-top1960:5599,pilot,1960,THE LAST OF THE JUST,Andre Schwarz-Bart,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,5,0,0,1,1,0,4,1,0,0
+top1960:5599,pilot,1960,THE LAST OF THE JUST,Andre Schwarz-Bart,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,5,0,0,1,1,0,4,1,0,0
 top1960:5646,pilot,1960,THE LEOPARD,Guiseppe di Lampedusa,PAST,PAST,high,retrospective,,"100% past / 0% present of 12, situation=retrospective",26,11,0,1,0,11,10,5,0,0
 top1960:6887,pilot,1960,TO KILL A MOCKINGBIRD,Harper Lee,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",25,6,0,1,0,6,18,1,0,0
-top1961:1919,pilot,1961,FRANNY AND ZOOEY,J.D. Salinger,ABSTAIN,INSUFFICIENT,,retrospective,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1961:1919,pilot,1961,FRANNY AND ZOOEY,J.D. Salinger,PAST,PAST,CONFLICT,retrospective,,"62% past / 38% present of 32, situation=retrospective",91,18,12,2,0,30,55,4,0,2
 top1961:4529,pilot,1961,THE AGONY AND THE ECSTASY,Irving Stone,PAST,PAST,high,retrospective,,"100% past / 0% present of 19, situation=retrospective",47,18,0,1,0,18,13,15,0,1
 top1961:4764,pilot,1961,THE CARPETBAGGERS,Harold Robbins,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",12,2,0,7,0,2,8,2,0,0
 top1962:1715,pilot,1962,FAIL-SAFE,Eugene Burdick and Harvey Wheeler,PAST,PAST,med,retrospective,,"86% past / 14% present of 7, situation=retrospective",11,5,1,1,0,6,4,1,0,0
@@ -123,36 +130,36 @@ top1962:4059,pilot,1962,SHIP OF FOOLS,Katherine Anne Porter,PAST,PAST,high,retro
 top1962:7404,pilot,1962,YOUNGBLOOD HAWKE,Herman Wouk,PAST,PAST,med,retrospective,"Event narration is predominantly retrospective, with present-tense first-person reflection in the sampled excerpts.","71% past / 29% present of 7, situation=retrospective",14,3,2,2,0,5,3,5,0,1
 top1963:5339,pilot,1963,THE GROUP,Mary McCarthy,PAST,PAST,high,retrospective,,"100% past / 0% present of 17, situation=retrospective",22,13,0,4,0,13,8,1,0,0
 top1963:6289,pilot,1963,THE SHOES OF THE FISHERMAN,Morris L. West,PAST,PAST,high,retrospective,,"75% past / 25% present of 8, situation=retrospective",25,4,2,2,0,6,17,2,0,0
-top1963:6606,pilot,1963,THE VENETIAN AFFAIR,Helen MacInnes,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1963:6606,pilot,1963,THE VENETIAN AFFAIR,Helen MacInnes,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1964:2178,pilot,1964,HERZOG,Saul Bellow,PAST,PAST,high,retrospective,,"100% past / 0% present of 14, situation=retrospective",51,8,0,6,0,8,16,25,0,2
-top1964:5745,pilot,1964,THE MAN,Irving Wallace,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,10,1,0,3,0,1,4,5,0,0
+top1964:5745,pilot,1964,THE MAN,Irving Wallace,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,10,1,0,3,0,1,4,5,0,0
 top1964:6381,pilot,1964,THE SPY WHO CAME IN FROM THE COLD,John le Carré,PAST,PAST,high,retrospective,,"100% past / 0% present of 35, situation=retrospective",57,22,0,13,0,22,25,6,4,0
-top1965:2271,pilot,1965,HOTEL,Arthur Hailey,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,5,1,0,0,0,1,0,4,0,0
+top1965:2271,pilot,1965,HOTEL,Arthur Hailey,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,5,1,0,0,0,1,0,4,0,0
 top1965:6366,pilot,1965,THE SOURCE,James Michener,PAST,PAST,high,retrospective,,"100% past / 0% present of 16, situation=retrospective",22,10,0,6,0,10,8,4,0,0
 top1965:7086,pilot,1965,UP THE DOWN STAIRCASE,Bel Kaufman,OTHER,DUAL,high,dual,,"67% past / 33% present of 9, situation=dual",26,4,3,2,0,7,14,0,5,0
 top1966:4428,pilot,1966,TAI-PAN,James Clavell,PAST,PAST,high,retrospective,,"100% past / 0% present of 8, situation=retrospective",26,7,0,1,0,7,11,8,0,0
-top1966:6232,pilot,1966,THE SECRET OF SANTA VITTORIA,Robert Crichton,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,2,0,0,0,0,0,1,1,0,0
+top1966:6232,pilot,1966,THE SECRET OF SANTA VITTORIA,Robert Crichton,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,2,0,0,0,0,0,1,1,0,0
 top1966:7095,pilot,1966,VALLEY OF THE DOLLS,Jacqueline Susann,PAST,PAST,high,retrospective,,"100% past / 0% present of 15, situation=retrospective",48,14,0,1,0,14,27,6,1,0
 top1967:3864,pilot,1967,ROSEMARY'S BABY,Ira Levin,PAST,PAST,high,retrospective,,"100% past / 0% present of 12, situation=retrospective",17,7,0,5,0,7,8,1,0,1
 top1967:4879,pilot,1967,THE CONFESSIONS OF NAT TURNER,William Styron,PAST,PAST,high,retrospective,,"87% past / 13% present of 15, situation=retrospective",38,6,1,7,1,7,20,7,3,1
-top1967:6929,pilot,1967,TOPAZ,Leon Uris,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,6,3,0,1,0,3,3,0,0,0
+top1967:6929,pilot,1967,TOPAZ,Leon Uris,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,6,3,0,1,0,3,3,0,0,0
 top1968:350,pilot,1968,AIRPORT,Arthur Hailey,PAST,PAST,high,retrospective,,"100% past / 0% present of 8, situation=retrospective",12,6,0,2,0,6,3,3,0,0
 top1968:1167,pilot,1968,COUPLES,John Updike,PAST,PAST,high,retrospective,,"100% past / 0% present of 17, situation=retrospective",24,17,0,0,0,17,3,4,0,0
 top1968:3155,pilot,1968,MYRA BRECKINRIDGE,Gore Vidal,PRESENT,PRESENT,med,simultaneous,The excerpts use a first-person present writing/reflection frame with embedded past recollections; no affirmative evidence identifies character dialogue.,"29% past / 71% present of 7, situation=simultaneous",8,2,5,0,0,7,0,1,0,0
-top1968:4482,pilot,1968,TESTIMONY OF TWO MEN,Taylor Caldwell,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1968:6186,pilot,1968,THE SALZBURG CONNECTION,Helen MacInnes,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,0,0,1,0,0,1,0,0,0
-top1969:3566,pilot,1969,PORTNOY'S COMPLAINT,Philip Roth,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,53,2,1,0,0,3,44,6,0,0
+top1968:4482,pilot,1968,TESTIMONY OF TWO MEN,Taylor Caldwell,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1968:6186,pilot,1968,THE SALZBURG CONNECTION,Helen MacInnes,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,0,0,1,0,0,1,0,0,0
+top1969:3566,pilot,1969,PORTNOY'S COMPLAINT,Philip Roth,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,53,2,1,0,0,3,44,6,0,0
 top1969:5206,pilot,1969,THE FRENCH LIEUTENANT'S WOMAN,John Fowles,PAST,PAST,high,retrospective,,"95% past / 5% present of 22, situation=retrospective",49,15,1,6,0,16,13,19,1,0
 top1969:5279,pilot,1969,THE GODFATHER,Mario Puzo,PAST,PAST,high,retrospective,,"100% past / 0% present of 14, situation=retrospective",50,12,0,2,0,12,37,1,0,0
 top1970:2816,pilot,1970,LOVE STORY,Erich Segal,PAST,PAST,high,retrospective,,"100% past / 0% present of 19, situation=retrospective",22,5,0,14,0,5,16,1,0,0
-top1970:3671,pilot,1970,QB VII,Leon Uris,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,9,2,0,1,0,2,2,5,0,0
+top1970:3671,pilot,1970,QB VII,Leon Uris,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,9,2,0,1,0,2,2,5,0,0
 top1970:4911,pilot,1970,THE CRYSTAL CAVE,Mary Stewart,PAST,PAST,high,retrospective,,"90% past / 10% present of 10, situation=retrospective",19,7,1,2,0,8,9,2,0,0
 top1971:4939,pilot,1971,THE DAY OF THE JACKAL,Frederick Forsyth,PAST,PAST,high,dual,,"91% past / 9% present of 11, situation=dual",15,10,1,0,0,11,1,3,0,0
 top1971:5081,pilot,1971,THE EXORCIST,William Peter Blatty,PAST,PAST,high,retrospective,,"100% past / 0% present of 19, situation=retrospective",49,15,0,4,0,15,23,5,6,0
 top1971:6709,pilot,1971,THE WINDS OF WAR,Herman Wouk,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",25,8,0,2,0,8,12,2,2,1
 top1972:2501,pilot,1972,JONATHAN LIVINGSTON SEAGULL,Richard Bach,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",23,4,0,6,0,4,17,2,0,0
 top1972:5914,pilot,1972,THE ODESSA FILE,Frederick Forsyth,PAST,PAST,med,retrospective,,"83% past / 17% present of 6, situation=retrospective",14,4,1,1,0,5,5,4,0,0
-top1972:6743,pilot,1972,THE WORD,Irving Wallace,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top1972:6743,pilot,1972,THE WORD,Irving Wallace,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top1973:886,pilot,1973,BURR,Gore Vidal,PAST,PAST,high,retrospective,,"97% past / 3% present of 35, situation=retrospective",45,21,1,13,0,22,13,10,0,0
 top1973:5401,pilot,1973,THE HOLLOW HILLS,Mary Stewart,PAST,PAST,high,retrospective,,"80% past / 20% present of 15, situation=retrospective",25,11,3,1,0,14,5,5,1,0
 top1974:982,pilot,1974,CENTENNIAL,James Michener.,PAST,PAST,high,retrospective,The book's narrative ground is retrospective past-tense historical narration.,"100% past / 0% present of 10, situation=retrospective",15,8,0,2,0,8,3,3,1,0
@@ -160,26 +167,26 @@ top1974:2482,pilot,1974,JAWS,Peter Benchley,PAST,PAST,high,retrospective,,"93% p
 top1974:6874,pilot,1974,"TINKER, TAILOR, SOLDIER, SPY",John le Carré,PAST,PAST,high,retrospective,,"99% past / 1% present of 83, situation=retrospective",104,51,1,31,0,52,46,6,0,0
 top1975:2769,pilot,1975,LOOKING FOR MR. GOODBAR,Judith Rossner,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",9,6,0,1,0,6,3,0,0,0
 top1975:3699,pilot,1975,RAGTIME,E. L. Doctorow,PAST,PAST,high,retrospective,,"96% past / 4% present of 25, situation=retrospective",34,23,1,1,0,24,9,1,0,0
-top1975:5815,pilot,1975,THE MONEYCHANGERS,Arthur Hailey,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,2,0,0,0,0,0,1,1,0,0
-top1976:23,pilot,1976,1876,Gore Vidal,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,2,0,0,0,0,0,0,2,0,0
-top1976:4148,pilot,1976,SLEEPING MURDER,Agatha Christie,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,10,2,0,1,0,2,5,3,0,0
+top1975:5815,pilot,1975,THE MONEYCHANGERS,Arthur Hailey,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,2,0,0,0,0,0,1,1,0,0
+top1976:23,pilot,1976,1876,Gore Vidal,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,2,0,0,0,0,0,0,2,0,0
+top1976:4148,pilot,1976,SLEEPING MURDER,Agatha Christie,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,10,2,0,1,0,2,5,3,0,0
 top1976:6971,pilot,1976,TRINITY,Leon Uris,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",25,6,0,4,0,6,18,0,1,0
 top1977:2363,pilot,1977,ILLUSIONS,Richard Bach,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",47,2,0,3,0,2,9,36,0,0
 top1977:6308,pilot,1977,THE SILMARILLION,J.R.R. Tolkien,PAST,PAST,high,retrospective,,"97% past / 3% present of 63, situation=retrospective",95,42,2,19,0,44,34,13,4,0
 top1977:6511,pilot,1977,THE THORN BIRDS,Colleen McCullough,PAST,PAST,high,retrospective,,"95% past / 5% present of 20, situation=retrospective",50,15,1,4,0,16,25,7,0,2
 top1978:1023,pilot,1978,CHESAPEAKE,James A. Michener,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",16,9,0,0,0,9,1,4,1,1
-top1978:1664,pilot,1978,EVERGREEN,Belva Plain,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1978:7166,pilot,1978,WAR AND REMEMBRANCE,Herman Wouk,PAST,PAST,high,retrospective,,"83% past / 17% present of 12, situation=retrospective",25,5,1,5,1,6,13,2,3,1
+top1978:1664,pilot,1978,EVERGREEN,Belva Plain,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1978:7166,pilot,1978,WAR AND REMEMBRANCE,Herman Wouk,PAST,PAST,CONFLICT,retrospective,,"29% past / 71% present of 7, situation=retrospective",24,2,4,0,1,6,7,6,0,5
 top1979:4218,pilot,1979,SOPHIE'S CHOICE,William Styron,PAST,PAST,high,retrospective,,"91% past / 9% present of 23, situation=retrospective",51,18,2,3,0,20,18,8,4,1
-top1979:4944,pilot,1979,THE DEAD ZONE,Stephen King,PAST,PAST,high,retrospective,,"90% past / 10% present of 10, situation=retrospective",23,8,1,1,0,9,6,8,0,0
-top1979:5777,pilot,1979,THE MATARESE CIRCLE,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,,only 1 event quotes,4,0,0,1,0,0,2,2,0,0
+top1979:4944,pilot,1979,THE DEAD ZONE,Stephen King,PAST,PAST,high,retrospective,,"100% past / 0% present of 19, situation=retrospective",38,15,0,4,0,15,10,7,0,6
+top1979:5777,pilot,1979,THE MATARESE CIRCLE,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,4,0,0,1,0,0,2,2,0,0
 top1979:6383,pilot,1979,THE STAND,Stephen King,PAST,PAST,high,retrospective,,"72% past / 28% present of 18, situation=retrospective",52,13,5,0,0,18,10,22,0,2
 top1979:6972,pilot,1979,TRIPLE,Ken Follett,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",9,5,0,0,0,5,1,2,0,1
-top1980:3621,pilot,1980,PRINCESS DAISY,Judith Krantz,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,4,1,0,0,0,1,1,2,0,0
+top1980:3621,pilot,1980,PRINCESS DAISY,Judith Krantz,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,4,1,0,0,0,1,1,2,0,0
 top1980:3696,pilot,1980,RAGE OF ANGELS,Sidney Sheldon,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",13,3,0,2,0,3,7,1,2,0
 top1980:4897,pilot,1980,THE COVENANT,James A. Michener,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",19,5,0,2,0,5,8,6,0,0
 top1981:2036,pilot,1981,GORKY PARK,Martin Cruz Smith,PAST,PAST,high,retrospective,,"100% past / 0% present of 15, situation=retrospective",29,11,0,4,0,11,16,2,0,0
-top1981:2921,pilot,1981,MASQUERADE,Kit Williams,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1981:2921,pilot,1981,MASQUERADE,Kit Williams,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1981:3278,pilot,1981,NOBLE HOUSE,James Clavell,PAST,PAST,high,retrospective,,"100% past / 0% present of 14, situation=retrospective",45,2,0,12,0,2,33,8,1,1
 top1982:4231,pilot,1982,SPACE,James A. Michener,PAST,PAST,med,retrospective,,"100% past / 0% present of 6, situation=retrospective",16,5,0,1,0,5,6,5,0,0
 top1982:6595,pilot,1982,THE VALLEY OF HORSES,Jean M. Auel,PAST,PAST,high,retrospective,,"100% past / 0% present of 13, situation=retrospective",25,8,0,5,0,8,13,4,0,0
@@ -187,94 +194,95 @@ top1983:1047,pilot,1983,CHRISTINE,Stephen King,PAST,PAST,high,retrospective,,"10
 top1983:3506,pilot,1983,PET SEMATARY,Stephen King,PAST,PAST,high,retrospective,,"89% past / 11% present of 9, situation=retrospective",25,8,1,0,0,9,6,10,0,0
 top1983:3550,pilot,1983,POLAND,James A. Michener,PAST,PAST,high,retrospective,,"92% past / 8% present of 12, situation=retrospective",18,6,0,5,1,6,7,3,2,0
 top1983:5671,pilot,1983,THE LITTLE DRUMMER GIRL,John le Carré,PAST,PAST,high,retrospective,,"77% past / 23% present of 22, situation=retrospective",33,14,5,3,0,19,6,5,0,3
-top1983:5851,pilot,1983,THE NAME OF THE ROSE,Umberto Eco,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,25,2,0,2,0,2,22,0,1,0
-top1984:9,pilot,1984,"''. . . AND LADIES OF THE CLUB,''",Helen Hooven Santmyer,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,7,1,0,1,0,1,5,1,0,0
+top1983:5851,pilot,1983,THE NAME OF THE ROSE,Umberto Eco,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,25,2,0,2,0,2,22,0,1,0
+top1984:9,pilot,1984,"''. . . AND LADIES OF THE CLUB,''",Helen Hooven Santmyer,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,7,1,0,1,0,1,5,1,0,0
 top1984:2718,pilot,1984,LINCOLN,Gore Vidal,PAST,PAST,high,retrospective,,"100% past / 0% present of 21, situation=retrospective",28,6,0,15,0,6,19,2,0,1
-top1984:4564,pilot,1984,THE AQUITAINE PROGRESSION,Robert Ludlum,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,5,3,0,1,0,3,1,1,0,0
-top1984:5202,pilot,1984,THE FOURTH PROTOCOL,Frederick Forsyth,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,0,1,0
-top1984:5352,pilot,1984,THE HAJ,Leon Uris,ABSTAIN,INSUFFICIENT,,retrospective,Event narration is retrospective; dialogue excerpts carry no external narration beats.,only 3 event quotes,7,3,0,0,0,3,3,1,0,0
+top1984:4564,pilot,1984,THE AQUITAINE PROGRESSION,Robert Ludlum,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,5,3,0,1,0,3,1,1,0,0
+top1984:5202,pilot,1984,THE FOURTH PROTOCOL,Frederick Forsyth,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,0,1,0
+top1984:5352,pilot,1984,THE HAJ,Leon Uris,ABSTAIN,INSUFFICIENT,,retrospective,Event narration is retrospective; dialogue excerpts carry no external narration beats.,only 3 tense-bearing quotes,7,3,0,0,0,3,3,1,0,0
 top1984:6293,pilot,1984,THE SICILIAN,Mario Puzo,PAST,PAST,high,retrospective,"Event evidence is predominantly retrospective, with one present-tense story-specific assertion.","93% past / 7% present of 14, situation=retrospective",25,9,1,4,0,10,5,8,0,2
 top1984:6462,pilot,1984,THE TALISMAN,Stephen King and Peter Straub,PAST,PAST,high,retrospective,,"100% past / 0% present of 16, situation=retrospective",22,16,0,0,0,16,3,3,0,0
 top1985:2361,pilot,1985,IF TOMORROW COMES,Sidney Sheldon,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",15,6,0,3,0,6,7,2,0,0
-top1985:2624,pilot,1985,LAKE WOBEGON DAYS,Garrison Keillor,ABSTAIN,INSUFFICIENT,,dual,,only 4 event quotes,14,3,1,0,0,4,7,3,0,0
+top1985:2624,pilot,1985,LAKE WOBEGON DAYS,Garrison Keillor,ABSTAIN,INSUFFICIENT,,dual,,only 4 tense-bearing quotes,14,3,1,0,0,4,7,3,0,0
 top1985:5744,pilot,1985,THE MAMMOTH HUNTERS,Jean M. Auel,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",20,7,0,2,0,7,6,6,0,1
 top1986:2466,pilot,1986,IT,Stephen King,PAST,PAST,high,retrospective,,"100% past / 0% present of 8, situation=retrospective",24,4,0,4,0,4,12,7,1,0
 top1986:3741,pilot,1986,RED STORM RISING,Tom Clancy,PAST,PAST,high,retrospective,,"94% past / 6% present of 17, situation=retrospective",26,12,1,4,0,13,9,4,0,0
 top1986:6051,pilot,1986,THE PRINCE OF TIDES,Pat Conroy,PAST,PAST,high,retrospective,,"92% past / 8% present of 64, situation=retrospective",101,52,5,7,0,57,19,18,6,1
 top1987:3480,pilot,1987,PATRIOT GAMES,Tom Clancy,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",20,6,0,3,0,6,9,3,2,0
-top1987:3600,pilot,1987,PRESUMED INNOCENT,Scott Turow,ABSTAIN,INSUFFICIENT,,dual,,only 4 event quotes,7,1,1,0,2,2,2,2,0,1
+top1987:3600,pilot,1987,PRESUMED INNOCENT,Scott Turow,ABSTAIN,INSUFFICIENT,,dual,,only 4 tense-bearing quotes,7,1,1,0,2,2,2,2,0,1
 top1987:4679,pilot,1987,THE BONFIRE OF THE VANITIES,Tom Wolfe,PAST,PAST,high,retrospective,,"89% past / 11% present of 18, situation=retrospective",23,16,2,0,0,18,2,3,0,0
 top1988:352,pilot,1988,ALASKA,James A. Michener,PAST,PAST,high,retrospective,,"80% past / 20% present of 20, situation=retrospective",25,13,4,3,0,17,6,0,0,2
 top1988:831,pilot,1988,BREATHING LESSONS,Anne Tyler,PAST,PAST,high,retrospective,,"100% past / 0% present of 24, situation=retrospective",32,22,0,2,0,22,6,3,0,1
-top1988:4759,pilot,1988,THE CARDINAL OF THE KREMLIN,Tom Clancy,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,14,3,0,0,0,3,3,7,1,0
-top1988:5454,pilot,1988,THE ICARUS AGENDA,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,The sole quote is non-diagnostic past-tense rhetorical generalization.,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
+top1988:4759,pilot,1988,THE CARDINAL OF THE KREMLIN,Tom Clancy,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,14,3,0,0,0,3,3,7,1,0
+top1988:5454,pilot,1988,THE ICARUS AGENDA,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,The sole quote is non-diagnostic past-tense rhetorical generalization.,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
 top1988:6278,pilot,1988,THE SHELL SEEKERS,Rosamunde Pilcher,PAST,PAST,high,retrospective,,"100% past / 0% present of 24, situation=retrospective",49,21,0,3,0,21,16,9,3,0
 top1989:1079,pilot,1989,CLEAR AND PRESENT DANGER,Tom Clancy,PAST,PAST,high,retrospective,,"100% past / 0% present of 12, situation=retrospective",20,12,0,0,0,12,3,5,0,0
-top1989:4438,pilot,1989,TALES FROM MARGARITAVILLE,Jimmy Buffett,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,2,0,0,0,0,0,0,2,0,0
+top1989:4438,pilot,1989,TALES FROM MARGARITAVILLE,Jimmy Buffett,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,2,0,0,0,0,0,0,2,0,0
 top1989:5515,pilot,1989,THE JOY LUCK CLUB,Amy Tan,PAST,PAST,high,dual,,"84% past / 16% present of 51, situation=dual",96,40,7,3,1,47,44,5,0,0
 top1990:2956,pilot,1990,MEMORIES OF MIDNIGHT,Sidney Sheldon,PAST,PAST,med,retrospective,6 event quotes: 5 past and 1 present; dialogue beats provide no additional tense evidence.,"86% past / 14% present of 7, situation=retrospective",12,6,1,0,0,7,2,1,1,1
-top1990:3343,pilot,1990,"OH, THE PLACES YOU'LL GO!",Dr. Seuss,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,21,0,0,0,0,0,0,21,0,0
+top1990:3343,pilot,1990,"OH, THE PLACES YOU'LL GO!",Dr. Seuss,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,21,0,0,0,0,0,0,21,0,0
 top1990:4003,pilot,1990,SEPTEMBER,Rosamunde Pilcher,PAST,PAST,med,retrospective,,"80% past / 20% present of 5, situation=retrospective",13,4,1,0,0,5,0,7,0,1
-top1990:4708,pilot,1990,THE BOURNE ULTIMATUM,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,No event-narration excerpts are available to determine a narrating situation.,only 0 event quotes,3,0,0,0,0,0,1,2,0,0
-top1990:4734,pilot,1990,THE BURDEN OF PROOF,Scott Turow,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,3,2,0,0,0,2,1,0,0,0
+top1990:4708,pilot,1990,THE BOURNE ULTIMATUM,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,No event-narration excerpts are available to determine a narrating situation.,only 0 tense-bearing quotes,3,0,0,0,0,0,1,2,0,0
+top1990:4734,pilot,1990,THE BURDEN OF PROOF,Scott Turow,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,3,2,0,0,0,2,1,0,0,0
 top1990:6019,pilot,1990,THE PLAINS OF PASSAGE,Jean M. Auel,PAST,PAST,high,retrospective,,"100% past / 0% present of 11, situation=retrospective",14,9,0,2,0,9,3,1,0,1
 top1991:3945,pilot,1991,SCARLETT,Alexandra Ripley,PAST,PAST,high,retrospective,,"89% past / 11% present of 19, situation=retrospective",49,10,1,7,1,11,33,5,0,0
 top1991:5144,pilot,1991,THE FIRM,John Grisham,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",13,4,0,1,0,4,8,1,0,0
 top1991:6426,pilot,1991,THE SUM OF ALL FEARS,Tom Clancy,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",18,2,0,3,0,2,8,6,1,1
 top1992:1979,pilot,1992,GERALD'S GAME,Stephen King,PAST,PAST,high,retrospective,,"87% past / 13% present of 15, situation=retrospective",25,11,2,2,0,13,11,1,0,0
-top1992:2060,pilot,1992,GRIFFIN & SABINE,Nick Bantock,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,4,1,0,0,0,1,3,0,0,0
-top1992:3894,pilot,1992,SABINE'S NOTEBOOK,Nick Bantock,ABSTAIN,INSUFFICIENT,,unclear,,only 2 event quotes,4,1,1,0,0,2,2,0,0,0
+top1992:2060,pilot,1992,GRIFFIN & SABINE,Nick Bantock,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,4,1,0,0,0,1,3,0,0,0
+top1992:3894,pilot,1992,SABINE'S NOTEBOOK,Nick Bantock,ABSTAIN,INSUFFICIENT,,unclear,,only 2 tense-bearing quotes,4,1,1,0,0,2,2,0,0,0
 top1992:4723,pilot,1992,THE BRIDGES OF MADISON COUNTY,Robert James Waller,PAST,PAST,high,retrospective,,"100% past / 0% present of 16, situation=retrospective",55,15,0,1,0,15,30,7,1,2
-top1992:5993,pilot,1992,THE PELICAN BRIEF,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,1,0,0,0,1,1,0,0,0
-top1992:7158,pilot,1992,WAITING TO EXHALE,Terry McMillan,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,3,0,0,0,0,0,2,1,0,0
+top1992:5993,pilot,1992,THE PELICAN BRIEF,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,1,0,0,0,1,1,0,0,0
+top1992:7158,pilot,1992,WAITING TO EXHALE,Terry McMillan,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,3,0,0,0,0,0,2,1,0,0
 top1993:2712,pilot,1993,LIKE WATER FOR CHOCOLATE,Laura Esquivel,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",25,10,0,0,0,10,6,8,1,0
 top1993:4852,pilot,1993,THE CLIENT,John Grisham,PAST,PAST,high,retrospective,,"100% past / 0% present of 13, situation=retrospective",23,8,0,5,0,8,11,4,0,0
 top1993:7344,pilot,1993,WITHOUT REMORSE,Tom Clancy,PAST,PAST,high,retrospective,,"100% past / 0% present of 14, situation=retrospective",30,12,0,2,0,12,4,12,1,1
 top1994:3132,pilot,1994,MUTANT MESSAGE DOWN UNDER,Marlo Morgan,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",16,4,0,1,0,4,4,8,0,0
 top1994:3555,pilot,1994,POLITICALLY CORRECT BEDTIME STORIES,James Finn Garner,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",11,7,0,3,0,7,3,1,0,0
-top1994:4796,pilot,1994,THE CELESTINE PROPHECY,James Redfield,ABSTAIN,INSUFFICIENT,,retrospective,,only 0 event quotes,27,0,0,0,0,0,27,0,0,0
-top1995:4830,pilot,1995,THE CHRISTMAS BOX,Richard Paul Evans,ABSTAIN,INSUFFICIENT,,unclear,,only 1 event quotes,6,0,0,1,0,0,1,5,0,0
+top1994:4796,pilot,1994,THE CELESTINE PROPHECY,James Redfield,ABSTAIN,INSUFFICIENT,,retrospective,,only 0 tense-bearing quotes,27,0,0,0,0,0,27,0,0,0
+top1995:4830,pilot,1995,THE CHRISTMAS BOX,Richard Paul Evans,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,6,0,0,1,0,0,1,5,0,0
 top1995:5413,pilot,1995,THE HORSE WHISPERER,Nicholas Evans,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",14,6,0,1,0,6,5,2,0,1
-top1995:6096,pilot,1995,THE RAINMAKER,John Grisham,PAST,PAST,high,retrospective,,"100% past / 0% present of 13, situation=retrospective",23,8,0,5,0,8,12,3,0,0
+top1995:6096,pilot,1995,THE RAINMAKER,John Grisham,PRESENT,PRESENT,high,simultaneous,,"12% past / 88% present of 16, situation=simultaneous",25,2,14,0,0,16,1,7,0,1
 top1996:293,hist,1996,ABSOLUTE POWER,David Baldacci,PAST,PAST,high,retrospective,,"100% past / 0% present of 14, situation=retrospective",22,12,0,2,0,12,4,5,0,1
 top1996:349,hist,1996,AIRFRAME,Michael Crichton,PAST,PAST,med,retrospective,,"86% past / 14% present of 7, situation=retrospective",11,4,1,2,0,5,5,1,0,0
 top1996:967,hist,1996,CAUSE OF DEATH,Patricia Cornwell,PAST,PAST,med,retrospective,,"100% past / 0% present of 6, situation=retrospective",8,4,0,2,0,4,3,1,0,0
 top1996:1431,hist,1996,DESPERATION,Stephen King,PAST,PAST,high,retrospective,,"86% past / 14% present of 14, situation=retrospective",23,9,1,3,1,10,8,3,0,2
 top1996:1689,hist,1996,EXECUTIVE ORDERS,Tom Clancy,PAST,PAST,high,retrospective,Event-narration evidence is consistently past tense; dialogue beats are also past where present.,"100% past / 0% present of 27, situation=retrospective",47,24,0,3,0,24,11,7,3,2
-top1996:1735,hist,1996,FALLING UP,Shel Silverstein,ABSTAIN,INSUFFICIENT,,unclear,Only five supplied excerpts; they are poetic and yield no event-narration evidence for a narrating-situation determination.,only 2 event quotes,5,0,0,2,0,0,3,1,0,1
+top1996:1735,hist,1996,FALLING UP,Shel Silverstein,ABSTAIN,INSUFFICIENT,,unclear,Only five supplied excerpts; they are poetic and yield no event-narration evidence for a narrating-situation determination.,only 2 tense-bearing quotes,5,0,0,2,0,0,3,1,0,1
 top1996:2012,hist,1996,GODS AND GENERALS,Jeff Shaara,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",14,6,0,1,0,6,7,0,0,1
-top1996:2287,hist,1996,HOW STELLA GOT HER GROOVE BACK,Terry McMillan,ABSTAIN,INSUFFICIENT,,simultaneous,"Present-tense first-person narration, with a retrospective memory passage.",only 4 event quotes,4,1,2,0,1,3,1,0,0,0
-top1996:2330,hist,1996,I WAS AMELIA EARHART,Jane Mendelsohn,ABSTAIN,INSUFFICIENT,,unclear,,only 2 event quotes,4,1,1,0,0,2,1,1,0,0
+top1996:2287,hist,1996,HOW STELLA GOT HER GROOVE BACK,Terry McMillan,ABSTAIN,INSUFFICIENT,,simultaneous,"Present-tense first-person narration, with a retrospective memory passage.",only 4 tense-bearing quotes,4,1,2,0,1,3,1,0,0,0
+top1996:2330,hist,1996,I WAS AMELIA EARHART,Jane Mendelsohn,ABSTAIN,INSUFFICIENT,,unclear,,only 2 tense-bearing quotes,4,1,1,0,0,2,1,1,0,0
 top1996:2436,hist,1996,INTENSITY,Dean Koontz,PAST,PAST,high,retrospective,Manual audit: the authorized opening confirms past base narration; Goodreads quotations appear cross-title contaminated.,"75% past / 25% present of 16, situation=retrospective",27,12,4,0,0,16,2,8,1,0
-top1996:3056,hist,1996,MOONLIGHT BECOMES YOU,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 2 event quotes,2,1,1,0,0,2,0,0,0,0
-top1996:3608,hist,1996,PRIMARY COLORS,Anonymous,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,4,1,0,0,0,1,0,3,0,0
-top1996:4957,hist,1996,THE DEEP END OF THE OCEAN,Jacquelyn Mitchard,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,3,3,0,0,0,3,0,0,0,0
+top1996:3056,hist,1996,MOONLIGHT BECOMES YOU,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 2 tense-bearing quotes,2,1,1,0,0,2,0,0,0,0
+top1996:3608,hist,1996,PRIMARY COLORS,Anonymous,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,4,1,0,0,0,1,0,3,0,0
+top1996:4957,hist,1996,THE DEEP END OF THE OCEAN,Jacquelyn Mitchard,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,3,3,0,0,0,3,0,0,0,0
 top1996:5634,hist,1996,THE LAWS OF OUR FATHERS,Scott Turow,ABSTAIN,UNCLEAR,,unclear,,situation='unclear',7,1,3,0,1,4,1,1,0,1
 top1996:5903,hist,1996,THE NOTEBOOK,Nicholas Sparks,OTHER,DUAL,high,dual,Event excerpts show a past-tense recollective layer and a distinct present-tense first-person reflective/immediate layer. Speech and gnomic excerpts were excluded from event-tense evidence.,"67% past / 33% present of 27, situation=dual",70,16,9,2,0,25,33,10,0,2
 top1996:6117,hist,1996,THE REGULATORS,Richard Bachman,ABSTAIN,UNCLEAR,,unclear,,situation='unclear',10,5,5,0,0,10,0,0,0,0
 top1996:6178,hist,1996,THE RUNAWAY JURY,John Grisham,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",8,5,0,0,0,5,1,2,0,0
 top1996:6484,hist,1996,THE TENTH INSIGHT,James Redfield,PAST,PAST,high,retrospective,,"100% past / 0% present of 8, situation=retrospective",28,7,0,1,0,7,3,18,0,0
 top1997:64,hist,1997,A CERTAIN JUSTICE,P. D. James,ABSTAIN,UNCLEAR,,unclear,,situation='unclear',10,3,1,1,0,4,4,1,0,1
-top1997:957,hist,1997,CAT & MOUSE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,Three event-narration excerpts are past-tense; the remaining excerpts are primarily aphoristic or dialogue.,only 4 event quotes,12,3,0,1,0,3,1,6,0,2
+top1997:957,hist,1997,CAT & MOUSE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,Three event-narration excerpts are past-tense; the remaining excerpts are primarily aphoristic or dialogue.,only 4 tense-bearing quotes,12,3,0,1,0,3,1,6,0,2
 top1997:1098,hist,1997,COLD MOUNTAIN,Charles Frazier,PAST,PAST,high,retrospective,,"79% past / 21% present of 14, situation=retrospective",23,9,3,2,0,12,7,4,0,0
 top1997:1110,hist,1997,COMANCHE MOON,Larry McMurtry,PAST,PAST,high,retrospective,,"100% past / 0% present of 19, situation=retrospective",23,11,0,8,0,11,12,0,0,0
-top1997:1659,hist,1997,EVENING CLASS,Maeve Binchy,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top1997:1762,hist,1997,FAT TUESDAY,Sandra Brown,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,1,0,0,0,1,0,1,0,0
-top1997:2256,hist,1997,HORNET'S NEST,Patricia Cornwell,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top1997:1659,hist,1997,EVENING CLASS,Maeve Binchy,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top1997:1762,hist,1997,FAT TUESDAY,Sandra Brown,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,1,0,0,0,1,0,1,0,0
+top1997:2256,hist,1997,HORNET'S NEST,Patricia Cornwell,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top1997:2746,hist,1997,LONDON,Edward Rutherfurd,PAST,PAST,high,retrospective,,"100% past / 0% present of 16, situation=retrospective",18,12,0,4,0,12,4,2,0,0
 top1997:2952,hist,1997,MEMOIRS OF A GEISHA,Arthur Golden,PAST,PAST,high,retrospective,Classified solely from supplied excerpts. Story-specific first-person recollections overwhelmingly use past narration; present-tense memoir framing and aphorisms were kept distinct.,"84% past / 16% present of 49, situation=retrospective",97,37,8,4,0,45,21,31,0,0
 top1997:3542,hist,1997,PLUM ISLAND,Nelson DeMille,PAST,PAST,high,retrospective,"Event narration is predominantly retrospective past; the present event passages are first-person reflections, not a distinct simultaneous or dual frame.","83% past / 17% present of 23, situation=retrospective",50,18,4,1,0,22,9,18,0,1
-top1997:3602,hist,1997,PRETEND YOU DON'T SEE HER,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,1,0,1,0,1,1,0,0,0
+top1997:3602,hist,1997,PRETEND YOU DON'T SEE HER,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,1,0,1,0,1,1,0,0,0
 top1997:4187,hist,1997,SOLE SURVIVOR,Dean Koontz,PAST,PAST,high,retrospective,,"100% past / 0% present of 11, situation=retrospective",19,9,0,2,0,9,2,8,0,0
-top1997:4239,hist,1997,SPECIAL DELIVERY,Danielle Steel,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
-top1997:5238,hist,1997,THE GHOST,Danielle Steel,ABSTAIN,INSUFFICIENT,,simultaneous,,only 1 event quotes,1,0,1,0,0,1,0,0,0,0
+top1997:4239,hist,1997,SPECIAL DELIVERY,Danielle Steel,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
+top1997:5238,hist,1997,THE GHOST,Danielle Steel,ABSTAIN,INSUFFICIENT,,simultaneous,,only 1 tense-bearing quotes,1,0,1,0,0,1,0,0,0,0
 top1997:5276,hist,1997,THE GOD OF SMALL THINGS,Arundhati Roy,PAST,PAST,high,retrospective,"Classified solely from supplied quote text. Event narration is overwhelmingly retrospective past, with isolated story-specific present narration.","96% past / 4% present of 57, situation=retrospective",75,53,2,2,0,55,4,14,0,2
-top1997:5647,hist,1997,THE LETTER,Richard Paul Evans,ABSTAIN,INSUFFICIENT,,simultaneous,,only 1 event quotes,8,0,1,0,0,1,5,2,0,0
-top1997:5778,hist,1997,THE MATARESE COUNTDOWN,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,3,0,0,0,0,0,1,2,0,0
+top1997:5647,hist,1997,THE LETTER,Richard Paul Evans,ABSTAIN,INSUFFICIENT,,simultaneous,,only 1 tense-bearing quotes,8,0,1,0,0,1,5,2,0,0
+top1997:5778,hist,1997,THE MATARESE COUNTDOWN,Robert Ludlum,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,3,0,0,0,0,0,1,2,0,0
+top1997:5976,hist,1997,THE PARTNER,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,4,3,0,0,0,3,0,1,0,0
 top1997:6712,hist,1997,THE WINNER,David Baldacci,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",7,5,0,0,0,5,0,0,0,2
 top1997:6930,hist,1997,TOTAL CONTROL,David Baldacci,PAST,PAST,med,retrospective,,"86% past / 14% present of 7, situation=retrospective",13,6,1,0,0,7,5,1,0,0
 top1997:7070,hist,1997,UNNATURAL EXPOSURE,Patricia Cornwell,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",6,1,0,4,0,1,4,1,0,0
-top1997:7085,hist,1997,UP ISLAND,Anne Rivers Siddons,ABSTAIN,INSUFFICIENT,,retrospective,One event-narration quote is retrospective past; the other quote is dialogue without a beat.,only 1 event quotes,2,1,0,0,0,1,1,0,0,0
+top1997:7085,hist,1997,UP ISLAND,Anne Rivers Siddons,ABSTAIN,INSUFFICIENT,,retrospective,One event-narration quote is retrospective past; the other quote is dialogue without a beat.,only 1 tense-bearing quotes,2,1,0,0,0,1,1,0,0,0
 top1997:7138,hist,1997,VIOLIN,Anne Rice,PAST,PAST,CONFLICT,retrospective,,"64% past / 36% present of 22, situation=retrospective",28,13,8,1,0,21,2,5,0,0
 top1998:156,hist,1998,A MAN IN FULL,Tom Wolfe,PAST,PAST,high,retrospective,,"94% past / 6% present of 17, situation=retrospective",22,13,1,3,0,14,7,1,0,0
 top1998:276,hist,1998,A WIDOW FOR ONE YEAR,John Irving,PAST,PAST,high,retrospective,,"96% past / 4% present of 28, situation=retrospective",49,23,1,4,0,24,14,9,2,0
@@ -297,7 +305,7 @@ top1999:5256,hist,1999,THE GIRL WHO LOVED TOM GORDON,Stephen King,PAST,PAST,high
 top1999:6488,hist,1999,THE TESTAMENT,John Grisham,PAST,PAST,high,retrospective,,"100% past / 0% present of 8, situation=retrospective",13,7,0,1,0,7,3,2,0,1
 top1999:6870,hist,1999,TIMELINE,Michael Crichton,PAST,PAST,high,retrospective,Event narration is uniformly past-tense; most remaining excerpts are gnomic commentary. One dialogue excerpt has past-tense attribution beats.,"100% past / 0% present of 10, situation=retrospective",23,9,0,1,0,9,1,11,0,2
 top1999:7269,hist,1999,WHITE OLEANDER,Janet Fitch,PAST,PAST,high,retrospective,,"96% past / 4% present of 71, situation=retrospective",96,64,3,4,0,67,18,11,0,0
-top2000:1600,hist,2000,EASY PREY,John Sandford,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,5,2,0,0,1,2,1,1,0,1
+top2000:1600,hist,2000,EASY PREY,John Sandford,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,5,2,0,0,1,2,1,1,0,1
 top2000:1965,hist,2000,GAP CREEK,Robert Morgan,PAST,PAST,med,retrospective,,"100% past / 0% present of 6, situation=retrospective",8,3,0,3,0,3,3,2,0,0
 top2000:2969,hist,2000,MERRICK,Anne Rice,PAST,PAST,high,retrospective,,"84% past / 16% present of 69, situation=retrospective",86,53,11,5,0,64,11,11,0,0
 top2000:3638,hist,2000,PRODIGAL SUMMER,Barbara Kingsolver,PAST,PAST,high,retrospective,,"97% past / 3% present of 30, situation=retrospective",47,22,1,7,0,23,17,4,0,3
@@ -305,85 +313,86 @@ top2000:3866,hist,2000,ROSES ARE RED,James Patterson,PAST,PAST,med,retrospective
 top2000:4071,hist,2000,SHOPGIRL,Steve Martin,PRESENT,PRESENT,high,simultaneous,,"15% past / 85% present of 33, situation=simultaneous",41,5,28,0,0,33,1,6,0,1
 top2000:4603,hist,2000,THE BEAR AND THE DRAGON,Tom Clancy,ABSTAIN,UNCLEAR,,unclear,"Classified solely from the supplied excerpts. The sample is dominated by aphorisms and clipped text; usable event narration is past-dominant, but no overall book label has been computed.",situation='unclear',24,11,1,0,0,12,1,5,2,4
 top2000:4665,hist,2000,THE BLUEST EYE,Toni Morrison,PAST,PAST,high,retrospective,,"88% past / 12% present of 49, situation=retrospective",62,43,6,0,0,49,3,10,0,0
-top2000:4719,hist,2000,THE BRETHREN,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,4,4,0,0,0,4,0,0,0,0
-top2000:5435,hist,2000,THE HOUSE ON HOPE STREET,Danielle Steel,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
-top2000:5469,hist,2000,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top2000:4719,hist,2000,THE BRETHREN,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,4,4,0,0,0,4,0,0,0,0
+top2000:5435,hist,2000,THE HOUSE ON HOPE STREET,Danielle Steel,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
+top2000:5469,hist,2000,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top2000:5605,hist,2000,THE LAST PRECINCT,Patricia Cornwell,PRESENT,PRESENT,high,simultaneous,,"30% past / 70% present of 10, situation=simultaneous",15,3,7,0,0,10,0,5,0,0
 top2000:5666,hist,2000,THE LION'S GAME,Nelson DeMille,PAST,PAST,high,retrospective,,"80% past / 20% present of 10, situation=retrospective",21,6,2,2,0,8,5,6,0,2
-top2000:5766,hist,2000,THE MARK,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,unclear,,only 1 event quotes,3,0,0,1,0,0,1,2,0,0
+top2000:5766,hist,2000,THE MARK,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,3,0,0,1,0,0,1,2,0,0
 top2000:6124,hist,2000,THE RESCUE,Nicholas Sparks,PAST,PAST,high,retrospective,,"100% past / 0% present of 17, situation=retrospective",28,15,0,2,0,15,10,3,0,0
 top2000:7326,hist,2000,WINTER SOLSTICE,Rosamunde Pilcher,PAST,PAST,high,retrospective,,"92% past / 8% present of 12, situation=retrospective",26,11,1,0,0,12,6,8,0,0
 top2001:28,hist,2001,1ST TO DIE,James Patterson,PAST,PAST,high,retrospective,,"91% past / 9% present of 11, situation=retrospective",17,9,1,1,0,10,2,5,0,0
 top2001:51,hist,2001,A BEND IN THE ROAD,Nicholas Sparks,PAST,PAST,high,retrospective,,"95% past / 5% present of 19, situation=retrospective",30,8,1,10,0,9,15,6,0,0
-top2001:73,hist,2001,A COMMON LIFE,Jan Karon,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,10,1,0,0,0,1,4,5,0,0
-top2001:87,hist,2001,A DAY LATE AND A DOLLAR SHORT,Terry McMillan,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,4,0,0,0,0,0,0,4,0,0
+top2001:73,hist,2001,A COMMON LIFE,Jan Karon,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,10,1,0,0,0,1,4,5,0,0
+top2001:87,hist,2001,A DAY LATE AND A DOLLAR SHORT,Terry McMillan,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,4,0,0,0,0,0,0,4,0,0
 top2001:182,hist,2001,A PAINTED HOUSE,John Grisham,PAST,PAST,high,retrospective,20 event-narration quotes are past tense. The single dialogue quote has a past-tense narration beat.,"100% past / 0% present of 21, situation=retrospective",21,20,0,1,0,20,1,0,0,0
-top2001:567,hist,2001,BACK WHEN WE WERE GROWNUPS,Anne Tyler,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,11,4,0,0,0,4,4,1,0,2
+top2001:567,hist,2001,BACK WHEN WE WERE GROWNUPS,Anne Tyler,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,11,4,0,0,0,4,4,1,0,2
+top2001:710,hist,2001,BLACK HOUSE,Stephen King and Peter Straub,PRESENT,PRESENT,high,simultaneous,,"6% past / 94% present of 16, situation=simultaneous",36,0,15,1,0,15,4,9,0,8
 top2001:916,hist,2001,CANE RIVER,Lalita Tademy,PAST,PAST,med,retrospective,Six event-narration quotes are past tense; present-tense generic maxims are gnomic. Dialogue beats are past / none.,"100% past / 0% present of 7, situation=retrospective",11,6,0,1,0,6,2,3,0,0
-top2001:1369,hist,2001,DEATH IN HOLY ORDERS,P. D. James,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,12,3,0,1,0,3,4,3,2,0
-top2001:1425,hist,2001,DESECRATION,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,1,0,1,0,1,1,0,0,0
+top2001:1369,hist,2001,DEATH IN HOLY ORDERS,P. D. James,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,12,3,0,1,0,3,4,3,2,0
+top2001:1425,hist,2001,DESECRATION,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,1,0,1,0,1,1,0,0,0
 top2001:1543,hist,2001,DREAMCATCHER,Stephen King,ABSTAIN,UNCLEAR,,unclear,"Event excerpts: 6 past, 6 present. The supplied excerpts do not establish a narrating situation.",situation='unclear',24,6,6,0,1,12,3,9,0,0
 top2001:1940,hist,2001,FROM THE CORNER OF HIS EYE,Dean Koontz,PAST,PAST,high,retrospective,,"100% past / 0% present of 19, situation=retrospective",39,16,0,3,0,16,10,13,0,0
-top2001:2511,hist,2001,JOURNEY THROUGH HEARTSONGS,Mattie J. T. Stepanek,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top2001:2636,hist,2001,LAST MAN STANDING,David Baldacci,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top2001:2511,hist,2001,JOURNEY THROUGH HEARTSONGS,Mattie J. T. Stepanek,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top2001:2636,hist,2001,LAST MAN STANDING,David Baldacci,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top2001:3158,hist,2001,MYSTIC RIVER,Dennis Lehane,PAST,PAST,high,retrospective,,"94% past / 6% present of 32, situation=retrospective",44,27,2,3,0,29,3,5,1,6
-top2001:3367,hist,2001,ON THE STREET WHERE YOU LIVE,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
+top2001:3367,hist,2001,ON THE STREET WHERE YOU LIVE,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
 top2001:4136,hist,2001,SKIPPING CHRISTMAS,John Grisham,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",7,4,0,1,0,4,2,1,0,0
-top2001:4403,hist,2001,SUZANNE'S DIARY FOR NICHOLAS,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,,only 4 event quotes,26,1,3,0,0,4,6,14,0,2
+top2001:4403,hist,2001,SUZANNE'S DIARY FOR NICHOLAS,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,,only 4 tense-bearing quotes,26,1,3,0,0,4,6,14,0,2
 top2001:4678,hist,2001,THE BONESETTER'S DAUGHTER,Amy Tan,PAST,PAST,high,retrospective,,"73% past / 27% present of 11, situation=retrospective",23,7,2,1,1,9,4,10,0,0
 top2001:4889,hist,2001,THE CORRECTIONS,Jonathan Franzen,PAST,PAST,high,retrospective,Event narration is overwhelmingly retrospective; present-tense passages are chiefly gnomic reflections.,"100% past / 0% present of 63, situation=retrospective",76,60,0,3,0,60,5,9,0,2
-top2001:5148,hist,2001,THE FIRST COUNSEL,Brad Meltzer,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
-top2001:5199,hist,2001,THE FOURTH HAND,John Irving,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,7,4,0,0,0,4,0,2,0,1
-top2001:5550,hist,2001,THE KISS,Danielle Steel,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,1,0,0,0,1,1,0,0,0
+top2001:5148,hist,2001,THE FIRST COUNSEL,Brad Meltzer,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
+top2001:5199,hist,2001,THE FOURTH HAND,John Irving,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,7,4,0,0,0,4,0,2,0,1
+top2001:5550,hist,2001,THE KISS,Danielle Steel,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,1,0,0,0,1,1,0,0,0
 top2001:5621,hist,2001,THE LAST TIME THEY MET,Anita Shreve,PAST,PAST,CONFLICT,retrospective,,"60% past / 40% present of 5, situation=retrospective",6,3,2,0,0,5,0,0,0,1
-top2001:6295,hist,2001,THE SIGMA PROTOCOL,Robert Ludlum,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,3,0,0,2,0,0,2,1,0,0
-top2001:7137,hist,2001,VIOLETS ARE BLUE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,9,4,0,0,0,4,3,2,0,0
-top2002:480,hist,2002,ANSWERED PRAYERS,Danielle Steel,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,6,3,1,0,0,4,2,0,0,0
+top2001:6295,hist,2001,THE SIGMA PROTOCOL,Robert Ludlum,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,3,0,0,2,0,0,2,1,0,0
+top2001:7137,hist,2001,VIOLETS ARE BLUE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,9,4,0,0,0,4,3,2,0,0
+top2002:480,hist,2002,ANSWERED PRAYERS,Danielle Steel,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,6,3,1,0,0,4,2,0,0,0
 top2002:543,hist,2002,ATONEMENT,Ian McEwan,PAST,PAST,high,retrospective,,"94% past / 6% present of 36, situation=retrospective",52,34,2,0,0,36,8,8,0,0
 top2002:597,hist,2002,BASKET CASE,Carl Hiaasen,PRESENT,PRESENT,med,simultaneous,,"20% past / 80% present of 5, situation=simultaneous",8,1,3,0,1,4,2,2,0,0
 top2002:735,hist,2002,BLESSINGS,Anna Quindlen,PAST,PAST,high,retrospective,,"100% past / 0% present of 12, situation=retrospective",14,12,0,0,0,12,0,2,0,0
-top2002:1235,hist,2002,DADDY'S LITTLE GIRL,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,1,0,0,0
+top2002:1235,hist,2002,DADDY'S LITTLE GIRL,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,1,0,0,0
 top2002:1681,hist,2002,EVERYTHING'S EVENTUAL,Stephen King,PAST,PAST,high,retrospective,,"91% past / 9% present of 11, situation=retrospective",28,9,1,1,0,10,3,15,0,0
-top2002:1911,hist,2002,FOUR BLIND MICE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,6,0,0,2,0,0,4,1,0,1
+top2002:1911,hist,2002,FOUR BLIND MICE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,6,0,0,2,0,0,4,1,0,1
 top2002:1936,hist,2002,FROM A BUICK 8,Stephen King,PAST,PAST,high,retrospective,,"93% past / 7% present of 14, situation=retrospective",23,10,0,3,1,10,4,9,0,0
-top2002:2318,hist,2002,I DON'T KNOW HOW SHE DOES IT,Allison Pearson,ABSTAIN,INSUFFICIENT,,unclear,,only 4 event quotes,21,2,2,0,0,4,3,11,1,2
+top2002:2318,hist,2002,I DON'T KNOW HOW SHE DOES IT,Allison Pearson,ABSTAIN,INSUFFICIENT,,unclear,,only 4 tense-bearing quotes,21,2,2,0,0,4,3,11,1,2
 top2002:2697,hist,2002,LIFE OF PI,Yann Martel,PAST,PAST,high,retrospective,,"66% past / 34% present of 29, situation=retrospective",86,18,10,1,0,28,9,48,1,0
 top2002:3237,hist,2002,NIGHTS IN RODANTHE,Nicholas Sparks,OTHER,DUAL,high,dual,Past recounting is paired with story-specific first-person present-tense letter-writing passages.,"73% past / 27% present of 22, situation=dual",27,16,6,0,0,22,1,4,0,0
 top2002:3606,hist,2002,PREY,Michael Crichton,PAST,PAST,high,retrospective,,"92% past / 8% present of 13, situation=retrospective",22,12,1,0,0,13,0,9,0,0
 top2002:3738,hist,2002,RED RABBIT,Tom Clancy,PAST,PAST,high,retrospective,Eight event-narration excerpts are past tense; the remaining non-dialogue excerpts are chiefly generalized aphorisms.,"100% past / 0% present of 10, situation=retrospective",23,8,0,2,0,8,3,12,0,0
-top2002:3789,hist,2002,REVERSIBLE ERRORS,Scott Turow,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,4,2,0,1,0,2,2,0,0,0
-top2002:4599,hist,2002,THE BEACH HOUSE,James Patterson and Peter de Jonge,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,4,1,1,0,0,2,0,2,0,0
+top2002:3789,hist,2002,REVERSIBLE ERRORS,Scott Turow,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,4,2,0,1,0,2,2,0,0,0
+top2002:4599,hist,2002,THE BEACH HOUSE,James Patterson and Peter de Jonge,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,4,1,1,0,0,2,0,2,0,0
 top2002:4837,hist,2002,THE CHRISTMAS TRAIN,David Baldacci,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",24,6,0,1,0,6,15,1,0,2
-top2002:4992,hist,2002,THE DIVE FROM CLAUSEN'S PIER,Ann Packer,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,4,2,0,1,0,2,2,0,0,0
-top2002:5048,hist,2002,THE EMPEROR OF OCEAN PARK,Stephen L. Carter,ABSTAIN,INSUFFICIENT,,simultaneous,,only 4 event quotes,7,0,3,0,1,3,1,3,0,0
+top2002:4992,hist,2002,THE DIVE FROM CLAUSEN'S PIER,Ann Packer,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,4,2,0,1,0,2,2,0,0,0
+top2002:5048,hist,2002,THE EMPEROR OF OCEAN PARK,Stephen L. Carter,ABSTAIN,INSUFFICIENT,,simultaneous,,only 4 tense-bearing quotes,7,0,3,0,1,3,1,3,0,0
 top2002:5722,hist,2002,THE LOVELY BONES,Alice Sebold,PAST,PAST,high,retrospective,Classification is based solely on supplied quote text. Event narration is predominantly retrospective; q00952 also includes the narrator's present-state description.,"100% past / 0% present of 16, situation=retrospective",26,14,0,2,0,14,4,7,0,1
-top2002:5797,hist,2002,THE MILLIONAIRES,Brad Meltzer,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,2,0,0,0,0,0,1,1,0,0
-top2002:5854,hist,2002,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,ABSTAIN,INSUFFICIENT,,simultaneous,,only 3 event quotes,5,0,3,0,0,3,2,0,0,0
+top2002:5797,hist,2002,THE MILLIONAIRES,Brad Meltzer,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,2,0,0,0,0,0,1,1,0,0
+top2002:5854,hist,2002,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,ABSTAIN,INSUFFICIENT,,simultaneous,,only 3 tense-bearing quotes,5,0,3,0,0,3,2,0,0,0
 top2002:6281,hist,2002,THE SHELTERS OF STONE,Jean M. Auel,ABSTAIN,UNCLEAR,,unclear,,situation='unclear',12,4,2,0,0,6,3,3,0,0
-top2002:6436,hist,2002,THE SUMMONS,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,4,1,0,2,0,1,2,0,0,1
-top2002:7083,hist,2002,UP COUNTRY,Nelson DeMille,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,10,3,0,0,0,3,4,3,0,0
-top2003:509,hist,2003,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,0,0,1,0,0,1,0,0,0
-top2003:730,hist,2003,BLEACHERS,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,7,3,1,0,0,4,3,0,0,0
+top2002:6436,hist,2002,THE SUMMONS,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,4,1,0,2,0,1,2,0,0,1
+top2002:7083,hist,2002,UP COUNTRY,Nelson DeMille,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,10,3,0,0,0,3,4,3,0,0
+top2003:509,hist,2003,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,0,0,1,0,0,1,0,0,0
+top2003:730,hist,2003,BLEACHERS,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,7,3,1,0,0,4,3,0,0,0
 top2003:767,hist,2003,BLOW FLY,Patricia Cornwell,PRESENT,PRESENT,high,simultaneous,,"33% past / 67% present of 12, situation=simultaneous",24,3,7,1,1,10,3,10,1,0
 top2003:1206,hist,2003,CROSSROADS OF TWILIGHT,Robert Jordan,PAST,PAST,high,retrospective,,"100% past / 0% present of 26, situation=retrospective",37,22,0,4,0,22,7,5,1,2
 top2003:4054,hist,2003,SHEPHERDS ABIDING,Jan Karon,PAST,PAST,med,retrospective,Event narration is consistently retrospective.,"100% past / 0% present of 6, situation=retrospective",13,4,0,2,0,4,6,3,0,0
-top2003:4623,hist,2003,THE BIG BAD WOLF,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,2,0,0,0,2,0,0,0,0
+top2003:4623,hist,2003,THE BIG BAD WOLF,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,2,0,0,0,2,0,0,0,0
 top2003:4918,hist,2003,THE DA VINCI CODE,Dan Brown,PAST,PAST,med,retrospective,Four event-narration excerpts are all past tense; the remaining present-tense aphorisms are non-diagnostic.,"100% past / 0% present of 5, situation=retrospective",23,4,0,1,0,4,9,8,0,2
 top2003:4969,hist,2003,THE DEVIL WEARS PRADA,Lauren Weisberger,PAST,PAST,high,retrospective,,"94% past / 6% present of 18, situation=retrospective",23,17,1,0,0,18,5,0,0,0
-top2003:5159,hist,2003,THE FIVE PEOPLE YOU MEET IN HEAVEN,Mitch Albom,ABSTAIN,INSUFFICIENT,,unclear,"Only one event-narration excerpt is available (past); the remaining excerpts are principally gnomic, with two dialogue excerpts carrying past narration beats. This is insufficient to infer a narrating situation.",only 3 event quotes,21,1,0,2,0,1,2,18,0,0
+top2003:5159,hist,2003,THE FIVE PEOPLE YOU MEET IN HEAVEN,Mitch Albom,ABSTAIN,INSUFFICIENT,,unclear,"Only one event-narration excerpt is available (past); the remaining excerpts are principally gnomic, with two dialogue excerpts carrying past narration beats. This is insufficient to infer a narrating situation.",only 3 tense-bearing quotes,21,1,0,2,0,1,2,18,0,0
 top2003:5341,hist,2003,THE GUARDIAN,Nicholas Sparks,PAST,PAST,high,retrospective,,"100% past / 0% present of 24, situation=retrospective",32,21,0,3,0,21,6,4,0,1
 top2003:5543,hist,2003,THE KING OF TORTS,John Grisham,PAST,PAST,med,retrospective,Five event-narration excerpts are past tense; no dialogue beats were identifiable.,"100% past / 0% present of 5, situation=retrospective",7,5,0,0,0,5,0,1,0,1
-top2003:5567,hist,2003,THE LAKE HOUSE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,5,2,0,0,0,2,1,2,0,0
+top2003:5567,hist,2003,THE LAKE HOUSE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,5,2,0,0,0,2,1,2,0,0
 top2003:6472,hist,2003,THE TEETH OF THE TIGER,Tom Clancy,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",13,4,0,1,0,4,6,2,0,1
 top2003:6664,hist,2003,THE WEDDING,Nicholas Sparks,PAST,PAST,CONFLICT,retrospective,,"62% past / 38% present of 24, situation=retrospective",38,13,9,2,0,22,8,8,0,0
 top2003:6898,hist,2003,TO THE NINES,Janet Evanovich,PAST,PAST,high,retrospective,,"100% past / 0% present of 18, situation=retrospective",25,5,0,13,0,5,18,2,0,0
-top2004:211,hist,2004,A SALTY PIECE OF LAND,Jimmy Buffett,ABSTAIN,INSUFFICIENT,,unclear,,only 3 event quotes,10,2,1,0,0,3,2,5,0,0
-top2004:462,hist,2004,ANGELS & DEMONS,Dan Brown,ABSTAIN,INSUFFICIENT,,unclear,"Only one event-narration excerpt is available, so the narrating situation cannot be determined from these quotes.",only 2 event quotes,23,1,0,1,0,1,4,17,0,1
-top2004:664,hist,2004,BERGDORF BLONDES,Plum Sykes,ABSTAIN,INSUFFICIENT,,unclear,"Only one event-narration quote, in the present tense; the remaining excerpts are gnomic or dialogue. The supplied text does not establish a narrating situation.",only 2 event quotes,6,0,1,1,0,1,1,4,0,0
-top2004:1998,hist,2004,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,Two event-narration excerpts are past-tense; the remaining marked scripture excerpts are dialogue with no narrating beat.,only 2 event quotes,6,2,0,0,0,2,4,0,0,0
+top2004:211,hist,2004,A SALTY PIECE OF LAND,Jimmy Buffett,ABSTAIN,INSUFFICIENT,,unclear,,only 3 tense-bearing quotes,10,2,1,0,0,3,2,5,0,0
+top2004:462,hist,2004,ANGELS & DEMONS,Dan Brown,ABSTAIN,INSUFFICIENT,,unclear,"Only one event-narration excerpt is available, so the narrating situation cannot be determined from these quotes.",only 2 tense-bearing quotes,23,1,0,1,0,1,4,17,0,1
+top2004:664,hist,2004,BERGDORF BLONDES,Plum Sykes,ABSTAIN,INSUFFICIENT,,unclear,"Only one event-narration quote, in the present tense; the remaining excerpts are gnomic or dialogue. The supplied text does not establish a narrating situation.",only 2 tense-bearing quotes,6,0,1,1,0,1,1,4,0,0
+top2004:1998,hist,2004,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,ABSTAIN,INSUFFICIENT,,retrospective,Two event-narration excerpts are past-tense; the remaining marked scripture excerpts are dialogue with no narrating beat.,only 2 tense-bearing quotes,6,2,0,0,0,2,4,0,0,0
 top2004:2311,hist,2004,I AM CHARLOTTE SIMMONS,Tom Wolfe,PAST,PAST,high,retrospective,,"100% past / 0% present of 8, situation=retrospective",11,7,0,1,0,7,4,0,0,0
-top2004:2502,hist,2004,JONATHAN STRANGE & MR. NORRELL,Susanna Clarke,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,1,0,0,0,1,1,0,0,0
-top2004:2747,hist,2004,LONDON BRIDGES,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,0,1,0
+top2004:2502,hist,2004,JONATHAN STRANGE & MR. NORRELL,Susanna Clarke,PAST,PAST,high,retrospective,,"96% past / 4% present of 74, situation=retrospective",110,56,3,15,0,59,37,9,1,4
+top2004:2747,hist,2004,LONDON BRIDGES,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,0,1,0
 top2004:3210,hist,2004,NIGHT FALL,Nelson DeMille,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",13,6,0,1,0,6,4,3,0,0
 top2004:3908,hist,2004,SAM'S LETTERS TO JENNIFER,James Patterson,PAST,PAST,med,retrospective,,"86% past / 14% present of 7, situation=retrospective",16,5,1,1,0,6,1,9,0,0
 top2004:4133,hist,2004,SKINNY DIP,Carl Hiaasen,PAST,PAST,high,retrospective,,"100% past / 0% present of 29, situation=retrospective",36,25,0,4,0,25,11,0,0,0
@@ -393,60 +402,60 @@ top2004:5499,hist,2004,THE JANE AUSTEN BOOK CLUB,Karen Joy Fowler,PAST,PAST,high
 top2004:5593,hist,2004,THE LAST JUROR,John Grisham,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",12,9,0,0,0,9,1,2,0,0
 top2004:6024,hist,2004,THE PLOT AGAINST AMERICA,Philip Roth,PAST,PAST,high,retrospective,Event narration is predominantly retrospective; two story-specific present-tense reflective/current-state excerpts are retained as event evidence.,"98% past / 2% present of 47, situation=retrospective",70,36,0,10,1,36,28,1,0,5
 top2004:6172,hist,2004,THE RULE OF FOUR,Ian Caldwell and Dustin Thomason,OTHER,DUAL,high,dual,Story-specific excerpts show both retrospective recounting and a simultaneous present-time frame; most remaining excerpts are gnomic.,"78% past / 22% present of 9, situation=dual",20,7,2,0,0,9,1,10,0,0
-top2005:39,hist,2005,4TH OF JULY,James Patterson and Maxine Paetro,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,2,0,0,0,2,0,0,0,0
+top2005:39,hist,2005,4TH OF JULY,James Patterson and Maxine Paetro,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,2,0,0,0,2,0,0,0,0
 top2005:535,hist,2005,AT FIRST SIGHT,Nicholas Sparks,PAST,PAST,med,retrospective,"Six story-specific event-narration excerpts are past tense; the remaining excerpts are primarily gnomic, with three supported dialogue excerpts and no narrating beats.","100% past / 0% present of 6, situation=retrospective",16,6,0,0,0,6,3,7,0,0
-top2005:1045,hist,2005,CHRIST THE LORD: OUT OF EGYPT,Anne Rice,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,5,2,0,1,0,2,1,0,1,1
-top2005:2241,hist,2005,HONEYMOON,James Patterson and Howard Roughan,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top2005:1045,hist,2005,CHRIST THE LORD: OUT OF EGYPT,Anne Rice,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,5,2,0,1,0,2,1,0,1,1
+top2005:2241,hist,2005,HONEYMOON,James Patterson and Howard Roughan,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top2005:2603,hist,2005,KNIFE OF DREAMS,Robert Jordan,PAST,PAST,high,retrospective,,"94% past / 6% present of 31, situation=retrospective",52,25,2,4,0,27,16,6,1,2
 top2005:2703,hist,2005,LIGHT FROM HEAVEN,Jan Karon,PAST,PAST,high,retrospective,,"90% past / 10% present of 10, situation=retrospective",20,4,1,5,0,5,8,6,1,0
-top2005:2917,hist,2005,"MARY, MARY",James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,4,1,0,0,0,1,3,0,0,0
+top2005:2917,hist,2005,"MARY, MARY",James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,4,1,0,0,0,1,3,0,0,0
 top2005:3593,hist,2005,PREDATOR,Patricia Cornwell,PRESENT,PRESENT,med,simultaneous,,"0% past / 100% present of 6, situation=simultaneous",17,0,5,0,1,5,7,4,0,1
 top2005:3596,hist,2005,PREP,Curtis Sittenfeld,PAST,PAST,high,retrospective,,"95% past / 5% present of 77, situation=retrospective",85,72,4,1,0,76,5,3,0,1
 top2005:3787,hist,2005,REVENGE OF THE SITH,Matthew Stover,ABSTAIN,UNCLEAR,,unclear,"Event narration includes both past and present passages, but these excerpts do not establish a diary, frame, or other structural explanation.",situation='unclear',44,16,11,5,0,27,10,5,0,2
 top2005:4206,hist,2005,SON OF A WITCH,Gregory Maguire,PAST,PAST,high,retrospective,,"73% past / 27% present of 11, situation=retrospective",25,6,3,2,0,9,4,11,0,1
-top2005:4729,hist,2005,THE BROKER,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,4,4,0,0,0,4,0,0,0,0
+top2005:4729,hist,2005,THE BROKER,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,4,4,0,0,0,4,0,0,0,0
 top2005:4751,hist,2005,THE CAMEL CLUB,David Baldacci,PAST,PAST,high,retrospective,"Past-tense event narration dominates. Present event passages are story-specific current statements/reflection, not a distinct simultaneous or dual narrating frame.","80% past / 20% present of 15, situation=retrospective",17,9,3,3,0,12,3,2,0,0
 top2005:5395,hist,2005,THE HISTORIAN,Elizabeth Kostova,PAST,PAST,high,retrospective,"Classified solely from supplied excerpts. Event evidence: 14 past, 6 present; dialogue beats: 0 past, 0 present, 3 none.","70% past / 30% present of 20, situation=retrospective",27,14,6,0,0,20,3,4,0,0
 top2005:5789,hist,2005,THE MERMAID CHAIR,Sue Monk Kidd,PAST,PAST,high,retrospective,Classified solely from supplied quote text.,"85% past / 15% present of 27, situation=retrospective",39,21,4,2,0,25,5,9,0,0
 top2005:6982,hist,2005,TRUE BELIEVER,Nicholas Sparks,PAST,PAST,high,retrospective,Event narration is predominantly past; the sole present event excerpt is clipped and does not establish a simultaneous strand.,"95% past / 5% present of 21, situation=retrospective",37,17,1,3,0,18,9,10,0,0
-top2005:7423,hist,2005,“S” IS FOR SILENCE,Sue Grafton,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,2,0,0,0,2,0,0,0,0
-top2006:610,hist,2006,BEACH ROAD,James Patterson and Peter de Jonge,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top2005:7423,hist,2005,“S” IS FOR SILENCE,Sue Grafton,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,2,0,0,0,2,0,0,0,0
+top2006:610,hist,2006,BEACH ROAD,James Patterson and Peter de Jonge,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top2006:913,hist,2006,CAN'T WAIT TO GET TO HEAVEN,Fannie Flagg,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",19,8,0,1,0,8,2,5,4,0
 top2006:978,hist,2006,CELL,Stephen King,PAST,PAST,high,retrospective,,"86% past / 14% present of 14, situation=retrospective",18,7,2,5,0,9,6,2,1,0
-top2006:1196,hist,2006,CROSS,James Patterson,ABSTAIN,INSUFFICIENT,,simultaneous,Two present-tense event-narration excerpts support a simultaneous narrating situation; remaining excerpts are gnomic or dialogue.,only 2 event quotes,6,0,2,0,0,2,3,1,0,0
+top2006:1196,hist,2006,CROSS,James Patterson,ABSTAIN,INSUFFICIENT,,simultaneous,Two present-tense event-narration excerpts support a simultaneous narrating situation; remaining excerpts are gnomic or dialogue.,only 2 tense-bearing quotes,6,0,2,0,0,2,3,1,0,0
 top2006:1357,hist,2006,DEAR JOHN,Nicholas Sparks,PAST,PAST,high,retrospective,,"73% past / 27% present of 48, situation=retrospective",81,32,13,3,0,45,23,12,0,1
 top2006:1882,hist,2006,FOR ONE MORE DAY,Mitch Albom,PAST,PAST,med,retrospective,Six event-narration excerpts: five past and one present. The present event is reflective; the event evidence supports a retrospective narrating situation.,"83% past / 17% present of 6, situation=retrospective",25,5,1,0,0,6,1,18,0,0
 top2006:2096,hist,2006,HANNIBAL RISING,Thomas Harris,PAST,PAST,high,retrospective,"Event narration is predominantly retrospective past tense, with three present-tense story-specific descriptive/reflection passages.","79% past / 21% present of 14, situation=retrospective",22,10,3,1,0,13,5,1,3,0
-top2006:2519,hist,2006,JUDGE & JURY,James Patterson and Andrew Gross,ABSTAIN,INSUFFICIENT,,unclear,Both supplied excerpts are too fragmentary to yield reliable narrative-tense evidence.,only 0 event quotes,2,0,0,0,0,0,0,0,0,2
+top2006:2519,hist,2006,JUDGE & JURY,James Patterson and Andrew Gross,ABSTAIN,INSUFFICIENT,,unclear,Both supplied excerpts are too fragmentary to yield reliable narrative-tense evidence.,only 0 tense-bearing quotes,2,0,0,0,0,0,0,0,0,2
 top2006:3202,hist,2006,NEXT,Michael Crichton,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",15,4,0,1,0,4,5,6,0,0
-top2006:4505,hist,2006,THE 5TH HORSEMAN,James Patterson and Maxine Paetro,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,5,3,0,0,0,3,1,1,0,0
+top2006:4505,hist,2006,THE 5TH HORSEMAN,James Patterson and Maxine Paetro,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,5,3,0,0,0,3,1,1,0,0
 top2006:4670,hist,2006,THE BOLEYN INHERITANCE,Philippa Gregory,PRESENT,PRESENT,high,simultaneous,Present-tense story-specific narration predominates; the past event excerpts are recollective.,"21% past / 79% present of 14, situation=simultaneous",25,3,11,0,0,14,1,9,0,1
 top2006:5450,hist,2006,THE HUSBAND,Dean Koontz,ABSTAIN,UNCLEAR,,unclear,,situation='unclear',13,1,2,2,0,3,3,5,1,1
-top2006:5615,hist,2006,THE LAST TEMPLAR,Raymond Khoury,ABSTAIN,INSUFFICIENT,,retrospective,Event narration is consistently past-tense; present-tense non-dialogue excerpts are gnomic.,only 3 event quotes,12,3,0,0,0,3,5,3,0,1
+top2006:5615,hist,2006,THE LAST TEMPLAR,Raymond Khoury,ABSTAIN,INSUFFICIENT,,retrospective,Event narration is consistently past-tense; present-tense non-dialogue excerpts are gnomic.,only 3 tense-bearing quotes,12,3,0,0,0,3,5,3,0,1
 top2006:6800,hist,2006,THIRTEEN MOONS,Charles Frazier,PAST,PAST,high,retrospective,,"90% past / 10% present of 10, situation=retrospective",23,9,1,0,0,10,0,12,1,0
 top2006:7008,hist,2006,TWELVE SHARP,Janet Evanovich,PAST,PAST,high,retrospective,,"91% past / 9% present of 22, situation=retrospective",26,7,2,13,0,9,14,3,0,0
-top2006:7028,hist,2006,TWO LITTLE GIRLS IN BLUE,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,0,0,1
+top2006:7028,hist,2006,TWO LITTLE GIRLS IN BLUE,Mary Higgins Clark,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,0,0,1
 top2006:7186,hist,2006,WATER FOR ELEPHANTS,Sara Gruen,PRESENT,PRESENT,high,simultaneous,,"11% past / 89% present of 9, situation=simultaneous",25,1,7,0,1,8,7,10,0,0
 top2006:7290,hist,2006,WILD FIRE,Nelson DeMille,ABSTAIN,UNCLEAR,,unclear,,situation='unclear',12,2,3,2,0,5,2,3,1,1
 top2007:257,hist,2007,A THOUSAND SPLENDID SUNS,Khaled Hosseini,PAST,PAST,high,retrospective,,"73% past / 27% present of 11, situation=retrospective",25,8,3,0,0,11,6,6,0,2
 top2007:805,hist,2007,BOOK OF THE DEAD,Patricia Cornwell,PRESENT,PRESENT,med,simultaneous,,"17% past / 83% present of 6, situation=simultaneous",15,1,3,0,2,4,6,5,0,0
-top2007:1506,hist,2007,DOUBLE CROSS,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,"Only three event-narration excerpts are available (2 past, 1 present); the mixed evidence does not establish a narrating situation.",only 3 event quotes,7,2,1,0,0,3,2,0,1,1
+top2007:1506,hist,2007,DOUBLE CROSS,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,"Only three event-narration excerpts are available (2 past, 1 present); the mixed evidence does not establish a narrating situation.",only 3 tense-bearing quotes,7,2,1,0,0,3,2,0,1,1
 top2007:3247,hist,2007,NINETEEN MINUTES,Jodi Picoult,PAST,PAST,high,retrospective,,"93% past / 7% present of 58, situation=retrospective",104,48,4,6,0,52,17,31,0,4
 top2007:3537,hist,2007,PLAYING FOR PIZZA,John Grisham,PAST,PAST,med,retrospective,,"80% past / 20% present of 5, situation=retrospective",5,4,1,0,0,5,0,0,0,0
 top2007:3544,hist,2007,PLUM LOVIN’,Janet Evanovich,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",7,2,0,3,0,2,3,1,1,0
 top2007:4316,hist,2007,STEP ON A CRACK,James Patterson and Michael Ledwidge,PAST,PAST,high,retrospective,,"80% past / 20% present of 10, situation=retrospective",15,5,2,3,0,7,6,2,0,0
-top2007:4327,hist,2007,STONE COLD,David Baldacci,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,7,2,0,1,0,2,3,0,1,1
+top2007:4327,hist,2007,STONE COLD,David Baldacci,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,7,2,0,1,0,2,3,0,1,1
 top2007:4507,hist,2007,THE 6TH TARGET,James Patterson and Maxine Paetro,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",10,6,0,3,0,6,4,0,0,0
-top2007:4699,hist,2007,THE BOURNE BETRAYAL,Eric Van Lustbader,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,0,0,1,0,0,1,1,0,0
+top2007:4699,hist,2007,THE BOURNE BETRAYAL,Eric Van Lustbader,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,0,0,1,0,0,1,1,0,0
 top2007:4821,hist,2007,THE CHILDREN OF HÚRIN,J. R. R. Tolkien,PAST,PAST,high,retrospective,,"88% past / 12% present of 16, situation=retrospective",42,10,1,4,1,11,11,10,3,7
 top2007:4825,hist,2007,THE CHOICE,Nicholas Sparks,PAST,PAST,high,retrospective,Event narration is consistently past-tense; present-tense generalizations were bucketed as gnomic.,"100% past / 0% present of 14, situation=retrospective",26,13,0,1,0,13,7,5,0,1
-top2007:6087,hist,2007,THE QUICKIE,James Patterson and Michael Ledwidge,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top2007:6087,hist,2007,THE QUICKIE,James Patterson and Michael Ledwidge,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top2007:7365,hist,2007,WORLD WITHOUT END,Ken Follett,PAST,PAST,high,retrospective,Classified solely from the supplied excerpts.,"93% past / 7% present of 27, situation=retrospective",43,17,2,8,0,19,14,8,0,2
 top2008:164,hist,2008,A MERCY,Toni Morrison,PAST,PAST,high,retrospective,,"74% past / 26% present of 23, situation=retrospective",37,17,6,0,0,23,7,6,0,1
 top2008:1017,hist,2008,CHASING HARRY WINSTON,Lauren Weisberger,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",9,5,0,0,0,5,1,3,0,0
-top2008:1198,hist,2008,CROSS COUNTRY,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,2,0,0,0,0,0,0,2,0,0
+top2008:1198,hist,2008,CROSS COUNTRY,James Patterson,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,2,0,0,0,0,0,0,2,0,0
 top2008:2818,hist,2008,LOVE THE ONE YOU’RE WITH,Emily Giffin,PRESENT,PRESENT,high,simultaneous,,"23% past / 77% present of 13, situation=simultaneous",26,3,10,0,0,13,1,11,0,1
-top2008:3947,hist,2008,SCARPETTA,Patricia Cornwell,PRESENT,PRESENT,med,simultaneous,"Event excerpts: 3 present, 2 past. The past excerpts read as recollection or prior events; no evidence of a dual-position form.","33% past / 67% present of 6, situation=simultaneous",13,2,3,0,1,5,4,2,0,2
+top2008:3947,hist,2008,SCARPETTA,Patricia Cornwell,PAST,PAST,med,retrospective,,"100% past / 0% present of 6, situation=retrospective",12,5,0,1,0,5,5,2,0,0
 top2008:4560,hist,2008,THE APPEAL,John Grisham,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",10,6,0,1,0,6,1,3,0,0
 top2008:4835,hist,2008,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,PAST,PAST,med,retrospective,,"83% past / 17% present of 6, situation=retrospective",17,2,1,3,0,3,9,5,0,0
 top2008:5343,hist,2008,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,ABSTAIN,UNCLEAR,,unclear,,situation='unclear',26,4,6,0,0,10,12,4,0,0
@@ -456,21 +465,21 @@ top2008:5727,hist,2008,THE LUCKY ONE,Nicholas Sparks,PAST,PAST,high,retrospectiv
 top2008:6406,hist,2008,THE STORY OF EDGAR SAWTELLE,David Wroblewski,PAST,PAST,high,retrospective,,"100% past / 0% present of 27, situation=retrospective",36,21,0,6,0,21,9,4,1,1
 top2009:1323,hist,2009,DEAD AND GONE,Charlaine Harris,PAST,PAST,high,retrospective,,"100% past / 0% present of 42, situation=retrospective",48,31,0,11,0,31,15,1,1,0
 top2009:1835,hist,2009,FIRST FAMILY,David Baldacci,PAST,PAST,high,retrospective,,"100% past / 0% present of 10, situation=retrospective",19,10,0,0,0,10,4,5,0,0
-top2009:1890,hist,2009,FORD COUNTY,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,2,1,0,0,0,1,0,1,0,0
+top2009:1890,hist,2009,FORD COUNTY,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,2,1,0,0,0,1,0,1,0,0
 top2009:2091,hist,2009,HANDLE WITH CARE,Jodi Picoult,PAST,PAST,high,retrospective,,"86% past / 14% present of 50, situation=retrospective",97,41,7,2,0,48,8,41,0,0
-top2009:2340,hist,2009,"I, ALEX CROSS",James Patterson,ABSTAIN,INSUFFICIENT,,simultaneous,,only 2 event quotes,6,0,2,0,0,2,1,3,0,0
-top2009:3665,hist,2009,PURSUIT OF HONOR,Vince Flynn,ABSTAIN,INSUFFICIENT,,unclear,,only 1 event quotes,6,0,0,1,0,0,2,3,0,1
+top2009:2340,hist,2009,"I, ALEX CROSS",James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,5,2,0,1,0,2,3,0,0,0
+top2009:3665,hist,2009,PURSUIT OF HONOR,Vince Flynn,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,6,0,0,1,0,0,2,3,0,1
 top2009:3884,hist,2009,RUN FOR YOUR LIFE,James Patterson and Michael Ledwidge,PAST,PAST,high,retrospective,,"91% past / 9% present of 11, situation=retrospective",19,7,1,3,0,8,6,2,2,1
 top2009:4045,hist,2009,SHANGHAI GIRLS,Lisa See,PRESENT,PRESENT,high,simultaneous,,"12% past / 88% present of 26, situation=simultaneous",45,3,21,0,2,24,4,17,0,0
 top2009:4223,hist,2009,SOUTH OF BROAD,Pat Conroy,PAST,PAST,CONFLICT,retrospective,Present-tense event passages are reflective or descriptive within predominantly retrospective narration.,"60% past / 40% present of 25, situation=retrospective",39,15,10,0,0,25,4,8,1,1
-top2009:4576,hist,2009,THE ASSOCIATE,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,3,2,0,0,0,2,1,0,0,0
+top2009:4576,hist,2009,THE ASSOCIATE,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,3,2,0,0,0,2,1,0,0,0
 top2009:5257,hist,2009,THE GIRL WHO PLAYED WITH FIRE,Stieg Larsson,PAST,PAST,high,retrospective,Classified solely from supplied quote text.,"100% past / 0% present of 16, situation=retrospective",25,15,0,1,0,15,4,4,0,2
 top2009:5381,hist,2009,THE HELP,Kathryn Stockett,PRESENT,PRESENT,high,simultaneous,Manual review 2026-08-13: the three principal narrative voices use present-tense base narration; past material is recollection and backstory.,"32% past / 68% present of 31, situation=simultaneous",54,10,19,0,2,29,15,10,0,0
 top2009:5611,hist,2009,THE LAST SONG,Nicholas Sparks,PAST,PAST,high,retrospective,,"95% past / 5% present of 60, situation=retrospective",94,42,3,15,0,45,35,11,3,0
-top2009:5709,hist,2009,THE LOST SYMBOL,Dan Brown,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,23,3,0,0,0,3,3,17,0,0
+top2009:5709,hist,2009,THE LOST SYMBOL,Dan Brown,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,23,3,0,0,0,3,3,17,0,0
 top2009:6983,hist,2009,TRUE BLUE,David Baldacci,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",11,4,0,1,0,4,3,2,0,2
-top2009:7053,hist,2009,UNDER THE DOME,Stephen King,ABSTAIN,INSUFFICIENT,,unclear,,only 0 event quotes,1,0,0,0,0,0,0,1,0,0
-top2010:1199,hist,2010,CROSS FIRE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,6,3,0,1,0,3,1,1,0,1
+top2009:7053,hist,2009,UNDER THE DOME,Stephen King,ABSTAIN,INSUFFICIENT,,unclear,,only 0 tense-bearing quotes,1,0,0,0,0,0,0,1,0,0
+top2010:1199,hist,2010,CROSS FIRE,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,6,3,0,1,0,3,1,1,0,1
 top2010:1330,hist,2010,DEAD IN THE FAMILY,Charlaine Harris,PAST,PAST,high,retrospective,,"88% past / 12% present of 16, situation=retrospective",21,6,1,8,1,7,12,2,0,0
 top2010:1335,hist,2010,DEAD OR ALIVE,Tom Clancy with Grant Blackwood,PAST,PAST,med,retrospective,,"100% past / 0% present of 5, situation=retrospective",11,4,0,1,0,4,3,4,0,0
 top2010:1728,hist,2010,FALL OF GIANTS,Ken Follett,PAST,PAST,high,retrospective,,"80% past / 20% present of 15, situation=retrospective",24,10,2,2,1,12,5,6,0,1
@@ -480,22 +489,22 @@ top2010:2284,hist,2010,HOUSE RULES,Jodi Picoult,PRESENT,PRESENT,high,simultaneou
 top2010:3859,hist,2010,ROOM,Emma Donoghue,PRESENT,PRESENT,high,simultaneous,,"5% past / 95% present of 19, situation=simultaneous",26,1,17,0,1,18,2,6,0,0
 top2010:3901,hist,2010,SAFE HAVEN,Nicholas Sparks,PAST,PAST,high,retrospective,,"80% past / 20% present of 25, situation=retrospective",49,16,5,4,0,21,21,7,0,0
 top2010:4272,hist,2010,SQUIRREL SEEKS CHIPMUNK,David Sedaris,PAST,PAST,high,retrospective,,"86% past / 14% present of 14, situation=retrospective",21,10,2,2,0,12,8,1,0,0
-top2010:4878,hist,2010,THE CONFESSION,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,Four event-narration quotes: three past and one present. Below the five-event minimum; narrating situation is inferred from the available event passages.,only 4 event quotes,13,3,1,0,0,4,4,3,0,2
+top2010:4878,hist,2010,THE CONFESSION,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,Four event-narration quotes: three past and one present. Below the five-event minimum; narrating situation is inferred from the available event passages.,only 4 tense-bearing quotes,13,3,1,0,0,4,4,3,0,2
 top2010:5254,hist,2010,THE GIRL WHO KICKED THE HORNET’S NEST,Stieg Larsson,PAST,PAST,high,retrospective,,"100% past / 0% present of 25, situation=retrospective",50,23,0,2,0,23,21,6,0,0
 top2011:15,hist,2011,11/22/63,Stephen King,ABSTAIN,UNCLEAR,,unclear,"Classified solely from supplied quote text. Event evidence is evenly split (2 past, 2 present), with no supplied-text basis to identify a narrating structure.",situation='unclear',24,2,2,1,0,4,12,8,0,0
 top2011:26,hist,2011,1Q84,Haruki Murakami,PAST,PAST,high,retrospective,,"78% past / 22% present of 27, situation=retrospective",83,13,6,8,0,19,49,15,0,0
 top2011:81,hist,2011,A DANCE WITH DRAGONS,George R. R. Martin,PAST,PAST,high,retrospective,,"85% past / 15% present of 34, situation=retrospective",79,15,5,14,0,20,41,16,0,2
 top2011:1336,hist,2011,DEAD RECKONING,Charlaine Harris,PAST,PAST,high,retrospective,,"95% past / 5% present of 21, situation=retrospective",27,16,1,4,0,17,8,2,0,0
 top2011:1365,hist,2011,DEATH COMES TO PEMBERLEY,P. D. James,PAST,PAST,high,retrospective,,"100% past / 0% present of 18, situation=retrospective",28,18,0,0,0,18,2,7,0,1
-top2011:2552,hist,2011,KILL ALEX CROSS,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 event quotes,2,2,0,0,0,2,0,0,0,0
-top2011:3309,hist,2011,NOW YOU SEE HER,James Patterson and Michael Ledwidge,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 event quotes,1,1,0,0,0,1,0,0,0,0
+top2011:2552,hist,2011,KILL ALEX CROSS,James Patterson,ABSTAIN,INSUFFICIENT,,retrospective,,only 2 tense-bearing quotes,2,2,0,0,0,2,0,0,0,0
+top2011:3309,hist,2011,NOW YOU SEE HER,James Patterson and Michael Ledwidge,ABSTAIN,INSUFFICIENT,,retrospective,,only 1 tense-bearing quotes,1,1,0,0,0,1,0,0,0,0
 top2011:4311,hist,2011,STATE OF WONDER,Ann Patchett,PAST,PAST,high,retrospective,,"100% past / 0% present of 13, situation=retrospective",26,12,0,1,0,12,9,5,0,0
 top2011:4618,hist,2011,THE BEST OF ME,Nicholas Sparks,PAST,PAST,high,retrospective,,"93% past / 7% present of 43, situation=retrospective",73,37,3,3,0,40,25,6,0,2
 top2011:5131,hist,2011,THE FIFTH WITNESS,Michael Connelly,PAST,PAST,high,retrospective,,"93% past / 7% present of 14, situation=retrospective",21,11,1,2,0,12,5,4,0,0
 top2011:5571,hist,2011,THE LAND OF PAINTED CAVES,Jean M. Auel,PAST,PAST,med,retrospective,,"86% past / 14% present of 7, situation=retrospective",9,3,1,3,0,4,3,0,0,2
 top2011:5670,hist,2011,THE LITIGATORS,John Grisham,PAST,PAST,high,retrospective,,"100% past / 0% present of 17, situation=retrospective",26,13,0,4,0,13,7,4,0,2
 top2011:5973,hist,2011,THE PARIS WIFE,Paula McLain,PAST,PAST,high,retrospective,,"93% past / 7% present of 74, situation=retrospective",100,61,4,8,1,65,25,8,0,2
-top2012:901,hist,2012,CALICO JOE,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 event quotes,5,4,0,0,0,4,0,1,0,0
+top2012:901,hist,2012,CALICO JOE,John Grisham,ABSTAIN,INSUFFICIENT,,retrospective,,only 4 tense-bearing quotes,5,4,0,0,0,4,0,1,0,0
 top2012:1202,hist,2012,CROSS ROADS,Wm. Paul Young,PAST,PAST,high,retrospective,,"100% past / 0% present of 9, situation=retrospective",33,3,0,6,0,3,8,21,1,0
 top2012:2023,hist,2012,GONE GIRL,Gillian Flynn,OTHER,DUAL,high,dual,,"57% past / 43% present of 61, situation=dual",93,32,24,3,2,56,13,24,0,0
 top2012:2555,hist,2012,KILL SHOT,Vince Flynn,PAST,PAST,med,retrospective,,"100% past / 0% present of 7, situation=retrospective",9,7,0,0,0,7,1,0,0,1
@@ -506,20 +515,22 @@ top2012:6093,hist,2012,THE RACKETEER,John Grisham,PRESENT,PRESENT,CONFLICT,simul
 top2012:6166,hist,2012,THE ROUND HOUSE,Louise Erdrich,PAST,PAST,high,retrospective,,"87% past / 13% present of 53, situation=retrospective",65,41,7,5,0,48,8,6,2,1
 top2012:6524,hist,2012,THE TIME KEEPER,Mitch Albom,PAST,PAST,high,retrospective,,"100% past / 0% present of 16, situation=retrospective",46,11,0,5,0,11,6,29,0,0
 top2012:7323,hist,2012,WINTER OF THE WORLD,Ken Follett,PAST,PAST,high,retrospective,,"97% past / 3% present of 31, situation=retrospective",45,21,1,9,0,22,17,4,2,0
+top2013:163,hist,2013,A MEMORY OF LIGHT,Robert Jordan and Brandon Sanderson,PAST,PAST,high,retrospective,,"95% past / 5% present of 20, situation=retrospective",29,4,1,15,0,5,21,1,1,1
 top2013:275,hist,2013,A WEEK IN WINTER,Maeve Binchy,PAST,PAST,med,retrospective,,"100% past / 0% present of 6, situation=retrospective",16,6,0,0,0,6,10,0,0,0
 top2013:455,hist,2013,AND THE MOUNTAINS ECHOED,Khaled Hosseini,ABSTAIN,UNCLEAR,,unclear,"The supplied excerpts contain both past- and present-tense event narration, but do not establish a narrating form or structural relationship sufficient to assign retrospective, simultaneous, or dual.",situation='unclear',56,15,18,1,0,33,6,15,0,2
 top2013:1127,hist,2013,COMMAND AUTHORITY,Tom Clancy with Mark Greaney,PAST,PAST,high,retrospective,,"93% past / 7% present of 15, situation=retrospective",18,11,1,3,0,12,4,1,0,1
 top2013:1201,hist,2013,CROSS MY HEART,James Patterson,PAST,PAST,high,retrospective,Event narration is consistently past tense; the dialogue beats are also past or absent.,"100% past / 0% present of 8, situation=retrospective",14,7,0,1,0,7,2,2,0,3
 top2013:1483,hist,2013,DOCTOR SLEEP,Stephen King,PAST,PAST,high,retrospective,,"100% past / 0% present of 39, situation=retrospective",72,34,0,5,0,34,23,12,3,0
-top2013:2418,hist,2013,INFERNO,Dan Brown,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 event quotes,25,3,0,0,0,3,7,11,2,2
+top2013:2418,hist,2013,INFERNO,Dan Brown,ABSTAIN,INSUFFICIENT,,retrospective,,only 3 tense-bearing quotes,25,3,0,0,0,3,7,11,2,2
+top2013:3892,hist,2013,S.,Doug Dorst,PRESENT,PRESENT,high,dual,,"16% past / 84% present of 25, situation=dual",67,4,21,0,0,25,22,15,0,5
 top2013:4426,hist,2013,SYCAMORE ROW,John Grisham,PAST,PAST,high,retrospective,,"94% past / 6% present of 18, situation=retrospective",31,14,1,3,0,15,6,8,0,2
 top2013:4475,hist,2013,TENTH OF DECEMBER,George Saunders,ABSTAIN,UNCLEAR,,unclear,"The excerpts support distinct retrospective and writing-moment modes, but do not establish one book-level narrating situation.",situation='unclear',50,31,6,5,0,37,9,3,0,1
 top2013:4914,hist,2013,THE CUCKOO'S CALLING,Robert Galbraith,PAST,PAST,high,retrospective,,"100% past / 0% present of 18, situation=retrospective",27,16,0,2,0,16,5,5,0,1
-top2013:5154,hist,2013,THE FIRST PHONE CALL FROM HEAVEN,Mitch Albom,ABSTAIN,INSUFFICIENT,,unclear,,only 1 event quotes,24,0,0,1,0,0,2,22,0,0
+top2013:5154,hist,2013,THE FIRST PHONE CALL FROM HEAVEN,Mitch Albom,ABSTAIN,INSUFFICIENT,,unclear,,only 1 tense-bearing quotes,24,0,0,1,0,0,2,22,0,0
 top2013:5300,hist,2013,THE GOLDFINCH,Donna Tartt,PAST,PAST,high,retrospective,,"81% past / 19% present of 64, situation=retrospective",88,49,12,3,0,61,13,13,1,0
 top2013:5397,hist,2013,THE HIT,David Baldacci,PAST,PAST,high,retrospective,,"100% past / 0% present of 12, situation=retrospective",20,12,0,0,0,12,2,1,0,5
 top2013:5452,hist,2013,THE HUSBAND'S SECRET,Liane Moriarty,PAST,PAST,high,retrospective,,"99% past / 1% present of 84, situation=retrospective",97,80,1,3,0,81,7,7,0,2
-top2013:5695,hist,2013,THE LONGEST RIDE,Nicholas Sparks,ABSTAIN,INSUFFICIENT,,unclear,,only 3 event quotes,27,1,2,0,0,3,21,3,0,0
+top2013:5695,hist,2013,THE LONGEST RIDE,Nicholas Sparks,ABSTAIN,INSUFFICIENT,,unclear,,only 3 tense-bearing quotes,27,1,2,0,0,3,21,3,0,0
 top2013:5912,hist,2013,THE OCEAN AT THE END OF THE LANE,Neil Gaiman,PAST,PAST,high,retrospective,,"100% past / 0% present of 15, situation=retrospective",27,13,0,2,0,13,7,7,0,0
 top2014:381,hist,2014,ALL THE LIGHT WE CANNOT SEE,Anthony Doerr,PRESENT,PRESENT,high,simultaneous,,"2% past / 98% present of 51, situation=simultaneous",91,1,40,0,10,41,24,25,0,1
 top2014:691,hist,2014,BIG LITTLE LIES,Liane Moriarty,PAST,PAST,high,retrospective,,"100% past / 0% present of 17, situation=retrospective",27,15,0,2,0,15,7,5,0,0
@@ -553,7 +564,7 @@ top2016:3145,modern,2016,MY NAME IS LUCY BARTON,Elizabeth Strout,PAST,PAST,high,
 top2016:3225,modern,2016,NIGHT SCHOOL,Lee Child,PAST,PAST,high,retrospective,"Prose fiction (thriller), third-person past. 10 event quotes, all past, zero present event-narration. Very heavy dialogue share (8/22) and much of it unmarked -- vocatives ('Ma'am', 'colonel', 'Jamison'-style address) and imperatives were the working signal where quotation marks were stripped. The two abstentions (q00964, q00972) are both present-tense passages with no speech marker; both read as speech but nothing in the text proves it.","100% past / 0% present of 15, situation=retrospective",22,10,0,5,0,10,8,2,0,2
 top2016:3263,modern,2016,NO MAN'S LAND,David Baldacci,PAST,PAST,high,retrospective,"Prose fiction, not verse. Third-person past-tense thriller with alternating Puller and Rogers strands and a very high dialogue share (11 of 25). Quotation marks survive in about half the dialogue quotes; the rest were called on vocatives ('Puller', 'soldier', 'Agent Puller') and direct address. No present-tense event narration anywhere. One paratext quote (audiobook acknowledgments).","100% past / 0% present of 19, situation=retrospective",25,13,0,6,0,13,11,0,1,0
 top2016:3725,modern,2016,RAZOR GIRL,Carl Hiaasen,PAST,PAST,high,retrospective,,"100% past / 0% present of 34, situation=retrospective",38,27,0,7,0,27,10,0,1,0
-top2016:4157,modern,2016,SMALL GREAT THINGS,Jodi Picoult,ABSTAIN,INSUFFICIENT,,unclear,"No event-narration excerpts were available. The sole diagnostic dialogue beat is present tense, but it is insufficient to establish a narrating situation.",only 1 event quotes,27,0,0,0,1,0,15,10,2,0
+top2016:4157,modern,2016,SMALL GREAT THINGS,Jodi Picoult,ABSTAIN,INSUFFICIENT,,unclear,"No event-narration excerpts were available. The sole diagnostic dialogue beat is present tense, but it is insufficient to establish a narrating situation.",only 1 tense-bearing quotes,27,0,0,0,1,0,15,10,2,0
 top2016:4653,modern,2016,THE BLACK WIDOW,Daniel Silva,PAST,PAST,high,retrospective,"Prose fiction (espionage thriller), third-person past. 11 event quotes, all past, zero present event-narration. The present-tense material splits cleanly into two non-diagnostic kinds: quoted/epigraphic essay prose about ISIS (q01212, q01213, q01220) and unmarked character speech (q01207, q01221). Goodreads has leaked the acknowledgments (q01206) onto this work page. q01218 is the Switzerland/France analogy METHODOLOGY names as the one genuinely contested past-tense gnomic; it is flagged rather than decided silently.","100% past / 0% present of 12, situation=retrospective",23,11,0,1,0,11,4,6,1,1
 top2016:5261,modern,2016,THE GIRLS,Emma Cline,PAST,PAST,high,retrospective,"Prose fiction, not verse -- the lyric density is high and several quotes are verbless fragments, but the surrounding material is clearly narrative prose. First-person adult narrator looking back on adolescence, so the reflective register that would be gnomic in a present-tense novel is here almost all cast in PAST tense ('That was part of being a girl -- you were resigned to...'). Those quotes stay event/past per the present-tense-only gnomic rule and are flagged in notes; they are the audit-sensitive set for this book. No dialogue quotes at all. Zero present-tense event narration.","100% past / 0% present of 17, situation=retrospective",23,17,0,0,0,17,0,6,0,0
 top2016:5597,modern,2016,THE LAST MILE,David Baldacci,PAST,PAST,high,retrospective,"Prose fiction (crime thriller), third-person past. 8 event quotes, all past, zero present event-narration. Dialogue-heavy page (7/17) and most of it unmarked -- vocatives ('Jamison', 'Hugh'), second-person address and first-person deixis were the working signals. q01071 and q01073 are the two passages a loose reading would misfile as gnomic; both are past-tense and q01071 clearly summarizes the story world. q01073 is flagged as the genuinely borderline one.","100% past / 0% present of 10, situation=retrospective",17,8,0,2,0,8,7,1,0,1
@@ -614,6 +625,7 @@ top2019:431,modern,2019,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,PRE
 top2019:525,modern,2019,"ASK AGAIN, YES",Mary Beth Keane,PAST,PAST,high,retrospective,Event narration is consistently retrospective; the few present-tense excerpts are gnomic or insufficiently contextualized.,"100% past / 0% present of 51, situation=retrospective",64,47,0,4,0,47,9,4,0,4
 top2019:776,modern,2019,BLUE MOON,Lee Child,PAST,PAST,high,retrospective,"Clean past-tense third-person limited narration following a character named Reacher, heavy free indirect discourse in clipped fragments. 16 event quotes, all past, none present. Gnomic bucket used only for three genuinely present-tense generalizations (a proverb, a second-person rule of thumb, a verbless fragment); past-tense summary such as q03720 kept as event/past per the specificity-not-tense rule. Dialogue identified by quotation-mark majority everywhere except q03724, where marks are absent and register/first-person deixis was the signal. No paratext, no non-English, no verse.","100% past / 0% present of 17, situation=retrospective",24,16,0,1,0,16,4,3,0,1
 top2019:1067,modern,2019,CITY OF GIRLS,Elizabeth Gilbert,PAST,PAST,high,retrospective,Event narration is predominantly retrospective past; the few present event passages are reflective states rather than a separate contemporaneous strand.,"91% past / 9% present of 33, situation=retrospective",72,27,3,3,0,30,25,17,0,0
+top2019:1237,modern,2019,DAISY JONES & THE SIX,Taylor Jenkins Reid,PAST,PAST,med,retrospective,,"83% past / 17% present of 6, situation=retrospective",53,5,1,0,0,6,38,6,0,3
 top2019:1683,modern,2019,EVVIE DRAKE STARTS OVER,Linda Holmes,PAST,PAST,high,retrospective,"38 quotes, complete. Third-person past narration centered on Evvie/Eveleth; every event quote is past, none present. Quotation marks survive on some excerpts and are stripped by truncation on others, so unmarked speech was identified via vocatives, direct address and speech markers (recorded per quote). Several first-person present passages (q04092, q04103, q04114, q04115, q04129) read as speech rather than a narrating strand, since the narration elsewhere is uniformly third-person past; q04092 is the flip-risk case. Heavy aphoristic contamination typical of this source: 7 gnomic second-person universals that a two-bucket filter would score as present-tense evidence.","100% past / 0% present of 21, situation=retrospective",38,17,0,4,0,17,13,7,0,1
 top2019:2795,modern,2019,LOST ROSES,Martha Hall Kelly,PAST,PAST,med,retrospective,"Heavily dialogue-dominated quote page (9 of 19) -- Goodreads selected the speeches. Only 3 event-narration quotes survive, all past, which is below the >=5 threshold; label.py will read this as insufficient rather than high-confidence past. Quotation marks survive on about half the quotes; for the rest I used vocatives, imperatives, and speech markers, recorded per quote. q04142 is the one that could move the count: it is present tense and I filed it paratext as an afterword about real present-day places, not narration.","100% past / 0% present of 5, situation=retrospective",19,3,0,2,0,3,9,4,1,2
 top2019:3115,modern,2019,MRS. EVERYTHING,Jennifer Weiner,PAST,PAST,high,retrospective,"Clean past-tense third-person narration with heavy free indirect discourse across two sisters (Jo, Bethie). Quotation marks survived on roughly half the dialogue quotes; where absent I used vocatives, direct address, first/second-person deixis and colloquial register, noted per quote. Two attributed epigraphs discarded as paratext, one rhyming couplet abstained as verse. q04170 is a past-tense proverb allusion with no story-world referent -- the contested past-tense gnomic case, flagged rather than decided silently. All 24 event quotes are past; no present event-narration anywhere in the sample.","100% past / 0% present of 29, situation=retrospective",43,24,0,5,0,24,12,4,2,1

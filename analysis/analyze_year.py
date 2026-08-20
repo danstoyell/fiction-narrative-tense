@@ -1,4 +1,4 @@
-"""Apply METHODOLOGY thresholds to agent classifications -> per-book labels.
+"""Derive per-book labels from classified quotes under METHODOLOGY.md.
 
 Reads raw_data/classified/*.json, joins to raw_data/books_topn.csv, emits a labelled
 table plus the abstention accounting. Abstentions are reported, never dropped:
@@ -12,11 +12,8 @@ ROOT = os.path.dirname(HERE)
 DATA = os.path.join(ROOT, "raw_data")
 MANUAL_LABEL_OVERRIDES = os.path.join(DATA, "manual_label_overrides.json")
 
-MIN_EVENT_PAST = 5          # >=5 event quotes, >=80% past
-MIN_EVENT_PRESENT = 8       # >=8 event quotes, >=85% present
-PAST_BAR = 0.80
-PRESENT_BAR = 0.85
-STRAND_BAR = 0.70           # 70-85% present + memory strand -> PRESENT (flagged)
+MIN_TENSE_BEARING = 5       # minimum pooled event + dialogue-beat observations
+MIN_HIGH_CONFIDENCE = 8     # pooled observations required for high confidence
 
 
 DOMINANT = 0.80             # a "dual" book this one-sided has a base tense + a strand
@@ -30,10 +27,8 @@ def tally(quotes, beats="include"):
     an action beat). Both are the narrator's own words about the story world, so
     with beats="include" they land in the same tally.
 
-    The caveat the spec raised is real: an event quote is a whole narrated passage,
-    a beat is often a bare "he said". Pooling lets a book clear the event floor on
-    thinner evidence than the thresholds were calibrated against. Counts are kept
-    separate in the output so either view can be recovered without re-running.
+    Production labels pool the two forms of narratorial evidence. Counts are kept
+    separate in the output so the effect of pooling can be audited without re-running.
     """
     ev = [q for q in quotes if q.get("bucket") == "event"]
     ev_past = sum(1 for q in ev if q.get("tense") == "past")
@@ -67,8 +62,8 @@ def label(ev_past, ev_present, situation, verse):
     n = ev_past + ev_present
     if verse:
         return "EXCLUDED-verse", "not prose fiction", ""
-    if n < MIN_EVENT_PAST:
-        return "INSUFFICIENT", f"only {n} event quotes", ""
+    if n < MIN_TENSE_BEARING:
+        return "INSUFFICIENT", f"only {n} tense-bearing quotes", ""
     p_pres = ev_present / n
 
     if situation == "retrospective":
@@ -87,7 +82,7 @@ def label(ev_past, ev_present, situation, verse):
     # Confidence: does the quote ratio corroborate the structural read?
     agrees = (base == "PAST" and p_pres <= 0.35) or \
              (base == "PRESENT" and p_pres >= 0.65) or base == "DUAL"
-    conf = "high" if (agrees and n >= MIN_EVENT_PRESENT) else \
+    conf = "high" if (agrees and n >= MIN_HIGH_CONFIDENCE) else \
            "med" if agrees else "CONFLICT"
     why = f"{1-p_pres:.0%} past / {p_pres:.0%} present of {n}, situation={situation}"
     return base, why, conf

@@ -25,20 +25,26 @@ MANUAL_LABEL_OVERRIDES = os.path.join(DATA, "manual_label_overrides.json")
 YEARS = list(range(2016, 2026))
 ERA_SPLIT = 2020          # first year of the later era
 
-# The 1931--1995 data is a historical top-three sample. 2016--2025 is the top 30 titles
-# per year; 1996--2015 is a narrower, more famous slice and is not pooled into the
-# headline test.
+# Internal source cohorts preserve crawl provenance. They are not all literal top-N samples:
+# historical years were extended toward annual usable-label targets, while 2016--2025 uses
+# a fixed top-30 candidate pool and classifies every quote-eligible title.
 SOURCES = [
     dict(key="pilot", books=["books_top3_1931_1995.csv", "books_top3_1931_1995_zero_label_more.csv",
                               "books_top3_1931_1995_zero_label_final.csv",
-                              "books_top3_1931_1995_under_two_more.csv"],
+                              "books_top3_1931_1995_under_two_more.csv",
+                              "books_top3_1931_1995_zero_label_round2.csv",
+                              "books_top3_1931_1995_zero_label_round3.csv"],
          quotes=["quotes_top3_1931_1995.csv", "quotes_top3_1931_1995_zero_label_more.csv",
                  "quotes_top3_1931_1995_zero_label_final.csv",
-                 "quotes_top3_1931_1995_under_two_more.csv"],
+                 "quotes_top3_1931_1995_under_two_more.csv",
+                 "quotes_top3_1931_1995_zero_label_round2.csv",
+                 "quotes_top3_1931_1995_zero_label_round3.csv"],
          dirs=["classified_top3_1931_1995_first31", "classified_top3_1931_1995_rest",
                "classified_top3_1931_1995_zero_label_more", "classified_top3_1931_1995_zero_label_final",
                "classified_top3_1931_1995_zero_label_final_rest",
-               "classified_top3_1931_1995_under_two_more"],
+               "classified_top3_1931_1995_under_two_more",
+               "classified_top3_1931_1995_resolution_corrections",
+               "classified_top3_1931_1995_zero_label_round*"],
          lo=1931, hi=1995),
     dict(key="modern", books=["books_topn.csv"], quotes=["quotes_topn.csv"],
          dirs=["classified"], lo=2016, hi=2025),
@@ -75,7 +81,7 @@ def group(lab):
 # ---------------------------------------------------------------- data
 
 def load():
-    """Every classified book from both frames, each tagged with the frame it came from."""
+    """Every classified book, tagged with its internal source cohort."""
     rows, missing = [], 0
     manual_overrides = json.load(open(MANUAL_LABEL_OVERRIDES, encoding="utf-8")) \
         if os.path.exists(MANUAL_LABEL_OVERRIDES) else {}
@@ -161,6 +167,19 @@ def load():
     return rows, missing, dict(frame_n), dict(skipped)
 
 
+def wilson_interval(successes, n, z=1.959963984540054):
+    """Wilson score interval for a binomial proportion."""
+    if n <= 0:
+        return None
+    proportion = successes / n
+    denominator = 1 + z ** 2 / n
+    center = (proportion + z ** 2 / (2 * n)) / denominator
+    half_width = z * math.sqrt(
+        proportion * (1 - proportion) / n + z ** 2 / (4 * n ** 2)
+    ) / denominator
+    return max(0, center - half_width), min(1, center + half_width)
+
+
 def periods(rows, span=1, lo=1996, hi=2025):
     """Chart/table rows grouped into evenly sized periods for an inclusive range."""
     if span not in (1, 3, 5, 10):
@@ -179,15 +198,18 @@ def periods(rows, span=1, lo=1996, hi=2025):
         short = f"'{str(start)[2:]}" if start == end else f"{str(start)[2:]}\u2013{str(end)[2:]}"
         frame = "pilot" if end <= 1995 else "hist" if end <= 2015 else "modern" if start >= 2016 else "mixed"
         n = c["PAST"] + c["PRESENT"] + c["OTHER"]
+        interval = wilson_interval(c["PRESENT"], n)
         out.append({"y": key, "short": short, "lo": start, "hi": end,
                     "mid": (start + end) / 2, "span": end - start + 1, "frame": frame,
                     "past": c["PAST"], "other": c["OTHER"], "pres": c["PRESENT"],
-                    "ab": c["ABSTAIN"], "cls": c["cls"], "n": n})
+                    "ab": c["ABSTAIN"], "cls": c["cls"], "n": n,
+                    "ci_lo": interval[0] if interval else None,
+                    "ci_hi": interval[1] if interval else None})
     return out
 
 
 def trend(rows, frame=None):
-    """Weighted linear trend in present-share against year. One frame at a time."""
+    """Weighted linear trend in present-share against year, optionally by source cohort."""
     sel = [r for r in rows if r["label"] in ("PAST", "PRESENT", "OTHER")
            and (frame is None or r["frame"] == frame)]
     if not sel:
@@ -200,7 +222,7 @@ def trend(rows, frame=None):
     tp = sum(by[y]["p"] for y in ys)
     tn = sum(by[y]["n"] for y in ys)
     pbar = tp / tn
-    xbar = sum(ys) / len(ys)
+    xbar = sum(y * by[y]["n"] for y in ys) / tn
     num = sum((y - xbar) * (by[y]["p"] - by[y]["n"] * pbar) for y in ys)
     den = sum(by[y]["n"] * (y - xbar) ** 2 for y in ys)
     if den == 0 or pbar in (0, 1):
@@ -211,7 +233,7 @@ def trend(rows, frame=None):
 
 
 def era(rows):
-    """Later vs earlier within the consistent top-30 frame."""
+    """Later vs earlier within the fixed top-30 candidate cohort."""
     sel = [r for r in rows if r["frame"] == "modern"
            and r["label"] in ("PAST", "PRESENT", "OTHER")]
     def tot(g):
@@ -238,7 +260,7 @@ def nonmonotonic(per):
 
 
 def mark_survival():
-    """Share of quotes that kept their quotation marks, across both frames."""
+    """Share of quotes that kept their quotation marks across source cohorts."""
     import re as _re
     lo, hi = 100.0, 0.0
     for src in SOURCES:
@@ -455,9 +477,11 @@ def body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, mi
     hi, below, pct = nonmonotonic(per)
     lo_mark, hi_mark = mark_survival()
     cls = len(rows)
-    ab = sum(r["ab"] for r in per)
     ns = [r["n"] for r in per if r["n"]]
     total_frame = sum(frame_n.values())
+    labelled = sum(r["label"] in ("PAST", "PRESENT", "OTHER") for r in rows)
+    classified_abstentions = cls - labelled
+    not_classified = total_frame - cls
     below_txt = ", ".join(f"{r['y']} ({pct(r):.0%})" for r in below) or "no later point"
     swing = 0
     modern_periods = [r for r in per if r["frame"] == "modern"]
@@ -470,12 +494,9 @@ def body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, mi
     n5 = frame_n.get("hist", 0)
     n30 = frame_n.get("modern", 0)
     npilot = frame_n.get("pilot", 0)
-    pilot_span = len({r["year"] for r in rows if r["frame"] == "pilot"}) or 1
-    hist_span = len({r["year"] for r in rows if r["frame"] == "hist"}) or 1
-    mod_span = len({r["year"] for r in rows if r["frame"] == "modern"}) or 1
-    pilot_lbl = f"top {round(npilot / pilot_span)} pilot"
-    hist_lbl = f"top {round(n5 / hist_span)} a year"
-    mod_lbl = f"top {round(n30 / mod_span)} a year"
+    pilot_lbl = "target ≥2 labels/year"
+    hist_lbl = "target ≥10 labels/year"
+    mod_lbl = "eligible books from top 30/year"
 
     return f"""
 <div class="wrap wide">
@@ -484,9 +505,9 @@ def body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, mi
   <div class="eyebrow">Booktense &middot; {cls} books classified &middot; {nq:,} quotes &middot; built {built}</div>
   <h1>Present-tense narration in NYT bestsellers, 1931&ndash;2025</h1>
   <p class="lede">Share of labelled books by the tense of their <em>base narration</em>.
-  Choose one-, three-, five-, or ten-year periods across the whole series. The early years are
-  drawn from a narrower slice of the list. Every quote behind every label
-  is in the explorer at the bottom.</p>
+  Choose one-, three-, five-, or ten-year periods across the whole series. Earlier years were
+  extended toward annual usable-label targets; 2016 onward uses all quote-eligible books in a
+  fixed top-30 candidate pool. Every quote behind every label is in the explorer at the bottom.</p>
 </header>
 
 <section>
@@ -547,8 +568,8 @@ def body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, mi
   <div class="tw">
     <table>
       <thead><tr>
-        <th class="l">Period</th><th class="l">Frame</th><th>Past</th><th>Other</th>
-        <th>Present</th><th>n labelled</th><th>% present</th><th>95% CI</th>
+        <th class="l">Period</th><th class="l">Selection plan</th><th>Past</th><th>Other</th>
+        <th>Present</th><th>n labelled</th><th>% present</th><th>95% Wilson CI</th>
         <th>abstained</th><th>classified</th>
       </tr></thead>
       <tbody id="tbody"></tbody>
@@ -668,10 +689,10 @@ def body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, mi
     linear trend across those years gives p&nbsp;=&nbsp;{p_trend['p']:.3f} on {p_trend['n']} books.
     The two-era split reads p&nbsp;=&nbsp;{era_p:.3f}, but its {ERA_SPLIT - 1}/{ERA_SPLIT}
     boundary was drawn after seeing the data, so lead with the trend.</p>
-    <p><strong>The 1996&ndash;2015 points are context, not the same measurement.</strong> They
-    come from the {hist_lbl} of each year against the {mod_lbl} from 2016 on, so the early
-    slice is a smaller, more famous set of books. A difference between the eras could be a
-    difference between those slices. Do not read the full span as one series.</p>
+    <p><strong>Selection depth changes over time.</strong> The 1996&ndash;2015 batches extend
+    NYT-ranked candidates toward ten usable labels per year; from 2016 on, all quote-eligible
+    books in a fixed top-30 candidate pool are classified. The same label method is applied
+    throughout, but the represented depth of the list and annual precision vary.</p>
     <p><strong>Detectable is not monotonic.</strong> Adjacent years swing by as much as
     {swing:.0%}, and {hi['y']} ({pct(hi):.0%}) sits at or above {below_txt}. What the recent
     data supports is a level shift, not a steady year-on-year climb.</p>
@@ -688,26 +709,30 @@ def body(rows, per, pilot, modern, early, recent, p_trend, hist, frame_n, nq, mi
         speech and narration often cannot be told apart from the text alone.</li>
         <li>Excerpts arrive clipped mid-sentence, stripping the attribution that would settle
         who is speaking.</li>
-        <li>How many quotes a book has tracks its fame, not its prose, so thinly-quoted books
-        abstain more often &mdash; {ab} do here.</li>
+        <li>How many quotes a book has tracks its fame, not its prose. Across all annual
+        candidate batches, {total_frame - labelled} of {total_frame} selected candidates do
+        not yield a usable label, either because they never reach classification or because
+        the available evidence requires abstention.</li>
         <li>Nothing marks where in a book a quote came from, so a framed prologue or an
         embedded tale reads the same as the main narration.</li>
       </ul>
     </li>
-    <li><strong>Quote-level labels are noisier than book-level ones.</strong> Scored against
-    the project&rsquo;s gold standard, two independent passes agreed on only 68% of quote
-    buckets &mdash; yet both produced the same book label, and every disagreement was a
-    bucket, never a tense. That measurement predates the current spec and is due a re-run.</li>
+    <li><strong>Quote-level labels are noisier than tense judgments.</strong> In the latest
+    blind reproducibility check over 30 books, Terra and the earlier Sonnet pass agreed on
+    83.9% of quote buckets, 99.1% of event tense where both chose event, 98.2% of dialogue-beat
+    tense where both chose dialogue, and 86.7% of narrating situations and derived book labels.
+    Sonnet is a comparator, not an external accuracy gold standard.</li>
   </ul>
 </section>
 
 <footer>
-  Frame: NYT Hardcover Fiction &middot; {mod_lbl} 2016&ndash;2025 ({n30} books),
-  {hist_lbl} 1996&ndash;2015 ({n5} books)<br>
+  Selection: NYT Hardcover Fiction &middot; {pilot_lbl} in 1931&ndash;1995 ({npilot} candidates),
+  {hist_lbl} in 1996&ndash;2015 ({n5} candidates), fixed top-30 candidate pool in
+  2016&ndash;2025 ({n30} candidates)<br>
   Text: Goodreads pull-quotes &middot; Labels: base narration from narrating_situation; event
   quotes and dialogue beats pooled for ratio and confidence<br>
-  {cls} classified of {total_frame} in frame &middot; {modern['n'] + (hist['n'] if hist else 0)}
-  yielding a label &middot; {ab} abstained{'' if not missing else f' &middot; {missing} quotes with no text on file'}
+  {total_frame} selected candidates &middot; {cls} classified &middot; {labelled} usable labels
+  &middot; {classified_abstentions} classified abstentions &middot; {not_classified} not classified{'' if not missing else f' &middot; {missing} quotes with no text on file'}
 </footer>
 </div>
 """
@@ -760,14 +785,12 @@ function drawChart(A){
   });
   document.getElementById("chart").innerHTML=s;
 
-  const ci=(p,n)=>{const se=Math.sqrt(p*(1-p)/n);
-    return `${Math.max(0,Math.round((p-1.96*se)*100))}–${Math.min(100,Math.round((p+1.96*se)*100))}%`;};
   document.getElementById("tbody").innerHTML=A.map(d=>`
     <tr><td>${d.y}</td>
-    <td style="color:var(--faint)">${d.frame==="pilot"?PILOTLBL:d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"both frames"}</td>
+    <td style="color:var(--faint)">${d.frame==="pilot"?PILOTLBL:d.frame==="hist"?HISTLBL:d.frame==="modern"?MODLBL:"mixed cohorts"}</td>
     <td>${d.past}</td><td>${d.other}</td><td>${d.pres}</td>
     <td>${d.n}</td><td>${d.n?Math.round(d.pPres*100)+"%":"—"}</td>
-    <td>${d.n?ci(d.pPres,d.n):"—"}</td>
+    <td>${d.n?`${Math.round(d.ci_lo*100)}–${Math.round(d.ci_hi*100)}%`:"—"}</td>
     <td>${d.ab}</td><td style="color:var(--faint)">${d.cls}</td></tr>`).join("");
   const counts=A.filter(d=>d.n).map(d=>d.n);
   document.getElementById("point-note").firstChild.textContent=
@@ -1036,9 +1059,9 @@ def main():
                            for name, (lo, hi) in ranges.items()},
                "books": rows,
                "quoteSummary": quote_buckets,
-               "pilotLbl": f"top {round(frame_n.get('pilot',0) / max(1,len({r['year'] for r in rows if r['frame']=='pilot'})))} pilot",
-               "histLbl": f"top {round(frame_n.get('hist',0) / max(1,len({r['year'] for r in rows if r['frame']=='hist'})))}",
-               "modLbl": f"top {round(frame_n.get('modern',0) / max(1,len({r['year'] for r in rows if r['frame']=='modern'})))}"}
+               "pilotLbl": "target ≥2 labels/year",
+               "histLbl": "target ≥10 labels/year",
+               "modLbl": "eligible of top 30/year"}
     blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
 
     def page(title, boot, data_script=""):
@@ -1057,10 +1080,10 @@ def main():
 
     print(f"{len(rows)} books, {nq} quotes"
           + (f", {missing} quotes missing text" if missing else ""))
-    print(f"  top30 2016-2025 : {modern['pres']}/{modern['n']} = {modern['share']:.1%} present")
+    print(f"  eligible top30 2016-2025 : {modern['pres']}/{modern['n']} = {modern['share']:.1%} present")
     print(f"  trend 1996-2025 : p={p_trend['p']:.4f}")
     if hist:
-        print(f"  top5  1996-2015 : {hist['pres']}/{hist['n']} = {hist['share']:.1%} present"
+        print(f"  target10 1996-2015 : {hist['pres']}/{hist['n']} = {hist['share']:.1%} present"
               f"  trend z={hist['z']:.2f} p={hist['p']:.4f}")
     print(f"  era {2016}-{ERA_SPLIT-1} {e['P1']:.1%} vs {ERA_SPLIT}-2025 {e['P2']:.1%}"
           f"  z={e['z']:.2f} p={e['p']:.4f}")

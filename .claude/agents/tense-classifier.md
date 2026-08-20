@@ -57,8 +57,12 @@ Getting this wrong is the single largest error source in this project. A looser 
 
 ### Other rules
 
-- A dialogue tag makes the quote `event`: `"You don't deserve it, he said aloud"` → `event`/`past`. `"Some stories," she says` → `event`/`present`.
-- Fragments with no finite verb → `gnomic`, note `"fragment"`.
+- A dialogue tag or action beat supplies `beat_tense` when speech remains the majority:
+  `"Some stories," she says` → `dialogue`, `beat_tense: present`. A mixed quote becomes
+  `event` only when narration is at least near parity, such as `He hesitated. "You don't
+  deserve it," he said aloud, and turned back to the window.` → `event`/`past`.
+- A fragment with no finite verb cannot supply tense. Use `gnomic` only if it clearly
+  generalizes beyond the story world; otherwise use `unclear` and note `"fragment"`.
 - Non-English text (translated editions leak onto Goodreads work pages) → `paratext`, note `"non-english"`.
 - Goodreads work pages leak front/back matter. An author writing in first person about *inventing* a character is `paratext`, not narration.
 - Subjunctive and conditional are not past narration: "as though acceptance **were** enough", "who **would** torture" are not `event`/`past`.
@@ -72,8 +76,9 @@ Write `raw_data/classified/<SAMPLE_ID>.json`. Replace `/` `:` `|` `'` in the sam
 {
   "sample_id": "top1995:1234",
   "quotes": [
-    {"quote_id": "q00001", "bucket": "event", "tense": "past", "note": ""},
-    {"quote_id": "q00002", "bucket": "gnomic", "tense": "", "note": "aphorism"}
+    {"quote_id": "q00001", "bucket": "event", "tense": "past", "beat_tense": "", "note": ""},
+    {"quote_id": "q00002", "bucket": "dialogue", "tense": "", "beat_tense": "present", "note": "speech tag"},
+    {"quote_id": "q00003", "bucket": "gnomic", "tense": "", "beat_tense": "", "note": "aphorism"}
   ],
   "narrating_situation": "retrospective",
   "agent_note": "clean past-tense third person"
@@ -87,6 +92,8 @@ Write `raw_data/classified/<SAMPLE_ID>.json`. Replace `/` `:` `|` `'` in the sam
 - **Classify only what the text shows.** Never use prior knowledge of the novel. If you recognise the book, ignore what you remember — recalled labels have been wrong here repeatedly, including for *Plainsong* and *Parable of the Sower*. The quote text is the only evidence.
 - **Abstain freely.** If a quote is genuinely ambiguous, mark `bucket: "unclear"` and explain in `note`. Abstention is a valid, useful outcome; a forced guess is not.
 - Every quote in the input must appear exactly once in the output.
-- Do not compute the book's overall label. `label.py` applies the thresholds.
+- Do not compute the book's overall label. `analysis/analyze_year.py` applies the production
+  pooled-evidence and narrating-situation rules.
 
-When done, report: sample_ids processed, and per book the counts of event/gnomic/dialogue/unclear and the past/present split.
+When done, report: sample_ids processed, and per book the counts of
+event/gnomic/dialogue/paratext/unclear, event past/present, and dialogue-beat past/present/none.

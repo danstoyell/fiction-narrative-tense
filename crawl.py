@@ -91,8 +91,13 @@ def main():
                 res = gr.resolve(r["title"], r["author"], r.get("year"), r.get("isbn"),
                                  patient=args.patient)
                 qs, raw_count = (gr.quotes(res["work_id"], args.max_pages,
-                                           patient=args.patient)
+                                           patient=args.patient, expected_title=r["title"])
                                  if res["work_id"] else ([], 0))
+            except gr.TitleMismatch as e:
+                res["confidence"] = "review"
+                res["notes"] = ";".join(x for x in (res.get("notes"), str(e)) if x)
+                qs, raw_count = [], 0
+                print(f"      TITLE MISMATCH: {e}", flush=True)
             except gr.RateLimited as e:
                 print(f"\nRATE LIMITED: {e}\nStopping cleanly. Wait ~15min and re-run; "
                       f"cache preserved, {i-1} books done this run.")

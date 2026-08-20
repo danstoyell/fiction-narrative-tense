@@ -8,18 +8,29 @@ Method for assigning a narrative-tense label to a book using publicly published 
 
 ## Procedure
 
-**1. Fetch.** `https://www.goodreads.com/work/quotes/{work_id}` (`?page=N` for more). Needs a browser User-Agent and retries; requests fail intermittently. ~30 quotes/page.
+**1. Resolve and verify the title before fetching.** An ISBN is a lookup hint, not proof: source
+metadata can attach another book's ISBN, especially another title by the same author. Compare
+the requested NYT title with both the Goodreads book-page title and the title printed on
+`https://www.goodreads.com/work/quotes/{work_id}`. Accept punctuation, leading-article,
+subtitle, and documented translation-title variants; reject a different title, a sequel,
+prologue, omnibus, collection, or partial volume. Duplicate Goodreads work IDs assigned to
+different requested titles require review. Never attach old classifications to newly resolved
+quote text.
+
+Then fetch `https://www.goodreads.com/work/quotes/{work_id}` (`?page=N` for more). Requests
+need a browser User-Agent and retries and fail intermittently. Expect about 30 quotes/page.
 
 **2. Deduplicate.** Goodreads lists overlapping excerpts of the same passage as separate entries. Normalize (lowercase, strip punctuation, first 90 chars) and drop substring-containment matches. Counting duplicates inflates apparent agreement.
 
-**3. Bucket each quote into three categories — not two.**
+**3. Bucket each quote into five categories — not two.**
 
 | Bucket | Test | Diagnostic? |
 |---|---|---|
-| **Dialogue** | Character speech. Majority of words inside quotation marks. | No |
+| **Dialogue** | Character speech. Majority of words inside quotation marks. | **Yes, when a narratorial beat is present** |
 | **Gnomic** | **Present-tense** narration that generalizes **beyond the story world**: proverbs, epigraphs, essayistic reflection, second-person universals. Appears in books of any narrative tense. | **No** |
-| **Event-narration** | Reports a specific event or state **of a specific character at a specific story-moment**, *or* past-tense exposition and summary about the story world. | **Yes — only these count** |
+| **Event-narration** | Reports a specific event or state **of a specific character at a specific story-moment**, *or* past-tense exposition and summary about the story world. | **Yes** |
 | **Paratext** | Acknowledgments, author's notes, dedications, epigraph attributions, jacket copy. Not the novel. | **No — discard** |
+| **Unclear** | The excerpt is too clipped or ambiguous to classify responsibly. | **No** |
 
 The gnomic bucket is the critical one. "But books, like people, die" is narration, not dialogue, so a two-bucket filter passes it through and labels the book present. It's the tense of proverbs and appears in past-tense novels constantly. Goodreads quotes are *selected for quotability*, and quotability correlates with aphorism — so this source is adversarially biased toward apparent present tense.
 
@@ -57,64 +68,51 @@ sit *inside* a character's speech, where it is that character narrating and must
 A ten-verb regex over the corpus missed narration outside the quotation marks on **49%** of
 mark-bearing dialogue quotes, and produced false positives wherever marks were unbalanced.
 
-**How `beat_tense` is consumed.** Beats form a **separate tally** and do **not** enter the
-event-narration ratio in §5. Pooling them would mix evidence of very different weight: an
-event quote is a whole narrated passage, a beat is often a bare "he said". Beats instead
-corroborate or contradict `narrating_situation`:
+**How `beat_tense` is consumed.** Event tense and dialogue-beat tense are pooled into one
+tense-bearing tally. This is the production standard. A backfill supplied `beat_tense` for
+books classified before the field was introduced; subsequent Terra classifications recorded
+it directly under the same rule. Event and beat counts remain separate in the stored data so
+the effect of pooling can be audited without reclassification.
 
-* beats agree with the structural read → confidence `high`
-* beats contradict it (e.g. `simultaneous`, but beats run 8 past / 1 present) → **flag for
-  review**. This is the *Project Hail Mary* signature: a conversational past strand that
-  event counts cannot see.
-* no beats → no information, not evidence either way
+Pooling matters because dialogue-heavy strands otherwise disappear. *Project Hail Mary*'s
+past Earth strand is conversational, so the book read 96% present on event quotes and about
+82% once beats were counted. *Wish You Were Here* loses evidence in the opposite direction if
+its present-tense dialogue beats are discarded.
 
-Thresholds and labels are unchanged, so books classified before and after this field was
-added stay directly comparable on the event-only basis.
+**5. Derive the book label from the pooled tally and narrating situation.**
 
-**Measured on a dialogue-heavy book (*A Calamity of Souls*, 11 dialogue quotes).** The
-suspicion above is broadly correct: `beat_tense` recovered **no quote that precedence would
-have missed by a wide margin**. Five of eleven dialogue quotes carried a beat (5 past, 0
-present); only two were substantive, and the richest of those passed the quotation-mark test
-at **52%** — one sentence away from being routed to `event` anyway. The rules are close to
-redundant rather than complementary.
+The target is the tense of the book's **base narration**, not the majority tense among sampled
+quotes. Goodreads quotation frequency is not a representative measure of page share, and an
+embedded tale or unusually quotable strand can dominate it. The independently recorded
+`narrating_situation` therefore supplies the structural label; the pooled tally gates thin
+evidence, resolves strongly one-sided dual readings, and sets confidence.
 
-Two things it *does* earn:
-
-* **Withholding, not just recovering.** Six markless oratorical quotes correctly scored
-  `none`. A naive "dialogue implies a tag" assumption would have manufactured past evidence
-  there; a regex would have found nothing either way.
-* **Corroborating `narrating_situation` on books below the event floor.** That book abstains
-  at 4 event quotes, but 5 past beats independently confirm `retrospective`. The tense label
-  stays absent; the structural read becomes well-supported.
-
-So the field's value is confidence and discipline, not extra tense evidence. Weigh that
-against backfill cost before committing.
-
-**5. Apply thresholds — asymmetric by design.**
-
-| Outcome | Requirement |
+| Decision | Production rule |
 |---|---|
-| **High confidence PAST** | ≥5 event-narration quotes, ≥80% past |
-| **High confidence PRESENT** | **≥8** event-narration quotes, **≥85%** present |
-| **Dual — diary/epistolary (finding)** | ≥8 quotes, both tenses ≥25%, and the split maps to **recounting vs. writing-moment** |
-| **Mixed — strand (finding)** | ≥8 quotes, both tenses ≥25%, and the minority traces to an identifiable **strand, frame, or embedded text** |
-| **Present + recollection strand** | ≥8 quotes, 70–85% present, and the past minority traces to **memory/backstory** → counts as PRESENT, strand recorded |
-| **Low confidence (flag)** | ≥10 quotes, both tenses ≥25%, no structural explanation for the split |
-| **Insufficient** | <5 event-narration quotes → fetch next page, repeat (cap 4 pages, then abstain) |
+| **Verse / not prose fiction** | `EXCLUDED-verse`, before the evidence gate |
+| **Evidence gate** | Fewer than 5 pooled event + dialogue-beat tense observations → `INSUFFICIENT` |
+| **Retrospective situation** | `PAST` |
+| **Simultaneous situation** | `PRESENT` |
+| **Dual situation** | `PRESENT` at ≥80% present; `PAST` at ≥80% past; otherwise `DUAL` |
+| **Unclear situation** | `UNCLEAR` |
 
-When a book splits, do not stop at "mixed" — identify *why*. The three causes are structurally different and only one of them is uncertainty.
+The old 80%-past and 85%-present event-only bars are development history, not production
+label gates. In the current method, the only dominance bar that changes a base label is the
+80% rule for a structurally `dual` book: a split that one-sided is treated as a base tense
+with a minority strand rather than co-equal dual narration.
 
-Present requires a higher bar because the source's bias runs toward false-present. Past-tense evidence is near-unfakeable — no aphorism produces "she went into the air outside the clinic."
-
-**But the asymmetry cuts the other way too, and the first version of this table got it wrong.** Present-tense novels routinely carry a **past recollection strand** — memory, backstory, a dead parent — while past-tense novels contain almost no present event-narration once gnomic is excluded. So quote-purity is not symmetric evidence: 100% past is common and unremarkable, whereas 100% present is rare and 80–85% present is what a clean present-tense novel actually looks like.
-
-*Writers & Lovers* exposed this: 45 event quotes, 84.4% present, past minority entirely memory — and it fell through **every** row of the table, producing no label at all, while a 100%-past book passed on the first row. That is a directional defect, not a conservative one: it abstains selectively on present-tense books and would undercount exactly the trend this study exists to measure. Hence the `Present + recollection strand` row.
-
-The ≥85% bar is now doubly suspect, since the gnomic contamination that justified it is handled at the bucketing step (gnomic is present-tense-only; paratext is discarded). Do not re-tune it on n=2 — but flag every book landing in 80–85% present for audit until there is enough data to set it properly.
+**Confidence uses separate corroboration bars.** For a `PAST` label, a pooled tally with at
+least 65% past corroborates the structural read; for `PRESENT`, at least 65% present does so;
+`DUAL` corroborates itself. Corroborated labels are `high` confidence with at least 8 pooled
+observations and `med` confidence with 5–7. A structurally past or present label whose pooled
+tally falls on the other side of those bars is retained but marked `CONFLICT` for review.
+`CONFLICT` is a review flag, not an automatic abstention.
 
 **Abstaining is a valid outcome.** Yield varies enormously (*Plainsong*: 8 usable of 18; *Parable*: 7 of 58). Forcing a label on thin evidence is the main way this method fails.
 
-**6. Record per label:** source URL, page count fetched, every quote with its bucket and tense, final counts. Thresholds can then be re-tuned without re-fetching.
+**6. Record per label:** source URL, page count fetched, every quote with its bucket, event
+tense or dialogue-beat tense, narrating situation, pooled and separate counts, final label,
+and confidence. Bars can then be audited or re-tuned without re-fetching.
 
 ---
 
@@ -132,14 +130,16 @@ A diary or letter novel has **two built-in time positions**: what happened since
 
 | Step | Tool | Output |
 |---|---|---|
-| Build stratified sample | `analysis/build_sample.py` | `raw_data/sample.csv` |
-| Resolve + fetch quotes | `crawl.py` | `raw_data/books.csv`, `raw_data/quotes.csv` |
-| **Classify (steps 3–4 above)** | **reading, by hand** | fills `bucket`, `tense` in `raw_data/quotes.csv` |
-| Apply thresholds | `label.py` | `raw_data/labels.csv` |
+| Build annual NYT candidate batches | `analysis/build_sample.py`, `analysis/build_topn.py` | `raw_data/sample*.csv` |
+| Resolve + fetch quotes | `crawl.py`, `crawl_step.py` | `raw_data/books_*.csv`, `raw_data/quotes_*.csv` |
+| **Classify quotes and narrating situation** | classifier agent or Terra harness | `raw_data/classified*/*.json` |
+| Derive labels and report | `analysis/analyze_year.py`, `analysis/build_report.py` | label tables and `trend.html` |
 
-`crawl.py` writes `bucket` and `tense` **blank** on purpose. Bucketing is the step where every error in this project has originated, and it is a reading judgment — no regex substitutes for it. Because quote text and `source_url` are persisted, classification can be revised without re-crawling.
-
-`label.py` never silently resolves a split. It emits `SPLIT_REVIEW` and requires a human to record which of the three causes applies.
+`crawl.py` writes classification fields blank on purpose. Bucketing is the step where every
+error in this project has originated, and it is a reading judgment — no regex substitutes
+for it. Because quote text and `source_url` are persisted, classification can be revised
+without re-crawling. The classifier records `narrating_situation` independently so a split can
+be interpreted structurally rather than reduced to a raw quote majority.
 
 ## Known limitations
 
@@ -150,7 +150,7 @@ A diary or letter novel has **two built-in time positions**: what happened since
 
 ---
 
-## Validation (2026-08-03)
+## Early bucket validation (2026-08-03; historical)
 
 | Book | Event-narration | Split | Label | Notes |
 |---|---|---|---|---|
@@ -158,8 +158,18 @@ A diary or letter novel has **two built-in time positions**: what happened since
 | *Parable of the Sower* (Butler, 1993) | 20 of 58 | 8 past / 12 present | **DUAL — diary** | See below |
 | *Cloud Cuckoo Land* (Doerr, 2021) | 9 of 57 | 1 past / 8 present | HIGH CONF PRESENT | Lone past quote is the embedded Aethon strand — structural, not noise |
 
-n=3. Establishes the buckets and thresholds are workable; does **not** establish accuracy. A real accuracy estimate needs a gold set labeled against independently obtained text.
+n=3. This exercise helped establish the specificity and diary-form distinctions. It predates
+the pooled-beat, narrating-situation-first production label rule and does **not** validate the
+current end-to-end method or establish accuracy.
 
 **Development history of *Parable*, worth preserving as a warning.** It was labeled three times: first "present" from recall (wrong — no evidence); then "HIGH CONF PAST, 7/7" after a first pass at bucketing (wrong — the loose gnomic test swept the diary's deictic present in with the Earthseed aphorisms, leaving only recounting verbs); finally "dual" at 8 past / 12 present once gnomic was redefined as *generalizes beyond the story world*.
 
-Both errors produced **confident** labels. Neither was caught by low agreement — the 7/7 reading looked like the cleanest result in the set. Agreement measures consistency of bucketing, not correctness of it, so a systematic bucketing error yields high agreement on a wrong answer. This is the method's central failure mode and no threshold detects it; only checking bucket assignments against the text does.
+Both errors produced **confident** labels. Neither was caught by low agreement — the 7/7 reading looked like the cleanest result in the set. Agreement measures consistency of bucketing, not correctness of it, so a systematic bucketing error yields high agreement on a wrong answer. This is the method's central failure mode and no bar detects it; only checking bucket assignments against the text does.
+
+## Blind reproducibility check (2026-08-11)
+
+Across 30 blindly reclassified books, Terra and the earlier Sonnet pass agreed on 83.9% of
+quote buckets, 99.1% of event tense where both selected `event`, 98.2% of dialogue-beat tense
+where both selected `dialogue`, and 86.7% of narrating situations and derived book labels.
+This measures reproducibility between two model passes, not accuracy against an external gold
+standard. Full artifacts live in `archive/eval/evals/terra_sonnet_blind_20260811/`.

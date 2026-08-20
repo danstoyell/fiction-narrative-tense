@@ -1,0 +1,233 @@
+{
+  "integrated_at": "2026-08-20T08:43:17.558264+00:00",
+  "run_id": "20260820_terra_resolution_corrections_v1",
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "backup": "raw_data/resolution_audit_20260819/20260820_terra_resolution_corrections_v1/integration_backup",
+  "changes": [
+    {
+      "sample_id": "top1961:1919",
+      "title": "FRANNY AND ZOOEY",
+      "gr_book_id": "5113",
+      "gr_work_id": "3118417",
+      "gr_title": "Franny and Zooey",
+      "quote_count": 91,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_top3_1931_1995.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_top3_1931_1995_rest/top1961_1919.json"
+      ]
+    },
+    {
+      "sample_id": "top1978:7166",
+      "title": "WAR AND REMEMBRANCE",
+      "gr_book_id": "131705090",
+      "gr_work_id": "376293",
+      "gr_title": "War And Remembrance By Herman Wouk 1978",
+      "quote_count": 24,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_top3_1931_1995.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_top3_1931_1995_rest/top1978_7166.json"
+      ]
+    },
+    {
+      "sample_id": "top1995:6096",
+      "title": "THE RAINMAKER",
+      "gr_book_id": "5349",
+      "gr_work_id": "3154548",
+      "gr_title": "The Rainmaker",
+      "quote_count": 25,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_top3_1931_1995.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_top3_1931_1995_rest/top1995_6096.json"
+      ],
+      "scope_repair": "restored out-of-range modern duplicate from integration backup"
+    },
+    {
+      "sample_id": "top1936:7259",
+      "title": "WHITE BANNERS",
+      "gr_book_id": "601531",
+      "gr_work_id": "216922923",
+      "gr_title": "White Banners",
+      "quote_count": 0,
+      "classification": "removed_no_corrected_quotes",
+      "source_files": [
+        "raw_data/books_top3_1931_1995_under_two_more.csv"
+      ],
+      "classification_files": []
+    },
+    {
+      "sample_id": "top1937:3337",
+      "title": "OF MICE AND MEN",
+      "gr_book_id": "58729302",
+      "gr_work_id": "40283",
+      "gr_title": "Of Mice and Men Novella by John Steinbeck",
+      "quote_count": 26,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_top3_1931_1995_under_two_more.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_top3_1931_1995_under_two_more/top1937_3337.json"
+      ]
+    },
+    {
+      "sample_id": "top1959:2619",
+      "title": "LADY CHATTERLY'S LOVER",
+      "gr_book_id": "245995611",
+      "gr_work_id": "275467480",
+      "gr_title": "Lady Chatterly's Lover",
+      "quote_count": 0,
+      "classification": "removed_no_corrected_quotes",
+      "source_files": [
+        "raw_data/books_top3_1931_1995_under_two_more.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_top3_1931_1995_under_two_more/top1959_2619.json"
+      ]
+    },
+    {
+      "sample_id": "top1979:4944",
+      "title": "THE DEAD ZONE",
+      "gr_book_id": "148133480",
+      "gr_work_id": "2745957",
+      "gr_title": "The Dead Zone by Stephen King",
+      "quote_count": 38,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_top3_1931_1995_under_two_more.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_top3_1931_1995_under_two_more/top1979_4944.json"
+      ]
+    },
+    {
+      "sample_id": "top2019:1237",
+      "title": "DAISY JONES & THE SIX",
+      "gr_book_id": "248313538",
+      "gr_work_id": "61127102",
+      "gr_title": "Daisy Jones and The Six",
+      "quote_count": 53,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified/top2019_1237.json"
+      ]
+    },
+    {
+      "sample_id": "top1997:5976",
+      "title": "THE PARTNER",
+      "gr_book_id": "5350",
+      "gr_work_id": "1110983",
+      "gr_title": "The Partner",
+      "quote_count": 4,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn5_1996_2016.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_topn5_1996_2015_resolution_corrections/top1997_5976.json"
+      ]
+    },
+    {
+      "sample_id": "top2001:710",
+      "title": "BLACK HOUSE",
+      "gr_book_id": "129012",
+      "gr_work_id": "1738813",
+      "gr_title": "Black House",
+      "quote_count": 36,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn5_more_1996_2015.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_topn5_1996_2015_resolution_corrections/top2001_710.json"
+      ]
+    },
+    {
+      "sample_id": "top2008:3947",
+      "title": "SCARPETTA",
+      "gr_book_id": "72681066",
+      "gr_work_id": "2859278",
+      "gr_title": "Scarpetta [Paperback] Cornwell, Patricia",
+      "quote_count": 12,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn5_more_1996_2015.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_topn5_1996_2015_rest/top2008_3947.json"
+      ]
+    },
+    {
+      "sample_id": "top2009:2340",
+      "title": "I, ALEX CROSS",
+      "gr_book_id": "218895908",
+      "gr_work_id": "6594813",
+      "gr_title": "I, Alex Cross",
+      "quote_count": 5,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn5_more_1996_2015.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_topn5_1996_2015_rest/top2009_2340.json"
+      ]
+    },
+    {
+      "sample_id": "top2013:163",
+      "title": "A MEMORY OF LIGHT",
+      "gr_book_id": "7743175",
+      "gr_work_id": "10558806",
+      "gr_title": "A Memory of Light",
+      "quote_count": 29,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn5_more_1996_2015.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_topn5_1996_2015_resolution_corrections/top2013_163.json"
+      ]
+    },
+    {
+      "sample_id": "top2013:3892",
+      "title": "S.",
+      "gr_book_id": "29429045",
+      "gr_work_id": "25004628",
+      "gr_title": "S.",
+      "quote_count": 67,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn5_1996_2015_to10.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_topn5_1996_2015_resolution_corrections/top2013_3892.json"
+      ]
+    },
+    {
+      "sample_id": "top2004:2502",
+      "title": "JONATHAN STRANGE & MR. NORRELL",
+      "gr_book_id": "823762",
+      "gr_work_id": "3921305",
+      "gr_title": "Jonathan Strange and Mr. Norrell",
+      "quote_count": 110,
+      "classification": "replaced",
+      "source_files": [
+        "raw_data/books_topn5_1996_2015_to10_final.csv"
+      ],
+      "classification_files": [
+        "raw_data/classified_topn5_1996_2015_to10_final/top2004_2502.json"
+      ]
+    }
+  ]
+}

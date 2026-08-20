@@ -1,6 +1,6 @@
 """Export a consolidated, flat dataset from every classified book across all three frames.
 
-Supplemental, not authoritative: the per-frame fragment CSVs and classified_*/ directories
+Supplemental, not authoritative: the per-cohort fragment CSVs and classified_*/ directories
 (see raw_data/DATASET.md) remain the source of truth build_report.py reads. This script reuses
 build_report.load() -- the same join/label logic the live report runs -- and serializes its
 result to two presentable CSVs instead of HTML, so the dataset can never drift from the page.

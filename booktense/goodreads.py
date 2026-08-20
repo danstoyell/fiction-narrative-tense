@@ -7,7 +7,7 @@ because taking the first search hit silently returns study guides and box sets
 Fetching is cached to disk: classification can be re-run without re-crawling,
 and a rate-limit interruption never loses work.
 """
-import re, os, time, html, hashlib, urllib.request, urllib.error, urllib.parse
+import re, os, time, html, hashlib, unicodedata, urllib.request, urllib.error, urllib.parse
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120 Safari/537.36")
@@ -27,6 +27,10 @@ JUNK = re.compile(r'study guide|sparknotes|cliffs?notes|conversation starters|'
 
 class RateLimited(Exception):
     """Goodreads served a bot challenge (HTTP 202 / empty body)."""
+
+
+class TitleMismatch(Exception):
+    """A resolved book or quote-work page does not match the requested title."""
 
 
 def _pause(seconds, reason):
@@ -120,6 +124,12 @@ def _page_title(page):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", m.group(1)))).strip() if m else ""
 
 
+def _work_page_title(page):
+    """Title named by a Goodreads work-quotes page."""
+    title = _page_title(page)
+    return re.sub(r"\s+Quotes\s*$", "", title, flags=re.I).strip()
+
+
 def _page_author(page):
     m = re.search(r'(?is)<span[^>]*class="ContributorLink__name"[^>]*>(.*?)</span>', page)
     if not m:
@@ -176,9 +186,50 @@ def _candidates(search_html, limit=6):
 
 
 def _title_key(t):
-    t = re.sub(r"\s*\([^)]*\)\s*$", "", t or "")          # drop "(Series, #2)"
+    t = unicodedata.normalize("NFKD", t or "").encode("ascii", "ignore").decode()
+    t = t.replace("&", " and ")
+    t = re.sub(r"\s*\([^)]*\)\s*$", "", t)                 # drop "(Series, #2)"
     t = re.sub(r"^(the|a|an)\s+", "", t.strip().lower())
-    return re.sub(r"[^a-z0-9 ]", "", t).strip()
+    return " ".join(re.sub(r"[^a-z0-9 ]", "", t).split())
+
+
+_COLLECTION = re.compile(r'\b(?:box(?:ed)? set|omnibus|collection|anthology|\d+ books?)\b', re.I)
+_EDITION_TAIL = re.compile(
+    r'^(?::|-)?\s*(?:a novel\b|the novel\b|by\b|paperback\b|hardback\b|hardcover\b|'
+    r'mass market\b|reissue\b|\d+(?:st|nd|rd|th)? edition\b)', re.I)
+
+
+def title_match(want_title, got_title, want_author=None):
+    """Return (matches, normalized score, reason) for a resolved Goodreads title.
+
+    Matching is intentionally conservative. Punctuation, leading articles, subtitles, and
+    seller-style edition tails are accepted. Collections and merely related same-author books
+    are rejected even when they contain the requested title.
+    """
+    want = _title_key(want_title)
+    got = _title_key(got_title)
+    if not want or not got:
+        return False, 0.0, "missing_title"
+    if want == got:
+        return True, 1.0, "exact"
+    if _COLLECTION.search(got_title or ""):
+        return False, 0.0, "collection_or_multiwork"
+    if got.startswith(want):
+        tail = got[len(want):].strip()
+        if not tail or _EDITION_TAIL.match(tail):
+            return True, len(want) / len(got), "subtitle_or_edition"
+        raw_want = re.sub(r"^(?:the|a|an)\s+", "", (want_title or "").strip(), flags=re.I)
+        raw_got = re.sub(r"^(?:the|a|an)\s+", "", (got_title or "").strip(), flags=re.I)
+        # Normalization erases the punctuation that marks a genuine subtitle.
+        if re.match(rf'(?i)^{re.escape(raw_want)}\s*:', raw_got):
+            return True, len(want) / len(got), "subtitle"
+        # Search sometimes returns bookseller-style edition titles. Accept only when the
+        # appended material names the requested author; this keeps "Title / Other Title"
+        # omnibuses from passing merely because the first work matches.
+        surnames = _surnames(want_author)
+        if surnames and any(surname in _norm_name(tail) for surname in surnames):
+            return True, len(want) / len(got), "seller_listing"
+    return False, 0.0, f"title_mismatch({got_title!r})"
 
 
 def _rank(cands, want_title, want_author):
@@ -209,9 +260,9 @@ def _rank(cands, want_title, want_author):
         k = _title_key(c["title"])
         if k == want:
             tscore = 2
-        elif k.startswith(want) or want.startswith(k):
+        elif len(want) >= 4 and (k.startswith(want) or want.startswith(k)):
             tscore = 1
-        elif want in k:
+        elif len(want) >= 4 and want in k:
             tscore = 0
         else:
             continue                                       # unrelated title
@@ -252,10 +303,14 @@ def _surname(author):
     return sorted(ss)[0] if ss else ""
 
 
-def _score(book_page, want_author, want_year):
+def _score(book_page, want_title, want_author, want_year):
     """Validation checks -> (ok, notes). Cheap, but catches the real failure modes."""
     notes = []
     ok = True
+    title_ok, _, title_note = title_match(want_title, _page_title(book_page), want_author)
+    if not title_ok:
+        ok = False
+        notes.append(title_note)
     surs = _surnames(want_author)
     got = _norm_name(_page_author(book_page))
     if surs and not any(s in got for s in surs):
@@ -272,12 +327,26 @@ def _score(book_page, want_author, want_year):
 MAX_CANDIDATES = 3      # request budget matters far more than exhaustive search
 
 
-def _record(page, book_id, method, want_author, want_year):
-    ok, notes = _score(page, want_author, want_year)
+def _record(page, book_id, method, want_title, want_author, want_year):
+    ok, notes = _score(page, want_title, want_author, want_year)
     return dict(book_id=book_id, work_id=_work_id(page), ratings=_ratings(page),
                 gr_title=_page_title(page), gr_author=_page_author(page),
                 gr_year=_pub_year(page), method=method, notes=notes,
                 confidence="high" if ok and not notes else ("medium" if ok else "review"))
+
+
+def _validate_work_record(record, want_title, patient):
+    """Confirm the resolved work-quotes page names the requested work."""
+    if not record.get("work_id") or record.get("confidence") == "review":
+        return record
+    page = fetch(f"https://www.goodreads.com/work/quotes/{record['work_id']}", patient=patient)
+    work_title = _work_page_title(page)
+    ok, _, note = title_match(want_title, work_title)
+    if not ok:
+        record["confidence"] = "review"
+        record["notes"] = ";".join(
+            item for item in (record.get("notes"), f"work_{note}") if item)
+    return record
 
 
 def resolve(title, author, year=None, isbn=None, patient=False):
@@ -295,7 +364,8 @@ def resolve(title, author, year=None, isbn=None, patient=False):
             page = fetch("https://www.goodreads.com/search?q=" + clean, patient=patient)
             if "/work/quotes/" in page:                    # redirected to the book page
                 m = re.search(r'/book/show/(\d+)', page)
-                rec = _record(page, m.group(1) if m else None, "isbn", author, year)
+                rec = _record(page, m.group(1) if m else None, "isbn", title, author, year)
+                rec = _validate_work_record(rec, title, patient)
                 if rec["work_id"] and rec["confidence"] != "review":
                     return rec
 
@@ -303,8 +373,10 @@ def resolve(title, author, year=None, isbn=None, patient=False):
                  patient=patient)
     if "/work/quotes/" in page:                            # single-hit redirect here too
         m = re.search(r'/book/show/(\d+)', page)
-        rec = _record(page, m.group(1) if m else None, "title_author_direct", author, year)
-        if rec["work_id"]:
+        rec = _record(page, m.group(1) if m else None, "title_author_direct",
+                      title, author, year)
+        rec = _validate_work_record(rec, title, patient)
+        if rec["work_id"] and rec["confidence"] != "review":
             return rec
 
     ranked = _rank(_candidates(page, 30), title, author)
@@ -330,8 +402,9 @@ def resolve(title, author, year=None, isbn=None, patient=False):
     # window missed it entirely and recorded a false zero.
     for c in ranked[:MAX_CANDIDATES]:
         rec = _record(fetch(f"https://www.goodreads.com/book/show/{c['id']}", patient=patient),
-                      c["id"], "title_author", author, year)
-        if rec["work_id"]:
+                      c["id"], "title_author", title, author, year)
+        rec = _validate_work_record(rec, title, patient)
+        if rec["work_id"] and rec["confidence"] != "review":
             if not rec["ratings"]:
                 rec["ratings"] = c["ratings"]     # book-page parse can miss it
             return rec
@@ -392,14 +465,24 @@ def _is_dup(text, seen_shingles, thresh=0.45):
     return False
 
 
-def quotes(work_id, max_pages=4, patient=False):
-    """Fetch and dedupe quotes. Returns (deduplicated quotes, raw count)."""
+def quotes(work_id, max_pages=4, patient=False, expected_title=None):
+    """Fetch and dedupe quotes. Returns (deduplicated quotes, raw count).
+
+    When expected_title is supplied, page 1 must name that work. This catches bad Goodreads
+    work links even when the edition/book page itself had the right title.
+    """
     seen, out, raw_count = [], [], 0
     for p in range(1, max_pages + 1):
         url = f"https://www.goodreads.com/work/quotes/{work_id}"
         if p > 1:
             url += f"?page={p}"
         page = fetch(url, patient=patient)
+        if p == 1 and expected_title:
+            work_title = _work_page_title(page)
+            title_ok, _, title_note = title_match(expected_title, work_title)
+            if not title_ok:
+                raise TitleMismatch(
+                    f"requested {expected_title!r}, work {work_id} is {work_title!r}: {title_note}")
         found = 0
         for i, blk in enumerate(re.findall(r'(?is)<div class="quoteText">(.*?)</div>', page)):
             blk = re.split(r'(?is)<br\s*/?>\s*<span class="authorOrTitle"', blk)[0]

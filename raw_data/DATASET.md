@@ -1,49 +1,62 @@
-# raw_data/ — what's here and which frame it belongs to
+# raw_data/ — what's here and which annual cohort it belongs to
 
 The dataset is fragmented into one CSV/directory per crawl-or-classify batch rather than
-one file per frame, because each round of crawling/classifying landed in its own output
+one file per cohort, because each round of crawling/classifying landed in its own output
 files. This documents the mapping so the fragmentation is at least legible. It mirrors
 `analysis/build_report.py`'s `SOURCES` list exactly — if the two ever disagree,
 `analysis/build_report.py` is authoritative.
 
-A consolidated, presentable view of all three frames merged together lives at
+A consolidated, presentable view of all three cohorts merged together lives at
 `../dataset/` (`books.csv`, `quotes.csv`) — supplemental, not authoritative; see
 `../dataset/README.md`. This directory remains the source of truth that consolidation
 is built from.
 
-## The three frames
+## Annual selection cohorts
 
-### `modern` — 2016–2025, top 30 titles/year
+The cohort keys below are provenance identifiers, not claims that every year is a literal
+top-N sample. Candidate books are ordered by the NYT ranking rule, but earlier periods were
+extended adaptively when the highest-ranked candidates did not yield enough Goodreads text.
+
+### `modern` — 2016–2025, classify all quote-eligible books from the top 30 candidates/year
 | Role | File(s) |
 |---|---|
 | books | `books_topn.csv` |
 | quotes | `quotes_topn.csv` |
 | classified | `classified/` |
 
-This is the headline frame: the trend p-value on the report page is scoped to this one.
+The candidate pool is fixed at 30 per year. Books without enough usable Goodreads evidence
+remain selected candidates but do not necessarily reach a usable label.
 
-### `hist` — 1996–2015, top ~10 titles/year (a narrower, more-famous slice — not pooled into the headline test)
+### `hist` — 1996–2015, extend NYT-ranked candidates toward 10 usable labels/year
 | Role | File(s) |
 |---|---|
 | books | `books_topn5_1996_2016.csv`, `books_topn5_more_1996_2015.csv`, `books_topn5_1996_2015_to10.csv`, `books_topn5_1996_2015_to10_more.csv`, `books_topn5_1996_2015_to10_final.csv`, `books_topn5_1996_2015_to10_round3.csv`…`round7.csv` |
 | quotes | same batch names under `quotes_topn5_*` |
 | classified | every `classified_topn5_*` directory (globbed, not listed — new batches land in new folders as labelling proceeds) |
 
-### `pilot` — 1931–1995, top 3 titles/year
+This began with the top five candidates per year and was extended repeatedly for years below
+the ten-label target. It is therefore not a literal top-10 sample; some years reach much
+deeper into the NYT ordering because earlier candidates abstained or lacked Goodreads text.
+
+### `pilot` — 1931–1995, extend NYT-ranked candidates for years below 2 usable labels
 | Role | File(s) |
 |---|---|
-| books | `books_top3_1931_1995.csv`, `books_top3_1931_1995_zero_label_more.csv`, `books_top3_1931_1995_zero_label_final.csv`, `books_top3_1931_1995_under_two_more.csv` |
+| books | `books_top3_1931_1995.csv`, `books_top3_1931_1995_zero_label_more.csv`, `books_top3_1931_1995_zero_label_final.csv`, `books_top3_1931_1995_under_two_more.csv`, `books_top3_1931_1995_zero_label_round2.csv`, `books_top3_1931_1995_zero_label_round3.csv` |
 | quotes | same batch names under `quotes_top3_*` |
-| classified | `classified_top3_1931_1995_first31`, `_rest`, `_zero_label_more`, `_zero_label_final`, `_zero_label_final_rest`, `_under_two_more` |
+| classified | `classified_top3_1931_1995_first31`, `_rest`, `_zero_label_more`, `_zero_label_final`, `_zero_label_final_rest`, `_under_two_more`, `_zero_label_round2`, `_zero_label_round3` |
+
+This began with a small historical pilot and then overfetched years with zero or one usable
+label. The final two rounds continued down the annual NYT ordering until every year had at
+least one non-abstained label. It is therefore not a literal top-three sample.
 
 ## Everything else in `raw_data/`
 
-- **`sample_*.csv`** — stratified sample frames, the *input* to `crawl.py` (pre-crawl, pre-classification). One per batch, same naming pattern as above. `sample.csv` is the original full stratified sample from `analysis/build_sample.py`.
+- **`sample_*.csv`** — candidate batches, the *input* to `crawl.py` (pre-crawl, pre-classification). One per batch, same naming pattern as above. `sample.csv` is the original stratified sample from `analysis/build_sample.py`.
 - **`raw/`** — Post45 bestseller lists (`lists.csv`, `titles.csv`) and retained HathiTrust metadata. Core input to `analysis/build_sample.py`/`analysis/build_topn.py`.
 - **`cache/`, `cache_nyt/`** — gitignored, fully regenerable HTTP response caches. Delete freely; `crawl.py`/`analysis/build_topn.py` will refetch and re-cache.
 - **`manual_label_overrides.json`** — small hand-maintained override file, read by both `analysis/analyze_year.py` and `analysis/build_report.py`. Keep.
-- **`gold_b0361.json`, `quotes_gold_blind.csv`** — gold-standard / blind-eval fixtures, referenced from `archive/eval/`.
-- **`books.csv`, `quotes.csv`** — earliest pilot crawl output, superseded by the frame-specific files above.
+- **`gold_b0361.json`, `quotes_gold_blind.csv`** — legacy validation and blind-comparison fixtures, referenced from `archive/eval/`; they are not an external accuracy gold standard.
+- **`books.csv`, `quotes.csv`** — earliest pilot crawl output, superseded by the cohort-specific files above.
 - **`report_data.json`** — generated by `analysis/build_report.py`; fetched at runtime by `trend_local.html`. Pure build output, safe to regenerate.
 - **`archive/`** (inside `raw_data/`, distinct from the top-level `archive/`) — early superseded pilot data from a prior cleanup pass, self-contained, left as-is.
 

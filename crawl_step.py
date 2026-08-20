@@ -66,7 +66,8 @@ def main():
             try:
                 result = gr.resolve(row["title"], row["author"], row.get("year"),
                                     row.get("isbn"), patient=False)
-                quotes, raw_count = (gr.quotes(result["work_id"], patient=False)
+                quotes, raw_count = (gr.quotes(result["work_id"], patient=False,
+                                                expected_title=row["title"])
                                      if result["work_id"] else ([], 0))
             except DeferredRequest as error:
                 print(f"deferred after one request: {row['sample_id']} ({error})", flush=True)
@@ -74,6 +75,12 @@ def main():
             except gr.RateLimited as error:
                 print(f"rate limited: {row['sample_id']} ({error})", flush=True)
                 return
+            except gr.TitleMismatch as error:
+                result["confidence"] = "review"
+                result["notes"] = ";".join(
+                    x for x in (result.get("notes"), str(error)) if x)
+                quotes, raw_count = [], 0
+                print(f"title mismatch: {row['sample_id']} ({error})", flush=True)
 
             for page, index, url, quote_text in quotes:
                 quote_count += 1
