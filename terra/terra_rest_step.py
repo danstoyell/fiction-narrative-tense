@@ -12,8 +12,9 @@ from pathlib import Path
 import terra_pilot as pilot
 
 
-ROOT = Path(__file__).parent
-RUN = ROOT / "data" / "terra_runs" / "20260812_terra_early_rest_v2"
+HERE = Path(__file__).parent
+ROOT = HERE.parent
+RUN = ROOT / "raw_data" / "terra_runs" / "20260812_terra_early_rest_v2"
 MODEL = "gpt-5.6-terra"
 CONFIG = 'model_reasoning_effort="medium"'
 

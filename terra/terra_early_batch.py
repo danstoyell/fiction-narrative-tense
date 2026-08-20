@@ -15,8 +15,9 @@ from pathlib import Path
 from terra_pilot import safe_name, validate
 
 
-ROOT = Path(__file__).parent
-DATA = ROOT / "data"
+HERE = Path(__file__).parent
+ROOT = HERE.parent
+DATA = ROOT / "raw_data"
 SAMPLE = DATA / "sample_topn5_1996_2015_first50.csv"
 BOOKS = DATA / "books_topn5_1996_2016.csv"
 QUOTES = DATA / "quotes_topn5_1996_2016.csv"
@@ -26,7 +27,7 @@ CLASSIFIED = DATA / "classified_topn5_1996_2015"
 RUN_ID = "20260812_terra_early_first50_v2"
 RUN = DATA / "terra_runs" / RUN_ID
 JOBS = RUN / "jobs"
-PROMPT = ROOT / "terra_prompt_v2.md"
+PROMPT = HERE / "terra_prompt_v2.md"
 
 
 def digest(path: Path) -> str:

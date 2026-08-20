@@ -66,7 +66,7 @@ Getting this wrong is the single largest error source in this project. A looser 
 
 ## Output
 
-Write `data/classified/<SAMPLE_ID>.json`. Replace `/` `:` `|` `'` in the sample_id with `_` for the filename.
+Write `raw_data/classified/<SAMPLE_ID>.json`. Replace `/` `:` `|` `'` in the sample_id with `_` for the filename.
 
 ```json
 {

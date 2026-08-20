@@ -132,10 +132,10 @@ A diary or letter novel has **two built-in time positions**: what happened since
 
 | Step | Tool | Output |
 |---|---|---|
-| Build stratified sample | `build_sample.py` | `data/sample.csv` |
-| Resolve + fetch quotes | `crawl.py` | `data/books.csv`, `data/quotes.csv` |
-| **Classify (steps 3–4 above)** | **reading, by hand** | fills `bucket`, `tense` in `data/quotes.csv` |
-| Apply thresholds | `label.py` | `data/labels.csv` |
+| Build stratified sample | `analysis/build_sample.py` | `raw_data/sample.csv` |
+| Resolve + fetch quotes | `crawl.py` | `raw_data/books.csv`, `raw_data/quotes.csv` |
+| **Classify (steps 3–4 above)** | **reading, by hand** | fills `bucket`, `tense` in `raw_data/quotes.csv` |
+| Apply thresholds | `label.py` | `raw_data/labels.csv` |
 
 `crawl.py` writes `bucket` and `tense` **blank** on purpose. Bucketing is the step where every error in this project has originated, and it is a reading judgment — no regex substitutes for it. Because quote text and `source_url` are persisted, classification can be revised without re-crawling.
 

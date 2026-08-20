@@ -13,8 +13,9 @@ from pathlib import Path
 import terra_pilot as pilot
 
 
-ROOT = Path(__file__).parent
-DATA = ROOT / "data"
+HERE = Path(__file__).parent
+ROOT = HERE.parent
+DATA = ROOT / "raw_data"
 DEFAULT_RUN_ID = "20260811_terra_prod_batch_50_v2"
 
 

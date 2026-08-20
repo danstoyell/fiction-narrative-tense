@@ -7,7 +7,7 @@ Run:  python3 classify_status.py            # summary by year
 import csv, os, glob, json, sys, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(HERE, "data")
+DATA = os.path.join(HERE, "raw_data")
 MIN_QUOTES = 15
 
 

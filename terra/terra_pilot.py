@@ -13,12 +13,13 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 
-ROOT = Path(__file__).parent
-DATA = ROOT / "data"
+HERE = Path(__file__).parent
+ROOT = HERE.parent
+DATA = ROOT / "raw_data"
 RUN_ID = "20260811_terra_prod_pilot_v2"
 RUN = DATA / "terra_runs" / RUN_ID
 JOBS = RUN / "jobs"
-PROMPT = ROOT / "terra_prompt_v2.md"
+PROMPT = HERE / "terra_prompt_v2.md"
 SAMPLE_IDS = (
     "top2025:DUNGEON CRAWLER CARL|Matt Dinniman",
     "top2018:7239",

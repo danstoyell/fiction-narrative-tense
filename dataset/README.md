@@ -2,14 +2,14 @@
 
 Two flat CSVs covering every classified book across all three frames (pilot 1931–1995,
 hist 1996–2015, modern 2016–2025). **Generated, not authoritative** — regenerate with
-`python3 build_dataset.py` from the repo root. Never hand-edit these files; the source of
-truth is the per-frame fragment CSVs and `classified_*/` directories documented in
-[`../DATASET.md`](../DATASET.md), which `build_report.py` reads directly. This pair exists
-because that fragmentation isn't a convenient shape to consume the dataset in — these are a
-derived, presentable view of the same data, kept in sync by reusing `build_report.py`'s own
-`load()` function rather than re-implementing the join.
+`python3 analysis/build_dataset.py` from the repo root. Never hand-edit these files; the
+source of truth is the per-frame fragment CSVs and `classified_*/` directories documented in
+[`../raw_data/DATASET.md`](../raw_data/DATASET.md), which `analysis/build_report.py` reads
+directly. This pair exists because that fragmentation isn't a convenient shape to consume the
+dataset in — these are a derived, presentable view of the same data, kept in sync by reusing
+`analysis/build_report.py`'s own `load()` function rather than re-implementing the join.
 
-For what the classification judgments mean, see [`../../METHODOLOGY.md`](../../METHODOLOGY.md).
+For what the classification judgments mean, see [`../METHODOLOGY.md`](../METHODOLOGY.md).
 
 ## `books.csv` — one row per book
 
@@ -42,4 +42,4 @@ For what the classification judgments mean, see [`../../METHODOLOGY.md`](../../M
 | `quote_text` | The excerpt itself, verbatim |
 
 `quote_text` is an in-copyright excerpt from the source novel, included here because most of
-the existing per-frame quote CSVs in `data/` already commit quote text the same way.
+the existing per-frame quote CSVs in `raw_data/` already commit quote text the same way.

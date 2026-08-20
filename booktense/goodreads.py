@@ -11,7 +11,7 @@ import re, os, time, html, hashlib, urllib.request, urllib.error, urllib.parse
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120 Safari/537.36")
-CACHE = os.path.join(os.path.dirname(__file__), "..", "data", "cache")
+CACHE = os.path.join(os.path.dirname(__file__), "..", "raw_data", "cache")
 DELAY = 40.0          # measured: bucket ~9 requests, refills ~6min => ~90 req/hr.
                       # Pacing at the refill rate avoids tripping at all.
 _last = [0.0]

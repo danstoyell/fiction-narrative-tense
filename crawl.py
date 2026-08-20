@@ -1,8 +1,8 @@
 """Resolve sampled books on Goodreads and log every pull-quote.
 
 Writes two CSVs:
-  data/books.csv   one row per book: resolution result + validation + yield counts
-  data/quotes.csv  one row per quote, with EMPTY bucket/tense columns
+  raw_data/books.csv   one row per book: resolution result + validation + yield counts
+  raw_data/quotes.csv  one row per quote, with EMPTY bucket/tense columns
 
 The bucket/tense columns are deliberately left blank. Classification is a
 reading judgment made per METHODOLOGY.md, not a regex -- the crawler's job is
@@ -15,7 +15,7 @@ import csv, os, sys, argparse, datetime
 from booktense import goodreads as gr
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(HERE, "data")
+DATA = os.path.join(HERE, "raw_data")
 
 BOOK_FIELDS = ["sample_id", "stratum", "title", "author", "year", "isbn",
                "gr_book_id", "gr_work_id", "gr_title", "gr_author", "gr_year",

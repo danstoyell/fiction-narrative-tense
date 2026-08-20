@@ -1,6 +1,6 @@
 """Apply METHODOLOGY thresholds to agent classifications -> per-book labels.
 
-Reads data/classified/*.json, joins to data/books_topn.csv, emits a labelled
+Reads raw_data/classified/*.json, joins to raw_data/books_topn.csv, emits a labelled
 table plus the abstention accounting. Abstentions are reported, never dropped:
 if books that fail the quote threshold differ systematically from those that
 pass, the analysis sample is biased even when every individual label is right.
@@ -8,7 +8,8 @@ pass, the analysis sample is biased even when every individual label is right.
 import csv, json, os, glob, argparse, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(HERE, "data")
+ROOT = os.path.dirname(HERE)
+DATA = os.path.join(ROOT, "raw_data")
 MANUAL_LABEL_OVERRIDES = os.path.join(DATA, "manual_label_overrides.json")
 
 MIN_EVENT_PAST = 5          # >=5 event quotes, >=80% past

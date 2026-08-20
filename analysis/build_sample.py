@@ -1,4 +1,4 @@
-"""Build the stratified sample frame -> data/sample.csv
+"""Build the stratified sample frame -> raw_data/sample.csv
 
 Strata: one per decade 1931-2015, then one per YEAR 2016-2026.
 Post45 covers 1931-2020; 2021-2026 comes from the NYT Books API.
@@ -7,7 +7,8 @@ import csv, os, json, random, time, argparse, urllib.request
 from collections import defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = os.path.join(HERE, "data", "raw")
+ROOT = os.path.dirname(HERE)
+RAW = os.path.join(ROOT, "raw_data", "raw")
 SEED = 20260803
 PER_STRATUM = 80        # oversample: ~50% of books yield too few quotes to label
 MIN_YEAR = 1990        # pre-1990 bestsellers are too forgotten to have quotes (see PLAN.md)
@@ -84,8 +85,8 @@ def main():
             pools[str(t["year"])].append(t)
 
     rng = random.Random(SEED)
-    os.makedirs(os.path.join(HERE, "data"), exist_ok=True)
-    out = os.path.join(HERE, "data", "sample.csv")
+    os.makedirs(os.path.join(ROOT, "raw_data"), exist_ok=True)
+    out = os.path.join(ROOT, "raw_data", "sample.csv")
     n = 0
     with open(out, "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=FIELDS)

@@ -1,25 +1,26 @@
 """Build the Booktense report: trend chart, method, limits, and the full quote explorer.
 
-One page, two builds:
+One page, two builds, both written to the repo root:
 
   trend.html        data inlined -- no server, publishable as an artifact
-  trend_local.html  fetches ./data/report_data.json -- always current
+  trend_local.html  fetches ./raw_data/report_data.json -- always current
 
 The local page needs an origin so `fetch` is not CORS-blocked:
 
     python3 -m http.server 8000      # then localhost:8000/trend_local.html
 
 Every number on the page -- year counts, era shares, p-values, coverage, abstentions --
-is computed here from data/, and labels come from analyze_year rather than a copy of its
-rules. Nothing on the page is hand-maintained, so it cannot drift. Rebuild with:
+is computed here from raw_data/, and labels come from analyze_year rather than a copy of
+its rules. Nothing on the page is hand-maintained, so it cannot drift. Rebuild with:
 
-    python3 build_report.py
+    python3 analysis/build_report.py
 """
 import csv, json, glob, os, math, collections, datetime
 from analyze_year import tally, label
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(HERE, "data")
+ROOT = os.path.dirname(HERE)
+DATA = os.path.join(ROOT, "raw_data")
 MANUAL_LABEL_OVERRIDES = os.path.join(DATA, "manual_label_overrides.json")
 YEARS = list(range(2016, 2026))
 ERA_SPLIT = 2020          # first year of the later era
@@ -997,7 +998,7 @@ init(JSON.parse(document.getElementById("data").textContent));
 """
 
 FETCH_BOOT = """
-fetch("data/report_data.json")
+fetch("raw_data/report_data.json")
   .then(r => { if(!r.ok) throw new Error(r.status+" "+r.statusText); return r.json(); })
   .then(init)
   .catch(err => {
@@ -1048,11 +1049,11 @@ def main():
                 .replace("\u2028", "\\u2028").replace("\u2029", "\\u2029"))
     full = page("Narrative tense in NYT bestsellers, 1996-2025", EMBEDDED_BOOT,
                 f'<script id="data" type="application/json">{safe}</script>\n')
-    open(os.path.join(HERE, "trend.html"), "w", encoding="utf-8").write(full)
+    open(os.path.join(ROOT, "trend.html"), "w", encoding="utf-8").write(full)
 
     open(os.path.join(DATA, "report_data.json"), "w", encoding="utf-8").write(blob)
     local = page("Narrative tense in NYT bestsellers (local)", FETCH_BOOT)
-    open(os.path.join(HERE, "trend_local.html"), "w", encoding="utf-8").write(local)
+    open(os.path.join(ROOT, "trend_local.html"), "w", encoding="utf-8").write(local)
 
     print(f"{len(rows)} books, {nq} quotes"
           + (f", {missing} quotes missing text" if missing else ""))
@@ -1064,7 +1065,7 @@ def main():
     print(f"  era {2016}-{ERA_SPLIT-1} {e['P1']:.1%} vs {ERA_SPLIT}-2025 {e['P2']:.1%}"
           f"  z={e['z']:.2f} p={e['p']:.4f}")
     print(f"  trend.html        {len(full)/1e6:.2f} MB  (self-contained)")
-    print(f"  trend_local.html  {len(local)/1e3:.1f} KB  + data/report_data.json "
+    print(f"  trend_local.html  {len(local)/1e3:.1f} KB  + raw_data/report_data.json "
           f"{len(blob)/1e6:.2f} MB")
 
 

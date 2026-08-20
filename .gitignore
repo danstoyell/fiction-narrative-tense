@@ -4,19 +4,19 @@
 
 # Scraped Goodreads HTML: 336 MB, in-copyright, and fully regenerable by
 # crawl.py (responses are disk-cached so re-running costs no requests).
-data/cache/
-data/cache_nyt/
+raw_data/cache/
+raw_data/cache_nyt/
 
 # Raw pull-quote text. These are excerpts from in-copyright novels; the
-# analysis only needs quote_id -> bucket/tense, which data/classified/ carries.
-# Regenerate with: python3 crawl.py --sample data/sample_topn10.csv
-data/quotes_topn.csv
-data/quotes.csv
-data/quotes_gold_blind.csv
-data/archive/quotes.csv
+# analysis only needs quote_id -> bucket/tense, which raw_data/classified/ carries.
+# Regenerate with: python3 crawl.py --sample raw_data/sample_topn10.csv
+raw_data/quotes_topn.csv
+raw_data/quotes.csv
+raw_data/quotes_gold_blind.csv
+raw_data/archive/quotes.csv
 
 # Run logs and scratch
 *.log
 throttle_out.txt
-data/batches/
+raw_data/batches/
 __pycache__/

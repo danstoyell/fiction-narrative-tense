@@ -1,18 +1,19 @@
 """Export a consolidated, flat dataset from every classified book across all three frames.
 
 Supplemental, not authoritative: the per-frame fragment CSVs and classified_*/ directories
-(see data/DATASET.md) remain the source of truth build_report.py reads. This script reuses
+(see raw_data/DATASET.md) remain the source of truth build_report.py reads. This script reuses
 build_report.load() -- the same join/label logic the live report runs -- and serializes its
 result to two presentable CSVs instead of HTML, so the dataset can never drift from the page.
 
-Regenerate with: python3 build_dataset.py
+Regenerate with: python3 analysis/build_dataset.py
 """
 import csv, os
 
 from build_report import load
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, "data", "dataset")
+ROOT = os.path.dirname(HERE)
+OUT = os.path.join(ROOT, "dataset")
 
 BOOK_FIELDS = [
     "sample_id", "frame", "year", "title", "author",

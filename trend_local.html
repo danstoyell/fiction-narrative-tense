@@ -676,7 +676,7 @@ function init(payload){
 }
 
 
-fetch("data/report_data.json")
+fetch("raw_data/report_data.json")
   .then(r => { if(!r.ok) throw new Error(r.status+" "+r.statusText); return r.json(); })
   .then(init)
   .catch(err => {

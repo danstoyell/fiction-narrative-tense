@@ -7,7 +7,8 @@ Ranking: total weeks on the NYT hardcover fiction list, tie-broken by peak rank.
 import csv, os, collections, argparse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = os.path.join(HERE, "data", "raw")
+ROOT = os.path.dirname(HERE)
+RAW = os.path.join(ROOT, "raw_data", "raw")
 
 def _nyt_week(ds, api_key, cache_dir):
     """One weekly list, cached to disk so re-runs cost no requests."""
@@ -108,7 +109,7 @@ def main():
     ap.add_argument("--years", default="1990-2020",
                     help="comma list and/or ranges, e.g. 1990-2020,2021")
     ap.add_argument("--nyt-key", default=os.environ.get("NYT_BOOKS_API_KEY"))
-    ap.add_argument("--out", default=os.path.join(HERE, "data", "sample_topn.csv"))
+    ap.add_argument("--out", default=os.path.join(ROOT, "raw_data", "sample_topn.csv"))
     a = ap.parse_args()
 
     lists = list(csv.DictReader(open(os.path.join(RAW, "lists.csv"), encoding="utf-8", errors="replace")))
@@ -134,7 +135,7 @@ def main():
                 # then pull one extra prior year so 2021 back-dating is correct
                 span = [x for x in range(min(y for y in years if y > 2020) - 1, max(years) + 1)]
                 nyt_ix = nyt_index(span, a.nyt_key,
-                                   os.path.join(HERE, "data", "cache_nyt"))
+                                   os.path.join(ROOT, "raw_data", "cache_nyt"))
             rows += nyt_topn(y, a.top, nyt_ix); continue
         pool = [t for t in titles.values() if t.get("first_week", "")[:4] == str(y)]
         pool.sort(key=lambda t: (-weeks[t["id"]], best[t["id"]]))
