@@ -1,0 +1,6 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1932:1474,top1932,DISTRICT NURSE,Faith Baldwin,1932,1560543167,4706860,4771211,District Nurse,Faith Baldwin,1932,24,isbn,high,,0,0,0,2026-08-20T06:05:04
+top1932:2450,top1932,INVITATION TO THE WALTZ,Rosamond Lehmann,1932,,1477344,1797808,Invitation to the Waltz,Rosamond Lehmann,1932,1557,title_author,high,,1,6,6,2026-08-20T06:05:04
+top1932:2740,top1932,LOADS OF LOVE,Anne Parrish,1932,,55932161,87143579,Loads of Love,Anne Parrish,,0,title_author,medium,low_ratings,0,0,0,2026-08-20T06:05:04
+top1932:3019,top1932,MISS PINKERTON,Mary Roberts Rinehart,1932,9781613161388,1662201,1657017,Miss Pinkerton,Mary Roberts Rinehart,1932,1076,isbn,high,,0,0,0,2026-08-20T06:05:04
+top1932:3324,top1932,OBSCURE DESTINIES,Willa Cather,1932,,221829184,228822224,Obscure Destinies,Willa Cather,2024,18,title_author,medium,year_off(2024vs1932);low_ratings,0,0,0,2026-08-20T06:05:04

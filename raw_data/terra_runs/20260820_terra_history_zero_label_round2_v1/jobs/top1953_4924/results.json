@@ -1,0 +1,20 @@
+{
+ "sample_id": "top1953:4924",
+ "quotes": [
+  {
+   "quote_id": "q00001",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "past",
+   "note": "Speech dominates; the attribution/action beats are past tense."
+  },
+  {
+   "quote_id": "q00002",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Story-specific first-person recollection, expressed predominantly in past tense."
+  }
+ ],
+ "narrating_situation": "unclear",
+ "agent_note": "The two excerpts do not establish the work's overall narrating situation."
+}

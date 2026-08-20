@@ -1,0 +1,20 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1978:7166,top1978,WAR AND REMEMBRANCE,Herman Wouk,1978,,131705090,376293,War And Remembrance By Herman Wouk 1978,Herman Wouk,1978,39991,title_author,high,,1,24,24,2026-08-19T23:56:14
+top1995:6096,top1995,THE RAINMAKER,John Grisham,1995,038542471X,5349,3154548,The Rainmaker,John Grisham,1995,211541,title_author,high,,1,27,25,2026-08-19T23:56:14
+top1936:7259,top1936,WHITE BANNERS,Lloyd C. Douglas,1936,,601531,216922923,White Banners,Lloyd C. Douglas,2012,209,title_author,medium,year_off(2012vs1936),0,0,0,2026-08-19T23:56:14
+top1937:3337,top1937,OF MICE AND MEN,John Steinbeck,1937,0670347914,58729302,40283,Of Mice and Men Novella by John Steinbeck,John Steinbeck,1937,2938444,title_author,high,,1,29,26,2026-08-19T23:56:14
+top1959:2619,top1959,LADY CHATTERLY'S LOVER,D.H. Lawrence,1959,0670408123,245995611,275467480,Lady Chatterly's Lover,D.H. Lawrence,,0,title_author,medium,low_ratings,0,0,0,2026-08-19T23:56:14
+top1979:4944,top1979,THE DEAD ZONE,Stephen King,1979,0670315419,148133480,2745957,The Dead Zone by Stephen King,Stephen King,1979,253496,title_author,high,,2,59,38,2026-08-20T00:23:04
+top1979:4944,top1979,THE DEAD ZONE,Stephen King,1979,0670315419,148133480,2745957,The Dead Zone by Stephen King,Stephen King,1979,253496,title_author,high,,2,59,38,2026-08-19T23:56:14
+top2019:1237,top2019,DAISY JONES & THE SIX,Taylor Jenkins Reid,2019,,248313538,61127102,Daisy Jones and The Six,Taylor Jenkins Reid,2019,1940945,title_author,high,,2,59,53,2026-08-19T23:56:14
+top1997:5976,top1997,THE PARTNER,John Grisham,1997,0385472951,5350,1110983,The Partner,John Grisham,1997,137066,title_author,high,,1,5,4,2026-08-20T00:32:28
+top1997:5976,top1997,THE PARTNER,John Grisham,1997,0385472951,5350,1110983,The Partner,John Grisham,1997,137066,title_author,high,,1,5,4,2026-08-19T23:56:14
+top2008:3947,top2008,SCARPETTA,Patricia Cornwell,2008,0399152199,72681066,2859278,"Scarpetta [Paperback] Cornwell, Patricia",Patricia Cornwell,2008,37379,title_author,high,,1,13,12,2026-08-20T00:32:28
+top2008:3947,top2008,SCARPETTA,Patricia Cornwell,2008,0399152199,72681066,2859278,"Scarpetta [Paperback] Cornwell, Patricia",Patricia Cornwell,2008,37379,title_author,high,,1,13,12,2026-08-19T23:56:14
+top2009:2340,top2009,"I, ALEX CROSS",James Patterson,2009,0316159794,218895908,6594813,"I, Alex Cross",James Patterson,2009,50491,title_author,high,,1,5,5,2026-08-20T00:32:28
+top2009:2340,top2009,"I, ALEX CROSS",James Patterson,2009,0316159794,218895908,6594813,"I, Alex Cross",James Patterson,2009,50491,title_author,high,,1,5,5,2026-08-19T23:56:14
+top1961:1919,top1961,FRANNY AND ZOOEY,J.D. Salinger,1961,,5113,3118417,Franny and Zooey,J.D. Salinger,1957,245661,verified_book_id,medium,year_off(1957vs1961),4,119,91,2026-08-20T01:09:42
+top2001:710,top2001,BLACK HOUSE,Stephen King and Peter Straub,2001,,129012,1738813,Black House,Stephen King,2001,72056,verified_book_id,high,,2,57,36,2026-08-20T01:09:42
+top2013:163,top2013,A MEMORY OF LIGHT,Robert Jordan and Brandon Sanderson,2013,,7743175,10558806,A Memory of Light,Robert Jordan,2013,166872,verified_book_id,high,,1,29,29,2026-08-20T01:09:42
+top2013:3892,top2013,S.,Doug Dorst,2013,9780316201643,29429045,25004628,S.,J.J. Abrams,2013,29906,verified_book_id,medium,verified_secondary_author_doug_dorst,3,78,67,2026-08-20T01:09:42
+top2004:2502,top2004,JONATHAN STRANGE & MR. NORRELL,Susanna Clarke,2004,,823762,3921305,Jonathan Strange and Mr. Norrell,Susanna Clarke,2004,262049,verified_book_id,high,,4,120,110,2026-08-20T01:09:42

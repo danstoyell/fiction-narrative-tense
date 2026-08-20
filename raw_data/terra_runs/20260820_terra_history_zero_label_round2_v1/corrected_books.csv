@@ -1,0 +1,16 @@
+sample_id,stratum,title,author,year,isbn,gr_book_id,gr_work_id,gr_title,gr_author,gr_year,gr_ratings,resolve_method,resolve_confidence,resolve_notes,pages_fetched,quotes_raw,quotes_dedup,fetched_at
+top1932:167,top1932,A MODERN HERO,Louis Bromfield,1932,,20882739,40223388,A Modern Hero,Louis Bromfield,1932,13,title_author,medium,low_ratings,0,0,0,2026-08-20T05:17:30
+top1932:1757,top1932,FARAWAY,J. B. Priestley,1932,,1805552,1804812,Faraway,J.B. Priestley,1932,17,title_author,medium,low_ratings,0,0,0,2026-08-20T05:17:30
+top1932:3095,top1932,MR. AND MRS. PENNINGTON,Francis Brett Young,1932,,22847158,12498649,Mr and Mrs Pennington,Francis Brett Young,1931,6,title_author,medium,low_ratings,0,0,0,2026-08-20T05:17:30
+top1932:5362,top1932,THE HARBOURMASTER,William McFee,1932,,208048435,214165874,The Harbourmaster,William McFee,1935,2,title_author,medium,low_ratings,0,0,0,2026-08-20T05:17:30
+top1932:6399,top1932,THE STORE,T. S. Stribling,1932,,274607,266277,The Store,T.S. Stribling,1932,737,title_author,high,,1,1,1,2026-08-20T05:17:30
+top1933:6671,top1933,THE WEREWOLF OF PARIS,Guy Endore,1933,,539519,526906,The Werewolf of Paris,Guy Endore,1933,1505,title_author,high,,1,9,9,2026-08-20T05:17:30
+top1933:371,top1933,ALL MEN ARE ENEMIES,Richard Aldington,1933,,6224529,6405236,All Men Are Enemies,Richard Aldington,1933,194,title_author,high,,1,5,5,2026-08-20T05:17:30
+top1933:4222,top1933,SOUTH MOON UNDER,Marjorie K. Rawlings,1933,,978460,963356,South Moon Under,Marjorie Kinnan Rawlings,1933,406,title_author,high,,1,8,8,2026-08-20T05:17:30
+top1933:327,top1933,AFTER SUCH PLEASURES,Dorothy Parker,1933,,5045455,5112056,After Such Pleasures,Dorothy Parker,1933,86,title_author,high,,0,0,0,2026-08-20T05:17:30
+top1933:3344,top1933,OIL FOR THE LAMPS OF CHINA,Alice Tisdale Hobart,1933,,207003155,213067282,Oil For The Lamps of China,Alice Tisdale Hobart,1934,0,title_author,medium,low_ratings,0,0,0,2026-08-20T05:17:30
+top1953:2810,top1953,LOVE IS A BRIDGE,Charles Bracelen Flood,1953,,11898544,16857686,Love Is a Bridge,Charles Bracelen Flood,1960,5,title_author,medium,year_off(1960vs1953);low_ratings,0,0,0,2026-08-20T05:17:30
+top1953:6923,top1953,TOO LATE THE PHALAROPE,Alan Paton,1953,,362017,352113,Too Late the Phalarope,Alan Paton,1953,1648,title_author,high,,1,11,11,2026-08-20T05:17:30
+top1953:6577,top1953,THE UNCONQUERED,Ben Ames Williams,1953,,1405668,1395905,The Unconquered,Ben Ames Williams,1953,24,title_author,high,,0,0,0,2026-08-20T05:17:30
+top1953:4924,top1953,THE DARK ANGEL,Mika Waltari,1953,,244357,236746,The Dark Angel,Mika Waltari,1952,2681,title_author,high,,1,3,2,2026-08-20T05:17:30
+top1953:2583,top1953,KINGFISHERS CATCH FIRE,Rumer Godden,1953,0333014464,118583,3013506,Kingfishers Catch Fire.,Rumer Godden,1953,620,isbn,high,,1,4,4,2026-08-20T05:17:30

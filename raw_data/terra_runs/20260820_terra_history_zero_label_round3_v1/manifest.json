@@ -1,0 +1,78 @@
+{
+  "run_id": "20260820_terra_history_zero_label_round3_v1",
+  "created_at": "2026-08-20T13:18:56.601226+00:00",
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "blind_to": [
+    "title",
+    "author",
+    "year",
+    "prior classifications",
+    "network"
+  ],
+  "prompt_sha256": "386b2af9d06d5dc2b8a7216a5ca341bd9ceb8f0423d873fd312fd5b0191aa791",
+  "methodology_sha256": "90e72c286a9f136eb9189cb7ab32e60abcea07899e839a69d09d67c04b2b7c53",
+  "books": [
+    {
+      "sample_id": "top1932:1474",
+      "title": "DISTRICT NURSE",
+      "author": "Faith Baldwin",
+      "year": "1932",
+      "gr_book_id": "4706860",
+      "gr_work_id": "4771211",
+      "gr_title": "District Nurse",
+      "quote_count": 0,
+      "status": "no_quotes"
+    },
+    {
+      "sample_id": "top1932:2450",
+      "title": "INVITATION TO THE WALTZ",
+      "author": "Rosamond Lehmann",
+      "year": "1932",
+      "gr_book_id": "1477344",
+      "gr_work_id": "1797808",
+      "gr_title": "Invitation to the Waltz",
+      "quote_count": 6,
+      "status": "promoted",
+      "quotes_sha256": "cd5e84151dd47a5c58f4924d1b319840a0bfefa437dbce7a96704458d23cfade",
+      "staged_result": "/Users/danstoyell/Desktop/projects/booktense/raw_data/terra_runs/20260820_terra_history_zero_label_round3_v1/jobs/top1932_2450/results.json",
+      "production_output": "/Users/danstoyell/Desktop/projects/booktense/raw_data/classified_top3_1931_1995_zero_label_round3/top1932_2450.json",
+      "output_sha256": "57365029e8a1f9deb4c4601488b4abe145bf6a6b5760acdd6d7cbf033e30a3a0",
+      "promoted_at": "2026-08-20T13:19:48.679758+00:00",
+      "source_quote_ids_synced_at": "2026-08-20T13:21:14.612020+00:00"
+    },
+    {
+      "sample_id": "top1932:2740",
+      "title": "LOADS OF LOVE",
+      "author": "Anne Parrish",
+      "year": "1932",
+      "gr_book_id": "55932161",
+      "gr_work_id": "87143579",
+      "gr_title": "Loads of Love",
+      "quote_count": 0,
+      "status": "no_quotes"
+    },
+    {
+      "sample_id": "top1932:3019",
+      "title": "MISS PINKERTON",
+      "author": "Mary Roberts Rinehart",
+      "year": "1932",
+      "gr_book_id": "1662201",
+      "gr_work_id": "1657017",
+      "gr_title": "Miss Pinkerton",
+      "quote_count": 0,
+      "status": "no_quotes"
+    },
+    {
+      "sample_id": "top1932:3324",
+      "title": "OBSCURE DESTINIES",
+      "author": "Willa Cather",
+      "year": "1932",
+      "gr_book_id": "221829184",
+      "gr_work_id": "228822224",
+      "gr_title": "Obscure Destinies",
+      "quote_count": 0,
+      "status": "no_quotes"
+    }
+  ]
+}

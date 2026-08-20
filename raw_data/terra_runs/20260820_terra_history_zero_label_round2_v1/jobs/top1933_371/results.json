@@ -1,0 +1,39 @@
+{
+ "sample_id": "top1933:371",
+ "quotes": [
+  {
+   "quote_id": "q00001",
+   "bucket": "event",
+   "tense": "present",
+   "note": "Story-specific first-person reflection and current state."
+  },
+  {
+   "quote_id": "q00002",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Conversational response and first-person address; no narration beat."
+  },
+  {
+   "quote_id": "q00003",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific characters and historical situation narrated in past tense."
+  },
+  {
+   "quote_id": "q00004",
+   "bucket": "event",
+   "tense": "past",
+   "note": "Specific character's attitudes and situation narrated in past tense."
+  },
+  {
+   "quote_id": "q00005",
+   "bucket": "dialogue",
+   "tense": "",
+   "beat_tense": "none",
+   "note": "Direct prophetic address; no narration beat."
+  }
+ ],
+ "narrating_situation": "retrospective",
+ "agent_note": ""
+}
