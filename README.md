@@ -51,3 +51,15 @@ lives under **`person/`**; see [`person/README.md`](person/README.md).
 Finished-job artifacts (batch assignment lists, Terra run manifests, superseded scripts,
 one-time verification/eval exercises) live under **`archive/`**, organized by why each
 thing is kept rather than deleted — see the tree there for what's in each subfolder.
+
+## Explore it and cite it
+
+The interactive explorer is at **[booktense.sidequests.space](https://booktense.sidequests.space/)**,
+and the essay it was built for is
+[Popular Fiction Is Using Present Tense More Than Ever](https://idlerambling.substack.com/p/popular-fiction-is-using-present).
+
+## License
+
+The labels, annotations and derived data are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Quotations from the novels are
+not covered by that license; they remain their authors'. See [`LICENSE.md`](LICENSE.md).
