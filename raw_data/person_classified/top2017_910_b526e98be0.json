@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:910",
+  "quotes": [
+    {
+      "quote_id": "q01659",
+      "person_signal": "non_base",
+      "note": "First-person wording occurs in a gnomic, likely spoken observation and does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01660",
+      "person_signal": "non_base",
+      "note": "Two-character dialogue; its pronouns identify speakers, not the narrator."
+    },
+    {
+      "quote_id": "q01661",
+      "person_signal": "non_base",
+      "note": "General maxim about plans and survival, not story-specific narration."
+    },
+    {
+      "quote_id": "q01662",
+      "person_signal": "non_base",
+      "note": "Proverbial second-person address, not sustained narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q01663",
+      "person_signal": "unmarked",
+      "note": "Brief reference to a character's mind is compatible with third-person narration but is too clipped to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01664",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; first-person speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01665",
+      "person_signal": "non_base",
+      "note": "Sustained first-person character speech enclosed in quotation marks."
+    },
+    {
+      "quote_id": "q01666",
+      "person_signal": "non_base",
+      "note": "Two-speaker dialogue, including a local we, with no diagnostic narratorial text."
+    },
+    {
+      "quote_id": "q01667",
+      "person_signal": "non_base",
+      "note": "Proverbial fragment with no story-specific narrating voice."
+    },
+    {
+      "quote_id": "q01668",
+      "person_signal": "unmarked",
+      "note": "Possible external narration introduces a character's remembered speech, but the short clipped context does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q01669",
+      "person_signal": "non_base",
+      "note": "First-person forms belong to speakers in a dialogue exchange."
+    },
+    {
+      "quote_id": "q01670",
+      "person_signal": "unmarked",
+      "note": "Narratorial inventory of books contains no participating narrator or sustained character reference that identifies person."
+    },
+    {
+      "quote_id": "q01671",
+      "person_signal": "non_base",
+      "note": "Generalization about writers is gnomic rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01672",
+      "person_signal": "unmarked",
+      "note": "Two brief sentences describe a character externally, but he alone is insufficient to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01673",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; I and you belong to characters rather than the base narrator."
+    },
+    {
+      "quote_id": "q01674",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Bruce's actions and inner reactions without a participating narrator."
+    },
+    {
+      "quote_id": "q01675",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Mark and the officers, with character speech clearly embedded within third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/camino-island/",
+      "title": "Camino Island by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized Chapter One excerpt sustains external narration about the imposter and librarian Ed Folk, including Ed's actions and experience, with no participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-camino-island/styles.html",
+      "title": "John Grisham Writing Styles in Camino Island",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel's controlling viewpoint as third-person omniscient and explains that its focus moves beyond Mercer to other characters."
+    },
+    {
+      "url": "https://www.supersummary.com/camino-island/chapters-1-2-summary/",
+      "title": "Camino Island Chapters 1-2 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The analysis explicitly describes Chapters 1-2 as third-person omniscient, with focal attention moving among characters and access to Bruce's thoughts."
+    },
+    {
+      "url": "https://www.supersummary.com/camino-island/important-quotes/",
+      "title": "Camino Island Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Passages sampled from Chapter 1 through the epilogue consistently narrate Denny, Bruce, Mercer, Elaine, and others externally, corroborating third-person narration across the book."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Grisham Camino Island official excerpt first chapter\" and publisher/author-domain variants; opened the authorized author excerpt.",
+    "Searched \"Camino Island John Grisham point of view third person narrator\" and opened explicit BookRags and SuperSummary analyses.",
+    "Searched for alternating narrators, epistolary form, frames, and multiple narrators; found no credible indication that the novel contains sustained base narration in another person.",
+    "Searched for interior and later-chapter excerpts; SuperSummary's opened quotation survey covered Chapters 1-8 and the epilogue, while the Penguin Random House library result failed to open and the Hachette excerpt was too short to use as sustained evidence."
+  ],
+  "person_note": "The controlling narrator is a nonparticipating third-person voice that moves among characters including Denny, Bruce, and Mercer and can report their inner states. The sustained Goodreads scenes agree with the authorized third-person opening and whole-book web descriptions. First-person forms in the quote set occur in dialogue or gnomic remarks and are local character voices, not autonomous narrative sections. No evidence of second-person or alternating base narration was found. The main scope limitation is that the authorized excerpt covers only the opening, but interior quote evidence and independent whole-book analyses consistently corroborate THIRD.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.260106+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "365826ebcdef330f50a889322b8597f0801f156f7a46d81a411b2f445004cee8"
+  }
+}

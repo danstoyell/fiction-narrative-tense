@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:5973",
+  "quotes": [
+    {
+      "quote_id": "q02279",
+      "person_signal": "unclear",
+      "note": "Speech context and speaker attribution are stripped, so the fragment cannot identify base narration."
+    },
+    {
+      "quote_id": "q02280",
+      "person_signal": "first",
+      "note": "Participating narrator recounts her childhood reading using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02281",
+      "person_signal": "first",
+      "note": "Participating narrator describes loving and trying to restore \u201chim.\u201d"
+    },
+    {
+      "quote_id": "q02282",
+      "person_signal": "non_base",
+      "note": "The first-person language occurs inside explicitly marked dialogue."
+    },
+    {
+      "quote_id": "q02283",
+      "person_signal": "unmarked",
+      "note": "A general reflection followed by \u201cHe stopped believing\u201d does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q02284",
+      "person_signal": "non_base",
+      "note": "Direct speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02285",
+      "person_signal": "non_base",
+      "note": "Direct speech and generalized claims about artists are nondiagnostic."
+    },
+    {
+      "quote_id": "q02286",
+      "person_signal": "unmarked",
+      "note": "Character description using \u201che\u201d is compatible with either first- or third-person narration."
+    },
+    {
+      "quote_id": "q02287",
+      "person_signal": "first",
+      "note": "The narrator directly states her feelings and self-assessment with \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02288",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement has no diagnostic narrator."
+    },
+    {
+      "quote_id": "q02289",
+      "person_signal": "unmarked",
+      "note": "Reflective comparison contains no participating-narrator marker."
+    },
+    {
+      "quote_id": "q02290",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection on marriage does not establish narrative person."
+    },
+    {
+      "quote_id": "q02291",
+      "person_signal": "first",
+      "note": "The narrator reports her own changing preferences with \u201cI\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q02292",
+      "person_signal": "non_base",
+      "note": "Standalone maxim about love is nondiagnostic."
+    },
+    {
+      "quote_id": "q02293",
+      "person_signal": "non_base",
+      "note": "Unattributed dialogue does not identify base narration."
+    },
+    {
+      "quote_id": "q02294",
+      "person_signal": "first",
+      "note": "The participating narrator says Ernest told \u201cme\u201d and reports what \u201cI knew\u201d and \u201cwe\u201d did."
+    },
+    {
+      "quote_id": "q02295",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech is not base narration."
+    },
+    {
+      "quote_id": "q02296",
+      "person_signal": "unmarked",
+      "note": "A description of \u201cshe\u201d alone cannot distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q02297",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic \u201cyou\u201d is nondiagnostic."
+    },
+    {
+      "quote_id": "q02298",
+      "person_signal": "first",
+      "note": "The narrator participates in the shared scene through \u201cour.\u201d"
+    },
+    {
+      "quote_id": "q02299",
+      "person_signal": "first",
+      "note": "The narrator recounts her own hatred, pain, and love using \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02300",
+      "person_signal": "first",
+      "note": "Participating narration repeatedly uses \u201cme,\u201d \u201cI,\u201d and \u201cmy feelings.\u201d"
+    },
+    {
+      "quote_id": "q02301",
+      "person_signal": "first",
+      "note": "The narrator participates as \u201cwe\u201d and explicitly recounts what \u201cI\u201d loved, knew, and wanted."
+    },
+    {
+      "quote_id": "q02302",
+      "person_signal": "first",
+      "note": "The narrator recounts her own past experience through \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02303",
+      "person_signal": "first",
+      "note": "The narrator describes what \u201cI didn\u2019t see\u201d and values in companionship."
+    },
+    {
+      "quote_id": "q02304",
+      "person_signal": "first",
+      "note": "Retrospective participating narration uses \u201cwe,\u201d \u201cI,\u201d and \u201cus.\u201d"
+    },
+    {
+      "quote_id": "q02305",
+      "person_signal": "first",
+      "note": "The narrator describes her past relationship through \u201cHe and I\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02306",
+      "person_signal": "unmarked",
+      "note": "Generalized \u201cyou\u201d is reflective rather than sustained second-person storytelling."
+    },
+    {
+      "quote_id": "q02307",
+      "person_signal": "unmarked",
+      "note": "Abstract speculation about happiness does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02308",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q02309",
+      "person_signal": "non_base",
+      "note": "The passage consists of dialogue."
+    },
+    {
+      "quote_id": "q02310",
+      "person_signal": "first",
+      "note": "The narrator recounts seeing the rats and choosing to walk using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02311",
+      "person_signal": "first",
+      "note": "The narrator participates in the voyage and shared action as \u201cwe\u201d and \u201cour.\u201d"
+    },
+    {
+      "quote_id": "q02312",
+      "person_signal": "first",
+      "note": "The narrator identifies the emotional state as what remained \u201cfor me.\u201d"
+    },
+    {
+      "quote_id": "q02313",
+      "person_signal": "non_base",
+      "note": "Unattributed first-person dialogue is not diagnostic base narration."
+    },
+    {
+      "quote_id": "q02314",
+      "person_signal": "non_base",
+      "note": "The first-person wording is explicitly categorized as dialogue."
+    },
+    {
+      "quote_id": "q02315",
+      "person_signal": "non_base",
+      "note": "Standalone maxim is nondiagnostic."
+    },
+    {
+      "quote_id": "q02316",
+      "person_signal": "non_base",
+      "note": "Gnomic \u201cyou\u201d is universal address, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02317",
+      "person_signal": "first",
+      "note": "The participating narrator describes what \u201cI\u201d believed and would have done."
+    },
+    {
+      "quote_id": "q02318",
+      "person_signal": "first",
+      "note": "The narrator recounts her own perception and desire using \u201cI\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q02319",
+      "person_signal": "non_base",
+      "note": "Imperative writing advice is gnomic material rather than base narration."
+    },
+    {
+      "quote_id": "q02320",
+      "person_signal": "unmarked",
+      "note": "The external speech beat uses \u201che,\u201d but that alone does not establish narrator person."
+    },
+    {
+      "quote_id": "q02321",
+      "person_signal": "non_base",
+      "note": "The passage is a dialogue exchange despite its first-person wording."
+    },
+    {
+      "quote_id": "q02322",
+      "person_signal": "unmarked",
+      "note": "A brief description of \u201che\u201d lacks enough context to establish narrator person."
+    },
+    {
+      "quote_id": "q02323",
+      "person_signal": "non_base",
+      "note": "The passage consists of dialogue."
+    },
+    {
+      "quote_id": "q02324",
+      "person_signal": "unmarked",
+      "note": "Generalized \u201cyou\u201d describes Parisian life and is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02325",
+      "person_signal": "first",
+      "note": "The narrator states her own jealousy using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02326",
+      "person_signal": "first",
+      "note": "The narrator participates in the intimate scene through \u201cwe,\u201d \u201cI,\u201d and \u201chim.\u201d"
+    },
+    {
+      "quote_id": "q02327",
+      "person_signal": "first",
+      "note": "The narrator recounts what \u201cI saw,\u201d heard, and knew about Ernest."
+    },
+    {
+      "quote_id": "q02328",
+      "person_signal": "first",
+      "note": "The narrator participates in repeated Paris scenes through \u201cWe would walk.\u201d"
+    },
+    {
+      "quote_id": "q02329",
+      "person_signal": "unmarked",
+      "note": "General reflection on accidents and perspective does not reveal narrator person."
+    },
+    {
+      "quote_id": "q02330",
+      "person_signal": "non_base",
+      "note": "The first-person wording belongs to dialogue."
+    },
+    {
+      "quote_id": "q02331",
+      "person_signal": "first",
+      "note": "The narrator recounts her own year of love using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02332",
+      "person_signal": "first",
+      "note": "The narrator recounts her romantic history through \u201cI\u2019d\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q02333",
+      "person_signal": "first",
+      "note": "The participating narrator uses \u201cwe\u201d and \u201cI\u201d while reflecting on Ernest\u2019s trauma."
+    },
+    {
+      "quote_id": "q02334",
+      "person_signal": "first",
+      "note": "The narrator describes her feelings and participation through \u201cme\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02335",
+      "person_signal": "first",
+      "note": "The base sentence exposes the narrator through \u201cit struck me\u201d; Hemingway\u2019s quoted words are locally embedded."
+    },
+    {
+      "quote_id": "q02336",
+      "person_signal": "unmarked",
+      "note": "A general claim followed by \u201cHe stopped believing\u201d does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q02337",
+      "person_signal": "unmarked",
+      "note": "A bare third-person plural subject is insufficient to establish the narrating position."
+    },
+    {
+      "quote_id": "q02338",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q02339",
+      "person_signal": "non_base",
+      "note": "The passage is direct speech with an attribution beat."
+    },
+    {
+      "quote_id": "q02340",
+      "person_signal": "third",
+      "note": "Sustained access to \u201chis\u201d unspoken confusion and tested loyalty exposes nonparticipating narration focused on Ernest."
+    },
+    {
+      "quote_id": "q02341",
+      "person_signal": "unmarked",
+      "note": "Brief characterization of \u201che\u201d does not by itself establish narrator person."
+    },
+    {
+      "quote_id": "q02342",
+      "person_signal": "first",
+      "note": "The narrator participates as Bumby clutches \u201cmy robe\u201d and looks at \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02343",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d expresses a general consequence, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02344",
+      "person_signal": "non_base",
+      "note": "The first-person language occurs in direct speech or a quoted message."
+    },
+    {
+      "quote_id": "q02345",
+      "person_signal": "non_base",
+      "note": "Unattributed dialogue does not establish base narration."
+    },
+    {
+      "quote_id": "q02346",
+      "person_signal": "non_base",
+      "note": "The passage is direct address, likely from a letter or speech, rather than base narration."
+    },
+    {
+      "quote_id": "q02347",
+      "person_signal": "first",
+      "note": "The narrator reports her own emptiness and questions using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02348",
+      "person_signal": "first",
+      "note": "The narrator contrasts \u201cthey\u201d with her own condition using \u201cI\u2019d\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q02349",
+      "person_signal": "unmarked",
+      "note": "Reflection about \u201cthey\u201d and marriage lacks a participating-narrator marker."
+    },
+    {
+      "quote_id": "q02350",
+      "person_signal": "first",
+      "note": "The narrator describes her awareness of Ernest\u2019s absence using \u201cI,\u201d \u201cmy,\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02351",
+      "person_signal": "non_base",
+      "note": "The first-person material occurs in a dialogue exchange."
+    },
+    {
+      "quote_id": "q02352",
+      "person_signal": "non_base",
+      "note": "Standalone generalized reasoning is gnomic and nondiagnostic."
+    },
+    {
+      "quote_id": "q02353",
+      "person_signal": "first",
+      "note": "The narrator explicitly recounts what \u201cI finally had to admit.\u201d"
+    },
+    {
+      "quote_id": "q02354",
+      "person_signal": "unclear",
+      "note": "Stripped speech context and the appended name leave voice and boundaries unresolved."
+    },
+    {
+      "quote_id": "q02355",
+      "person_signal": "first",
+      "note": "The narrator describes her feelings, happiness, and uncertainty using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02356",
+      "person_signal": "non_base",
+      "note": "The first-person wording is explicitly quoted dialogue."
+    },
+    {
+      "quote_id": "q02357",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic group address is nondiagnostic."
+    },
+    {
+      "quote_id": "q02358",
+      "person_signal": "first",
+      "note": "The participating narrator recounts reading and her reaction using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02359",
+      "person_signal": "third",
+      "note": "Several sentences narrate the man\u2019s unspoken fears and motives externally as \u201che,\u201d exposing third-person narration."
+    },
+    {
+      "quote_id": "q02360",
+      "person_signal": "non_base",
+      "note": "The passage is a dialogue exchange."
+    },
+    {
+      "quote_id": "q02361",
+      "person_signal": "first",
+      "note": "The narrator identifies the thoughts as \u201cmy dark thoughts.\u201d"
+    },
+    {
+      "quote_id": "q02362",
+      "person_signal": "non_base",
+      "note": "The passage consists of dialogue."
+    },
+    {
+      "quote_id": "q02363",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Ernest as \u201che\u201d and directly accesses what he knows and feels."
+    },
+    {
+      "quote_id": "q02364",
+      "person_signal": "first",
+      "note": "The narrator participates in the scene through \u201cwe,\u201d \u201cmine,\u201d and \u201cperson.\u201d"
+    },
+    {
+      "quote_id": "q02365",
+      "person_signal": "first",
+      "note": "The narrator reports finding herself wondering, using \u201cI\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q02366",
+      "person_signal": "third",
+      "note": "The sentence externally follows Ernest\u2019s private craving and belief, consistent with the third-person Ernest sections."
+    },
+    {
+      "quote_id": "q02367",
+      "person_signal": "first",
+      "note": "The narrator compares herself with Parisian women using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02368",
+      "person_signal": "unmarked",
+      "note": "Hypothetical \u201cyou looked\u201d describes alternative perceptions and is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02369",
+      "person_signal": "unmarked",
+      "note": "A brief description of \u201che\u201d cannot independently identify narrator person."
+    },
+    {
+      "quote_id": "q02370",
+      "person_signal": "unmarked",
+      "note": "A single statement about what \u201che wanted\u201d is too brief to establish the controlling voice."
+    },
+    {
+      "quote_id": "q02371",
+      "person_signal": "non_base",
+      "note": "Direct address in dialogue does not identify base narration."
+    },
+    {
+      "quote_id": "q02372",
+      "person_signal": "first",
+      "note": "The narrator participates as \u201cwe\u201d and reports what \u201cI told myself\u201d and would try to do."
+    },
+    {
+      "quote_id": "q02373",
+      "person_signal": "non_base",
+      "note": "Sustained direct address occurs within dialogue, not second-person base narration."
+    },
+    {
+      "quote_id": "q02374",
+      "person_signal": "non_base",
+      "note": "The passage is dialogue with speech beats."
+    },
+    {
+      "quote_id": "q02375",
+      "person_signal": "non_base",
+      "note": "The first-person statement is explicitly attributed dialogue."
+    },
+    {
+      "quote_id": "q02376",
+      "person_signal": "unmarked",
+      "note": "Abstract reflection about love and beauty contains no diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q02377",
+      "person_signal": "third",
+      "note": "Sustained present-tense narration follows a male protagonist as \u201che\u201d and accesses his experience."
+    },
+    {
+      "quote_id": "q02378",
+      "person_signal": "unclear",
+      "note": "The clipped present-tense first-person statement lacks attribution and may be speech, correspondence, or embedded material."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://assets.penguinrandomhouse.com/wp-content/uploads/2017/05/05140936/Perennial-Favorites-Sampler.pdf",
+      "title": "Perennial Favorites Sampler \u2014 The Paris Wife excerpt",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized publisher excerpt begins with Hadley\u2019s sustained retrospective first-person narration."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/201138/the-paris-wife-by-paula-mclain/readers-guide/",
+      "title": "The Paris Wife Reader\u2019s Guide",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher-hosted guide says most of the book is in Hadley's voice and that select passages present Ernest's perspective, but perspective and voice do not by themselves identify grammatical person. It is a credible contextual description, not direct ALTERNATING-person evidence."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-paris-wife/style.html",
+      "title": "Paula McLain Writing Styles in The Paris Wife: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The explicit POV analysis identifies Hadley\u2019s first-person past narration as the majority mode and describes switches to third-person narration in key chapters, including Chapters 18 and 27."
+    },
+    {
+      "url": "https://www.supersummary.com/the-paris-wife/prologue-chapter-11-summary/",
+      "title": "The Paris Wife Prologue\u2013Chapter 11 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The structural analysis identifies Hadley\u2019s retrospective first-person prologue and a sustained third-person chapter centered on Ernest within the opening section."
+    },
+    {
+      "url": "https://www.supersummary.com/the-paris-wife/chapters-12-23-summary/",
+      "title": "The Paris Wife Chapters 12\u201323 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The analysis explicitly identifies Chapter 18 as a third-person Ernest section, corroborating that the shift recurs beyond the opening."
+    },
+    {
+      "url": "https://www.stlmag.com/Dont-Forget-Paris-An-Interview-with-Author-Paula-McLain/",
+      "title": "(Don\u2019t) Forget Paris: An Interview with Author Paula McLain",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "McLain confirms that she chose first person from Hadley\u2019s point of view; this supports the dominant strand but does not address the novel\u2019s documented Ernest interludes."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Paris Wife Paula McLain excerpt first chapter narrator Hadley first person\u201d and opened the authorized Penguin Random House sampler.",
+    "Searched \u201cThe Paris Wife alternating point of view Ernest third person chapters\u201d and opened explicit whole-book and chapter-level structural sources.",
+    "Searched \u201cThe Paris Wife Paula McLain point of view narration first person Hadley\u201d and opened an author interview confirming Hadley\u2019s dominant first-person voice.",
+    "Opened the Penguin Random House book page and followed its official Reader\u2019s Guide, which explicitly describes Hadley\u2019s majority voice and select Ernest-perspective passages.",
+    "Searched exact distinctive third-person passages from the quote set; Goodreads corroborated their attribution to the novel but was not used as independent web evidence.",
+    "Searched the exact q02378 wording; no reliable contextual source resolved whether that clipped first-person fragment is narration or embedded material."
+  ],
+  "person_note": "Hadley's retrospective first-person narration controls most of the novel, as shown repeatedly by the Goodreads passages and the authorized opening. However, this is not merely a first-person novel containing isolated dialogue: multiple sustained Goodreads passages narrate Ernest externally in third person while accessing his private thoughts, and independent Tier C structural sources identify recurring third-person chapters, including Chapters 18 and 27. The publisher guide corroborates that select passages shift to Ernest's perspective, but it does not name their grammatical person and therefore does not itself support ALTERNATING. Under the methodology, sustained base sections in different persons require ALTERNATING even though first person predominates. Confidence is med because the Tier A prose establishes only the first-person opening and the alternating structure depends on diagnostic Goodreads passages plus Tier C study-guide analysis. Audit: independent review retained ALTERNATING, corrected the publisher guide from Tier A/ALTERNATING to Tier C/none, and downgraded high to med.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_051",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T04:13:50.002732+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "19de34b8a00de223b474077e52103d839f540601cfe6c11d5643cf094c2e01ce"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:1237",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "first",
+      "note": "The participating speaker narrates her own attitude as \u201cI\u201d; the novel\u2019s interview testimony is constitutive base narration."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "A pronoun-free aphorism in the gnomic bucket; it does not identify narrative person."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "first",
+      "note": "Constitutive oral-history testimony uses repeated \u201cI\u201d for the speaker\u2019s changing beliefs."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "first",
+      "note": "The interview speaker presents a personal judgment as \u201cI think,\u201d exposing the constitutive first-person voice."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "first",
+      "note": "The speaker retrospectively narrates her former beliefs and realizations with repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "unmarked",
+      "note": "The interview response uses universal \u201cyou\u201d and an embedded generic thought, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "unmarked",
+      "note": "Universal \u201cwe\u201d in an aphoristic interview response does not establish story participation locally."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison without diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "first",
+      "note": "The constitutive interview speaker explicitly frames the response with \u201cI will say.\u201d"
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "first",
+      "note": "A participant describes his own thoughts about another character as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "unmarked",
+      "note": "Generic advice using universal \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "first",
+      "note": "A participant recounts personal reactions to another character\u2019s writing through \u201cI,\u201d \u201cwe,\u201d and \u201cus.\u201d"
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "unmarked",
+      "note": "A constitutive interview statement expressed through generic \u201cyou,\u201d with no diagnostic second-person protagonist."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "unmarked",
+      "note": "Universal \u201cyou\u201d in general advice about love is not second-person base narration."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "first",
+      "note": "The participating speaker states her own decision and responsibility through \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "A direct-address fragment also used as a song lyric; it does not diagnose the interview narration."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "unmarked",
+      "note": "Pronoun-free aphoristic material does not reveal the person of the constitutive interview voice."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "first",
+      "note": "A participant retrospectively narrates her fear and choice through \u201cme,\u201d \u201cmy,\u201d and \u201cme choosing.\u201d"
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "first",
+      "note": "A musician\u2019s constitutive interview response uses \u201cwe\u201d for musicians and \u201cI suppose\u201d for the speaking participant."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "unmarked",
+      "note": "Direct generic encouragement using \u201cyou\u201d is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "unmarked",
+      "note": "The official excerpt attributes this to a biographer; its generalized \u201cwe\u201d does not locally establish participation."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "unmarked",
+      "note": "Universal advice addressed as \u201cyou,\u201d not narration of a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic \u201csomeone\u201d rather than a narrating participant."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "unmarked",
+      "note": "A constitutive interview reflection framed with universal \u201cyou\u201d; it is not second-person narrative."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "non_base",
+      "note": "A story-specific declaration addressed directly to another character; its \u201cI\u201d is local speech rather than clearly exposed interview narration."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d and universal \u201cwe all\u201d are nondiagnostic and do not establish second- or first-person story narration locally."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Explicitly identified song lyrics are embedded material, not base narration."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "unmarked",
+      "note": "Generalized \u201cyou\u201d in an interview observation does not cast a protagonist in second person."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "first",
+      "note": "A participant explains a personal, enduring relationship to music through \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "Gnomic material with generic \u201cyou,\u201d not diagnostic second-person narration."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "first",
+      "note": "The participant evaluates personal past conduct and says \u201cI was proud of what I did.\u201d"
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "An aphoristic framing statement associated with the compiler\u2019s author note; it contains no person evidence."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "first",
+      "note": "A participating speaker describes his relationship to Daisy through repeated \u201cme,\u201d \u201cI,\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "first",
+      "note": "Constitutive testimony explicitly distinguishes what \u201cI\u201d felt and did."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "first",
+      "note": "The transcript label identifies Daisy, who recounts her own change in attitude with repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "unmarked",
+      "note": "The sentence implies a speaker\u2019s relationship to \u201chim\u201d but contains no explicit first-person form diagnostic on its own."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "non_base",
+      "note": "Explicitly identified song lyrics are embedded rather than base narration."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "first",
+      "note": "A participant defends personal emotion and songwriting with \u201cDid I,\u201d \u201cI hurt,\u201d and \u201cI wrote.\u201d"
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "first",
+      "note": "The constitutive speaker narrates her emotional response as \u201cI was burning.\u201d"
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "first",
+      "note": "The interview participant explicitly comments on the framing of an issue through \u201cI don\u2019t like.\u201d"
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "first",
+      "note": "\u201cTake it from me\u201d presents the lesson as personal testimony from the constitutive interview speaker."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "first",
+      "note": "A participant narrates an exchange with Simone using \u201cI,\u201d while the quoted conversation remains embedded within that first-person account."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "first",
+      "note": "A participant retrospectively recounts what she wrote for fans using repeated \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "unmarked",
+      "note": "Universal \u201cyou\u201d in a general observation does not indicate second-person narration."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "first",
+      "note": "The speaker metaphorically describes her own denial through \u201cI loved.\u201d"
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "Gnomic material using universal \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "first",
+      "note": "The constitutive interview speaker frames a reflection on addiction with \u201cI think,\u201d consistent with personal testimony."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d in an aphoristic interview observation is not a second-person protagonist."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "unmarked",
+      "note": "Rhetorical and advisory \u201cyou\u201d is direct address, not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "first",
+      "note": "A participant recounts decisions about her own life, family, marriage, and desires through repeated \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "non_base",
+      "note": "A story-specific confrontation addressed to \u201cyou\u201d; the isolated \u201cI\u201d belongs to local speech rather than clearly exposed interview testimony."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "non_base",
+      "note": "Explicitly identified song lyrics are embedded material, and their direct address does not identify base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781804945957/9781804945957-sample.pdf",
+      "title": "Daisy Jones & The Six \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized 43-page sample contains the compiler\u2019s author note defining the work as an oral history assembled from interviews and documents, followed by sustained, speaker-labeled first-person testimony from Daisy and other participants."
+    },
+    {
+      "url": "https://www.bookbrowse.com/author_interviews/full/index.cfm/author_number/3217/taylor-jenkins-reid",
+      "title": "An interview with Taylor Jenkins Reid",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Reid describes the entire novel as an oral history and as-told-to autobiography, explicitly says she wrote male characters in first person, and explains that the characters themselves supply all narrative information."
+    },
+    {
+      "url": "https://www.goodreads.com/interviews/show/1435.Taylor_Jenkins_Reid",
+      "title": "Taylor Jenkins Reid Explores Sex, Drugs, and Rock and Roll",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In this author interview, Reid says the book has no separate traditional narrator because readers hear everything from the characters themselves in oral-history form."
+    },
+    {
+      "url": "https://www.standard.co.uk/culture/books/malibu-rising-taylor-jenkins-reid-book-review-b935613.html",
+      "title": "Malibu Rising by Taylor Jenkins Reid book review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Standard explicitly contrasts the author\u2019s novels by identifying Daisy Jones & The Six as an oral history with multiple first-person narrators."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDaisy Jones & The Six Taylor Jenkins Reid official excerpt oral history interview transcript\u201d; found and opened Penguin\u2019s authorized sample and a Ballantine excerpt mirror.",
+    "Searched \u201cDaisy Jones & The Six point of view oral history multiple narrators review\u201d and \u201cDaisy Jones and the Six epistolary oral history format narrator scholarly\u201d; results consistently described an oral-history or interview-transcript structure.",
+    "Searched publisher domains for an excerpt and opened the Penguin sample; the Penguin Random House product page itself supplied catalog and cast information but no useful sustained prose.",
+    "Searched \u201cDaisy Jones & The Six first-person narrators\u201d and \u201cDaisy Jones and the Six multiple first person\u201d; opened the BookBrowse and Goodreads author interviews plus The Standard\u2019s explicit multiple-first-person description.",
+    "Checked the official Random House fan-club reading guide; it corroborated the whole-book oral-history format and the in-universe compiler reveal, but was not needed as separate person evidence."
+  ],
+  "person_note": "The novel\u2019s base narrative is a fictional oral history: multiple band members, relatives, and associates provide constitutive first-person interview testimony, while an in-universe compiler frames and edits their accounts. Multiple narrators remain FIRST because they use the same narrative person. Universal \u201cyou\u201d passages are advice or direct address, not a second-person narrative strand; song lyrics and clearly local confrontational speech are embedded material. The authorized opening, two author interviews describing the whole-book method, an explicit reputable description of multiple first-person narrators, and numerous diagnostic quotations agree. The only minor uncertainty is whether a few isolated dialogue-bucket excerpts preserve interview testimony or embedded speech, but that does not affect the book-level classification.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.263793+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "52ca82a8b0575ee622df7c506ded512c195ad43dc271a65bdb9418c74d92a674"
+  }
+}

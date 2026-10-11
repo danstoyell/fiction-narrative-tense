@@ -1,0 +1,435 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:6028",
+  "quotes": [
+    {
+      "quote_id": "q00401",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person advice; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00402",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00403",
+      "person_signal": "non_base",
+      "note": "Aphoristic direct address; the addressed \u201cyou\u201d is not the controlling protagonist."
+    },
+    {
+      "quote_id": "q00404",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u2019ve seen\u201d presents the speaker as an experiencing participant."
+    },
+    {
+      "quote_id": "q00405",
+      "person_signal": "non_base",
+      "note": "Primarily gnomic reflection; its local \u201cI\u201d is not needed as base-person evidence."
+    },
+    {
+      "quote_id": "q00406",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic narration."
+    },
+    {
+      "quote_id": "q00407",
+      "person_signal": "first",
+      "note": "The narrator recounts her own past action as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00408",
+      "person_signal": "non_base",
+      "note": "Generalized meditation on parenthood using rhetorical \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00409",
+      "person_signal": "non_base",
+      "note": "Collective aphorism rather than a narrated story event."
+    },
+    {
+      "quote_id": "q00410",
+      "person_signal": "non_base",
+      "note": "Universal observation using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00411",
+      "person_signal": "first",
+      "note": "Sustained \u201cI\u201d narration recounts the speaker\u2019s grief and actions."
+    },
+    {
+      "quote_id": "q00412",
+      "person_signal": "first",
+      "note": "\u201cMy cornerstone\u201d identifies the reflecting narrator as a participant."
+    },
+    {
+      "quote_id": "q00413",
+      "person_signal": "first",
+      "note": "The narrator explicitly describes her own speech and thought as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00414",
+      "person_signal": "non_base",
+      "note": "Gnomic maternal meditation with generic second-person address."
+    },
+    {
+      "quote_id": "q00415",
+      "person_signal": "non_base",
+      "note": "General observation; \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q00416",
+      "person_signal": "non_base",
+      "note": "Gnomic advice about silence, not story-specific narration."
+    },
+    {
+      "quote_id": "q00417",
+      "person_signal": "unmarked",
+      "note": "Historical assertion contains no participating or external narrator marker."
+    },
+    {
+      "quote_id": "q00418",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d and inclusive \u201cwe/us\u201d expose a participating narrator; generic \u201cyou\u201d does not make it second person."
+    },
+    {
+      "quote_id": "q00419",
+      "person_signal": "non_base",
+      "note": "Direct speech; its pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00420",
+      "person_signal": "first",
+      "note": "The narrator describes her own experience and condition with \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00421",
+      "person_signal": "non_base",
+      "note": "Abstract maxim without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00422",
+      "person_signal": "non_base",
+      "note": "Universal statement using collective \u201cwe,\u201d not a narrated story event."
+    },
+    {
+      "quote_id": "q00423",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but its \u201cyou\u201d is rhetorical and no narrator-person marker is present."
+    },
+    {
+      "quote_id": "q00424",
+      "person_signal": "non_base",
+      "note": "Gnomic comic observation with generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00425",
+      "person_signal": "first",
+      "note": "\u201cI know\u201d explicitly marks the participating narrator amid broader reflection."
+    },
+    {
+      "quote_id": "q00426",
+      "person_signal": "first",
+      "note": "The narrator describes her own present action, memories, and desire as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00427",
+      "person_signal": "non_base",
+      "note": "Aphoristic claim about people; treated as gnomic despite its local \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00428",
+      "person_signal": "first",
+      "note": "The posthumous narrator identifies herself directly as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00429",
+      "person_signal": "first",
+      "note": "\u201cMy father\u201d and repeated \u201cI\u201d locate the narrator inside the Price family story."
+    },
+    {
+      "quote_id": "q00430",
+      "person_signal": "first",
+      "note": "The narrator refers to a prospective spouse for \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q00431",
+      "person_signal": "non_base",
+      "note": "General maxim about hunger without a narrating-person marker."
+    },
+    {
+      "quote_id": "q00432",
+      "person_signal": "first",
+      "note": "\u201cWe all\u201d and \u201cI suppose\u201d include the narrator in the narrated human and family experience."
+    },
+    {
+      "quote_id": "q00433",
+      "person_signal": "non_base",
+      "note": "Gnomic collective statement about disability, not a discrete narrated event."
+    },
+    {
+      "quote_id": "q00434",
+      "person_signal": "first",
+      "note": "The narrator\u2019s \u201cI wonder\u201d directly exposes the reflecting character-narrator."
+    },
+    {
+      "quote_id": "q00435",
+      "person_signal": "non_base",
+      "note": "Direct speech; the speaker\u2019s possessive does not identify base narration."
+    },
+    {
+      "quote_id": "q00436",
+      "person_signal": "non_base",
+      "note": "Apostrophic metaphor rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00437",
+      "person_signal": "non_base",
+      "note": "Universal hope stated as a maxim."
+    },
+    {
+      "quote_id": "q00438",
+      "person_signal": "non_base",
+      "note": "Gnomic address with generic \u201cyou\u201d and \u201cus.\u201d"
+    },
+    {
+      "quote_id": "q00439",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial reflection, but generic \u201cyou\u201d and third-person daughters do not establish person."
+    },
+    {
+      "quote_id": "q00440",
+      "person_signal": "unmarked",
+      "note": "The passage describes \u201che\u201d and uses generic \u201cyour\u201d; it lacks a diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q00441",
+      "person_signal": "first",
+      "note": "\u201cWe came\u201d unmistakably narrates the Price family\u2019s own arrival."
+    },
+    {
+      "quote_id": "q00442",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d and \u201cus\u201d identify a participating narrator reflecting on inequality."
+    },
+    {
+      "quote_id": "q00443",
+      "person_signal": "first",
+      "note": "The narrator recounts her own encounter with death as \u201cI/me.\u201d"
+    },
+    {
+      "quote_id": "q00444",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; its second-person address is local speech."
+    },
+    {
+      "quote_id": "q00445",
+      "person_signal": "first",
+      "note": "Inclusive \u201cwe Christians\u201d places the narrating family member within the contrasted group."
+    },
+    {
+      "quote_id": "q00446",
+      "person_signal": "non_base",
+      "note": "Direct speech; its \u201cI\u201d belongs to the quoted speaker."
+    },
+    {
+      "quote_id": "q00447",
+      "person_signal": "first",
+      "note": "\u201cWe came, we saw, we took\u201d makes the narrator part of the family\u2019s actions."
+    },
+    {
+      "quote_id": "q00448",
+      "person_signal": "first",
+      "note": "\u201cMy age\u201d locates the observing narrator within the scene."
+    },
+    {
+      "quote_id": "q00449",
+      "person_signal": "first",
+      "note": "Sustained \u201cI\u201d narration recounts the speaker taking the Hippocratic oath."
+    },
+    {
+      "quote_id": "q00450",
+      "person_signal": "first",
+      "note": "The narrator contrasts natural events with what \u201cI had in mind.\u201d"
+    },
+    {
+      "quote_id": "q00451",
+      "person_signal": "non_base",
+      "note": "Standalone cultural maxim without person evidence."
+    },
+    {
+      "quote_id": "q00452",
+      "person_signal": "unclear",
+      "note": "The clipped simile lacks enough structure to distinguish narration from speech."
+    },
+    {
+      "quote_id": "q00453",
+      "person_signal": "first",
+      "note": "Sustained \u201cwe/us\u201d narration presents the speakers as actors in the colonial story."
+    },
+    {
+      "quote_id": "q00454",
+      "person_signal": "first",
+      "note": "The narrator recounts her own judgment and affiliation as \u201cI/me.\u201d"
+    },
+    {
+      "quote_id": "q00455",
+      "person_signal": "first",
+      "note": "The narrator contrasts her former and current understanding through repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00456",
+      "person_signal": "unmarked",
+      "note": "A bare third-person description does not establish an external narrator."
+    },
+    {
+      "quote_id": "q00457",
+      "person_signal": "unmarked",
+      "note": "The outside narration may be base text, but \u201cHe\u201d and \u201cMother\u201d do not independently identify its person; the remainder is speech."
+    },
+    {
+      "quote_id": "q00458",
+      "person_signal": "non_base",
+      "note": "Collective aphorism rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00459",
+      "person_signal": "first",
+      "note": "Repeated \u201cwe/our\u201d makes the narrator one of the people living the nightmare."
+    },
+    {
+      "quote_id": "q00460",
+      "person_signal": "first",
+      "note": "\u201cMy body\u201d identifies the wishing narrator as the affected participant."
+    },
+    {
+      "quote_id": "q00461",
+      "person_signal": "unmarked",
+      "note": "Idiomatic \u201cyou know\u201d and \u201csorry for you\u201d are generic address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00462",
+      "person_signal": "first",
+      "note": "\u201cMy children\u201d and \u201cI can promise\u201d establish the mother as participating narrator."
+    },
+    {
+      "quote_id": "q00463",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base, while the intervening third-person action beat does not identify the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00464",
+      "person_signal": "unmarked",
+      "note": "Calling the character \u201cFather\u201d suggests family perspective but lacks the required explicit first-person marker."
+    },
+    {
+      "quote_id": "q00465",
+      "person_signal": "non_base",
+      "note": "Aphoristic imperative, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00466",
+      "person_signal": "first",
+      "note": "\u201cWe\u2019ve all,\u201d \u201ceach of us,\u201d and \u201cmy family\u201d explicitly include the narrator in the story."
+    },
+    {
+      "quote_id": "q00467",
+      "person_signal": "non_base",
+      "note": "Generalized advice using \u201cyou,\u201d not a sustained second-person narrative strand."
+    },
+    {
+      "quote_id": "q00468",
+      "person_signal": "first",
+      "note": "The narrator\u2019s \u201cAll I can think of\u201d anchors the surrounding direct address in first-person narration."
+    },
+    {
+      "quote_id": "q00469",
+      "person_signal": "non_base",
+      "note": "Prayer presented as dialogue; its \u201cI\u201d belongs to the praying speaker."
+    },
+    {
+      "quote_id": "q00470",
+      "person_signal": "first",
+      "note": "The narrator recounts her own childhood prayers as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00471",
+      "person_signal": "non_base",
+      "note": "Standalone maxim using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00472",
+      "person_signal": "first",
+      "note": "The narrator recounts her own path and learning as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00473",
+      "person_signal": "non_base",
+      "note": "General maxim about motherhood without person evidence."
+    },
+    {
+      "quote_id": "q00474",
+      "person_signal": "first",
+      "note": "\u201cMy father\u201d and \u201cour mother\u201d place the narrator inside the Price family."
+    },
+    {
+      "quote_id": "q00475",
+      "person_signal": "first",
+      "note": "The narrator describes her own knowledge and response as \u201cI.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://osuva.uwasa.fi/bitstream/handle/10024/2345/osuva_5032.pdf",
+      "title": "The Translation of Language-Play in Barbara Kingsolver\u2019s The Poisonwood Bible",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "University of Vaasa structural analysis states that the story is told entirely in first-person narrative by five narrators and describes the mother\u2019s prefaces and daughters\u2019 sections."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/236746810_The_Revelatory_Narrative_Circle_in_Barbara_Kingsolver's_The_Poisonwood_Bible",
+      "title": "The Revelatory Narrative Circle in Barbara Kingsolver\u2019s The Poisonwood Bible",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Journal of Narrative Theory analysis identifies five homodiegetic character-narrators who speak by turns throughout the novel and explicitly contrasts this structure with conventional third-person narration."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/355/The-Poisonwood-Bible",
+      "title": "Excerpt from The Poisonwood Bible by Barbara Kingsolver",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The opened Part 1 excerpt identifies the section as Leah Price and sustains participating narration with \u201cwe,\u201d \u201cmy sisters,\u201d and \u201cI\u201d; its scope is only Leah\u2019s section."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/poisonwood/literary-devices/",
+      "title": "The Poisonwood Bible: Other Literary Devices",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The whole-book POV description names Orleanna and her four daughters as the five narrators and explicitly says each speaks in first person."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with \u201cexcerpt,\u201d \u201cfirst chapter,\u201d and publisher/author-site terms; opened the BookBrowse Part 1 excerpt, while targeted Barbara Kingsolver and HarperCollins searches yielded no usable direct official excerpt.",
+    "Searched \u201cThe Poisonwood Bible\u201d with \u201cpoint of view,\u201d \u201cfirst person,\u201d and \u201cmultiple narrators\u201d; opened the University of Vaasa thesis and SparkNotes structural description.",
+    "Searched for scholarly analysis of the novel\u2019s narrative structure, five voices, and homodiegetic narrators; opened Austenfeld\u2019s Journal of Narrative Theory article page on ResearchGate.",
+    "Opened the Google Books record and preview landing page. Its publisher description confirms that Orleanna and her four daughters narrate by turns, but it does not explicitly name grammatical person, so it was retained only as corroborative discovery material.",
+    "Targeted follow-up searches for alternating person, frame narration, diaries, and epistolary structure found no credible third- or second-person base strand; sources consistently described multiple participating female narrators."
+  ],
+  "person_note": "The event quotations repeatedly expose participating Price-family narrators through \u201cI,\u201d \u201cmy,\u201d and \u201cwe,\u201d while the opened scholarly whole-book sources identify five character-narrators and explicitly describe the novel as entirely first person. The changing speaker does not warrant ALTERNATING because Orleanna, Rachel, Leah, Adah, and Ruth May all narrate in first person. Rhetorical or addressed \u201cyou\u201d passages are local direct address or generalization, not sustained second-person narration; bare \u201cshe/he\u201d passages do not establish third-person narration. Dialogue and gnomic quotations were treated as non-base, and the final posthumous voice remains a participating first-person voice. No material contrary evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_032",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:56:42.751687+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fd5297d312f20a3cedb9ce59395e69954d65ee2a6c07f02114196823ec3a1894"
+  }
+}

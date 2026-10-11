@@ -1,0 +1,406 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:THE WEDDING PEOPLE|Alison Espach",
+  "quotes": [
+    {
+      "quote_id": "q08687",
+      "person_signal": "non_base",
+      "note": "General aphorism with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q08688",
+      "person_signal": "non_base",
+      "note": "Aphoristic first-person phrasing, likely local speech, not base narration."
+    },
+    {
+      "quote_id": "q08689",
+      "person_signal": "non_base",
+      "note": "Phoebe's explicitly attributed dialogue does not identify the narrator."
+    },
+    {
+      "quote_id": "q08690",
+      "person_signal": "non_base",
+      "note": "General reflection without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q08691",
+      "person_signal": "non_base",
+      "note": "The isolated first-person reflection is local speech or thought within the independently established third-person narrative."
+    },
+    {
+      "quote_id": "q08692",
+      "person_signal": "unmarked",
+      "note": "A brief sentence about an unnamed she does not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q08693",
+      "person_signal": "unmarked",
+      "note": "A single third-person statement about a character is insufficient by itself."
+    },
+    {
+      "quote_id": "q08694",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism rather than sustained address to a protagonist."
+    },
+    {
+      "quote_id": "q08695",
+      "person_signal": "unmarked",
+      "note": "Brief character summary using she, without enough local context to establish the narrator."
+    },
+    {
+      "quote_id": "q08696",
+      "person_signal": "non_base",
+      "note": "Generic advice using you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08697",
+      "person_signal": "third",
+      "note": "Sustained external reference to she presents a character's thoughts through third-person free-indirect narration; you is generic."
+    },
+    {
+      "quote_id": "q08698",
+      "person_signal": "non_base",
+      "note": "General aphorism with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q08699",
+      "person_signal": "non_base",
+      "note": "Generic reflective you does not designate a story protagonist."
+    },
+    {
+      "quote_id": "q08700",
+      "person_signal": "third",
+      "note": "Sustained narration names Phoebe and refers to her externally as she and her while presenting her memories."
+    },
+    {
+      "quote_id": "q08701",
+      "person_signal": "unmarked",
+      "note": "The short character reflection uses Phoebe and her, but provides limited local narratorial context."
+    },
+    {
+      "quote_id": "q08702",
+      "person_signal": "third",
+      "note": "Extended narration externally focalizes Phoebe and Lila as she and they."
+    },
+    {
+      "quote_id": "q08703",
+      "person_signal": "unclear",
+      "note": "Quotation boundaries and speaker attribution are absent, so the conversational me cannot be assigned."
+    },
+    {
+      "quote_id": "q08704",
+      "person_signal": "third",
+      "note": "Repeated external naming of Phoebe and reference to her establish third-person character narration."
+    },
+    {
+      "quote_id": "q08705",
+      "person_signal": "non_base",
+      "note": "The isolated first-person declaration is clipped local speech or thought, not the book's base narrator."
+    },
+    {
+      "quote_id": "q08706",
+      "person_signal": "non_base",
+      "note": "The conversational first-person passage is local character speech rather than base narration."
+    },
+    {
+      "quote_id": "q08707",
+      "person_signal": "third",
+      "note": "A sustained passage narrates Phoebe's marriage and thoughts externally as she and her."
+    },
+    {
+      "quote_id": "q08708",
+      "person_signal": "non_base",
+      "note": "Abstract aphorism using generic infinitives and you."
+    },
+    {
+      "quote_id": "q08709",
+      "person_signal": "third",
+      "note": "Sustained external narration names Phoebe and renders her developing thoughts as she."
+    },
+    {
+      "quote_id": "q08710",
+      "person_signal": "third",
+      "note": "The narrator identifies Phoebe's realization and refers externally to Phoebe and a man as her, she, he, and him."
+    },
+    {
+      "quote_id": "q08711",
+      "person_signal": "unmarked",
+      "note": "A single she sentence does not independently identify the controlling narrator."
+    },
+    {
+      "quote_id": "q08712",
+      "person_signal": "unmarked",
+      "note": "Brief third-person thought fragment with insufficient narratorial context."
+    },
+    {
+      "quote_id": "q08713",
+      "person_signal": "third",
+      "note": "The passage externally presents a woman's desires through repeated she and her references."
+    },
+    {
+      "quote_id": "q08714",
+      "person_signal": "unmarked",
+      "note": "Short character summary naming Phoebe does not alone prove the base narrator's person."
+    },
+    {
+      "quote_id": "q08715",
+      "person_signal": "non_base",
+      "note": "General speculative aphorism without a story-specific narrator."
+    },
+    {
+      "quote_id": "q08716",
+      "person_signal": "third",
+      "note": "After Lila's attributed speech, sustained base narration externally recounts Phoebe's marriage and knowledge."
+    },
+    {
+      "quote_id": "q08717",
+      "person_signal": "unclear",
+      "note": "Unattributed first-person wording may be dialogue or clipped thought; boundaries are unresolved."
+    },
+    {
+      "quote_id": "q08718",
+      "person_signal": "non_base",
+      "note": "Patricia's first-person account and its local speech framing do not identify base narration."
+    },
+    {
+      "quote_id": "q08719",
+      "person_signal": "non_base",
+      "note": "Aphoristic you is generic and possibly spoken, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08720",
+      "person_signal": "third",
+      "note": "Repeated she and her references externally render a character's realization over time."
+    },
+    {
+      "quote_id": "q08721",
+      "person_signal": "non_base",
+      "note": "Phoebe's explicitly attributed first-person confession is dialogue."
+    },
+    {
+      "quote_id": "q08722",
+      "person_signal": "non_base",
+      "note": "General maxim about unspecified people."
+    },
+    {
+      "quote_id": "q08723",
+      "person_signal": "non_base",
+      "note": "Dialogue predominates; the brief external beats do not independently establish the controlling person."
+    },
+    {
+      "quote_id": "q08724",
+      "person_signal": "unmarked",
+      "note": "A single statement about her situation lacks enough local context to diagnose narration."
+    },
+    {
+      "quote_id": "q08725",
+      "person_signal": "unmarked",
+      "note": "Person-neutral story-world summary does not expose the narrator."
+    },
+    {
+      "quote_id": "q08726",
+      "person_signal": "unmarked",
+      "note": "A brief she passage with generic quoted questions is not independently diagnostic."
+    },
+    {
+      "quote_id": "q08727",
+      "person_signal": "unmarked",
+      "note": "A single she sentence does not by itself establish the narrator's participation."
+    },
+    {
+      "quote_id": "q08728",
+      "person_signal": "non_base",
+      "note": "Conversational first-person wording is local character speech or thought within the third-person novel."
+    },
+    {
+      "quote_id": "q08729",
+      "person_signal": "non_base",
+      "note": "Phoebe's first-person statements are explicitly attributed dialogue."
+    },
+    {
+      "quote_id": "q08730",
+      "person_signal": "third",
+      "note": "The passage externally presents a character's perception as she and embeds a generic we reflection."
+    },
+    {
+      "quote_id": "q08731",
+      "person_signal": "third",
+      "note": "Sustained summary names Phoebe and narrates her reactions and the mothers externally."
+    },
+    {
+      "quote_id": "q08732",
+      "person_signal": "non_base",
+      "note": "General advice using generic you rather than a story-specific protagonist."
+    },
+    {
+      "quote_id": "q08733",
+      "person_signal": "non_base",
+      "note": "The first-person anecdote occurs wholly within an unattributed speech exchange."
+    },
+    {
+      "quote_id": "q08734",
+      "person_signal": "non_base",
+      "note": "Generic aphoristic you does not establish second-person narration."
+    },
+    {
+      "quote_id": "q08735",
+      "person_signal": "unmarked",
+      "note": "A single sentence naming Phoebe and her belief is too brief to establish narrator person independently."
+    },
+    {
+      "quote_id": "q08736",
+      "person_signal": "third",
+      "note": "Sustained questions about she and a woman externally render a character's wedding-related thoughts."
+    },
+    {
+      "quote_id": "q08737",
+      "person_signal": "third",
+      "note": "The passage externally refers to the focal character as she while describing her immediate state."
+    },
+    {
+      "quote_id": "q08738",
+      "person_signal": "non_base",
+      "note": "General speculative aphorism without a diagnostic story narrator."
+    },
+    {
+      "quote_id": "q08739",
+      "person_signal": "non_base",
+      "note": "Conversational first-person monologue with no external narratorial context."
+    },
+    {
+      "quote_id": "q08740",
+      "person_signal": "non_base",
+      "note": "General aphorism using generic you."
+    },
+    {
+      "quote_id": "q08741",
+      "person_signal": "non_base",
+      "note": "First-person family anecdote presented as character speech."
+    },
+    {
+      "quote_id": "q08742",
+      "person_signal": "unmarked",
+      "note": "The referent of they is clipped, and generic you does not establish base person."
+    },
+    {
+      "quote_id": "q08743",
+      "person_signal": "non_base",
+      "note": "An explicitly attributed first-person monologue and reply are dialogue."
+    },
+    {
+      "quote_id": "q08744",
+      "person_signal": "unmarked",
+      "note": "Story-linked generalization about bridesmaids does not expose narrator participation."
+    },
+    {
+      "quote_id": "q08745",
+      "person_signal": "non_base",
+      "note": "Generic aphorism using you and yourself."
+    },
+    {
+      "quote_id": "q08746",
+      "person_signal": "third",
+      "note": "Extended scene narration repeatedly names Phoebe and refers to her externally as she while presenting her perceptions."
+    },
+    {
+      "quote_id": "q08747",
+      "person_signal": "non_base",
+      "note": "Direct address to Phoebe is dialogue, not second-person base narration."
+    },
+    {
+      "quote_id": "q08748",
+      "person_signal": "non_base",
+      "note": "Marla's first-person words are explicitly attributed dialogue."
+    },
+    {
+      "quote_id": "q08749",
+      "person_signal": "unmarked",
+      "note": "A single she sentence describing a thought is insufficient independently."
+    },
+    {
+      "quote_id": "q08750",
+      "person_signal": "non_base",
+      "note": "Direct address to Lila and first-person gratitude are character speech."
+    },
+    {
+      "quote_id": "q08751",
+      "person_signal": "non_base",
+      "note": "Generalized maxim with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q08752",
+      "person_signal": "unmarked",
+      "note": "A brief she sentence does not independently establish controlling narration."
+    },
+    {
+      "quote_id": "q08753",
+      "person_signal": "third",
+      "note": "Several sentences externally describe a woman's preferences and memories as she and her."
+    },
+    {
+      "quote_id": "q08754",
+      "person_signal": "third",
+      "note": "The explicit thought tag 'Phoebe thinks' identifies an external third-person narrating position."
+    },
+    {
+      "quote_id": "q08755",
+      "person_signal": "non_base",
+      "note": "Generic reflective infinitive and quoted question do not identify a base narrator."
+    },
+    {
+      "quote_id": "q08756",
+      "person_signal": "non_base",
+      "note": "The isolated conversational first-person complaint is local speech or thought, not controlling narration."
+    },
+    {
+      "quote_id": "q08757",
+      "person_signal": "non_base",
+      "note": "Person-neutral aphorism without a story-specific narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250899552/theweddingpeople/",
+      "title": "The Wedding People",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained authorized opening narrates Phoebe externally as she while directly presenting her perceptions, actions, and history."
+    },
+    {
+      "url": "https://www.narrativeedgemag.com/a-qa-with-alison-espach-author-of-august-indie-next-list-top-pick-the-wedding-people/",
+      "title": "A Q&A with Alison Espach, Author of August Indie Next List Top Pick \u201cThe Wedding People\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The interviewer identifies the novel as third person, and Espach explicitly explains choosing and modulating third person throughout this book to create intimacy with and distance from Phoebe."
+    },
+    {
+      "url": "https://www.supersummary.com/the-wedding-people/part-1-summary/",
+      "title": "The Wedding People Part 1 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The structural guide explicitly identifies a third-person limited narrator and describes its continued external focalization through Phoebe across Part 1."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Wedding People Alison Espach excerpt publisher\u201d; opened the Macmillan publisher page and reviewed its sustained opening excerpt.",
+    "Searched \u201cThe Wedding People Alison Espach third person novel\u201d and \u201cThe Wedding People Alison Espach point of view narration\u201d; opened an author interview explicitly discussing the book's third-person technique.",
+    "Searched \u201cThe Wedding People Alison Espach first chapter excerpt\u201d; opened the Part 1 structural guide as corroboration.",
+    "Opened the Hachette title page, but its accessible material was primarily synopsis and promotional copy rather than diagnostic prose or POV analysis."
+  ],
+  "person_note": "The controlling narration is close third person, primarily focalized through Phoebe. Numerous extended quotes narrate Phoebe externally as she while rendering her memories, perceptions, and free-indirect thoughts. The authorized publisher opening independently shows the same structure, and Espach explicitly describes writing this book in third person and varying its distance from Phoebe. Scattered first-person quotations are clipped dialogue or local thought\u2014several are explicitly attributed elsewhere in the quote set\u2014and do not form sustained first-person sections. Generic you passages are aphorisms, not second-person narration. No credible evidence of alternating base persons was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_088",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:35:33.726514+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e00bbaa793377e57e9669f00fb41d0b143000e4b226e57e8c28025a46bda6e17"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:THE JUDGE'S LIST|John Grisham",
+  "quotes": [
+    {
+      "quote_id": "q05659",
+      "person_signal": "unmarked",
+      "note": "Narration reports a woman's thoughts, but this single third-person reference does not by itself identify whether the narrator participates."
+    },
+    {
+      "quote_id": "q05660",
+      "person_signal": "unmarked",
+      "note": "Clipped exposition names Denise, Alfred, and Jeri but does not expose the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q05661",
+      "person_signal": "unmarked",
+      "note": "The abstract account of fear contains no narrator or character reference diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q05662",
+      "person_signal": "unmarked",
+      "note": "A single reference to an unnamed woman and Ross Bannick is compatible with either participating or nonparticipating narration."
+    },
+    {
+      "quote_id": "q05663",
+      "person_signal": "third",
+      "note": "Sustained external backstory narrates two characters as she and he, including his interior pain, without a participating narrator frame."
+    },
+    {
+      "quote_id": "q05664",
+      "person_signal": "third",
+      "note": "Extended scene narration externally follows several characters through travel, arrival, greetings, and actions with no participating narrator."
+    },
+    {
+      "quote_id": "q05665",
+      "person_signal": "non_base",
+      "note": "First-person evaluation is dialogue rather than controlling narration."
+    },
+    {
+      "quote_id": "q05666",
+      "person_signal": "unclear",
+      "note": "Both ends are clipped, leaving too little local structure to determine whether the third-person material is base narration."
+    },
+    {
+      "quote_id": "q05667",
+      "person_signal": "non_base",
+      "note": "Imperative maxim is gnomic material, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q05668",
+      "person_signal": "third",
+      "note": "Sustained narration externally identifies a male character while rendering his mental state and changing thoughts, with no participating narrator frame."
+    },
+    {
+      "quote_id": "q05669",
+      "person_signal": "unmarked",
+      "note": "The isolated clause about what he drove through is too short to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q05670",
+      "person_signal": "third",
+      "note": "Multi-sentence external characterization presents a male character's tastes, pathology, and criminal conduct without a participating narrator."
+    },
+    {
+      "quote_id": "q05671",
+      "person_signal": "non_base",
+      "note": "The first-person plural belongs to a universal maxim that a character had read, not to a participating base narrator."
+    },
+    {
+      "quote_id": "q05672",
+      "person_signal": "non_base",
+      "note": "First-person plural and location deixis occur in dialogue."
+    },
+    {
+      "quote_id": "q05673",
+      "person_signal": "non_base",
+      "note": "You is direct address within explanatory dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q05674",
+      "person_signal": "non_base",
+      "note": "I, we, and you belong to a speaker addressing another character."
+    },
+    {
+      "quote_id": "q05675",
+      "person_signal": "non_base",
+      "note": "First-person statements and repeated you-address form a character's speech to Bannick."
+    },
+    {
+      "quote_id": "q05676",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed woman's reaction and thoughts does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q05677",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly a spoken exchange; the brief Allie said tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q05678",
+      "person_signal": "non_base",
+      "note": "The first-person reference to my daughter and rhetorical questions belong to dialogue."
+    },
+    {
+      "quote_id": "q05679",
+      "person_signal": "non_base",
+      "note": "Repeated you-address occurs in colloquial dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q05680",
+      "person_signal": "non_base",
+      "note": "Quotation marks and the vocatives Gunther and Sis identify a two-speaker exchange."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/the-judges-list/",
+      "title": "The Judge's List by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter 1 excerpt sustains nonparticipating third-person narration centered on Lacy, including access to her thoughts, with no first-person narrator frame."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-judges-list/styles.html",
+      "title": "John Grisham Writing Styles in The Judge's List",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies a third-person narrator separated from the action and documents shifting focus among Lacy, Jeri, and Bannick using examples from pages 2, 40, and 171."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Judge's List\" John Grisham excerpt and opened the authorized excerpt on John Grisham's site.",
+    "Searched site:jgrisham.com and site:penguinrandomhouse.com for an excerpt or first chapter; the author site supplied the authorized Chapter 1 text.",
+    "Searched \"The Judge's List\" third person, narrator, point of view, and alternating point of view; opened the BookRags whole-book style analysis.",
+    "Examined Bookreporter's Chapter 1 excerpt, which duplicated the authorized opening and added no broader structural coverage.",
+    "Examined SuperSummary's Chapters 7-13 analysis and a StoryGraph review for interior corroboration; neither was needed as primary evidence, and no source indicated first-person, second-person, or alternating base narration.",
+    "A Vocal Media result explicitly described third-person narration but failed to open, so it was not used as evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and uses third person while shifting focal attention among Lacy, Jeri, Bannick, and other characters. The authorized opening independently demonstrates this mode, the whole-book structural description explicitly confirms it across multiple focal characters and widely separated pages, and sustained Goodreads passages expose the same external narration in later scenes and backstory. Visible I, we, and you forms are confined to dialogue or a universal maxim and therefore do not create another base-person strand. The authorized excerpt covers only the opening, but that scope limitation is resolved by the whole-book description and dispersed quote evidence; no credible contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_075",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T18:04:31.138828+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "83ed0a64a3bec7f91f731933c8f6c24d186ac8365c6e2664a410bceb297b7cda"
+  }
+}

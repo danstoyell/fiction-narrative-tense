@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:1923",
+  "quotes": [
+    {
+      "quote_id": "q02085",
+      "person_signal": "non_base",
+      "note": "General aphorism with no story-specific narrator signal."
+    },
+    {
+      "quote_id": "q02086",
+      "person_signal": "non_base",
+      "note": "Character speech; the second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02087",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narration."
+    },
+    {
+      "quote_id": "q02088",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, research identifies this as Patty's mother answering Patty; its first person is dialogue."
+    },
+    {
+      "quote_id": "q02089",
+      "person_signal": "unmarked",
+      "note": "A clipped sentence about an unnamed he permits third-person narration but cannot exclude an unseen participating narrator."
+    },
+    {
+      "quote_id": "q02090",
+      "person_signal": "non_base",
+      "note": "Abstract gnomic claim without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q02091",
+      "person_signal": "non_base",
+      "note": "General aphorism, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q02092",
+      "person_signal": "third",
+      "note": "Sustained close-third narration reports Walter's longstanding perceptions and judgments without a participating narrator frame."
+    },
+    {
+      "quote_id": "q02093",
+      "person_signal": "non_base",
+      "note": "Gnomic formulation without narrative context."
+    },
+    {
+      "quote_id": "q02094",
+      "person_signal": "third",
+      "note": "Third-person narration of Patty's knowledge; this belongs to her constitutive memoir, which credible sources confirm is itself written in third person."
+    },
+    {
+      "quote_id": "q02095",
+      "person_signal": "non_base",
+      "note": "Impersonal gnomic description with no story-specific narrator signal."
+    },
+    {
+      "quote_id": "q02096",
+      "person_signal": "non_base",
+      "note": "Isolated character speech."
+    },
+    {
+      "quote_id": "q02097",
+      "person_signal": "third",
+      "note": "Sustained third-person account of Patty's knowledge and later mistake; the passage occurs inside her third-person memoir."
+    },
+    {
+      "quote_id": "q02098",
+      "person_signal": "third",
+      "note": "Close-third narration describes a character's repeated reactions and self-conception without a participating narrator frame."
+    },
+    {
+      "quote_id": "q02099",
+      "person_signal": "unclear",
+      "note": "First-person argument has stripped speaker and quotation boundaries, so it cannot responsibly be assigned to base narration."
+    },
+    {
+      "quote_id": "q02100",
+      "person_signal": "unmarked",
+      "note": "The isolated unnamed he is insufficient by itself to establish narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q02101",
+      "person_signal": "third",
+      "note": "Extended close-third scene narrates his perceptions, memories, and actions while keeping both characters external."
+    },
+    {
+      "quote_id": "q02102",
+      "person_signal": "non_base",
+      "note": "Walter's directly attributed speech; its pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q02103",
+      "person_signal": "unmarked",
+      "note": "Brief internal description of an unnamed him is compatible with third person but lacks enough local context to be diagnostic."
+    },
+    {
+      "quote_id": "q02104",
+      "person_signal": "non_base",
+      "note": "The passage is overwhelmingly Walter's speech; short he-said action beats do not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02105",
+      "person_signal": "unmarked",
+      "note": "A single sentence about what an unnamed he knew does not conclusively identify the narrator's person."
+    },
+    {
+      "quote_id": "q02106",
+      "person_signal": "third",
+      "note": "Sustained narration renders Walter's marriage, actions, and thoughts in close third person."
+    },
+    {
+      "quote_id": "q02107",
+      "person_signal": "third",
+      "note": "Extended close-third narration presents Katz's reading and understanding without a participating narrator frame."
+    },
+    {
+      "quote_id": "q02108",
+      "person_signal": "non_base",
+      "note": "General statement about fiction, not story-specific narration."
+    },
+    {
+      "quote_id": "q02109",
+      "person_signal": "third",
+      "note": "Close-third narration reports his prior incomprehension and present realization without a participating narrator frame."
+    },
+    {
+      "quote_id": "q02110",
+      "person_signal": "third",
+      "note": "Patty is rendered as she and as the autobiographer; sources confirm this constitutive memoir deliberately remains in third person."
+    },
+    {
+      "quote_id": "q02111",
+      "person_signal": "non_base",
+      "note": "General aphorism about fans without diagnostic story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.newyorker.com/magazine/2009/06/08/good-neighbors",
+      "title": "Good Neighbors",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Sustained author-published version of the novel's first chapter narrates Walter, Patty, their children, and their neighbors externally in third person."
+    },
+    {
+      "url": "https://academic.macmillan.com/academictrade/9781250823991/freedom/",
+      "title": "Freedom \u2014 Read Excerpt: Chapter 1, Agreeable",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The publisher's sustained excerpt from Patty's memoir section consistently calls Patty she and narrates her life in third person."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2010/sep/19/freedom-jonathan-franzen-review",
+      "title": "Freedom by Jonathan Franzen",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review maps the full structure: third-person opening, Patty's 160-page memoir in third person, rotating close-third perspectives, a memoir addendum, and a third-person closing panorama."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/jonathan-franzen/freedom2/",
+      "title": "Freedom",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Kirkus describes the novel's shifts and explicitly identifies both long autobiographical sections as third-person autobiography."
+    },
+    {
+      "url": "https://fictionwritersreview.com/review/freedom-by-jonathan-franzen/",
+      "title": "Freedom, by Jonathan Franzen",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review identifies the general narration as close third person and states that Patty's autobiography is also in third person and stylistically continuous with the rest."
+    },
+    {
+      "url": "https://paas.org.pl/wp-content/uploads/2013/10/PJAS_vol8.pdf",
+      "title": "Autofiction and New Realist Prose: Jonathan Franzen's Freedom",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly structural analysis describes narration through several characters' viewpoints and analyzes Patty's chapters as a deliberate third-person, heterodiegetic treatment of her own life."
+    }
+  ],
+  "search_log": [
+    "Searched: Jonathan Franzen Freedom novel point of view third person narrator review.",
+    "Searched: Jonathan Franzen Freedom excerpt first chapter publisher; opened the Macmillan publisher excerpt.",
+    "Searched: Freedom Jonathan Franzen \"third person\" autobiography Patty.",
+    "Searched: Freedom Jonathan Franzen narrative voice point of view scholarly; opened the Polish Journal for American Studies article.",
+    "Searched and opened The New Yorker's \"Good Neighbors\" plus its \"A Taste of Freedom\" page identifying it and \"Agreeable\" as versions of the first two chapters.",
+    "Searched for an authorized interior excerpt using \"Walter had never liked cats\"; results were Goodreads and academic quotation reproductions rather than a publisher interior excerpt.",
+    "Searched the exact \"I guess my life hasn't always been happy\" passage; a scholarly discussion identified it as Patty's mother's reply, resolving the apparent first-person event quote as dialogue.",
+    "Searched the exact \"The autobiographer is almost forced to the conclusion\" passage; scholarly results confirmed that Patty depicts herself in third person.",
+    "A New York Times first-chapter result was blocked by robots.txt and was not used as evidence."
+  ],
+  "person_note": "The controlling narrative is third person. The diagnostic Goodreads passages repeatedly use sustained close-third access to Walter, Patty, Katz, and other characters, while the authorized opening and publisher excerpt independently corroborate that form. Patty is a participating character who authors two long autobiographical sections, but this does not create first-person alternation: the novel deliberately has her call herself Patty, she, or the autobiographer in third person. Reviews covering the entire structure confirm that the surrounding sections rotate among close-third perspectives and that the bookends are also third person. Apparent contrary first-person material is character speech or context-stripped argument, not controlling narration. The only minor uncertainty is attribution of a few clipped quotes, which does not affect the well-supported whole-book classification.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.247597+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cf046c1a8624bd49d7eb6c319ba4fb4f63e4fa88fda07050c8a0d4ebae7eeedc"
+  }
+}

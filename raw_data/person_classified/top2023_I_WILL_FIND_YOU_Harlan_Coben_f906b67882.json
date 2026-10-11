@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:I WILL FIND YOU|Harlan Coben",
+  "quotes": [
+    {
+      "quote_id": "q08491",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural aphorism; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08492",
+      "person_signal": "non_base",
+      "note": "Person-neutral aphorism rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q08493",
+      "person_signal": "non_base",
+      "note": "Universal reflection with rhetorical reader address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08494",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural aphorism; the pronoun does not establish narrator participation."
+    },
+    {
+      "quote_id": "q08495",
+      "person_signal": "non_base",
+      "note": "Truncated reference to a quoted Voltaire maxim; the visible first person belongs to local framing and is not reliable base-person evidence."
+    },
+    {
+      "quote_id": "q08496",
+      "person_signal": "third",
+      "note": "Gertrude's belief is attributed externally; structural and chapter evidence confirms this as a third-person focalized section."
+    },
+    {
+      "quote_id": "q08497",
+      "person_signal": "non_base",
+      "note": "Universal personification of grief; 'you' is generic rather than a story-specific protagonist."
+    },
+    {
+      "quote_id": "q08498",
+      "person_signal": "non_base",
+      "note": "Universal first-person plural and rhetorical address are gnomic, not narrator evidence."
+    },
+    {
+      "quote_id": "q08499",
+      "person_signal": "first",
+      "note": "A participating narrator reports a specific exchange as 'He asks me' and 'I try to explain.'"
+    },
+    {
+      "quote_id": "q08500",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; its first- and second-person pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q08501",
+      "person_signal": "first",
+      "note": "David narrates his specific present condition and its consequences as 'I.'"
+    },
+    {
+      "quote_id": "q08502",
+      "person_signal": "non_base",
+      "note": "The extracted sentence is a generalization and lacks the adjacent third-person framing needed to expose narrator person."
+    },
+    {
+      "quote_id": "q08503",
+      "person_signal": "unmarked",
+      "note": "Story-world second-person address is visible, but the short passage does not establish a sustained second-person base narrator."
+    },
+    {
+      "quote_id": "q08504",
+      "person_signal": "non_base",
+      "note": "Generic 'you' occurs within a maxim about imperfect safety, not sustained protagonist narration."
+    },
+    {
+      "quote_id": "q08505",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural aphorism rather than participating narration."
+    },
+    {
+      "quote_id": "q08506",
+      "person_signal": "first",
+      "note": "Despite a clipped beginning, 'It kept me alive' is David's autobiographical account of surviving prison."
+    },
+    {
+      "quote_id": "q08507",
+      "person_signal": "non_base",
+      "note": "Spoken greeting or quoted lyric, not base narration."
+    },
+    {
+      "quote_id": "q08508",
+      "person_signal": "non_base",
+      "note": "Generic relationship scenario using universal 'you,' not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08509",
+      "person_signal": "non_base",
+      "note": "Gnomic reader address; 'you' is universal rather than a narrated protagonist."
+    },
+    {
+      "quote_id": "q08510",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed to Max; speaker pronouns and imperatives do not identify the base narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.co.uk/discover/articles/extract-i-will-find-you-by-harlan-coben",
+      "title": "Extract: I Will Find You by Harlan Coben",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Authorized Penguin opening chapter is sustained first-person narration by imprisoned protagonist David Burroughs."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-i-will-find-you/styles.html",
+      "title": "Harlan Coben Writing Styles in I Will Find You",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis explicitly states that roughly half the novel uses David's first-person perspective and the remainder uses a third-person narrator focalized through other characters."
+    },
+    {
+      "url": "https://georgiabookshelfx.wordpress.com/2024/11/04/i-will-find-you-by-harlan-coben-a-book-review/",
+      "title": "I Will Find You by Harlan Coben \u2013 A Book Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A completed-reader review independently reports that chapters alternate between David's first person and third-person perspectives on other characters."
+    },
+    {
+      "url": "https://www.supersummary.com/i-will-find-you/important-quotes/",
+      "title": "I Will Find You Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Chapter-located interior passages narrate Ted and Gertrude externally while presenting their thoughts, corroborating sustained third-person focalized sections alongside separately identified David first-person passages."
+    }
+  ],
+  "search_log": [
+    "Searched \"I Will Find You\" \"Harlan Coben\" excerpt and opened the authorized Penguin chapter.",
+    "Searched \"I Will Find You\" Harlan Coben first person, third person, narrator, and point of view; opened BookRags' explicit whole-book structural analysis.",
+    "Searched for alternating chapters and opened an independent completed-reader review describing David's first-person chapters and third-person chapters for other characters.",
+    "Searched exact quote fragments and chapter references; opened SuperSummary's chapter-located interior passages for David, Ted, and Gertrude.",
+    "Checked a Penguin-hosted sample PDF returned by search, but its prose concerned Wilde and was evidently a mismatched book sample, so it was excluded.",
+    "Searches for epistolary, diary, frame narrative, and multiple narrators found no credible contrary structure."
+  ],
+  "person_note": "The novel has sustained base narration in two persons: David Burroughs narrates his chapters as a participating first-person narrator, while other chapters use a nonparticipating third-person narrator focalized through Rachel, Ted, Gertrude, and other characters. The Goodreads extracts independently expose David's first person, and q08496 is consistent with the researched third-person Gertrude strand. Generic 'we' and 'you,' dialogue, and aphorisms were not promoted to additional narrative persons. Authorized opening prose, explicit whole-book structural analysis, interior chapter evidence, and an independent reader's structural report agree; no credible contrary account remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_081",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:11:20.535607+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3eac0ca51e0e78bb73ca61dc682ce263ebde4da7edf4acc6cc4ec99fff876eb2"
+  }
+}

@@ -20,6 +20,7 @@ Downstream of classification, all under **`analysis/`**:
 
 - **`analysis/analyze_year.py`** applies `METHODOLOGY.md`'s pooled-evidence and narrating-situation rules to `classified/*.json` → a PAST/PRESENT/DUAL/INSUFFICIENT label per book, with confidence and abstention accounting.
 - **`analysis/build_report.py`** reads every cohort's books/quotes/classified files straight from `raw_data/`, computes every number on the page from source (nothing hand-maintained), and writes `trend.html` (self-contained artifact) and `trend_local.html` + `raw_data/report_data.json` (fetch-based, run `python3 -m http.server` to view locally) — both HTML files land at the repo root, not inside `analysis/`.
+- **`analysis/build_person_report.py`** reads the reviewed person exports and writes the standalone **[`person_report.html`](person_report.html)** dashboard: person trends, quote-signal coverage, book decisions, cited web evidence, search logs, and all quote annotations.
 - **`analysis/build_dataset.py`** reuses `build_report.py`'s own join to export a consolidated, supplemental view to top-level **`dataset/`** (`books.csv`, `quotes.csv`) — see `dataset/README.md`.
 - **`classify_status.py`** (stays at the repo root) reports what's left to classify.
 
@@ -38,6 +39,12 @@ recorded, how those signals are pooled, and how `narrating_situation`, dominance
 and confidence bars produce a book label. It is the one place classification rules live —
 `analyze_year.py` and the classifier agent/prompt both point back to it.
 `terra/terra_prompt_v2.md` is a tie-breaker addendum used alongside it by the Terra harness.
+
+**`PERSON_METHODOLOGY.md`** is the companion specification for book-level narrative person.
+It uses Goodreads plus mandatory web research, consumes existing tense labels without
+duplicating them, and deliberately avoids a narrative-level ontology or separate
+configuration schema. The independent Sol High bulk agent and promotion/export workflow
+lives under **`person/`**; see [`person/README.md`](person/README.md).
 
 ## Everything else
 

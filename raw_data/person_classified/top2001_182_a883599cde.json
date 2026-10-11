@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:182",
+  "quotes": [
+    {
+      "quote_id": "q00888",
+      "person_signal": "first",
+      "note": "Luke narrates his own feelings and actions as \u201cI,\u201d clearly exposing the participating base narrator."
+    },
+    {
+      "quote_id": "q00889",
+      "person_signal": "first",
+      "note": "The narrating \u201cI\u201d recounts looking, trying to speak, and thinking within the story."
+    },
+    {
+      "quote_id": "q00890",
+      "person_signal": "first",
+      "note": "Luke\u2019s \u201cI was reminded\u201d and first-person recollection identify base narration; the later \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q00891",
+      "person_signal": "unmarked",
+      "note": "\u201cYou could see\u201d is generic perceptual language, not sustained narration of a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00892",
+      "person_signal": "first",
+      "note": "The participating narrator recounts what Ricky taught \u201cme\u201d and what \u201cI\u201d practiced."
+    },
+    {
+      "quote_id": "q00893",
+      "person_signal": "first",
+      "note": "Luke narrates his own opportunity, recollection, knowledge, and moral reasoning as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00894",
+      "person_signal": "first",
+      "note": "The repeated \u201cI,\u201d \u201cme,\u201d and \u201cmy\u201d narrate Luke\u2019s feelings and relationship with Tally."
+    },
+    {
+      "quote_id": "q00895",
+      "person_signal": "first",
+      "note": "The narrator describes his own question and resulting banishment using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00896",
+      "person_signal": "first",
+      "note": "Sustained action and emotion are narrated by the participating \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00897",
+      "person_signal": "unmarked",
+      "note": "This passage narrates a woman as \u201cshe,\u201d but that is compatible with Luke\u2019s established first-person narration and does not independently identify person."
+    },
+    {
+      "quote_id": "q00898",
+      "person_signal": "first",
+      "note": "Luke\u2019s wishes, imagined actions, and present limitation are explicitly narrated as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00899",
+      "person_signal": "unmarked",
+      "note": "The description of Percy and an unattributed concluding thought contain no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q00900",
+      "person_signal": "first",
+      "note": "Luke recounts what \u201cI had never seen\u201d and what \u201cI doubted,\u201d identifying a participating narrator."
+    },
+    {
+      "quote_id": "q00901",
+      "person_signal": "unmarked",
+      "note": "Scene description of unnamed men and women does not independently expose the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q00902",
+      "person_signal": "first",
+      "note": "The repeated \u201cI wanted\u201d presents Luke\u2019s plan through participating base narration."
+    },
+    {
+      "quote_id": "q00903",
+      "person_signal": "non_base",
+      "note": "The quote is predominantly character speech, including an embedded biblical quotation; its attribution beat is not person-diagnostic."
+    },
+    {
+      "quote_id": "q00904",
+      "person_signal": "first",
+      "note": "Despite clipping at the end, \u201cI couldn\u2019t think\u201d clearly exposes the participating base narrator."
+    },
+    {
+      "quote_id": "q00905",
+      "person_signal": "first",
+      "note": "Luke narrates his reaction to leaving the only home \u201cI\u2019d ever lived\u201d in."
+    },
+    {
+      "quote_id": "q00906",
+      "person_signal": "first",
+      "note": "The inclusive \u201cus\u201d and \u201cwe\u201d place the narrator within the Baptist family community being described."
+    },
+    {
+      "quote_id": "q00907",
+      "person_signal": "unmarked",
+      "note": "A locally quoted customary phrase is followed by general exposition without diagnostic narrator person."
+    },
+    {
+      "quote_id": "q00908",
+      "person_signal": "unmarked",
+      "note": "Expository description of the carnival contains no narrator-participation marker."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/721/a-painted-house",
+      "title": "Excerpt from A Painted House by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The sustained Chapter I excerpt, published by permission of Doubleday, repeatedly uses \u201cI,\u201d \u201cmy,\u201d and \u201cwe\u201d as Luke participates in the narrated events."
+    },
+    {
+      "url": "https://manuals.plus/m/3350ab77b9bf779eca555497611c39adac2be2fce0bab333330c14c3c5059c9c",
+      "title": "Revisiting John Grisham: A Critical Companion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Mary Beth Pringle\u2019s Greenwood Press critical study identifies seven-year-old Luke Chandler as the character telling the story and explicitly calls him the first-person narrator within its whole-novel analysis."
+    },
+    {
+      "url": "https://www.thedailystar.net/news-detail-130748",
+      "title": "Innocence losing it all to hard realities",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This review discusses events through the novel\u2019s ending and explicitly describes the book as narrated in the first person through Luke."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780553502756",
+      "title": "A PAINTED HOUSE by John Grisham",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly\u2019s full-audiobook review identifies Luke Chandler as the narrator and distinguishes character dialogue from the performer\u2019s narration as Luke."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cA Painted House John Grisham excerpt first chapter narrator,\u201d \u201cA Painted House first person narrator Luke Chandler,\u201d and publisher- and author-domain variants.",
+    "Opened BookBrowse\u2019s Doubleday-authorized Chapter I excerpt and confirmed sustained participating first-person narration.",
+    "Searched first-person-narrator and scholarly critical-analysis variants; opened Mary Beth Pringle\u2019s whole-novel critical study and verified its publication metadata through Google Books, WorldCat, and Bloomsbury.",
+    "Searched \u201cA Painted House alternating narrator multiple narrators,\u201d \u201cA Painted House epistolary frame narrative,\u201d and ending/interior-excerpt variants; found no evidence of a different sustained base person.",
+    "Opened Penguin Random House product and reader-guide pages and Google Books metadata; they verified the work and its focus on Luke but were less directly person-diagnostic than the excerpt and critical study.",
+    "An initial PDF fetch of the Pringle study timed out, but its extracted HTML text was opened successfully; an unverified library full-text mirror was not used as evidence."
+  ],
+  "person_note": "Luke Chandler is the controlling participating narrator, recounting the story as \u201cI\u201d and occasionally inclusive \u201cwe.\u201d Fourteen dispersed quote passages directly expose that voice. The generic \u201cyou\u201d in q00891 is not story-specific second person, the third-person descriptions are compatible with Luke narrating other characters, and q00903 is local speech. The authorized opening, a whole-book scholarly analysis, and two whole-book reviews independently agree on first-person narration, while targeted searches found no alternating, framed, diary, or epistolary structure. The authorized prose source covers only the opening, but the whole-book sources and numerous interior quote passages close that scope gap; no material uncertainty remains.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.234769+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2a33cb80e0d81b199a6e12f019cc60e04f3a1fded464616fceca3c9d58ff7af4"
+  }
+}

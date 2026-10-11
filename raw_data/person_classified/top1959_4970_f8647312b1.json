@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1959:4970",
+  "quotes": [
+    {
+      "quote_id": "q00729",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; inclusive \u201cus\u201d does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q00730",
+      "person_signal": "unmarked",
+      "note": "A single unframed \u201che\u201d sentence is compatible with either first- or third-person base narration."
+    },
+    {
+      "quote_id": "q00731",
+      "person_signal": "non_base",
+      "note": "First-person character reflection embedded within the established third-person narrative, not a controlling narrator."
+    },
+    {
+      "quote_id": "q00732",
+      "person_signal": "non_base",
+      "note": "A clipped first-person character assertion; it does not expose the base narrating voice."
+    },
+    {
+      "quote_id": "q00733",
+      "person_signal": "non_base",
+      "note": "Web context identifies this as Meredith speaking to the Bishop."
+    },
+    {
+      "quote_id": "q00734",
+      "person_signal": "non_base",
+      "note": "Web context explicitly attributes this first-person speech to Meredith within a third-person scene."
+    },
+    {
+      "quote_id": "q00735",
+      "person_signal": "non_base",
+      "note": "Gnomic theological reflection and an embedded scriptural quotation are nondiagnostic."
+    },
+    {
+      "quote_id": "q00736",
+      "person_signal": "non_base",
+      "note": "Giacomo\u2019s first-person recollection of Nina is a local character account, not base narration."
+    },
+    {
+      "quote_id": "q00737",
+      "person_signal": "non_base",
+      "note": "Gnomic collective statement; \u201cwe\u201d is universal rather than narratorial."
+    },
+    {
+      "quote_id": "q00738",
+      "person_signal": "non_base",
+      "note": "Direct speech by Nicholas Black, including address to Meredith."
+    },
+    {
+      "quote_id": "q00739",
+      "person_signal": "unmarked",
+      "note": "Impersonal \u201cone\u201d expresses focalized reflection but does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00740",
+      "person_signal": "non_base",
+      "note": "A character\u2019s first-person profession of belief within the third-person novel."
+    },
+    {
+      "quote_id": "q00741",
+      "person_signal": "non_base",
+      "note": "Direct dialogue addressed to another character."
+    },
+    {
+      "quote_id": "q00742",
+      "person_signal": "third",
+      "note": "Sustained external narration reports what \u201che knew\u201d and describes other priests without a participating narrator."
+    },
+    {
+      "quote_id": "q00743",
+      "person_signal": "non_base",
+      "note": "Bucketed gnomic exposition using generalized \u201ca man\u201d and \u201cone\u201d; nondiagnostic of base person."
+    },
+    {
+      "quote_id": "q00744",
+      "person_signal": "non_base",
+      "note": "Direct second-person speech addressed to a priest."
+    },
+    {
+      "quote_id": "q00745",
+      "person_signal": "non_base",
+      "note": "The first-person parenthetical belongs to Meredith\u2019s local assessment or report, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00746",
+      "person_signal": "third",
+      "note": "External narration presents Meredith\u2019s desire and refers to him consistently as \u201che\u201d; the authorized excerpt supplies its surrounding third-person context."
+    },
+    {
+      "quote_id": "q00747",
+      "person_signal": "unmarked",
+      "note": "Extended reflection about cardinals uses third-person references but lacks enough local framing to identify the narrator by itself."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9781760297572/Devils-Advocate-West-Morris-L-1760297577/plp",
+      "title": "The Devil's Advocate \u2014 authorized Allen & Unwin excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized Chapter 1 excerpt sustains external third-person narration, enters Meredith\u2019s and the surgeon\u2019s thoughts, and then shifts focus to Aldo Meyer without introducing a participating narrator."
+    },
+    {
+      "url": "https://www.everand.com/book/897323457/The-Devil-s-Advocate",
+      "title": "The Devil's Advocate by Morris L. West \u2014 Allen & Unwin ebook preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The commercial Allen & Unwin ebook preview independently displays the opening\u2019s sustained third-person narration of Blaise Meredith."
+    },
+    {
+      "url": "https://kochiread.blogspot.com/2019/09/morris-west-devils-advocate-sep-20-2019.html",
+      "title": "Morris West \u2013 The Devil's Advocate, Sep 20, 2019 \u2014 Kochi Reading Group",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Substantial reproduced interior and late-book passages narrate Nina, Meyer, Nerone, and Meredith externally in third person; the page also restores dialogue framing around first-person quote q00734."
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/56961.The_Devil_s_Advocate",
+      "title": "The Devil's Advocate by Morris L. West \u2014 Goodreads",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reader\u2019s explicit whole-book description calls the viewpoint sometimes omniscient and otherwise filtered through various characters; useful corroboration but weak because it is user-contributed."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Devil's Advocate\u201d \u201cMorris West\u201d with excerpt, first chapter, narrator, point of view, first person, third person, omniscient, epistolary, and alternating-narration terms.",
+    "Opened and inspected the authorized Allen & Unwin excerpt hosted by AbeBooks and the Allen & Unwin ebook preview on Everand.",
+    "Searched exact first-person quotations to distinguish base narration from speech; the Kochi Reading Group passages explicitly place q00733 and q00734 in Meredith\u2019s dialogue and reproduce numerous third-person interior scenes.",
+    "Checked Google Books, Open Library, and Internet Archive records; Google Books offered mainly snippets and contents, while the Internet Archive editions required borrowing and supplied no usable open text.",
+    "Targeted searches found no credible evidence of sustained first-person, second-person, epistolary, or alternating base sections."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, with mobile focalization among Meredith, Meyer, Nina, Nerone, and others. Diagnostic quotes q00742 and q00746 agree with the authorized opening, which externally narrates multiple characters and their thoughts. The numerous first-person quotations are character speech, reflection, or report; web context directly confirms this for Meredith\u2019s prayer passage, and no source indicates that such passages form autonomous first-person sections. The main limitation is that the strongest authorized prose is from the opening, but substantial interior and late-book passages corroborate the same third-person structure, with no credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_011",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T11:25:56.161377+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7ec712fba6a394c9a802c5b27376b08730c55565fe5cec84d9826f5d0f4e9efc"
+  }
+}

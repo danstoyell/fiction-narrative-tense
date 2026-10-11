@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:730",
+  "quotes": [
+    {
+      "quote_id": "q01094",
+      "person_signal": "non_base",
+      "note": "Direct speech from a funeral eulogy; the speaker's first-person address is not base narration."
+    },
+    {
+      "quote_id": "q01095",
+      "person_signal": "non_base",
+      "note": "Paul Curry's quoted speech to Neely, not the controlling narrator."
+    },
+    {
+      "quote_id": "q01096",
+      "person_signal": "non_base",
+      "note": "Although bucketed as event, the full context places this sentence inside Mal Brown's first-person Vietnam story."
+    },
+    {
+      "quote_id": "q01097",
+      "person_signal": "non_base",
+      "note": "Nat Sawyer's quoted reply about Rake; its first-person pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q01098",
+      "person_signal": "non_base",
+      "note": "Although bucketed as event, this is part of a funeral eulogist's first-person speech."
+    },
+    {
+      "quote_id": "q01099",
+      "person_signal": "non_base",
+      "note": "Although bucketed as event, the full passage shows this sentence inside the same funeral eulogy."
+    },
+    {
+      "quote_id": "q01100",
+      "person_signal": "non_base",
+      "note": "Father McCabe says this during his funeral address; it is local speech, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/bleachers",
+      "title": "Bleachers by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized opening excerpt uses sustained external narration for Neely Crenshaw and the town, including access to Neely's history without a participating narrator."
+    },
+    {
+      "url": "https://library.act.edu.et/index.php?bid=78&fid=30&p=fstream-pdf",
+      "title": "Bleachers by John Grisham \u2014 library-hosted digital text",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete library-hosted text sustains third-person external narration across the book. First-person passages, including every supplied quote, are bounded dialogue, stories, or eulogies."
+    },
+    {
+      "url": "https://hull-repository.worktribe.com/OutputFile/1612868",
+      "title": "Reading John Grisham's Bleachers with Foucault: Lessons for sports retirement",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This University of Hull scholarly article analyzes scenes from Tuesday, Thursday, and Friday and quotes external narration about Neely separately from the players' first-person conversations and speeches."
+    },
+    {
+      "url": "https://www.gradesaver.com/bleachers/study-guide/literary-elements",
+      "title": "Bleachers Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its Narrator and Point of View section explicitly identifies the novel as third-person narration."
+    },
+    {
+      "url": "https://ep.turbifycdn.com/ty/cdn/monkeynote/pmBleachers-GrishamSample.pdf",
+      "title": "Bleachers by John Grisham \u2014 MonkeyNotes Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the point of view as third-person omniscient and mainly oriented through Neely Crenshaw."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Grisham Bleachers excerpt first chapter Neely Crenshaw\" and publisher/author-site variants; opened the authorized author excerpt and a library-hosted text.",
+    "Searched \"Bleachers John Grisham narrator point of view\", \"third-person narration\", and \"third person omniscient\"; opened GradeSaver, MonkeyNotes, and a University of Hull scholarly analysis.",
+    "Searched exact text from all seven quotes to recover quotation boundaries and speakers; the full-text contexts showed that every quote is dialogue, an embedded oral story, or a funeral eulogy.",
+    "Searched \"Bleachers John Grisham epistolary diary frame narrative\", \"multiple narrators\", and \"alternating point of view\"; found no evidence of sustained base narration in another person.",
+    "Checked Google Books, but its accessible page was catalog and synopsis material rather than diagnostic prose, so it was not used.",
+    "A low-quality EssaysForStudent search result asserted second person, but it was only an unopened search snippet, conflicted with the primary text, and supplied no passage or structural analysis; it was not treated as evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and consistently refers to Neely and other characters in the third person. All apparent first-person evidence in the supplied quotes is local character speech: q01096 is Mal's embedded Vietnam account, while q01094 and q01098\u2013q01100 come from funeral addresses. Thus several upstream event buckets contain clipped speech rather than base narration. Authorized opening prose, whole-book library text, scholarly cross-section analysis, and two explicit POV guides agree on third person, with no credible evidence of alternating narration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.236846+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "396ce673c9763fdde8ec84fec6c1d5f521bcb39cb10990de7f862a56f38b64b7"
+  }
+}

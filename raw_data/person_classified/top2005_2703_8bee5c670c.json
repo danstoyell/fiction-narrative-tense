@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:2703",
+  "quotes": [
+    {
+      "quote_id": "q00160",
+      "person_signal": "non_base",
+      "note": "A standalone religious maxim with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00161",
+      "person_signal": "unmarked",
+      "note": "Possible narration or reflection, but the reference to a poet does not identify the narrator's participation."
+    },
+    {
+      "quote_id": "q00162",
+      "person_signal": "non_base",
+      "note": "An attributed Wordsworth epigraph, not base narration."
+    },
+    {
+      "quote_id": "q00163",
+      "person_signal": "non_base",
+      "note": "A prayer spoken by characters; its first- and second-person pronouns are local to the prayer."
+    },
+    {
+      "quote_id": "q00164",
+      "person_signal": "non_base",
+      "note": "A general aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00165",
+      "person_signal": "unmarked",
+      "note": "The brief 'he penned' attribution is possible base narration but insufficient by itself; the remainder is an embedded quotation."
+    },
+    {
+      "quote_id": "q00166",
+      "person_signal": "non_base",
+      "note": "The publisher excerpt confirms that Father Tim speaks this first-person statement; the event bucket appears to be an upstream issue."
+    },
+    {
+      "quote_id": "q00167",
+      "person_signal": "non_base",
+      "note": "An aphoristic heading or maxim, not narrative evidence."
+    },
+    {
+      "quote_id": "q00168",
+      "person_signal": "non_base",
+      "note": "The inclusive 'we' is universal religious counsel, not a participating story narrator."
+    },
+    {
+      "quote_id": "q00169",
+      "person_signal": "non_base",
+      "note": "The inclusive 'we' belongs to a general religious observation, not base narration."
+    },
+    {
+      "quote_id": "q00170",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing another person; 'me' and 'you' do not identify the narrator."
+    },
+    {
+      "quote_id": "q00171",
+      "person_signal": "non_base",
+      "note": "Generic imperative advice, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00172",
+      "person_signal": "unmarked",
+      "note": "A single externally described action with 'he' is too short to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00173",
+      "person_signal": "unmarked",
+      "note": "The quoted sermon is non-base; the lone external speech beat 'he told' is insufficient by itself."
+    },
+    {
+      "quote_id": "q00174",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first-person language is local dialogue."
+    },
+    {
+      "quote_id": "q00175",
+      "person_signal": "third",
+      "note": "Across multiple dialogue turns, external narration describes two characters as 'he,' 'she,' and 'they,' including their actions and setting."
+    },
+    {
+      "quote_id": "q00176",
+      "person_signal": "third",
+      "note": "Sustained external action and dialogue beats narrate Cynthia and Father Tim as 'she,' 'his,' and 'him' without a participating narrator."
+    },
+    {
+      "quote_id": "q00177",
+      "person_signal": "unmarked",
+      "note": "Character speech is followed only by a minimal 'she said' beat, which is too short to diagnose the base narrator alone."
+    },
+    {
+      "quote_id": "q00178",
+      "person_signal": "unmarked",
+      "note": "The attribution and embedded George MacDonald quotation do not identify whether the base narrator participates."
+    },
+    {
+      "quote_id": "q00179",
+      "person_signal": "unmarked",
+      "note": "The prayer is a character's local first-person voice; the brief third-person attribution 'he prayed' is not independently diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.ca/books/291210/light-from-heaven-by-jan-karon/9780143037705/excerpt",
+      "title": "Excerpt from Light from Heaven | Penguin Random House Canada",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter One excerpt sustains third-person narration of Cynthia and Father Tim, including external action and access to Father Tim's thoughts; it also confirms q00166 is spoken dialogue."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/291210/light-from-heaven-by-jan-karon/9781440632969/readers-guide/",
+      "title": "Light from Heaven Reader's Guide | Penguin Random House",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher's guide describes the novel broadly as seen through Father Tim's eyes and discusses its scenes and characters, but focalization alone does not establish grammatical narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Light from Heaven\" \"Jan Karon\" excerpt and opened the Penguin Random House excerpt plus CBS's publisher-permission republication of the same Chapter One text.",
+    "Searched \"Light from Heaven\" \"Jan Karon\" \"third person\", narrator, and point of view; no credible source explicitly labeled the whole book's grammatical person.",
+    "Searched the title with epistolary, multiple narrators, and alternating narration; found no evidence of sustained first- or second-person base sections.",
+    "Searched for Chapter Two, later chapter titles, and distinctive interior quotations; Google Books exposed bibliographic information and a table of contents but no usable sustained interior prose.",
+    "The CBS excerpt duplicated the publisher's opening rather than extending structural coverage, so it was not counted as independent evidence.",
+    "A retailer-aggregated user review mentioned point-of-view shifts but did not identify a change in grammatical person; it was treated as a focalization comment rather than contrary narrative-person evidence."
+  ],
+  "person_note": "The authorized opening is sustained third-person narration centered mainly on Father Tim, and the later Goodreads passages q00175 and q00176 independently show the same external third-person narrating position. First-person forms elsewhere are prayers, dialogue, or universal maxims; q00166 is explicitly confirmed as Father Tim's speech. Targeted research found no epistolary, second-person, or alternating-person structure. The main limitation is that the authorized online prose is confined to Chapter One, but diagnostic interior quote evidence corroborates it.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_042",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-04T05:27:56.359411+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d1cd577c10726dc992a118b667770a4b01a0aaebfa254f13ba082c46262fdb54"
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:233",
+  "quotes": [
+    {
+      "quote_id": "q03094",
+      "person_signal": "non_base",
+      "note": "Generalizing aphorism; inclusive \u201cwe\u201d does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q03095",
+      "person_signal": "non_base",
+      "note": "Gnomic contrast without a narrating participant."
+    },
+    {
+      "quote_id": "q03096",
+      "person_signal": "non_base",
+      "note": "Character dialogue; its first- and second-person pronouns are local to the speaker."
+    },
+    {
+      "quote_id": "q03097",
+      "person_signal": "non_base",
+      "note": "Universal advice using generic \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03098",
+      "person_signal": "non_base",
+      "note": "Dialogue and a hypothetical generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03099",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect or narratorial observation, but it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q03100",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cwe,\u201d not participating narration."
+    },
+    {
+      "quote_id": "q03101",
+      "person_signal": "unmarked",
+      "note": "Narratorial-sounding reflection with no diagnostic person marker."
+    },
+    {
+      "quote_id": "q03102",
+      "person_signal": "non_base",
+      "note": "Generalized analogy using universal \u201cyou,\u201d not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q03103",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph from Martin Luther King Jr."
+    },
+    {
+      "quote_id": "q03104",
+      "person_signal": "non_base",
+      "note": "Standalone maxim without a story-world narrator."
+    },
+    {
+      "quote_id": "q03105",
+      "person_signal": "non_base",
+      "note": "General proposition using inclusive \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q03106",
+      "person_signal": "third",
+      "note": "Close narration reports an unnamed woman\u2019s wish and uncertainty externally as \u201cshe,\u201d followed by generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03107",
+      "person_signal": "third",
+      "note": "Sustained close-third narration presents the girl\u2019s motive and decision-making; \u201cyou\u201d is generic free-indirect phrasing."
+    },
+    {
+      "quote_id": "q03108",
+      "person_signal": "non_base",
+      "note": "Character dialogue; \u201cwe\u201d and \u201cyou\u201d belong to the speaker\u2019s argument."
+    },
+    {
+      "quote_id": "q03109",
+      "person_signal": "non_base",
+      "note": "Generalized statements about heroes rather than a diagnostic narrative passage."
+    },
+    {
+      "quote_id": "q03110",
+      "person_signal": "third",
+      "note": "Extended close-third passage anchors its interpretation in Louie\u2019s perspective."
+    },
+    {
+      "quote_id": "q03111",
+      "person_signal": "non_base",
+      "note": "Gnomic universal \u201cyou,\u201d not second-person base narration."
+    },
+    {
+      "quote_id": "q03112",
+      "person_signal": "unmarked",
+      "note": "Exposition and rhetorical questions lack a locally identified narrator or focal character."
+    },
+    {
+      "quote_id": "q03113",
+      "person_signal": "third",
+      "note": "The narrator externally identifies what Louie believed."
+    },
+    {
+      "quote_id": "q03114",
+      "person_signal": "unmarked",
+      "note": "A named character\u2019s remembered saying is reported, but the short passage does not independently expose the base narrator."
+    },
+    {
+      "quote_id": "q03115",
+      "person_signal": "non_base",
+      "note": "Olive\u2019s explicitly attributed speech."
+    },
+    {
+      "quote_id": "q03116",
+      "person_signal": "non_base",
+      "note": "General moral argument using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03117",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with universal \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03118",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03119",
+      "person_signal": "non_base",
+      "note": "Generalizing analogy with universal \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03120",
+      "person_signal": "non_base",
+      "note": "Gnomic analogy; its implied \u201cyou\u201d does not identify narrative person."
+    },
+    {
+      "quote_id": "q03121",
+      "person_signal": "third",
+      "note": "Sustained personified description of the Center is confirmed by the authorized excerpt as base third-person narration."
+    },
+    {
+      "quote_id": "q03122",
+      "person_signal": "non_base",
+      "note": "Janine\u2019s explicitly attributed dialogue."
+    },
+    {
+      "quote_id": "q03123",
+      "person_signal": "non_base",
+      "note": "An attributed Martin Luther King Jr. quotation."
+    },
+    {
+      "quote_id": "q03124",
+      "person_signal": "third",
+      "note": "The narrator reports a male character\u2019s response and belief externally as \u201chim,\u201d \u201chis,\u201d and \u201che.\u201d"
+    },
+    {
+      "quote_id": "q03125",
+      "person_signal": "non_base",
+      "note": "General rhetorical question using universal \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03126",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first and second person are local to the speaker."
+    },
+    {
+      "quote_id": "q03127",
+      "person_signal": "non_base",
+      "note": "Dated authorial paratext, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q03128",
+      "person_signal": "unmarked",
+      "note": "Clipped historical exposition followed by a bare \u201che\u201d action does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q03129",
+      "person_signal": "third",
+      "note": "Close-third narration reports the man\u2019s wish and private awareness."
+    },
+    {
+      "quote_id": "q03130",
+      "person_signal": "non_base",
+      "note": "Standalone exhortation using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03131",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03132",
+      "person_signal": "non_base",
+      "note": "A woman\u2019s speech explicitly recalled as something she told Louie."
+    },
+    {
+      "quote_id": "q03133",
+      "person_signal": "third",
+      "note": "The narrator externally presents Wren\u2019s perception with \u201cIt seemed to Wren.\u201d"
+    },
+    {
+      "quote_id": "q03134",
+      "person_signal": "non_base",
+      "note": "Isolated first-person direct thought or speech; whole-book evidence establishes that it is local rather than a first-person base narrator."
+    },
+    {
+      "quote_id": "q03135",
+      "person_signal": "non_base",
+      "note": "Generalized conditional statement without a diagnostic narrator."
+    },
+    {
+      "quote_id": "q03136",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism without a narrator reference."
+    },
+    {
+      "quote_id": "q03137",
+      "person_signal": "unmarked",
+      "note": "Generalized observation about anti-abortion advocates and women does not identify the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q03138",
+      "person_signal": "non_base",
+      "note": "Character dialogue quoting Martin Luther King Jr."
+    },
+    {
+      "quote_id": "q03139",
+      "person_signal": "unclear",
+      "note": "The beginning is clipped and the visible first person belongs to an embedded Leonardo da Vinci quotation."
+    },
+    {
+      "quote_id": "q03140",
+      "person_signal": "non_base",
+      "note": "General rhetorical comparison without story-specific person evidence."
+    },
+    {
+      "quote_id": "q03141",
+      "person_signal": "non_base",
+      "note": "Direct dialogue using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03142",
+      "person_signal": "third",
+      "note": "Close-third narration reports the woman\u2019s decision and motive externally."
+    },
+    {
+      "quote_id": "q03143",
+      "person_signal": "third",
+      "note": "Sustained narration enters Hugh\u2019s memory while referring to Hugh and Bex in third person; the quoted sentence is embedded speech."
+    },
+    {
+      "quote_id": "q03144",
+      "person_signal": "third",
+      "note": "Sustained external scene narration uses \u201che\u201d and \u201cher,\u201d with a clearly delimited speech beat."
+    },
+    {
+      "quote_id": "q03145",
+      "person_signal": "non_base",
+      "note": "General maxim using universal \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03146",
+      "person_signal": "non_base",
+      "note": "A dialogue exchange; its pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q03147",
+      "person_signal": "third",
+      "note": "The narrator externally recounts patients coming to Louie and attributes Louie\u2019s brief reply."
+    },
+    {
+      "quote_id": "q03148",
+      "person_signal": "third",
+      "note": "Close-third narration describes what an unnamed woman could offer George; \u201cyou\u201d occurs only in a generic analogy."
+    },
+    {
+      "quote_id": "q03149",
+      "person_signal": "non_base",
+      "note": "Izzy\u2019s explicitly attributed dialogue."
+    },
+    {
+      "quote_id": "q03150",
+      "person_signal": "unclear",
+      "note": "The supplied line is unanchored, so speech, thought, and narration cannot be separated reliably."
+    },
+    {
+      "quote_id": "q03151",
+      "person_signal": "unmarked",
+      "note": "A brief third-person action beat precedes dialogue, but the beat alone is too slight to establish controlling narrative person."
+    },
+    {
+      "quote_id": "q03152",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both ends; third-person characters are visible, but the local narrative structure is incomplete."
+    },
+    {
+      "quote_id": "q03153",
+      "person_signal": "unmarked",
+      "note": "Unanchored pronouns and generalized commentary do not independently reveal narrator participation."
+    },
+    {
+      "quote_id": "q03154",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic definition of love."
+    },
+    {
+      "quote_id": "q03155",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts George\u2019s experience and directly reports what he wondered."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jodipicoult.com/a-spark-of-light.html",
+      "title": "Jodi Picoult \u00b7 A Spark of Light (2018)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author\u2019s authorized Five P.M. excerpt sustains third-person narration while shifting focalization from Wren to George; the same page identifies ten character viewpoints and the reverse-hour structure."
+    },
+    {
+      "url": "https://parade.com/705895/m-b-roberts/sneak-peek-jodi-picoults-provocative-spark-of-light/",
+      "title": "Sneak Peek: Jodi Picoult\u2019s Provocative Spark of Light",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A Ballantine-authorized excerpt presents Hugh\u2019s actions, thoughts, and hostage negotiation in sustained close third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-a-spark-of-light/styles.html",
+      "title": "Jodi Picoult Writing Styles in A Spark of Light",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis explicitly states that the novel is entirely third person and switches among ten character viewpoints throughout each chapter."
+    },
+    {
+      "url": "https://jodipicoult.com/pdfs/Spark-of-Light-Discussion-Guide.pdf",
+      "title": "A Spark of Light Discussion Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The official guide corroborates the whole-book structure of ten character perspectives and backward unfolding, but does not itself specify grammatical narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cA Spark of Light Jodi Picoult excerpt first chapter,\u201d \u201cpoint of view,\u201d \u201cthird person narration,\u201d and author-site excerpt queries.",
+    "Opened and inspected Jodi Picoult\u2019s authorized Five P.M. excerpt and official discussion material; the prose is sustained close third person across multiple focal characters.",
+    "Opened BookRags\u2019 point-of-view analysis, which explicitly describes the entire novel as third person with ten viewpoints.",
+    "Opened Parade\u2019s permission-reprinted Hugh excerpt, which independently shows sustained interior close-third narration.",
+    "Searched exact and variant third-person/narrator queries for additional scholarly or library evidence; results mostly repeated BookRags or described multiple perspectives without naming grammatical person.",
+    "The Hachette listing advertised an excerpt but exposed no excerpt text to the crawler; a Penguin sample result was for By Any Other Name and was discarded as a false match.",
+    "Searched the exact isolated first-person quote from q03134; no attributable source context surfaced, so it was reconciled as local speech or direct thought using the explicit whole-book evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and consistently uses close third person while rotating among ten focal characters. Numerous supplied event passages expose private thoughts through third-person forms, and authorized opening and interior excerpts independently show the same technique. The reverse chronology and multiple viewpoints therefore do not constitute alternation in narrative person. Generic \u201cyou\u201d passages are aphoristic or free-indirect, while q03134\u2019s isolated \u201cI\u201d is local speech/direct thought rather than a sustained first-person section. A few clipped quotes remain locally unattributable, but the explicit whole-book description and broad third-person prose evidence leave no material book-level uncertainty.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.260489+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "76dfffd192f4acb0ae9ddfbe9f4de19029e2cd46535788d4cffe28d40d8b6a9f"
+  }
+}

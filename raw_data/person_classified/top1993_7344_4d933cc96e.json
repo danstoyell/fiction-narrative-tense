@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1993:7344",
+  "quotes": [
+    {
+      "quote_id": "q03337",
+      "person_signal": "non_base",
+      "note": "Aphorism attributed to General Voloshin; it is not base narration."
+    },
+    {
+      "quote_id": "q03338",
+      "person_signal": "non_base",
+      "note": "Gnomic observation with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q03339",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Sandra's perceptions and thoughts while referring to her and Kelly in third person."
+    },
+    {
+      "quote_id": "q03340",
+      "person_signal": "third",
+      "note": "The direct thought is local, but its external attribution and the surrounding description of Kelly's divided mental state expose third-person base narration."
+    },
+    {
+      "quote_id": "q03341",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q03342",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection on death and memory does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03343",
+      "person_signal": "non_base",
+      "note": "Attributed paratextual poem; its first- and second-person language is not the novel's narrator."
+    },
+    {
+      "quote_id": "q03344",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Kelly and Pam, attributes thoughts to Kelly, and uses dialogue embedded within third-person narration."
+    },
+    {
+      "quote_id": "q03345",
+      "person_signal": "unmarked",
+      "note": "A single third-person character description is compatible with multiple narrating arrangements and is insufficient by itself."
+    },
+    {
+      "quote_id": "q03346",
+      "person_signal": "non_base",
+      "note": "Predominantly clipped character dialogue; its pronouns do not diagnose base narration."
+    },
+    {
+      "quote_id": "q03347",
+      "person_signal": "third",
+      "note": "Extended narratorial comparison externally describes Sandy's and Kelly's separate communities and purposes."
+    },
+    {
+      "quote_id": "q03348",
+      "person_signal": "non_base",
+      "note": "Generalized observation about secrecy rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q03349",
+      "person_signal": "third",
+      "note": "Sustained external scene narration reports Kelly's suspicions, actions, and reactions in third person."
+    },
+    {
+      "quote_id": "q03350",
+      "person_signal": "non_base",
+      "note": "Unattributed direct speech; first- and second-person pronouns belong to a character voice."
+    },
+    {
+      "quote_id": "q03351",
+      "person_signal": "non_base",
+      "note": "Universal philosophical questions about memory and life are gnomic, not story-specific narration."
+    },
+    {
+      "quote_id": "q03352",
+      "person_signal": "non_base",
+      "note": "Aphoristic generalization with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q03353",
+      "person_signal": "third",
+      "note": "Sustained external narration moves through the two officers' shared view and Freeland's private realization."
+    },
+    {
+      "quote_id": "q03354",
+      "person_signal": "third",
+      "note": "Kelly's thought is explicitly attributed within sustained third-person narration of his recent movements and adjustment."
+    },
+    {
+      "quote_id": "q03355",
+      "person_signal": "non_base",
+      "note": "General maxim about abuse rather than base-person evidence."
+    },
+    {
+      "quote_id": "q03356",
+      "person_signal": "third",
+      "note": "External narration presents Kelly's social observations and repeatedly attributes private thoughts to him in third person."
+    },
+    {
+      "quote_id": "q03357",
+      "person_signal": "unmarked",
+      "note": "The short, clipped thought attribution to Kelly does not provide enough local context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03358",
+      "person_signal": "non_base",
+      "note": "Generic second-person safety maxim, not sustained narration of a story-specific 'you'."
+    },
+    {
+      "quote_id": "q03359",
+      "person_signal": "unmarked",
+      "note": "A lone sentence with third-person pronouns does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q03360",
+      "person_signal": "non_base",
+      "note": "Character speech containing first and second person, not base narration."
+    },
+    {
+      "quote_id": "q03361",
+      "person_signal": "unmarked",
+      "note": "A brief narratorial statement about Kelly uses third person but lacks enough local context to diagnose the controlling voice by itself."
+    },
+    {
+      "quote_id": "q03362",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic metaphor about tears; it does not identify narrative person."
+    },
+    {
+      "quote_id": "q03363",
+      "person_signal": "non_base",
+      "note": "General moral maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q03364",
+      "person_signal": "unmarked",
+      "note": "Impersonal narrative fragments contain no participating narrator or story-specific addressee."
+    },
+    {
+      "quote_id": "q03365",
+      "person_signal": "non_base",
+      "note": "General reflection on causation and the past does not expose the base narrator."
+    },
+    {
+      "quote_id": "q03366",
+      "person_signal": "unclear",
+      "note": "A clipped dependent fragment naming Mark Charon has insufficient structure for person attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.ca/books/294212/without-remorse-by-tom-clancy/9780425143322/excerpt",
+      "title": "Excerpt from Without Remorse | Penguin Random House Canada",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized prologue excerpt externally narrates several separated characters, including Kelly, Tish, Pam, Zacharias, and others, and reports their private thoughts in third person."
+    },
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780593199923",
+      "title": "Without Remorse (Movie Tie-In) | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter 1 excerpt sustains third-person narration around Kelly and Pam, with Kelly's free-direct thoughts clearly embedded in an external narrative voice."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-without-remorse/style.html",
+      "title": "Tom Clancy Writing Styles in Without Remorse",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the whole novel as third-person omniscient, with access to multiple characters' thoughts and events beyond the protagonist's presence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Without Remorse Tom Clancy excerpt first chapter\" and opened authorized Penguin Random House excerpts for the prologue and Chapter 1.",
+    "Searched \"Without Remorse Tom Clancy third person point of view narrator\" and opened the BookRags point-of-view analysis.",
+    "Searched \"Without Remorse Tom Clancy preview excerpt John Kelly\" and \"site:penguinrandomhouse.com Without Remorse Tom Clancy excerpt\" to locate publisher-controlled prose rather than synopsis grammar.",
+    "Searched targeted combinations for \"third person,\" \"omniscient,\" \"alternating narrator,\" and \"epistolary\"; found corroboration for third-person omniscience and no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator with access to multiple characters' inner states. The strongest quote passages narrate substantial scenes through Sandra, Kelly, Freeland, and other characters, while first- or second-person wording appears only in dialogue, direct thought, paratext, or universal maxims. Authorized prologue and Chapter 1 excerpts independently show the same third-person structure, and the whole-book study guide explicitly identifies third-person omniscience. No evidence indicates an epistolary frame or sustained person alternation. The main limitation is that the authorized web excerpts cover the opening rather than the complete novel, but the numerous interior quote passages and whole-book structural description close that gap.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_028",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:20:06.208258+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fd9fba62832aac8463397ce899568eb76e4c65ff4c4c6de40eff7a5220761739"
+  }
+}

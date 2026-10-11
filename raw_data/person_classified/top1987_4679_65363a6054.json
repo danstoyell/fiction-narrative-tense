@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1987:4679",
+  "quotes": [
+    {
+      "quote_id": "q02879",
+      "person_signal": "third",
+      "note": "The narrator refers to Sherman externally and reports his discovery about his father."
+    },
+    {
+      "quote_id": "q02880",
+      "person_signal": "non_base",
+      "note": "A generic second-person aphorism, not story-specific narration."
+    },
+    {
+      "quote_id": "q02881",
+      "person_signal": "non_base",
+      "note": "A standalone gnomic definition with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q02882",
+      "person_signal": "third",
+      "note": "Sustained external narration of a male character's perceptions and thoughts uses he."
+    },
+    {
+      "quote_id": "q02883",
+      "person_signal": "non_base",
+      "note": "Sir Gerald's first-person language occurs entirely within direct speech."
+    },
+    {
+      "quote_id": "q02884",
+      "person_signal": "third",
+      "note": "The narrator externally reports an Englishman's beliefs and generalized outlook."
+    },
+    {
+      "quote_id": "q02885",
+      "person_signal": "unmarked",
+      "note": "This isolated generalized observation does not identify the narrator's participation."
+    },
+    {
+      "quote_id": "q02886",
+      "person_signal": "unmarked",
+      "note": "Generic one and an unidentified perspective leave the base narrator unexposed."
+    },
+    {
+      "quote_id": "q02887",
+      "person_signal": "third",
+      "note": "The passage externally describes a man's mental suffering using he."
+    },
+    {
+      "quote_id": "q02888",
+      "person_signal": "third",
+      "note": "The narrator reports what remained in Sherman's mind; you is generic within that thought."
+    },
+    {
+      "quote_id": "q02889",
+      "person_signal": "third",
+      "note": "External narration enters Kramer's thoughts and distinguishes him from the other characters."
+    },
+    {
+      "quote_id": "q02890",
+      "person_signal": "non_base",
+      "note": "This is explicitly attributed direct thought by Sherman, not the base narrator."
+    },
+    {
+      "quote_id": "q02891",
+      "person_signal": "third",
+      "note": "The narrator describes Sherman and the hostesses externally across a sustained passage."
+    },
+    {
+      "quote_id": "q02892",
+      "person_signal": "unmarked",
+      "note": "The clipped passage lacks an identified referent or enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q02893",
+      "person_signal": "unmarked",
+      "note": "The passage is largely generalized commentary; its you is generic rather than second-person story narration."
+    },
+    {
+      "quote_id": "q02894",
+      "person_signal": "third",
+      "note": "Sustained present-tense narration treats the Mayor as him and reports what takes over his mind."
+    },
+    {
+      "quote_id": "q02895",
+      "person_signal": "unmarked",
+      "note": "A bare sentence about third-person subjects is insufficient to identify the base narrator."
+    },
+    {
+      "quote_id": "q02896",
+      "person_signal": "unmarked",
+      "note": "The decontextualized they does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q02897",
+      "person_signal": "third",
+      "note": "Sustained narration follows Sherman externally while rendering his self-justifying thoughts in free-indirect style."
+    },
+    {
+      "quote_id": "q02898",
+      "person_signal": "non_base",
+      "note": "A standalone legal maxim supplies no base-narrator evidence."
+    },
+    {
+      "quote_id": "q02899",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Sherman; the first-person sentences are his explicitly contextualized direct thoughts."
+    },
+    {
+      "quote_id": "q02900",
+      "person_signal": "unmarked",
+      "note": "A single unidentified he-description is insufficient by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q02901",
+      "person_signal": "third",
+      "note": "The narrator renders a group's relief and social judgment externally through they and their."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781429960564/thebonfireofthevanities/",
+      "title": "The Bonfire of the Vanities",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized prologue sustains third-person narration of the Mayor, moving between external action and his thoughts; visible first-person language is localized as thought or speech."
+    },
+    {
+      "url": "https://rauli.cbs.dk/index.php/assc/article/download/5159/5581/19557",
+      "title": "Wealth and Virtue: Utopian Republicanism in Tom Wolfe\u2019s The Bonfire of the Vanities",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The peer-reviewed analysis describes all 31 chapters and the epilogue as told by an extradiegetic, heterodiegetic narrator who moves among distinct character focalizers."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-bonfire-of-the-vanities/style.html",
+      "title": "Tom Wolfe Writing Styles in The Bonfire of the Vanities",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The explicit point-of-view discussion identifies a third-person omniscient narrator focalized primarily through Sherman McCoy, Kramer, and Peter Fallow."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Bonfire of the Vanities Tom Wolfe excerpt first chapter publisher\" and opened Macmillan's authorized prologue; Google Books supplied mainly catalog copy and a table of contents, so it was not used as person evidence.",
+    "Searched \"The Bonfire of the Vanities point of view third person narrator scholarly\" and \"The Bonfire of the Vanities heterodiegetic narrator\"; opened the journal PDF and the explicit BookRags point-of-view page.",
+    "Searched the title with \"first-person\", \"alternating point of view\", \"narrator\", and \"free indirect discourse\"; found no credible evidence of sustained first- or second-person base sections. Some results concerned the film's Peter Fallow voice-over or embedded character thoughts rather than the novel's base narrator.",
+    "Checked Google Books, the Paris Review author interview, and an unauthorized excerpt compilation as discovery material; they did not add stronger whole-book person evidence than the publisher excerpt and structural scholarship."
+  ],
+  "person_note": "The diagnostic quotes repeatedly show a nonparticipating narrator describing Sherman, Kramer, the Mayor, and other characters while entering their thoughts through free-indirect discourse. First-person forms occur in direct speech or explicitly localized thought, and generic you passages are not sustained second-person narration. The authorized opening independently demonstrates this third-person technique, while peer-reviewed whole-book analysis identifies an extradiegetic, heterodiegetic narrator moving among focalizers; an explicit study guide corroborates third-person omniscience. The clipped and popularity-selected nature of several quotes is the main evidence limitation, but the whole-book structural source resolves it, and no credible alternating-person evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_025",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:26:19.335679+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0a75be3e5886524465b3e574b570787a98e263c39c24bd383e6a5811f3ba141e"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:ONYX STORM|Rebecca Yarros",
+  "quotes": [
+    {
+      "quote_id": "q09638",
+      "person_signal": "non_base",
+      "note": "Dedication addressed to readers; front matter, not story narration."
+    },
+    {
+      "quote_id": "q09639",
+      "person_signal": "first",
+      "note": "Outside the dialogue, Violet narrates her own actions as \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q09640",
+      "person_signal": "non_base",
+      "note": "Direct-address romantic speech with no exposed narratorial frame."
+    },
+    {
+      "quote_id": "q09641",
+      "person_signal": "non_base",
+      "note": "Spoken complaint; the punch interjections do not establish narrative person."
+    },
+    {
+      "quote_id": "q09642",
+      "person_signal": "first",
+      "note": "The narratorial beat says Ridoc offers \u201cme\u201d a thumbs-up, exposing a participating narrator."
+    },
+    {
+      "quote_id": "q09643",
+      "person_signal": "non_base",
+      "note": "A character\u2019s taunt to an addressee, with no narratorial text."
+    },
+    {
+      "quote_id": "q09644",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, while the third-person speech tag alone does not identify narrator participation."
+    },
+    {
+      "quote_id": "q09645",
+      "person_signal": "unmarked",
+      "note": "Possible interior narration, but the bare third-person referent \u201cShe\u201d does not determine narrator person."
+    },
+    {
+      "quote_id": "q09646",
+      "person_signal": "first",
+      "note": "The narratorial beat describes him cradling \u201cmy face,\u201d exposing the participating narrator."
+    },
+    {
+      "quote_id": "q09647",
+      "person_signal": "first",
+      "note": "The dialogue tag \u201cI whisper\u201d directly exposes first-person base narration."
+    },
+    {
+      "quote_id": "q09648",
+      "person_signal": "unclear",
+      "note": "The clipped sentence could be narration or unmarked dialogue, so its \u201cWe\u201d cannot be safely attributed."
+    },
+    {
+      "quote_id": "q09649",
+      "person_signal": "first",
+      "note": "Narratorial beats use \u201cme\u201d and \u201cI reply,\u201d identifying the participating narrator amid dialogue."
+    },
+    {
+      "quote_id": "q09650",
+      "person_signal": "non_base",
+      "note": "Direct-address family dialogue without an exposed narratorial frame."
+    },
+    {
+      "quote_id": "q09651",
+      "person_signal": "first",
+      "note": "The scene narration describes the man staring down at \u201cme,\u201d establishing narrator participation."
+    },
+    {
+      "quote_id": "q09652",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the third-person tag does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q09653",
+      "person_signal": "non_base",
+      "note": "Romantic speech plus an unmarked third-person action beat; no diagnostic narrator pronoun appears."
+    },
+    {
+      "quote_id": "q09654",
+      "person_signal": "unclear",
+      "note": "The final unquoted \u201cI\u201d may be immediate interior narration, but the excerpt is dominated by another character\u2019s speech and lacks enough boundary context for secure attribution."
+    },
+    {
+      "quote_id": "q09655",
+      "person_signal": "non_base",
+      "note": "Ridoc\u2019s quoted speech; the third-person speech tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q09656",
+      "person_signal": "non_base",
+      "note": "A multi-speaker exchange whose brief third-person tag does not identify the narrator."
+    },
+    {
+      "quote_id": "q09657",
+      "person_signal": "first",
+      "note": "The action beat places Xaden\u2019s hand on \u201cmy neck,\u201d exposing a participating narrator."
+    },
+    {
+      "quote_id": "q09658",
+      "person_signal": "non_base",
+      "note": "Standalone spoken declaration to a group, without narratorial framing."
+    },
+    {
+      "quote_id": "q09659",
+      "person_signal": "first",
+      "note": "The narratorial tag locates Aaric behind \u201cus,\u201d identifying the narrator as a scene participant."
+    },
+    {
+      "quote_id": "q09660",
+      "person_signal": "first",
+      "note": "Unquoted event/interior narration explicitly uses \u201cI\u201d for the participating narrator."
+    },
+    {
+      "quote_id": "q09661",
+      "person_signal": "unclear",
+      "note": "The passage may be narratorial reflection or reassurance spoken to another character; quotation boundaries are unavailable."
+    },
+    {
+      "quote_id": "q09662",
+      "person_signal": "first",
+      "note": "The explicit tag \u201cI tell Tairn\u201d identifies the participating narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.cosmopolitan.com/entertainment/books/a62852656/rebecca-yarros-onyx-storm-excerpt/",
+      "title": "Rebecca Yarros\u2019s \u2018Onyx Storm\u2019 Is Hotter Than Dragon Fire",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The publisher-attributed exclusive excerpt sustains Violet\u2019s participating \u201cI\u201d narration across an action scene and contains the same passage as quote q09651."
+    },
+    {
+      "url": "https://cdn.palmknihy.cz/prod-media-assets/01JRDKYTT1KT6JXDSTB9KMS66B/book_419854.pdf",
+      "title": "Onyxov\u00e1 bou\u0159e \u2014 licensed Czech ebook preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A licensed 63-page preview, published by arrangement with Entangled, presents the prologue and opening chapters through Violet\u2019s sustained participating first-person narration."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/onyx-storm/summary/",
+      "title": "Onyx Storm: Full Book Summary",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Whole-book structural coverage identifies Violet as the prevailing viewpoint and maps brief late shifts to Rhiannon, Imogen, and Xaden before returning to Violet; these are character-narrator POV sections, not a nonparticipating third-person strand."
+    },
+    {
+      "url": "https://www.audible.com/blog/article-onyx-storm-ending-explained",
+      "title": "The ending of Onyx Storm, explained",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Audible\u2019s completed-book discussion identifies Violet and Xaden\u2019s perspectives and the late chapters narrated from Imogen\u2019s and Rhiannon\u2019s perspectives, corroborating multiple participating narrators rather than a change to third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cOnyx Storm Rebecca Yarros official excerpt first chapter\u201d and \u201csite:rebeccayarros.com Onyx Storm excerpt\u201d; found and opened Cosmopolitan\u2019s publisher-attributed excerpt and a licensed translated preview.",
+    "Searched \u201cOnyx Storm point of view first person multiple POV narrator\u201d and \u201cOnyx Storm Rebecca Yarros excerpt chapter Violet Xaden POV\u201d; results established sustained Violet narration and prompted follow-up on late-book POV changes.",
+    "Searched \u201cOnyx Storm first-person Violet Xaden narration,\u201d \u201cOnyx Storm first person perspective,\u201d and \u201cOnyx Storm Xaden\u2019s POV chapter 66\u201d; opened the SparkNotes whole-book structure and a review, but the review\u2019s explicit first-person remark referred primarily to the preceding volume and was not used as evidence.",
+    "Searched \u201cOnyx Storm chapter 63 Rhiannon POV,\u201d \u201cchapter 64 Imogen POV excerpt,\u201d \u201cchapter 65 Xaden POV excerpt first person,\u201d and \u201cmultiple POV first person Rhiannon Imogen Xaden\u201d; opened Audible and SparkNotes structural accounts confirming the late narrator changes.",
+    "Author-site/fan read-along pages were inaccessible or secondary, and unauthorized full-text copies were excluded from the evidence list."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly expose Violet as a participating present-tense \u201cI\u201d narrator, and the authorized sustained excerpt independently confirms that voice. Whole-book structural sources report brief late chapters from Rhiannon, Imogen, and Xaden, but these are additional participating character narrators and therefore remain FIRST under the methodology rather than ALTERNATING. Pure speech, dedication material, and boundary-damaged snippets were not allowed to vote. The principal limitation is that the Tier A prose has opening/section rather than whole-book scope, but the Tier B/C structural coverage resolves the late POV changes with no evidence of sustained second- or third-person narration.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_090",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:06:51.908892+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c6ca6976565b5fa6253674577bb3b3967cf320cb983fd103371fcf4aeeeccf56"
+  }
+}

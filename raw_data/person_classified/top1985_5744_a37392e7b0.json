@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1985:5744",
+  "quotes": [
+    {
+      "quote_id": "q02693",
+      "person_signal": "third",
+      "note": "Base narration externally renders both characters' desires and mutual misunderstanding without a participating narrator."
+    },
+    {
+      "quote_id": "q02694",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection on art does not expose the narrative person."
+    },
+    {
+      "quote_id": "q02695",
+      "person_signal": "non_base",
+      "note": "Direct speech; its second-person address does not identify the narrator."
+    },
+    {
+      "quote_id": "q02696",
+      "person_signal": "non_base",
+      "note": "Universal gnomic statement rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02697",
+      "person_signal": "third",
+      "note": "Sustained external narration presents the inner feelings of she and he from a nonparticipating position."
+    },
+    {
+      "quote_id": "q02698",
+      "person_signal": "non_base",
+      "note": "Quoted character speech; the named characters do not establish narrator person."
+    },
+    {
+      "quote_id": "q02699",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment with no diagnostic base-narrator signal."
+    },
+    {
+      "quote_id": "q02700",
+      "person_signal": "non_base",
+      "note": "Direct speech dominates; the bare third-person speech tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02701",
+      "person_signal": "third",
+      "note": "Sustained external exposition explains a character's people's beliefs in the established third-person base voice."
+    },
+    {
+      "quote_id": "q02702",
+      "person_signal": "non_base",
+      "note": "Direct speech, including its I and we pronouns, does not identify base narration."
+    },
+    {
+      "quote_id": "q02703",
+      "person_signal": "non_base",
+      "note": "Fragmented exchange of direct speech; the bare Ayla speech tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q02704",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment rather than character-specific narration."
+    },
+    {
+      "quote_id": "q02705",
+      "person_signal": "unclear",
+      "note": "Severe clipping at both syntactic boundaries prevents reliable attribution."
+    },
+    {
+      "quote_id": "q02706",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but a single he-subject sentence does not by itself establish narrator participation."
+    },
+    {
+      "quote_id": "q02707",
+      "person_signal": "unclear",
+      "note": "Mid-scene fragment is clipped at both ends, leaving its local narrative structure unresolved."
+    },
+    {
+      "quote_id": "q02708",
+      "person_signal": "non_base",
+      "note": "General social maxim, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q02709",
+      "person_signal": "non_base",
+      "note": "Direct speech; first- and second-person pronouns belong to a character."
+    },
+    {
+      "quote_id": "q02710",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the isolated he-subject sentence is insufficient to establish person."
+    },
+    {
+      "quote_id": "q02711",
+      "person_signal": "third",
+      "note": "Extended external narration reports what the Shamud told him and explains the character's gift and obligation."
+    },
+    {
+      "quote_id": "q02712",
+      "person_signal": "non_base",
+      "note": "Universal gnomic assertion with no diagnostic narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cincinnatistate.ecampus.com/mammoth-hunters-auel-jean-m/bk/9780609610992",
+      "title": "The Mammoth Hunters",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained, permission-displayed Chapter 1 excerpt narrates Ayla, Jondalar, Talut, and others externally while moving among their perceptions and thoughts; no participating narrator frames the scene."
+    },
+    {
+      "url": "https://mark-patton.blogspot.com/2011/07/tone-and-language-in-fictionalised_29.html",
+      "title": "Tone and Language in Fictionalised Prehistory (Part 2)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The comparative analysis explicitly identifies Auel's narration as third person and explains that its focal perspective moves among Ayla, Jondalar, and encountered characters."
+    },
+    {
+      "url": "https://www.enotes.com/topics/mammoth-hunters/in-depth",
+      "title": "The Mammoth Hunters Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The style analysis describes shifts into Talut's and Latie's thoughts and a narrator who steps outside the action for explanatory lectures, corroborating a nonparticipating third-person narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Mammoth Hunters\" Jean M. Auel with excerpt, first chapter, and read-sample terms; opened the sustained eCampus Chapter 1 excerpt and publisher product pages.",
+    "Searched the title with point of view, third person, narrator, multiple narrators, and alternating-perspective terms; opened Mark Patton's explicit structural discussion and the eNotes style analysis.",
+    "Checked Penguin Random House and Hachette pages; their accessible text supplied descriptions or Look Inside controls but not an additional readable sustained sample.",
+    "Checked Google Books and Open Library editions and search-inside leads; accessible material was limited to metadata, an opening line, selected pages, or word-cloud terms and was not used as independent person evidence.",
+    "Excluded unauthorized full-text mirrors and plot-summary grammar from the evidence assessment."
+  ],
+  "person_note": "The diagnostic Goodreads passages consistently use a nonparticipating external voice, while dialogue and gnomic quotations contain only local or nondiagnostic pronouns. The authorized opening independently shows sustained third-person narration, and whole-book analyses explain that the narration shifts focal perspective among several characters while remaining third person. Those perspective shifts are focalization, not alternating grammatical person, and no evidence indicates sustained first- or second-person base sections. The main limitation is that the authorized prose source covers only the opening, but the interior quote sample and explicit whole-book structural evidence resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_024",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T15:39:25.052766+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "92a652c4df11d986346518e2df2784aa442cf620bc28ff422f930c75ef0d4dba"
+  }
+}

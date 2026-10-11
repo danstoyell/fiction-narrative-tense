@@ -1,0 +1,542 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:5611",
+  "quotes": [
+    {
+      "quote_id": "q01916",
+      "person_signal": "non_base",
+      "note": "Universal gnomic second person does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q01917",
+      "person_signal": "non_base",
+      "note": "Character dialogue; first- and second-person pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q01918",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not base narration."
+    },
+    {
+      "quote_id": "q01919",
+      "person_signal": "third",
+      "note": "Narration reports a male character's realization as he, exposing close third-person narration."
+    },
+    {
+      "quote_id": "q01920",
+      "person_signal": "non_base",
+      "note": "Person-neutral maxim classified upstream as gnomic."
+    },
+    {
+      "quote_id": "q01921",
+      "person_signal": "non_base",
+      "note": "Dialogue containing direct address and universal you."
+    },
+    {
+      "quote_id": "q01922",
+      "person_signal": "non_base",
+      "note": "Universal-you maxim, not sustained story-specific second person."
+    },
+    {
+      "quote_id": "q01923",
+      "person_signal": "non_base",
+      "note": "Extended character dialogue; its pronouns identify speakers and addressees only."
+    },
+    {
+      "quote_id": "q01924",
+      "person_signal": "non_base",
+      "note": "Universal-you moral maxim."
+    },
+    {
+      "quote_id": "q01925",
+      "person_signal": "third",
+      "note": "Sustained narration refers to the focal character as he and enters his knowledge and wonder."
+    },
+    {
+      "quote_id": "q01926",
+      "person_signal": "unmarked",
+      "note": "Bare third-person characterization is too short to establish the narrating position."
+    },
+    {
+      "quote_id": "q01927",
+      "person_signal": "non_base",
+      "note": "General reflection classified as gnomic, without a controlling narrator."
+    },
+    {
+      "quote_id": "q01928",
+      "person_signal": "unmarked",
+      "note": "A bare he statement does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q01929",
+      "person_signal": "unmarked",
+      "note": "Person-neutral narration provides no diagnostic pronouns or narrating position."
+    },
+    {
+      "quote_id": "q01930",
+      "person_signal": "unmarked",
+      "note": "Third-person referents appear, but the isolated sentence does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01931",
+      "person_signal": "non_base",
+      "note": "First-person statement occurs in character dialogue."
+    },
+    {
+      "quote_id": "q01932",
+      "person_signal": "non_base",
+      "note": "Dialogue uses direct and universal address, not second-person base narration."
+    },
+    {
+      "quote_id": "q01933",
+      "person_signal": "non_base",
+      "note": "Character banter with an external speech beat; the visible I and you forms are spoken."
+    },
+    {
+      "quote_id": "q01934",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q01935",
+      "person_signal": "non_base",
+      "note": "Gnomic we reflection does not expose a participating narrator."
+    },
+    {
+      "quote_id": "q01936",
+      "person_signal": "non_base",
+      "note": "Promotional paratext rather than narrative prose."
+    },
+    {
+      "quote_id": "q01937",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, this is a character's first-person quip or direct thought, not controlling narration."
+    },
+    {
+      "quote_id": "q01938",
+      "person_signal": "unmarked",
+      "note": "Generalized statement contains no diagnostic narratorial position."
+    },
+    {
+      "quote_id": "q01939",
+      "person_signal": "non_base",
+      "note": "First-person opinion presented as dialogue."
+    },
+    {
+      "quote_id": "q01940",
+      "person_signal": "third",
+      "note": "Close narration calls the focal character he while reporting his understanding and felt experience."
+    },
+    {
+      "quote_id": "q01941",
+      "person_signal": "non_base",
+      "note": "First-person recollection occurs in dialogue."
+    },
+    {
+      "quote_id": "q01942",
+      "person_signal": "unmarked",
+      "note": "Person-neutral generalized observation."
+    },
+    {
+      "quote_id": "q01943",
+      "person_signal": "third",
+      "note": "Narration refers to the focal character as he and reports what he admitted internally."
+    },
+    {
+      "quote_id": "q01944",
+      "person_signal": "non_base",
+      "note": "Character dialogue with brief nondiagnostic speech beats."
+    },
+    {
+      "quote_id": "q01945",
+      "person_signal": "non_base",
+      "note": "Conversation about another book, not narration of this novel."
+    },
+    {
+      "quote_id": "q01946",
+      "person_signal": "third",
+      "note": "The narrator reports a male focal character's understanding as he."
+    },
+    {
+      "quote_id": "q01947",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur entirely in character speech."
+    },
+    {
+      "quote_id": "q01948",
+      "person_signal": "third",
+      "note": "Extended close narration presents a female focal character as she and renders her rhetorical thinking."
+    },
+    {
+      "quote_id": "q01949",
+      "person_signal": "third",
+      "note": "Sustained narration calls the focal character he and gives direct access to his attitudes and habitual questions."
+    },
+    {
+      "quote_id": "q01950",
+      "person_signal": "non_base",
+      "note": "Universal-you maxim classified as gnomic."
+    },
+    {
+      "quote_id": "q01951",
+      "person_signal": "third",
+      "note": "Close third-person narration presents a male character's former belief, suspicion, and realization."
+    },
+    {
+      "quote_id": "q01952",
+      "person_signal": "unmarked",
+      "note": "Person-neutral aphoristic fragment does not expose narrator participation."
+    },
+    {
+      "quote_id": "q01953",
+      "person_signal": "third",
+      "note": "Narration refers to the focal character as he and reports his assessment of another character's impressions."
+    },
+    {
+      "quote_id": "q01954",
+      "person_signal": "unmarked",
+      "note": "Universal you appears in a generalized assertion, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01955",
+      "person_signal": "non_base",
+      "note": "Dialogue with short external speech beats; the quoted exchange is nondiagnostic."
+    },
+    {
+      "quote_id": "q01956",
+      "person_signal": "third",
+      "note": "Outside the embedded speech, narration identifies Steve in third person and reports his conclusion."
+    },
+    {
+      "quote_id": "q01957",
+      "person_signal": "non_base",
+      "note": "Character dialogue only."
+    },
+    {
+      "quote_id": "q01958",
+      "person_signal": "third",
+      "note": "Narration presents a female focal character as she and reports how she felt about her past self."
+    },
+    {
+      "quote_id": "q01959",
+      "person_signal": "third",
+      "note": "Close narration calls the focal character he and renders his supposition about the beach."
+    },
+    {
+      "quote_id": "q01960",
+      "person_signal": "unmarked",
+      "note": "Brief external characterization of Ashley does not alone establish narrator person."
+    },
+    {
+      "quote_id": "q01961",
+      "person_signal": "non_base",
+      "note": "Medical advice in dialogue; you addresses another character."
+    },
+    {
+      "quote_id": "q01962",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents her actions, love, knowledge, and perceptions in close third person."
+    },
+    {
+      "quote_id": "q01963",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms are spoken dialogue."
+    },
+    {
+      "quote_id": "q01964",
+      "person_signal": "third",
+      "note": "Narration calls the focal character he and reports both his desire and inability to avoid a feeling."
+    },
+    {
+      "quote_id": "q01965",
+      "person_signal": "unmarked",
+      "note": "Short free-indirect-sounding thought lacks enough context to establish narrator person by itself."
+    },
+    {
+      "quote_id": "q01966",
+      "person_signal": "unmarked",
+      "note": "Person-neutral rhetorical reflection does not identify the narrator."
+    },
+    {
+      "quote_id": "q01967",
+      "person_signal": "non_base",
+      "note": "First-person declaration and direct address occur in dialogue."
+    },
+    {
+      "quote_id": "q01968",
+      "person_signal": "non_base",
+      "note": "Gnomic we refers generally to people, not to a participating narrator."
+    },
+    {
+      "quote_id": "q01969",
+      "person_signal": "third",
+      "note": "The narratorial beat refers to the focal perceiver as he and reports what he could see."
+    },
+    {
+      "quote_id": "q01970",
+      "person_signal": "third",
+      "note": "Sustained scene narration repeatedly calls the focal character he and includes his desire and sensations."
+    },
+    {
+      "quote_id": "q01971",
+      "person_signal": "non_base",
+      "note": "General maxim classified as gnomic."
+    },
+    {
+      "quote_id": "q01972",
+      "person_signal": "non_base",
+      "note": "First-person words are character dialogue followed by a speech attribution."
+    },
+    {
+      "quote_id": "q01973",
+      "person_signal": "unmarked",
+      "note": "The local narration describes externally observable actions or speech beats but does not identify narrator participation; compatible with first- or third-person base narration."
+    },
+    {
+      "quote_id": "q01974",
+      "person_signal": "non_base",
+      "note": "Fragmentary gnomic characterization is not base-person evidence."
+    },
+    {
+      "quote_id": "q01975",
+      "person_signal": "third",
+      "note": "Narratorial beats call the focal character she and report her surprise and realization; spoken I remains local dialogue."
+    },
+    {
+      "quote_id": "q01976",
+      "person_signal": "third",
+      "note": "Sustained narration depicts Will and the female focal character externally while entering her response and realization."
+    },
+    {
+      "quote_id": "q01977",
+      "person_signal": "non_base",
+      "note": "Script-like labeled dialogue; all person forms belong to Ronnie and Will."
+    },
+    {
+      "quote_id": "q01978",
+      "person_signal": "third",
+      "note": "Close third-person narration presents her memories, perceptions, and conflicting emotions."
+    },
+    {
+      "quote_id": "q01979",
+      "person_signal": "non_base",
+      "note": "First-person declaration is dialogue with a brief attribution."
+    },
+    {
+      "quote_id": "q01980",
+      "person_signal": "third",
+      "note": "Narration calls the focal character she and reports her inability to process what she sees."
+    },
+    {
+      "quote_id": "q01981",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue."
+    },
+    {
+      "quote_id": "q01982",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01983",
+      "person_signal": "third",
+      "note": "Narration identifies the focal character as he and explicitly reports his thought and imagining."
+    },
+    {
+      "quote_id": "q01984",
+      "person_signal": "non_base",
+      "note": "First-person address is an isolated character utterance or local voice, not base narration."
+    },
+    {
+      "quote_id": "q01985",
+      "person_signal": "unmarked",
+      "note": "The local narration describes externally observable actions or speech beats but does not identify narrator participation; compatible with first- or third-person base narration."
+    },
+    {
+      "quote_id": "q01986",
+      "person_signal": "unclear",
+      "note": "Clipped subordinate fragment lacks its governing character and quotation context."
+    },
+    {
+      "quote_id": "q01987",
+      "person_signal": "non_base",
+      "note": "Direct-address character dialogue."
+    },
+    {
+      "quote_id": "q01988",
+      "person_signal": "non_base",
+      "note": "Biblical quotation in paratext, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q01989",
+      "person_signal": "non_base",
+      "note": "Person-neutral simile classified as gnomic."
+    },
+    {
+      "quote_id": "q01990",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short external action beat does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q01991",
+      "person_signal": "unmarked",
+      "note": "Bare third-person statement is too brief to establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q01992",
+      "person_signal": "unmarked",
+      "note": "A brief third-person description alone does not diagnose narrator participation."
+    },
+    {
+      "quote_id": "q01993",
+      "person_signal": "unmarked",
+      "note": "Clipped he fragment lacks enough local context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q01994",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person wish suggests focalization but does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q01995",
+      "person_signal": "non_base",
+      "note": "Conversation; first-, second-, and third-person forms belong to the speakers' exchange."
+    },
+    {
+      "quote_id": "q01996",
+      "person_signal": "third",
+      "note": "Narration calls the focal character he and reports what he remembered wishing."
+    },
+    {
+      "quote_id": "q01997",
+      "person_signal": "third",
+      "note": "Narration presents the focal character as he and gives his reflection and desire."
+    },
+    {
+      "quote_id": "q01998",
+      "person_signal": "unmarked",
+      "note": "Brief third-person characterization does not alone establish the narrator."
+    },
+    {
+      "quote_id": "q01999",
+      "person_signal": "non_base",
+      "note": "Reader commentary appended to a quotation is paratext, not novel narration."
+    },
+    {
+      "quote_id": "q02000",
+      "person_signal": "third",
+      "note": "After local first-person dialogue, narration calls the focal character she and reports what she knew."
+    },
+    {
+      "quote_id": "q02001",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue."
+    },
+    {
+      "quote_id": "q02002",
+      "person_signal": "third",
+      "note": "The narrator refers to the focal character as he and reports his understanding."
+    },
+    {
+      "quote_id": "q02003",
+      "person_signal": "non_base",
+      "note": "Character dialogue with a speech attribution."
+    },
+    {
+      "quote_id": "q02004",
+      "person_signal": "non_base",
+      "note": "Character dialogue with a speech attribution."
+    },
+    {
+      "quote_id": "q02005",
+      "person_signal": "third",
+      "note": "Close narration calls the focal character she and directly renders her thoughts and needs."
+    },
+    {
+      "quote_id": "q02006",
+      "person_signal": "unmarked",
+      "note": "The local narration describes externally observable actions or speech beats but does not identify narrator participation; compatible with first- or third-person base narration."
+    },
+    {
+      "quote_id": "q02007",
+      "person_signal": "non_base",
+      "note": "Dialogue with brief external beats; spoken pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q02008",
+      "person_signal": "third",
+      "note": "Sustained narration presents the male focal character as he and reports his loving purpose."
+    },
+    {
+      "quote_id": "q02009",
+      "person_signal": "third",
+      "note": "Narration calls the focal character he and reports his certainty and desire."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/notes-from-nick/2009/the-last-song-writing-notes/",
+      "title": "Nicholas Sparks The Last Song Writing Notes",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The author explicitly states that he chose to write the novel in limited third-person perspective and discusses developing Ronnie and Steve within that form."
+    },
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-15.2009.09-the-last-song.pdf",
+      "title": "The Last Song official PDF excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized twelve-page prologue and Chapter 1 excerpt sustains third-person narration of Ronnie, repeatedly rendering her thoughts as she/her."
+    },
+    {
+      "url": "https://catalogimages.wiley.com/images/db/pdf/9780470945766.excerpt.pdf",
+      "title": "CliffsNotes On Nicholas Sparks\u2019 The Last Song Teacher\u2019s Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The teacher's guide states that the novel opens in limited third person and remains third person while viewpoint shifts by chapter among Ronnie, Steve, Will, and Marcus."
+    },
+    {
+      "url": "https://www.cliffsnotes.com/literature/l/the-last-song/summary-and-analysis/prologue",
+      "title": "The Last Song Prologue Summary and Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The analysis explicitly describes the work as a limited-omniscient third-person narrative whose character perspective changes from chapter to chapter."
+    },
+    {
+      "url": "https://nicholassparks.com/work/the-last-song/",
+      "title": "Nicholas Sparks: The Last Song",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author's official book page reproduces several interior passages in which focal characters are narrated as he while their knowledge, understanding, and wonder are reported."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Nicholas Sparks The Last Song\" official excerpt first chapter.",
+    "Searched: \"The Last Song\" \"Nicholas Sparks\" point of view third person multiple perspectives.",
+    "Searched: \"The Last Song\" \"Nicholas Sparks\" excerpt Ronnie Steve Will third person.",
+    "Searched: site:nicholassparks.com \"The Last Song\" excerpt.",
+    "Opened the author's official writing notes, official book page, and linked twelve-page PDF excerpt.",
+    "Opened the Wiley-hosted CliffsNotes teacher's guide and its whole-book point-of-view section.",
+    "Opened the CliffsNotes prologue analysis for an additional explicit structural description.",
+    "A search result for a scholarly stylistic analysis described subjective third-person narration across four chapter viewpoint characters, but the page failed to open, so it was not used as evidence.",
+    "Search also returned plot summaries, film-script material, informal reviews, and inaccessible or low-authority assertions; these were not used to determine narrative person."
+  ],
+  "person_note": "The book's controlling narration is third person, specifically limited third person shifting among several focal characters. Numerous Goodreads event passages independently show a nonparticipating narrator referring to focal characters as he or she while entering their thoughts, knowledge, memories, and sensations. First-person forms in the quote set occur in dialogue, aphorisms, or isolated local voice, including q01937 and q01984, and do not constitute autonomous first-person narrative sections. This agrees with the author's explicit whole-book description, the authorized opening excerpt, and the CliffsNotes structural account. The shifting viewpoint characters therefore do not warrant ALTERNATING because every sustained base section remains third person; no material uncertainty remains. Quote audit: three locally nondiagnostic action/speech-beat passages were conservatively marked unmarked; the book label is unchanged.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_048",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T19:51:25.874549+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0a10a3c0dddc5cea7a235a1a402af11f10ddfd0201d019851e7fb0ee4248621d"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:STRANGERS IN TIME|David Baldacci",
+  "quotes": [
+    {
+      "quote_id": "q10476",
+      "person_signal": "non_base",
+      "note": "Timeless generalization; inclusive 'we' does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q10477",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic 'we,' not story-specific narration."
+    },
+    {
+      "quote_id": "q10478",
+      "person_signal": "non_base",
+      "note": "General reflection without a participating narrator or story-specific focal subject."
+    },
+    {
+      "quote_id": "q10479",
+      "person_signal": "non_base",
+      "note": "Universal reflection about pain; generic third-person pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q10480",
+      "person_signal": "non_base",
+      "note": "Search locates this passage in Baldacci's A Minute to Midnight, indicating quote-provenance contamination rather than narration from this book."
+    },
+    {
+      "quote_id": "q10481",
+      "person_signal": "non_base",
+      "note": "Direct character speech; 'you' addresses another character and is not second-person base narration."
+    },
+    {
+      "quote_id": "q10482",
+      "person_signal": "unmarked",
+      "note": "Clipped story-specific fragment about three people; it contains no participating narrator and is too brief to establish third-person narration independently."
+    },
+    {
+      "quote_id": "q10483",
+      "person_signal": "non_base",
+      "note": "Gnomic argument using generic 'we' and a speaker's 'I would say'; it does not expose base narration."
+    },
+    {
+      "quote_id": "q10484",
+      "person_signal": "unmarked",
+      "note": "Story-specific reference to Oliver, but a named character alone does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q10485",
+      "person_signal": "unclear",
+      "note": "Fragment lacks sufficient syntax and context to determine whether it is narration, thought, or another local form."
+    },
+    {
+      "quote_id": "q10486",
+      "person_signal": "non_base",
+      "note": "Conversational direct address inside character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q10487",
+      "person_signal": "unmarked",
+      "note": "The dialogue is followed by an external attribution, but the short speech beat alone is insufficient to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q10488",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph or paratext, not the novel's base narration."
+    },
+    {
+      "quote_id": "q10489",
+      "person_signal": "non_base",
+      "note": "Slogan-like sayings rather than narratorial discourse."
+    },
+    {
+      "quote_id": "q10490",
+      "person_signal": "third",
+      "note": "Sustained scene narration treats Charlie externally as 'him' while reporting his condition and inner moral state, exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q10491",
+      "person_signal": "non_base",
+      "note": "Direct character speech without an external narrative context."
+    },
+    {
+      "quote_id": "q10492",
+      "person_signal": "non_base",
+      "note": "Clipped direct dialogue predominates; the brief 'bellowed Lonzo' attribution does not independently establish base person."
+    },
+    {
+      "quote_id": "q10493",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not story-specific narration of a protagonist as 'you.'"
+    },
+    {
+      "quote_id": "q10494",
+      "person_signal": "non_base",
+      "note": "Inclusive 'we' occurs in a universal reflection and does not identify a participating narrator."
+    },
+    {
+      "quote_id": "q10495",
+      "person_signal": "non_base",
+      "note": "Explicit first-person character speech, not base narration."
+    },
+    {
+      "quote_id": "q10496",
+      "person_signal": "unclear",
+      "note": "The dialectal first-person wording strongly suggests clipped character speech or thought, but lost quotation boundaries prevent definitive local attribution; it is not reliable first-person evidence."
+    },
+    {
+      "quote_id": "q10497",
+      "person_signal": "non_base",
+      "note": "Generalized second-person reflection rather than sustained story-specific second-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.davidbaldacci.com/articles/strangers-in-time-excerpt/",
+      "title": "STRANGERS IN TIME Excerpt | David Baldacci",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized, sustained opening narrates Charlie externally as 'he' while freely entering his perceptions and thoughts. A first-person sentence appears only as Charlie's explicitly attributed thought, not as base narration."
+    },
+    {
+      "url": "https://www.supersummary.com/strangers-in-time/chapters-47-61-summary/",
+      "title": "Strangers in Time Chapters 47-61 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Structural analysis of interior chapters describes the narrative moving among Molly's and Ignatius's perspectives, while its cited prose and detailed chapter treatment consistently show those focal characters narrated externally in third person."
+    },
+    {
+      "url": "https://www.shelfreflection.com/blog/strangers-in-time",
+      "title": "Strangers in Time by David Baldacci \u2014 Shelf Reflection",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A full-book review describes the novel as following Charlie, Molly, and Ignatius and specifically contrasts a desired Charlie point-of-view epilogue with the book's actual external perspective; its quoted narrative passages are also third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"David Baldacci Strangers in Time excerpt first chapter publisher\" and located the author's authorized sustained opening excerpt.",
+    "Searched \"Strangers in Time\" with \"point of view,\" \"third person,\" \"narrative,\" \"perspective,\" and \"points of view\"; no authoritative source simply naming the grammatical POV surfaced.",
+    "Reviewed the authorized author excerpt, an interior Chapters 47-61 structural analysis, and a full-book review discussing the novel's external perspective.",
+    "Checked Kirkus, Hachette publisher material, the enhanced reading-group guide, chapter listings, and other reviews; plot-summary grammar alone was not treated as person evidence.",
+    "Ran targeted searches for suspicious quote text. The q10480 passage was indexed under David Baldacci's A Minute to Midnight, so it was excluded as provenance contamination; exact searches did not establish q10496 as base narration."
+  ],
+  "person_note": "The controlling narration is third-person limited, shifting focal attention among Charlie, Molly, and Ignatius without changing grammatical person. The authorized opening establishes sustained third-person narration around Charlie, and interior structural evidence shows the same external narration across other focal characters. q10490 independently displays that pattern. First- and second-person forms elsewhere are dialogue, maxims, attributed thought, clipped local material, or\u2014in q10480's case\u2014a quote from another Baldacci novel; none establishes an autonomous first- or second-person narrative section. No credible evidence of person alternation was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_090",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:06:51.911158+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "52810437c1b50b4f1a8993aad8f1feb0700f0275d293873821a9f10c901f8642"
+  }
+}

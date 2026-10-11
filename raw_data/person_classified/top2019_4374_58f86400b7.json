@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:4374",
+  "quotes": [
+    {
+      "quote_id": "q03885",
+      "person_signal": "non_base",
+      "note": "Universal imperative; the implied second-person addressee does not identify the narrator."
+    },
+    {
+      "quote_id": "q03886",
+      "person_signal": "non_base",
+      "note": "General observation about sadness rather than story-specific narration."
+    },
+    {
+      "quote_id": "q03887",
+      "person_signal": "non_base",
+      "note": "A general maxim with a character attribution, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03888",
+      "person_signal": "unmarked",
+      "note": "Story-specific projection, but it contains no participating narrator or externally narrated character."
+    },
+    {
+      "quote_id": "q03889",
+      "person_signal": "third",
+      "note": "Sustained unframed narration presents the focal character externally as she/her while rendering her prospective thoughts."
+    },
+    {
+      "quote_id": "q03890",
+      "person_signal": "non_base",
+      "note": "General relationship maxim without diagnostic narrative context."
+    },
+    {
+      "quote_id": "q03891",
+      "person_signal": "unmarked",
+      "note": "Summarizes an unnamed character's realization, but this isolated she/her sentence does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q03892",
+      "person_signal": "non_base",
+      "note": "Generic second-person advice, also consistent with the novel's embedded correspondence, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03893",
+      "person_signal": "non_base",
+      "note": "Direct dialogue predominates; the brief third-person speech tags do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03894",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased statement about an unnamed woman's feelings is insufficient by itself to establish narrative person."
+    },
+    {
+      "quote_id": "q03895",
+      "person_signal": "non_base",
+      "note": "This is the Anne Frank statement quoted within the story, not the novel's base narrator."
+    },
+    {
+      "quote_id": "q03896",
+      "person_signal": "unmarked",
+      "note": "The isolated she/they sentence lacks enough local context to distinguish third-person base narration from possible framing."
+    },
+    {
+      "quote_id": "q03897",
+      "person_signal": "non_base",
+      "note": "General claim about truth-telling rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q03898",
+      "person_signal": "non_base",
+      "note": "Generic instructional material about tennis scoring."
+    },
+    {
+      "quote_id": "q03899",
+      "person_signal": "unmarked",
+      "note": "The sentence externally reports Jessie's reaction, but the embedded quotation and brevity make it insufficient alone to prove the controlling person."
+    },
+    {
+      "quote_id": "q03900",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence with its subject clipped, preventing reliable local attribution."
+    },
+    {
+      "quote_id": "q03901",
+      "person_signal": "third",
+      "note": "Extended unframed narration presents Kate externally by name and she while entering her subjective experience."
+    },
+    {
+      "quote_id": "q03902",
+      "person_signal": "non_base",
+      "note": "Direct first-person speech without an external narrating beat."
+    },
+    {
+      "quote_id": "q03903",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical you does not designate a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q03904",
+      "person_signal": "unmarked",
+      "note": "The clipped focalized reflection lacks the character antecedent and does not independently establish narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.cbsnews.com/news/elin-hilderbrand-new-book-first-chapter-summer-of-69/",
+      "title": "Read the first chapter of Elin Hilderbrand's new book \"Summer of '69\"",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "CBS presents the first chapter; its sustained base prose narrates Jessie externally in close third person. The chapter also visibly sets off Tiger's first-person letter as an embedded document."
+    },
+    {
+      "url": "https://www.scribd.com/document/413776829/Chapter-1-Summer-of-69-by-Elin-Hilderbrand",
+      "title": "Chapter 1 - Summer of '69 by Elin Hilderbrand",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The CBS-uploaded chapter displays sustained third-person narration centered on Jessie, followed by a separately formatted first-person letter from Tiger."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-summer-of-69/styles.html",
+      "title": "Elin Hilderbrand Writing Styles in Summer of '69",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly says most of the novel uses a third-person narrator focused on Jessie, Blair, Kirby, and Kate; it identifies Tiger's first-person letters as deviations, not a second base narrative strand."
+    },
+    {
+      "url": "https://www.supersummary.com/summer-of-69/prologue-part-1-chapter-3-summary/",
+      "title": "Summer of '69 Prologue-Part 1, Chapter 3 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The structural analysis identifies the opening chapters as alternating close-third viewpoints focused on members of the Foley-Levin family."
+    },
+    {
+      "url": "https://www.supersummary.com/summer-of-69/important-quotes/",
+      "title": "Summer of '69 Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Quoted passages spanning Parts 1 through 3 repeatedly narrate Jessie, Kirby, Blair, and Kate externally while rendering their thoughts, corroborating third-person narration beyond the opening."
+    }
+  ],
+  "search_log": [
+    "Searched \"Summer of '69\" \"Elin Hilderbrand\" excerpt; found the Hachette listing and CBS first-chapter publication.",
+    "Searched \"Summer of '69\" \"Elin Hilderbrand\" \"third person\" and point of view narrator; found the BookRags whole-book POV analysis.",
+    "Searched \"Summer of '69\" \"Elin Hilderbrand\" \"alternating close-third\" and \"third-person narrator\"; found SuperSummary's structural analysis.",
+    "Searched for interior passages using \"Summer of '69\" Blair Kirby Jessie excerpt Hilderbrand; found SuperSummary quotations spanning multiple parts.",
+    "Checked Hachette's Read Excerpt control, but its page did not expose the excerpt text; followed CBS's embedded first-chapter link instead.",
+    "Searched Google Books for the title and author, but the returned result was for a different Hilderbrand novel and was not usable."
+  ],
+  "person_note": "The diagnostic Goodreads passages use unframed close-third narration of Kate and another focal character, while most other quotes are maxims, dialogue, clipped fragments, or isolated third-person references. The authorized opening independently shows sustained close-third narration, and whole-book structural evidence says the novel shifts among several family members in third person. Tiger's first-person letters are embedded documents within that third-person framework, so they do not make the base narration alternating. Interior passages from multiple parts corroborate that the close-third pattern continues beyond the opening; no credible source indicates sustained first- or second-person base sections.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_067",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T04:56:52.146180+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c49ed7e38adfc3c0db0495e43c9068b26d97302f1f7ff4ec7fe89c76253ee8f1"
+  }
+}

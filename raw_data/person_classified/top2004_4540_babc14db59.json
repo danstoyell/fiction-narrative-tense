@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:4540",
+  "quotes": [
+    {
+      "quote_id": "q00302",
+      "person_signal": "third",
+      "note": "A reviewed whole-book discussion identifies this as the narrator's rendering of Michael's consciousness near the ending; Michael remains a third-person character rather than a participating narrator."
+    },
+    {
+      "quote_id": "q00303",
+      "person_signal": "unmarked",
+      "note": "The isolated description of an unnamed \u201cshe\u201d could occur within either first- or third-person narration and lacks enough context to identify the base narrator."
+    },
+    {
+      "quote_id": "q00304",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns occur in character dialogue; the brief third-person speech tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00305",
+      "person_signal": "unmarked",
+      "note": "This short report of an unnamed man's fantasy is compatible with third-person narration but lacks enough surrounding context to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00306",
+      "person_signal": "third",
+      "note": "The sustained scene externally narrates Michael's departure while entering the focal woman's perceptions and thoughts, with no participating narrator framing the action."
+    },
+    {
+      "quote_id": "q00307",
+      "person_signal": "unmarked",
+      "note": "The attribution to Michael suggests third-person free-indirect narration, but this single isolated thought report is not sufficient by itself to establish the narrator's participation status."
+    },
+    {
+      "quote_id": "q00308",
+      "person_signal": "unmarked",
+      "note": "The sentence presents an unnamed woman's internal uncertainty in third-person grammar but provides too little context to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q00309",
+      "person_signal": "unmarked",
+      "note": "The brief passage describes a woman's perception of Michael, but it could still be narrated by an unshown participant outside the clipped context."
+    },
+    {
+      "quote_id": "q00310",
+      "person_signal": "third",
+      "note": "The extended family scene narrates Pauline and Karen externally and briefly enters Pauline's thought parenthetically, a diagnostic pattern of nonparticipating third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/the-amateur-marriage/excerpt",
+      "title": "The Amateur Marriage by Anne Tyler | Excerpt | Bookreporter.com",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "This sustained opening chapter excerpt, explicitly reprinted with Ballantine Books' permission, narrates Michael, Pauline, and their neighbors externally in third person; its evidence is limited to the opening."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/181382/the-amateur-marriage-by-anne-tyler/readers-guide/",
+      "title": "The Amateur Marriage Reader\u2019s Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The official publisher guide treats the narrator as distinct from the characters, discusses shifting access to several characters' thoughts, and reproduces third-person interior passages from Michael and Pauline at multiple points in the novel."
+    },
+    {
+      "url": "https://www.litromagazine.com/literature/amateur-marriage-anne-tyler/",
+      "title": "The Amateur Marriage by Anne Tyler",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly distinguishes Tyler's narrator from the protagonists, says that narrator inhabits their points of view, and quotes third-person narration from both an early section and Michael's late-life ending."
+    },
+    {
+      "url": "https://www.chron.com/life/article/The-Amateurs-Marriage-by-Anne-Tyler-1957238.php",
+      "title": "'The Amateurs Marriage' by Anne Tyler",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explains that focalization alternates among Pauline, Michael, and occasionally their children across ten chapters, while its interior quotations render those characters' thoughts in third person."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/audiobook-reviews/anne-tyler/the-amateur-marriage/",
+      "title": "THE AMATEUR MARRIAGE by Anne Tyler | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Kirkus confirms that the ten chapters shift point of view among family members; read alongside the third-person excerpts, this describes rotating third-person focalization rather than a change of narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Amateur Marriage Anne Tyler excerpt publisher\u201d and opened the permission-authorized Bookreporter excerpt plus the Penguin Random House reader's guide.",
+    "Searched \u201cThe Amateur Marriage third person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201comniscient narrator\u201d; opened the Penguin Random House, Kirkus, Litro Magazine, and Houston Chronicle discussions.",
+    "Searched for \u201cthird-person narrative,\u201d \u201cthird person limited,\u201d and \u201cthird-person omniscient\u201d; no stronger source explicitly using those exact labels for the entire novel was found.",
+    "Searched exact quote strings including \u201cHe wished he had inhabited more of his life\u201d and \u201cWalking a small child was like herding water\u201d; Goodreads quote pages and an unlicensed full-text PDF appeared, but the unlicensed text was not used as web evidence.",
+    "A Google Books search produced only catalog or snippet material and no usable sustained interior preview."
+  ],
+  "person_note": "The book uses a nonparticipating third-person narrator with focalization that moves among Michael, Pauline, and other family members. The long Goodreads scenes expose this directly, and the authorized opening independently shows the same grammatical person. Publisher and review evidence establishes that chapter-to-chapter viewpoint changes are shifts in focal character, not sustained changes to first- or second-person narration. First- and second-person forms in q00304 are dialogue only. The main limitation is that the Tier A excerpt covers only the opening, but multiple interior quotes and whole-book structural sources consistently corroborate third person, with no credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_041",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T22:04:07.885195+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ddb688cfe9cb6ba54cfb0782e249eba42e98b63ee867105a3d2e119c069a9cac"
+  }
+}

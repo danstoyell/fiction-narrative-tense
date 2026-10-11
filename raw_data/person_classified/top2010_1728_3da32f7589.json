@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:1728",
+  "quotes": [
+    {
+      "quote_id": "q01623",
+      "person_signal": "unmarked",
+      "note": "The third-person thought tag is suggestive, but this single sentence does not by itself establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01624",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01625",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q01626",
+      "person_signal": "non_base",
+      "note": "Gnomic, generic you rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q01627",
+      "person_signal": "non_base",
+      "note": "Direct speech containing an embedded saying."
+    },
+    {
+      "quote_id": "q01628",
+      "person_signal": "non_base",
+      "note": "An isolated first-person declaration that reads as clipped character speech; the event bucket is a probable upstream issue."
+    },
+    {
+      "quote_id": "q01629",
+      "person_signal": "non_base",
+      "note": "An isolated first-person opinion that reads as clipped character speech, not controlling narration."
+    },
+    {
+      "quote_id": "q01630",
+      "person_signal": "third",
+      "note": "Sustained reflection is externally attributed to Walter, exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q01631",
+      "person_signal": "unmarked",
+      "note": "Broad historical exposition contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01632",
+      "person_signal": "unmarked",
+      "note": "The clipped anaphoric description lacks enough context to establish narrator person."
+    },
+    {
+      "quote_id": "q01633",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01634",
+      "person_signal": "third",
+      "note": "The narrator externally reports Gus's actions, deliberate intention, and prior observation across a scene."
+    },
+    {
+      "quote_id": "q01635",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q01636",
+      "person_signal": "non_base",
+      "note": "Gnomic conditional with generic you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01637",
+      "person_signal": "non_base",
+      "note": "Dialogue between Lev and Grigori."
+    },
+    {
+      "quote_id": "q01638",
+      "person_signal": "third",
+      "note": "A sustained passage presents Ethel externally while conveying her knowledge and viewpoint."
+    },
+    {
+      "quote_id": "q01639",
+      "person_signal": "unmarked",
+      "note": "A standalone geopolitical assertion does not expose narrator participation."
+    },
+    {
+      "quote_id": "q01640",
+      "person_signal": "third",
+      "note": "The narrator externally presents Ethel's actions, attributed thought, interpretation, and private vow."
+    },
+    {
+      "quote_id": "q01641",
+      "person_signal": "unmarked",
+      "note": "Generic your occurs in a social observation and is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01642",
+      "person_signal": "unmarked",
+      "note": "The brief statement about Fitz and social convention is compatible with third person but not independently diagnostic."
+    },
+    {
+      "quote_id": "q01643",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q01644",
+      "person_signal": "non_base",
+      "note": "Extended direct speech; first-person forms belong to the speaking character."
+    },
+    {
+      "quote_id": "q01645",
+      "person_signal": "non_base",
+      "note": "This is a recognizable first-person quotation from Shakespeare's Henry V, not the novel's base narrator."
+    },
+    {
+      "quote_id": "q01646",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic you rather than story-specific second-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ken-follett.com/wp-content/uploads/2020/08/Fall-of-Giants.pdf",
+      "title": "Fall of Giants \u2014 official extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained 21-page extract hosted on Ken Follett's official site narrates Billy externally as he/him while entering his private fears and perceptions, establishing third-person limited narration in the opening."
+    },
+    {
+      "url": "https://www.sujetdebac.fr/annales-pdf/2016/s-es-l-anglais-lv1-2016-pondichery-sujet-officiel.pdf",
+      "title": "Baccalaur\u00e9at G\u00e9n\u00e9ral, Anglais LV1 2016 \u2014 Fall of Giants extract",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The examination reproduces a sustained 1917 interior passage around Ethel in third person, confirming that q01638 belongs to base narration rather than an embedded voice."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-fall-of-giants/styles.html",
+      "title": "Ken Follett Writing Styles in Fall of Giants",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly describes the whole novel as using one third-person narrator across eight focal characters, predominantly in third-person limited mode."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/2485/page_number/4/fall-of-giants",
+      "title": "Excerpt from Fall of Giants by Ken Follett",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "This sustained excerpt, published by permission of Penguin Books, independently presents Billy and his family through external third-person narration and Billy's internal perspective."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Ken Follett Fall of Giants official excerpt first chapter\", authorized extracts, and publisher or author-hosted text; opened the official Ken Follett PDF and the Penguin-permission BookBrowse extract.",
+    "Searched for \"Fall of Giants third-person narrator\", \"third-person limited\", point of view, narrator, and multiple viewpoints; opened the explicit whole-book BookRags point-of-view description.",
+    "Searched exact interior passages involving Ethel, Gus, Walter, and Mam to verify whether supplied quotations were base narration; found the Ethel passage in a 2016 examination extract and a university-hosted scholarly thesis.",
+    "Searched for first-person, epistolary, frame-narrative, and alternating-person evidence; found no credible indication of sustained first- or second-person base sections.",
+    "Searches of publisher-review and major-newspaper results produced plot or thematic descriptions but no additional explicit narrator-person evidence; the Spanish official extract page returned a 403 response.",
+    "Targeted searches for q01628, q01629, and q01645 found only isolated quotation listings, not evidence that their first-person wording belongs to base narration."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and uses third person while shifting focalization among characters. Several supplied interior passages unmistakably present Walter, Gus, and Ethel externally while conveying their private thoughts or intentions; the official opening extract shows the same construction, and the whole-book POV source explicitly says the narrator remains third person across eight focal characters. The isolated I-lines in q01628 and q01629 are clipped character utterances and probable upstream event-bucket errors, while q01645 is embedded Shakespearean language; none establishes a first-person section. The main limitation is that the authorized extracts do not cover the entire novel, but the independent interior evidence and explicit whole-book description resolve that coverage gap without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.247299+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3b6535946800ccd69403ab5f5b216888a2b5b8964e0944d7c12a06c8ccdba3ab"
+  }
+}

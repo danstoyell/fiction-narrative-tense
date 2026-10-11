@@ -1,0 +1,524 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:2023",
+  "quotes": [
+    {
+      "quote_id": "q02502",
+      "person_signal": "first",
+      "note": "Amy participates in the base narration and repeatedly narrates as I/me."
+    },
+    {
+      "quote_id": "q02503",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection does not independently expose narrative person."
+    },
+    {
+      "quote_id": "q02504",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02505",
+      "person_signal": "non_base",
+      "note": "Gnomic social observation is nondiagnostic."
+    },
+    {
+      "quote_id": "q02506",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about love is nondiagnostic."
+    },
+    {
+      "quote_id": "q02507",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but no narrator-participation marker appears."
+    },
+    {
+      "quote_id": "q02508",
+      "person_signal": "first",
+      "note": "The constitutive Amy narration describes her own singleness as my/I."
+    },
+    {
+      "quote_id": "q02509",
+      "person_signal": "non_base",
+      "note": "Aphorism and generic you do not establish person."
+    },
+    {
+      "quote_id": "q02510",
+      "person_signal": "first",
+      "note": "A participating narrator describes himself as I."
+    },
+    {
+      "quote_id": "q02511",
+      "person_signal": "non_base",
+      "note": "Dialogue pronouns and an external speech beat do not establish base person."
+    },
+    {
+      "quote_id": "q02512",
+      "person_signal": "first",
+      "note": "The narrator describes her own behavior and emotions as I/me."
+    },
+    {
+      "quote_id": "q02513",
+      "person_signal": "non_base",
+      "note": "Gnomic observation is nondiagnostic."
+    },
+    {
+      "quote_id": "q02514",
+      "person_signal": "first",
+      "note": "My mother frames a participating narrator's recollection; quoted generic you is local."
+    },
+    {
+      "quote_id": "q02515",
+      "person_signal": "first",
+      "note": "The narrator states a personal judgment as I."
+    },
+    {
+      "quote_id": "q02516",
+      "person_signal": "first",
+      "note": "I've explicitly exposes a participating narrator despite the opening she."
+    },
+    {
+      "quote_id": "q02517",
+      "person_signal": "first",
+      "note": "Amy narrates her marriage to Nick through sustained I/me usage."
+    },
+    {
+      "quote_id": "q02518",
+      "person_signal": "first",
+      "note": "The participating narrator recounts what I waited for."
+    },
+    {
+      "quote_id": "q02519",
+      "person_signal": "first",
+      "note": "We refers to the narrating spouse and the other participant in their marriage."
+    },
+    {
+      "quote_id": "q02520",
+      "person_signal": "first",
+      "note": "The narrator describes her own actions and self-awareness as I/me."
+    },
+    {
+      "quote_id": "q02521",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about children is nondiagnostic."
+    },
+    {
+      "quote_id": "q02522",
+      "person_signal": "first",
+      "note": "We/our identifies the narrator as a participant in the relationship."
+    },
+    {
+      "quote_id": "q02523",
+      "person_signal": "non_base",
+      "note": "Story-specific you occurs in direct speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02524",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q02525",
+      "person_signal": "first",
+      "note": "My dad and mom place the narrator inside the recounted family history."
+    },
+    {
+      "quote_id": "q02526",
+      "person_signal": "first",
+      "note": "The narrator reports a personal sensation as I; generic you appears only in a simile."
+    },
+    {
+      "quote_id": "q02527",
+      "person_signal": "first",
+      "note": "I've thought/I think identifies participating base narration."
+    },
+    {
+      "quote_id": "q02528",
+      "person_signal": "non_base",
+      "note": "The first-person wording is direct speech."
+    },
+    {
+      "quote_id": "q02529",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you statement does not establish second-person narration."
+    },
+    {
+      "quote_id": "q02530",
+      "person_signal": "non_base",
+      "note": "Gnomic observation is nondiagnostic."
+    },
+    {
+      "quote_id": "q02531",
+      "person_signal": "unmarked",
+      "note": "The sentence supplies no grammatical evidence of narrator participation."
+    },
+    {
+      "quote_id": "q02532",
+      "person_signal": "first",
+      "note": "Nick narrates his marriage and actions through sustained I/my/we."
+    },
+    {
+      "quote_id": "q02533",
+      "person_signal": "first",
+      "note": "Amy imagines her own position through repeated me/I."
+    },
+    {
+      "quote_id": "q02534",
+      "person_signal": "first",
+      "note": "I/we identifies a spouse participating in the narrated relationship."
+    },
+    {
+      "quote_id": "q02535",
+      "person_signal": "first",
+      "note": "Amy explicitly narrates herself and her spouse as I/he."
+    },
+    {
+      "quote_id": "q02536",
+      "person_signal": "first",
+      "note": "The narrator includes herself in the event as I'm."
+    },
+    {
+      "quote_id": "q02537",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about people and families is nondiagnostic."
+    },
+    {
+      "quote_id": "q02538",
+      "person_signal": "first",
+      "note": "I've/our/we exposes a participating spouse as narrator."
+    },
+    {
+      "quote_id": "q02539",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you instruction does not establish narrative person."
+    },
+    {
+      "quote_id": "q02540",
+      "person_signal": "first",
+      "note": "Nick identifies himself as I and as Amy's husband."
+    },
+    {
+      "quote_id": "q02541",
+      "person_signal": "unmarked",
+      "note": "The named man and generic you do not expose the base narrator's person."
+    },
+    {
+      "quote_id": "q02542",
+      "person_signal": "first",
+      "note": "Our relationship includes the narrator as a story participant."
+    },
+    {
+      "quote_id": "q02543",
+      "person_signal": "first",
+      "note": "I think anchors the passage in participating first-person narration; you is generic."
+    },
+    {
+      "quote_id": "q02544",
+      "person_signal": "first",
+      "note": "Sustained I narration describes the narrator's conduct toward her."
+    },
+    {
+      "quote_id": "q02545",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q02546",
+      "person_signal": "non_base",
+      "note": "The pronouns occur in direct speech."
+    },
+    {
+      "quote_id": "q02547",
+      "person_signal": "first",
+      "note": "My wife identifies the narrator as a participant in the scene."
+    },
+    {
+      "quote_id": "q02548",
+      "person_signal": "first",
+      "note": "The narrator recalls her own belief as I/me."
+    },
+    {
+      "quote_id": "q02549",
+      "person_signal": "non_base",
+      "note": "Gnomic proposition about love is nondiagnostic."
+    },
+    {
+      "quote_id": "q02550",
+      "person_signal": "first",
+      "note": "My father/mother and I'm sure frame sustained participating family narration."
+    },
+    {
+      "quote_id": "q02551",
+      "person_signal": "first",
+      "note": "Sustained I/we narration includes the speaker among the described generation."
+    },
+    {
+      "quote_id": "q02552",
+      "person_signal": "first",
+      "note": "The narrator describes his own desire as I/my."
+    },
+    {
+      "quote_id": "q02553",
+      "person_signal": "non_base",
+      "note": "This is a character's spoken assessment of Amy, not base narration."
+    },
+    {
+      "quote_id": "q02554",
+      "person_signal": "first",
+      "note": "Research identifies this as Amy's closing base narration; the dialogue bucket appears to be an upstream issue."
+    },
+    {
+      "quote_id": "q02555",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor is nondiagnostic."
+    },
+    {
+      "quote_id": "q02556",
+      "person_signal": "first",
+      "note": "Amy narrates her immediate condition and desire as I/me/my."
+    },
+    {
+      "quote_id": "q02557",
+      "person_signal": "first",
+      "note": "The narrator characterizes herself as I."
+    },
+    {
+      "quote_id": "q02558",
+      "person_signal": "first",
+      "note": "Sustained Amy narration uses I/me throughout a marital account."
+    },
+    {
+      "quote_id": "q02559",
+      "person_signal": "first",
+      "note": "Amy compares herself with other women through sustained I/my."
+    },
+    {
+      "quote_id": "q02560",
+      "person_signal": "first",
+      "note": "The narrator reports personal discovery as I."
+    },
+    {
+      "quote_id": "q02561",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you advice does not indicate second-person narration."
+    },
+    {
+      "quote_id": "q02562",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary remains nondiagnostic despite the local me."
+    },
+    {
+      "quote_id": "q02563",
+      "person_signal": "non_base",
+      "note": "Gnomic social commentary and generic commands do not identify base person."
+    },
+    {
+      "quote_id": "q02564",
+      "person_signal": "non_base",
+      "note": "Gnomic marriage advice is nondiagnostic."
+    },
+    {
+      "quote_id": "q02565",
+      "person_signal": "first",
+      "note": "I guess exposes the observing narrator as a participant elsewhere in the story."
+    },
+    {
+      "quote_id": "q02566",
+      "person_signal": "first",
+      "note": "Repeated I identifies the narrator within the interaction with he."
+    },
+    {
+      "quote_id": "q02567",
+      "person_signal": "first",
+      "note": "Amy explicitly narrates her relationship to Nick as I/me."
+    },
+    {
+      "quote_id": "q02568",
+      "person_signal": "first",
+      "note": "Me/I identifies the narrator as the person being discussed."
+    },
+    {
+      "quote_id": "q02569",
+      "person_signal": "first",
+      "note": "Amy narrates what Nick did to her through my/me/I."
+    },
+    {
+      "quote_id": "q02570",
+      "person_signal": "first",
+      "note": "The narrator recounts his own behavior and feelings through I'd/my/me."
+    },
+    {
+      "quote_id": "q02571",
+      "person_signal": "first",
+      "note": "I've identifies the narrator as the betrayed participant."
+    },
+    {
+      "quote_id": "q02572",
+      "person_signal": "non_base",
+      "note": "Gnomic political quip is nondiagnostic."
+    },
+    {
+      "quote_id": "q02573",
+      "person_signal": "unmarked",
+      "note": "She is described without an explicit participating-narrator marker."
+    },
+    {
+      "quote_id": "q02574",
+      "person_signal": "first",
+      "note": "Sustained I/we narration recounts the narrator's actions and state."
+    },
+    {
+      "quote_id": "q02575",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question is nondiagnostic despite our marriage."
+    },
+    {
+      "quote_id": "q02576",
+      "person_signal": "non_base",
+      "note": "Gnomic marriage maxim is nondiagnostic."
+    },
+    {
+      "quote_id": "q02577",
+      "person_signal": "non_base",
+      "note": "Generic you and he occur inside direct speech."
+    },
+    {
+      "quote_id": "q02578",
+      "person_signal": "first",
+      "note": "Me places the narrator inside the scene with she."
+    },
+    {
+      "quote_id": "q02579",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur in quoted dialogue."
+    },
+    {
+      "quote_id": "q02580",
+      "person_signal": "unmarked",
+      "note": "A statement about Amy and they does not independently expose narrator person."
+    },
+    {
+      "quote_id": "q02581",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and the third-person speech beat does not establish a third-person base narrator."
+    },
+    {
+      "quote_id": "q02582",
+      "person_signal": "first",
+      "note": "Nick describes Amy's change and his response through me/I/my."
+    },
+    {
+      "quote_id": "q02583",
+      "person_signal": "non_base",
+      "note": "This exchange is direct dialogue."
+    },
+    {
+      "quote_id": "q02584",
+      "person_signal": "unmarked",
+      "note": "The clipped infinitive construction omits an explicit narrator-participation marker."
+    },
+    {
+      "quote_id": "q02585",
+      "person_signal": "first",
+      "note": "Me identifies the narrator as a participant addressed to you."
+    },
+    {
+      "quote_id": "q02586",
+      "person_signal": "first",
+      "note": "Nick narrates his actions through my/I outside the embedded speech."
+    },
+    {
+      "quote_id": "q02587",
+      "person_signal": "first",
+      "note": "Me identifies the narrator as the affected story participant."
+    },
+    {
+      "quote_id": "q02588",
+      "person_signal": "non_base",
+      "note": "Generic you appears in direct speech."
+    },
+    {
+      "quote_id": "q02589",
+      "person_signal": "non_base",
+      "note": "Gnomic we statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q02590",
+      "person_signal": "non_base",
+      "note": "Gnomic advice remains nondiagnostic despite my."
+    },
+    {
+      "quote_id": "q02591",
+      "person_signal": "unmarked",
+      "note": "The third-person subject alone does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q02592",
+      "person_signal": "non_base",
+      "note": "The first-person wording occurs in dialogue."
+    },
+    {
+      "quote_id": "q02593",
+      "person_signal": "first",
+      "note": "Amy narrates her own condition through sustained I/me."
+    },
+    {
+      "quote_id": "q02594",
+      "person_signal": "non_base",
+      "note": "The first-person statement is explicitly attributed dialogue."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.ypradio.org/npr-news/2012-05-14/exclusive-first-read-gone-girl-by-gillian-flynn",
+      "title": "Exclusive First Read: 'Gone Girl' By Gillian Flynn",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Publisher-permitted sustained opening selection contains labeled Nick and Amy chapters; both participating narrators use I, and the introduction identifies their chapters as alternating."
+    },
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780307588371",
+      "title": "Gone Girl - Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Official sustained excerpt labels Nick Dunne and narrates his actions and marriage in first person; the page also describes Amy's interwoven diary entries and Nick's first-person account."
+    },
+    {
+      "url": "https://sciendo.com/2/v2/download/article/10.1515/abcsj-2017-0002.pdf",
+      "title": "\u201cChick Noir\u201d: Shopaholic Meets Double Indemnity",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Scholarly structural analysis follows all three parts, identifying chapters alternating between Nick and Amy and Amy's final narrating chapter; combined with the excerpts, this establishes two first-person narrators across the book."
+    },
+    {
+      "url": "https://www.theguardian.com/books/booksblog/2013/mar/19/gone-girl-gillian-flynn-thriller",
+      "title": "Gone Girl: what makes Gillian Flynn's psychological thriller so popular?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly says Amy and Nick take turns narrating events from different times and identifies them as the novel's two unreliable narrators, corroborating the whole-book dual-narrator structure."
+    }
+  ],
+  "search_log": [
+    "Searched: site:penguinrandomhouse.com/books Gone Girl Gillian Flynn excerpt Nick Dunne first chapter; Gone Girl Gillian Flynn alternating narrators first person point of view scholarly; Gone Girl Gillian Flynn excerpt Nick Dunne Amy diary; Gone Girl narrative structure alternating Nick Amy narrators review.",
+    "Searched exact opening language and publisher domains, including: site:penguinrandomhouse.ca/books/196906/gone-girl \"What are you thinking, Amy\"; Gone Girl excerpt \"When I think of my wife, I always think of her head\"; site:books.google.com Gone Girl Gillian Flynn Nick Dunne Amy Elliott diary entry.",
+    "Opened the Penguin Random House Canada excerpt URL, but its extractable page contained no prose; the Penguin Random House Library Marketing page and the Crown-authorized NPR/YPR selection supplied accessible sustained text instead.",
+    "Opened and checked the Guardian structural review and Victoria Kennedy's scholarly article; search snippets, retailer summaries, Wikipedia, unofficial PDFs, Reddit, and film-only sources were not used as evidence."
+  ],
+  "person_note": "Gone Girl has two participating base narrators, Nick and Amy, and both narrate in first person. Their chapters alternate by narrator and timeline, but not by grammatical person, so the correct label is FIRST rather than ALTERNATING. Amy's Part One diary is constitutive narrative material\u2014even though it is deliberately deceptive\u2014and the scholarly whole-book account confirms that Amy continues as a narrator through later parts and the final chapter. The numerous Goodreads event passages independently expose both spouses through I/we/my; isolated dialogue, aphorisms, generic you, and bare third-person references were not allowed to vote. q02554 appears to be Amy's closing narration despite its dialogue bucket. The only remaining uncertainty concerns local attribution or clipping of a few isolated Goodreads quotes, not the book-level person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.250346+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "79d7ad78314e6887b4cb8d10153df0a71dbab5039b86b499c1d15a66ed13d748"
+  }
+}

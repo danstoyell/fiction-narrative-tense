@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:6161",
+  "quotes": [
+    {
+      "quote_id": "q01571",
+      "person_signal": "non_base",
+      "note": "General reflection without a narrating character or sustained story context; nondiagnostic of base person."
+    },
+    {
+      "quote_id": "q01572",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Todd and Zola, describes their actions, and shifts between them without a participating narrator."
+    },
+    {
+      "quote_id": "q01573",
+      "person_signal": "third",
+      "note": "External narration describes Mark and Todd's conduct, experience, and capabilities; OCR damage does not obscure the third-person base voice."
+    },
+    {
+      "quote_id": "q01574",
+      "person_signal": "third",
+      "note": "The narrator externally recounts Louie's history and his parents' conduct while evaluating their situation."
+    },
+    {
+      "quote_id": "q01575",
+      "person_signal": "third",
+      "note": "Although clipped, the sustained biographical narration presents the female character externally as she and recounts successive relationships."
+    },
+    {
+      "quote_id": "q01576",
+      "person_signal": "non_base",
+      "note": "General institutional assertion with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01577",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a male character through packing, departure, travel, and precautions."
+    },
+    {
+      "quote_id": "q01578",
+      "person_signal": "non_base",
+      "note": "Predominantly character dialogue; the brief attribution beats alone are not independently diagnostic."
+    },
+    {
+      "quote_id": "q01579",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in an informal explanation apparently spoken by a character, not in base narration."
+    },
+    {
+      "quote_id": "q01580",
+      "person_signal": "non_base",
+      "note": "Extended dialogue among Mark, Todd, and Zola; its first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q01581",
+      "person_signal": "unmarked",
+      "note": "Setting exposition identifies a place but contains no participating narrator or externally narrated character sequence."
+    },
+    {
+      "quote_id": "q01582",
+      "person_signal": "unclear",
+      "note": "The clipped fragment has no recoverable narrator or character context."
+    },
+    {
+      "quote_id": "q01583",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; names and short attribution beats do not by themselves establish narrative person."
+    },
+    {
+      "quote_id": "q01584",
+      "person_signal": "third",
+      "note": "Sustained external scene narration moves from Gordy to Zola, Todd, and Mark and reports their actions and perceptions."
+    },
+    {
+      "quote_id": "q01585",
+      "person_signal": "non_base",
+      "note": "Standalone political assertion is gnomic and does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01586",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed he is compatible with both first- and third-person framing."
+    },
+    {
+      "quote_id": "q01587",
+      "person_signal": "unmarked",
+      "note": "The passage presents a woman's reflection through she and rhetorical questions, but the isolated context does not independently exclude a participating frame narrator."
+    },
+    {
+      "quote_id": "q01588",
+      "person_signal": "non_base",
+      "note": "The conversational first-person recollection is a character's local voice about suicide, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q01589",
+      "person_signal": "non_base",
+      "note": "This first-person statement belongs to Grisham's author's note about the article that inspired the novel, not to the fictional base narration."
+    },
+    {
+      "quote_id": "q01590",
+      "person_signal": "non_base",
+      "note": "General polemic about law-school admissions and lending is nondiagnostic of the fictional narrator."
+    },
+    {
+      "quote_id": "q01591",
+      "person_signal": "unmarked",
+      "note": "A bare third-person statement about she does not independently establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q01592",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence names Mark and his debt but lacks enough local context to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q01593",
+      "person_signal": "non_base",
+      "note": "Clipped character speech with a third-person attribution; it is not sustained base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9781101967690",
+      "title": "The Rooster Bar \u2014 Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-hosted opening chapter sustains external narration about Mark and his family, including their actions, histories, perceptions, and thoughts."
+    },
+    {
+      "url": "https://www.hachette.co.nz/downloads/The-Rooster-Bar.pdf",
+      "title": "The Rooster Bar \u2014 Hodder & Stoughton excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized 17-page edition excerpt sustains third-person narration centered on Mark, with external access to his decisions, memories, and judgments."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-rooster-bar/styles.html",
+      "title": "John Grisham Writing Styles in The Rooster Bar",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the entire story as third-person omniscient, shifting among Mark, Todd, Zola, and other characters' thoughts and emotions."
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/news/the-rooster-bar-new-john-grisham-book-first-look-excerpt/",
+      "title": "Read an excerpt of John Grisham's upcoming novel The Rooster Bar",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "CBS identifies its linked material as the first four chapters supplied courtesy of Doubleday; the accessible excerpt material uses the same sustained external third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Grisham The Rooster Bar excerpt first chapter publisher\" and opened Penguin Random House, Hachette, and CBS excerpt pages.",
+    "Searched \"The Rooster Bar John Grisham point of view third person narrator\" and opened the BookRags whole-book point-of-view discussion.",
+    "Searched for excerpts involving Mark, Todd, Zola, and Gordy and inspected multiple pages of the authorized Hachette and Penguin Random House opening text.",
+    "Searched the exact phrase \"I read an article in the September 2014 edition\"; results identified it as material from Grisham's author's note rather than fictional narration.",
+    "Searched the exact suicide-recollection quotation; no authoritative standalone source resolved its speaker, so its conversational wording and conflict with sustained third-person evidence were treated as a local character voice."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person. Multiple Goodreads excerpts sustain external scene narration across Mark, Todd, Zola, Gordy, and other characters, while two authorized publisher excerpts independently show the same mode in the opening. The whole-book POV description explicitly confirms third-person omniscient narration and character-to-character shifts. The apparent first-person exceptions do not indicate alternating narration: q01588 is conversational character recollection, and q01589 is from the author's note. The remaining uncertainty is only the precise speaker of q01588, not the book-level person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_062",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:42:30.937672+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fa30844771d0870a023071bdd6d1a4cdaf543c00b31b6978f1cde27f74255e33"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1978:7166",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "unmarked",
+      "note": "The collective \u201cus\u201d means humanity generally and does not make the narrator a story participant."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cmy\u201d identifies the speaker, not the base narrator."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with a generic \u201cwe,\u201d not story-specific narration."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Character speech containing first- and second-person address."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "General historical maxim without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary on human nature, not a narrated story scene."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "unmarked",
+      "note": "Possible external Auschwitz exposition, but this single impersonal sentence does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "Reported character speech; the brief \u201che says\u201d tag is not sufficient third-person evidence."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "non_base",
+      "note": "Generic political maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "Character dialogue; \u201cwe\u201d belongs to the speaker."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "third",
+      "note": "Sustained historical scene commentary describes geographically dispersed soldiers externally; generic \u201cone\u201d does not imply participation."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "unmarked",
+      "note": "Brief historical report about Speer and a general; third-person subjects alone do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "third",
+      "note": "Extended scene narration externally follows Jastrow and Bronka around their dialogue and supplies explanatory information."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur entirely within character speech."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks enough context or quotation boundaries for attribution."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "unclear",
+      "note": "Clipped fragment does not expose a narrating position."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "non_base",
+      "note": "Clipped but recognizable character speech; \u201cme\u201d is not the base narrator."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "General antiwar maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "unclear",
+      "note": "Clipping leaves the first-person statement\u2019s local speaker and boundaries unresolved."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "unclear",
+      "note": "Clipped descriptive fragment has no recoverable narrating context."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "third",
+      "note": "The base frame narrates Slote externally, then explicitly marks the following first-person material as an excerpt from Aaron Jastrow\u2019s manuscript."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "Character speech; its \u201cI\u201d and address to Natalie do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "Aphoristic definition rather than diagnostic narrative prose."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks sufficient syntax and context for person attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://adebiportal.kz/upload/iblock/7be/7bed48c83aab3e3fb95333f1984bf9b1.pdf",
+      "title": "War and Remembrance by Herman Wouk \u2014 complete text",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The QazContent literary portal\u2019s complete text shows third-person base narration in the opening and widely separated interior passages. Recurring first-person sections are explicitly headed as excerpts from Aaron Jastrow\u2019s manuscript, distinguishing them from the base narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-war-and-remembrance/style.html",
+      "title": "Herman Wouk Writing Styles in War and Remembrance",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the book\u2019s overall perspective as third-person omniscient and describes its movement among characters across different locations."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/herman-wouk/war-and-remembrance/9780316954990/",
+      "title": "War and Remembrance by Herman Wouk | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher page verifies the title, author, series, and prose-novel identity but supplies no excerpt or explicit point-of-view evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cHerman Wouk War and Remembrance excerpt third person narrator point of view\u201d; found and opened the explicit BookRags whole-book POV description.",
+    "Searched \u201cWar and Remembrance third person omniscient\u201d and related narrator/point-of-view variants; results corroborated third-person narration, though most were summaries or user reviews and were not used.",
+    "Searched the Hachette publisher site for an authorized excerpt; the opened title page verified the work but contained no narrative extract.",
+    "Searched Google Books, Open Library, and Internet Archive for previews; Google Books exposed metadata/snippets and Open Library listed preview-only editions, neither providing sufficient sustained prose in the opened pages.",
+    "Opened the complete text hosted by Adebiet Portal and checked the opening, separated interior locations, the Slote passage, the Bronka/Jastrow scene, and multiple \u201cA Jew\u2019s Journey\u201d headings to distinguish base narration from the embedded manuscript."
+  ],
+  "person_note": "The controlling narration is third-person omniscient: q00013 and the third-person frame in q00021 independently expose an external narrator, while the complete text sustains that position across the opening and interior. The first-person material in q00021 is explicitly labeled as Aaron Jastrow\u2019s manuscript, and the full text repeats that documentary framing, so it is embedded rather than an alternating base narrator. Collective or generic forms such as \u201cus,\u201d \u201cwe,\u201d and \u201cone\u201d in historical or gnomic commentary do not make the narrator a participant. No credible contrary source was found; the only potential ambiguity is the recurrence of embedded first-person documents, but their explicit manuscript labels and subordinate placement support THIRD rather than ALTERNATING.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_020",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T07:03:25.196587+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b8ca77cf7dd2d1c8ec0e066964c08cc3aabe92a540b373df9a6f525d63c25d1d"
+  }
+}

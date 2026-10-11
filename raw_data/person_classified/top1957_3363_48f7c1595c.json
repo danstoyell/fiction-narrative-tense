@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1957:3363",
+  "quotes": [
+    {
+      "quote_id": "q00609",
+      "person_signal": "non_base",
+      "note": "John Osborne's first-person plural speech is explicitly followed by \u201che said\u201d; it is character dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00610",
+      "person_signal": "non_base",
+      "note": "A character's first-person explanation; the dialogue bucket and speech-like delivery make it nondiagnostic of the narrator."
+    },
+    {
+      "quote_id": "q00611",
+      "person_signal": "non_base",
+      "note": "The full-text context attributes this sentence to Mary Holmes in dialogue; its event bucket reflects lost quotation boundaries."
+    },
+    {
+      "quote_id": "q00612",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without narratorial framing; it does not diagnose the base narrator."
+    },
+    {
+      "quote_id": "q00613",
+      "person_signal": "non_base",
+      "note": "The full text attributes this sentence to Dwight Towers in direct speech."
+    },
+    {
+      "quote_id": "q00614",
+      "person_signal": "non_base",
+      "note": "Extended first-person speech explicitly enclosed by \u201che said\u201d; nondiagnostic of base narration."
+    },
+    {
+      "quote_id": "q00615",
+      "person_signal": "non_base",
+      "note": "The full text attributes this statement to Moira Davidson in dialogue; quotation boundaries were lost upstream."
+    },
+    {
+      "quote_id": "q00616",
+      "person_signal": "non_base",
+      "note": "Lines from T. S. Eliot used as the novel's epigraph, not the novel's base narration."
+    },
+    {
+      "quote_id": "q00617",
+      "person_signal": "third",
+      "note": "Narration refers externally to \u201cshe\u201d and \u201che\u201d while disclosing his uncertainty and love, diagnosing third-person narration."
+    },
+    {
+      "quote_id": "q00618",
+      "person_signal": "unmarked",
+      "note": "Narratorial commentary about security contains no participating narrator or sufficiently localized character reference to diagnose person by itself."
+    },
+    {
+      "quote_id": "q00619",
+      "person_signal": "non_base",
+      "note": "First-person character speech in the dialogue bucket, not narratorial self-reference."
+    },
+    {
+      "quote_id": "q00620",
+      "person_signal": "third",
+      "note": "Third-person narration enters a woman's attitudes and priorities without a participating narrator, consistent with omniscient or free-indirect narration."
+    },
+    {
+      "quote_id": "q00621",
+      "person_signal": "non_base",
+      "note": "A character's first-person reaction in direct dialogue."
+    },
+    {
+      "quote_id": "q00622",
+      "person_signal": "non_base",
+      "note": "Peter Holmes's first-person plural speech; the full text explicitly introduces it with \u201che said.\u201d"
+    },
+    {
+      "quote_id": "q00623",
+      "person_signal": "non_base",
+      "note": "An exclamatory line of character dialogue with no base-narrator evidence."
+    },
+    {
+      "quote_id": "q00624",
+      "person_signal": "third",
+      "note": "After direct dialogue, sustained narration externally follows the man into sleep and reports his thoughts and memories in third person."
+    },
+    {
+      "quote_id": "q00625",
+      "person_signal": "non_base",
+      "note": "An exchange between characters; its pronouns identify interlocutors rather than the narrator."
+    },
+    {
+      "quote_id": "q00626",
+      "person_signal": "non_base",
+      "note": "Character speech in the dialogue bucket, not base narration."
+    },
+    {
+      "quote_id": "q00627",
+      "person_signal": "non_base",
+      "note": "The full-text context identifies this as Mary Holmes's direct speech; the event bucket reflects clipped quotation boundaries."
+    },
+    {
+      "quote_id": "q00628",
+      "person_signal": "third",
+      "note": "Narration reports what \u201cshe had known\u201d and characterizes another character's inner reality from a nonparticipating third-person position."
+    },
+    {
+      "quote_id": "q00629",
+      "person_signal": "non_base",
+      "note": "Direct conversation, including a first-person statement and an external speech beat; the speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00630",
+      "person_signal": "non_base",
+      "note": "Direct character speech with a local \u201che eyed\u201d beat; the first-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00631",
+      "person_signal": "non_base",
+      "note": "Direct dialogue between characters; first-person references are spoken, not narratorial."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.fadedpage.com/books/20131214/html.php",
+      "title": "The Distributed Proofreaders Canada eBook of On the Beach, by Nevil Shute",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete public-domain Canadian ebook was inspected at the opening and multiple interior and late-book locations. It consistently narrates Peter, Mary, Dwight, Moira, John, and others externally while entering their thoughts; no participating narrator or sustained alternative-person section appears."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/beach",
+      "title": "On the Beach | Encyclopedia.com",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Gale reference article's Point of View section explicitly identifies third-person omniscient narration and explains that it presents the thoughts of five principal characters and several secondary characters."
+    },
+    {
+      "url": "https://sep.turbifycdn.com/ty/cdn/monkeynote/pmOnTheBeachSample.pdf",
+      "title": "On the Beach by Nevil Shute - MonkeyNotes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened study-guide PDF describes the novel's point of view as detached third person and discusses the narrator's treatment of circumstances and characters."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cNevil Shute On the Beach excerpt first chapter narration\u201d and opened the complete Distributed Proofreaders Canada/Faded Page text.",
+    "Searched \u201cOn the Beach Nevil Shute point of view third person narrator\u201d and opened the Encyclopedia.com/Gale Point of View section and the MonkeyNotes PDF.",
+    "Searched \u201cOn the Beach Nevil Shute full text excerpt Peter Holmes Dwight Towers\u201d and inspected the ebook's opening, multiple interior passages, and late chapters for consistency across the novel.",
+    "Searched \u201cOn the Beach novel narrative perspective third person scholarly\u201d; the Critical Inquiry article and other scholarly-result abstracts discussed themes and character focus but did not explicitly establish grammatical narrative person, so they were not used as person evidence.",
+    "Ran targeted searches inside the complete ebook for the apparent first-person event quotes; each was found within direct dialogue spoken by Mary, Moira, or Dwight rather than base narration.",
+    "Search-result snippets, plot summaries, Wikipedia, BookRags, Prezi, and inaccessible or unattributed copies were not relied upon as evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person, with omniscient or shifting focal access to several characters. Diagnostic Goodreads passages q00617, q00620, q00624, and q00628 agree with the complete-text evidence and Gale's explicit structural description. The apparent first-person event quotations q00611, q00613, q00615, and q00627 were verified in the full text as clipped character dialogue, not autonomous first-person narration; q00616 is Eliot's epigraph. No credible evidence of sustained first- or second-person base sections was found. The main residual limitation is that most supplied quotes are dialogue, but complete-book web coverage resolves that sparsity.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_010",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:39:15.261057+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4b2f7507cfb01f12fb8ac63e58465992aaecd42522a8b4fb53ba8719b5c41afa"
+  }
+}

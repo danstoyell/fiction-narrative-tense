@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:BY ANY OTHER NAME|Jodi Picoult",
+  "quotes": [
+    {
+      "quote_id": "q09434",
+      "person_signal": "non_base",
+      "note": "General reflection about language; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q09435",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generalizing address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09436",
+      "person_signal": "non_base",
+      "note": "Aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q09437",
+      "person_signal": "non_base",
+      "note": "Line from the embedded rehearsal script, not the novel's base narration."
+    },
+    {
+      "quote_id": "q09438",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q09439",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical questions do not identify the base narrator."
+    },
+    {
+      "quote_id": "q09440",
+      "person_signal": "non_base",
+      "note": "Aphoristic comparison without base-person evidence."
+    },
+    {
+      "quote_id": "q09441",
+      "person_signal": "non_base",
+      "note": "Quoted advice followed by a generalized observation; nondiagnostic for base person."
+    },
+    {
+      "quote_id": "q09442",
+      "person_signal": "non_base",
+      "note": "Character speech; first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q09443",
+      "person_signal": "unmarked",
+      "note": "Possible close-third reflection, but this single unnamed 'she' sentence is insufficient by itself."
+    },
+    {
+      "quote_id": "q09444",
+      "person_signal": "non_base",
+      "note": "Gnomic question with imagined final words, not participating base narration."
+    },
+    {
+      "quote_id": "q09445",
+      "person_signal": "non_base",
+      "note": "General maxim without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q09446",
+      "person_signal": "unmarked",
+      "note": "Possible character-centered reflection, but 'her' alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q09447",
+      "person_signal": "non_base",
+      "note": "Extended character dialogue; surrounding speech beats do not independently expose the narrator."
+    },
+    {
+      "quote_id": "q09448",
+      "person_signal": "non_base",
+      "note": "Character speech with a brief action beat, not base-person evidence."
+    },
+    {
+      "quote_id": "q09449",
+      "person_signal": "unmarked",
+      "note": "A single sentence reporting Emilia's thought is too short to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q09450",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection on theater; person is not diagnostic."
+    },
+    {
+      "quote_id": "q09451",
+      "person_signal": "unmarked",
+      "note": "Possible base reflection, but its generalized 'a woman' construction does not identify person."
+    },
+    {
+      "quote_id": "q09452",
+      "person_signal": "non_base",
+      "note": "Emilia's direct speech to Maria, not first- or second-person base narration."
+    },
+    {
+      "quote_id": "q09453",
+      "person_signal": "non_base",
+      "note": "Melina's spoken question; the attribution does not establish base person."
+    },
+    {
+      "quote_id": "q09454",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09455",
+      "person_signal": "non_base",
+      "note": "Attributed character speech."
+    },
+    {
+      "quote_id": "q09456",
+      "person_signal": "non_base",
+      "note": "Generic advice using 'you,' not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q09457",
+      "person_signal": "non_base",
+      "note": "Generalized maxim using 'you,' not base-person evidence."
+    },
+    {
+      "quote_id": "q09458",
+      "person_signal": "non_base",
+      "note": "Melina's dialogue; first person belongs to the character speaker."
+    },
+    {
+      "quote_id": "q09459",
+      "person_signal": "non_base",
+      "note": "Character speech with a brief action beat, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q09460",
+      "person_signal": "non_base",
+      "note": "Attributed character dialogue."
+    },
+    {
+      "quote_id": "q09461",
+      "person_signal": "unmarked",
+      "note": "Possible close-third thought, but the clipped hypothetical sentences contain no diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q09462",
+      "person_signal": "non_base",
+      "note": "Attributed Shakespearean epigraph."
+    },
+    {
+      "quote_id": "q09463",
+      "person_signal": "unmarked",
+      "note": "A single 'she recalled' sentence does not independently establish third-person base narration."
+    },
+    {
+      "quote_id": "q09464",
+      "person_signal": "non_base",
+      "note": "Dialogue plus brief action beats; first person belongs to the speaker."
+    },
+    {
+      "quote_id": "q09465",
+      "person_signal": "third",
+      "note": "Base scene narration externally describes the man and gives Melina's internal reaction without a participating narrator."
+    },
+    {
+      "quote_id": "q09466",
+      "person_signal": "non_base",
+      "note": "First-person passage from Emilia's embedded written note to her unborn child."
+    },
+    {
+      "quote_id": "q09467",
+      "person_signal": "non_base",
+      "note": "General statement about art and fame, not narratorial-person evidence."
+    },
+    {
+      "quote_id": "q09468",
+      "person_signal": "non_base",
+      "note": "Gnomic definition of womanhood rather than story-specific narration."
+    },
+    {
+      "quote_id": "q09469",
+      "person_signal": "non_base",
+      "note": "Dialogue between Maria and Emilia."
+    },
+    {
+      "quote_id": "q09470",
+      "person_signal": "non_base",
+      "note": "Historical maxim without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q09471",
+      "person_signal": "unclear",
+      "note": "Clipped character-specific thought; its boundary does not resolve direct thought versus narration."
+    },
+    {
+      "quote_id": "q09472",
+      "person_signal": "unmarked",
+      "note": "Sentence fragment describing a man; no narrator person can be inferred."
+    },
+    {
+      "quote_id": "q09473",
+      "person_signal": "non_base",
+      "note": "Jasper's attributed first-person speech."
+    },
+    {
+      "quote_id": "q09474",
+      "person_signal": "non_base",
+      "note": "Gnomic address using generic 'you,' not second-person base narration."
+    },
+    {
+      "quote_id": "q09475",
+      "person_signal": "unmarked",
+      "note": "Generalized possible base reflection with no diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q09476",
+      "person_signal": "unmarked",
+      "note": "A single external 'she' sentence is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q09477",
+      "person_signal": "non_base",
+      "note": "Attributed Shakespearean epigraph."
+    },
+    {
+      "quote_id": "q09478",
+      "person_signal": "non_base",
+      "note": "Exposition from the author's note, not the novel's base story narration; the event bucket appears upstream-misleading."
+    },
+    {
+      "quote_id": "q09479",
+      "person_signal": "non_base",
+      "note": "Andrea's spoken theory in dialogue, not first-person base narration; the event bucket appears upstream-misleading."
+    },
+    {
+      "quote_id": "q09480",
+      "person_signal": "non_base",
+      "note": "Dialogue between Melina and Letitia."
+    },
+    {
+      "quote_id": "q09481",
+      "person_signal": "non_base",
+      "note": "Attributed embedded quotation and commentary."
+    },
+    {
+      "quote_id": "q09482",
+      "person_signal": "third",
+      "note": "Sustained close-third base narration recounts his childhood and renders his private judgment without a participating narrator."
+    },
+    {
+      "quote_id": "q09483",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic or spoken statement without base-person evidence."
+    },
+    {
+      "quote_id": "q09484",
+      "person_signal": "third",
+      "note": "Base memory narration repeatedly refers to Melina and her mother externally across a complete local passage."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jodipicoult.com/by-any-other-name.html",
+      "title": "Jodi Picoult \u00b7 By Any Other Name (2024)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized sustained Melina excerpt narrates her actions, memories, and thoughts in close third person."
+    },
+    {
+      "url": "https://lithub.com/by-any-other-name/",
+      "title": "By Any Other Name by Jodi Picoult",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The publisher-authorized Emilia, 1581 excerpt sustains close-third narration throughout the historical strand."
+    },
+    {
+      "url": "https://www.jodipicoult.com/pdfs/By-Any-Other-Name-Book-Club-Kit.pdf",
+      "title": "By Any Other Name Book Club Kit",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The official kit identifies the framed structure and alternating chapters between Emilia's and Melina's points of view, establishing the two strands whose authorized excerpts were checked."
+    },
+    {
+      "url": "https://writerunboxed.com/2025/04/16/who-is-telling-this-story-and-when-creative-and-purposeful-uses-of-person-and-tense/",
+      "title": "Who Is Telling This Story\u2014and When? Creative (and Purposeful) Uses of \u201cPerson\u201d and \u201cTense\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An explicit craft analysis states that both independent timelines are written in third person and distinguished by context rather than grammar."
+    }
+  ],
+  "search_log": [
+    "Searched: Jodi Picoult By Any Other Name excerpt, first chapter, and publisher sample; opened the author's authorized Melina excerpt.",
+    "Searched: \"By Any Other Name\" Jodi Picoult Emilia excerpt; opened Literary Hub's authorized Emilia, 1581 selection.",
+    "Searched: \"By Any Other Name\" third person, point of view, narrator, alternating timelines, and framed narrative; opened the explicit Writer Unboxed analysis and official book-club kit.",
+    "Checked Penguin Random House's title page for work and dual-timeline verification; its synopsis did not explicitly identify grammatical person.",
+    "Opened the Jellybooks excerpt listing, but its cloud reader required JavaScript and yielded no inspectable prose; it was not used as evidence.",
+    "Targeted exact-quote context searches resolved the apparent first-person event passages as character speech, an embedded note, or author's-note material rather than contrary base narration."
+  ],
+  "person_note": "The novel's controlling prose is third person across both sustained timelines. Authorized excerpts independently show close-third narration for Melina and Emilia, while the official guide establishes that these are the alternating whole-book strands and an explicit craft source confirms both use third person. The diagnostic quote passages agree, especially the sustained Jasper and Melina memory narration. Apparent first-person counterexamples are local speech or an embedded note, and q09478 is author's-note material; none constitutes a sustained first-person base section. The remaining uncertainty is limited to several clipped or gnomic quotes, not the book-level structure.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.273598+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "14da03a1ff3405d9bdd69107e5d6fd374617c40e6b230c1494fdfef2b0bc220d"
+  }
+}

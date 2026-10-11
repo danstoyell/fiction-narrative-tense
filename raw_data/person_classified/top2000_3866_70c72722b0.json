@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:3866",
+  "quotes": [
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "Quoted dialogue; its first- and second-person pronouns identify speakers and addressees, not the base narrator."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "Gnomic wordplay using generic second person, not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Quoted aphorism with generic second person; nondiagnostic of base narration."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "first",
+      "note": "Despite the clipped ending, the unquoted event narration uses narrator-subject \u201cI,\u201d exposing participating first-person narration."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-clause and is too severely clipped to determine whether its third-person sentence belongs to base narration or local material."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "A bare statement about \u201che\u201d does not establish whether the controlling narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison about hospitals; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "first",
+      "note": "Unquoted event narration uses narrator-subject \u201cI,\u201d diagnostically exposing participating first-person narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/roses-are-red/excerpt",
+      "title": "Roses Are Red by James Patterson | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized excerpt reprinted with the publisher\u2019s permission. Chapters 1\u20132 sustain third-person narration centered on Brianne Parker and the robbery."
+    },
+    {
+      "url": "https://www.audiofilemagazine.com/reviews/read/7897/roses-are-red-by-james-patterson-read-by-keith-david-jason-culp/",
+      "title": "ROSES ARE RED by James Patterson | Audiobook Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "AudioFile explicitly distinguishes Cross\u2019s first-person viewpoint, read by Keith David, from third-person narration read by Jason Culp. The reviewed edition is abridged, limiting confidence."
+    },
+    {
+      "url": "https://yenra.com/roses-are-red/",
+      "title": "Roses are Red by James Patterson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review explicitly describes shifts from first-person Cross to third-person Mastermind and reproduces a third-person opening passage alongside first-person Cross material."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-roses-are-red/style.html",
+      "title": "James Patterson Writing Styles in Roses Are Red",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide broadly calls the novel first person and identifies Alex\u2019s perspective, but it also acknowledges the villain-centered opening; its coarse whole-book label does not account for the independently documented third-person chapters."
+    },
+    {
+      "url": "https://books.google.com/books/about/Roses_Are_Red.html?id=Znt-ecoo_3wC",
+      "title": "Roses Are Red - James Patterson - Google Books",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The publisher-linked preview metadata includes a late-book snippet with first-person possessive narration, but the visible passage is too short to establish structure independently."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cRoses Are Red James Patterson excerpt\u201d and opened the authorized Bookreporter excerpt.",
+    "Searched \u201cRoses Are Red James Patterson first person third person point of view\u201d and opened AudioFile, BookRags, and Yenra results.",
+    "Searched Google Books and publisher sites for authorized opening and interior previews; Google Books exposed only limited interior snippets, while Hachette\u2019s product pages supplied metadata but no diagnostic prose.",
+    "Searched exact first-person quote and chapter phrases; unauthorized full-text PDFs and mirror copies were rejected as evidence."
+  ],
+  "person_note": "The Goodreads evidence exposes Alex Cross narrating participating events as \u201cI,\u201d while the authorized opening sustains third-person narration of Brianne Parker. AudioFile and Yenra explicitly confirm that the novel shifts between Cross\u2019s first-person sections and third-person criminal/Mastermind sections. Under the methodology, these are sustained base sections in different grammatical persons, so the result is ALTERNATING rather than FIRST; the third-person opening is not merely dialogue or an embedded document. BookRags\u2019 broad first-person description is treated as shorthand for the dominant Cross strand because it does not reconcile the demonstrable third-person chapters. Confidence is medium, not high: the direct whole-book alternating descriptions are Tier C, the Tier A prose covers only the opening, and the AudioFile review concerns an abridged edition.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.233190+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2df890ed6d784ad744389857fd859d106b8270b122cd3e43b2573ec34072df39"
+  }
+}

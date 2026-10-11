@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:1620",
+  "quotes": [
+    {
+      "quote_id": "q03018",
+      "person_signal": "third",
+      "note": "Third-person narration attributes this interior reflection to Scott; \u201ceveryone\u201d is generic, not a narrator."
+    },
+    {
+      "quote_id": "q03019",
+      "person_signal": "third",
+      "note": "Narration externally identifies Scott as \u201che\u201d while presenting his reflection."
+    },
+    {
+      "quote_id": "q03020",
+      "person_signal": "non_base",
+      "note": "A person-neutral aphorism that does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q03021",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical address rather than sustained narration of a protagonist as \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03022",
+      "person_signal": "third",
+      "note": "The narratorial tag \u201che thought\u201d frames the quoted words as Scott's local thought."
+    },
+    {
+      "quote_id": "q03023",
+      "person_signal": "unmarked",
+      "note": "The brief third-person attribution is compatible with either a participating or nonparticipating narrator; \u201cyou\u201d belongs to the reported saying."
+    },
+    {
+      "quote_id": "q03024",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection, not story-specific second-person base narration."
+    },
+    {
+      "quote_id": "q03025",
+      "person_signal": "non_base",
+      "note": "A person-neutral aphorism that does not identify the narrator."
+    },
+    {
+      "quote_id": "q03026",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks attribution and enough context to resolve whether \u201cyou\u201d is thought, address, or narration."
+    },
+    {
+      "quote_id": "q03027",
+      "person_signal": "non_base",
+      "note": "A quoted utterance with no narratorial framing."
+    },
+    {
+      "quote_id": "q03028",
+      "person_signal": "third",
+      "note": "Sustained external scene narration presents Scott as \u201chim/he\u201d; \u201cwe\u201d occurs inside his universalizing thought."
+    },
+    {
+      "quote_id": "q03029",
+      "person_signal": "unclear",
+      "note": "The isolated exclamation has no surviving boundary or attribution establishing its speaker."
+    },
+    {
+      "quote_id": "q03030",
+      "person_signal": "third",
+      "note": "Sustained narration refers externally to Scott and reports his recognition and judgment."
+    },
+    {
+      "quote_id": "q03031",
+      "person_signal": "non_base",
+      "note": "Character speech without a narratorial beat."
+    },
+    {
+      "quote_id": "q03032",
+      "person_signal": "third",
+      "note": "External past-tense narration summarizes Scott's behavior and awareness; the trailing clipping does not obscure that structure."
+    },
+    {
+      "quote_id": "q03033",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition about a road and sheriff contains no diagnostic narratorial self-reference or sustained local context."
+    },
+    {
+      "quote_id": "q03034",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed \u201chim\u201d is compatible with both first- and third-person framing."
+    },
+    {
+      "quote_id": "q03035",
+      "person_signal": "third",
+      "note": "The first-person sentence is Scott's directly quoted thought; the external tag \u201che thought\u201d belongs to third-person base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://stephenkingbooks.co.uk/wp-content/uploads/2018/10/Elevation_Extract.pdf.pdf",
+      "title": "Elevation Extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized 16-page opening sustains external narration of Scott Carey as \u201che,\u201d including access to his thoughts; first-person forms occur in dialogue rather than base narration."
+    },
+    {
+      "url": "https://www.simonandschuster.com/books/Elevation/Stephen-King/9781982102326",
+      "title": "Elevation | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Scribner's official Chapter 1 excerpt begins with sustained third-person narration centered on Scott and distinguishes that narration from first-person dialogue."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-elevation-a-novel/styles.html",
+      "title": "Stephen King Writing Styles in Elevation: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the story's narrator as third person and explains that the perspective is restricted to Scott's thoughts and emotions."
+    },
+    {
+      "url": "https://www.supersummary.com/elevation/chapter-1-summary/",
+      "title": "Elevation Chapter 1 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The chapter analysis explicitly describes the narration as third-person limited and centered on Scott's inner life."
+    }
+  ],
+  "search_log": [
+    "Searched: Stephen King Elevation excerpt publisher; opened the official Simon & Schuster excerpt and Hodder/Stephen King Books PDF extract.",
+    "Searched: Stephen King Elevation point of view third person narrator; opened BookRags' explicit whole-work point-of-view discussion.",
+    "Searched: Elevation Stephen King first chapter excerpt Scott Carey; opened SuperSummary's Chapter 1 analysis as corroboration.",
+    "Searched: Elevation third-person Stephen King narrator and related variants; results consistently described Scott-centered third-person narration and revealed no credible first-person, second-person, framed, epistolary, or alternating structure.",
+    "Checked Google Books, Hachette catalog pages, publisher summaries, and general reviews; catalog and synopsis grammar was treated as discovery material rather than narrative-person evidence."
+  ],
+  "person_note": "The quote set repeatedly shows a nonparticipating narrator presenting Scott as \u201che\u201d and directly attributing his thoughts. Apparent first person in q03035 and \u201cwe\u201d in q03028 are embedded thoughts, while the several \u201cyou\u201d forms are generic reflections, sayings, or unresolved fragments rather than sustained second-person narration. Authorized opening excerpts independently establish the same third-person pattern, and explicit study-guide analyses describe the work as third-person limited through Scott. No credible evidence of alternating or framed narration was found; the main limitation is that the Tier A prose covers the opening rather than the entire book, but the interior quotes and whole-book description remove material uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_062",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:42:30.938480+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3f5b244a2ee0ce9336255cb6ef5f5d7cf40a4d0952d9f97bb2b792d6fb1c75b4"
+  }
+}

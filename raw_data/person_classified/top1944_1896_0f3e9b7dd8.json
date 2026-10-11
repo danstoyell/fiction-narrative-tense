@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1944:1896",
+  "quotes": [
+    {
+      "quote_id": "q00613",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing another character; its second-person pronoun does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00614",
+      "person_signal": "non_base",
+      "note": "Gnomic observation about death, with no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00615",
+      "person_signal": "third",
+      "note": "Sustained external narration names Amber and another character while reporting Amber's panic, perceptions, and thoughts in third person."
+    },
+    {
+      "quote_id": "q00616",
+      "person_signal": "third",
+      "note": "An external narrator describes Amber's appearance, effect on men, and private self-awareness in third person."
+    },
+    {
+      "quote_id": "q00617",
+      "person_signal": "third",
+      "note": "Third-person narration directly reports Amber's perception, feelings, and desire without a participating narrator."
+    },
+    {
+      "quote_id": "q00618",
+      "person_signal": "non_base",
+      "note": "First-person character dialogue, not narratorial speech."
+    },
+    {
+      "quote_id": "q00619",
+      "person_signal": "unmarked",
+      "note": "Expository narration about Edward Progers is compatible with third person, but this short named-character passage alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00620",
+      "person_signal": "unmarked",
+      "note": "A single third-person statement about Amber is too brief to identify the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q00621",
+      "person_signal": "non_base",
+      "note": "Clipped editorial or foreword paratext discussing the novel's research and reception, not story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.saveourenvironment.ca/Characters_Emotion_and_Viewpoint_Nancy_Kress.pdf",
+      "title": "Characters, Emotion & Viewpoint",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Nancy Kress's published craft analysis quotes two interior Forever Amber scenes and identifies Amber as the viewpoint character; both passages narrate Amber externally as she while giving access to her sensations and thoughts, corroborating third-person narration."
+    },
+    {
+      "url": "https://lillierhsblog.blogspot.com/2014/09/literature-analysis-1.html",
+      "title": "Literature Analysis #1",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The analysis explicitly identifies the novel as third-person omniscient and reproduces third-person narration from the opening, page 181, and the ending near page 971, indicating the person persists across the book."
+    }
+  ],
+  "search_log": [
+    "Searched \"Forever Amber\" Kathleen Winsor with excerpt, first chapter, point of view, third person, omniscient, narrator, and narrative voice terms.",
+    "Opened Google Books, Penguin, Open Library, Internet Archive, and OverDrive records; publisher and catalog synopses were nondiagnostic, while the borrowable scans and audio sample did not expose usable machine-readable passages in the research interface.",
+    "Searched specifically for epistolary form, frame narrative, multiple narrators, and alternating point of view; found no credible indication of sustained first- or second-person sections.",
+    "Opened Nancy Kress's published craft analysis and the explicit whole-book POV analysis rather than relying on search snippets; also reviewed their dispersed interior, opening, and ending passages."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Amber and other characters in third person, often entering Amber's perceptions and thoughts. The substantial Goodreads scenes independently show this pattern, while the first-person and second-person forms in q00618 and q00613 are character dialogue, not base narration. Nancy Kress's interior analysis corroborates third-person treatment of Amber as the viewpoint character, and the whole-book analysis explicitly identifies third-person omniscient narration with passages spanning the opening, interior, and ending. Targeted searches found no epistolary, framed, or alternating-person structure. The main residual limitation is that the authorized library scans could not be audited end-to-end in the web interface, but the independent Tier B analysis, dispersed web passages, and diagnostic input scenes agree without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_005",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:07:55.847585+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c302b329b28a5b14aa9fa91d6671704c161696f52227bd14bf4f71c39ec77eb8"
+  }
+}

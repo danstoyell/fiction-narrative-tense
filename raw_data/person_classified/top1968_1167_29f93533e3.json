@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1968:1167",
+  "quotes": [
+    {
+      "quote_id": "q00778",
+      "person_signal": "non_base",
+      "note": "Aphoristic first-person statement; the bucket and lack of narrative context do not establish a controlling narrator."
+    },
+    {
+      "quote_id": "q00779",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison with no diagnostic base-narrator voice."
+    },
+    {
+      "quote_id": "q00780",
+      "person_signal": "non_base",
+      "note": "Quoted aphorism rather than identifiable base narration."
+    },
+    {
+      "quote_id": "q00781",
+      "person_signal": "third",
+      "note": "Sustained external scene narration refers to both characters as she/he while entering his consciousness."
+    },
+    {
+      "quote_id": "q00782",
+      "person_signal": "non_base",
+      "note": "Standalone maxim is nondiagnostic of narrative person."
+    },
+    {
+      "quote_id": "q00783",
+      "person_signal": "third",
+      "note": "External narration names Harold and Janet and directly renders Harold's beliefs, perceptions, and feelings."
+    },
+    {
+      "quote_id": "q00784",
+      "person_signal": "unmarked",
+      "note": "Describes an unnamed woman externally, but the short passage alone would also be possible within participating narration."
+    },
+    {
+      "quote_id": "q00785",
+      "person_signal": "third",
+      "note": "Sustained he/she scene narration follows the man's perception, actions, prospective learning, and bodily sensation."
+    },
+    {
+      "quote_id": "q00786",
+      "person_signal": "third",
+      "note": "Extended third-person narration enters Foxy's judgments and imagination without a participating narrator frame."
+    },
+    {
+      "quote_id": "q00787",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but isolated she/him references do not by themselves identify narrator participation."
+    },
+    {
+      "quote_id": "q00788",
+      "person_signal": "unmarked",
+      "note": "Generalized social exposition contains no diagnostic narrator pronoun or participation signal."
+    },
+    {
+      "quote_id": "q00789",
+      "person_signal": "unmarked",
+      "note": "Collective social exposition about they is compatible with either participating or nonparticipating narration in isolation."
+    },
+    {
+      "quote_id": "q00790",
+      "person_signal": "third",
+      "note": "Names Piet in third person and renders his wondering, suppositions, memories, and convictions from within."
+    },
+    {
+      "quote_id": "q00791",
+      "person_signal": "non_base",
+      "note": "The first-person plural forms occur in direct dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00792",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs inside a character's speech and is not sustained protagonist narration."
+    },
+    {
+      "quote_id": "q00793",
+      "person_signal": "third",
+      "note": "Third-person free-indirect narration presents the woman's self-judgment, fear, and guilt."
+    },
+    {
+      "quote_id": "q00794",
+      "person_signal": "non_base",
+      "note": "First-person plural us occurs in direct dialogue."
+    },
+    {
+      "quote_id": "q00795",
+      "person_signal": "third",
+      "note": "Authorial third-person exposition supplies Janet's psychological history and resulting idealism."
+    },
+    {
+      "quote_id": "q00796",
+      "person_signal": "unmarked",
+      "note": "Scene and social exposition use they/their but do not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00797",
+      "person_signal": "third",
+      "note": "Extended third-person narration moves through the woman's characterization and Piet's secret thoughts, emotions, and perceptions; the final command is local speech."
+    },
+    {
+      "quote_id": "q00798",
+      "person_signal": "unclear",
+      "note": "The clipped fragment ends mid-sentence, leaving too little local structure for a responsible signal."
+    },
+    {
+      "quote_id": "q00799",
+      "person_signal": "unmarked",
+      "note": "A brief he/her description lacks enough context to establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q00800",
+      "person_signal": "third",
+      "note": "Sustained third-person narration recounts Piet's past and enters his perceptions and thoughts; the first-person plural phrase is embedded liturgical speech."
+    },
+    {
+      "quote_id": "q00801",
+      "person_signal": "third",
+      "note": "Extended narration refers to Nancy and Piet externally while reporting Piet's perceptions and desires; the child's dream is subordinate material."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://ruminations.blog/2026/03/09/the-novel-of-adultery-an-analysis-of-john-updikes-couples/",
+      "title": "The Novel of Adultery: An Analysis of John Updike\u2019s Couples",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A detailed whole-book review explicitly describes the novel as written mostly in third-person omniscient narration and centered on Piet, with no sustained first-person narrative section reported."
+    },
+    {
+      "url": "https://www.nybooks.com/articles/2009/03/12/on-john-updike/",
+      "title": "On John Updike",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Ian McEwan discusses several interior Couples scenes in which Piet is rendered as he while his reflections and perceptions are disclosed, corroborating third-person psychological narration."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/181882/couples-by-john-updike/",
+      "title": "Couples by John Updike",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The publisher page verifies the work and advertises a sample, but the accessible page exposes only catalog copy rather than diagnostic prose."
+    },
+    {
+      "url": "https://books.google.com/books/about/Couples.html?id=FWi63qPnIN4C",
+      "title": "Couples: A Novel - John Updike - Google Books",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The limited preview and searchable index verify the edition but do not expose a sustained passage adequate to establish whole-book person."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Updike Couples novel point of view third person narrator\" and related narrator/POV combinations; found an explicit whole-book third-person description.",
+    "Searched exact combinations including \"Couples\" Updike \"third-person\", \"third-person omniscient\", and \"Piet Hanema\" \"point of view\"; results corroborated third person but were primarily reviews rather than authorized excerpts.",
+    "Searched publisher, Google Books, Open Library, and Internet Archive routes for an excerpt or first chapter; Penguin Random House displayed a sample control, while the accessible pages and digitization records did not expose sustained prose.",
+    "Opened scholarly and critical materials from JSTOR, Cambridge University Press, TU Dublin, Commentary, the Los Angeles Review of Books, and the New York Review of Books; visible scholarly portions largely addressed themes and structure, while the NYRB essay supplied localized interior third-person passages.",
+    "Targeted searches for epistolary, diary, frame narrative, multiple narrators, and alternating point of view produced no credible indication that Couples contains sustained base narration in another grammatical person."
+  ],
+  "person_note": "The event quotations repeatedly show a nonparticipating narrator rendering Piet, Foxy, Harold, Janet, and other characters as he or she while entering their thoughts and perceptions. First- and second-person forms in the sample occur only in aphorisms, dialogue, or embedded liturgical speech, and no evidence indicates sustained narration in another person. Web research agrees: an explicit whole-book review identifies mostly third-person omniscient narration, and a major critical essay corroborates third-person access to Piet's interiority. The label is therefore THIRD. Confidence remains medium because the explicit whole-book POV source is Tier C and the publisher and library previews did not expose an accessible sustained excerpt.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_015",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T01:39:00.861794+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e4a0c7c6fba43ab9b8ab50dcfa3bc58ffbf84beb56d82e5a837a9fe96579bc2a"
+  }
+}

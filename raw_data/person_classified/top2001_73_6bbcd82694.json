@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:73",
+  "quotes": [
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the isolated third-person possessive phrase does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic quotation; it is not diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "Spoken communal prayer rather than base narration."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "General counsel about marriage, not story-specific narration."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "Gnomic religious counsel using generic we and you, not a narrator addressing a protagonist."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "General second-person advice rather than sustained story-specific narration."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "non_base",
+      "note": "A character's first-person prayer, not the controlling narrator's voice."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "A character's first-person prayer, not base narration."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "A character's first-person conversion prayer, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/a-common-life-the-wedding-story/excerpt",
+      "title": "A Common Life: The Wedding Story by Jan Karon | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained excerpt reprinted with Viking's permission narrates Father Timothy externally as he and gives direct access to his thoughts, establishing third-person narration throughout Chapter One."
+    },
+    {
+      "url": "https://books.google.com/books/about/A_Common_Life.html?hl=ms&id=7LCtNAEACAAJ",
+      "title": "A Common Life: The Wedding Story \u2014 Jan Karon \u2014 Google Books",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The book preview independently displays sustained prose referring to Father Tim as he while rendering his perceptions and thoughts; its coverage remains within the opening chapter."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/289661/a-common-life-by-jan-karon/9781101548486/readers-guide/",
+      "title": "A Common Life by Jan Karon \u2014 Reading Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The publisher's whole-book guide describes scenes centered on Father Tim and other named residents, and Karon explains that she sometimes steps away to scenes at the Grill. This corroborates externally narrated, shifting focalization, although the guide does not explicitly use the term third person."
+    },
+    {
+      "url": "https://katieleigh.wordpress.com/2010/04/01/marching-forth-with-books/",
+      "title": "marching forth, with books | cakes, tea and dreams",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "A reader of the full series says this volume switches back and forth among multiple characters' perspectives. This clarifies the rotating focalization but does not by itself identify grammatical narrative person."
+    },
+    {
+      "url": "https://www.bookey.app/book/a-common-life",
+      "title": "A Common Life Chapter Summary | Jan Karon",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Chapter-by-chapter summaries report interior attention shifting among Father Tim, Uncle Billy, Dooley, Hope, and others through the final chapters. Because summary grammar is not narrative-person evidence, this was used only to investigate structure."
+    }
+  ],
+  "search_log": [
+    "Searched \"Jan Karon A Common Life excerpt\", \"first chapter\", and the publisher domain; opened the authorized Bookreporter excerpt, Google Books preview, and Penguin Random House guide.",
+    "Searched \"A Common Life Jan Karon point of view\", \"first person\", \"third person\", \"narrator\", and \"multiple perspectives\"; no scholarly or authoritative source explicitly naming the book's grammatical person was found.",
+    "Searched for epistolary, diary, frame-narrative, multiple-narrator, and alternating-POV descriptions; results indicated rotating character perspectives but no first-person frame or sustained change of narrative person.",
+    "Searched character and interior-section combinations involving Uncle Billy, Hope Winchester, Miss Sadie, Dooley, and the wedding; results were reviews, publisher synopsis material, or chapter summaries rather than an authorized interior excerpt.",
+    "Opened Open Library/Internet Archive metadata, but the available record was preview-only and yielded no additional sustained interior prose."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and uses third person, with close access to Father Tim in the authorized opening. Whole-book structural sources indicate that focalization later shifts among several Mitford residents; this is rotating third-person perspective, not ALTERNATING narrative person. The Goodreads quotes are mostly aphorisms, advice, or character prayers, and the lone possible narrative fragment is too clipped to diagnose person. No credible evidence of first- or second-person base sections was found. Confidence is medium because sustained primary prose was available only for the opening and the input quotes do not independently corroborate the classification.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.234175+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "bcc6f99960702a9a80a060c08a63c1154505a3413fc731ba88cc6f83e41cd908"
+  }
+}

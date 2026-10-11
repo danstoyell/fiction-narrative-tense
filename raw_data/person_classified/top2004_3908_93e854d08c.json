@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:3908",
+  "quotes": [
+    {
+      "quote_id": "q01085",
+      "person_signal": "non_base",
+      "note": "Inclusive gnomic question; it does not identify a participating narrator."
+    },
+    {
+      "quote_id": "q01086",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01087",
+      "person_signal": "first",
+      "note": "The narrating character recounts going to bed and crying using I; the appended maxim does not alter the signal."
+    },
+    {
+      "quote_id": "q01088",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic quotation attributed in fuller context to Danny Kaye, not base narration."
+    },
+    {
+      "quote_id": "q01089",
+      "person_signal": "non_base",
+      "note": "Gnomic life metaphor with no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q01090",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, fuller context identifies this as a quotation attributed to Father Alfred D'Souza, embedded within the novel."
+    },
+    {
+      "quote_id": "q01091",
+      "person_signal": "non_base",
+      "note": "Universal reflective questions using us and our do not identify narrative person."
+    },
+    {
+      "quote_id": "q01092",
+      "person_signal": "first",
+      "note": "A participating narrator describes her own habitual action using I."
+    },
+    {
+      "quote_id": "q01093",
+      "person_signal": "non_base",
+      "note": "Generic advice addressed to you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01094",
+      "person_signal": "first",
+      "note": "A participating voice recounts her desire using I; consistent with the novel's constitutive first-person letters."
+    },
+    {
+      "quote_id": "q01095",
+      "person_signal": "first",
+      "note": "The published opening supplies context showing this is Jennifer's first-person base narration, despite its gnomic bucket."
+    },
+    {
+      "quote_id": "q01096",
+      "person_signal": "first",
+      "note": "A participating narrator recounts loving and laughing with a male character using I."
+    },
+    {
+      "quote_id": "q01097",
+      "person_signal": "non_base",
+      "note": "Universal maxim about love without diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q01098",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic metaphor with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q01099",
+      "person_signal": "first",
+      "note": "The quoted speech is nondiagnostic, but the outside speech beat says that I completed his words."
+    },
+    {
+      "quote_id": "q01100",
+      "person_signal": "first",
+      "note": "A participating narrator describes recognizing and seizing a personally dreamed-of moment using I."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.booktopia.com.au/sam-s-letters-to-jennifer-james-patterson/book/9780755305742.html",
+      "title": "Sam's Letters to Jennifer by James Patterson",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The retailer's sustained published extract includes the prologue and Chapter One, both narrated by Jennifer as I, and places q01095 within her base narration."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780316710572",
+      "title": "SAM'S LETTERS TO JENNIFER by James Patterson",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The professional review explains the whole-book structure: Sam's letters recounting her life occupy half the novel, while Jennifer's romance forms the counterpart narrative. This corroborates two constitutive participating-character strands rather than a third-person base."
+    },
+    {
+      "url": "https://www.rambles.net/patterson_sams04.html",
+      "title": "James Patterson, Sam's Letters to Jennifer",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The audiobook review distinguishes Jennifer's point-of-view narration from Sam's voice whenever the letters are read, corroborating the two participating narrators represented in the first-person passages."
+    },
+    {
+      "url": "https://www.jamespatterson.com/titles/james-patterson/sams-letters-to-jennifer/9780759511163/",
+      "title": "Sam\u2019s Letters to Jennifer by James Patterson",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The official synopsis and epistolary genre listing corroborate the intertwined present-day story and addressed letters but do not state grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Sam's Letters to Jennifer\" James Patterson excerpt first chapter; opened and inspected the Booktopia prologue and Chapter One extract.",
+    "Searched \"Sam's Letters to Jennifer\" point of view narrator first person and \"Sam's Letters to Jennifer\" epistolary alternating narration; opened the Rambles audiobook review and official James Patterson page.",
+    "Searched Publishers Weekly and Kirkus reviews for structural and narrator evidence; Publishers Weekly established that Sam's letter text occupies half the novel alongside Jennifer's counterpart romance, while Kirkus described the romances moving back and forth.",
+    "Checked Google Books and Open Library results; Google Books exposed only metadata/search terms, and Open Library supplied only a first sentence, so neither was used as sustained person evidence.",
+    "Searched exact quote strings to resolve local attribution; fuller Goodreads context showed q01090 is an embedded Father Alfred D'Souza quotation and the published opening located q01095 in Jennifer's narration. A derivative quote-summary site was not relied upon."
+  ],
+  "person_note": "Jennifer's frame and present-day story use first-person narration, as shown by the sustained opening and several diagnostic quotes. Sam's life story is delivered through constitutive letters that also use a participating first-person voice; multiple first-person narrators remain FIRST, not ALTERNATING. Gnomic material and the embedded D'Souza and Danny Kaye quotations were excluded from the person decision. The main scope limitation is that the authorized prose extract covers only the opening, but the interior first-person quotes and whole-book structural reviews independently corroborate the classification, with no credible evidence of sustained third- or second-person sections.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_040",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T21:50:41.367117+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "15ce2b05bef997a45cf9c7fe9932eeb8f3d1c5140a57183ba77208999aae4452"
+  }
+}

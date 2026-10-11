@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:1527",
+  "quotes": [
+    {
+      "quote_id": "q02156",
+      "person_signal": "non_base",
+      "note": "Generic essayistic address and maxim; \u201cyou\u201d is not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q02157",
+      "person_signal": "non_base",
+      "note": "Universal advice using generic \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02158",
+      "person_signal": "unmarked",
+      "note": "Base historical exposition, but the generic third-person references do not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q02159",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02160",
+      "person_signal": "unmarked",
+      "note": "Base historical commentary without a diagnostic narrator pronoun or sufficiently contextualized scene."
+    },
+    {
+      "quote_id": "q02161",
+      "person_signal": "non_base",
+      "note": "Dialogue with a brief attribution; the speech and bare tag are nondiagnostic."
+    },
+    {
+      "quote_id": "q02162",
+      "person_signal": "non_base",
+      "note": "Embedded first-person testimony spoken by a character, not base narration."
+    },
+    {
+      "quote_id": "q02163",
+      "person_signal": "non_base",
+      "note": "Quoted speech dominates, and the clipped third-person frame does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q02164",
+      "person_signal": "non_base",
+      "note": "Universal moral statement rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02165",
+      "person_signal": "non_base",
+      "note": "Generic maxim quoted elsewhere in the novel as an assessment of Johnson."
+    },
+    {
+      "quote_id": "q02166",
+      "person_signal": "non_base",
+      "note": "Wyatt\u2019s direct speech; the attribution does not diagnose the narrator."
+    },
+    {
+      "quote_id": "q02167",
+      "person_signal": "non_base",
+      "note": "Cope\u2019s direct speech with a brief attribution."
+    },
+    {
+      "quote_id": "q02168",
+      "person_signal": "non_base",
+      "note": "Fuller searchable context identifies this as Cope\u2019s spoken reflection, not first-person base narration."
+    },
+    {
+      "quote_id": "q02169",
+      "person_signal": "non_base",
+      "note": "Context-free aphorism with no diagnostic narrative position."
+    },
+    {
+      "quote_id": "q02170",
+      "person_signal": "non_base",
+      "note": "Searchable surrounding text identifies this as an ironic note in Johnson\u2019s journal, an embedded document."
+    },
+    {
+      "quote_id": "q02171",
+      "person_signal": "third",
+      "note": "Sustained external scene narration treats Johnson\u2019s first-person journal sentence as a separately quoted document."
+    },
+    {
+      "quote_id": "q02172",
+      "person_signal": "unmarked",
+      "note": "Historical exposition is compatible with third-person narration but does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q02173",
+      "person_signal": "unmarked",
+      "note": "Historical exposition without a diagnostic narratorial pronoun or sustained character scene."
+    },
+    {
+      "quote_id": "q02174",
+      "person_signal": "third",
+      "note": "Substantial external narration frames Cope and the assembled men before and after their dialogue."
+    },
+    {
+      "quote_id": "q02175",
+      "person_signal": "unmarked",
+      "note": "Descriptive base narration without characters or a pronoun that establishes narrator participation."
+    },
+    {
+      "quote_id": "q02176",
+      "person_signal": "unmarked",
+      "note": "A brief scene about \u201cshe\u201d and \u201che\u201d lacks enough context to distinguish third-person narration from a participating narrator describing others."
+    },
+    {
+      "quote_id": "q02177",
+      "person_signal": "non_base",
+      "note": "Argumentative character reflection/generalization rather than diagnostic base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/pe/literatura-contemporanea/346531-libro-dientes-de-dragon-9788401021008/fragmento",
+      "title": "Dientes de drag\u00f3n \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s sustained Spanish excerpt begins with external third-person narration, explicitly introduces a first-person passage as Johnson\u2019s diary, and then resumes third-person narration in subsequent chapters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-dragon-teeth/styles.html",
+      "title": "Michael Crichton Writing Styles in Dragon Teeth",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly identifies an omniscient third-person narrator and says the narrative is told almost entirely through William Johnson\u2019s perspective."
+    },
+    {
+      "url": "https://deeptimedispatches.wordpress.com/2017/06/14/book-review-dragon-teeth/",
+      "title": "Book Review \u2013 Dragon Teeth",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A detailed review explicitly says the book is mostly third person with occasional excerpts from Johnson\u2019s journals, resolving the visible first-person passages as embedded documents."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/dragon-teeth/excerpt",
+      "title": "Dragon Teeth by Michael Crichton \u2014 Excerpt",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained English excerpt narrates Johnson externally while marking first-person sentences as quotations from his journal."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMichael Crichton Dragon Teeth excerpt chapter narration,\u201d \u201cDragon Teeth Michael Crichton point of view third person narrator,\u201d \u201csite:michaelcrichton.com Dragon Teeth excerpt,\u201d and \u201csite:harpercollins.com Dragon Teeth Michael Crichton excerpt.\u201d",
+    "Opened and assessed the Penguin Random House Spanish publisher excerpt, BookRags point-of-view analysis, Bookreporter English excerpt, Kirkus audiobook review, and Google Books record; the Kirkus and Google Books pages described Johnson\u2019s perspective or plot but did not explicitly establish grammatical narrative person.",
+    "Searched exact passages \u201cReligion explains what man cannot explain\u201d and \u201cI am most heartily glad that I am not going to the dangerous and uncertain Black Hills\u201d; fuller contexts showed the former is Cope\u2019s speech and the latter is a quoted Johnson journal note.",
+    "Searched \u201cDragon Teeth omniscient third-person narrator\u201d and \u201cDragon Teeth third-person William Johnson\u201d; found explicit whole-book descriptions from BookRags and Deep Time Dispatches, with the latter specifically distinguishing the third-person narrative from occasional journal excerpts.",
+    "No credible source found evidence of sustained second-person narration or autonomous first-person base sections; inaccessible previews and plot-summary grammar were not used as person evidence."
+  ],
+  "person_note": "The controlling narrative is third person, principally focalized through William Johnson. Goodreads supplies sustained third-person framing in q02171 and q02174, while the authorized publisher excerpt independently shows external narration surrounding explicitly introduced journal material. The apparent first-person counterexamples are local: q02168 is Cope\u2019s speech, and q02170 plus the journal sentence inside q02171 are embedded writings by Johnson. The brief faux-editorial introduction and occasional journal excerpts do not constitute sustained autonomous base sections, so they do not warrant ALTERNATING. No material uncertainty remains beyond the limited scope of the authorized excerpt.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_059",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:26:17.986240+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3a61512b9bbf3a00c5d5a29835239ea945dc76cdfd0256303a283508774d2b2e"
+  }
+}

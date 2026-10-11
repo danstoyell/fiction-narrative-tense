@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1942:5820",
+  "quotes": [
+    {
+      "quote_id": "q00205",
+      "person_signal": "non_base",
+      "note": "Character speech; its generic references to free and herd men do not identify the narrator."
+    },
+    {
+      "quote_id": "q00206",
+      "person_signal": "non_base",
+      "note": "A character's first-person speech, not participating base narration."
+    },
+    {
+      "quote_id": "q00207",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor, locally nondiagnostic of narrative person."
+    },
+    {
+      "quote_id": "q00208",
+      "person_signal": "non_base",
+      "note": "A character's first-person speech and direct address, not base narration."
+    },
+    {
+      "quote_id": "q00209",
+      "person_signal": "non_base",
+      "note": "Research restores this as Colonel Lanser's direct speech; the event bucket appears to reflect lost quotation boundaries."
+    },
+    {
+      "quote_id": "q00210",
+      "person_signal": "non_base",
+      "note": "Character speech; first-person plural refers to the speaker's group."
+    },
+    {
+      "quote_id": "q00211",
+      "person_signal": "non_base",
+      "note": "Character speech; we and they do not expose the base narrator."
+    },
+    {
+      "quote_id": "q00212",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using universal you, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00213",
+      "person_signal": "non_base",
+      "note": "Generalized speech about war, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00214",
+      "person_signal": "non_base",
+      "note": "A soldier is addressed as you within dialogue; this is not controlling second-person narration."
+    },
+    {
+      "quote_id": "q00215",
+      "person_signal": "third",
+      "note": "Base narration reports Madame Orden's knowledge and inaccessible understanding of her husband from a nonparticipating position."
+    },
+    {
+      "quote_id": "q00216",
+      "person_signal": "non_base",
+      "note": "Lanser's quoted speech; the short third-person speech beat does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00217",
+      "person_signal": "non_base",
+      "note": "Doctor Winter's attributed speech, not base narration."
+    },
+    {
+      "quote_id": "q00218",
+      "person_signal": "non_base",
+      "note": "Lanser's attributed direct speech; you addresses another character."
+    },
+    {
+      "quote_id": "q00219",
+      "person_signal": "unmarked",
+      "note": "Scene description is compatible with third-person narration but does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00220",
+      "person_signal": "unmarked",
+      "note": "Research places this in narratorial description, despite its dialogue bucket, but the isolated statement does not identify person."
+    },
+    {
+      "quote_id": "q00221",
+      "person_signal": "third",
+      "note": "The narrator externally reports a male character's private conception of God."
+    },
+    {
+      "quote_id": "q00222",
+      "person_signal": "third",
+      "note": "Nonparticipating narration characterizes Joseph's habitual attitude; surrounding prose also enters his perceptions."
+    },
+    {
+      "quote_id": "q00223",
+      "person_signal": "non_base",
+      "note": "Gnomic moral statement, locally nondiagnostic of base person."
+    },
+    {
+      "quote_id": "q00224",
+      "person_signal": "third",
+      "note": "The narrator reports Captain Loft's belief and failure to imagine an alternative from outside the story."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ia801604.us.archive.org/31/items/in.ernet.dli.2015.115885/2015.115885.John-Steinbeck-The-Moon-Is-Down.pdf",
+      "title": "John Steinbeck: The Moon Is Down",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Complete library scan shows sustained nonparticipating third-person narration throughout the opening, interior chapters, and conclusion, including access to multiple characters' thoughts; no first- or second-person base sections appear."
+    },
+    {
+      "url": "https://elibrary.tucl.edu.np/bitstreams/b2ec8535-6e1d-4ae5-bf20-b92cf492ad73/download",
+      "title": "Cultural Trauma in John Steinbeck's The Moon Is Down",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "University-hosted scholarly thesis explicitly analyzes Steinbeck's third-person omniscient narrative technique across the novel."
+    },
+    {
+      "url": "https://dl.ibdocs.re/LitCharts/Literature%20Guides/The-Moon-is-Down-LitChart.pdf",
+      "title": "The Moon Is Down LitChart",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies the work's point of view as third-person omniscient and analyzes scenes involving both occupiers and townspeople."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-moon-is-down/style.html",
+      "title": "John Steinbeck Writing Styles in The Moon Is Down",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly describes the novel as third-person omniscient, with access to the characters' thoughts and feelings."
+    },
+    {
+      "url": "https://www.loa.org/books/179-novels-1942-1952/",
+      "title": "John Steinbeck: Novels 1942\u20131952",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Library of America confirms that the eligible work is a novel conceived alongside a play and told largely in dialogue; this explains the dialogue-heavy quote sample but is not itself person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Steinbeck The Moon Is Down full text excerpt first chapter narration\" and located a complete Internet Archive library scan plus chapter transcriptions.",
+    "Searched \"The Moon Is Down John Steinbeck point of view third person narrator\" and opened explicit whole-book descriptions from a university thesis, LitCharts, and BookRags.",
+    "Searched publisher, Penguin Random House, Google Books, library, and excerpt combinations; Google Books primarily exposed a dramatized edition rather than a diagnostic authorized excerpt of the novel.",
+    "Searched \"The Moon Is Down\" with epistolary, diary, frame narrative, multiple narrators, alternating point of view, and first-person narrator; found no evidence of such a structure and found repeated third-person descriptions instead.",
+    "Searched exact text from q00209 and q00220 to repair local boundaries: q00209 is Colonel Lanser's speech, while q00220 belongs to third-person narratorial description.",
+    "Compared opening and interior chapter text with the full-book scan; narration remains externally third-person while focal attention moves among townspeople and invaders."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person omniscient, moving among characters on both sides of the occupation and reporting private beliefs or perceptions. Quotes q00215, q00221, q00222, and q00224 independently corroborate that position. The apparent first person in q00209 is Colonel Lanser's speech with lost quotation boundaries, not a narrator; the many other I, we, and you forms are likewise dialogue or gnomic address. q00220 appears misbucketed as dialogue but is nondiagnostic narratorial description. Whole-book library and scholarly evidence reveals no sustained first- or second-person section, epistolary layer, or narrative frame. The main limitation is that many supplied quotes are dialogue, but the diagnostic narration and strong web evidence agree.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_004",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T22:51:24.304183+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f3167d1577527ec3b6db9887dbd7355235250ea08da15c1e685ec98f80282cab"
+  }
+}

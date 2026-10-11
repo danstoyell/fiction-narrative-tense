@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1953:6923",
+  "quotes": [
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "Gnomic moral statement with no story-specific narrator marker."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "non_base",
+      "note": "Character speech; its first-person plurals do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "non_base",
+      "note": "Character speech with a nondiagnostic third-person speech beat."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Direct address and first-person language belong to a speaking character."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "The visible first-person pronouns occur in dialogue; the external speech beats do not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary using generic people and generic 'one,' without a diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "first",
+      "note": "The base narratorial aside 'what we call' places the narrator within the story's local community while she recounts Pieter's mood."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "unmarked",
+      "note": "Possible base narration about absent characters, but third-person subjects alone do not distinguish a participating narrator from an external one."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "first",
+      "note": "The story-specific possessive 'our little park' locates the narrator within the narrated town, despite the surrounding account of Pieter as 'he.'"
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "unmarked",
+      "note": "The passage narrates Kappie externally, while 'you' is generic in a puzzle analogy rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "first",
+      "note": "Unmistakable participating narration: Sophie recounts her own attempt to warn the man she loved, repeatedly using 'I,' 'me,' and 'us.'"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://journals.lib.unb.ca/index.php/IFR/article/download/13489/14572/18197",
+      "title": "Paton's Narrator Sophie: Justice and Mercy in Too Late the Phalarope",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly article explicitly identifies Sophie as the novel's first-person narrator, describes the book as her reflections and commentary around Pieter's diary, and states that Paton does not employ two separate narrators."
+    },
+    {
+      "url": "https://repository.up.ac.za/bitstream/2263/28480/1/thesis.pdf",
+      "title": "The small-town novel in South African English literature (1910\u20131948)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly thesis identifies Aunt Sophie as narrator, calls the opening lament first-person, reproduces the opening corresponding to q00034, and explains that her retrospective narrative interweaves material from Pieter's journal."
+    }
+  ],
+  "search_log": [
+    "Searched \"Too Late the Phalarope\" narrator first person aunt Sophie and \"Too Late the Phalarope\" narrated Sophie; found and opened the International Fiction Review article.",
+    "Searched \"Too Late the Phalarope\" excerpt Alan Paton and point of view narrator; opened a University of Pretoria thesis with whole-book structural analysis and the opening passage.",
+    "Searched Archive.org, Open Library, and Google Books for authorized or library previews; Open Library exposed catalog information but no usable narrative text, and the Google Books page failed to open, so neither was used as person evidence.",
+    "Checked general reference and review results for frame narrative, diary, or alternating-person claims; inaccessible reference pages and synopsis-only results were treated as discovery dead ends, and no credible contrary account was found."
+  ],
+  "person_note": "The controlling narrator is Pieter van Vlaanderen's aunt Sophie, a participant-observer who retrospectively tells the family tragedy in the first person. q00034 is diagnostic and is independently identified by scholarly research as Sophie's first-person opening lament; q00030 and q00032 also retain story-specific communal first-person markers. The third-person descriptions of Pieter and Kappie are compatible with Sophie narrating other characters and therefore are not evidence for a third-person controller. Dialogue and gnomic quotations are local or nondiagnostic. Both scholarly sources explain that Pieter's diary is interwoven material within Sophie's account, not a sustained change to a different grammatical-person category. The only residual uncertainty is the exact boundary of particular diary excerpts in the clipped quotes, which does not affect the FIRST classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_009",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:27:42.150243+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "45e85aaa325a72599528961b4fe912c16a674a1f31e28868f5f943a830428421"
+  }
+}

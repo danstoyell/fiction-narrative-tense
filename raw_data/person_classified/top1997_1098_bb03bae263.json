@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:1098",
+  "quotes": [
+    {
+      "quote_id": "q00227",
+      "person_signal": "third",
+      "note": "Extended third-person narration frames and reports Inman's speech, actions, feelings, and belief; speech-internal pronouns are local."
+    },
+    {
+      "quote_id": "q00228",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to \u201che\u201d is compatible with either first- or third-person base narration."
+    },
+    {
+      "quote_id": "q00229",
+      "person_signal": "non_base",
+      "note": "First-person forms occur in dialogue between characters, not in base narration."
+    },
+    {
+      "quote_id": "q00230",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00231",
+      "person_signal": "non_base",
+      "note": "A context-free gnomic statement, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q00232",
+      "person_signal": "non_base",
+      "note": "Character speech with only a brief attribution beat; the spoken pronouns are local."
+    },
+    {
+      "quote_id": "q00233",
+      "person_signal": "non_base",
+      "note": "Contextual research identifies this clipped first-person line as Ada's dialogue, not narrator speech."
+    },
+    {
+      "quote_id": "q00234",
+      "person_signal": "non_base",
+      "note": "General aphoristic material without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q00235",
+      "person_signal": "non_base",
+      "note": "Contextual research places this first-person reflection in Ada's spoken dialogue."
+    },
+    {
+      "quote_id": "q00236",
+      "person_signal": "third",
+      "note": "Sustained narration presents Inman externally as \u201che\u201d while reporting his belief and relationship to \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q00237",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a male character's discovery and internal interpretation in third person."
+    },
+    {
+      "quote_id": "q00238",
+      "person_signal": "non_base",
+      "note": "Direct character address; \u201cyou\u201d is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00239",
+      "person_signal": "unmarked",
+      "note": "An isolated third-person report of a woman's thought is too short to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q00240",
+      "person_signal": "third",
+      "note": "Sustained third-person focal narration reports her thought, identity, and belief while naming Ada and Inman externally."
+    },
+    {
+      "quote_id": "q00241",
+      "person_signal": "non_base",
+      "note": "Gnomic \u201cwe\u201d is universalizing rather than a participating narrator's story-specific voice."
+    },
+    {
+      "quote_id": "q00242",
+      "person_signal": "non_base",
+      "note": "The passage is reported speech by Ruby; \u201cwe\u201d and generalized \u201cyou\u201d belong to that local discourse."
+    },
+    {
+      "quote_id": "q00243",
+      "person_signal": "third",
+      "note": "A sustained scene narrates Inman's actions, perceptions, emotions, and thoughts externally in third person."
+    },
+    {
+      "quote_id": "q00244",
+      "person_signal": "non_base",
+      "note": "Context-free maxim with no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q00245",
+      "person_signal": "non_base",
+      "note": "First-person hypothetical occurs wholly within character speech."
+    },
+    {
+      "quote_id": "q00246",
+      "person_signal": "non_base",
+      "note": "First-person and direct-address forms occur in dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00247",
+      "person_signal": "unmarked",
+      "note": "The brief third-person frame around quoted exchange does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00248",
+      "person_signal": "non_base",
+      "note": "A contextual study source attributes these first-person words to Ada, making them a local character voice."
+    },
+    {
+      "quote_id": "q00249",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person report of her knowledge is compatible with more than one possible framing narrator when read alone."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://groveatlantic.com/book/cold-mountain/",
+      "title": "Cold Mountain | Grove Atlantic",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained opening excerpt narrates Inman, his memories, perceptions, and thoughts externally in third person."
+    },
+    {
+      "url": "https://www.salon.com/1997/07/09/mountain/",
+      "title": "Excerpts from \u201cCold Mountain\u201d by Charles Frazier",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An author-attributed interior excerpt sustains third-person narration centered on Inman, including externally framed thoughts and dialogue."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/39281929_The_usual_suspects_the_grammar_of_perspective_in_narrative_fiction",
+      "title": "The usual suspects: the grammar of perspective in narrative fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "T. Giv\u00f3n's scholarly analysis describes an outside omniscient narrator and systematically traces alternating Ada/Inman focal perspective across chapters 1\u201321; the alternation is focalization within third-person narration."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/coldmountain/facts/",
+      "title": "Cold Mountain: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies the narrator as third-person and explains that viewpoint generally follows Ada or Inman, with occasional other focal characters."
+    },
+    {
+      "url": "https://learnenglish-new.com/wp-content/uploads/2023/05/Cold-Mountain-By-Charles-Frazier-Retold-by-Mary-Tomalin.pdf",
+      "title": "Cold Mountain by Charles Frazier, retold by Mary Tomalin",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "This adaptation is not evidence for the original novel's overall person, but its contextual scene explicitly assigns q00233 and the corresponding q00235 sentiment to Ada's dialogue."
+    },
+    {
+      "url": "https://thebestnotes.com/booknotes/cold_mountain_frazier/cold_mountain_summary21.html",
+      "title": "Cold Mountain: Quotations\u2014Important Quotes and Analysis",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "A weak contextual source attributes q00248 to Ada's words, supporting treatment of its first-person form as local rather than base narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cCold Mountain Charles Frazier official excerpt chapter one\u201d and followed the author's link to Grove Atlantic's publisher excerpt.",
+    "Searched for an interior extract and opened Salon's 1997 author-attributed excerpt, which sustains third-person Inman narration.",
+    "Searched \u201cCold Mountain Charles Frazier point of view third person narrator\u201d and opened explicit whole-book descriptions from SparkNotes and Course Hero; both identified third-person narration.",
+    "Searched for scholarly analysis of alternating Ada and Inman chapters and opened T. Giv\u00f3n's chapter-length study of perspective throughout the novel.",
+    "Ran targeted exact-phrase searches for q00233, q00235, and q00248; contextual sources assigned the apparent first-person passages to Ada rather than to a controlling narrator.",
+    "Searched combinations of \u201cepistolary,\u201d \u201cframe narrative,\u201d \u201cfirst person,\u201d \u201cmultiple narrators,\u201d and \u201calternating narration\u201d; results consistently described alternating character perspectives within third-person narration and revealed no sustained first-person frame."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person. Several Goodreads passages sustain external narration of Inman or Ada while entering their perceptions and beliefs, and both publisher/interior excerpts independently show the same technique. The novel alternates chiefly between Ada- and Inman-centered chapters, but scholarly and explicit whole-book sources establish that these are changes of focal character, not changes of grammatical person, so ALTERNATING does not apply. Apparent first-person counterexamples q00233, q00235, and q00248 are clipped Ada dialogue or local character voice; other first- and second-person forms occur in speech or maxims. The main residual uncertainty is that quote extraction has removed some dialogue boundaries, but targeted contextual searches resolve the potentially conflicting examples and no credible source indicates first- or second-person base narration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.227375+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1756231f49bcb0330dbab703b6e17e6ccd6d47dac8b9921372c7fc17400422a9"
+  }
+}

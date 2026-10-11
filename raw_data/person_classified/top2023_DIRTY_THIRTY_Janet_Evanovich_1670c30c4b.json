@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:DIRTY THIRTY|Janet Evanovich",
+  "quotes": [
+    {
+      "quote_id": "q08511",
+      "person_signal": "first",
+      "note": "Despite the dialogue-majority bucket, the outside speech beat \u201cI said\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q08512",
+      "person_signal": "non_base",
+      "note": "Gnomic punchline with no diagnostic reference to the story's narrator."
+    },
+    {
+      "quote_id": "q08513",
+      "person_signal": "non_base",
+      "note": "Generalized aphorism; its grammar does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08514",
+      "person_signal": "unclear",
+      "note": "The fragment is clipped at both ends, preventing reliable attribution or person analysis."
+    },
+    {
+      "quote_id": "q08515",
+      "person_signal": "non_base",
+      "note": "Direct-address speech with a speaker-local \u201cme\u201d; it does not identify base narration."
+    },
+    {
+      "quote_id": "q08516",
+      "person_signal": "unmarked",
+      "note": "The dialogue is non-diagnostic, and the brief outside tag naming Connie does not establish narrator participation."
+    },
+    {
+      "quote_id": "q08517",
+      "person_signal": "unmarked",
+      "note": "The outside speech tags are possible base narration but contain no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q08518",
+      "person_signal": "non_base",
+      "note": "Attributed chapter-epigraph speech by Lula, not the controlling narration."
+    },
+    {
+      "quote_id": "q08519",
+      "person_signal": "first",
+      "note": "Outside the characters' speech, the narrator says \u201cwe heard,\u201d \u201ctold me,\u201d and \u201cI said,\u201d exposing participating narration."
+    },
+    {
+      "quote_id": "q08520",
+      "person_signal": "non_base",
+      "note": "Clipped character dialogue whose first-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q08521",
+      "person_signal": "first",
+      "note": "The participating narrator recounts a stakeout using \u201cmy mom,\u201d \u201cI,\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q08522",
+      "person_signal": "first",
+      "note": "The narrator describes her mother and her own preferences using \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08523",
+      "person_signal": "first",
+      "note": "Sustained event narration uses \u201cI handed\u201d and first-person speech beats around externally described characters."
+    },
+    {
+      "quote_id": "q08524",
+      "person_signal": "first",
+      "note": "Story-world exposition is anchored in the narrator's life through \u201cI grew up\u201d and \u201cmy parents.\u201d"
+    },
+    {
+      "quote_id": "q08525",
+      "person_signal": "first",
+      "note": "The narrator explicitly reflects on \u201cmy history\u201d and states \u201cI\u2019m resilient.\u201d"
+    },
+    {
+      "quote_id": "q08526",
+      "person_signal": "non_base",
+      "note": "Attributed chapter-epigraph speech by Mary Lou Stankovic, not base narration."
+    },
+    {
+      "quote_id": "q08527",
+      "person_signal": "non_base",
+      "note": "The direct-address tag question and speaker-local \u201cme\u201d belong to the dialogue voice under the existing bucket."
+    },
+    {
+      "quote_id": "q08528",
+      "person_signal": "non_base",
+      "note": "Universal second-person reflection about clowning and writing, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08529",
+      "person_signal": "non_base",
+      "note": "The \u201cwe\u201d is universal within a gnomic observation and does not diagnose narrator participation."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/Dirty-Thirty/Janet-Evanovich/Stephanie-Plum/9781668003114",
+      "title": "Dirty Thirty | Book by Janet Evanovich | Official Publisher Page | Simon & Schuster",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized, sustained Chapter One excerpt identifies the narrator as Stephanie Plum and repeatedly narrates her actions and perceptions as \u201cI.\u201d"
+    },
+    {
+      "url": "https://galavantreflections.com/2023/07/06/leafing-through-pages-eleven-on-top-stephanie-plum-11/",
+      "title": "Leafing Through Pages \u2013 Eleven on Top (Stephanie Plum #11)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly discusses the Stephanie Plum series through the forthcoming thirtieth book, Dirty Thirty, and states that the stories use first-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDirty Thirty Janet Evanovich excerpt first chapter,\u201d publisher-site variants, and author-site variants; found and opened Simon & Schuster's authorized Chapter One excerpt.",
+    "Searched \u201cDirty Thirty first person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201cStephanie narrates\u201d; found and opened an explicit series-wide first-person description that includes Dirty Thirty.",
+    "Searched for epistolary form, multiple narrators, alternating point of view, and third-person narration; found no credible evidence of those structures.",
+    "Opened library, review, publisher, and series results as available; plot summaries and catalog copy that did not explicitly establish narrative person were treated as non-diagnostic discovery material."
+  ],
+  "person_note": "Stephanie Plum is the participating first-person base narrator. The authorized opening establishes that voice, while numerous independent interior Goodreads passages continue it through narratorial \u201cI,\u201d \u201cmy,\u201d and \u201cwe\u201d; a series-wide source also explicitly identifies the stories as first-person. First-person language inside dialogue, epigraphs, and universal reflections was kept local rather than counted as base evidence. No credible indication of alternating, framed, epistolary, second-person, or third-person sections was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.270790+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "22b3bdf2b6c42657306519d9433edadc2ad1a6c2a2558c0bf9568bc92d9f004d"
+  }
+}

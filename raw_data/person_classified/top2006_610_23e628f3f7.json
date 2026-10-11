@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:610",
+  "quotes": [
+    {
+      "quote_id": "q01391",
+      "person_signal": "first",
+      "note": "The event narration uses \u201cmy professor\u201d while describing the narrator\u2019s investigative work; the quoted phrase within it is merely Hartstein\u2019s terminology."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://betweenthelines--bookreviews.blogspot.com/2011/05/beach-road-james-patterson.html",
+      "title": "Beach Road - James Patterson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Explicitly states that seven characters tell the story and that each chapter identifies its first-person speaker; most chapters belong to Tom Dunleavy."
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/21432.Beach_Road",
+      "title": "Beach Road by James Patterson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A reader explicitly describes all seven POVs as first-person and present-tense, with a character name heading each chapter."
+    },
+    {
+      "url": "https://rilawyersweekly.com/blog/2006/08/07/beach-road-takes-reader-on-mostly-enjoyable-ride/",
+      "title": "\u2018Beach Road\u2019 takes reader on mostly enjoyable ride",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The professional review confirms that every chapter adopts the viewpoint of one of seven named main characters, corroborating the multi-narrator structure but not independently specifying grammatical person."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2006/jun/17/summerreading2006.summerreading",
+      "title": "In the bag",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The Guardian review independently identifies multiple narrators throughout the novel but does not state whether their narration is first- or third-person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Beach Road\" \"James Patterson\" with first person, narrator, point of view, multiple narrators, excerpt, and chapter queries.",
+    "Opened the Rhode Island Lawyers Weekly review, which describes 117 chapters distributed among seven character viewpoints.",
+    "Opened the explicit Between the Lines review and Goodreads discussion identifying the seven chapter voices as first-person.",
+    "Checked the Guardian and AudioFile reviews for independent structural corroboration; they confirm multiple narrators or a multi-actor cast but do not explicitly identify grammatical person.",
+    "Checked the author/publisher page and Google Books limited-preview record; the accessible pages supplied bibliographic or synopsis material rather than a sustained inspectable excerpt, so they were not treated as Tier A person evidence.",
+    "Encountered unattributed full-text mirrors and did not rely on them as strong evidence."
+  ],
+  "person_note": "The quote independently exposes participating first-person narration, and explicit web descriptions establish that the novel rotates among seven named first-person character narrators. Because all sustained narrators use the same grammatical person, this is FIRST rather than ALTERNATING. No credible source indicates sustained second- or third-person sections. Confidence is medium, not high: the whole-book web descriptions are Tier C, while the authorized Google Books preview could not be inspected as sustained prose.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.240787+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "deeafcf0181dcf517567481b0ea50768956c06ac49e922cdc52467679acedfcc"
+  }
+}

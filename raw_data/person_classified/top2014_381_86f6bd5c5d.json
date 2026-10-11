@@ -1,0 +1,509 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:381",
+  "quotes": [
+    {
+      "quote_id": "q03023",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative; generic you does not identify the narrator."
+    },
+    {
+      "quote_id": "q03024",
+      "person_signal": "non_base",
+      "note": "Aphoristic question with generic you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03025",
+      "person_signal": "non_base",
+      "note": "Marie-Laure's first-person speech to Werner, not base narration."
+    },
+    {
+      "quote_id": "q03026",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to children."
+    },
+    {
+      "quote_id": "q03027",
+      "person_signal": "non_base",
+      "note": "Generic aphorism; your is universal rather than story-specific narration."
+    },
+    {
+      "quote_id": "q03028",
+      "person_signal": "non_base",
+      "note": "First-person passage from Werner's letter to Jutta, an embedded document."
+    },
+    {
+      "quote_id": "q03029",
+      "person_signal": "non_base",
+      "note": "Direct speech; its I, we, and you belong to a character."
+    },
+    {
+      "quote_id": "q03030",
+      "person_signal": "non_base",
+      "note": "Gnomic question using generic you."
+    },
+    {
+      "quote_id": "q03031",
+      "person_signal": "non_base",
+      "note": "Gnomic we does not expose the base narrator."
+    },
+    {
+      "quote_id": "q03032",
+      "person_signal": "non_base",
+      "note": "Universal question rather than narrative discourse."
+    },
+    {
+      "quote_id": "q03033",
+      "person_signal": "non_base",
+      "note": "General reflection about humanity; inclusive we is gnomic."
+    },
+    {
+      "quote_id": "q03034",
+      "person_signal": "non_base",
+      "note": "Aphorism without diagnostic narration."
+    },
+    {
+      "quote_id": "q03035",
+      "person_signal": "non_base",
+      "note": "The first-person plural occurs in a lecturer's direct speech."
+    },
+    {
+      "quote_id": "q03036",
+      "person_signal": "non_base",
+      "note": "Dialogue; the brief speech attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q03037",
+      "person_signal": "non_base",
+      "note": "Direct speech."
+    },
+    {
+      "quote_id": "q03038",
+      "person_signal": "non_base",
+      "note": "A remembered Jules Verne quotation embedded in character consciousness."
+    },
+    {
+      "quote_id": "q03039",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the isolated his and generic simile do not establish narrator participation."
+    },
+    {
+      "quote_id": "q03040",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion."
+    },
+    {
+      "quote_id": "q03041",
+      "person_signal": "non_base",
+      "note": "Character dialogue."
+    },
+    {
+      "quote_id": "q03042",
+      "person_signal": "non_base",
+      "note": "Fragmentary general reflection, not a diagnostic narrative scene."
+    },
+    {
+      "quote_id": "q03043",
+      "person_signal": "third",
+      "note": "An external narrator frames and reports a female character's thought."
+    },
+    {
+      "quote_id": "q03044",
+      "person_signal": "unclear",
+      "note": "Fragment lacks enough syntax or context to resolve its narrative function."
+    },
+    {
+      "quote_id": "q03045",
+      "person_signal": "third",
+      "note": "Third-person focalized narration presents a character's associations and remembered voice."
+    },
+    {
+      "quote_id": "q03046",
+      "person_signal": "third",
+      "note": "Sustained narration names Marie-Laure and repeatedly renders her perceptions as she; the opening your is generic."
+    },
+    {
+      "quote_id": "q03047",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment without a narrated character or scene."
+    },
+    {
+      "quote_id": "q03048",
+      "person_signal": "third",
+      "note": "The external he thinks frame identifies the first- and second-person language as local thought."
+    },
+    {
+      "quote_id": "q03049",
+      "person_signal": "unmarked",
+      "note": "An isolated description of she could also be supplied by a participating observer."
+    },
+    {
+      "quote_id": "q03050",
+      "person_signal": "third",
+      "note": "External narration reports what a male character hopes about her."
+    },
+    {
+      "quote_id": "q03051",
+      "person_signal": "third",
+      "note": "The narrator names Werner and reports his nighttime wondering."
+    },
+    {
+      "quote_id": "q03052",
+      "person_signal": "non_base",
+      "note": "General maxim."
+    },
+    {
+      "quote_id": "q03053",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement rather than scene narration."
+    },
+    {
+      "quote_id": "q03054",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates; brief named speech beats do not alone prove narrator person."
+    },
+    {
+      "quote_id": "q03055",
+      "person_signal": "third",
+      "note": "An external she realizes frame renders a character's fear."
+    },
+    {
+      "quote_id": "q03056",
+      "person_signal": "non_base",
+      "note": "Isolated first-person character thought or utterance within the established third-person novel, not controlling narration."
+    },
+    {
+      "quote_id": "q03057",
+      "person_signal": "non_base",
+      "note": "Gnomic definition."
+    },
+    {
+      "quote_id": "q03058",
+      "person_signal": "third",
+      "note": "Free-indirect questions are focalized through a female character identified through her relations to named characters."
+    },
+    {
+      "quote_id": "q03059",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates his actions toward her and attributes his speech."
+    },
+    {
+      "quote_id": "q03060",
+      "person_signal": "non_base",
+      "note": "General metaphor about war."
+    },
+    {
+      "quote_id": "q03061",
+      "person_signal": "unmarked",
+      "note": "The single figurative sentence about her does not by itself establish narrator person."
+    },
+    {
+      "quote_id": "q03062",
+      "person_signal": "third",
+      "note": "External narration reports what a female character is learning."
+    },
+    {
+      "quote_id": "q03063",
+      "person_signal": "non_base",
+      "note": "Inclusive-we aphorism, not participating narration."
+    },
+    {
+      "quote_id": "q03064",
+      "person_signal": "third",
+      "note": "He thinks explicitly frames the first-person sentence as direct thought inside third-person narration."
+    },
+    {
+      "quote_id": "q03065",
+      "person_signal": "non_base",
+      "note": "Quoted speech from an embedded literary work."
+    },
+    {
+      "quote_id": "q03066",
+      "person_signal": "non_base",
+      "note": "General maxim."
+    },
+    {
+      "quote_id": "q03067",
+      "person_signal": "third",
+      "note": "The narrator names Werner and reports what strikes him mentally."
+    },
+    {
+      "quote_id": "q03068",
+      "person_signal": "third",
+      "note": "Thinks Marie-Laure externally attributes the generic-you counterfactual to her consciousness."
+    },
+    {
+      "quote_id": "q03069",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in direct dialogue."
+    },
+    {
+      "quote_id": "q03070",
+      "person_signal": "third",
+      "note": "Sustained external narration enters a father's thoughts and labels them with he thinks."
+    },
+    {
+      "quote_id": "q03071",
+      "person_signal": "unmarked",
+      "note": "Atmospheric description contains no participating narrator or sufficiently identified focal character."
+    },
+    {
+      "quote_id": "q03072",
+      "person_signal": "unmarked",
+      "note": "Third-person pronouns show focalization but, without wider context, do not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q03073",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question with generic you."
+    },
+    {
+      "quote_id": "q03074",
+      "person_signal": "non_base",
+      "note": "General statement about scientists."
+    },
+    {
+      "quote_id": "q03075",
+      "person_signal": "non_base",
+      "note": "Direct dialogue."
+    },
+    {
+      "quote_id": "q03076",
+      "person_signal": "non_base",
+      "note": "Extended instructional speech; we and you belong to the speaker's lesson."
+    },
+    {
+      "quote_id": "q03077",
+      "person_signal": "third",
+      "note": "An external narrator asks and answers a question about a female character's happiness."
+    },
+    {
+      "quote_id": "q03078",
+      "person_signal": "unmarked",
+      "note": "Scenic description does not identify narrator participation."
+    },
+    {
+      "quote_id": "q03079",
+      "person_signal": "third",
+      "note": "Sustained narration names Marie-Laure and reports her involuntary memories and reactions."
+    },
+    {
+      "quote_id": "q03080",
+      "person_signal": "non_base",
+      "note": "Character speech with an attribution beat."
+    },
+    {
+      "quote_id": "q03081",
+      "person_signal": "non_base",
+      "note": "General aphorism."
+    },
+    {
+      "quote_id": "q03082",
+      "person_signal": "unmarked",
+      "note": "Bare he and they references do not establish the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q03083",
+      "person_signal": "non_base",
+      "note": "Dialogue; first-person references belong to speakers."
+    },
+    {
+      "quote_id": "q03084",
+      "person_signal": "non_base",
+      "note": "Gnomic we about collective experience."
+    },
+    {
+      "quote_id": "q03085",
+      "person_signal": "third",
+      "note": "He thinks frames the first-person plural as a character's direct thought."
+    },
+    {
+      "quote_id": "q03086",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first-person plurals belong to the speaker."
+    },
+    {
+      "quote_id": "q03087",
+      "person_signal": "third",
+      "note": "Extended external scene narration tracks several named and grouped characters around quoted speech."
+    },
+    {
+      "quote_id": "q03088",
+      "person_signal": "non_base",
+      "note": "Generic-you maxim; the apparent typo does not change its nondiagnostic function."
+    },
+    {
+      "quote_id": "q03089",
+      "person_signal": "non_base",
+      "note": "Direct dialogue with a third-person speech frame."
+    },
+    {
+      "quote_id": "q03090",
+      "person_signal": "non_base",
+      "note": "Direct speech."
+    },
+    {
+      "quote_id": "q03091",
+      "person_signal": "non_base",
+      "note": "Direct imperative speech."
+    },
+    {
+      "quote_id": "q03092",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question."
+    },
+    {
+      "quote_id": "q03093",
+      "person_signal": "unmarked",
+      "note": "A brief report of what Etienne says does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q03094",
+      "person_signal": "third",
+      "note": "Sustained external narration names Marie-Laure, follows both characters, and anticipates what she will remember."
+    },
+    {
+      "quote_id": "q03095",
+      "person_signal": "third",
+      "note": "External narration reports a female character's grief and desire."
+    },
+    {
+      "quote_id": "q03096",
+      "person_signal": "unmarked",
+      "note": "Focalized fragments imply a scene but do not identify the focal character or narrator participation."
+    },
+    {
+      "quote_id": "q03097",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Etienne; the closing us is an embedded plea, not narrator participation."
+    },
+    {
+      "quote_id": "q03098",
+      "person_signal": "non_base",
+      "note": "First-person language occurs inside attributed direct speech."
+    },
+    {
+      "quote_id": "q03099",
+      "person_signal": "non_base",
+      "note": "General maxim."
+    },
+    {
+      "quote_id": "q03100",
+      "person_signal": "third",
+      "note": "Sustained omniscient narration follows the diamond across incalculable time without a participating narrator."
+    },
+    {
+      "quote_id": "q03101",
+      "person_signal": "third",
+      "note": "The surrounding museum scene externally narrates Marie-Laure, the guide, and the children; the long first-person-free tale is embedded speech."
+    },
+    {
+      "quote_id": "q03102",
+      "person_signal": "third",
+      "note": "External narration names Marie-Laure and reports how surrounding events feel to her."
+    },
+    {
+      "quote_id": "q03103",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion."
+    },
+    {
+      "quote_id": "q03104",
+      "person_signal": "unmarked",
+      "note": "Fragmentary metaphors and factual description do not identify narrator participation."
+    },
+    {
+      "quote_id": "q03105",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Werner."
+    },
+    {
+      "quote_id": "q03106",
+      "person_signal": "unmarked",
+      "note": "Atmospheric personification without a diagnostic narrator or focal character."
+    },
+    {
+      "quote_id": "q03107",
+      "person_signal": "unmarked",
+      "note": "External description with generic someone does not establish narrative person."
+    },
+    {
+      "quote_id": "q03108",
+      "person_signal": "third",
+      "note": "The narrator names Werner and reports his involuntary thoughts and haunting memories."
+    },
+    {
+      "quote_id": "q03109",
+      "person_signal": "non_base",
+      "note": "Dialogue; we and you belong to the speakers."
+    },
+    {
+      "quote_id": "q03110",
+      "person_signal": "third",
+      "note": "He thinks explicitly makes we a character's direct thought within third-person narration."
+    },
+    {
+      "quote_id": "q03111",
+      "person_signal": "non_base",
+      "note": "The scientific explanation is attributed speech."
+    },
+    {
+      "quote_id": "q03112",
+      "person_signal": "unmarked",
+      "note": "Sustained descriptive narration lacks a participating narrator or identified focal character."
+    },
+    {
+      "quote_id": "q03113",
+      "person_signal": "non_base",
+      "note": "First-person language is direct dialogue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/All-the-Light-We-Cannot-See/Anthony-Doerr/9781476746586",
+      "title": "All the Light We Cannot See | Book by Anthony Doerr | Official Publisher Page",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Mus\u00e9um National d\u2019Histoire Naturelle excerpt externally narrates Marie-Laure, the guide, and the children in third person."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/all-the-light/facts/",
+      "title": "All the Light We Cannot See: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies an anonymous third-person omniscient narrator who switches focus among characters throughout the novel."
+    },
+    {
+      "url": "https://www.gradesaver.com/all-the-light-we-cannot-see/study-guide/literary-elements",
+      "title": "All the Light We Cannot See Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Describes the novel as third-person omniscient, alternating mainly between Marie-Laure and Werner while also presenting other characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"All the Light We Cannot See Anthony Doerr official excerpt publisher\" and opened the Simon & Schuster excerpt.",
+    "Searched \"All the Light We Cannot See third person point of view narrator analysis\" and opened explicit whole-book descriptions from SparkNotes and GradeSaver.",
+    "Searched \"site:anthonydoerr.com All the Light We Cannot See excerpt\"; no usable author-hosted excerpt was found.",
+    "Searched \"All the Light We Cannot See alternating point of view third person\" to distinguish alternating focal characters from alternating grammatical person.",
+    "Opened a seven-page opening excerpt hosted at mseffie.com; it corroborated third-person narration of Marie-Laure and Werner but was not retained as strong evidence because the host did not establish authorization.",
+    "Searched exact text from q03025 and confirmed it is Marie-Laure's speech to Werner, not narration.",
+    "Searched exact text from q03028 and found contextual descriptions identifying it as Werner's letter to Jutta, so it was treated as embedded first person."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator, principally shifting focal attention among Marie-Laure, Werner, and other characters. Numerous event quotes independently show external thought attribution and sustained third-person scene narration, agreeing with the publisher excerpt and explicit whole-book POV descriptions. Alternating chapters and focal characters do not warrant ALTERNATING because the grammatical narrative person remains third throughout. Apparent first person in q03025 is dialogue, q03028 is Werner's embedded letter, and other I/we instances are speech, direct thought, or gnomic language. No credible evidence of sustained first- or second-person base sections was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.252955+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "557805c457cc8e0233ae8c6241dacddaf61d8e8cdc41ff4cde8984496237487f"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:735",
+  "quotes": [
+    {
+      "quote_id": "q00051",
+      "person_signal": "third",
+      "note": "Third-person free-indirect base narration presents Lydia's retrospective thoughts without a participating narrator."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "unmarked",
+      "note": "Atmospheric narration contains no character reference or narratorial pronoun diagnostic of person."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "third",
+      "note": "Base narration names Mrs. Blessing externally and reports her realization in third person."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "non_base",
+      "note": "A general gnomic observation, not story-specific evidence of the narrator's participation."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "third",
+      "note": "Third-person free-indirect narration renders Lydia's private assessment of her life."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "third",
+      "note": "The narrator externally presents Skip's realization in third person."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "third",
+      "note": "Third-person base narration summarizes Skip's childhood and former dog."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "third",
+      "note": "Third-person free-indirect narration presents Skip's reasoning about Faith."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "non_base",
+      "note": "A general aphorism about young people, not diagnostic story-specific narration."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "third",
+      "note": "Lydia remains she throughout sustained free-indirect narration; you is generic, not a second-person protagonist."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "third",
+      "note": "Sustained third-person narration reports Lydia's private imaginings and established habits."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "third",
+      "note": "Authorized opening context confirms this as third-person scene narration centered on the girl."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "third",
+      "note": "Third-person narration enters Skip's waking perceptions without a participating narrator."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "third",
+      "note": "The surrounding base narration describes he and her externally; the quoted sentence is local dialogue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1087/blessings",
+      "title": "Excerpt from Blessings by Anna Quindlen",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained two-page Chapter One extract, reproduced by permission of Random House, narrates the couple, Lydia, and the estate externally as he, she, and they, with no participating narrator."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/136820/blessings-by-anna-quindlen/",
+      "title": "Blessings by Anna Quindlen",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The publisher's author interview establishes that the novel alternates the focal perspectives of Lydia Blessing and Skip Cuddy as two ways of telling the same story. Both focal strands appear in third person in the supplied quotations and excerpts, so this is focal alternation rather than person alternation."
+    },
+    {
+      "url": "https://www.whichbook.net/book/2427/Blessings-Anna-Quindlen/",
+      "title": "Blessings by Anna Quindlen",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An interior extract narrates Lydia watching Skip as she and he and reports what she thinks, corroborating third-person narration beyond the opening."
+    },
+    {
+      "url": "https://www.latimes.com/archives/la-xpm-2002-sep-22-bk-harris22-story.html",
+      "title": "All in the Family",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The contemporary review describes Quindlen's whole-book method as interweaving Skip's present story with Lydia's memories; this matches the two third-person focal strands found in the prose evidence."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/65e5f858-dfdf-42ce-9b0b-098ac8d6bc31",
+      "title": "Review of Blessings by wolfiegrrrl",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A low-tier reader account explicitly identifies an omniscient narrator and discusses that narration across the completed book; it is corroborative rather than controlling evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Blessings\" \"Anna Quindlen\" excerpt and opened the authorized BookBrowse Chapter One extract.",
+    "Searched \"Blessings\" \"Anna Quindlen\" third person, point of view, narrator, and omniscient narrator.",
+    "Opened Penguin Random House's author interview describing the novel's two alternating focal perspectives and whole-book structure.",
+    "Searched for interior prose and opened the Whichbook extract centered on Lydia observing Skip.",
+    "Opened the Los Angeles Times contemporary review for its description of the novel's overall narrative method.",
+    "Google Books offered only a limited preview/catalog description, while WorldCat and library catalog results were bibliographic and not person-diagnostic.",
+    "Searches for epistolary, diary, frame narrative, and different-person sections found no evidence of constitutive first- or second-person narration."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates in third person, moving through the perspectives and memories of Lydia Blessing and Skip Cuddy. The quotations repeatedly show third-person free-indirect access to both focal characters, while the authorized opening independently presents the story in third person and an interior extract corroborates that pattern. The publisher's interview confirms that Lydia and Skip alternate as focal perspectives, not as different grammatical-person narrators. Generic you in q00060, dialogue in q00064, and the two gnomic quotations do not alter the base person. No credible evidence of sustained first- or second-person sections was found; the only minor limitation is that the strongest authorized prose source covers the opening rather than the entire novel.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.236068+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c1e2574f5cc4d7fbc3e9b2665eff78b16f3747d9ac8f62539eaae521dc3750bc"
+  }
+}

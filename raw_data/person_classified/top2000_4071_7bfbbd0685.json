@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:4071",
+  "quotes": [
+    {
+      "quote_id": "q00475",
+      "person_signal": "non_base",
+      "note": "General aphorism; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00476",
+      "person_signal": "non_base",
+      "note": "Rhetorical maxim using generic/local address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00477",
+      "person_signal": "third",
+      "note": "Externally narrates her acquired understanding and its emotional significance."
+    },
+    {
+      "quote_id": "q00478",
+      "person_signal": "third",
+      "note": "Externally narrates her action and his indifference without a participating narrator."
+    },
+    {
+      "quote_id": "q00479",
+      "person_signal": "unclear",
+      "note": "Clipped descriptive fragment lacks enough context to establish its narratorial status."
+    },
+    {
+      "quote_id": "q00480",
+      "person_signal": "third",
+      "note": "Third-person narration frames and interprets her mind; the first-person question is embedded thought."
+    },
+    {
+      "quote_id": "q00481",
+      "person_signal": "third",
+      "note": "An external narrator reports his realization about Mirabelle and evaluates his conduct."
+    },
+    {
+      "quote_id": "q00482",
+      "person_signal": "non_base",
+      "note": "General aphoristic observation rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00483",
+      "person_signal": "non_base",
+      "note": "Character speech does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00484",
+      "person_signal": "unmarked",
+      "note": "Isolated third-person clause is too brief to establish narrator participation."
+    },
+    {
+      "quote_id": "q00485",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Mirabelle's beliefs, mourning, and recognition."
+    },
+    {
+      "quote_id": "q00486",
+      "person_signal": "third",
+      "note": "External narration moves between Jeremy, Mirabelle, and an authorial generalization."
+    },
+    {
+      "quote_id": "q00487",
+      "person_signal": "non_base",
+      "note": "The isolated first-person line is Mirabelle's direct speech or thought, not the omniscient base narrator."
+    },
+    {
+      "quote_id": "q00488",
+      "person_signal": "unmarked",
+      "note": "An isolated evaluative statement about Mirabelle does not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q00489",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Mirabelle's habits, attitudes, and identification with darkness."
+    },
+    {
+      "quote_id": "q00490",
+      "person_signal": "third",
+      "note": "External narration analyzes a character's worldview and adds an omniscient aside."
+    },
+    {
+      "quote_id": "q00491",
+      "person_signal": "unmarked",
+      "note": "The clipped comparison lacks enough local context to identify the narrating position."
+    },
+    {
+      "quote_id": "q00492",
+      "person_signal": "third",
+      "note": "The narrator externally explains Mirabelle's reaction and underlying self-conception."
+    },
+    {
+      "quote_id": "q00493",
+      "person_signal": "non_base",
+      "note": "Generic aphorism rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q00494",
+      "person_signal": "third",
+      "note": "External narration compares the internal cognitive habits of two characters."
+    },
+    {
+      "quote_id": "q00495",
+      "person_signal": "third",
+      "note": "An external narrator interprets Mirabelle's timing, obligation, and relationship status."
+    },
+    {
+      "quote_id": "q00496",
+      "person_signal": "third",
+      "note": "Sustained narration distinguishes Mirabelle's self-perception from the narrator's corrective account."
+    },
+    {
+      "quote_id": "q00497",
+      "person_signal": "third",
+      "note": "The narrator reports Mirabelle's beliefs and explicitly states what she fails to understand."
+    },
+    {
+      "quote_id": "q00498",
+      "person_signal": "unmarked",
+      "note": "Isolated physical description with a third-person subject is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00499",
+      "person_signal": "third",
+      "note": "The narrator contrasts the inner awareness of two externally described characters."
+    },
+    {
+      "quote_id": "q00500",
+      "person_signal": "third",
+      "note": "External scene narration links the setting to Mirabelle's private hypnotic state."
+    },
+    {
+      "quote_id": "q00501",
+      "person_signal": "third",
+      "note": "Extended external analysis categorizes Mirabelle's shifting moods and self-presentation."
+    },
+    {
+      "quote_id": "q00502",
+      "person_signal": "third",
+      "note": "External character analysis describes Mirabelle and the men attracted to her."
+    },
+    {
+      "quote_id": "q00503",
+      "person_signal": "third",
+      "note": "Sustained external narration explains Mirabelle's depression, medication, and personal history."
+    },
+    {
+      "quote_id": "q00504",
+      "person_signal": "third",
+      "note": "The narrator reports Mirabelle's private belief about another character's response."
+    },
+    {
+      "quote_id": "q00505",
+      "person_signal": "third",
+      "note": "An external narrator authoritatively summarizes Ray Porter's traits and self-knowledge."
+    },
+    {
+      "quote_id": "q00506",
+      "person_signal": "unmarked",
+      "note": "The clipped pronoun reference and brief comparison do not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00507",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Mirabelle's unspoken knowledge and anticipatory worries."
+    },
+    {
+      "quote_id": "q00508",
+      "person_signal": "unmarked",
+      "note": "The isolated description of a conversation contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00509",
+      "person_signal": "non_base",
+      "note": "Rhetorical, generalized question rather than controlling narration."
+    },
+    {
+      "quote_id": "q00510",
+      "person_signal": "third",
+      "note": "An external narrator summarizes his experiences, thinking, and resulting self-knowledge."
+    },
+    {
+      "quote_id": "q00511",
+      "person_signal": "third",
+      "note": "Sustained narration describes Mirabelle's behavior and reveals what she does not know."
+    },
+    {
+      "quote_id": "q00512",
+      "person_signal": "unmarked",
+      "note": "A single third-person biographical clause is insufficient by itself."
+    },
+    {
+      "quote_id": "q00513",
+      "person_signal": "third",
+      "note": "The omniscient narrator contrasts a hypothetical observer's view with Mirabelle's actual inner stillness."
+    },
+    {
+      "quote_id": "q00514",
+      "person_signal": "non_base",
+      "note": "Occupational generalization uses generic 'you,' not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00515",
+      "person_signal": "third",
+      "note": "The narrator distinguishes Ray Porter's imagined model of Mirabelle from her actual psychology."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.blackfilm.com/20051014/features/martindanes.shtml",
+      "title": "An Interview with Steve Martin and Claire Danes",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Martin explicitly explains that the book has an omniscient narrator able to disclose Ray's thoughts."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780786869213",
+      "title": "The Pleasure of My Company by Steve Martin",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Publishers Weekly contrasts Martin's second novella with the distanced omniscient narration of Shopgirl."
+    },
+    {
+      "url": "https://www.enotes.com/topics/shopgirl/in-depth",
+      "title": "Shopgirl Analysis: Style and Technique",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The analysis explicitly identifies a third-person omniscient narrator who reveals multiple characters' inner states."
+    },
+    {
+      "url": "https://www.avclub.com/steve-martin-the-pleasure-of-my-company-1798199074",
+      "title": "Steve Martin: The Pleasure of My Company",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review states that the later novella replaces Shopgirl's omniscient narration with first person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Shopgirl Steve Martin excerpt first chapter publisher\" and reviewed the Hachette publisher listing; it verified the work but supplied no usable prose excerpt.",
+    "Searched \"Shopgirl Steve Martin third person narrator point of view\" and \"Shopgirl Steve Martin omniscient narrator analysis\"; opened the BlackFilm author interview, eNotes analysis, and A.V. Club review.",
+    "Searched Google Books and Internet Archive for an authorized or library-hosted excerpt; Google Books exposed only catalog/limited-preview metadata and could not be opened for usable prose, while no relevant Internet Archive text was found.",
+    "Found a sustained chapter transcription on ESL-Bits but did not rely on it because its authorization and provenance were unclear.",
+    "Searched the isolated line \"So, I can hurt now, or hurt later\"; results attributed it to Mirabelle, confirming that its first person is local character speech or thought rather than a narrator shift.",
+    "Follow-up searches found Publishers Weekly's explicit comparison describing Shopgirl's narration as distanced and omniscient; no credible evidence of alternating or participating narration was found."
+  ],
+  "person_note": "The quotes repeatedly show an external narrator moving among Mirabelle's, Ray's, and Jeremy's thoughts and correcting characters' incomplete perceptions. Steve Martin's own interview explicitly calls the book's narrator omniscient, and several independent reviews agree. The lone first-person quote belongs locally to Mirabelle, while generic uses of 'you' are aphoristic rather than second-person storytelling. The controlling base narration is therefore third-person omniscient; the lack of an opened authorized full excerpt is offset by extensive quote evidence and strong explicit whole-book web evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_034",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:38:30.956572+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cf90d7d003dc69882cb7a8b3e8bc97d9a172fbcac358723ea0c8fa1bf9d30451"
+  }
+}

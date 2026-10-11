@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1951:4749",
+  "quotes": [
+    {
+      "quote_id": "q00706",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00707",
+      "person_signal": "non_base",
+      "note": "Direct speech; second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00708",
+      "person_signal": "non_base",
+      "note": "Direct speech containing generic you and a quoted self-question."
+    },
+    {
+      "quote_id": "q00709",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison without diagnostic narration."
+    },
+    {
+      "quote_id": "q00710",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing another character."
+    },
+    {
+      "quote_id": "q00711",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not base narration."
+    },
+    {
+      "quote_id": "q00712",
+      "person_signal": "non_base",
+      "note": "Direct speech to Willie; its pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00713",
+      "person_signal": "third",
+      "note": "Sustained narration names Willie, reports his thinking externally, and adds a narratorial generalization."
+    },
+    {
+      "quote_id": "q00714",
+      "person_signal": "third",
+      "note": "Extended external narration presents Willie's perceptions and knowledge as he and him."
+    },
+    {
+      "quote_id": "q00715",
+      "person_signal": "unmarked",
+      "note": "Narratorial event sentence, but it contains no character or narrator-person marker."
+    },
+    {
+      "quote_id": "q00716",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech; the visible pronouns belong to a character."
+    },
+    {
+      "quote_id": "q00717",
+      "person_signal": "unmarked",
+      "note": "Narratorial historical statement about the ship does not by itself establish narrator participation."
+    },
+    {
+      "quote_id": "q00718",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q00719",
+      "person_signal": "non_base",
+      "note": "Direct speech using you and me."
+    },
+    {
+      "quote_id": "q00720",
+      "person_signal": "non_base",
+      "note": "Aphoristic direct speech with generic second person."
+    },
+    {
+      "quote_id": "q00721",
+      "person_signal": "third",
+      "note": "External narration reports a man's motives and ignorance, then supplies a general narratorial explanation."
+    },
+    {
+      "quote_id": "q00722",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment about command, not story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00723",
+      "person_signal": "non_base",
+      "note": "Direct speech describing the ship."
+    },
+    {
+      "quote_id": "q00724",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech; I and the imperative belong to a character."
+    },
+    {
+      "quote_id": "q00725",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech without an outside narratorial beat."
+    },
+    {
+      "quote_id": "q00726",
+      "person_signal": "unmarked",
+      "note": "Possible external narration of a character's comparison, but the clipped context does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00727",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic you."
+    },
+    {
+      "quote_id": "q00728",
+      "person_signal": "third",
+      "note": "Sustained external narration names Willie and describes his experience, altered identity, and apprehension."
+    },
+    {
+      "quote_id": "q00729",
+      "person_signal": "unmarked",
+      "note": "External description of the officers and crew lacks enough context to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00730",
+      "person_signal": "non_base",
+      "note": "Extended first-person-plural farewell speech, not base narration."
+    },
+    {
+      "quote_id": "q00731",
+      "person_signal": "unclear",
+      "note": "The fragment ends before its narrative structure or person can be determined."
+    },
+    {
+      "quote_id": "q00732",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic second-person reference."
+    },
+    {
+      "quote_id": "q00733",
+      "person_signal": "unmarked",
+      "note": "First-person speech is non-base, while the brief outside action beat uses only a bare he and is nondiagnostic."
+    },
+    {
+      "quote_id": "q00734",
+      "person_signal": "unmarked",
+      "note": "Bare third-person plural subjects do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00735",
+      "person_signal": "non_base",
+      "note": "An extended dialogue exchange; all visible person markers belong to speakers."
+    },
+    {
+      "quote_id": "q00736",
+      "person_signal": "non_base",
+      "note": "Character speech offering a general judgment about the Navy."
+    },
+    {
+      "quote_id": "q00737",
+      "person_signal": "unclear",
+      "note": "Descriptive narration is clipped immediately after Queeg's name, preventing responsible local attribution."
+    },
+    {
+      "quote_id": "q00738",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00739",
+      "person_signal": "non_base",
+      "note": "First-person character speech addressed to another character."
+    },
+    {
+      "quote_id": "q00740",
+      "person_signal": "non_base",
+      "note": "First-person character opinion in direct speech."
+    },
+    {
+      "quote_id": "q00741",
+      "person_signal": "non_base",
+      "note": "Clipped dialogue exchange rather than base narration."
+    },
+    {
+      "quote_id": "q00742",
+      "person_signal": "non_base",
+      "note": "Direct speech using we and us for the speaker's group."
+    },
+    {
+      "quote_id": "q00743",
+      "person_signal": "non_base",
+      "note": "First-person dialogue followed by another character's question."
+    },
+    {
+      "quote_id": "q00744",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base; the short outside said beat contains no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00745",
+      "person_signal": "third",
+      "note": "A sustained scene externally follows Willie, describes Manhattan and the studio, and then introduces dialogue."
+    },
+    {
+      "quote_id": "q00746",
+      "person_signal": "unmarked",
+      "note": "General narratorial assertions about authorities contain no participating or story-specific second-person narrator."
+    },
+    {
+      "quote_id": "q00747",
+      "person_signal": "non_base",
+      "note": "Extended first-person character speech."
+    },
+    {
+      "quote_id": "q00748",
+      "person_signal": "non_base",
+      "note": "Direct speech making a general psychiatric assertion."
+    },
+    {
+      "quote_id": "q00749",
+      "person_signal": "non_base",
+      "note": "Clipped first-person-plural character speech."
+    },
+    {
+      "quote_id": "q00750",
+      "person_signal": "unclear",
+      "note": "Both the opening referent and the continuation after Out are missing, leaving the local narration unresolved."
+    },
+    {
+      "quote_id": "q00751",
+      "person_signal": "third",
+      "note": "Extended scene narration externally tracks Willie through his duties, exhaustion, and narrowed perception."
+    },
+    {
+      "quote_id": "q00752",
+      "person_signal": "unmarked",
+      "note": "The aphorism is speech; the clipped outside said beat is too slight to establish narrator person."
+    },
+    {
+      "quote_id": "q00753",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange whose you and his refer to characters, not the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.usni.org/magazines/proceedings/2025/may/leadership-literature-caine-mutiny",
+      "title": "Leadership in Literature: The Caine Mutiny",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The U.S. Naval Institute's structural discussion distinguishes the author's voice from Willie and notes that the novel frequently narrates events Willie could not have known, supporting an external omniscient narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-cainemutiny/style.html",
+      "title": "Herman Wouk Writing Styles in The Caine Mutiny",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Gale-derived study-guide analysis explicitly says that despite varied narrative techniques, the novel remains third-person omniscient."
+    },
+    {
+      "url": "https://www.enotes.com/topics/caine-mutiny/in-depth",
+      "title": "The Caine Mutiny Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This explicit style analysis identifies a third-person omniscient narrator that provides access to multiple characters' perspectives."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Caine Mutiny Herman Wouk excerpt first chapter\" and opening-chapter variants; chapter summaries and quoted passages showed external narration of Willie, but no sustained authorized excerpt was freely accessible.",
+    "Searched \"The Caine Mutiny point of view third person narrator\", \"third-person omniscient\", and narrator/omniscient variants; opened the U.S. Naval Institute, BookRags/Gale, SparkNotes, and eNotes results rather than relying on snippets.",
+    "Checked Google Books and Open Library editions; they verified the work and offered limited or preview-only access but did not expose enough contiguous prose to serve as Tier A evidence.",
+    "A Columbia search result exposed an extensively revised original-manuscript page proposing a first-person Willie framing; because it is draft manuscript material rather than the published text, and published-work analyses consistently describe external third-person narration, it was treated as a research dead end rather than contrary book evidence.",
+    "Checked the University of Pennsylvania Caine Mutiny Court-Martial excerpt, but it is a dramatic adaptation and therefore was not used to classify the novel's base narration."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly use sustained external narration to report Willie's perceptions, thoughts, ignorance, and development, especially q00713, q00714, q00728, q00745, and q00751. First- and second-person forms elsewhere occur in dialogue or gnomic material and do not create alternate base sections. Two whole-book structural analyses independently identify an external omniscient authorial voice, with the Naval Institute specifically observing that it narrates events beyond Willie's knowledge; a third explicit source corroborates this. The inaccessible authorized previews leave a minor coverage limitation, but the distributed interior quotations and multiple structural sources agree strongly on THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_008",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:12:56.489753+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2c2b83f52a05673a531f84f6fbfeb96bb1f027bc0ff0dbd60ddbc876ea26c9a1"
+  }
+}

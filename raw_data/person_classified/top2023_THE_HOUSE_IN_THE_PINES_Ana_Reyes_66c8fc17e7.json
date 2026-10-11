@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:THE HOUSE IN THE PINES|Ana Reyes",
+  "quotes": [
+    {
+      "quote_id": "q08141",
+      "person_signal": "unmarked",
+      "note": "The named-character reference occurs within an indirect report attributed to Dr. Barry and does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q08142",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence refers to a character as \u201cher,\u201d which alone does not establish the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q08143",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to a character\u2019s speech."
+    },
+    {
+      "quote_id": "q08144",
+      "person_signal": "third",
+      "note": "Sustained base narration externally names Maya while rendering her disposition and experience through third-person pronouns."
+    },
+    {
+      "quote_id": "q08145",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person description of a character packing books is compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q08146",
+      "person_signal": "unmarked",
+      "note": "A single sentence referring to Maya and her mother as \u201cher\u201d does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q08147",
+      "person_signal": "third",
+      "note": "The passage sustains external narration of Maya\u2019s perception and action without a participating narrator."
+    },
+    {
+      "quote_id": "q08148",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to Maya\u2019s life does not by itself identify the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q08149",
+      "person_signal": "unmarked",
+      "note": "This single externally described action is insufficient on its own to establish third-person base narration."
+    },
+    {
+      "quote_id": "q08150",
+      "person_signal": "unmarked",
+      "note": "Named-character and third-person references alone do not exclude a participating narrator."
+    },
+    {
+      "quote_id": "q08151",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms are spoken accusations addressed to Maya."
+    },
+    {
+      "quote_id": "q08152",
+      "person_signal": "third",
+      "note": "The narration externally renders a character\u2019s thought, physical response, and action through \u201che\u201d and \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q08153",
+      "person_signal": "non_base",
+      "note": "The conversational first-person testimony is character speech, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q08154",
+      "person_signal": "unmarked",
+      "note": "This single free-indirect sentence uses third-person character references but is too brief to establish narrator participation by itself."
+    },
+    {
+      "quote_id": "q08155",
+      "person_signal": "unmarked",
+      "note": "The isolated named-character sentence does not independently identify the base narrator\u2019s person."
+    },
+    {
+      "quote_id": "q08156",
+      "person_signal": "third",
+      "note": "Multiple sentences sustain third-person-limited access to Maya\u2019s knowledge, doubt, and inference."
+    },
+    {
+      "quote_id": "q08157",
+      "person_signal": "non_base",
+      "note": "The second-person address to Maya occurs in character speech."
+    },
+    {
+      "quote_id": "q08158",
+      "person_signal": "third",
+      "note": "The passage sustains third-person-limited narration of Maya\u2019s understanding and intentions."
+    },
+    {
+      "quote_id": "q08159",
+      "person_signal": "non_base",
+      "note": "The entire passage is a multi-turn spoken exchange."
+    },
+    {
+      "quote_id": "q08160",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms belong to speech addressed to an interlocutor."
+    },
+    {
+      "quote_id": "q08161",
+      "person_signal": "third",
+      "note": "The passage externally names Maya\u2019s associates while sustaining access to Maya\u2019s imagining and hope."
+    },
+    {
+      "quote_id": "q08162",
+      "person_signal": "third",
+      "note": "Sustained biographical exposition narrates Maya externally as \u201cshe\u201d without a participating narrator."
+    },
+    {
+      "quote_id": "q08163",
+      "person_signal": "third",
+      "note": "Base narration presents Maya\u2019s retrospective realization through third-person limited perspective."
+    },
+    {
+      "quote_id": "q08164",
+      "person_signal": "unmarked",
+      "note": "This clipped physical-description fragment does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q08165",
+      "person_signal": "second",
+      "note": "The sustained named-prologue voice makes \u201cyou\u201d the experiencer who looks, imagines the house, sleeps, and wakes; this is not dialogue or a passing maxim."
+    },
+    {
+      "quote_id": "q08166",
+      "person_signal": "third",
+      "note": "The full paragraph sustains external third-person narration of Maya\u2019s repeated actions, self-talk, and uncertain memory."
+    },
+    {
+      "quote_id": "q08167",
+      "person_signal": "non_base",
+      "note": "The fragment is a general dictionary-style definition rather than story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://sites.prh.com/thehouseinthepines",
+      "title": "The House in the Pines \u2014 Penguin Random House",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "SECOND",
+      "note": "The publisher reproduces the complete prologue, which sustains experiential \u201cyou\u201d narration through looking at, entering, sleeping in, and waking from the imagined house."
+    },
+    {
+      "url": "https://www.penguinlibros.com/es/novela-negra-misterio-y-thriller/350378-libro-la-casa-entre-los-pinos-9788419965134/fragmento",
+      "title": "La casa entre los pinos \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The publisher\u2019s translated extract presents the complete second-person prologue followed immediately by sustained third-person narration of Maya in Chapters 1 and 2, directly demonstrating the person switch."
+    },
+    {
+      "url": "https://www.supersummary.com/the-house-in-the-pines/prologue-chapter-8-summary/",
+      "title": "The House in the Pines Prologue-Chapter 8 Summary & Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural analysis explicitly identifies the prologue as second-person narration and states that Chapter 1 switches to third-person limited narration, which is used for the rest of the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe House in the Pines\u201d \u201cAna Reyes\u201d excerpt and opened the Penguin Random House authorized prologue.",
+    "Searched \u201cThe House in the Pines\u201d \u201cthird person,\u201d point of view, narrator, and \u201csecond-person narration\u201d prologue.",
+    "Opened PenguinLibros\u2019 publisher extract, which includes the prologue-to-Chapter-1 transition and additional third-person chapters.",
+    "Opened SuperSummary\u2019s Prologue-Chapter 8 analysis for an explicit account of the whole-book person structure.",
+    "A Penguin Random House Library sampler PDF was discovered but was too large for the browser to open reliably; it was not relied upon as recorded evidence.",
+    "A Bookreporter Chapter 1 excerpt repeatedly timed out when opened and was not used as recorded evidence.",
+    "A low-quality Lemon8 page incorrectly called the novel first person; targeted follow-up found that claim contradicted by the authorized prose and explicit structural analysis, so it was not treated as credible evidence."
+  ],
+  "person_note": "The sustained novel from Chapter 1 onward uses third-person limited narration centered mainly on Maya. A complete second-person prologue addresses a reader-like narratee, but that single introductory exception does not override the person controlling the rest of the book. Numerous Goodreads passages support THIRD; confidence is medium because the strongest authorized material foregrounds the prologue/opening transition rather than providing whole-book coverage.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_083",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:32:21.534415+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "263cfa76c1a2ffd49e129dfd55e2552299cabfe093dbe296323029cf5b3ba64a"
+  }
+}

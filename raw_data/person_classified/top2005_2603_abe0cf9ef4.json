@@ -1,0 +1,327 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:2603",
+  "quotes": [
+    {
+      "quote_id": "q00242",
+      "person_signal": "unclear",
+      "note": "Unframed song verse; the speaker and relation to base narration are unresolved."
+    },
+    {
+      "quote_id": "q00243",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00244",
+      "person_signal": "non_base",
+      "note": "Direct speech by Nynaeve; its first-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00245",
+      "person_signal": "non_base",
+      "note": "Direct exclamation rather than base narration."
+    },
+    {
+      "quote_id": "q00246",
+      "person_signal": "non_base",
+      "note": "Direct speech by Nynaeve; the visible first person belongs to the speaker."
+    },
+    {
+      "quote_id": "q00247",
+      "person_signal": "unclear",
+      "note": "Unframed prophecy-like verse with no recoverable narrating context."
+    },
+    {
+      "quote_id": "q00248",
+      "person_signal": "non_base",
+      "note": "Attributed in-world epigraph, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q00249",
+      "person_signal": "third",
+      "note": "Third-person limited narration reports Perrin's perception; generic 'you' expresses a maxim, not second-person narration."
+    },
+    {
+      "quote_id": "q00250",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial evaluation, but the isolated sentence has no person marker."
+    },
+    {
+      "quote_id": "q00251",
+      "person_signal": "unmarked",
+      "note": "Generic observation using an indefinite fool and 'he'; it does not independently expose the narrator."
+    },
+    {
+      "quote_id": "q00252",
+      "person_signal": "non_base",
+      "note": "Character speech, so its pronouns are not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00253",
+      "person_signal": "non_base",
+      "note": "Gnomic warning rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00254",
+      "person_signal": "non_base",
+      "note": "Direct speech; 'you' and 'my' belong to a character."
+    },
+    {
+      "quote_id": "q00255",
+      "person_signal": "non_base",
+      "note": "First-person phrasing is a local direct thought or speech-like insertion within the third-person novel, not controlling narration."
+    },
+    {
+      "quote_id": "q00256",
+      "person_signal": "non_base",
+      "note": "Direct speech about Mat, not narratorial evidence."
+    },
+    {
+      "quote_id": "q00257",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization without a narrating position."
+    },
+    {
+      "quote_id": "q00258",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person clause about an unidentified woman; too little context to establish narrator participation."
+    },
+    {
+      "quote_id": "q00259",
+      "person_signal": "non_base",
+      "note": "Direct speech containing generic second person."
+    },
+    {
+      "quote_id": "q00260",
+      "person_signal": "non_base",
+      "note": "Quoted speech or local maxim; generic 'you' is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00261",
+      "person_signal": "unmarked",
+      "note": "Narratorial-sounding maxim with no grammatical marker of narrator participation."
+    },
+    {
+      "quote_id": "q00262",
+      "person_signal": "unmarked",
+      "note": "Likely free-indirect character evaluation, but the brief third-person wording alone is not conclusive."
+    },
+    {
+      "quote_id": "q00263",
+      "person_signal": "non_base",
+      "note": "Character speech or direct reflection, not base narration."
+    },
+    {
+      "quote_id": "q00264",
+      "person_signal": "unmarked",
+      "note": "General narratorial observation with no diagnostic person marker."
+    },
+    {
+      "quote_id": "q00265",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim rather than story narration."
+    },
+    {
+      "quote_id": "q00266",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic 'you,' not a second-person protagonist."
+    },
+    {
+      "quote_id": "q00267",
+      "person_signal": "unmarked",
+      "note": "General observation with no participating or nonparticipating narrator explicitly exposed."
+    },
+    {
+      "quote_id": "q00268",
+      "person_signal": "non_base",
+      "note": "Direct speech; the brief 'he said' beat is insufficient by itself to determine base person."
+    },
+    {
+      "quote_id": "q00269",
+      "person_signal": "unmarked",
+      "note": "Free-indirect or narratorial generalization without enough local context to identify person."
+    },
+    {
+      "quote_id": "q00270",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing an interlocutor."
+    },
+    {
+      "quote_id": "q00271",
+      "person_signal": "non_base",
+      "note": "Gnomic military maxim without a story-specific narrator."
+    },
+    {
+      "quote_id": "q00272",
+      "person_signal": "unmarked",
+      "note": "Clipped sentence about an unidentified 'she'; insufficient local context for a diagnostic third-person signal."
+    },
+    {
+      "quote_id": "q00273",
+      "person_signal": "unmarked",
+      "note": "Sentence fragment expressing evaluation but exposing no narrator person."
+    },
+    {
+      "quote_id": "q00274",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person action with too little context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00275",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00276",
+      "person_signal": "unmarked",
+      "note": "Generic maxim with no explicit narrating position."
+    },
+    {
+      "quote_id": "q00277",
+      "person_signal": "third",
+      "note": "External narration names Rand and Lews Therin and reports Rand's private wish in third-person limited form."
+    },
+    {
+      "quote_id": "q00278",
+      "person_signal": "non_base",
+      "note": "Direct speech by Miyasi; the speech beat does not make its first sentence base narration."
+    },
+    {
+      "quote_id": "q00279",
+      "person_signal": "unmarked",
+      "note": "Free-indirect generalization using generic 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00280",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic second person."
+    },
+    {
+      "quote_id": "q00281",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Perrin externally as 'he' and supplies setting and elapsed time."
+    },
+    {
+      "quote_id": "q00282",
+      "person_signal": "non_base",
+      "note": "Nadere's first-person speech is locally framed by a third-person speech beat and is not base first-person narration."
+    },
+    {
+      "quote_id": "q00283",
+      "person_signal": "non_base",
+      "note": "The first-person wording is a local direct thought or speech-like reflection within third-person narration."
+    },
+    {
+      "quote_id": "q00284",
+      "person_signal": "unmarked",
+      "note": "A brief external simile about Cauthon is compatible with third person but not independently diagnostic."
+    },
+    {
+      "quote_id": "q00285",
+      "person_signal": "third",
+      "note": "Sustained Spanish passage narrates a woman's history, learning, and pride externally as 'she' in third-person limited form."
+    },
+    {
+      "quote_id": "q00286",
+      "person_signal": "non_base",
+      "note": "Thom's first-person statement is direct speech."
+    },
+    {
+      "quote_id": "q00287",
+      "person_signal": "third",
+      "note": "Several clauses sustain external 'he' narration while reporting the focal character's tendencies and self-admission."
+    },
+    {
+      "quote_id": "q00288",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a woman's anticipated charge, emotional response, and speculation as 'her.'"
+    },
+    {
+      "quote_id": "q00289",
+      "person_signal": "third",
+      "note": "Sustained third-person limited description reports the focal woman's furnishings, suspicion, and judgment."
+    },
+    {
+      "quote_id": "q00290",
+      "person_signal": "third",
+      "note": "Despite embedded dialogue, the extended scene repeatedly narrates Mat externally as 'he' and reports his memories and bodily response."
+    },
+    {
+      "quote_id": "q00291",
+      "person_signal": "third",
+      "note": "Extended scene narration follows Mat externally, reports his thought process, and consistently refers to him as 'he.'"
+    },
+    {
+      "quote_id": "q00292",
+      "person_signal": "unmarked",
+      "note": "The quote begins with dialogue and has only a short third-person speech beat plus a generic evaluation, insufficient alone for person."
+    },
+    {
+      "quote_id": "q00293",
+      "person_signal": "unclear",
+      "note": "Severely clipped scene fragment lacks enough surrounding syntax to attribute a diagnostic narrating position."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://writingexcuses.com/writing-excuses-7-12-writing-the-omniscient-viewpoint/",
+      "title": "Writing Excuses 7.12: Writing the Omniscient Viewpoint",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Brandon Sanderson explicitly describes every Wheel of Time book as opening with a third-person omniscient zoom-out and then moving into limited character viewpoint for essentially the rest of the book."
+    },
+    {
+      "url": "https://www.gradesaver.com/knife-of-dreams/study-guide/literary-elements",
+      "title": "Knife of Dreams Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The title-specific study guide explicitly identifies the narrator and point of view as third-person narrative."
+    },
+    {
+      "url": "https://library.tarvalon.net/index.php?title=Point_of_View_List_-_By_Chapter",
+      "title": "Point of View List - By Chapter",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Knife of Dreams section maps the prologue, all 37 chapters, and epilogue to rotating named character viewpoints, corroborating a multi-POV structure without first- or second-person sections."
+    },
+    {
+      "url": "https://dichotomyofsoul.wordpress.com/2015/05/23/knife-of-dreams-book-review-book-11-of-the-wheel-of-time-series-by-robert-jordan/",
+      "title": "Knife of Dreams by Robert Jordan (Wheel of Time, #11)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An independent title-specific review explicitly labels the book's POV 'Third Person, Multiple Views.'"
+    },
+    {
+      "url": "https://us.macmillan.com/books/9780312873073/knifeofdreams/",
+      "title": "Knife of Dreams",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The Tor/Macmillan publisher page verifies the work and advertises an audio excerpt, but the accessible player exposed no playable duration or diagnostic prose."
+    }
+  ],
+  "search_log": [
+    "Searched 'Knife of Dreams Robert Jordan excerpt', 'first chapter', 'When Last Sounds', and 'Embers Falling on Dry Grass'; opened the Tor/Macmillan and Google Books pages, but neither exposed a usable prose excerpt to the crawler, and unauthorized full-text transcriptions were excluded.",
+    "Searched the verified title with 'point of view', 'third person', 'narrator', and 'narrated by'; opened the GradeSaver literary-elements page, the Tar Valon chapter-by-chapter POV list, and an independent review explicitly identifying third person with multiple viewpoints.",
+    "Searched Wheel of Time narrative technique with 'third person limited', 'omniscient', and scholarly-analysis terms; opened Writing Excuses transcripts in which Brandon Sanderson describes the series-wide third-person zoom-out and limited-viewpoint structure, plus a doctoral thesis and other analyses for corroboration.",
+    "Searched the title with 'epistolary', 'diary', 'frame narrative', 'alternating narration', 'first person', and 'second person'; results instead consistently described rotating character POV sections, with no credible evidence of sustained first- or second-person base narration."
+  ],
+  "person_note": "The controlling narration is third person, chiefly rotating third-person-limited focalization among Mat, Perrin, Elayne, Rand, Egwene, and many other characters, with occasional omniscient establishing narration. The sustained Goodreads scenes for Perrin and Mat and the interior passages about several women independently expose this structure. First-person and second-person forms in the sample occur in dialogue, direct thought, song, prophecy, or generic maxims rather than autonomous base sections. Web research explicitly identifies third-person narration and documents character viewpoints across the entire book; no credible frame, epistolary structure, or sustained first- or second-person strand was found. The only limitation is that the authorized publisher excerpt was not accessible, but the agreement between diagnostic quotations, an authoritative series-level craft description, and multiple title-specific structural sources supports high confidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.240521+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7d531228a1ddee5f4057d96e64371c8ec48f07e56d377ddba4f6d7c15fa76eec"
+  }
+}

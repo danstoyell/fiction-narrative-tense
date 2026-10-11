@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:SEA OF TRANQUILITY|Emily St",
+  "quotes": [
+    {
+      "quote_id": "q07568",
+      "person_signal": "non_base",
+      "note": "Gnomic panel-style speech marked by \u201cMy point is\u201d; its first-person language does not identify base narration."
+    },
+    {
+      "quote_id": "q07569",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q07570",
+      "person_signal": "non_base",
+      "note": "Universal gnomic \u201cyou,\u201d not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q07571",
+      "person_signal": "non_base",
+      "note": "General observation about pandemics with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q07572",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism, nondiagnostic for narrative person."
+    },
+    {
+      "quote_id": "q07573",
+      "person_signal": "first",
+      "note": "Gaspery\u2019s participating base narration uses \u201cI\u2019ve\u201d; scholarly discussion independently attributes this ending passage to him."
+    },
+    {
+      "quote_id": "q07574",
+      "person_signal": "non_base",
+      "note": "Explicitly generalized lesson about pandemic life, with no person marker."
+    },
+    {
+      "quote_id": "q07575",
+      "person_signal": "non_base",
+      "note": "Iterated universal \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q07576",
+      "person_signal": "non_base",
+      "note": "Rhetorical, species-level \u201cwe,\u201d not a participating character narrator."
+    },
+    {
+      "quote_id": "q07577",
+      "person_signal": "non_base",
+      "note": "Universal hypothetical \u201cyou,\u201d not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q07578",
+      "person_signal": "non_base",
+      "note": "Essayistic or panel-style generalization; \u201cmy\u201d and \u201cwe\u201d belong to a local argumentative voice."
+    },
+    {
+      "quote_id": "q07579",
+      "person_signal": "non_base",
+      "note": "Olive\u2019s quoted speech dominates; the brief third-person dialogue tag is insufficient to establish narrative person."
+    },
+    {
+      "quote_id": "q07580",
+      "person_signal": "unmarked",
+      "note": "A bare statement about Edwin is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q07581",
+      "person_signal": "non_base",
+      "note": "Rhetorical epidemiological argument, plausibly continued speech, rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q07582",
+      "person_signal": "non_base",
+      "note": "Speech-like bureaucratic generalization with universal \u201cyou,\u201d not base-person evidence."
+    },
+    {
+      "quote_id": "q07583",
+      "person_signal": "unmarked",
+      "note": "Brief summary about Jessica lacks enough context to distinguish third-person narration from narration embedded in another voice."
+    },
+    {
+      "quote_id": "q07584",
+      "person_signal": "third",
+      "note": "The passage shifts from generalized \u201cyou\u201d into close third-person narration of a specific woman\u2019s prior experience and perception."
+    },
+    {
+      "quote_id": "q07585",
+      "person_signal": "non_base",
+      "note": "Speculation about people generally; \u201cwe\u201d is inclusive and gnomic rather than a story participant\u2019s narration."
+    },
+    {
+      "quote_id": "q07586",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue; \u201cyou\u201d and \u201cme\u201d identify speakers, not the base narrator."
+    },
+    {
+      "quote_id": "q07587",
+      "person_signal": "non_base",
+      "note": "Universal gnomic \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q07588",
+      "person_signal": "non_base",
+      "note": "Quoted panel speech dominates; its first- and second-person pronouns are local to the speaker."
+    },
+    {
+      "quote_id": "q07589",
+      "person_signal": "non_base",
+      "note": "General reflection about solitude with no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q07590",
+      "person_signal": "first",
+      "note": "Constitutive first-person-plural event summary: the narrating \u201cwe\u201d participates in preparing for the approaching pandemic."
+    },
+    {
+      "quote_id": "q07591",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and the trailing free-indirect comment is too clipped to establish the book\u2019s person."
+    },
+    {
+      "quote_id": "q07592",
+      "person_signal": "non_base",
+      "note": "Olive\u2019s quoted speech is local dialogue; the short tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q07593",
+      "person_signal": "third",
+      "note": "Outside the quoted question, the narrator refers to Olive as \u201cher\u201d and reports that she was unsure how to answer, exposing close third-person base narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.emilymandel.com/sea-of-tranquility-excerpt",
+      "title": "Read Sea of Tranquility by Emily St. John Mandel",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The author-hosted authorized excerpt presents two sustained chapters narrated by the participating Gaspery as \u201cI,\u201d establishing a substantial first-person section."
+    },
+    {
+      "url": "https://www.supersummary.com/sea-of-tranquility/part-4-summary/",
+      "title": "Sea of Tranquility Part 4 Summary & Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis explicitly says Part 4 breaks from the third-person narration of preceding chapters and makes Gaspery the first-person narrator."
+    },
+    {
+      "url": "https://www.csub.edu/english/_files/Calliope_2024.pdf",
+      "title": "Questioning the Unquestionable: Maintaining the Governmental Status Quo in Emily St. John Mandel\u2019s Sea of Tranquility",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "Scholarly literary analysis attributes the novel\u2019s final first-person reflection\u2014including q07573\u2014to Gaspery, confirming that it is base narration rather than dialogue or an embedded document."
+    },
+    {
+      "url": "https://www.gradesaver.com/sea-of-tranquility/study-guide/literary-elements",
+      "title": "Sea of Tranquility Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The point-of-view entry explicitly describes the novel as third person for the most part with first-person narration from Gaspery\u2019s perspective."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-sea-of-tranquility/styles.html",
+      "title": "Emily St. John Mandel Writing Styles in Sea of Tranquility",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide identifies third-person narration across the multiple Edwin, Mirella, and Olive perspectives, corroborating the third-person side of the alternation."
+    },
+    {
+      "url": "https://www.enotes.com/topics/sea-tranquility/characters",
+      "title": "Sea of Tranquility Characters",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The character analysis states that the book shifts into and out of Gaspery\u2019s first-person perspective."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with \u201cfirst person,\u201d \u201cthird person,\u201d \u201cpoint of view,\u201d and \u201cnarrator.\u201d",
+    "Searched publisher and author domains for authorized excerpts; opened Emily St. John Mandel\u2019s sustained Gaspery excerpt and the Penguin Random House title page.",
+    "Searched for structural descriptions of the shift involving Gaspery and opened SuperSummary, GradeSaver, BookRags, and eNotes analyses.",
+    "Searched academic and PDF sources for narratological evidence; opened the CSUB Calliope essay that attributes the final first-person passage to Gaspery.",
+    "Searched exact quote text for q07573 and q07590 to investigate whether their first-person language was narration, speech, or embedded material."
+  ],
+  "person_note": "The novel alternates sustained narrative persons: Edwin, Mirella, and Olive are narrated in third person, while Gaspery becomes a participating first-person narrator in Part 4 and later sections. The quote set independently reflects both modes: q07584 and q07593 expose close third-person narration, while q07573 is Gaspery\u2019s confirmed first-person ending narration and q07590 is a constitutive collective first-person event fragment. Panel speech, dialogue, universal \u201cyou,\u201d and gnomic \u201cwe\u201d were treated as local or nondiagnostic. Confidence is medium because the whole-book alternating structure is described by Tier C guides, while stronger sources establish only individual components.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_079",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T05:06:09.635929+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "49d251294d0643c908596e0fbc181514ac114361785e7d9b5c50b7394109cf0d"
+  }
+}

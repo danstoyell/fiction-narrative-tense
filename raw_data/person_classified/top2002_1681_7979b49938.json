@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:1681",
+  "quotes": [
+    {
+      "quote_id": "q00803",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no story-specific narrator-person evidence."
+    },
+    {
+      "quote_id": "q00804",
+      "person_signal": "non_base",
+      "note": "Authorial commentary about publishing \u201cRiding the Bullet,\u201d not a constituent story\u2019s base narration."
+    },
+    {
+      "quote_id": "q00805",
+      "person_signal": "non_base",
+      "note": "Quoted telephone speech; its pronouns do not identify the surrounding narrator."
+    },
+    {
+      "quote_id": "q00806",
+      "person_signal": "unmarked",
+      "note": "Possible story narration, but this aphoristic sentence does not expose narrator participation or sustained external narration."
+    },
+    {
+      "quote_id": "q00807",
+      "person_signal": "non_base",
+      "note": "General authorial observation about writers, not story-world narration."
+    },
+    {
+      "quote_id": "q00808",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about luck with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00809",
+      "person_signal": "non_base",
+      "note": "Generic maxim using non-story-specific \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00810",
+      "person_signal": "non_base",
+      "note": "Generalization about cats and preachers, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00811",
+      "person_signal": "non_base",
+      "note": "Authorial statement about writing stories, not fictional base narration."
+    },
+    {
+      "quote_id": "q00812",
+      "person_signal": "non_base",
+      "note": "Quoted maxim attributed to \u201cL.T.\u2019s Theory of Pets\u201d; it does not independently expose the story narrator."
+    },
+    {
+      "quote_id": "q00813",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased action involving Roland is insufficient by itself to establish the controlling narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00814",
+      "person_signal": "non_base",
+      "note": "Generic statement about creative work, not story-specific narration."
+    },
+    {
+      "quote_id": "q00815",
+      "person_signal": "non_base",
+      "note": "Philosophical generalization; \u201cus\u201d is universal rather than a participating story narrator."
+    },
+    {
+      "quote_id": "q00816",
+      "person_signal": "non_base",
+      "note": "Proverb-like generalization with no narrator-person signal."
+    },
+    {
+      "quote_id": "q00817",
+      "person_signal": "non_base",
+      "note": "Generic conditional \u201cyou,\u201d not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00818",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q00819",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q00820",
+      "person_signal": "non_base",
+      "note": "Authorial craft commentary about writing and publishing, not fictional narration."
+    },
+    {
+      "quote_id": "q00821",
+      "person_signal": "third",
+      "note": "The authorized contiguous text identifies this as the opening of \u201cAll That You Love Will Be Carried Away\u201d and sustains external narration of Alfie as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q00822",
+      "person_signal": "first",
+      "note": "The title story\u2019s participating narrator recalls Pug and explicitly says \u201cI wonder.\u201d"
+    },
+    {
+      "quote_id": "q00823",
+      "person_signal": "non_base",
+      "note": "Proverb-like generalization with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q00824",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; its \u201cI\u201d and \u201cyou\u201d do not identify base narration."
+    },
+    {
+      "quote_id": "q00825",
+      "person_signal": "unmarked",
+      "note": "Possible story narration, but this clipped sentence contains no independently diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q00826",
+      "person_signal": "first",
+      "note": "A participating narrator recounts his own belief outside dialogue using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00827",
+      "person_signal": "first",
+      "note": "Dinky\u2019s title-story narration explicitly uses \u201cI\u201d for his own habitual behavior."
+    },
+    {
+      "quote_id": "q00828",
+      "person_signal": "first",
+      "note": "The narrator of \u201cL.T.\u2019s Theory of Pets\u201d includes himself in the story-specific group \u201cpeople like us.\u201d"
+    },
+    {
+      "quote_id": "q00829",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about marriage; it does not independently expose the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00830",
+      "person_signal": "first",
+      "note": "Dinky narrates his own action and perceptions using \u201cI.\u201d"
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/Everythings-Eventual/Stephen-King/9781501197963",
+      "title": "Everything's Eventual | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The publisher\u2019s sustained excerpt from \u201cAutopsy Room Four\u201d has its participating protagonist narrate consistently as \u201cI.\u201d"
+    },
+    {
+      "url": "https://www.newyorker.com/magazine/2001/01/29/all-that-you-love-will-be-carried-away",
+      "title": "All That You Love Will Be Carried Away",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The authorized story text contains q00821 and sustains external third-person narration of Alfie Zimmer."
+    },
+    {
+      "url": "https://www.newyorker.com/magazine/1994/10/31/the-man-in-the-black-suit",
+      "title": "The Man in the Black Suit",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The authorized full story uses sustained retrospective first-person narration and is a constituent story of the collection."
+    },
+    {
+      "url": "https://www.internetwritingworkshop.org/pwarchive/pw79.shtml",
+      "title": "IWW Exercise \u201cA different view\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The point-of-view lesson explicitly states that some stories in the collection are first person and others third person, naming examples of each."
+    },
+    {
+      "url": "https://stephenking.com/works/collection/everythings-eventual.html",
+      "title": "Stephen King | Everything's Eventual",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author\u2019s official page identifies the volume as fourteen separate stories and lists the constituent titles; it does not explicitly analyze their narrative persons."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-everything-s-eventual/styles.html",
+      "title": "Stephen King Writing Styles in Everything\u2019s Eventual",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The collection-level study guide identifies multiple first-person stories; considered with its discussion of other stories and the authorized third-person text, it corroborates mixed narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cEverything's Eventual point of view first person third person\u201d and opened the Internet Writing Workshop discussion and BookRags study guide.",
+    "Opened the Simon & Schuster publisher page and verified its sustained first-person excerpt from \u201cAutopsy Room Four.\u201d",
+    "Opened The New Yorker\u2019s authorized texts of \u201cAll That You Love Will Be Carried Away\u201d and \u201cThe Man in the Black Suit,\u201d confirming sustained third- and first-person stories respectively.",
+    "Opened StephenKing.com and verified that the differently narrated works are separate constituent stories in the fourteen-story collection.",
+    "Searched Google Books and Open Library previews for a single authorized whole-book source exposing both persons; the accessible pages verified the contents but did not provide sufficient mixed-person prose.",
+    "Searched academic-domain and PDF results for a scholarly whole-collection POV analysis; no Tier B source explicitly establishing the collection-wide alternation was found."
+  ],
+  "person_note": "The volume contains autonomous stories with different controlling persons. The quote sample exposes first-person narration in the title story and other tales, while q00821 belongs to an authorized sustained third-person story. Publisher and New Yorker texts independently establish full first- and third-person constituent narratives, so the difference is structural rather than isolated dialogue, thought, or embedded material. The book is therefore ALTERNATING. Confidence is medium because the Tier A sources establish the component persons only at named-story scope; the sources explicitly describing the whole collection as mixed-person are Tier C, so the evidence does not meet the methodology\u2019s threshold for high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_037",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:23:52.102863+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "adbbd85e8a088bfb03a9246c932e643f28f516107e0220bd22e69cba126926a1"
+  }
+}

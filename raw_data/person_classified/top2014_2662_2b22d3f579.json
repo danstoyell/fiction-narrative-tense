@@ -1,0 +1,455 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:2662",
+  "quotes": [
+    {
+      "quote_id": "q02162",
+      "person_signal": "non_base",
+      "note": "Gnomic moral using generic you and we; it does not identify the narrator."
+    },
+    {
+      "quote_id": "q02163",
+      "person_signal": "non_base",
+      "note": "Self-contained aphorism about grief; the visible I is not securely attributable to base narration."
+    },
+    {
+      "quote_id": "q02164",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person generalization, not story-specific narration."
+    },
+    {
+      "quote_id": "q02165",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained narration of a protagonist."
+    },
+    {
+      "quote_id": "q02166",
+      "person_signal": "non_base",
+      "note": "Generic second-person observation with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q02167",
+      "person_signal": "non_base",
+      "note": "Impersonal aphorism without narrative-person evidence."
+    },
+    {
+      "quote_id": "q02168",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using generic second person."
+    },
+    {
+      "quote_id": "q02169",
+      "person_signal": "first",
+      "note": "A participating narrator explicitly expresses personal hope as I."
+    },
+    {
+      "quote_id": "q02170",
+      "person_signal": "first",
+      "note": "The narrating consciousness explicitly says I think."
+    },
+    {
+      "quote_id": "q02171",
+      "person_signal": "first",
+      "note": "Participating narrator describes herself with I and myself."
+    },
+    {
+      "quote_id": "q02172",
+      "person_signal": "non_base",
+      "note": "Proverbial advice using generic you."
+    },
+    {
+      "quote_id": "q02173",
+      "person_signal": "non_base",
+      "note": "Self-contained comparison and rhetorical question, not diagnostic narration."
+    },
+    {
+      "quote_id": "q02174",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical meditation without an exposed narrator."
+    },
+    {
+      "quote_id": "q02175",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism."
+    },
+    {
+      "quote_id": "q02176",
+      "person_signal": "first",
+      "note": "Participating narrator refers to my story and what I must do."
+    },
+    {
+      "quote_id": "q02177",
+      "person_signal": "non_base",
+      "note": "Clipped expository generalization about memory, not narrator-identifying prose."
+    },
+    {
+      "quote_id": "q02178",
+      "person_signal": "first",
+      "note": "Participating narrator recounts an experience through I."
+    },
+    {
+      "quote_id": "q02179",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic claim about what the universe wants from us."
+    },
+    {
+      "quote_id": "q02180",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur in dialogue; the brief she-said beat is not sufficient third-person evidence."
+    },
+    {
+      "quote_id": "q02181",
+      "person_signal": "non_base",
+      "note": "General exposition about dreaming and the paranormal."
+    },
+    {
+      "quote_id": "q02182",
+      "person_signal": "first",
+      "note": "Sustained reflection includes the narrator's own thought and collective expectation as I've and we."
+    },
+    {
+      "quote_id": "q02183",
+      "person_signal": "non_base",
+      "note": "Extended aphorism about loss; us is generic rather than a participating narrative frame."
+    },
+    {
+      "quote_id": "q02184",
+      "person_signal": "non_base",
+      "note": "General maxim about secrets and love."
+    },
+    {
+      "quote_id": "q02185",
+      "person_signal": "first",
+      "note": "Participating narrator describes her own need for rescue with I."
+    },
+    {
+      "quote_id": "q02186",
+      "person_signal": "unmarked",
+      "note": "The repeated you is generic experiential address about Africa, not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q02187",
+      "person_signal": "unclear",
+      "note": "Contextless pronoun and simile do not resolve whether this is narration, thought, or speech."
+    },
+    {
+      "quote_id": "q02188",
+      "person_signal": "first",
+      "note": "Participating narrator defines the paranormal through my life and I've."
+    },
+    {
+      "quote_id": "q02189",
+      "person_signal": "non_base",
+      "note": "Gnomic question using generic you."
+    },
+    {
+      "quote_id": "q02190",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph, not the novel's base narration."
+    },
+    {
+      "quote_id": "q02191",
+      "person_signal": "first",
+      "note": "Participating narrator reports a recurring personal observation with I've and I'm."
+    },
+    {
+      "quote_id": "q02192",
+      "person_signal": "non_base",
+      "note": "Gnomic dimensional analogy using generic you and we."
+    },
+    {
+      "quote_id": "q02193",
+      "person_signal": "first",
+      "note": "Participating narrator describes her response to reality with I."
+    },
+    {
+      "quote_id": "q02194",
+      "person_signal": "first",
+      "note": "Participating narrator states what I know before discussing another character."
+    },
+    {
+      "quote_id": "q02195",
+      "person_signal": "first",
+      "note": "The narrator participates in the group and contrasts her own loss with Jenna's and Virgil's."
+    },
+    {
+      "quote_id": "q02196",
+      "person_signal": "non_base",
+      "note": "General elephant facts without narrator-person evidence."
+    },
+    {
+      "quote_id": "q02197",
+      "person_signal": "first",
+      "note": "The speech beat I tell her directly exposes a participating narrator."
+    },
+    {
+      "quote_id": "q02198",
+      "person_signal": "non_base",
+      "note": "Impersonal aphorism without narrator-person evidence."
+    },
+    {
+      "quote_id": "q02199",
+      "person_signal": "non_base",
+      "note": "Expository comparison uses generic us humans rather than story participation."
+    },
+    {
+      "quote_id": "q02200",
+      "person_signal": "first",
+      "note": "Participating narrator addresses another character while referring to herself as me and I."
+    },
+    {
+      "quote_id": "q02201",
+      "person_signal": "first",
+      "note": "Sustained account of the narrator's feelings and actions repeatedly uses I and me."
+    },
+    {
+      "quote_id": "q02202",
+      "person_signal": "non_base",
+      "note": "Generic second-person metaphor, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02203",
+      "person_signal": "first",
+      "note": "Participating narrator reports what I know and I think."
+    },
+    {
+      "quote_id": "q02204",
+      "person_signal": "first",
+      "note": "Participating narrator describes words thrown at me and what I can do."
+    },
+    {
+      "quote_id": "q02205",
+      "person_signal": "unmarked",
+      "note": "Possible scene narration contains no participating narrator or sufficiently contextualized external narration."
+    },
+    {
+      "quote_id": "q02206",
+      "person_signal": "first",
+      "note": "Participating narrator explicitly reports I thought."
+    },
+    {
+      "quote_id": "q02207",
+      "person_signal": "non_base",
+      "note": "Author's-note address about what readers should take from the novel."
+    },
+    {
+      "quote_id": "q02208",
+      "person_signal": "non_base",
+      "note": "The first- and second-person material is Jenna's direct speech, not base narration."
+    },
+    {
+      "quote_id": "q02209",
+      "person_signal": "unmarked",
+      "note": "Exposition about memory uses generic you; the reference to Thomas alone does not identify narrator person."
+    },
+    {
+      "quote_id": "q02210",
+      "person_signal": "non_base",
+      "note": "Generic imperative maxim."
+    },
+    {
+      "quote_id": "q02211",
+      "person_signal": "non_base",
+      "note": "General claim about suicides and ghosts."
+    },
+    {
+      "quote_id": "q02212",
+      "person_signal": "non_base",
+      "note": "The visible first person belongs to Thomas's direct speech."
+    },
+    {
+      "quote_id": "q02213",
+      "person_signal": "non_base",
+      "note": "Gnomic literary analogy and rhetorical questions."
+    },
+    {
+      "quote_id": "q02214",
+      "person_signal": "first",
+      "note": "Participating narrator introduces her own thought with what I was thinking."
+    },
+    {
+      "quote_id": "q02215",
+      "person_signal": "unmarked",
+      "note": "Bare third-person plural subjects do not establish an external narrator."
+    },
+    {
+      "quote_id": "q02216",
+      "person_signal": "non_base",
+      "note": "General zoological statement without narrator-person evidence."
+    },
+    {
+      "quote_id": "q02217",
+      "person_signal": "first",
+      "note": "Despite the clipped opening, repeated I statements expose a participating narrator's desires."
+    },
+    {
+      "quote_id": "q02218",
+      "person_signal": "first",
+      "note": "Sustained narration combines elephant research with the narrator's own observations and work as I."
+    },
+    {
+      "quote_id": "q02219",
+      "person_signal": "first",
+      "note": "Participating narrator recounts Thomas's departure and her own lasting impression."
+    },
+    {
+      "quote_id": "q02220",
+      "person_signal": "unmarked",
+      "note": "A named character's experience is described without enough context to establish third-person base narration."
+    },
+    {
+      "quote_id": "q02221",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical question without narrator-person evidence."
+    },
+    {
+      "quote_id": "q02222",
+      "person_signal": "first",
+      "note": "Participating narrator recounts being kissed using me."
+    },
+    {
+      "quote_id": "q02223",
+      "person_signal": "non_base",
+      "note": "General aphorism about people who run away."
+    },
+    {
+      "quote_id": "q02224",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using inclusive generic we and you."
+    },
+    {
+      "quote_id": "q02225",
+      "person_signal": "first",
+      "note": "Participating scientist-narrator repeatedly reports what I tell colleagues and what we must admit."
+    },
+    {
+      "quote_id": "q02226",
+      "person_signal": "first",
+      "note": "Participating narrator describes what another person knew about me and what I was researching."
+    },
+    {
+      "quote_id": "q02227",
+      "person_signal": "non_base",
+      "note": "General metaphysical aphorism using generic you."
+    },
+    {
+      "quote_id": "q02228",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic explanation of bipolar disorder using generic you."
+    },
+    {
+      "quote_id": "q02229",
+      "person_signal": "first",
+      "note": "Participating narrator explicitly reports what I think."
+    },
+    {
+      "quote_id": "q02230",
+      "person_signal": "first",
+      "note": "The narrator interprets a personal message through give me and I just can't tell."
+    },
+    {
+      "quote_id": "q02231",
+      "person_signal": "first",
+      "note": "Although clipped, the surrounding narration uses I blurted and I should have thought."
+    },
+    {
+      "quote_id": "q02232",
+      "person_signal": "first",
+      "note": "Participating narrator confesses personal actions and weakness through repeated I."
+    },
+    {
+      "quote_id": "q02233",
+      "person_signal": "unmarked",
+      "note": "The girl is externally referenced, but generic you and limited context do not establish third-person narration."
+    },
+    {
+      "quote_id": "q02234",
+      "person_signal": "first",
+      "note": "Participating narrator reports looking up the mushrooms with I."
+    },
+    {
+      "quote_id": "q02235",
+      "person_signal": "first",
+      "note": "Participating observer describes what I could see and judge."
+    },
+    {
+      "quote_id": "q02236",
+      "person_signal": "unmarked",
+      "note": "The clipped sentence uses generic you and does not expose the narrator."
+    },
+    {
+      "quote_id": "q02237",
+      "person_signal": "first",
+      "note": "Despite embedded speech, the surrounding narrative explicitly states that I was supposed to be with him."
+    },
+    {
+      "quote_id": "q02238",
+      "person_signal": "non_base",
+      "note": "Clipped generalization about human pattern-seeking, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q02239",
+      "person_signal": "non_base",
+      "note": "Standalone elephant joke classified as dialogue."
+    },
+    {
+      "quote_id": "q02240",
+      "person_signal": "non_base",
+      "note": "Standalone elephant joke classified as dialogue."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jodipicoult.com/leaving-time.html",
+      "title": "Jodi Picoult \u00b7 Leaving Time (2014)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's authorized excerpt presents separately headed Jenna and Alice opening sections; both sustain participating narration with I, me, my, and we."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-leaving-time/styles.html",
+      "title": "Jodi Picoult Writing Styles in Leaving Time",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly states that the novel is told in first person by Alice, Jenna, Virgil, and Serenity and maps those narrators across the chapters."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/jodi-picoult/leaving-time/",
+      "title": "LEAVING TIME | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Kirkus identifies the complete narrating ensemble: Jenna shares narrative duties with Virgil, Serenity, and Alice. This corroborates that the many interior first-person quotes belong to the novel's controlling narrators. It identifies the narrating ensemble but does not explicitly establish grammatical person."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/52d12d25-a9df-410f-afea-f1c91bc526eb",
+      "title": "Review by mirkatte - Leaving Time | The StoryGraph",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "A detailed reader review explicitly identifies Alice, Jenna, Serenity, and Virgil as the book's four first-person narrators, including the audiobook's separate voice for each. This unvetted reader review is discovery-level corroboration, not an independent authoritative structural source."
+    }
+  ],
+  "search_log": [
+    "Searched \"Jodi Picoult Leaving Time excerpt publisher first chapter\" and located the author's authorized opening excerpt plus publisher pages.",
+    "Searched \"Leaving Time Jodi Picoult multiple narrators point of view first person\" and variants naming Jenna, Alice, Serenity, and Virgil; opened Kirkus, BookRags, LitStack, and StoryGraph results.",
+    "Searched Penguin Random House, Hachette, Hodder, Google Books, and the author's site for authorized samples; Penguin Random House and Hachette advertised samples, while the author's page supplied directly readable prose.",
+    "Checked the Google Books edition, but its opened page provided bibliographic and synopsis material rather than a readable narrative preview.",
+    "Opened a Waterstones-hosted PDF found during excerpt searching, but it was an extract from The Storyteller rather than Leaving Time and was discarded."
+  ],
+  "person_note": "The book uses multiple participating narrators, but all controlling strands are first person: Jenna, Alice, Serenity, and Virgil narrate their own sections as I. The Goodreads evidence repeatedly exposes first-person event narration across present-day investigation, psychic material, and Alice's sustained elephant-research and relationship history; dialogue, aphorisms, generic you passages, and the author's note were not allowed to vote. The authorized opening independently shows named first-person sections for Jenna and Alice, while whole-book sources identify the same four-narrator structure and explicitly describe all four as first person. Multiple first-person narrators therefore yield FIRST, not ALTERNATING. No credible source indicates sustained second- or third-person base sections; the main limitation is that the Tier A excerpt covers only the opening, offset by extensive interior quote evidence and whole-book structural descriptions. Source audit: the reader review is Tier D and the Kirkus ensemble description is structural context only; FIRST remains supported by diagnostic quotes, the authorized excerpt, and the explicit whole-book POV guide.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_054",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T19:50:07.453713+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "bf6f175816836f27ca85f0c934658248edd39fe2a3ab1ffcb6e28d3fae4e3830"
+  }
+}

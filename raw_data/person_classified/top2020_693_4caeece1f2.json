@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:693",
+  "quotes": [
+    {
+      "quote_id": "q04738",
+      "person_signal": "first",
+      "note": "Narratorial “I had learned” identifies Daphne as a participating narrator in the main narrative."
+    },
+    {
+      "quote_id": "q04739",
+      "person_signal": "non_base",
+      "note": "Motivational, audience-directed gnomic material; its I/we/you pronouns do not securely identify base narration."
+    },
+    {
+      "quote_id": "q04740",
+      "person_signal": "unmarked",
+      "note": "A generalized narratorial observation using universal “you”; it does not identify the narrator’s participation."
+    },
+    {
+      "quote_id": "q04741",
+      "person_signal": "first",
+      "note": "Repeated narratorial “I was going to” statements expose participating first-person narration."
+    },
+    {
+      "quote_id": "q04742",
+      "person_signal": "non_base",
+      "note": "Self-contained aphoristic comparison with universal “you,” not diagnostic base narration."
+    },
+    {
+      "quote_id": "q04743",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address about internet appearances, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04744",
+      "person_signal": "non_base",
+      "note": "Proverbial and universal second-person language does not identify the base narrator."
+    },
+    {
+      "quote_id": "q04745",
+      "person_signal": "non_base",
+      "note": "General commentary about social-media users contains no diagnostic narratorial participation."
+    },
+    {
+      "quote_id": "q04746",
+      "person_signal": "first",
+      "note": "After locally quoted advice, the base narration resumes with “I wanted to believe him.”"
+    },
+    {
+      "quote_id": "q04747",
+      "person_signal": "non_base",
+      "note": "Polemical generalization rather than person-diagnostic story narration."
+    },
+    {
+      "quote_id": "q04748",
+      "person_signal": "unmarked",
+      "note": "Sensory scene description is compatible with first- or third-person narration and contains no diagnostic marker."
+    },
+    {
+      "quote_id": "q04749",
+      "person_signal": "non_base",
+      "note": "Universalizing gnomic reflection uses “you”; the brief “maybe just me” does not by itself establish the passage as base narration."
+    },
+    {
+      "quote_id": "q04750",
+      "person_signal": "non_base",
+      "note": "An attributed Holmes maxim embedded in the novel, not the book’s narrating voice."
+    },
+    {
+      "quote_id": "q04751",
+      "person_signal": "third",
+      "note": "The exact sentence occurs within the sustained third-person prologue excerpt about Christina, establishing the prologue’s nonparticipating narration through surrounding context."
+    },
+    {
+      "quote_id": "q04752",
+      "person_signal": "non_base",
+      "note": "Audience-directed exhortation with rhetorical “right?” is gnomic or locally voiced material, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q04753",
+      "person_signal": "first",
+      "note": "“I listened” and “I’d never seen” identify the participating main narrator."
+    },
+    {
+      "quote_id": "q04754",
+      "person_signal": "non_base",
+      "note": "General argument about social media uses collective and universal pronouns without identifying story narration."
+    },
+    {
+      "quote_id": "q04755",
+      "person_signal": "first",
+      "note": "Narratorial “I knew” identifies the participating narrator; the subsequent “you” is generic."
+    },
+    {
+      "quote_id": "q04756",
+      "person_signal": "first",
+      "note": "Narratorial “I wouldn’t be able” describes Daphne’s own prospective action and identifies first-person base narration."
+    },
+    {
+      "quote_id": "q04757",
+      "person_signal": "first",
+      "note": "“When we were watching TV” places the narrator inside the narrated recurring scene."
+    },
+    {
+      "quote_id": "q04758",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person subject “she” can occur within Daphne’s first-person narration and does not identify the narrator."
+    },
+    {
+      "quote_id": "q04759",
+      "person_signal": "non_base",
+      "note": "Explicitly embedded Dorothy Parker verse is not base prose narration."
+    },
+    {
+      "quote_id": "q04760",
+      "person_signal": "first",
+      "note": "Despite the clipped beginning, narratorial possessives in the exposition (“my hands,” “my favorite”) identify the participating main voice."
+    },
+    {
+      "quote_id": "q04761",
+      "person_signal": "unmarked",
+      "note": "The fragment combines third-person description and quoted speech but contains no diagnostic marker of the base narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://abcnews.com/GMA/Culture/big-summer-jennifer-weiner-perfect-quarantine-read/story?id=70526178",
+      "title": "'Big Summer' by Jennifer Weiner is the perfect quarantine read",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "A sustained published excerpt explicitly headed “Prologue” narrates Christina and Aidan externally as she/he, establishing third-person narration in that section."
+    },
+    {
+      "url": "https://www.jenniferweiner.com/big-summer",
+      "title": "big summer — Jennifer Weiner",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The author’s official site supplies a sustained Chapter One excerpt narrated by participating protagonist Daphne as “I.”"
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-big-summer/styles.html",
+      "title": "Jennifer Weiner Writing Styles in Big Summer",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The dedicated point-of-view analysis explicitly states that most of the novel is Daphne’s first-person narration and that the prologue is the third-person exception, resolving the whole-book structure."
+    },
+    {
+      "url": "https://jhsiess.com/book-review-big-summer/",
+      "title": "Book Review: Big Summer",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The opened review independently describes a third-person prologue about Christina followed by Daphne’s first-person narrative and quotes both voices."
+    }
+  ],
+  "search_log": [
+    "Searched “Big Summer Jennifer Weiner official excerpt first chapter” and opened the author/publisher-authorized Chapter One material.",
+    "Searched “Big Summer Jennifer Weiner prologue point of view Daphne first person” and “Big Summer exception is the Prologue,” locating and opening explicit whole-book structural analysis.",
+    "Searched the distinctive prologue line “You'll go crazy out there” with the title and opened ABC News/GMA’s sustained prologue excerpt.",
+    "Searched Google Books, Open Library, and Internet Archive preview combinations; Google Books exposed contents and preview metadata, while Open Library/Internet Archive results did not add usable person evidence.",
+    "Follow-up searches for third-person narration, multiple narrators, and review descriptions found corroboration that the third-person voice is confined to the prologue and Daphne narrates the main chapters in first person."
+  ],
+  "person_note": "Daphne's participating first-person narration controls the sustained main novel and is repeatedly exposed by Goodreads passages and authorized excerpts. A third-person prologue follows Christina, but that brief introductory exception is not a co-controlling base strand. Under the clarified aggregation rule, the book label is FIRST.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.266259+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dc10ae970fcf1b03a08e3fe492ec0586a314f6ab03539d5cddafb4cf689acab7"
+  }
+}

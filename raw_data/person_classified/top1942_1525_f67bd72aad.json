@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1942:1525",
+  "quotes": [
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "Universal gnomic 'we' does not identify a participating story narrator."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "Impersonal maxim with no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Ling Tan's knowledge and generalizes beyond him without a participating narrator."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "non_base",
+      "note": "First-person 'I' belongs to character speech, not narration."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "Clipped character description uses she/he but lacks enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs entirely in direct speech."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "unmarked",
+      "note": "Narratorial characterization of Orchid is compatible with third person but is too isolated to be diagnostic alone."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "unmarked",
+      "note": "The sentence reports shared thought externally, but the short isolated context does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "unclear",
+      "note": "The clipped, syntactically incomplete description lacks recoverable local framing."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "non_base",
+      "note": "Diagnostic first-person plurals are in speech; the external 'he said' beat alone is unmarked."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "non_base",
+      "note": "First-person plural appears in a character's question."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "non_base",
+      "note": "First-person plural is part of direct speech."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "Second-person forms are conversational address within dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs within character speech."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "unclear",
+      "note": "Sentence fragment and missing antecedent prevent reliable attribution."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "non_base",
+      "note": "'You' and 'I' belong to direct speech."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to a character addressing another character."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "unmarked",
+      "note": "A gnomic assertion followed by an impersonal battle beat does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "unmarked",
+      "note": "External reference to the group's inherited beliefs suggests third-person narration but is too brief to diagnose it independently."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "unmarked",
+      "note": "Impersonal description of the land contains no participating narrator or story-specific addressee."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "third",
+      "note": "Sustained narration externally identifies Ling Tan as 'he' and reports what he heard, remembered, and believed."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "non_base",
+      "note": "Third-person references occur inside character speech and do not expose the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://journals.us.edu.pl/index.php/RIAS/article/download/4053/3168/4734",
+      "title": "Pearl S. Buck and the Forgotten Holocaust of Nanking",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly analysis describes the novel's first, central, and final parts and reproduces interior base narration from widely separated pages; those passages externally narrate Ling Tan, his family, and other victims as he, she, and they, with access to their perceptions and no participating narrator."
+    },
+    {
+      "url": "https://assets.cambridge.org/97811071/43319/excerpt/9781107143319_excerpt.pdf",
+      "title": "Why We Fight: Contending Narratives of World War II",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Cambridge scholarly chapter analyzes Dragon Seed and quotes an interior passage that externally calls Ling Tan 'he' while reporting what he heard and understood, corroborating third-person narration."
+    },
+    {
+      "url": "https://openroadmedia.com/ebook/dragon-seed/9781453263518",
+      "title": "Dragon Seed by Pearl S. Buck | Open Road Media",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Publisher page verifies the work and offers a preview, but its accessible text is synopsis rather than base prose and therefore does not independently establish narrative person."
+    },
+    {
+      "url": "https://archive.org/details/dragonseed00buck_1",
+      "title": "Dragon seed : Pearl S. Buck : Free Download, Borrow, and Streaming | Internet Archive",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "Library scan verifies the 378-page edition, but access is restricted and no readable narrative passage was available without borrowing."
+    }
+  ],
+  "search_log": [
+    "Searched \"Dragon Seed\" \"Pearl S. Buck\" excerpt, first chapter, full text, and Ling Tan; located publisher, Google Books, Open Library, Internet Archive, and an unauthorized translated OCR result.",
+    "Searched \"Dragon Seed\" third person, narrator, point of view, omniscient, narrative, and focalization; no credible source explicitly used the grammatical label, but two scholarly sources supplied diagnostic interior prose and whole-book structural coverage.",
+    "Opened the Open Road Media publisher page and followed its Amazon and Google preview routes; Amazon failed and Google Play exposed only catalog copy, not sample prose.",
+    "Opened Google Books, Open Library, and Internet Archive records; Google Books remained snippet-only and the Internet Archive/Open Library edition required borrowing.",
+    "Opened and inspected the Review of International American Studies article and Cambridge University Press chapter; their quotations from separated interior scenes consistently corroborated third-person narration and revealed no alternating first- or second-person sections."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Ling Tan and other family members externally in third person, often entering their knowledge and perceptions. Quotes q00032 and q00051 independently expose that position; most first-, second-, and plural-person forms elsewhere are dialogue or universal maxims. Scholarly evidence covers the novel's major parts and quotes multiple separated interior scenes in the same third-person mode, while a second scholarly source independently corroborates it. No credible evidence of a sustained first- or second-person frame or alternating section was found; the only remaining limitation is that publisher and library previews were inaccessible as continuous authorized prose.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_004",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T22:51:24.303804+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2bc85d04ddd84e442e39423d766efeb27ffce240cdd437da3a84dac5027a71f0"
+  }
+}

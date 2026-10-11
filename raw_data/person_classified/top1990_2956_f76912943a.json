@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1990:2956",
+  "quotes": [
+    {
+      "quote_id": "q01107",
+      "person_signal": "non_base",
+      "note": "Attributed Coleridge quotation used as paratext; its first person is not the novel's narrator."
+    },
+    {
+      "quote_id": "q01108",
+      "person_signal": "non_base",
+      "note": "Direct character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01109",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed 'he' is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q01110",
+      "person_signal": "unmarked",
+      "note": "Historical exposition contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01111",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts Demiris's actions and privately motivated burial arrangement."
+    },
+    {
+      "quote_id": "q01112",
+      "person_signal": "unclear",
+      "note": "Clipping and absent attribution leave speech, direct thought, and free-indirect narration unresolved."
+    },
+    {
+      "quote_id": "q01113",
+      "person_signal": "third",
+      "note": "The passage externally renders a woman's voices, past, and mental images in sustained third person."
+    },
+    {
+      "quote_id": "q01114",
+      "person_signal": "third",
+      "note": "External narration of Inspector Tinou and the police perspective shifts into third-person free-indirect reflection."
+    },
+    {
+      "quote_id": "q01115",
+      "person_signal": "non_base",
+      "note": "General philosophical statement is gnomic rather than story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01116",
+      "person_signal": "non_base",
+      "note": "Direct dialogue does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01117",
+      "person_signal": "third",
+      "note": "After attributed dialogue, an external narrator supplies the third-person narrative punchline."
+    },
+    {
+      "quote_id": "q01118",
+      "person_signal": "non_base",
+      "note": "The first-person wording is explicitly tagged as Catherine's direct thought, embedded within third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://litres.com/book/sidney-sheldon/memories-of-midnight-39785873/read/",
+      "title": "Read the book: Memories of Midnight \u2014 Sidney Sheldon",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Licensed HarperCollins ebook sample spans the prologue, Chapter One, and a lengthy portion of Chapter Two. It consistently narrates characters externally as he or she while marking first-person language as dialogue or direct thought."
+    },
+    {
+      "url": "https://www.bookey.app/book/memories-of-midnight-by-sidney-sheldon/quote",
+      "title": "Best Quotes from Memories of Midnight By Sidney Sheldon with Page Numbers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Chapter-indexed passages from Chapters 1\u201332 repeatedly pair external third-person narration with explicitly tagged character thoughts; late passages retain this pattern through the ending."
+    }
+  ],
+  "search_log": [
+    "Searched \"Memories of Midnight\" \"Sidney Sheldon\" excerpt and first chapter; found and opened the licensed Litres/HarperCollins sample.",
+    "Searched \"Memories of Midnight\" third person, point of view, narrator, first person, alternating narration, epistolary, and frame narrative; found no credible explicit whole-book POV description.",
+    "Searched Google Books, Open Library, and Internet Archive editions; these verified the work, but catalog copy and access-restricted previews were not independently diagnostic of narrative person.",
+    "Opened and inspected Bookey's chapter-indexed quotation page, including interior and concluding chapters, for evidence beyond the authorized opening.",
+    "A scholarly main-character analysis appeared in search results, but the page failed to open reliably and was not used as evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person, moving among Catherine, Demiris, and other characters and sometimes presenting their direct thoughts. The diagnostic Goodreads passages agree with the authorized opening, while chapter-indexed web passages corroborate the same pattern across the book. First-person wording in q01118 and similar web excerpts is locally attributed thought or dialogue, not an autonomous first-person narrative section. No evidence of sustained first- or second-person base narration was found; the only limitation is the absence of an explicit whole-book narratological description.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_026",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:39:41.605528+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "af5e62f42d52895b09735600fbbe99c5225b50d53cf73147e26d32100c017ef3"
+  }
+}

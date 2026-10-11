@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:4450",
+  "quotes": [
+    {
+      "quote_id": "q00664",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur entirely within direct speech and do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00665",
+      "person_signal": "third",
+      "note": "Continuous external narration presents a woman as \u201cshe\u201d while describing her crying and emotional readiness."
+    },
+    {
+      "quote_id": "q00666",
+      "person_signal": "unmarked",
+      "note": "Most of the passage is dialogue; the brief outside beat about \u201cshe\u201d is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q00667",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms are confined to direct speech."
+    },
+    {
+      "quote_id": "q00668",
+      "person_signal": "unmarked",
+      "note": "The sentence presents a woman\u2019s possible internal condition as \u201cshe,\u201d but the isolated context is too short to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00669",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both ends, preventing reliable attribution of its third-person references to the controlling narration."
+    },
+    {
+      "quote_id": "q00670",
+      "person_signal": "unmarked",
+      "note": "Two brief statements about an unnamed \u201che\u201d are compatible with either first- or third-person framing outside the excerpt."
+    },
+    {
+      "quote_id": "q00671",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence reports a man\u2019s realization but does not provide enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00672",
+      "person_signal": "third",
+      "note": "A continuous passage externally identifies Ria and Danny while rendering Ria\u2019s feelings, beliefs, and realization in close third person."
+    },
+    {
+      "quote_id": "q00673",
+      "person_signal": "non_base",
+      "note": "This is a clipped fragment of character speech rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00674",
+      "person_signal": "third",
+      "note": "The sustained scene repeatedly names Ria or uses \u201cshe\u201d while rendering her memories, deductions, questions, and physical actions from a nonparticipating close-third position."
+    },
+    {
+      "quote_id": "q00675",
+      "person_signal": "unclear",
+      "note": "The lower-case fragment could be narrator-mediated thought or locally embedded thought; its missing context prevents responsible attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.litres.ru/book/meyv-binchi/dom-na-tara-roud-72839177/chitat-onlayn/",
+      "title": "\u0414\u043e\u043c \u043d\u0430 \u0422\u0430\u0440\u0430-\u0440\u043e\u0443\u0434 \u2014 \u041c\u0435\u0439\u0432 \u0411\u0438\u043d\u0447\u0438: \u0447\u0438\u0442\u0430\u0442\u044c \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442 \u043e\u043d\u043b\u0430\u0439\u043d",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed 2025 Russian-edition excerpt provides a sustained Chapter 1 passage narrating Ria, Hilary, Nora, and Ken externally in third person while entering several characters\u2019 thoughts. Its scope is limited to the opening and it is a translation."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-tara-road/style.html",
+      "title": "Maeve Binchy Writing Styles in Tara Road",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened point-of-view section explicitly identifies the novel as third-person omniscient throughout and explains that the narrator supplies the actions and thoughts of multiple characters."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/entertainment/books/1999/03/21/a-house-divided/02beaaf4-658f-4e07-b2f2-62984580241b/",
+      "title": "A House Divided",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "By inference, this contemporary review corroborates an external omniscient voice: it describes a choral narrative, a controlling authorial voice granting access to the community\u2019s hearts, and varying intimacy with Ria and other characters."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cTara Road\u201d \u201cMaeve Binchy\u201d with excerpt, first chapter, point of view, third person, narrator, omniscient, alternating narration, Google Books, Open Library, publisher, and library combinations.",
+    "Opened and used the licensed LitRes Chapter 1 translation, the BookRags point-of-view analysis, and the Washington Post review.",
+    "The Penguin Random House title page exposed a Read Sample control but not the sample prose to the research browser; its synopsis was not treated as person evidence.",
+    "A Penguin UK sample PDF was discovered but could not be opened because of its size; Open Library timed out, and the Nashville Public Library preview redirected unsuccessfully. Search snippets and plot-summary grammar were not used as narration evidence.",
+    "Targeted searches found no credible indication of first-person, second-person, epistolary, framed, or person-alternating base narration."
+  ],
+  "person_note": "The decisive Goodreads evidence is the sustained close-third narration in q00672 and especially q00674, with q00665 corroborating. First-person forms in q00664, q00666, and q00667 are local dialogue, not narrator speech; clipped or isolated third-person fragments were not allowed to vote mechanically. The authorized opening translation independently shows sustained third-person narration across several characters, while the whole-book point-of-view guide explicitly calls the novel third-person omniscient and the contemporary review corroborates its choral, mind-entering narrator. No evidence supports sustained narration in another person. The main limitation is that the Tier A excerpt is an opening in translation, but the interior quote evidence and whole-book descriptions resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_033",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T19:08:41.015624+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b4dd7cc7485df113680227631936d290100488602cbf481900401efb36beb975"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:740",
+  "quotes": [
+    {
+      "quote_id": "q05148",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim about work; it does not narrate a story-specific protagonist."
+    },
+    {
+      "quote_id": "q05149",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the framing narration uses participating-narrator actions such as \u201cI said\u201d and \u201cWe stood.\u201d"
+    },
+    {
+      "quote_id": "q05150",
+      "person_signal": "non_base",
+      "note": "General aphorism about love rather than person-marked story narration."
+    },
+    {
+      "quote_id": "q05151",
+      "person_signal": "first",
+      "note": "Participating narrator directly reports his own hope as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05152",
+      "person_signal": "first",
+      "note": "Participating narrator describes his own preference with \u201cI liked.\u201d"
+    },
+    {
+      "quote_id": "q05153",
+      "person_signal": "first",
+      "note": "Participating narrator characterizes himself using \u201cI\u2019m\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q05154",
+      "person_signal": "third",
+      "note": "Research places this external exposition about Christoph and his parents within a sustained third-person character strand."
+    },
+    {
+      "quote_id": "q05155",
+      "person_signal": "third",
+      "note": "The narration externally presents Christoph\u2019s knowledge; it belongs to the recurring third-person Christoph strand."
+    },
+    {
+      "quote_id": "q05156",
+      "person_signal": "non_base",
+      "note": "Biblical-style universal question using generic third and first-person plural references, not base narration."
+    },
+    {
+      "quote_id": "q05157",
+      "person_signal": "unclear",
+      "note": "Clipped fragment could be dialogue or narration, so its implied speaker cannot be resolved."
+    },
+    {
+      "quote_id": "q05158",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism about experience."
+    },
+    {
+      "quote_id": "q05159",
+      "person_signal": "unmarked",
+      "note": "Passive report contains no narrator-participation marker; deictic \u201chere\u201d could also come from locally quoted speech."
+    },
+    {
+      "quote_id": "q05160",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim about choice rather than story-specific narration."
+    },
+    {
+      "quote_id": "q05161",
+      "person_signal": "third",
+      "note": "Research identifies the female referent as Alice in a sustained third-person strand; the narrator reports her family history externally."
+    },
+    {
+      "quote_id": "q05162",
+      "person_signal": "third",
+      "note": "External narration reports a woman\u2019s habitual thought as \u201cwhat she always thought,\u201d consistent with the Alice third-person strand."
+    },
+    {
+      "quote_id": "q05163",
+      "person_signal": "first",
+      "note": "Substantial framing narration outside the quoted conversation repeatedly presents the participating narrator as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05164",
+      "person_signal": "first",
+      "note": "The narrator participates explicitly through \u201cI had even heard\u201d while supplying story-world exposition."
+    },
+    {
+      "quote_id": "q05165",
+      "person_signal": "non_base",
+      "note": "Sustained direct speech addressed to an interlocutor; its pronouns identify the speaker and addressee, not the base narrator."
+    },
+    {
+      "quote_id": "q05166",
+      "person_signal": "first",
+      "note": "Long scene narration repeatedly uses \u201cI\u201d and \u201cmy\u201d for the participating narrator; embedded speech is local."
+    },
+    {
+      "quote_id": "q05167",
+      "person_signal": "first",
+      "note": "The participating narrator describes Ramirez relative to \u201cme\u201d and explicitly refers to himself as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05168",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim about police work, not sustained narration of a story-specific \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q05169",
+      "person_signal": "non_base",
+      "note": "Generic imperative and second-person generalization rather than base narrative person."
+    },
+    {
+      "quote_id": "q05170",
+      "person_signal": "first",
+      "note": "After an aphoristic opening, the participating narrator states his knowledge and intended action with \u201cI.\u201d"
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.jamespatterson.com/landing-page/blindside-book-preview/",
+      "title": "Blindside Book Preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author/Hachette preview supplies Chapters 1\u20134, all sustained first-person narration by Michael Bennett."
+    },
+    {
+      "url": "https://www.penguin.com.au/books/blindside-9781787461758/extracts/2184-blindside",
+      "title": "Extract | Blindside by James Patterson",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Penguin\u2019s authorized extract independently hosts the opening through Chapter 3 and confirms sustained first-person Bennett narration, though it does not reach the other strands."
+    },
+    {
+      "url": "https://www.bookey.app/book/blindside",
+      "title": "Blindside Chapter Summary | James Patterson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The chapter-by-chapter coverage repeatedly records shifts between the detective\u2019s narrator strand and sustained Alice, Ollie, and Christoph perspectives, including adjacent shifts in Chapters 32\u201334, 44\u201346, 73\u201375, and 81\u201385. Combined with the quotes\u2019 grammar, this corroborates recurring third-person sections rather than an isolated embedded passage."
+    },
+    {
+      "url": "https://books.google.com/books?id=UUabDwAAQBAJ",
+      "title": "Blindside - James Patterson, James O. Born - Google Books",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Verified the exact work, authors, publisher, length, and 106-chapter contents, but the accessible page did not expose enough interior prose to establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cBlindside James Patterson James O Born excerpt chapter first person Michael Bennett Christoph\u201d and found the authorized James Patterson/Hachette opening preview.",
+    "Searched \u201cBlindside James Patterson point of view first person third person alternating\u201d; results were dominated by Michael Lewis\u2019s unrelated The Blind Side and generic discussions of Patterson\u2019s other series.",
+    "Searched the author, publisher, and Google Books domains for Blindside excerpts; opened the James Patterson, Penguin Australia, and Google Books pages.",
+    "Tried Google Books chapter and term links for interior passages involving Christoph, but the chapter pages exposed no readable prose and term links failed.",
+    "Searched exact quote fragments involving Christoph and Alice; this located chapter-organized Bookey material but no authorized interior extract.",
+    "Searched \u201cBlindside Patterson first person Bennett Alice,\u201d \u201cthird person,\u201d \u201calternating,\u201d and \u201cpoint of view\u201d; no credible source explicitly named both grammatical persons, though chapter summaries corroborated sustained perspective changes.",
+    "Opened SuperSummary\u2019s whole-book synopsis; it verified the recurring Alice and Christoph plot strands but did not explicitly describe narrative grammar, so it was not used as person support."
+  ],
+  "person_note": "The book alternates narrative person by sustained chapter strand. Michael Bennett\u2019s chapters are unmistakably first person: numerous Goodreads passages expose his participating \u201cI,\u201d and two authorized publisher-hosted versions of the opening confirm that mode across several chapters. Separate excerpts externally narrate the consciousness and history of Alice and Christoph in third person, while whole-book chapter coverage corroborates that these perspectives recur at many points rather than appearing as dialogue, documents, or isolated embedded tales. The result is therefore ALTERNATING, not FIRST with incidental third-person references. Confidence is medium because the strongest authorized web excerpts cover only the first-person opening; the recurring third-person structure is established chiefly by the quote set plus a weaker whole-book chapter source.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_070",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:55:33.174403+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8eb2caf62253d4c82f9a705dd0f616b996e77ead0768d1f0580b0e967dd69b65"
+  }
+}

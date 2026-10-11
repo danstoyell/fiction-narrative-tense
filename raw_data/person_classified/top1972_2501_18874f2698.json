@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1972:2501",
+  "quotes": [
+    {
+      "quote_id": "q01839",
+      "person_signal": "non_base",
+      "note": "Imperatives and second-person pronouns occur in character speech, not controlling narration."
+    },
+    {
+      "quote_id": "q01840",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01841",
+      "person_signal": "third",
+      "note": "The narratorial framing names Jonathan externally and attributes the ensuing thought to him as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q01842",
+      "person_signal": "non_base",
+      "note": "The second-person address to Jonathan is dialogue."
+    },
+    {
+      "quote_id": "q01843",
+      "person_signal": "non_base",
+      "note": "The inclusive \u201cwe\u201d belongs to character speech."
+    },
+    {
+      "quote_id": "q01844",
+      "person_signal": "non_base",
+      "note": "The repeated \u201cwe\u201d is spoken exhortation rather than narratorial self-reference."
+    },
+    {
+      "quote_id": "q01845",
+      "person_signal": "third",
+      "note": "Base narration describes Jonathan externally as \u201che\u201d and authoritatively characterizes his transformed nature."
+    },
+    {
+      "quote_id": "q01846",
+      "person_signal": "non_base",
+      "note": "The passage is chiefly Jonathan\u2019s direct address; its brief speech attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01847",
+      "person_signal": "non_base",
+      "note": "The \u201cwe\u201d occurs in character speech about successive worlds."
+    },
+    {
+      "quote_id": "q01848",
+      "person_signal": "third",
+      "note": "The narrator externally summarizes Jonathan\u2019s discovery, thought, and remaining lifespan."
+    },
+    {
+      "quote_id": "q01849",
+      "person_signal": "non_base",
+      "note": "A gnomic maxim does not expose the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q01850",
+      "person_signal": "non_base",
+      "note": "This definition of heaven is character speech."
+    },
+    {
+      "quote_id": "q01851",
+      "person_signal": "third",
+      "note": "Extended external narration frames Jonathan\u2019s teaching, a crowd response, and his reply."
+    },
+    {
+      "quote_id": "q01852",
+      "person_signal": "non_base",
+      "note": "The story-specific \u201cyou\u201d appears in instruction spoken by a character."
+    },
+    {
+      "quote_id": "q01853",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to dialogue; the short attribution is not enough to identify narrator participation."
+    },
+    {
+      "quote_id": "q01854",
+      "person_signal": "non_base",
+      "note": "A character\u2019s announcement contains no diagnostic base narration."
+    },
+    {
+      "quote_id": "q01855",
+      "person_signal": "non_base",
+      "note": "The \u201cwe\u201d and address to Jon are within character speech."
+    },
+    {
+      "quote_id": "q01856",
+      "person_signal": "non_base",
+      "note": "Second-person moral instruction is dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01857",
+      "person_signal": "unmarked",
+      "note": "The atmospheric base narration contains no narrator or character reference that identifies person."
+    },
+    {
+      "quote_id": "q01858",
+      "person_signal": "third",
+      "note": "The narrator contrasts gulls generally with Jonathan\u2019s private priorities from an external position."
+    },
+    {
+      "quote_id": "q01859",
+      "person_signal": "third",
+      "note": "Before Jonathan\u2019s first-person speech, base narration externally tracks his body wavering and becoming transparent."
+    },
+    {
+      "quote_id": "q01860",
+      "person_signal": "non_base",
+      "note": "As bucketed upstream, this generalized statement is gnomic and is not used to determine narrator person."
+    },
+    {
+      "quote_id": "q01861",
+      "person_signal": "non_base",
+      "note": "The first- and third-person forms are inside Jonathan\u2019s quoted reflection; the attribution is only a brief speech beat."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://digilib.uinsa.ac.id/15186/81/Whisnu%20Prabowo%20A03212071%20ok.pdf",
+      "title": "Symbolism in Richard Bach\u2019s Jonathan Livingston Seagull: A Story",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A university-hosted literary thesis explicitly identifies third-person point of view and supports it with sustained opening narration about Jonathan as \u201che.\u201d"
+    },
+    {
+      "url": "https://www.litcharts.com/lit/jonathan-livingston-seagull",
+      "title": "Jonathan Livingston Seagull Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide lists the work\u2019s point of view as third-person and distinguishes the original three-part edition from the later fourth-part edition."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-jonathan-livingston-seagull/style.html",
+      "title": "Richard Bach Writing Styles in Jonathan Livingston Seagull",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section describes a third-person past-tense narrator who follows Jonathan across the story\u2019s Earth, exile, and heaven episodes."
+    },
+    {
+      "url": "https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V08N01_6.pdf",
+      "title": "Letters to the Editor: \u201cGet Off My Bach!\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A contemporaneous discussion states that Jonathan is consistently referred to in the third person throughout the book, directly addressing whole-book narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJonathan Livingston Seagull Richard Bach excerpt publisher PDF,\u201d \u201cfirst chapter excerpt,\u201d \u201cpoint of view,\u201d \u201cthird person narrator,\u201d and \u201cscholarly analysis.\u201d",
+    "Opened and assessed LitCharts, eNotes, BookRags, GradeSaver, a university-repository thesis, and a contemporaneous Dialogue journal letter; the usable sources consistently identified third-person narration.",
+    "Checked the official Simon & Schuster page and Google Books record/preview; they verified the title and 1970 edition but did not expose enough continuous prose or explicit POV analysis to use as person evidence.",
+    "Searched specifically for first-person, alternating narration, frame structure, Google Books, and Internet Archive evidence. Casual student slides and an interview transcript asserted first person without textual support and contradicted the opened text and stronger analyses, so they were treated as low-quality dead ends.",
+    "Found downloadable full-text copies on nonpublisher sites but did not rely on them as authorized Tier A evidence."
+  ],
+  "person_note": "The controlling narrator is a nonparticipating third-person voice centered closely on Jonathan and able to report his thoughts and development. The diagnostic event passages and substantial dialogue framing agree with the scholarly analysis and several independent whole-book descriptions. First-, second-, and inclusive-person pronouns in the quotes are local character speech or thought, not autonomous narrative sections. No credible evidence of an alternating or participating narrator was found; the main limitation is the absence of an accessible authorized sustained excerpt, offset by the university analysis, repeated quote evidence, and multiple explicit whole-book sources.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_017",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T02:07:14.975739+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e43ce12b6edd03391bdc7e7cd7b3bf3357b0fea5bcf82608e660cc0d6f672e5f"
+  }
+}

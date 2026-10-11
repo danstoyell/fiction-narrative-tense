@@ -1,0 +1,418 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:5903",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "first",
+      "note": "Noah's story-specific opening self-assessment uses participating first-person narration."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "non_base",
+      "note": "Direct advice in dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Character address to a lover, not base narration."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "Brief direct address in dialogue."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Character speech to a lover."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "first",
+      "note": "A participating narrator recounts the couple's shared history as we."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "third",
+      "note": "Sustained external scene summary refers to both lovers as they, matching the third-person middle narrative."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "non_base",
+      "note": "Reported paternal advice within character speech."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "Character address to a lover."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism without a story-specific narrator."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "non_base",
+      "note": "Letter-like or spoken direct address by a character, not controlling narration."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "Character speech about separation."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "first",
+      "note": "The participating frame narrator describes an immediate shared scene as we."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "Promise addressed directly by one character to another."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "first",
+      "note": "The frame narrator identifies the woman as my dream and describes his present thoughts."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "unmarked",
+      "note": "A brief description of she lacks enough narratorial context to establish person by itself."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "Short conversational exchange."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "Speaker-labeled dialogue between Noah and Allie."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "Standalone maxim about distance."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "non_base",
+      "note": "Noah's signed embedded letter, not base narration."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "first",
+      "note": "The narrator explicitly marks the story-specific wondering as his own memory."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "unmarked",
+      "note": "Single third-person sentence lacks enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "unmarked",
+      "note": "Brief narrated thought uses she but does not independently establish base person."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "third",
+      "note": "Sustained external narration follows he and she and accesses his recognition without a participating frame."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "third",
+      "note": "Sustained external narration describes both characters and her belief in third person."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Direct address by one character to another."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Direct rhetorical address in dialogue."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "Character speech, not narratorial evidence."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "Character recollection addressed to another character."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "Direct dialogue."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Universal maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "Character speech about making a choice."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "non_base",
+      "note": "Standalone generalization."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Conversational imperative and direct address."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to a lover."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic claim; its I does not diagnose base narration."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "non_base",
+      "note": "Standalone reflection classified as gnomic rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "non_base",
+      "note": "Universal gnomic statement; first-person grammar is nondiagnostic here."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "non_base",
+      "note": "Standalone maxim."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "third",
+      "note": "Extended external description of he and she includes access to his judgments and aspirations."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "Embedded letter-like direct address."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "non_base",
+      "note": "Extended conversational exchange without narratorial prose."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "third",
+      "note": "A coherent third-person narrative paragraph externally recounts his former love and knowledge."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "non_base",
+      "note": "Advice framed as character speech."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "Spoken address in dialect."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "first",
+      "note": "The participating frame narrator reflects on his circumstances and beliefs."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "unclear",
+      "note": "The verse's speaker and relationship to the base narrative cannot be resolved from the fragment."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "non_base",
+      "note": "Character dialogue using we."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "non_base",
+      "note": "Character speech about his sweetheart."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "first",
+      "note": "The frame narrator recounts his immediate fear, knowledge, and actions as I."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "first",
+      "note": "Story-specific first-person learning introduces the ensuing reflections."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "first",
+      "note": "The frame narrator evaluates his own life in first person."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "first",
+      "note": "The narrator explicitly identifies the story as involving his life and chosen path."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "third",
+      "note": "Although dialogue dominates, the substantial surrounding beat externally narrates she and he in third person."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "unmarked",
+      "note": "A single sentence about he is compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "first",
+      "note": "The participating narrator describes his immediate waiting, dreams, and knowledge."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "third",
+      "note": "The extended surrounding beat externally narrates his admiration and memory before the quoted speech."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "non_base",
+      "note": "Direct conversational appeal."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "non_base",
+      "note": "Standalone generalization about the future."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "non_base",
+      "note": "Reported advice embedded in character speech."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "first",
+      "note": "The frame narrator asks who he is and how his story will end."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "unmarked",
+      "note": "Brief third-person exposition alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "first",
+      "note": "The participating narrator retrospectively discusses his father and life journey."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "first",
+      "note": "The frame narrator describes his lifelong faith and anticipated death."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "non_base",
+      "note": "Standalone quoted verse rather than base narration."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "unmarked",
+      "note": "The short third-person passage about she lacks enough local context to diagnose the controlling narrator independently."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "unclear",
+      "note": "Fragmentary verse leaves its speaker and narrative status unresolved."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "non_base",
+      "note": "Conversational exchange between characters."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/work/the-choice/",
+      "title": "Nicholas Sparks \u2014 The Choice",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "On his official site, Sparks explicitly contrasts The Choice's complete third-person narration with The Notebook being written in both first and third person."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/424/the-notebook",
+      "title": "Excerpt from The Notebook by Nicholas Sparks",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Publisher-authorized Chapter One excerpt sustains Noah's participating I narration as he prepares to read the notebook."
+    },
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-1.1996.10-the-notebook.pdf",
+      "title": "The Notebook \u2014 Official PDF Excerpt",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author-hosted extended excerpt from the 1946 narrative sustains external he narration and access to Noah's memories and thoughts."
+    },
+    {
+      "url": "https://catalogimages.wiley.com/images/db/pdf/9780470460092.excerpt.pdf",
+      "title": "CliffsNotes on Nicholas Sparks' The Notebook",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Wiley's structural analysis states that Noah narrates the opening and closing chapters, while the middle chapters use limited third-person omniscient narration."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/the-notebook",
+      "title": "The Notebook Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Its point-of-view entry independently describes alternation between Noah's first-person nursing-home account and limited third-person retrospectives focused on Noah and Allie."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Notebook\" \"Nicholas Sparks\" with excerpt, first chapter, point of view, narrator, frame narrative, first person, and third person terms.",
+    "Opened the publisher-authorized BookBrowse Chapter One excerpt and the author-hosted 37-page PDF excerpt; these established first-person opening narration and sustained third-person interior narration respectively.",
+    "Searched Nicholas Sparks's official site for structural comments and found his explicit whole-book statement that The Notebook uses both first and third person.",
+    "Opened Wiley/CliffsNotes and LitCharts structural analyses to verify that the shift is sectional: first-person opening and closing frame chapters surround third-person middle chapters.",
+    "Checked Google Books and general author-page synopsis results, but their preview or synopsis material did not independently establish the complete person structure."
+  ],
+  "person_note": "The novel has sustained base narration in two grammatical persons. Noah narrates the present-day nursing-home frame in first person in the opening and closing portions, while the long 1946 notebook/reunion story is narrated in limited or omniscient third person. The diagnostic quotes contain both frame-narrator I passages and sustained external he/she passages, matching the authorized excerpts and explicit structural sources. Dialogue, letters, maxims, and poetry are local material and do not create additional base strands. The remaining uncertainty is limited to the attribution of a few isolated quote fragments, not the whole-book structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_029",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:32:01.015057+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fe9283886f1255e1c15431c41cff016d7b79fa5bfb78033e7614d2f6c60b6501"
+  }
+}

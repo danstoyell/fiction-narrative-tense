@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:KLARA AND THE SUN|Kazuo Ishiguro",
+  "quotes": [
+    {
+      "quote_id": "q06162",
+      "person_signal": "unmarked",
+      "note": "Base-narrative reflection, but it contains no narrator self-reference."
+    },
+    {
+      "quote_id": "q06163",
+      "person_signal": "first",
+      "note": "Klara's base narration identifies her participating perspective with \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q06164",
+      "person_signal": "unmarked",
+      "note": "The speech is non-diagnostic; the external attribution \u201che said\u201d does not identify narrator person."
+    },
+    {
+      "quote_id": "q06165",
+      "person_signal": "unmarked",
+      "note": "The speech is non-diagnostic, and its external attribution does not establish narrator person."
+    },
+    {
+      "quote_id": "q06166",
+      "person_signal": "unmarked",
+      "note": "The dialogue pronouns are local; the attribution \u201cshe said\u201d is possible base narration but unmarked for person."
+    },
+    {
+      "quote_id": "q06167",
+      "person_signal": "non_base",
+      "note": "A general aphoristic observation without diagnostic story narration."
+    },
+    {
+      "quote_id": "q06168",
+      "person_signal": "unmarked",
+      "note": "A bare third-person event description is compatible with first-person narration by Klara."
+    },
+    {
+      "quote_id": "q06169",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q06170",
+      "person_signal": "first",
+      "note": "Klara narrates her developing understanding and lack of control using \u201cme,\u201d \u201cmy,\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q06171",
+      "person_signal": "unmarked",
+      "note": "A narratorial generalization about people that does not expose narrator person."
+    },
+    {
+      "quote_id": "q06172",
+      "person_signal": "non_base",
+      "note": "A character's first-person speech about her daughter, not base narration."
+    },
+    {
+      "quote_id": "q06173",
+      "person_signal": "unclear",
+      "note": "The clipped, fragmentary wording and unclear boundaries prevent reliable attribution."
+    },
+    {
+      "quote_id": "q06174",
+      "person_signal": "first",
+      "note": "Although primarily dialogue, the external speech beat \u201cI said\u201d diagnostically exposes Klara as narrator."
+    },
+    {
+      "quote_id": "q06175",
+      "person_signal": "first",
+      "note": "The base-narrative beat \u201cI considered this, then said\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q06176",
+      "person_signal": "non_base",
+      "note": "Rick's first-person speech is local dialogue, not the controlling narration."
+    },
+    {
+      "quote_id": "q06177",
+      "person_signal": "unmarked",
+      "note": "The dialogue is non-diagnostic; external beats such as \u201cShe was quiet\u201d do not establish narrator person."
+    },
+    {
+      "quote_id": "q06178",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech does not identify the narrator."
+    },
+    {
+      "quote_id": "q06179",
+      "person_signal": "non_base",
+      "note": "Sustained character speech and rhetorical address, not base narration."
+    },
+    {
+      "quote_id": "q06180",
+      "person_signal": "non_base",
+      "note": "Character speech without an identifying narratorial beat."
+    },
+    {
+      "quote_id": "q06181",
+      "person_signal": "non_base",
+      "note": "A character's first-person apology, not controlling narration."
+    },
+    {
+      "quote_id": "q06182",
+      "person_signal": "non_base",
+      "note": "Rick's first-person speech about Josie is local dialogue."
+    },
+    {
+      "quote_id": "q06183",
+      "person_signal": "non_base",
+      "note": "A brief spoken maxim, not diagnostic narration."
+    },
+    {
+      "quote_id": "q06184",
+      "person_signal": "non_base",
+      "note": "Embedded bubble-game text voiced by Josie, not Klara's base narration despite the event bucket."
+    },
+    {
+      "quote_id": "q06185",
+      "person_signal": "first",
+      "note": "Klara recounts her interpretation of another character using repeated narratorial \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q06186",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Klara; \u201cyou\u201d is not second-person narration."
+    },
+    {
+      "quote_id": "q06187",
+      "person_signal": "non_base",
+      "note": "Embedded bubble-game text voiced by Rick, not Klara's controlling narration despite the event bucket."
+    },
+    {
+      "quote_id": "q06188",
+      "person_signal": "non_base",
+      "note": "A character's general statement within dialogue."
+    },
+    {
+      "quote_id": "q06189",
+      "person_signal": "non_base",
+      "note": "Embedded bubble-game text voiced by Rick, not Klara's base narration despite the event bucket."
+    },
+    {
+      "quote_id": "q06190",
+      "person_signal": "first",
+      "note": "Klara's retrospective base narration uses \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q06191",
+      "person_signal": "first",
+      "note": "The participating narrator includes herself among the AFs with \u201cwe,\u201d \u201cus,\u201d and \u201cour.\u201d"
+    },
+    {
+      "quote_id": "q06192",
+      "person_signal": "non_base",
+      "note": "Second-person language occurs only in character speech."
+    },
+    {
+      "quote_id": "q06193",
+      "person_signal": "non_base",
+      "note": "A character addresses another as \u201cyou\u201d; this is not base narration."
+    },
+    {
+      "quote_id": "q06194",
+      "person_signal": "non_base",
+      "note": "A character's first-person recollection within dialogue."
+    },
+    {
+      "quote_id": "q06195",
+      "person_signal": "non_base",
+      "note": "Character speech containing local first-person references."
+    },
+    {
+      "quote_id": "q06196",
+      "person_signal": "unmarked",
+      "note": "The message is relayed in dialogue; the attribution \u201cRick went on\u201d is base text but does not identify narrator person."
+    },
+    {
+      "quote_id": "q06197",
+      "person_signal": "first",
+      "note": "The base narrator participates in the AF group identified by \u201cus\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q06198",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Klara."
+    },
+    {
+      "quote_id": "q06199",
+      "person_signal": "non_base",
+      "note": "A spoken fragment rather than controlling narration."
+    },
+    {
+      "quote_id": "q06200",
+      "person_signal": "first",
+      "note": "Amid extensive dialogue, the external beat \u201cI said\u201d identifies Klara as the participating narrator."
+    },
+    {
+      "quote_id": "q06201",
+      "person_signal": "unmarked",
+      "note": "Base scene narration without a narrator self-reference; third-person subjects alone are non-diagnostic."
+    },
+    {
+      "quote_id": "q06202",
+      "person_signal": "non_base",
+      "note": "Klara's first-person words occur inside direct speech, so they do not independently establish base person."
+    },
+    {
+      "quote_id": "q06203",
+      "person_signal": "non_base",
+      "note": "A character's first-person speech."
+    },
+    {
+      "quote_id": "q06204",
+      "person_signal": "unmarked",
+      "note": "Descriptive base narration with no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q06205",
+      "person_signal": "first",
+      "note": "Klara narrates her wondering and understanding through \u201cme,\u201d \u201cmy,\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q06206",
+      "person_signal": "non_base",
+      "note": "A character's spoken reflection, not base narration."
+    },
+    {
+      "quote_id": "q06207",
+      "person_signal": "first",
+      "note": "The external narration identifies Klara's thoughts with \u201cI thought\u201d and \u201cI wondered.\u201d"
+    },
+    {
+      "quote_id": "q06208",
+      "person_signal": "unmarked",
+      "note": "A bare third-person action does not distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q06209",
+      "person_signal": "first",
+      "note": "Klara reports her own sudden feeling using narratorial \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q06210",
+      "person_signal": "first",
+      "note": "Sustained scene narration is anchored in Klara's perception through \u201cmy mind,\u201d \u201cmy view,\u201d and \u201cI began.\u201d"
+    },
+    {
+      "quote_id": "q06211",
+      "person_signal": "unmarked",
+      "note": "A base-narrative reflection about others without explicit narrator participation."
+    },
+    {
+      "quote_id": "q06212",
+      "person_signal": "first",
+      "note": "Klara narrates what she wondered, realized, and considered using sustained \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q06213",
+      "person_signal": "first",
+      "note": "Klara directly reports her visual perception with \u201cI could see.\u201d"
+    },
+    {
+      "quote_id": "q06214",
+      "person_signal": "unclear",
+      "note": "The clipped fragment omits the subject and cannot independently identify narrator person."
+    },
+    {
+      "quote_id": "q06215",
+      "person_signal": "unmarked",
+      "note": "A third-person explanatory statement that does not expose the narrator's grammatical person."
+    },
+    {
+      "quote_id": "q06216",
+      "person_signal": "first",
+      "note": "Klara's base narration repeatedly uses \u201cI\u201d while imagining her own future experience."
+    },
+    {
+      "quote_id": "q06217",
+      "person_signal": "first",
+      "note": "The narrator participates among the AFs described through \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q06218",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs within character speech, not base narration."
+    },
+    {
+      "quote_id": "q06219",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs entirely within dialogue."
+    },
+    {
+      "quote_id": "q06220",
+      "person_signal": "unmarked",
+      "note": "A generalized description of an AF in third person does not establish the controlling narrator's person."
+    },
+    {
+      "quote_id": "q06221",
+      "person_signal": "first",
+      "note": "Klara's sustained autobiographical narration contrasts herself with Rosa through repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q06222",
+      "person_signal": "non_base",
+      "note": "First-person plural and names occur only within character dialogue."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/4228/klara-and-the-sun",
+      "title": "Excerpt from Klara and the Sun by Kazuo Ishiguro",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained, copyrighted opening excerpt has Klara narrate her experiences in the store through repeated \u201cI\u201d and \u201cwe.\u201d"
+    },
+    {
+      "url": "https://ueaeprints.uea.ac.uk/id/eprint/91566/7/Connors_2023_TextualPractice.pdf",
+      "title": "\u2018Out of interest\u2019: Klara and the Sun and the interests of fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This peer-reviewed structural analysis explicitly identifies Klara's first-person narration and traces it from the shop opening through her concluding narration in the junkyard."
+    },
+    {
+      "url": "https://pure.hud.ac.uk/ws/files/60456227/Falcus_and_Sako_Klara_and_the_Sun_FINAL.pdf",
+      "title": "Posthuman Generationality and Care in Kazuo Ishiguro's Klara and the Sun",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly article repeatedly analyzes Klara's first-person narrative, including her perceptions, development, and the novel's final scene."
+    },
+    {
+      "url": "https://time.com/5943376/kazuo-ishiguro-interview/",
+      "title": "Kazuo Ishiguro on How His New Novel Klara and the Sun Is a Celebration of Humanity",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The author interview identifies Klara as the eponymous narrator, follows her across nearly her full life cycle, and discusses the story as framed by her limited participating perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cKlara and the Sun Kazuo Ishiguro official excerpt first person narrator\u201d and opened the sustained BookBrowse opening excerpt.",
+    "Searched \u201cKlara and the Sun point of view first person narrated by Klara review\u201d and opened explicit reviews from the Evening Standard and Cherwell; both corroborated first-person narration, though stronger sources were retained as evidence.",
+    "Searched \u201cKlara and the Sun narrative perspective scholarly first person\u201d and opened scholarly full texts from Textual Practice/UEA and the University of Huddersfield.",
+    "Searched for publisher material and opened the Penguin Random House book page; it identifies Klara as the narrator and offers a Look Inside control, but the crawler did not expose the sample prose, so the page was not used as passage evidence.",
+    "Searched for epistolary, frame, multiple-narrator, and alternating-POV indications; no credible source described sustained narration in another person."
+  ],
+  "person_note": "Klara, an Artificial Friend who participates throughout the story, is the controlling first-person narrator. Numerous event quotes independently expose her narratorial \u201cI\u201d and \u201cwe,\u201d while several apparent first-person event quotes are actually Josie and Rick's embedded bubble-game texts and therefore do not constitute alternate narration. Dialogue pronouns were excluded unless an external beat such as \u201cI said\u201d exposed Klara's base voice. The authorized opening excerpt confirms the local first-person form, and scholarly whole-book analyses explicitly trace the same Klara narration through the final junkyard scene. No credible evidence indicates sustained sections in another person; the main limitation is that the authorized prose excerpt covers only the opening, but the interior quotes and whole-book scholarship remove material structural uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_074",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:20:51.294255+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7784e9b29ddf34e254d764ad5fd3c0b3078f6640218c3e1bd2725d78fb036b51"
+  }
+}

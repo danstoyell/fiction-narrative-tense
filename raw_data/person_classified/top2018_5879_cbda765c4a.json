@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:5879",
+  "quotes": [
+    {
+      "quote_id": "q02841",
+      "person_signal": "non_base",
+      "note": "Gnomic use of inclusive \u201cwe\u201d; it does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q02842",
+      "person_signal": "non_base",
+      "note": "Character dialogue with brief speech tags; its pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q02843",
+      "person_signal": "non_base",
+      "note": "General aphorism without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q02844",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cwe,\u201d not a participating narrator."
+    },
+    {
+      "quote_id": "q02845",
+      "person_signal": "non_base",
+      "note": "General maxim without narrative-person evidence."
+    },
+    {
+      "quote_id": "q02846",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q02847",
+      "person_signal": "unmarked",
+      "note": "Possible narration about an unnamed \u201cshe,\u201d but too brief to establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02848",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained narration of a protagonist as \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q02849",
+      "person_signal": "non_base",
+      "note": "Gnomic address using generic \u201cyour,\u201d not second-person story narration."
+    },
+    {
+      "quote_id": "q02850",
+      "person_signal": "non_base",
+      "note": "Aphoristic generic \u201cyou,\u201d not base-narrator evidence."
+    },
+    {
+      "quote_id": "q02851",
+      "person_signal": "non_base",
+      "note": "Extended character speech; the external tags are too slight to establish person independently."
+    },
+    {
+      "quote_id": "q02852",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cour/we,\u201d not participating narration."
+    },
+    {
+      "quote_id": "q02853",
+      "person_signal": "non_base",
+      "note": "Rhetorical generic \u201cyou\u201d in gnomic material."
+    },
+    {
+      "quote_id": "q02854",
+      "person_signal": "non_base",
+      "note": "General reflection using inclusive \u201cwe,\u201d not a narrator-character disclosure."
+    },
+    {
+      "quote_id": "q02855",
+      "person_signal": "non_base",
+      "note": "Eddie\u2019s first-person speech is character dialogue, not base narration."
+    },
+    {
+      "quote_id": "q02856",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside character speech."
+    },
+    {
+      "quote_id": "q02857",
+      "person_signal": "third",
+      "note": "The narrator reports what \u201cshe\u201d did not know at the time, exposing an external retrospective position."
+    },
+    {
+      "quote_id": "q02858",
+      "person_signal": "non_base",
+      "note": "Character speech and general explanation, not base narration."
+    },
+    {
+      "quote_id": "q02859",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cwe\u201d does not identify narrator participation."
+    },
+    {
+      "quote_id": "q02860",
+      "person_signal": "non_base",
+      "note": "General maxim using inclusive \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q02861",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02862",
+      "person_signal": "non_base",
+      "note": "General aphorism without person evidence."
+    },
+    {
+      "quote_id": "q02863",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d in an aphorism, not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q02864",
+      "person_signal": "non_base",
+      "note": "General aphorism without narrative-person evidence."
+    },
+    {
+      "quote_id": "q02865",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not base second-person narration."
+    },
+    {
+      "quote_id": "q02866",
+      "person_signal": "unmarked",
+      "note": "Brief narration about \u201cshe\u201d is compatible with either an external or participating narrator."
+    },
+    {
+      "quote_id": "q02867",
+      "person_signal": "third",
+      "note": "External summary surveys the lives of multiple people affected by the tragedy."
+    },
+    {
+      "quote_id": "q02868",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d in gnomic material."
+    },
+    {
+      "quote_id": "q02869",
+      "person_signal": "third",
+      "note": "Scene narration focalizes an unnamed woman externally and frames dialogue with third-person speech beats."
+    },
+    {
+      "quote_id": "q02870",
+      "person_signal": "non_base",
+      "note": "General maxim without narrative-person evidence."
+    },
+    {
+      "quote_id": "q02871",
+      "person_signal": "non_base",
+      "note": "World-rule exposition uses generic \u201cyou\u201d; it does not sustain second-person protagonist narration."
+    },
+    {
+      "quote_id": "q02872",
+      "person_signal": "non_base",
+      "note": "General observation about children and parents."
+    },
+    {
+      "quote_id": "q02873",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cour,\u201d not participating narration."
+    },
+    {
+      "quote_id": "q02874",
+      "person_signal": "non_base",
+      "note": "General reflection using inclusive \u201cwe,\u201d not a narrator-character disclosure."
+    },
+    {
+      "quote_id": "q02875",
+      "person_signal": "non_base",
+      "note": "Lorraine\u2019s first- and second-person language occurs in dialogue."
+    },
+    {
+      "quote_id": "q02876",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally tracks Eddie and Annie, their actions, bodies, and emotions."
+    },
+    {
+      "quote_id": "q02877",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cwe,\u201d not participating base narration."
+    },
+    {
+      "quote_id": "q02878",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks a subject and enough surrounding syntax to resolve its narrative function."
+    },
+    {
+      "quote_id": "q02879",
+      "person_signal": "third",
+      "note": "After a speech fragment, an omniscient narrator explains unseen causal alternatives involving Tolbert, Paulo, and Annie."
+    },
+    {
+      "quote_id": "q02880",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d appears in character dialogue."
+    },
+    {
+      "quote_id": "q02881",
+      "person_signal": "third",
+      "note": "Sustained external scene narration describes Cleo\u2019s transformation and Annie\u2019s actions."
+    },
+    {
+      "quote_id": "q02882",
+      "person_signal": "non_base",
+      "note": "First-person autobiographical character speech, not base narration."
+    },
+    {
+      "quote_id": "q02883",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyour/you\u201d in a general observation."
+    },
+    {
+      "quote_id": "q02884",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cwe/us,\u201d not participating narration."
+    },
+    {
+      "quote_id": "q02885",
+      "person_signal": "non_base",
+      "note": "General reflection about people, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q02886",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cwe/our,\u201d not narrator participation."
+    },
+    {
+      "quote_id": "q02887",
+      "person_signal": "non_base",
+      "note": "World-rule exposition uses generic \u201cyour\u201d; it is not second-person protagonist narration."
+    },
+    {
+      "quote_id": "q02888",
+      "person_signal": "non_base",
+      "note": "Pronouns occur in dialogue between Cleo and Annie."
+    },
+    {
+      "quote_id": "q02889",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q02890",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in character dialogue."
+    },
+    {
+      "quote_id": "q02891",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive \u201cwe,\u201d not a participating narrator."
+    },
+    {
+      "quote_id": "q02892",
+      "person_signal": "non_base",
+      "note": "General maxim without narrative-person evidence."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.mitchalbom.com/books/next-person-excerpt/",
+      "title": "Excerpt from The Next Person You Meet in Heaven",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author\u2019s sustained authorized excerpt externally narrates Annie, Paulo, Eddie, and Tolbert, including their private thoughts and events outside Annie\u2019s awareness."
+    },
+    {
+      "url": "https://www.supersummary.com/the-next-person-you-meet-in-heaven/summary/",
+      "title": "The Next Person You Meet in Heaven Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies a third-person narrator and describes the narrative\u2019s movement between Annie\u2019s present afterlife and past memories."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-next-person-you-meet-in-heaven/styles.html",
+      "title": "Mitch Albom Writing Styles in The Next Person You Meet in Heaven",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis identifies the primary voice as third-person omniscient across both heaven and Earth."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/audiobook-reviews/mitch-albom/the-next-person-you-meet-in-heaven/",
+      "title": "The Next Person You Meet in Heaven",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Kirkus explicitly describes the complete story as told in third person, with Annie as protagonist and Albom\u2019s audiobook performance voicing the omniscient narrator."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Next Person You Meet in Heaven\" excerpt Mitch Albom; opened the sustained excerpt on the author\u2019s official site.",
+    "Searched: \"The Next Person You Meet in Heaven\" \"third person\"; opened explicit whole-book POV descriptions from BookRags and Kirkus.",
+    "Searched: \"The Next Person You Meet in Heaven\" point of view narrator; opened SuperSummary\u2019s overview and whole-book structural summary.",
+    "Searched: site:mitchalbom.com \"The Next Person You Meet in Heaven\" excerpt; confirmed the author-hosted excerpt and audiobook link.",
+    "Search results also included synopsis-only, question-and-answer, flashcard, and general interview pages; these were not used as person evidence."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator. Multiple interior Goodreads passages externally narrate Annie and other characters, and q02879 displays omniscient knowledge of causal alternatives unknown to them. The authorized opening independently sustains the same external narration, while three explicit whole-book sources identify third-person or third-person omniscient narration. First-person and second-person forms in the quote set occur in dialogue or general aphorisms, not autonomous base sections. The only limitation is that the Tier A prose covers the opening rather than every section, but the interior quotes and whole-book descriptions consistently corroborate it with no credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_064",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T21:37:14.221736+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d54994ede84b29289127c85eaa003fe132ba6dfe6f4c96894af5b21745620ead"
+  }
+}

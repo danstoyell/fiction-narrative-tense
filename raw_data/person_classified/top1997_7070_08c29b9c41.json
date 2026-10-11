@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:7070",
+  "quotes": [
+    {
+      "quote_id": "q00163",
+      "person_signal": "first",
+      "note": "The dialogue is locally nondiagnostic, but the outside speech beat \u201cI gratefully said\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q00164",
+      "person_signal": "first",
+      "note": "The outside beat \u201cshe went on as we worked\u201d places the narrator within the scene through narratorial \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q00165",
+      "person_signal": "non_base",
+      "note": "A general maxim with no diagnostic base-narrator voice."
+    },
+    {
+      "quote_id": "q00166",
+      "person_signal": "unmarked",
+      "note": "The speech is non-diagnostic, while the third-person speech beat about \u201cshe\u201d does not by itself establish narrator person."
+    },
+    {
+      "quote_id": "q00167",
+      "person_signal": "first",
+      "note": "Despite imperfect quotation formatting, the outside attribution \u201cI said\u201d diagnostically exposes the participating narrator."
+    },
+    {
+      "quote_id": "q00168",
+      "person_signal": "first",
+      "note": "The event narration \u201cI didn\u2019t want to be present\u201d directly exposes a participating first-person narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/uy/novela-negra-misterio-y-thriller/141925-libro-un-ambiente-extrano-9788490706220/fragmento",
+      "title": "Un ambiente extra\u00f1o \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher\u2019s authorized Spanish translation identifies the original as Unnatural Exposure and presents sustained Chapter 1 narration by Scarpetta using first-person forms."
+    },
+    {
+      "url": "https://eprints.lancs.ac.uk/id/eprint/808/1/Body_Language.pdf",
+      "title": "Body Language: Reading the Corpse in Forensic Crime Fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly analysis explicitly discusses first-person narration and names Unnatural Exposure among the Cornwell novels to which the analysis applies."
+    },
+    {
+      "url": "https://www.theguardian.com/books/1999/feb/06/crime.patriciacornwell",
+      "title": "Kick-ass in pearls",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Guardian contrasts Cornwell\u2019s third-person police procedurals with the Scarpetta novels\u2019 first-person narration and cites Scarpetta\u2019s first-person reflection in Unnatural Exposure."
+    },
+    {
+      "url": "https://www.the-independent.com/life-style/friday-s-book-unnatural-exposure-patricia-cornwell-1234904.html",
+      "title": "Friday's Book: Unnatural Exposure Patricia Cornwell",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The contemporary review attributes an interior first-person crime-scene passage directly to Dr. Kay Scarpetta."
+    },
+    {
+      "url": "https://www.bookrags.com/questions/english-and-literature/Unnatural_Exposure_(novel)/what-is-the-narrator-point-of-view-in-the-novel-unnatural-exposure--302867",
+      "title": "What is the narrator point of view in the novel, Unnatural Exposure?",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An unattributed user answer asserts third-person limited narration, but supplies no passage or analysis and is contradicted by the authorized excerpt, scholarly analysis, contemporary reviews, and input quotations."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cPatricia Cornwell Unnatural Exposure excerpt first chapter narrator first person,\u201d \u201cUnnatural Exposure Patricia Cornwell point of view first person narration,\u201d the author site, and publisher/review domains.",
+    "Searched exact combinations of the title with \u201cfirst-person,\u201d \u201cfirst person,\u201d \u201cnarration,\u201d and Google Books preview; opened the resulting excerpt, academic paper, and contemporary reviews.",
+    "Searched the title with epistolary, multiple narrators, alternating point of view, frame narrative, and third person; found no substantiated evidence of an alternating or framed structure.",
+    "The Hachette product page identified the correct eighth Scarpetta novel but its visible \u201cRead Excerpt\u201d control exposed no prose, and Google Books offered only snippet metadata.",
+    "A BookRags user answer claimed third-person limited narration; opening the page revealed no supporting evidence, so it was retained only as Tier D contrary material and rejected after comparison with primary and scholarly evidence."
+  ],
+  "person_note": "Kay Scarpetta is the controlling participating narrator. Multiple input speech beats and the event passage expose narratorial \u201cI\u201d or \u201cwe\u201d; dialogue and the gnomic quotation were not allowed to vote independently. The authorized opening and scholarly whole-book analysis agree on first person, with contemporary reviews corroborating Scarpetta\u2019s voice. No credible evidence supports sustained third-person, second-person, framed, or alternating sections; the lone contrary BookRags assertion is unsupported and demonstrably inconsistent with the primary prose.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_031",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:41:53.694278+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c2c2c8b5f16eff176acac418a70ec15cde5b32e3d883862a1923841849081e48"
+  }
+}

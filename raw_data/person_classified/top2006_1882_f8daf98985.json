@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:1882",
+  "quotes": [
+    {
+      "quote_id": "q01360",
+      "person_signal": "non_base",
+      "note": "General aphorism; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01361",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical address uses universal rather than story-specific you."
+    },
+    {
+      "quote_id": "q01362",
+      "person_signal": "non_base",
+      "note": "General reflection about stories and mothers; narrator person is not diagnostic."
+    },
+    {
+      "quote_id": "q01363",
+      "person_signal": "non_base",
+      "note": "Universal-you maxim, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01364",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism without diagnostic narration."
+    },
+    {
+      "quote_id": "q01365",
+      "person_signal": "non_base",
+      "note": "The visible I introduces a general belief in gnomic material rather than narrating an event."
+    },
+    {
+      "quote_id": "q01366",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but she and universal you do not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q01367",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q01368",
+      "person_signal": "non_base",
+      "note": "Universal-you aphorism, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01369",
+      "person_signal": "non_base",
+      "note": "Standalone family maxim."
+    },
+    {
+      "quote_id": "q01370",
+      "person_signal": "non_base",
+      "note": "Generic-you observation without story-specific narration."
+    },
+    {
+      "quote_id": "q01371",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person-plural observation, not a narrated event."
+    },
+    {
+      "quote_id": "q01372",
+      "person_signal": "non_base",
+      "note": "Character speech with no external narrating beat."
+    },
+    {
+      "quote_id": "q01373",
+      "person_signal": "non_base",
+      "note": "Gnomic address to the reader; I hope does not narrate the speaker's story participation."
+    },
+    {
+      "quote_id": "q01374",
+      "person_signal": "first",
+      "note": "The base narrator reports his own realization with I."
+    },
+    {
+      "quote_id": "q01375",
+      "person_signal": "non_base",
+      "note": "Universal-you aphorism rather than second-person story narration."
+    },
+    {
+      "quote_id": "q01376",
+      "person_signal": "non_base",
+      "note": "General advice addressed to an unspecified you."
+    },
+    {
+      "quote_id": "q01377",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q01378",
+      "person_signal": "first",
+      "note": "The outer narrator recounts his own meeting and question with I; the man's reply is embedded speech."
+    },
+    {
+      "quote_id": "q01379",
+      "person_signal": "first",
+      "note": "The narrator's I frames a reflection grounded in returning home and personal memories."
+    },
+    {
+      "quote_id": "q01380",
+      "person_signal": "non_base",
+      "note": "Universal-you maxim, despite belonging to a first-person narrative context."
+    },
+    {
+      "quote_id": "q01381",
+      "person_signal": "non_base",
+      "note": "General aphorism without diagnostic base narration."
+    },
+    {
+      "quote_id": "q01382",
+      "person_signal": "non_base",
+      "note": "Universal-you reflection on bereavement, not story-specific second person."
+    },
+    {
+      "quote_id": "q01383",
+      "person_signal": "first",
+      "note": "The narrator recounts his own drinking, lost nights, and memories with I."
+    },
+    {
+      "quote_id": "q01384",
+      "person_signal": "first",
+      "note": "The narrator recounts his own college experience and belief with I."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.mitchalbom.com/books/for-one-more-day-excerpt/",
+      "title": "Excerpt from For One More Day",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The author's authorized Hyperion excerpt contains sustained interior scene narration by Chick as I, including his return home and encounter with his mother."
+    },
+    {
+      "url": "https://www.mitchalbom.com/wp-content/uploads/2015/07/For-One-More-Day-Educators-Guide.pdf",
+      "title": "For One More Day Educator's Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The author-hosted guide explicitly identifies two narrators: Maria in the prologue and epilogue and Charley as the main narrator; it describes Charley as telling the story and his memories."
+    },
+    {
+      "url": "https://www.logobook.ru/af/11136047/4682/0751537500_sample.pdf",
+      "title": "For One More Day sample \u2014 Sphere / Little, Brown Book Group",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher-formatted sample gives sustained first-person narration by the frame writer, says the following narrative is assembled in Chick's voice, and then begins Chick's first-person account."
+    }
+  ],
+  "search_log": [
+    "Searched \"For One More Day\" Mitch Albom excerpt, first chapter, narrator, and first person; opened the authorized excerpt on Mitch Albom's website.",
+    "Searched \"For One More Day\" point of view, prologue, epilogue, frame narrative, and multiple narrators; opened the author-hosted educator's guide identifying Maria and Charley as the two narrators.",
+    "Searched Google Books, Internet Archive, Hachette, Little, Brown, and exact opening phrases for accessible samples; Google Books and Hachette catalog pages were primarily synopsis material and were not used as person evidence.",
+    "Opened the Sphere/Little, Brown publisher-formatted sample covering the first-person frame and the transition into Chick's first-person main narrative.",
+    "No credible source indicated sustained third- or second-person narration or sections narrated in a different grammatical person."
+  ],
+  "person_note": "The controlling narrative is first person. Chick narrates the main story as a participating I, corroborated by four diagnostic event quotes and an authorized interior excerpt. Maria supplies a separate first-person frame in the prologue and epilogue; because both narrators use first person, this is multiple first-person narration rather than ALTERNATING. The dialogue, aphorisms, and generic-you statements were treated as non-base or unmarked rather than evidence of second person. The accessible opening sample does not include the full epilogue, but the author-hosted whole-book guide identifies Maria as its narrator, and no credible contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_043",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-04T05:41:04.508902+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c7b8cded76a1aadf60773312dc08ff4070453973b01819db20296d7c24356f7d"
+  }
+}

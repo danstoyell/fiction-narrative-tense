@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:7269",
+  "quotes": [
+    {
+      "quote_id": "q00334",
+      "person_signal": "non_base",
+      "note": "Gnomic advice; its second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00335",
+      "person_signal": "non_base",
+      "note": "Gnomic instruction rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00336",
+      "person_signal": "unmarked",
+      "note": "Possible narration about \u201cshe,\u201d but no participating or external narrator is established."
+    },
+    {
+      "quote_id": "q00337",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns are local to the speaker."
+    },
+    {
+      "quote_id": "q00338",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q00339",
+      "person_signal": "non_base",
+      "note": "Direct speech and generalized address, not base narration."
+    },
+    {
+      "quote_id": "q00340",
+      "person_signal": "first",
+      "note": "Although dialogue-heavy, the outside attribution \u201cI finally said\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q00341",
+      "person_signal": "first",
+      "note": "Astrid narrates her own imagining and reflections as \u201cI\u201d and \u201cus.\u201d"
+    },
+    {
+      "quote_id": "q00342",
+      "person_signal": "non_base",
+      "note": "Direct advice spoken by a character; the visible pronouns belong to speech."
+    },
+    {
+      "quote_id": "q00343",
+      "person_signal": "first",
+      "note": "The participating narrator describes the pearls and states \u201cI wished my life.\u201d"
+    },
+    {
+      "quote_id": "q00344",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q00345",
+      "person_signal": "first",
+      "note": "Participating narration is explicit in \u201cI hated\u201d and inclusive \u201cWe were.\u201d"
+    },
+    {
+      "quote_id": "q00346",
+      "person_signal": "non_base",
+      "note": "Extended character speech; its \u201cI\u201d and \u201cwe\u201d do not establish the base narrator."
+    },
+    {
+      "quote_id": "q00347",
+      "person_signal": "first",
+      "note": "The narrator participates explicitly through repeated \u201cI\u201d statements."
+    },
+    {
+      "quote_id": "q00348",
+      "person_signal": "first",
+      "note": "Sustained self-narration uses \u201cI\u201d throughout."
+    },
+    {
+      "quote_id": "q00349",
+      "person_signal": "unmarked",
+      "note": "Reflective narration uses generic \u201cyou,\u201d not sustained story-specific second person."
+    },
+    {
+      "quote_id": "q00350",
+      "person_signal": "first",
+      "note": "\u201cTo know I was beautiful\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00351",
+      "person_signal": "unmarked",
+      "note": "General reflection using generic \u201cyou\u201d; narrator participation is not exposed."
+    },
+    {
+      "quote_id": "q00352",
+      "person_signal": "unmarked",
+      "note": "General observation about poets without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00353",
+      "person_signal": "non_base",
+      "note": "Quoted speech attributed to \u201cshe\u201d; no base-narrator person is revealed."
+    },
+    {
+      "quote_id": "q00354",
+      "person_signal": "non_base",
+      "note": "Dialogue using generalized \u201cyou,\u201d not controlling second-person narration."
+    },
+    {
+      "quote_id": "q00355",
+      "person_signal": "first",
+      "note": "The narrator is a participant affected by \u201cher\u201d attention: \u201cto me, I felt.\u201d"
+    },
+    {
+      "quote_id": "q00356",
+      "person_signal": "first",
+      "note": "Participating narrator explicitly says \u201cI knew.\u201d"
+    },
+    {
+      "quote_id": "q00357",
+      "person_signal": "first",
+      "note": "Participating narrator recounts walking and realizing as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00358",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative with generic \u201cyou,\u201d not story-specific second person."
+    },
+    {
+      "quote_id": "q00359",
+      "person_signal": "first",
+      "note": "The narrator reports acquired knowledge and asks \u201cwho was I?\u201d"
+    },
+    {
+      "quote_id": "q00360",
+      "person_signal": "first",
+      "note": "The narrator\u2019s hypothetical self-reference, \u201cIf I were,\u201d identifies first-person narration."
+    },
+    {
+      "quote_id": "q00361",
+      "person_signal": "unmarked",
+      "note": "Generic reflective \u201cyou\u201d does not cast a story protagonist in second person."
+    },
+    {
+      "quote_id": "q00362",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d in a reflection on panic is not diagnostic second-person narration."
+    },
+    {
+      "quote_id": "q00363",
+      "person_signal": "non_base",
+      "note": "Character advice addressed to another character, not base narration."
+    },
+    {
+      "quote_id": "q00364",
+      "person_signal": "first",
+      "note": "The participating narrator states what \u201cI ever really wanted.\u201d"
+    },
+    {
+      "quote_id": "q00365",
+      "person_signal": "first",
+      "note": "The narrator locates herself in the story through \u201cwhere I was\u201d and \u201cmy compass.\u201d"
+    },
+    {
+      "quote_id": "q00366",
+      "person_signal": "first",
+      "note": "Explicit participating narration: \u201cI couldn't imagine\u201d and \u201cI wouldn't dare.\u201d"
+    },
+    {
+      "quote_id": "q00367",
+      "person_signal": "first",
+      "note": "The narrator characterizes her former self through repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00368",
+      "person_signal": "first",
+      "note": "The narrator recounts watching another character as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00369",
+      "person_signal": "first",
+      "note": "The narrator performs the narrated action: \u201cI closed my eyes.\u201d"
+    },
+    {
+      "quote_id": "q00370",
+      "person_signal": "first",
+      "note": "Participating plural narration is explicit in \u201cWhat we needed\u201d and \u201cus.\u201d"
+    },
+    {
+      "quote_id": "q00371",
+      "person_signal": "first",
+      "note": "Participating narrator explicitly reports \u201cI thought.\u201d"
+    },
+    {
+      "quote_id": "q00372",
+      "person_signal": "non_base",
+      "note": "Direct address to Mother inside dialogue; its pronouns are local speech."
+    },
+    {
+      "quote_id": "q00373",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the reporting clause \u201cClaire told me\u201d exposes the narrator as a participant."
+    },
+    {
+      "quote_id": "q00374",
+      "person_signal": "first",
+      "note": "The scene begins with the narrator\u2019s action, \u201cI nodded\u201d; later \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q00375",
+      "person_signal": "first",
+      "note": "The narrator participates as the perceiver: \u201cI could see it.\u201d"
+    },
+    {
+      "quote_id": "q00376",
+      "person_signal": "first",
+      "note": "The narrator\u2019s self-question uses \u201cI\u201d and \u201cme\u201d outside marked speech."
+    },
+    {
+      "quote_id": "q00377",
+      "person_signal": "first",
+      "note": "The participating narrator recounts taking and opening the volume as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00378",
+      "person_signal": "non_base",
+      "note": "A question in dialogue; its \u201cyou\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00379",
+      "person_signal": "first",
+      "note": "Participating retrospective narration uses \u201cI wish\u201d and \u201cI understood.\u201d"
+    },
+    {
+      "quote_id": "q00380",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d in a reflection on loneliness is not story-specific second person."
+    },
+    {
+      "quote_id": "q00381",
+      "person_signal": "first",
+      "note": "The dialogue attribution \u201cI said\u201d is base narration outside the spoken words."
+    },
+    {
+      "quote_id": "q00382",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic comparison without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00383",
+      "person_signal": "unmarked",
+      "note": "The \u201cyou\u201d and national \u201cwe\u201d are generalized reflections, not diagnostic narrator references."
+    },
+    {
+      "quote_id": "q00384",
+      "person_signal": "first",
+      "note": "The narrator reports her own thought and perception as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00385",
+      "person_signal": "unmarked",
+      "note": "Brief narration about \u201cshe\u201d alone cannot distinguish first- from third-person context."
+    },
+    {
+      "quote_id": "q00386",
+      "person_signal": "non_base",
+      "note": "Dialogue with local \u201cI\u201d and generalized \u201cyou,\u201d not base narration."
+    },
+    {
+      "quote_id": "q00387",
+      "person_signal": "first",
+      "note": "Sustained participating narration uses \u201cI\u201d for thought, knowledge, and action."
+    },
+    {
+      "quote_id": "q00388",
+      "person_signal": "first",
+      "note": "The narrator reports what \u201cI wanted\u201d to tell another character."
+    },
+    {
+      "quote_id": "q00389",
+      "person_signal": "non_base",
+      "note": "The visible \u201cme\u201d and \u201cI\u201d belong to an imagined message in another character\u2019s face, not the base narrator."
+    },
+    {
+      "quote_id": "q00390",
+      "person_signal": "first",
+      "note": "The participating narrator\u2019s sustained reflection repeatedly uses \u201cI\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q00391",
+      "person_signal": "first",
+      "note": "The narrator describes her own feeling and image through \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00392",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism; no controlling narrator is exposed."
+    },
+    {
+      "quote_id": "q00393",
+      "person_signal": "first",
+      "note": "The narrator recounts walking through the stacks as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00394",
+      "person_signal": "non_base",
+      "note": "Ingrid\u2019s direct speech to Astrid; its first and second person are local."
+    },
+    {
+      "quote_id": "q00395",
+      "person_signal": "first",
+      "note": "The reporting phrase \u201cshe taught me\u201d places the narrator inside the story."
+    },
+    {
+      "quote_id": "q00396",
+      "person_signal": "first",
+      "note": "The narrator describes her own feeling through repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00397",
+      "person_signal": "unmarked",
+      "note": "The comparison\u2019s \u201cyour\u201d and \u201cyou\u201d are generic; the narrator is not identified."
+    },
+    {
+      "quote_id": "q00398",
+      "person_signal": "first",
+      "note": "The base narrator explicitly reports \u201cI thought.\u201d"
+    },
+    {
+      "quote_id": "q00399",
+      "person_signal": "first",
+      "note": "Self-question and references to \u201cmy\u201d life expose participating narration."
+    },
+    {
+      "quote_id": "q00400",
+      "person_signal": "non_base",
+      "note": "Collective \u201cwe\u201d occurs within dialogue and belongs to the speaker."
+    },
+    {
+      "quote_id": "q00401",
+      "person_signal": "non_base",
+      "note": "Character speech; its \u201cI\u201d and generic \u201cyou\u201d are not base-person evidence."
+    },
+    {
+      "quote_id": "q00402",
+      "person_signal": "first",
+      "note": "Sustained reflection identifies the participating narrator through \u201cI,\u201d \u201cme,\u201d and \u201cmy life.\u201d"
+    },
+    {
+      "quote_id": "q00403",
+      "person_signal": "first",
+      "note": "The narrator describes her own state using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00404",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00405",
+      "person_signal": "first",
+      "note": "The narrator participates in the birthday scene and refers to \u201cmy wish\u201d and \u201cmy life.\u201d"
+    },
+    {
+      "quote_id": "q00406",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed to \u201cyou\u201d; it does not establish second-person base narration."
+    },
+    {
+      "quote_id": "q00407",
+      "person_signal": "first",
+      "note": "The general opening yields to explicit self-narration: \u201cI couldn\u2019t help\u201d and \u201cI\u2019d take it.\u201d"
+    },
+    {
+      "quote_id": "q00408",
+      "person_signal": "first",
+      "note": "The narrator repeatedly recounts her own physical actions and perceptions as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00409",
+      "person_signal": "first",
+      "note": "The scene includes the narrator\u2019s action, \u201cI combed my hair.\u201d"
+    },
+    {
+      "quote_id": "q00410",
+      "person_signal": "first",
+      "note": "The authorized opening\u2019s \u201cWe,\u201d \u201cmy mother,\u201d and \u201cI\u201d identify a participating narrator."
+    },
+    {
+      "quote_id": "q00411",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports \u201cI thought\u201d; later \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q00412",
+      "person_signal": "non_base",
+      "note": "Gnomic or poetic fragment; \u201cYou and I\u201d does not establish base narration."
+    },
+    {
+      "quote_id": "q00413",
+      "person_signal": "unmarked",
+      "note": "Brief description of \u201cher\u201d contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00414",
+      "person_signal": "first",
+      "note": "Despite embedded dialogue, the attribution \u201cI asked Paul\u201d reveals the participating narrator."
+    },
+    {
+      "quote_id": "q00415",
+      "person_signal": "first",
+      "note": "Sustained autobiographical reflection repeatedly identifies the narrator as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00416",
+      "person_signal": "unmarked",
+      "note": "Brief statement about \u201che\u201d alone cannot establish the controlling person."
+    },
+    {
+      "quote_id": "q00417",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports her conception of her mother through \u201cI thought.\u201d"
+    },
+    {
+      "quote_id": "q00418",
+      "person_signal": "first",
+      "note": "Outer narration uses \u201cI\u201d for the narrator\u2019s actions and thoughts; the mother\u2019s poem is embedded."
+    },
+    {
+      "quote_id": "q00419",
+      "person_signal": "first",
+      "note": "Extended participating narration uses \u201cI\u201d and \u201cmy\u201d; direct address to Mother remains within Astrid\u2019s voice."
+    },
+    {
+      "quote_id": "q00420",
+      "person_signal": "first",
+      "note": "Participating collective narration is explicit in repeated \u201cus\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q00421",
+      "person_signal": "first",
+      "note": "The outer scene includes \u201cshe told me\u201d and the narrator\u2019s future \u201cI would,\u201d surrounding local dialogue."
+    },
+    {
+      "quote_id": "q00422",
+      "person_signal": "first",
+      "note": "Sustained self-reflection repeatedly uses \u201cI,\u201d \u201cme,\u201d and inclusive \u201cus.\u201d"
+    },
+    {
+      "quote_id": "q00423",
+      "person_signal": "first",
+      "note": "The narrator participates directly in the kiss and describes her response as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00424",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic assertion without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00425",
+      "person_signal": "first",
+      "note": "The narrator describes her own experience of God through \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00426",
+      "person_signal": "first",
+      "note": "The narrator recounts her perceptions and reactions through repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00427",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with generic \u201cyou,\u201d not second-person narration."
+    },
+    {
+      "quote_id": "q00428",
+      "person_signal": "first",
+      "note": "The narrator is the recipient of her mother\u2019s books and states \u201cI existed.\u201d"
+    },
+    {
+      "quote_id": "q00429",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; its pronouns do not identify the base narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/460/White-Oleander",
+      "title": "Excerpt from White Oleander by Janet Fitch",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained Chapter 1 excerpt, reprinted with Little, Brown\u2019s permission, has Astrid narrating her actions, perceptions, age, and relationship to her mother as \u201cI\u201d and \u201cwe.\u201d"
+    },
+    {
+      "url": "https://udspace.udel.edu/server/api/core/bitstreams/f4d8c95c-6683-46d6-ac9e-05dddb0c09e9/content",
+      "title": "Back Roads, a Novel in Progress: A Creative Thesis",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This University of Delaware master\u2019s thesis discusses Astrid and White Oleander as influential narrative models; its critical preface says the protagonist tells her story, and its annotated bibliography explicitly identifies the novel as a first-person narrative covering Astrid\u2019s full foster-home journey."
+    },
+    {
+      "url": "https://www.salon.com/1999/05/11/fitch/",
+      "title": "\u201cWhite Oleander\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Salon\u2019s contemporary review identifies Astrid as the narrator of the novel\u2019s episodic drama from childhood through age eighteen, including the foster-home sequence and her relationship with Ingrid."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780316285261",
+      "title": "White Oleander by Janet Fitch",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly\u2019s full-book review identifies Astrid as the narrator and follows her narration across successive foster homes through the concluding choice involving Ingrid\u2019s trial."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cWhite Oleander Janet Fitch official excerpt first chapter,\u201d \u201cWhite Oleander Janet Fitch point of view first person narrator Astrid,\u201d and \u201cWhite Oleander Janet Fitch excerpt Astrid narration\u201d; opened the permission-reprinted BookBrowse and Bookreporter Chapter 1 excerpts.",
+    "Searched \u201cWhite Oleander first-person Astrid novel,\u201d \u201cWhite Oleander third-person narration novel,\u201d \u201cWhite Oleander alternating point of view narrator,\u201d and \u201cWhite Oleander Astrid narrator Janet Fitch review\u201d; found consistent first-person descriptions and no credible evidence of alternating or third-person base sections.",
+    "Opened and checked the University of Delaware thesis, Salon review, Publishers Weekly review, and BookRags point-of-view page before using their claims.",
+    "Checked Janet Fitch\u2019s official White Oleander page and Hachette\u2019s title page; both verified the work and Astrid-centered story but lacked explicit narrative-person evidence, so they were not used as person support."
+  ],
+  "person_note": "The Goodreads material repeatedly exposes Astrid as a participating \u201cI\u201d across many distinct scenes, including foster homes, school, Berlin, and reflections on Ingrid. Dialogue and aphorisms were treated as local or nondiagnostic, while generalized \u201cyou\u201d was not mistaken for second-person narration. The authorized opening independently confirms the same first-person voice, and whole-book scholarly and professional-review evidence identifies Astrid as the narrator throughout her foster-care journey. Ingrid\u2019s speech, advice, poetry, and reported words are embedded material rather than autonomous base sections. No credible evidence of sustained narration in another person was found; the remaining limitation is that the authorized prose source covers only the opening, but the broad quote coverage and whole-book structural sources resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_034",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:38:30.955457+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f204d5b9eb596179b3fa3c89fc2cc836a5c4ec03346f5c5b9112a0b3a3e9af74"
+  }
+}

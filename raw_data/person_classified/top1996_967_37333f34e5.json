@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:967",
+  "quotes": [
+    {
+      "quote_id": "q00042",
+      "person_signal": "unmarked",
+      "note": "The speech is non-diagnostic; the outside beat names Marino in third person but does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "This is character dialogue without an outside narratorial beat."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "unmarked",
+      "note": "Possible base narration describes Danny in third person, but contains no evidence distinguishing a participating from a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "first",
+      "note": "The narratorial clauses \"I wondered\" and \"we would reach\" expose a participating first-person narrator."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "first",
+      "note": "Although most of the quote is speech, the outside tag \"I said\" identifies the participating base narrator."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "first",
+      "note": "The narrator describes her own inherited ability as \"I,\" diagnostic of first-person base narration."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "non_base",
+      "note": "An unattributed gnomic statement does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "first",
+      "note": "The narrator reports her own judgment of Lucy with \"I had decided,\" exposing first-person base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/ec/novela-negra-misterio-y-thriller/17001-ebook-causa-de-muerte-doctora-kay-scarpetta-7-9788490692547/fragmento",
+      "title": "Causa de muerte (Doctora Kay Scarpetta 7) \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Penguin Random House's authorized Spanish extract identifies the original as Cause of Death and presents sustained opening narration by Kay Scarpetta using first-person verbs and possessives."
+    },
+    {
+      "url": "https://doczz.net/doc/713238/-no--more-family--reading-family-and-serial-murder-in-pat...",
+      "title": "(No) More Family: Reading Family and Serial Murder in Patricia Cornwell's Gault-Trilogy",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Maarit Piipponen's University of Tampere dissertation explicitly identifies Scarpetta as the first-person narrator, calls third-person narration exceptional in Cornwell's work, and separately analyzes first-person passages from Cause of Death."
+    },
+    {
+      "url": "https://literariness.org/wp-content/uploads/2019/02/Literariness.org-Hans-Bertens-Theo-D%E2%80%99haen-auth.-Contemporary-American-Crime-Fiction-Palgrave-Macmillan-UK-2001.pdf",
+      "title": "Contemporary American Crime Fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Palgrave scholarly study analyzes Cause of Death across its plot and cites first-person Scarpetta narration from widely separated pages, explicitly attributing the telling to Scarpetta."
+    }
+  ],
+  "search_log": [
+    "Searched \"Cause of Death\" Patricia Cornwell with excerpt, first chapter, point of view, first person, narrator, epistolary, frame, and alternating-narration terms.",
+    "Opened Penguin Random House's English title page; it verified the work and protagonist but its synopsis did not identify narrative person.",
+    "Opened Penguin Random House's authorized Spanish extract and inspected its sustained first-person opening narration.",
+    "Opened the University of Tampere dissertation transcription and its structural discussion of Scarpetta as first-person narrator, including its treatment of Cause of Death.",
+    "Opened the Palgrave scholarly monograph Contemporary American Crime Fiction and inspected its whole-book Cause of Death analysis and page-distributed first-person passages.",
+    "Checked Google Books and Open Library records; previews and catalog material verified the edition, while the accessible pages added less structural evidence than the authorized extract and scholarly sources.",
+    "Targeted searches found no credible evidence of sustained second- or third-person sections in Cause of Death."
+  ],
+  "person_note": "Kay Scarpetta is the participating first-person base narrator. Four Goodreads quotes directly expose her narratorial \"I,\" including an outside speech tag, while the remaining third-person references are dialogue beats or locally unmarked descriptions rather than evidence of a nonparticipating narrator. The authorized opening sustains Scarpetta's first person, and two scholarly structural sources corroborate that position across the novel and series. No credible source indicates alternating-person sections; the only meaningful limitation is that the authorized primary excerpt covers the opening rather than the entire book.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.225907+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dbc84395b239e2a7bd107ad901e0d3e2f88b825d1b058f7bd6478fe6757354ba"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2015:4598",
+  "quotes": [
+    {
+      "quote_id": "q02452",
+      "person_signal": "non_base",
+      "note": "Authorial commentary about writing and reading, not story narration."
+    },
+    {
+      "quote_id": "q02453",
+      "person_signal": "non_base",
+      "note": "First-person authorial commentary, not a constituent story's narrator."
+    },
+    {
+      "quote_id": "q02454",
+      "person_signal": "non_base",
+      "note": "King directly addresses Constant Reader in introductory paratext."
+    },
+    {
+      "quote_id": "q02455",
+      "person_signal": "non_base",
+      "note": "First-person authorial reflection on writing and empathy, outside the stories."
+    },
+    {
+      "quote_id": "q02456",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic joke with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q02457",
+      "person_signal": "non_base",
+      "note": "Clipped direct address from the collection's authorial introduction, not story narration."
+    },
+    {
+      "quote_id": "q02458",
+      "person_signal": "non_base",
+      "note": "First-person authorial aside in paratext."
+    },
+    {
+      "quote_id": "q02459",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about writing, without narrative-person evidence."
+    },
+    {
+      "quote_id": "q02460",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the brief third-person beat does not establish a controlling narrator."
+    },
+    {
+      "quote_id": "q02461",
+      "person_signal": "non_base",
+      "note": "Quoted character exchange with an external speech beat, not diagnostic at book level."
+    },
+    {
+      "quote_id": "q02462",
+      "person_signal": "non_base",
+      "note": "General maxim without a participating or nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02463",
+      "person_signal": "non_base",
+      "note": "Autobiographical authorial anecdote containing quoted dialogue, not fictional base narration."
+    },
+    {
+      "quote_id": "q02464",
+      "person_signal": "non_base",
+      "note": "Gnomic claims about books, not narrative-person evidence."
+    },
+    {
+      "quote_id": "q02465",
+      "person_signal": "non_base",
+      "note": "Generalized aphoristic statement with no identifiable narrator."
+    },
+    {
+      "quote_id": "q02466",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q02467",
+      "person_signal": "unmarked",
+      "note": "A short third-person focalized fragment from an individual story; local context is insufficient to prove its full narrating position."
+    },
+    {
+      "quote_id": "q02468",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor without narrator-participation evidence."
+    },
+    {
+      "quote_id": "q02469",
+      "person_signal": "unmarked",
+      "note": "Possible story narration uses 'they'; the later 'you' is universal rather than sustained second person."
+    },
+    {
+      "quote_id": "q02470",
+      "person_signal": "non_base",
+      "note": "Dialogue-classified material uses generalized 'you'; it does not identify a story's controlling narrator."
+    },
+    {
+      "quote_id": "q02471",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not base narration."
+    },
+    {
+      "quote_id": "q02472",
+      "person_signal": "non_base",
+      "note": "Character speech containing a generalized observation."
+    },
+    {
+      "quote_id": "q02473",
+      "person_signal": "non_base",
+      "note": "Standalone maxim without narrative-person evidence."
+    },
+    {
+      "quote_id": "q02474",
+      "person_signal": "non_base",
+      "note": "Gnomic authorial statement about talent, not story narration."
+    },
+    {
+      "quote_id": "q02475",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not controlling narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/The-Bazaar-of-Bad-Dreams/Stephen-King/9781501111679",
+      "title": "The Bazaar of Bad Dreams | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher identifies a predominantly prose collection of twenty-one stories with separate autobiographical introductions and supplies an authorized excerpt from the non-base introduction. Collection structure does not itself make the eligible prose narratives EXCLUDED."
+    },
+    {
+      "url": "https://stephenking.com/works/collection/bazaar-of-bad-dreams.html",
+      "title": "Stephen King | The Bazaar of Bad Dreams",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author's official catalog classifies the book as a collection containing short stories, novellas, and two poems. This is useful eligibility and contents context, but catalog description is not person evidence and does not warrant exclusion of the prose stories."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-bazaar-of-bad-dreams/styles.html",
+      "title": "Stephen King Writing Styles in The Bazaar of Bad Dreams",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The study guide explicitly says the collection employs both first- and third-person points of view and identifies the prose stories Under the Weather and Blockade Billy as first-person examples."
+    },
+    {
+      "url": "https://stephenking.com/works/short/premium-harmony.html",
+      "title": "Stephen King | Premium Harmony",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The author's official page explicitly states that the constituent story 'Premium Harmony' is told in third person, illustrating the independent narrative persons within the collection."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Bazaar of Bad Dreams\" \"Stephen King\" official excerpt stories table of contents; opened the Simon & Schuster publisher page and its introduction excerpt.",
+    "Searched Stephen King's official site for the collection structure; opened the collection page listing independent stories, novellas, and poems.",
+    "Searched: \"The Bazaar of Bad Dreams\" point of view first person third person stories; opened the BookRags point-of-view analysis explicitly describing both persons.",
+    "Searched individual-story narration and opened StephenKing.com's 'Premium Harmony' page, which explicitly identifies that story as third person.",
+    "Searched review and extract results for broader structural evidence; the LoveReading extract was inaccessible and general review or synopsis grammar was not treated as person evidence.",
+    "Adjudication follow-up searched named first-person stories including Under the Weather, Drunken Fireworks, and Blockade Billy; official pages confirmed their inclusion or audio availability, while BookRags supplied the usable explicit first-person classification."
+  ],
+  "person_note": "This predominantly prose story collection is eligible for book-level classification under the same treatment applied to other collections: autonomous stories are sustained sections, not grounds for an unwritten single-narrative-only or novels-only exclusion. BookRags explicitly identifies the prose stories Under the Weather and Blockade Billy as first-person, while Stephen King's official site explicitly identifies Premium Harmony as third person. The two poems, including The Bone Church, and King's autobiographical introductions are non-base for prose-story person classification; the popularity-selected Goodreads sample is dominated by those introductions, gnomic lines, and character speech and does not independently expose a sustained first-person story passage. The reconciled result is therefore ALTERNATING at med confidence: credible Tier C named-story evidence establishes both first- and third-person prose components, but there is no Tier A/B whole-collection person analysis or independent Goodreads confirmation of both components. Adjudication: EXCLUDED was reversed because independent prose stories do not violate stated eligibility, restoring consistency with the prior classification of Squirrel Seeks Chipmunk.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_055",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T03:31:40.505841+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2e0307b9980850464b59fc6dce7231f1770b9bf9e6bab5512b8c49afd50eee4e"
+  }
+}

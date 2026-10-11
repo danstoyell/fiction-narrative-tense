@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:NEVER FLINCH|Stephen King",
+  "quotes": [
+    {
+      "quote_id": "q09871",
+      "person_signal": "non_base",
+      "note": "General aphorism with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q09872",
+      "person_signal": "non_base",
+      "note": "Character speech; its first-person and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q09873",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Tolliver and Izzy and reports Izzy's expectations in third person."
+    },
+    {
+      "quote_id": "q09874",
+      "person_signal": "non_base",
+      "note": "Isolated first-person statement, likely direct speech or thought; it does not expose a participating base narrator."
+    },
+    {
+      "quote_id": "q09875",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q09876",
+      "person_signal": "third",
+      "note": "External narration describes the man's actions, beliefs, and contradictory thought in third person."
+    },
+    {
+      "quote_id": "q09877",
+      "person_signal": "non_base",
+      "note": "Gnomic place-based aside rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q09878",
+      "person_signal": "third",
+      "note": "Sustained external narration describes the attendees, their behavior, and their need in third person."
+    },
+    {
+      "quote_id": "q09879",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment with no identifiable narrating position."
+    },
+    {
+      "quote_id": "q09880",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-boundary and is dominated by dialogue, so the limited framing cannot securely identify narration."
+    },
+    {
+      "quote_id": "q09881",
+      "person_signal": "non_base",
+      "note": "Character dialogue; third-person references within speech are nondiagnostic."
+    },
+    {
+      "quote_id": "q09882",
+      "person_signal": "third",
+      "note": "The framing narrator externally describes Holly's gesture and evaluates what she says; the quoted I belongs to Holly's speech."
+    },
+    {
+      "quote_id": "q09883",
+      "person_signal": "unclear",
+      "note": "The unframed sentence could be speech, thought, or narration."
+    },
+    {
+      "quote_id": "q09884",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the first-person object pronoun does not identify the narrator."
+    },
+    {
+      "quote_id": "q09885",
+      "person_signal": "non_base",
+      "note": "Gnomic material with a clipped attribution and no secure base-narration context."
+    },
+    {
+      "quote_id": "q09886",
+      "person_signal": "unmarked",
+      "note": "Possible narration assesses an unnamed woman, but one third-person reference alone does not rule out a participating narrator."
+    },
+    {
+      "quote_id": "q09887",
+      "person_signal": "non_base",
+      "note": "Universal reflection rather than story-specific narration."
+    },
+    {
+      "quote_id": "q09888",
+      "person_signal": "non_base",
+      "note": "Proverbial quotation with no base-narrator evidence."
+    },
+    {
+      "quote_id": "q09889",
+      "person_signal": "non_base",
+      "note": "Quoted scripture delivered as dialogue."
+    },
+    {
+      "quote_id": "q09890",
+      "person_signal": "non_base",
+      "note": "Character dialogue without narratorial framing."
+    },
+    {
+      "quote_id": "q09891",
+      "person_signal": "non_base",
+      "note": "Character dialogue expressing a maxim."
+    },
+    {
+      "quote_id": "q09892",
+      "person_signal": "non_base",
+      "note": "Holly's speech and the scripture she reads are embedded dialogue; the brief speech beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q09893",
+      "person_signal": "non_base",
+      "note": "Character dialogue; its first-person pronoun belongs to the speaker."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.barnesandnoble.com/blog/stephen-king-never-flinch-exclusive-excerpt/",
+      "title": "The King of Horror is Back: Read an Excerpt from Never Flinch",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained authorized excerpt narrates Trig externally as he while moving through his actions, memories, knowledge, and direct thoughts; the I passages are explicitly marked as his thoughts."
+    },
+    {
+      "url": "https://lizverity.com/author-advice/writing-advice/pov-omniscient-third-vs-limited-third-with-examples/",
+      "title": "POV: Omniscient Third Vs Limited Third (With Examples)",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "An explicit POV analysis identifies a Never Flinch scene as third-person omniscient and explains how the narrator supplies information about both Reverend Mike and Trig."
+    },
+    {
+      "url": "https://kult-zilla.com/2025/08/21/stephen-king-never-flinch-2025-review/",
+      "title": "Stephen King \u2013 Never Flinch (2025 \u2013 Review)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review describes scenes from multiple character viewpoints across the novel, but does not claim that those focal shifts change grammatical narrative person."
+    },
+    {
+      "url": "https://www.simonandschuster.com/books/Never-Flinch/Stephen-King/9781668089330",
+      "title": "Never Flinch | Book by Stephen King | Official Publisher Page",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher confirms the novel's twinned narratives and converging cast, but its synopsis does not directly establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cStephen King Never Flinch official excerpt publisher\u201d and \u201cNever Flinch Stephen King excerpt chapter\u201d; found and opened the sustained Barnes & Noble exclusive excerpt and the official Simon & Schuster page.",
+    "Searched \u201cNever Flinch Stephen King point of view third person narrator review\u201d and exact variants using \u201cthird person\u201d and \u201cthird-person\u201d; found an explicit third-person-omniscient scene analysis and a reader discussion mentioning third-person narration.",
+    "Searched \u201cNever Flinch alternating point of view Holly Gibney Trig Saraj\u201d and \u201cNever Flinch multiple points of view\u201d; reviews described multiple character focalizers and story threads, but no sustained change from third-person to first- or second-person base narration.",
+    "Checked the Hachette UK Read Excerpt control, but it returned the product page rather than accessible excerpt prose.",
+    "Checked Google Books; the located edition had no preview and supplied only catalog copy.",
+    "Ran targeted searches for ambiguous Goodreads quotations; they did not yield reliable context for the isolated I-statement or \u201cThe bastards don\u2019t get to win.\u201d"
+  ],
+  "person_note": "The controlling narration is third person, shifting focal attention among Holly, Trig, Izzy, and other characters. Several Goodreads event passages independently show external third-person scene narration, while the authorized interior excerpt sustains the same form and explicitly separates Trig's first-person direct thoughts from the narrating voice. The isolated first-person quotation is therefore local speech, thought, or commentary rather than evidence of a participating narrator. Reviews report multiple viewpoints and intertwined plots, but no credible source indicates sustained first- or second-person base sections; the remaining uncertainty is limited to the local attribution of clipped quotations, not the book-level person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_089",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:45:10.482916+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6c79b31fb2bdde4938d4230f284e598eb90fab26cff44fb3e620e85d22a58e12"
+  }
+}

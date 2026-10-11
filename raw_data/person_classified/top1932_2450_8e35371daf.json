@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1932:2450",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "Generic advice within Olivia's embedded diary entry, not the controlling narration."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "A first-person character reflection/direct thought; the novel's documented direct presentation of Olivia's thoughts does not make her the base narrator."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the pronoun and descriptive recollections alone do not establish narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "unmarked",
+      "note": "Rhetorical inclusive 'we' in authorial description does not identify a participating story narrator."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "third",
+      "note": "The narrator externally names Olivia, reports her actions, and introduces her thought before moving into free-indirect discourse."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Olivia's explicitly embedded journal entry is a local first-person document, not a sustained base-narration section."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://stax.strath.ac.uk/downloads/2227mp891?locale=en",
+      "title": "University of Strathclyde thesis, Chapter 3: Performing Femininity in Invitation to the Waltz",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly structural analysis describes the novel as internally focalized on Olivia and largely presented through free-indirect speech, with Olivia's thoughts only occasionally rendered directly; this accounts for local first-person thought within third-person narration."
+    },
+    {
+      "url": "https://www.deficienciavisual.pt/r-Invitation_waltz-Rosamond_Lehmann.htm",
+      "title": "Invitation to the Waltz \u2014 Rosamond Lehmann: excerpts",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Sustained excerpts from chapters 14, 20, and 21 repeatedly narrate Olivia as 'she' while embedding brief first-person thoughts, demonstrating the interior narrative pattern."
+    },
+    {
+      "url": "https://shelflove.wordpress.com/2011/03/05/invitation-to-the-waltz-review/",
+      "title": "Invitation to the Waltz \u2014 Shelf Love",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reviewer explicitly identifies a third-person narrative whose focal attention shifts between Olivia and Kate, with Olivia primary."
+    },
+    {
+      "url": "https://www.littlebrown.co.uk/titles/rosamond-lehmann/invitation-to-the-waltz/9781405521178/",
+      "title": "Invitation to the Waltz by Rosamond Lehmann | Hachette UK",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher's description identifies the diary as a gift Olivia receives for her seventeenth birthday, corroborating that the journal material is embedded rather than the novel's constitutive narrative form."
+    }
+  ],
+  "search_log": [
+    "Searched \"Invitation to the Waltz\" \"Rosamond Lehmann\" with excerpt, first-chapter, point-of-view, narrator, third-person, and free-indirect terms; opened the publisher page, scholarly thesis, review, and sustained interior excerpts.",
+    "Searched exact quote strings, including \"Advice to Young Journal Keepers\" and \"I want to do something absolutely different\"; the thesis identifies the advice as part of Olivia's first diary entry and explains the novel's occasional direct presentation of her thoughts.",
+    "Searched Open Library, Internet Archive, and Google Books for readable editions; Open Library supplied catalog and first-sentence information, but the linked Internet Archive editions were borrow-only and did not provide usable sustained text through the accessible preview.",
+    "Opened Hachette's Read Excerpt control, but the accessible page did not expose the excerpt text; retained the page only as publisher evidence about the diary's embedded status."
+  ],
+  "person_note": "The controlling narration is third person, principally internally focalized through Olivia and at times through Kate. Quote q00005 directly shows the narrator naming Olivia and reporting her actions before entering free-indirect thought, and both the scholarly analysis and sustained interior excerpts confirm that this is the novel's general method. The first-person passages are Olivia's direct thoughts or entries in the diary she receives as a birthday gift; they are local embedded voices, not sustained autonomous narration. No credible evidence indicates a first-person base section or an alternating-person structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_001",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:04:12.325813+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dd074a492d6e07658e7de22b40b71dd947be23990c0009313c608250639f7486"
+  }
+}

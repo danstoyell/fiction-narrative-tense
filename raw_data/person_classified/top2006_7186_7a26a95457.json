@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:7186",
+  "quotes": [
+    {
+      "quote_id": "q01169",
+      "person_signal": "non_base",
+      "note": "General statement about fate; no diagnostic narrative person."
+    },
+    {
+      "quote_id": "q01170",
+      "person_signal": "non_base",
+      "note": "Gnomic you about keeping secrets, not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q01171",
+      "person_signal": "first",
+      "note": "Jacob narrates his own desire in first person."
+    },
+    {
+      "quote_id": "q01172",
+      "person_signal": "non_base",
+      "note": "Generalized address about aging; illustrative first-person speech does not establish narration."
+    },
+    {
+      "quote_id": "q01173",
+      "person_signal": "non_base",
+      "note": "General observation about preserving mental competence."
+    },
+    {
+      "quote_id": "q01174",
+      "person_signal": "non_base",
+      "note": "Slogan-like maxim with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q01175",
+      "person_signal": "non_base",
+      "note": "General rhetorical question; you is generic."
+    },
+    {
+      "quote_id": "q01176",
+      "person_signal": "non_base",
+      "note": "General maxim about memory."
+    },
+    {
+      "quote_id": "q01177",
+      "person_signal": "non_base",
+      "note": "Generalized reflection on aging; contextual narrator is Jacob, but this wording is not person-diagnostic."
+    },
+    {
+      "quote_id": "q01178",
+      "person_signal": "non_base",
+      "note": "Gnomic second person about bodily aging."
+    },
+    {
+      "quote_id": "q01179",
+      "person_signal": "first",
+      "note": "Jacob assesses his own circumstances and responsibilities in narratorial first person."
+    },
+    {
+      "quote_id": "q01180",
+      "person_signal": "non_base",
+      "note": "General question about belonging; you does not designate a narrated protagonist."
+    },
+    {
+      "quote_id": "q01181",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed to another character, without a diagnostic narration beat."
+    },
+    {
+      "quote_id": "q01182",
+      "person_signal": "first",
+      "note": "Elderly Jacob's first-person reflection on bereavement; confirmed as narration in the authorized excerpt."
+    },
+    {
+      "quote_id": "q01183",
+      "person_signal": "non_base",
+      "note": "First-person dialogue without an outside narrative beat."
+    },
+    {
+      "quote_id": "q01184",
+      "person_signal": "non_base",
+      "note": "Quoted saying, not participating base narration."
+    },
+    {
+      "quote_id": "q01185",
+      "person_signal": "non_base",
+      "note": "Speaker's first-person preference occurs in dialogue."
+    },
+    {
+      "quote_id": "q01186",
+      "person_signal": "non_base",
+      "note": "Speech addressed to Jacob; us refers to the speaker's group."
+    },
+    {
+      "quote_id": "q01187",
+      "person_signal": "first",
+      "note": "Jacob narrates holding and listening to Marlena; her reported experiences remain within his narration."
+    },
+    {
+      "quote_id": "q01188",
+      "person_signal": "first",
+      "note": "Sustained first-person actions and perceptions frame the dialogue with the orangutan."
+    },
+    {
+      "quote_id": "q01189",
+      "person_signal": "first",
+      "note": "Jacob narrates his gaze and desire in first person."
+    },
+    {
+      "quote_id": "q01190",
+      "person_signal": "first",
+      "note": "Narrator describes his own movement, perception, and emotional response."
+    },
+    {
+      "quote_id": "q01191",
+      "person_signal": "first",
+      "note": "Elderly Jacob reflects on his own inactivity and resistance to aging."
+    },
+    {
+      "quote_id": "q01192",
+      "person_signal": "non_base",
+      "note": "Dialogue generalizes about aging and memory; its I and you do not identify base narration."
+    },
+    {
+      "quote_id": "q01193",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, the beat describes the speaker staring at me, exposing the participating narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1826/index.cfm/fuseaction/printable/book_number/1826/water-for-elephants",
+      "title": "Water for Elephants: A Novel \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Sustained prologue and nursing-home opening show Jacob narrating his experiences in first person. Copyright notice explicitly identifies permission from Algonquin Books. Includes q01182 in narratorial context."
+    },
+    {
+      "url": "https://www.supersummary.com/water-for-elephants/major-character-analysis/",
+      "title": "Water for Elephants Character Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Explicitly identifies Jacob as protagonist and first-person narrator across both the elderly nursing-home timeline and his circus youth."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-water-for-elephants/style.html",
+      "title": "Sara Gruen Writing Styles in Water for Elephants",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Point of View section explicitly states that Jacob narrates the entire novel in first person, both as a young man and as an elderly man."
+    }
+  ],
+  "search_log": [
+    "Searched: Sara Gruen Water for Elephants excerpt.",
+    "Searched: Water for Elephants narrative first person Jacob old young narrator.",
+    "Attempted to open the author's official excerpt; retrieval failed because robots.txt was unreachable. Did not use the search result as evidence.",
+    "Opened and read the BookBrowse authorized excerpt and the SuperSummary and BookRags structural descriptions."
+  ],
+  "person_note": "Jacob Jankowski controls both the circus story and the elderly nursing-home frame in first person. Diagnostic quotes agree with the authorized opening and two explicit whole-book descriptions. Timeline changes do not constitute changes of narrative person. Dialogue, generic you, and reported accounts of other characters provide no contrary evidence. No material uncertainty remains; direct excerpt coverage is limited to the opening, with broader structure established by the corroborating descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_044",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T00:41:39.021492+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "10e74628108ad661a9c747cab4321f9cc686812bdaaa2cbc3b30ad8d266a9b53"
+  }
+}

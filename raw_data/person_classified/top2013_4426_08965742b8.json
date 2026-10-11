@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:4426",
+  "quotes": [
+    {
+      "quote_id": "q02992",
+      "person_signal": "non_base",
+      "note": "General aphorism; the second-person reference does not identify the narrator."
+    },
+    {
+      "quote_id": "q02993",
+      "person_signal": "unmarked",
+      "note": "This brief external description or reflection does not establish narrator participation by itself; references to other people are compatible with a first-person narrator too."
+    },
+    {
+      "quote_id": "q02994",
+      "person_signal": "non_base",
+      "note": "Generic maxim using universal second person, not story-specific narration."
+    },
+    {
+      "quote_id": "q02995",
+      "person_signal": "unmarked",
+      "note": "A single statement about Hubbard does not independently establish the narrating position."
+    },
+    {
+      "quote_id": "q02996",
+      "person_signal": "non_base",
+      "note": "Gnomic observation rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02997",
+      "person_signal": "unmarked",
+      "note": "Clipped generalization about an unnamed man does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02998",
+      "person_signal": "non_base",
+      "note": "Religious teaching and collective generalization, likely locally voiced, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q02999",
+      "person_signal": "unmarked",
+      "note": "This brief external description or reflection does not establish narrator participation by itself; references to other people are compatible with a first-person narrator too."
+    },
+    {
+      "quote_id": "q03000",
+      "person_signal": "third",
+      "note": "Outside the quoted speech, the narrator names Jake and reports his private assessment in third person."
+    },
+    {
+      "quote_id": "q03001",
+      "person_signal": "non_base",
+      "note": "Character dialogue; first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q03002",
+      "person_signal": "third",
+      "note": "After brief speech, sustained narration externally follows Jake, another character, and Jake's prior experiences."
+    },
+    {
+      "quote_id": "q03003",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Jake does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03004",
+      "person_signal": "non_base",
+      "note": "The passage is dominated by character speech; its pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q03005",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than a diagnostic narrative scene."
+    },
+    {
+      "quote_id": "q03006",
+      "person_signal": "unclear",
+      "note": "The fragment lacks its grammatical beginning and sufficient quotation boundaries."
+    },
+    {
+      "quote_id": "q03007",
+      "person_signal": "unclear",
+      "note": "The clipped passage cannot be securely attributed to narration rather than speech or argument."
+    },
+    {
+      "quote_id": "q03008",
+      "person_signal": "non_base",
+      "note": "General comic maxim with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q03009",
+      "person_signal": "non_base",
+      "note": "The existing dialogue bucket and rhetorical 'no sir' indicate a local voice; generic 'you' is not sustained second person."
+    },
+    {
+      "quote_id": "q03010",
+      "person_signal": "non_base",
+      "note": "Jake's directly quoted speech is followed only by a speech attribution."
+    },
+    {
+      "quote_id": "q03011",
+      "person_signal": "non_base",
+      "note": "Advice voiced by a dead man is local or documentary material, not controlling narration."
+    },
+    {
+      "quote_id": "q03012",
+      "person_signal": "non_base",
+      "note": "Direct character speech; 'our' does not belong to the narrator."
+    },
+    {
+      "quote_id": "q03013",
+      "person_signal": "unmarked",
+      "note": "This brief external description or reflection does not establish narrator participation by itself; references to other people are compatible with a first-person narrator too."
+    },
+    {
+      "quote_id": "q03014",
+      "person_signal": "unmarked",
+      "note": "A clipped physical description involving Seth lacks enough independent context to establish person."
+    },
+    {
+      "quote_id": "q03015",
+      "person_signal": "unmarked",
+      "note": "This brief external description or reflection does not establish narrator participation by itself; references to other people are compatible with a first-person narrator too."
+    },
+    {
+      "quote_id": "q03016",
+      "person_signal": "non_base",
+      "note": "The first-person 'Seth and I' belongs to Ancil's embedded account of the historical lynching, not the base narrator."
+    },
+    {
+      "quote_id": "q03017",
+      "person_signal": "unmarked",
+      "note": "The clipped statement about Lucien is too short to establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q03018",
+      "person_signal": "third",
+      "note": "Sustained narration externally reports Sistrunk's decision, the group's plan, and Jake's anticipated response."
+    },
+    {
+      "quote_id": "q03019",
+      "person_signal": "unmarked",
+      "note": "Incomplete phrase about the court provides too little context for person attribution."
+    },
+    {
+      "quote_id": "q03020",
+      "person_signal": "non_base",
+      "note": "Clipped generic statement using universal 'you,' not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03021",
+      "person_signal": "unmarked",
+      "note": "A single passive plot statement does not independently reveal narrator participation."
+    },
+    {
+      "quote_id": "q03022",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows the group and deputies externally without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/sycamore-row/",
+      "title": "Sycamore Row by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized Chapter 1 excerpt sustains external third-person narration of Seth Hubbard and the discovery of his body."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-sycamore-row/styles.html",
+      "title": "John Grisham Writing Styles in Sycamore Row",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel as third-person omniscient and describes viewpoint movement among Jake, Lettie, Wade, Ian, and other characters."
+    },
+    {
+      "url": "https://www.supersummary.com/sycamore-row/chapters-30-39-summary/",
+      "title": "Sycamore Row Chapters 30-39 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Interior-chapter analysis explicitly describes deep third-person narration and explains how its voice reflects different viewpoint characters' attitudes."
+    },
+    {
+      "url": "https://www.supersummary.com/sycamore-row/chapter-40-authors-note-summary/",
+      "title": "Sycamore Row Chapter 40-Author\u2019s Note Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Analysis of the concluding chapter describes the narrative shifting from the trial to Lucien and Ancil in Alaska, corroborating third-person viewpoint movement late in the novel."
+    }
+  ],
+  "search_log": [
+    "Searched: Sycamore Row John Grisham excerpt first chapter publisher.",
+    "Searched: Sycamore Row John Grisham point of view third person narrator.",
+    "Searched: Sycamore Row novel alternating narrators point of view.",
+    "Searched: site:jgrisham.com Sycamore Row excerpt.",
+    "Searched exact phrases combining \"Sycamore Row\" with \"third-person omniscient\" and \"point of view\".",
+    "Opened and reviewed the authorized excerpt on John Grisham's site, the BookRags point-of-view discussion, and SuperSummary analyses of Chapters 30-39 and Chapter 40.",
+    "Publisher/catalog pages and ordinary plot reviews were discovery-only because their synopsis grammar did not establish narrative person; no credible source indicated sustained first- or second-person base sections."
+  ],
+  "person_note": "The book uses controlling third-person narration with shifting focalization among multiple characters. Goodreads excerpts repeatedly show external narration and access to characters' decisions or thoughts, while the authorized opening and whole-book/interior web descriptions corroborate third person. The first-person wording in q03016 belongs to Ancil's embedded historical account or deposition and therefore does not create an alternating base structure. The main limitation is that the authorized Tier A excerpt covers only the opening, but the numerous interior quotes and explicit structural sources show the same third-person system without credible contradiction. Quote audit: four locally nondiagnostic descriptions/reflections were changed to unmarked; the book's THIRD label rests on stronger passages and web evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_052",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T05:26:04.289517+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "39b00136d2d9318108f102db7574e9d017522fbc19fc12fbd4cc455f1dcaed3f"
+  }
+}

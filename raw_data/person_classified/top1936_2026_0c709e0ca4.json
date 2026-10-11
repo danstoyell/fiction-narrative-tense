@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1936:2026",
+  "quotes": [
+    {
+      "quote_id": "q00175",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no story-specific narrator signal."
+    },
+    {
+      "quote_id": "q00176",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur entirely in character speech."
+    },
+    {
+      "quote_id": "q00177",
+      "person_signal": "non_base",
+      "note": "Character dialogue; \u201cI\u201d does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00178",
+      "person_signal": "non_base",
+      "note": "Scarlett's spoken first-person reflection, not base narration."
+    },
+    {
+      "quote_id": "q00179",
+      "person_signal": "non_base",
+      "note": "Scarlett's first-person speech; the visible pronouns belong to a character."
+    },
+    {
+      "quote_id": "q00180",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the brief she-said/he-answered beats are too slight to diagnose the base narrator."
+    },
+    {
+      "quote_id": "q00181",
+      "person_signal": "unmarked",
+      "note": "Base/free-indirect narration expressing Scarlett's judgment, but the impersonal wording does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00182",
+      "person_signal": "non_base",
+      "note": "Character speech addressing a generalized \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00183",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not the controlling narrative voice."
+    },
+    {
+      "quote_id": "q00184",
+      "person_signal": "non_base",
+      "note": "Character dialogue stated as a maxim; no base-narrator signal."
+    },
+    {
+      "quote_id": "q00185",
+      "person_signal": "non_base",
+      "note": "Direct address to Scarlett, explicitly attributed to Rhett Butler."
+    },
+    {
+      "quote_id": "q00186",
+      "person_signal": "non_base",
+      "note": "Universal gnomic \u201cwe,\u201d not a participating narrator recounting story events."
+    },
+    {
+      "quote_id": "q00187",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Scarlett."
+    },
+    {
+      "quote_id": "q00188",
+      "person_signal": "non_base",
+      "note": "First-person character declaration despite missing quotation marks."
+    },
+    {
+      "quote_id": "q00189",
+      "person_signal": "non_base",
+      "note": "Dialogue/aphorism without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00190",
+      "person_signal": "non_base",
+      "note": "Extended first-person confession by a character, not controlling narration."
+    },
+    {
+      "quote_id": "q00191",
+      "person_signal": "non_base",
+      "note": "First-person hypothetical spoken by a character."
+    },
+    {
+      "quote_id": "q00192",
+      "person_signal": "non_base",
+      "note": "Gnomic social observation; it does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q00193",
+      "person_signal": "non_base",
+      "note": "Character advice addressed directly to Scarlett."
+    },
+    {
+      "quote_id": "q00194",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong wholly to character dialogue."
+    },
+    {
+      "quote_id": "q00195",
+      "person_signal": "unmarked",
+      "note": "Base narration about Scarlett's inner state, but this isolated third-person reference alone does not exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00196",
+      "person_signal": "non_base",
+      "note": "First-person Rhett Butler utterance, not narration; its event bucket appears to be an upstream issue."
+    },
+    {
+      "quote_id": "q00197",
+      "person_signal": "non_base",
+      "note": "First-person proposal and threats occur entirely in character speech."
+    },
+    {
+      "quote_id": "q00198",
+      "person_signal": "non_base",
+      "note": "Scarlett's extended speech; the short third-person speech beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00199",
+      "person_signal": "non_base",
+      "note": "Rhett's mock-formal declaration to Scarlett, not base narration."
+    },
+    {
+      "quote_id": "q00200",
+      "person_signal": "non_base",
+      "note": "Rhett's first-person proposal speech, not the controlling narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.net.au/ebooks02/0200161h.html",
+      "title": "Gone with the Wind \u2014 Project Gutenberg Australia",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened full text shows sustained external she/he narration in the opening, interior chapters, and final chapter. First-person dialogue and quoted thoughts remain locally embedded rather than forming alternate base sections."
+    },
+    {
+      "url": "https://www.penguinlibros.com/us/tematicas/16715-ebook-lo-que-el-viento-se-llevo-9788490690635/fragmento",
+      "title": "Lo que el viento se llev\u00f3 \u2014 Penguin Libros fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Spanish-language opening excerpt sustains external third-person narration of Scarlett and the Tarleton twins."
+    },
+    {
+      "url": "https://www.law.berkeley.edu/archive/files/suntrust.pdf",
+      "title": "Suntrust Bank v. Houghton Mifflin Co., 268 F.3d 1257 (11th Cir. 2001)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The judicial literary comparison explicitly characterizes Mitchell's story as a linear third-person narrative with a disembodied narrator, contrasting it with the parody's first-person diary form."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/gonewith/facts/",
+      "title": "Gone with the Wind: Key Facts | SparkNotes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies an anonymous third-person omniscient narrator who follows Scarlett almost exclusively and sometimes pulls back for historical analysis."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cGone with the Wind Margaret Mitchell excerpt first chapter publisher\u201d; opened the Penguin Libros authorized translated fragment and the Project Gutenberg Australia full text.",
+    "Searched \u201cGone with the Wind narrative point of view third person omniscient scholarly\u201d and targeted site:edu/site:org variants; found the appellate opinion and explicit whole-book reference sources.",
+    "Opened the complete digital-library text at the opening, an interior scene, and the final chapter to check for sustained person changes; all retained third-person base narration.",
+    "Searched the exact line \u201cI've always had a weakness for lost causes once they're really lost\u201d; results attribute it to Rhett Butler/the adaptation, confirming that q00196 is character speech rather than narratorial first person.",
+    "Opened the Simon & Schuster publisher page, but its synopsis grammar was nondiagnostic and was not used as person evidence."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator, predominantly aligned with Scarlett while retaining broader omniscient reach. The full text sustains that base position from beginning through the final chapter, and both the appellate structural comparison and an explicit reference source describe the whole novel as third person. Most sampled quotes are dialogue or aphorisms; q00181 and q00195 are base narration but too clipped to diagnose person independently, while q00196 is a misbucketed Rhett utterance. No evidence indicates sustained first- or second-person base sections; the only meaningful limitation is the dialogue-heavy Goodreads sample.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_002",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:17:37.131310+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "21181daff045e524b27143c347c5de0125c60d40549f490b932585f28334eb5a"
+  }
+}

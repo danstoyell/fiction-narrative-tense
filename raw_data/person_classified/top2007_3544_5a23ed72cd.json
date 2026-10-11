@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:3544",
+  "quotes": [
+    {
+      "quote_id": "q00354",
+      "person_signal": "non_base",
+      "note": "Generalized comparison using generic you; no diagnostic narrator participation in this clipped maxim."
+    },
+    {
+      "quote_id": "q00355",
+      "person_signal": "first",
+      "note": "Narratorial references to my father and my mother outside dialogue identify a participating narrator."
+    },
+    {
+      "quote_id": "q00356",
+      "person_signal": "non_base",
+      "note": "Reader evaluation of the book, not story narration."
+    },
+    {
+      "quote_id": "q00357",
+      "person_signal": "first",
+      "note": "The outside speech attribution I said identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00358",
+      "person_signal": "unmarked",
+      "note": "The action beat describes Diesel without identifying narrator person; first-person pronouns occur only in speech."
+    },
+    {
+      "quote_id": "q00359",
+      "person_signal": "unmarked",
+      "note": "Narratorial description of the bar does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q00360",
+      "person_signal": "non_base",
+      "note": "First-person statements belong to Diesel's dialogue; the attribution does not identify narrator person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://evanovich.com/plum-lovin-excerpt/",
+      "title": "Plum Lovin Excerpt \u2013 Janet Evanovich",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Authorized Chapter One sustains Stephanie Plum's first-person narration across several scenes. She identifies herself and narrates her actions, perceptions, and relationships outside dialogue. This establishes the opening, not independently the whole book."
+    }
+  ],
+  "search_log": [
+    "Searched Janet Evanovich Plum Lovin excerpt chapter and Plum Lovin narrative first person Stephanie narrator; located the author's authorized excerpt and opened it in full.",
+    "Searched \"Plum Lovin\" \"first person\", \"Plum Lovin\" \"narration\", and \"Plum Lovin\" \"chapter\" \"excerpt\" -site:reddit.com; results largely concerned the series generally, audiobook performers, or the same opening.",
+    "Searched \"Plum Lovin\" \"alternating\" narrator, \"Plum Lovin\" \"point of view\", and \"Plum Lovin\" \"chapter twelve\"; found no usable interior excerpt or explicit book-specific structural evidence of alternating narration."
+  ],
+  "person_note": "Stephanie Plum is the participating first-person narrator. The authorized opening corroborates the supplied family-scene narration and first-person speech attribution. Diesel's dialogue and passages describing other characters supply no contrary evidence. The opening's generic-you maxim is not second-person storytelling. Confidence is medium because the useful web evidence is limited to Chapter One; whole-book structural coverage remains unverified.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_045",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T13:26:01.520914+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ba9b16e55052cdd5e2eec4cedccaf9d5712cd0a568f013be0f7cc8f3d180a810"
+  }
+}

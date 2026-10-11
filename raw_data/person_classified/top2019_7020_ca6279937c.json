@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:7020",
+  "quotes": [
+    {
+      "quote_id": "q03970",
+      "person_signal": "non_base",
+      "note": "Grandma's quoted speech and its third-person action beat do not identify the base narrator."
+    },
+    {
+      "quote_id": "q03971",
+      "person_signal": "first",
+      "note": "Despite a clipped opening, the narrating voice deliberates as I and refers to what I would do tomorrow."
+    },
+    {
+      "quote_id": "q03972",
+      "person_signal": "first",
+      "note": "The dialogue is local, but the outside speech beat I said exposes the participating base narrator."
+    },
+    {
+      "quote_id": "q03973",
+      "person_signal": "first",
+      "note": "Sustained narration recounts Stephanie's actions, memories, and judgments as I."
+    },
+    {
+      "quote_id": "q03974",
+      "person_signal": "non_base",
+      "note": "Ranger's attributed speech does not identify the narrator."
+    },
+    {
+      "quote_id": "q03975",
+      "person_signal": "non_base",
+      "note": "Direct address within unattributed dialogue is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03976",
+      "person_signal": "non_base",
+      "note": "This standalone maxim contains no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q03977",
+      "person_signal": "first",
+      "note": "The narrating voice compares her own habits and ability using I."
+    },
+    {
+      "quote_id": "q03978",
+      "person_signal": "non_base",
+      "note": "This gnomic statement does not expose the narrator's participation."
+    },
+    {
+      "quote_id": "q03979",
+      "person_signal": "non_base",
+      "note": "The first-person pronouns belong to Grandma's explicitly attributed speech."
+    },
+    {
+      "quote_id": "q03980",
+      "person_signal": "non_base",
+      "note": "Generic you in a maxim is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03981",
+      "person_signal": "first",
+      "note": "Although the quoted sentence is dialogue, the base-narrative tag I said identifies the participating narrator."
+    },
+    {
+      "quote_id": "q03982",
+      "person_signal": "first",
+      "note": "The scene is framed by the narrator's action as I before the characters' dialogue."
+    },
+    {
+      "quote_id": "q03983",
+      "person_signal": "non_base",
+      "note": "The you and I forms occur within a dialogue exchange rather than base narration."
+    },
+    {
+      "quote_id": "q03984",
+      "person_signal": "non_base",
+      "note": "All visible pronouns belong to an unattributed but clearly conversational exchange."
+    },
+    {
+      "quote_id": "q03985",
+      "person_signal": "first",
+      "note": "The outside action beat says Lula handed me a coffee, exposing a participating first-person narrator."
+    },
+    {
+      "quote_id": "q03986",
+      "person_signal": "first",
+      "note": "The narrator makes a story-specific statement about her own body using My and I."
+    },
+    {
+      "quote_id": "q03987",
+      "person_signal": "non_base",
+      "note": "The passage is attributed character speech; its generic you does not identify base narration."
+    },
+    {
+      "quote_id": "q03988",
+      "person_signal": "non_base",
+      "note": "The quotation is dialogue rather than controlling narration."
+    },
+    {
+      "quote_id": "q03989",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur inside character speech and are not base-person evidence."
+    },
+    {
+      "quote_id": "q03990",
+      "person_signal": "first",
+      "note": "The narrating speaker states her own preference using I'd."
+    },
+    {
+      "quote_id": "q03991",
+      "person_signal": "unmarked",
+      "note": "The sentence may be base narration, but a named third-person subject alone cannot distinguish first from third person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://evanovich.com/twisted-twenty-six-excerpt/",
+      "title": "Twisted Twenty-Six Excerpt \u2013 Janet Evanovich, #1 NYT Bestselling Author",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's authorized Chapter One excerpt sustains Stephanie Plum's participating I narration across description, action, reflection, and dialogue framing."
+    },
+    {
+      "url": "https://www.larsemmerichbooks.com/thriller-novels-comparing-twisted-twenty-six-janet-evanovich-with-lars-emmerichs-the-incident-inferno-rising/",
+      "title": "Thriller Novels: Comparing Twisted Twenty-Six \u2013 Janet Evanovich with Lars Emmerich's \u201cThe Incident \u2013 Inferno Rising\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This explicit book-level discussion describes Twisted Twenty-Six as written in first-person format."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cTwisted Twenty-Six Janet Evanovich excerpt first chapter\u201d and opened the authorized excerpt on Janet Evanovich's site.",
+    "Searched \u201cTwisted Twenty-Six Janet Evanovich first person narrator point of view,\u201d \u201cTwisted Twenty-Six excerpt Stephanie Plum I,\u201d and publisher-domain variants.",
+    "Searched \u201cTwisted Twenty-Six first-person Stephanie Plum\u201d and \u201cTwisted Twenty-Six narrated Stephanie Plum\u201d; opened an explicit whole-book POV description.",
+    "Checked the authorized excerpt for Chapter Two; it contains Chapter One only, so its scope was recorded as opening.",
+    "Search results consisting only of synopsis language, audiobook performer credits, retailer metadata, or inaccessible/unreliable copies were not used as person evidence."
+  ],
+  "person_note": "The controlling narrator is protagonist Stephanie Plum, who narrates as I. Multiple Goodreads event passages independently expose her actions, memories, judgments, and bodily experience in first person, while dialogue-only first-person forms were excluded. The authorized Chapter One excerpt confirms the same sustained voice, and an explicit secondary description characterizes the book as first person. No credible evidence of sustained sections in another narrative person was found; the main scope limitation is that the authorized continuous excerpt covers only the opening, but the interior Goodreads passages corroborate it.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_069",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:43:38.681384+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4e2501f9f48cbac055af2778d4b6299d3c3b7cab2a667fc02269bd3ce7a9015a"
+  }
+}

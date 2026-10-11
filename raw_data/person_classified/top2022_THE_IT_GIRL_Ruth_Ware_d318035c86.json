@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:THE IT GIRL|Ruth Ware",
+  "quotes": [
+    {
+      "quote_id": "q07594",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison about rereading books; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q07595",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q07596",
+      "person_signal": "non_base",
+      "note": "A reported saying attributed to the speaker's father, not base narration."
+    },
+    {
+      "quote_id": "q07597",
+      "person_signal": "non_base",
+      "note": "General imperative and aphorism; the implied you is not the protagonist."
+    },
+    {
+      "quote_id": "q07598",
+      "person_signal": "third",
+      "note": "Sustained third-person access to a female character's perception and desire exposes limited third-person narration."
+    },
+    {
+      "quote_id": "q07599",
+      "person_signal": "unmarked",
+      "note": "The third-person plural subjects alone do not establish whether the controlling narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q07600",
+      "person_signal": "third",
+      "note": "Narration describes a woman externally and attributes perception to Hannah in sustained third-person form."
+    },
+    {
+      "quote_id": "q07601",
+      "person_signal": "unmarked",
+      "note": "Fragmentary free-indirect list about April and media coverage lacks enough grammatical framing to identify narrator person."
+    },
+    {
+      "quote_id": "q07602",
+      "person_signal": "third",
+      "note": "Third-person free-indirect reflection attributes the thought to a participating character without making her the narrator."
+    },
+    {
+      "quote_id": "q07603",
+      "person_signal": "non_base",
+      "note": "Two-speaker dialogue; we belongs to a character's speech."
+    },
+    {
+      "quote_id": "q07604",
+      "person_signal": "unmarked",
+      "note": "A clipped noun phrase with third-person possessives is insufficient to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q07605",
+      "person_signal": "third",
+      "note": "Several sentences of third-person free-indirect thought sustain an external, character-limited narrating position."
+    },
+    {
+      "quote_id": "q07606",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue; you refers to the person being spoken to."
+    },
+    {
+      "quote_id": "q07607",
+      "person_signal": "non_base",
+      "note": "First-person spoken register represents a character's local voice, not the base narrator."
+    },
+    {
+      "quote_id": "q07608",
+      "person_signal": "non_base",
+      "note": "Gnomic noun-phrase fragment with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q07609",
+      "person_signal": "non_base",
+      "note": "Universal second-person statement about parenthood, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q07610",
+      "person_signal": "third",
+      "note": "Sustained third-person narration reports a character's actions, needs, and orientation in a specific scene."
+    },
+    {
+      "quote_id": "q07611",
+      "person_signal": "third",
+      "note": "Third-person limited narration presents the character's love and interpretation of another character."
+    },
+    {
+      "quote_id": "q07612",
+      "person_signal": "unmarked",
+      "note": "Environmental scene description contains no narrator or focal-character reference that fixes person."
+    },
+    {
+      "quote_id": "q07613",
+      "person_signal": "third",
+      "note": "Sustained third-person narration identifies Hannah and presents her habits and evaluative perspective."
+    },
+    {
+      "quote_id": "q07614",
+      "person_signal": "unmarked",
+      "note": "The focal character is omitted, while you occurs only in a generalized simile."
+    },
+    {
+      "quote_id": "q07615",
+      "person_signal": "unmarked",
+      "note": "A single sentence about she is compatible with both participating and nonparticipating narration when isolated."
+    },
+    {
+      "quote_id": "q07616",
+      "person_signal": "unmarked",
+      "note": "The opening first person is dialogue; the brief speech tag and clipped continuation do not independently establish base person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ruthware.com/wp-content/uploads/2022/03/TEASER_OneByOne_CV_AA7602.pdf",
+      "title": "Excerpt from The It Girl",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Author-hosted sustained excerpt covers alternating BEFORE and AFTER sections and narrates Hannah consistently in third-person limited form in both timelines; first-person wording appears only in speech or represented thought."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-it-girl-a-novel/styles.html",
+      "title": "Ruth Ware Writing Styles in The It Girl: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies a third-person narrator limited to what Hannah knows or experiences throughout the novel."
+    },
+    {
+      "url": "https://www.supersummary.com/the-it-girl/major-character-analysis/",
+      "title": "The It Girl Character Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide states that Hannah's story uses limited third-person narration across her Oxford year and the timeline ten years later."
+    },
+    {
+      "url": "https://www.simonandschuster.com/books/The-It-Girl/Ruth-Ware/9781982155261",
+      "title": "The It Girl by Ruth Ware | Official Publisher Page",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher's quoted Publishers Weekly review confirms alternating past and present chapters; it supports the two-timeline structure but does not itself specify grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Ruth Ware The It Girl official excerpt publisher\" and opened the author-hosted excerpt and official publisher page.",
+    "Searched \"The It Girl Ruth Ware point of view third person dual timeline\" and opened explicit whole-book POV analyses from BookRags and SuperSummary.",
+    "Searched \"The It Girl Ruth Ware excerpt Hannah April chapter\" and inspected retailer and promotional excerpt results; these reproduced the same opening material and added no independent structural evidence.",
+    "Searched exact combinations of \"The It Girl\" with \"third person\", \"third-person\", narrator, and POV; an additional blog review explicitly described third-person narration but could not be opened because the site returned HTTP 429.",
+    "Checked the author site's first-chapter link; despite its OneByOne teaser filename, the opened PDF is labeled as an excerpt from The It Girl and contains BEFORE, AFTER, and the following BEFORE section."
+  ],
+  "person_note": "The controlling narration is limited third person centered on Hannah. The quotes repeatedly expose Hannah or another focal character as she within narrated perception and free-indirect thought, while first- and second-person forms occur in dialogue, sayings, or universal comparisons. The author-hosted opening independently demonstrates third-person narration in both the BEFORE and AFTER timelines, and whole-book study guides explicitly confirm that the same limited-third-person perspective continues throughout. The alternating chapters therefore represent time periods, not alternating grammatical persons. The remaining scope limitation of the authorized excerpt is resolved by the dispersed quote evidence and two explicit whole-book descriptions; no credible contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_080",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T00:54:50.741666+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "90899f9bb96a255908b0a379519ad33cbb1b8e714f24564dbaa36997f9f0a55f"
+  }
+}

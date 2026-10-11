@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:6419",
+  "quotes": [
+    {
+      "quote_id": "q00534",
+      "person_signal": "first",
+      "note": "Narratorial I reflects on the protagonist's past and future outside dialogue."
+    },
+    {
+      "quote_id": "q00535",
+      "person_signal": "non_base",
+      "note": "General social observation; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q00536",
+      "person_signal": "non_base",
+      "note": "Character speech about homelessness and public policy does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00537",
+      "person_signal": "first",
+      "note": "Unquoted event narration uses I've to express the participating narrator's changed values."
+    },
+    {
+      "quote_id": "q00538",
+      "person_signal": "first",
+      "note": "Participating narrator describes his own presence and reactions with I, my, and me."
+    },
+    {
+      "quote_id": "q00539",
+      "person_signal": "non_base",
+      "note": "Aphoristic universal you does not constitute sustained second-person narration."
+    },
+    {
+      "quote_id": "q00540",
+      "person_signal": "first",
+      "note": "Although bucketed as dialogue, the outside speech beat I said identifies the participating base narrator."
+    },
+    {
+      "quote_id": "q00541",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech does not identify the narrator."
+    },
+    {
+      "quote_id": "q00542",
+      "person_signal": "non_base",
+      "note": "Character speech using ours is local dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q00543",
+      "person_signal": "first",
+      "note": "The narrator participates as the lawyer whose clients were waiting for me."
+    },
+    {
+      "quote_id": "q00544",
+      "person_signal": "first",
+      "note": "The dialogue is local, but the external beat he said and reference to vehicles around us expose a participating narrator."
+    },
+    {
+      "quote_id": "q00545",
+      "person_signal": "first",
+      "note": "The narrator explicitly identifies himself as a street lawyer using I."
+    },
+    {
+      "quote_id": "q00546",
+      "person_signal": "non_base",
+      "note": "An exchange between characters; its first- and second-person pronouns are confined to speech."
+    },
+    {
+      "quote_id": "q00547",
+      "person_signal": "non_base",
+      "note": "Extended direct speech addressed to Michael does not establish base narrative person."
+    },
+    {
+      "quote_id": "q00548",
+      "person_signal": "first",
+      "note": "Participating narrator anticipates representing clients and repeatedly uses I and my."
+    },
+    {
+      "quote_id": "q00549",
+      "person_signal": "non_base",
+      "note": "First-person statements occur inside direct speech and are not narratorial evidence."
+    },
+    {
+      "quote_id": "q00550",
+      "person_signal": "non_base",
+      "note": "Despite clipped quotation boundaries, the passage is an identifiable dialogue exchange rather than base narration."
+    },
+    {
+      "quote_id": "q00551",
+      "person_signal": "first",
+      "note": "The narrator recounts his own repeated acts and emotions with I and my."
+    },
+    {
+      "quote_id": "q00552",
+      "person_signal": "unmarked",
+      "note": "A named character is described externally, but this isolated sentence is compatible with Michael's first-person narration and does not independently establish third person."
+    },
+    {
+      "quote_id": "q00553",
+      "person_signal": "first",
+      "note": "Participating narrator recounts closing his eyes and offering a prayer."
+    },
+    {
+      "quote_id": "q00554",
+      "person_signal": "first",
+      "note": "The narrator describes his own expectations and physical reaction with I and me."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/the-street-lawyer",
+      "title": "The Street Lawyer by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's official Chapter One excerpt sustains narration by a participating I whose firm and experiences identify him as protagonist Michael Brock."
+    },
+    {
+      "url": "https://pureportal.spbu.ru/files/96932035/_2022_.pdf",
+      "title": "John Grisham's Novel The Street Lawyer as a Source of Legal Vocabulary for Law Students",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly article analyzes key episodes across the novel and explicitly identifies protagonist Michael Brock as the first-person narrator."
+    },
+    {
+      "url": "https://www.supersummary.com/the-street-lawyer/chapters-18-25-summary/",
+      "title": "The Street Lawyer Chapters 18-25 Summary & Analysis",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The chapter analysis attributes interior perceptions to Michael and reproduces his first-person narration from Chapter 21, corroborating that the opening voice continues well into the novel."
+    },
+    {
+      "url": "https://stewart-onan.com/2008/08/01/the-street-lawyer/",
+      "title": "The Street Lawyer \u2013 The Works of Stewart O'Nan",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A full-book critical review explicitly calls Michael Brock Grisham's first-person narrator and describes Michael narrating the action and his own judgments."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-street-lawyer/study-guide/literary-elements",
+      "title": "The Street Lawyer Literary Elements",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An anonymous community-contributed study-guide entry claims an unnamed third-person omniscient narrator, but this is directly contradicted by the authorized prose, interior passages, and scholarly analysis."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Grisham The Street Lawyer excerpt first chapter publisher\" and opened the official author and Penguin Random House excerpt pages.",
+    "Searched \"The Street Lawyer John Grisham point of view first person narrator Michael Brock\" and opened the scholarly article and explicit critical review.",
+    "Searched exact combinations of \"The Street Lawyer\" with \"first-person narrator\", \"first person\", \"narrative point of view\", and \"alternating narrator chapters\"; found corroboration for Michael's first-person voice and no evidence of sustained alternating sections.",
+    "Opened SuperSummary's Chapters 18-25 analysis to verify first-person narration in the novel's interior.",
+    "Checked Google Books, publisher synopsis pages, and an inaccessible Penguin UK sample PDF; synopsis grammar was not treated as person evidence and the inaccessible sample was not used.",
+    "Opened the contrary GradeSaver entry and found it was an anonymous community contribution whose third-person claim conflicts with the primary excerpt and multiple interior passages."
+  ],
+  "person_note": "Michael Brock is the controlling participating narrator. Numerous event quotes expose his I/me/my narration, including his work as a street lawyer and his concluding reflection; dialogue-only pronouns were excluded, while q00540 and q00544 retain first-person value because their external speech beats expose the narrator. The isolated sentence about Mordecai in q00552 is unmarked rather than third-person evidence. The authorized opening, scholarly identification of Michael as the first-person narrator, and interior chapter evidence agree. GradeSaver's anonymous third-person claim is demonstrably erroneous, and targeted research found no sustained alternate-person sections. The main limitation is that the authorized excerpt covers only the opening, but independent interior quotations and whole-book analyses remove material uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_033",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T19:08:41.014389+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "82090f1904e261c9c0bfdbc995c9572c271e6ecbe11d0162c5c1f653920cb23b"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:5457",
+  "quotes": [
+    {
+      "quote_id": "q02027",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its I/you pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02028",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q02029",
+      "person_signal": "non_base",
+      "note": "Universal reflection rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q02030",
+      "person_signal": "unmarked",
+      "note": "Scenic narration contains no participating narrator or sufficiently contextualized character reference."
+    },
+    {
+      "quote_id": "q02031",
+      "person_signal": "third",
+      "note": "Sustained external narration presents Harper's preference and routine in third person."
+    },
+    {
+      "quote_id": "q02032",
+      "person_signal": "non_base",
+      "note": "First-person wording occurs in direct character speech."
+    },
+    {
+      "quote_id": "q02033",
+      "person_signal": "unmarked",
+      "note": "The isolated pronoun and brief explanation are compatible with third-person narration but insufficient alone."
+    },
+    {
+      "quote_id": "q02034",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation of suicide does not identify a story-specific narrator."
+    },
+    {
+      "quote_id": "q02035",
+      "person_signal": "third",
+      "note": "Third-person limited narration reports a character's internal perception."
+    },
+    {
+      "quote_id": "q02036",
+      "person_signal": "non_base",
+      "note": "Quoted dialogue, including an embedded literary quotation."
+    },
+    {
+      "quote_id": "q02037",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Harper's actions and habitual cooking method."
+    },
+    {
+      "quote_id": "q02038",
+      "person_signal": "third",
+      "note": "Despite the clipped ending, the passage externally narrates Harper's reaction and Brendan's actions in third person."
+    },
+    {
+      "quote_id": "q02039",
+      "person_signal": "unmarked",
+      "note": "Research identifies this mythology explanation as narrative framing in Chapter 24, but the passage itself contains no diagnostic person."
+    },
+    {
+      "quote_id": "q02040",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person character description lacks enough local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q02041",
+      "person_signal": "unclear",
+      "note": "The missing subject and clipped boundaries prevent reliable attribution."
+    },
+    {
+      "quote_id": "q02042",
+      "person_signal": "non_base",
+      "note": "Direct address from character speech does not expose the base narrator."
+    },
+    {
+      "quote_id": "q02043",
+      "person_signal": "non_base",
+      "note": "The inclusive 'us' occurs in a universal maxim, not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q02044",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Reed's memories, feelings, desires, and actions in third person; the brief speech is embedded."
+    },
+    {
+      "quote_id": "q02045",
+      "person_signal": "third",
+      "note": "Dialogue is framed by sustained third-person narration of Franklin and Tabitha."
+    },
+    {
+      "quote_id": "q02046",
+      "person_signal": "unmarked",
+      "note": "A single third-person subject plus internal state is too brief to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q02047",
+      "person_signal": "unmarked",
+      "note": "Impersonal narration about visiting the Vineyard contains no narrator-participant pronoun."
+    },
+    {
+      "quote_id": "q02048",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person sentence is compatible with third-person narration but not independently diagnostic."
+    },
+    {
+      "quote_id": "q02049",
+      "person_signal": "non_base",
+      "note": "Proverbial statement does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q02050",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim about island life is not sustained protagonist-address narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.supersummary.com/the-identicals/chapters-1-5-summary/",
+      "title": "The Identicals Chapters 1-5 Summary & Analysis",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis identifies Chapters 1 and 2 as collective first-person island narration, followed by character-centered chapters narrated externally about Harper, Tabitha, and Ainsley."
+    },
+    {
+      "url": "https://www.supersummary.com/the-identicals/important-quotes/",
+      "title": "The Identicals Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Analysis explicitly identifies third-person limited narration and free indirect discourse in interior character chapters, including Chapter 23."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-identicals/styles.html",
+      "title": "Hilderbrand, Elin Writing Styles in The Identicals",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Whole-book POV discussion describes character-labeled third-person chapters and recurring Nantucket/Martha's Vineyard sections using collective 'we' and 'us,' including an interior Nantucket section around page 276."
+    },
+    {
+      "url": "https://www.supersummary.com/the-identicals/essay-topics/",
+      "title": "The Identicals Essay Topics",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The guide describes collective first-person island chapters as a deliberate structural device and distinguishes them from the character perspectives and the Fish epilogue."
+    },
+    {
+      "url": "https://books.google.com/books/about/The_Identicals.html?id=YgcvDQAAQBAJ",
+      "title": "The Identicals \u2014 Google Books",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Publisher metadata verifies the work and its contents list, including separate Nantucket, Martha's Vineyard, Harper, Ainsley, and Tabitha sections, but the accessible page lacks sustained prose."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Identicals\" \"Elin Hilderbrand\" excerpt and opened the Hachette title page; it advertised an excerpt but exposed only catalog copy, so it was not used as prose evidence.",
+    "Searched \"The Identicals\" \"Elin Hilderbrand\" \"third person\" and \"point of view\"; opened BookRags' whole-book POV discussion and SuperSummary's structural pages.",
+    "Searched exact collective-narrator phrases including \"Most of us may claim\" and \"Outwardly, we look alike\" to confirm that we/us belongs to the island sections rather than character dialogue.",
+    "Searched for chapter-level structure and opened SuperSummary's Chapters 1-5 analysis, important-quotes analysis, essay topics, and Google Books metadata.",
+    "Searches for publisher and authorized excerpts did not yield an accessible sustained excerpt; Hachette catalog pages and Google Books synopsis material were treated as nondiagnostic."
+  ],
+  "person_note": "The ordinary character chapters use sustained third-person limited narration, as demonstrated by the Goodreads passages about Harper, Reed, and Tabitha and corroborated by commercial structural guides. Separate Nantucket and Martha's Vineyard chapters constitute collective first-person narration: the islands or their communities speak as 'we/us,' first in the opening and again in an interior Nantucket section. Because these are autonomous recurring base sections rather than isolated speech or maxims, the novel alternates first- and third-person narration. Confidence is medium because the recurring structure is supported by Goodreads plus several agreeing commercial guides, but no accessible authorized or scholarly whole-book source was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_061",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:31:51.598297+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "231e6385cd3890abfb8716e56c5d6062c0d1b0987a5a0d763591d4b6efb751e8"
+  }
+}

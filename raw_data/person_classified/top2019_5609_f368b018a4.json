@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:5609",
+  "quotes": [
+    {
+      "quote_id": "q04257",
+      "person_signal": "first",
+      "note": "Fiona explicitly refers to herself as the teller of this story, exposing the participating frame narrator despite the passage's gnomic material."
+    },
+    {
+      "quote_id": "q04258",
+      "person_signal": "non_base",
+      "note": "Aphorism with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q04259",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained narration of a story protagonist."
+    },
+    {
+      "quote_id": "q04260",
+      "person_signal": "first",
+      "note": "Story-specific 'our mother' and 'us' place the narrator among the Skinner siblings."
+    },
+    {
+      "quote_id": "q04261",
+      "person_signal": "non_base",
+      "note": "General aphorism without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q04262",
+      "person_signal": "unmarked",
+      "note": "Free-indirect generalization about mothering; generic 'you' does not establish second-person narration, and the focal character is not locally identified."
+    },
+    {
+      "quote_id": "q04263",
+      "person_signal": "non_base",
+      "note": "General maxim without story-specific person evidence."
+    },
+    {
+      "quote_id": "q04264",
+      "person_signal": "non_base",
+      "note": "Universal second-person reflection rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04265",
+      "person_signal": "non_base",
+      "note": "Essayistic collective reflection about storytelling, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q04266",
+      "person_signal": "non_base",
+      "note": "General philosophical reflection using universal 'you'."
+    },
+    {
+      "quote_id": "q04267",
+      "person_signal": "unmarked",
+      "note": "Story-world evaluation with no narrator or focal-character person marker."
+    },
+    {
+      "quote_id": "q04268",
+      "person_signal": "first",
+      "note": "Story-specific 'our' and 'we' identify a participating sibling narrator describing life without Joe."
+    },
+    {
+      "quote_id": "q04269",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' in a maxim-like free-indirect sentence does not establish narrative person."
+    },
+    {
+      "quote_id": "q04270",
+      "person_signal": "unmarked",
+      "note": "Reflective narration contains no participating narrator or sufficiently contextualized third-person subject."
+    },
+    {
+      "quote_id": "q04271",
+      "person_signal": "first",
+      "note": "Repeated 'I' reports Fiona's memory and actions as a participating narrator."
+    },
+    {
+      "quote_id": "q04272",
+      "person_signal": "non_base",
+      "note": "The plural pronouns refer broadly to humanity and poets, not specifically to the story's narrator strand."
+    },
+    {
+      "quote_id": "q04273",
+      "person_signal": "non_base",
+      "note": "General statement about poets without story-specific person evidence."
+    },
+    {
+      "quote_id": "q04274",
+      "person_signal": "third",
+      "note": "Close third-person narration enters an unnamed woman's evaluation of Donny, consistent with the novel's sustained sibling-focused third-person sections."
+    },
+    {
+      "quote_id": "q04275",
+      "person_signal": "non_base",
+      "note": "Direct speech to Caroline; its 'you' and imperatives do not identify base narration."
+    },
+    {
+      "quote_id": "q04276",
+      "person_signal": "unmarked",
+      "note": "A bare third-person character description is insufficient to establish narrator participation."
+    },
+    {
+      "quote_id": "q04277",
+      "person_signal": "first",
+      "note": "Narratorial 'me' gives Fiona's retrospective understanding of love."
+    },
+    {
+      "quote_id": "q04278",
+      "person_signal": "first",
+      "note": "'My' and 'I' describe the participating narrator's recurring experience."
+    },
+    {
+      "quote_id": "q04279",
+      "person_signal": "first",
+      "note": "Story-specific 'each of us' includes the narrator among the characters in the scene."
+    },
+    {
+      "quote_id": "q04280",
+      "person_signal": "unmarked",
+      "note": "A free-indirect question without a locally named focalizer does not independently identify narrative person."
+    },
+    {
+      "quote_id": "q04281",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic fragment with no diagnostic narrator evidence."
+    },
+    {
+      "quote_id": "q04282",
+      "person_signal": "first",
+      "note": "Story-specific 'us' links the participating narrator to the siblings' experience of the Pause."
+    },
+    {
+      "quote_id": "q04283",
+      "person_signal": "non_base",
+      "note": "Abstract fragment without a narrator or story-specific protagonist."
+    },
+    {
+      "quote_id": "q04284",
+      "person_signal": "third",
+      "note": "Close third-person narration presents Renee's self-perception during a specific period."
+    },
+    {
+      "quote_id": "q04285",
+      "person_signal": "third",
+      "note": "Third-person narration directly reports Renee's realization and private sense of loss."
+    },
+    {
+      "quote_id": "q04286",
+      "person_signal": "third",
+      "note": "Close third-person narration reports Renee's internal bodily experience."
+    },
+    {
+      "quote_id": "q04287",
+      "person_signal": "unmarked",
+      "note": "The sentence describes Caroline externally but does not alone distinguish Fiona's first-person account of another character from a third-person section."
+    },
+    {
+      "quote_id": "q04288",
+      "person_signal": "first",
+      "note": "'My brother,' 'me,' and repeated 'I' establish participating narration by Fiona."
+    },
+    {
+      "quote_id": "q04289",
+      "person_signal": "first",
+      "note": "Sustained 'I' narration recounts Fiona's own writing and grief after her brother's death."
+    },
+    {
+      "quote_id": "q04290",
+      "person_signal": "first",
+      "note": "Although chiefly dialogue, the interposed narratorial action 'I held up a finger' diagnostically identifies a participating narrator."
+    },
+    {
+      "quote_id": "q04291",
+      "person_signal": "unmarked",
+      "note": "A named-character description alone cannot distinguish first-person narration about Joe from third-person narration."
+    },
+    {
+      "quote_id": "q04292",
+      "person_signal": "third",
+      "note": "The thought tag and free-indirect question provide close third-person access to Renee."
+    },
+    {
+      "quote_id": "q04293",
+      "person_signal": "unmarked",
+      "note": "Objective scene description contains no diagnostic narrator-participation evidence."
+    },
+    {
+      "quote_id": "q04294",
+      "person_signal": "third",
+      "note": "Close third-person narration renders Caroline's private mental grouping through an extended metaphor."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.writersconnection.org/interviews/tara-conklin-with-wendy-hinman",
+      "title": "Tara Conklin with Wendy Hinman \u2014 Writers Connection",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "In a direct author interview, Conklin identifies Fiona as the overarching narrator but says she adopted various POV characters to tell the siblings' experiences intimately, establishing the novel-wide mixed structure."
+    },
+    {
+      "url": "https://www.perlego.com/book/1227773/the-last-romantics-a-novel-pdf",
+      "title": "The Last Romantics: A Novel \u2014 Chapter 1",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The licensed sustained opening begins with story-specific first-person plural narration about 'our father' and 'we lived,' then includes Fiona's singular 'my father,' confirming the participating Fiona strand."
+    },
+    {
+      "url": "https://booknaround.blogspot.com/2019/02/review-last-romantics-by-tara-conklin.html",
+      "title": "Review: The Last Romantics by Tara Conklin \u2014 BookNAround",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The reviewer explicitly reports that Fiona narrates most of the story in first person and that narration occasionally shifts to third person for the other siblings."
+    },
+    {
+      "url": "https://static.libnet.info/images/pdfs/geneva/Book_Club_Service/Last_Romantics_Conklin.pdf",
+      "title": "The Last Romantics Book Club Service \u2014 Geneva Public Library District",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "This library-hosted guide reproduces professional Library Journal and Kirkus structural assessments: Fiona is the narrator, while the narrative also enters siblings' private thoughts that she could not know, corroborating the distinct close/omniscient passages visible in the quotes."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780062898166",
+      "title": "The Last Romantics by Tara Conklin \u2014 Publishers Weekly",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The professional review calls Fiona the novel's key voice while noting that the narrative expands into the minds of the other family members, corroborating the mixed-person structure."
+    }
+  ],
+  "search_log": [
+    "Searched \"Tara Conklin The Last Romantics excerpt publisher first chapter\" and located a licensed sustained Chapter 1 preview.",
+    "Searched \"The Last Romantics Tara Conklin narrator first person point of view\" and \"Fiona narrates novel structure review\" for explicit whole-book descriptions.",
+    "Searched the HarperCollins and Penguin Random House domains for an authorized publisher excerpt; no usable publisher-hosted excerpt surfaced.",
+    "Searched \"The Last Romantics first person third person\" and opened explicit structural reviews rather than relying on search snippets.",
+    "Opened the Writers Connection author interview, Perlego chapter preview, BookNAround review, Publishers Weekly review, and Geneva Public Library guide before recording them."
+  ],
+  "person_note": "The novel sustains more than one base-narration person. Fiona, a Skinner sibling, is the overarching participating narrator: the quotes repeatedly use story-specific I, my, we, our, and us, and the licensed opening independently confirms that first-person strand. Other passages give close third-person access to Renee, Caroline, and other siblings. Conklin's direct structural explanation, a library-hosted guide, and explicit whole-book reviews show that these are adopted sibling POV passages rather than merely Fiona mentioning relatives. Accordingly the book is ALTERNATING, with a predominant first-person Fiona frame and sustained third-person sibling sections. Generic 'you' aphorisms and direct address are local gnomic or dialogue material, not a second-person strand. Confidence is medium because the collection-level structural evidence is Tier C despite the repeated quote pattern.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_068",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:29:27.341268+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1c4824976da70ca978757df075caf43205775c314a30785dc93911681f566016"
+  }
+}

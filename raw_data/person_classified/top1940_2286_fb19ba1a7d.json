@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1940:2286",
+  "quotes": [
+    {
+      "quote_id": "q00348",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using generic 'you'; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00349",
+      "person_signal": "first",
+      "note": "The first-person possessive 'my valley' presents the narrator's own remembered world."
+    },
+    {
+      "quote_id": "q00350",
+      "person_signal": "first",
+      "note": "The narrator participates directly, recalling 'I saw my father.'"
+    },
+    {
+      "quote_id": "q00351",
+      "person_signal": "first",
+      "note": "The participating narrator says 'my mind' and 'I live'; 'you' directly addresses deceased family members rather than a second-person protagonist."
+    },
+    {
+      "quote_id": "q00352",
+      "person_signal": "non_base",
+      "note": "A gnomic meditation framed by 'I wonder'; its generic 'you' is not story-specific narration."
+    },
+    {
+      "quote_id": "q00353",
+      "person_signal": "unmarked",
+      "note": "Possible retrospective narration, but 'you' is generic and the passage contains no explicit participating-narrator marker."
+    },
+    {
+      "quote_id": "q00354",
+      "person_signal": "non_base",
+      "note": "Gnomic speculation rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q00355",
+      "person_signal": "non_base",
+      "note": "Rhapsodic exhortation about singing; it does not establish narrative person."
+    },
+    {
+      "quote_id": "q00356",
+      "person_signal": "non_base",
+      "note": "General maxim employing generic 'you.'"
+    },
+    {
+      "quote_id": "q00357",
+      "person_signal": "non_base",
+      "note": "Didactic or sermonic advice with generic imperatives, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00358",
+      "person_signal": "non_base",
+      "note": "Impersonal gnomic question."
+    },
+    {
+      "quote_id": "q00359",
+      "person_signal": "first",
+      "note": "The participating narrator identifies the house as one 'I have lived in' and as part of 'my life.'"
+    },
+    {
+      "quote_id": "q00360",
+      "person_signal": "first",
+      "note": "Extended first-person narration repeatedly recounts what the narrator saw, felt, and understood."
+    },
+    {
+      "quote_id": "q00361",
+      "person_signal": "non_base",
+      "note": "Character speech marked as dialogue; its imperatives do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00362",
+      "person_signal": "unmarked",
+      "note": "Scene description contains no narrator pronoun and is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q00363",
+      "person_signal": "non_base",
+      "note": "General observation using generic 'your own' and 'your mind.'"
+    },
+    {
+      "quote_id": "q00364",
+      "person_signal": "non_base",
+      "note": "Comic aphorism about the nose, with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q00365",
+      "person_signal": "non_base",
+      "note": "Didactic statement about prayer using generic 'you.'"
+    },
+    {
+      "quote_id": "q00366",
+      "person_signal": "non_base",
+      "note": "General maxim using generic second person."
+    },
+    {
+      "quote_id": "q00367",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using generic 'you.'"
+    },
+    {
+      "quote_id": "q00368",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q00369",
+      "person_signal": "non_base",
+      "note": "General maxim about men and women."
+    },
+    {
+      "quote_id": "q00370",
+      "person_signal": "non_base",
+      "note": "Philosophical meditation; 'I wonder,' generic 'we,' and generic 'us' are not used here to recount a discrete story event."
+    },
+    {
+      "quote_id": "q00371",
+      "person_signal": "unmarked",
+      "note": "Third-person characters are described, but the passage could be an observing first-person narrator's account and does not expose narrator participation locally."
+    },
+    {
+      "quote_id": "q00372",
+      "person_signal": "non_base",
+      "note": "Extended gnomic essay on kissing; generic 'we' does not establish the book's narrative person."
+    },
+    {
+      "quote_id": "q00373",
+      "person_signal": "non_base",
+      "note": "Rhapsodic food description using generic 'your' and 'you.'"
+    },
+    {
+      "quote_id": "q00374",
+      "person_signal": "non_base",
+      "note": "General observation using generic second person."
+    },
+    {
+      "quote_id": "q00375",
+      "person_signal": "non_base",
+      "note": "Gnomic account of love using generic 'you.'"
+    },
+    {
+      "quote_id": "q00376",
+      "person_signal": "first",
+      "note": "The narrator participates throughout via 'me,' 'my heart,' and 'I knew.'"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://core.ac.uk/download/444026389.pdf",
+      "title": "The \u2018Land of Song\u2019: Gender and Identity in Welsh Choral Music, 1872\u20131918",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A Cardiff University doctoral thesis reproduces sustained first-person prose from the novel and identifies Huw Morgan as the retrospective narrator who recalls his boyhood and traces the valley's transformation."
+    },
+    {
+      "url": "https://www.supersummary.com/how-green-was-my-valley/major-character-analysis/",
+      "title": "How Green Was My Valley Character Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The guide explicitly identifies Huw as both narrator and protagonist and describes the novel as a limited first-person account confined to his perspective, including its ending."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-how-green-was-my-valley/style.html",
+      "title": "Richard Llewellyn Writing Styles in How Green Was My Valley",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view section explicitly states that elderly Huw Morgan narrates the story in first person from memories of his own life."
+    },
+    {
+      "url": "https://books.google.com/books?id=6L6J1yCiYZwC",
+      "title": "How Green Was My Valley \u2014 Google Books",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The publisher description corroborates the retrospective structure: Huw prepares to leave home and reminisces about his youth; it is structural corroboration rather than a sustained accessible excerpt."
+    }
+  ],
+  "search_log": [
+    "Searched: \"How Green Was My Valley\" Richard Llewellyn first person narrator Huw Morgan point of view; opened explicit point-of-view analyses from BookRags and SuperSummary.",
+    "Searched title and author with excerpt, first chapter, and full-text terms; found a library record at Open Library and a limited Google Books preview, but neither exposed a sustained searchable chapter in the opened page.",
+    "Searched publisher sources at Penguin and Penguin Random House; Penguin's description confirms Huw's retrospective memories but does not explicitly name grammatical person.",
+    "Searched scholarly and university-hosted material for narrator and narrative technique; opened a Cardiff University thesis containing first-person novel prose and an explicit structural identification of Huw as the retrospective narrator.",
+    "Targeted searches for epistolary, frame, multiple narrators, and alternating point of view produced no credible evidence of sustained narration in another person."
+  ],
+  "person_note": "The base narration is Huw Morgan's retrospective first-person account of his own childhood and community. Multiple event quotes independently expose his participation through 'I,' 'me,' and 'my,' while scholarly and explicit whole-book web descriptions identify Huw as narrator and protagonist. Apparent second person in the quotations is direct address to deceased relatives or generic gnomic 'you,' not a second-person protagonist. Third-person descriptions of family members remain compatible with Huw observing them and do not form an autonomous third-person strand. No credible evidence indicates alternating narration; the main residual limitation is that the accessible library and publisher previews did not provide a continuous full chapter.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_003",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:31:00.746097+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b612bac3e5ec8544daa9d5c22957fed51662f39ca2add6187611218e2c0e7f78"
+  }
+}

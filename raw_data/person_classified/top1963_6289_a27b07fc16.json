@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1963:6289",
+  "quotes": [
+    {
+      "quote_id": "q01200",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing a friend as 'you'; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01201",
+      "person_signal": "non_base",
+      "note": "Philosophical speech or quoted reflection; its inclusive pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q01202",
+      "person_signal": "non_base",
+      "note": "Direct-address discourse about humanity, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01203",
+      "person_signal": "non_base",
+      "note": "A character speaks as 'we'; this is not the controlling narrative voice."
+    },
+    {
+      "quote_id": "q01204",
+      "person_signal": "non_base",
+      "note": "Explicit dialogue between George and another character."
+    },
+    {
+      "quote_id": "q01205",
+      "person_signal": "third",
+      "note": "Sustained external narration focalizes through a woman as 'her' and discusses another character as 'he,' with no participating narrator framing the scene."
+    },
+    {
+      "quote_id": "q01206",
+      "person_signal": "non_base",
+      "note": "A question and assertion spoken to another character."
+    },
+    {
+      "quote_id": "q01207",
+      "person_signal": "non_base",
+      "note": "Dialogue directly addressing Jean."
+    },
+    {
+      "quote_id": "q01208",
+      "person_signal": "non_base",
+      "note": "Philosophical speech about humanity; 'they' is generic rather than narratorial."
+    },
+    {
+      "quote_id": "q01209",
+      "person_signal": "unclear",
+      "note": "The clipped ending and missing boundaries leave unresolved whether this is speech or one of Kiril's diary passages."
+    },
+    {
+      "quote_id": "q01210",
+      "person_signal": "non_base",
+      "note": "First-person commentary appears in the dialogue bucket without enough context to attribute it to a constitutive diary section."
+    },
+    {
+      "quote_id": "q01211",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about power contains no diagnostic narrator-person marking."
+    },
+    {
+      "quote_id": "q01212",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed speech by Campeggio."
+    },
+    {
+      "quote_id": "q01213",
+      "person_signal": "non_base",
+      "note": "Explicit dialogue marked by a woman's speaking voice."
+    },
+    {
+      "quote_id": "q01214",
+      "person_signal": "non_base",
+      "note": "An isolated first-person declaration in the dialogue bucket; its local form does not establish diary narration."
+    },
+    {
+      "quote_id": "q01215",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but a single sentence about 'he' does not by itself establish narrator participation."
+    },
+    {
+      "quote_id": "q01216",
+      "person_signal": "first",
+      "note": "Research identifies recurring Kiril diary interchapters; this retrospective 'I' passage concerns his encounter with the troubled woman and is constitutive first-person narration, despite the dialogue bucket."
+    },
+    {
+      "quote_id": "q01217",
+      "person_signal": "first",
+      "note": "Kiril's diary voice recounts the woman encountered during his Roman outing and evaluates 'our failure'; this is a sustained constitutive first-person strand."
+    },
+    {
+      "quote_id": "q01218",
+      "person_signal": "third",
+      "note": "Sustained external exposition narrates the conclave procedure and its historical significance without a participating narrator."
+    },
+    {
+      "quote_id": "q01219",
+      "person_signal": "non_base",
+      "note": "A character's aphoristic statement about rulers, classified as dialogue."
+    },
+    {
+      "quote_id": "q01220",
+      "person_signal": "third",
+      "note": "Story-specific authorial narration externally characterizes the assembled old rulers and generalizes about their limited apprehension."
+    },
+    {
+      "quote_id": "q01221",
+      "person_signal": "non_base",
+      "note": "A character's reflective dialogue using generic 'one,' not a controlling narrator."
+    },
+    {
+      "quote_id": "q01222",
+      "person_signal": "unmarked",
+      "note": "Possible base commentary, but this single impersonal sentence does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q01223",
+      "person_signal": "unclear",
+      "note": "The fragment is too severely clipped to determine its narrative level or person."
+    },
+    {
+      "quote_id": "q01224",
+      "person_signal": "non_base",
+      "note": "A clipped gnomic maxim with no diagnostic narrator-person evidence."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/897339377/The-Shoes-of-the-Fisherman",
+      "title": "The Shoes of the Fisherman by Morris L. West \u2014 book preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Allen & Unwin ebook preview supplies sustained Chapter One prose narrated externally in third person, including access to Rinaldi's conclusions and Kiril's experience."
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/shoes-fisherman-morris-west",
+      "title": "The Shoes of the Fisherman by Morris West | EBSCO Research Starters",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Joseph Dewey's signed research overview describes the novel's externally narrated story and explicitly states that Kiril writes about his spiritual agonies and papal burdens in his diary, establishing a constitutive first-person strand within it."
+    },
+    {
+      "url": "https://www.enotes.com/topics/shoes-fisherman/analysis",
+      "title": "The Shoes of the Fisherman Critical Overview",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural analysis explicitly identifies Kiril's private journal entries as interchapters, corroborating that the first-person material forms recurring sections rather than isolated speech."
+    }
+  ],
+  "search_log": [
+    "Searched 'The Shoes of the Fisherman Morris West excerpt', 'first chapter', and 'read an extract'; opened the authorized Everand/Allen & Unwin preview and verified sustained third-person opening narration.",
+    "Searched the title with 'first person', 'third person', 'narrator', and 'point of view'; no credible source giving a simple whole-book POV label was found.",
+    "Searched the title with 'diary entries', 'journal', 'Kiril diary', and 'interchapters'; opened EBSCO's signed whole-book research overview and eNotes' structural analysis, both of which identify Kiril's recurring diary material.",
+    "Searched exact first-person quote phrases, including 'I tried to show her' and 'The words of the woman who saw it with me'; these matched the book, while EBSCO's account connected Kiril's diary to the same Roman encounter.",
+    "Checked Open Library/Internet Archive and Google Books editions; Open Library offered catalog and borrowing metadata but no accessible sustained interior prose, while Google Books results were snippet or metadata views and were not used as person evidence."
+  ],
+  "person_note": "The novel's ordinary scene narration is third person, as shown by the sustained authorized opening and the diagnostic interior Goodreads passages. It also contains recurring first-person interchapters from Pope Kiril's private diary. Quotes q01216-q01217 expose that constitutive diary voice, while the EBSCO and eNotes structural accounts independently confirm that the journal material recurs through the novel. Thus the different persons occur in sustained sections and warrant ALTERNATING, not THIRD with incidental speech. The only residual uncertainty concerns the boundaries of a few clipped Goodreads quotations, not the book's alternating structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_013",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:50:30.103869+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c949daf4430996ea5d6e7d4ee3974c5c9d0ff2f41798c9ebb80e5976279c4ac2"
+  }
+}

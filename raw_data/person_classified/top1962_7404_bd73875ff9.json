@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1962:7404",
+  "quotes": [
+    {
+      "quote_id": "q00764",
+      "person_signal": "non_base",
+      "note": "Character speech using first- and second-person pronouns; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00765",
+      "person_signal": "non_base",
+      "note": "General political maxim with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q00766",
+      "person_signal": "non_base",
+      "note": "The first-person account is local character discourse within the independently established omniscient novel, not participating base narration."
+    },
+    {
+      "quote_id": "q00767",
+      "person_signal": "unclear",
+      "note": "Clipped first-person reflection lacks the boundaries and attribution needed to distinguish speech, thought, or embedded text."
+    },
+    {
+      "quote_id": "q00768",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic observation without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00769",
+      "person_signal": "unmarked",
+      "note": "Impersonal narratorial description of Beverly Hills, but the passage alone contains no decisive person marker."
+    },
+    {
+      "quote_id": "q00770",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narrator presents Judd and Hawke externally and reports Hawke's feeling in third person."
+    },
+    {
+      "quote_id": "q00771",
+      "person_signal": "non_base",
+      "note": "Standalone maxim without story-specific narration."
+    },
+    {
+      "quote_id": "q00772",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the brief named-character speech beat does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00773",
+      "person_signal": "unclear",
+      "note": "Incomplete clause with lost speech or narration boundaries."
+    },
+    {
+      "quote_id": "q00774",
+      "person_signal": "unmarked",
+      "note": "A bare named-character report is compatible with either first- or third-person base narration."
+    },
+    {
+      "quote_id": "q00775",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection refers to Fanny externally, but the short passage alone does not conclusively identify the controlling person."
+    },
+    {
+      "quote_id": "q00776",
+      "person_signal": "non_base",
+      "note": "Standalone social maxim without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00777",
+      "person_signal": "non_base",
+      "note": "Universal maxim rather than story-specific base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/735844696/Youngblood-Hawke-A-Novel",
+      "title": "Youngblood Hawke: A Novel",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained commercial ebook opening narrates Hawke, Fipps, Prince, and other characters externally as he or by name while freely presenting their perceptions and thoughts. Its opening 'you' is general reader address, not second-person protagonist narration."
+    },
+    {
+      "url": "https://www.saveourenvironment.ca/Characters_Emotion_and_Viewpoint_Nancy_Kress.pdf",
+      "title": "Characters, Emotion & Viewpoint: Techniques and Exercises for Crafting Dynamic Characters and Effective Viewpoints",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Nancy Kress explicitly analyzes Youngblood Hawke as omniscient POV, quotes an authorial passage, distinguishes it from the protagonist's thoughts, and states that Wouk's authorial steering occurs throughout the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \"Youngblood Hawke\" \"Herman Wouk\" excerpt and opened the sustained Everand ebook preview.",
+    "Searched \"Youngblood Hawke\" first person, third person, narrator, and point of view; most results were synopses or adaptation pages and were not used as person evidence.",
+    "Opened Nancy Kress's Characters, Emotion & Viewpoint and verified its whole-novel analysis of Youngblood Hawke as omniscient narration.",
+    "Searched exact text from the first-person Goodreads passages to resolve local attribution; results reproduced quotations without sufficient surrounding context.",
+    "Checked Google Books, the publisher page, Kirkus, and review results; their accessible material verified the work or plot but did not independently establish narrative person."
+  ],
+  "person_note": "The controlling narration is third-person omniscient: the sustained opening externally narrates several characters and enters their perspectives, while Kress explicitly identifies omniscient POV and says its authorial steering continues throughout the novel. Quote q00770 independently exhibits the same third-person scene narration. The first-person material in q00766 is local character discourse, while q00767 is too clipped for exact attribution; neither indicates a sustained first-person section. The remaining uncertainty is only the precise local form of those clipped character passages, not the book's controlling person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_013",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:50:30.102751+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c9e9ff2b7412664fffcd3ea6d0175a4e03037d986cef01b9a938d38bba7eb6ce"
+  }
+}

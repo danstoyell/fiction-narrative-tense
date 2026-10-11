@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:5256",
+  "quotes": [
+    {
+      "quote_id": "q00309",
+      "person_signal": "unmarked",
+      "note": "Impersonal comparison contains no narrator or story-specific person marker."
+    },
+    {
+      "quote_id": "q00310",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' expresses a maxim within the narration, not sustained address to the protagonist."
+    },
+    {
+      "quote_id": "q00311",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; its 'I'm' does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00312",
+      "person_signal": "non_base",
+      "note": "Gnomic material with generic 'you,' not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00313",
+      "person_signal": "non_base",
+      "note": "Gnomic generic 'you' is nondiagnostic of narrative person."
+    },
+    {
+      "quote_id": "q00314",
+      "person_signal": "unmarked",
+      "note": "Environmental description lacks a narrator or character-person marker."
+    },
+    {
+      "quote_id": "q00315",
+      "person_signal": "third",
+      "note": "Sustained close narration presents the protagonist externally as 'her' and 'she.'"
+    },
+    {
+      "quote_id": "q00316",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in character speech, not base narration."
+    },
+    {
+      "quote_id": "q00317",
+      "person_signal": "non_base",
+      "note": "Quoted speech is local; the brief third-person speech beat alone is not diagnostic."
+    },
+    {
+      "quote_id": "q00318",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur inside direct speech."
+    },
+    {
+      "quote_id": "q00319",
+      "person_signal": "third",
+      "note": "Sustained scene narration depicts Trisha externally as 'she' while conveying her experience."
+    },
+    {
+      "quote_id": "q00320",
+      "person_signal": "third",
+      "note": "Close third-person narration reports part of the protagonist's internal response as 'her.'"
+    },
+    {
+      "quote_id": "q00321",
+      "person_signal": "non_base",
+      "note": "Gnomic statement uses generic 'you,' not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00322",
+      "person_signal": "third",
+      "note": "Sustained narration names Trisha and repeatedly presents her externally as 'she.'"
+    },
+    {
+      "quote_id": "q00323",
+      "person_signal": "non_base",
+      "note": "Direct speech does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00324",
+      "person_signal": "non_base",
+      "note": "Story-specific 'you' appears in direct speech addressed to Trisha, not base narration."
+    },
+    {
+      "quote_id": "q00325",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment has no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00326",
+      "person_signal": "non_base",
+      "note": "First-person plural and generic references occur within direct speech."
+    },
+    {
+      "quote_id": "q00327",
+      "person_signal": "third",
+      "note": "Scene narration externally positions the creature above the female protagonist."
+    },
+    {
+      "quote_id": "q00328",
+      "person_signal": "unclear",
+      "note": "Clipped subordinate fragment lacks enough context to determine narrative person."
+    },
+    {
+      "quote_id": "q00329",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows the protagonist externally through repeated 'she' references."
+    },
+    {
+      "quote_id": "q00330",
+      "person_signal": "unmarked",
+      "note": "Descriptive fragment uses 'she,' but its limited local context cannot alone exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00331",
+      "person_signal": "unmarked",
+      "note": "A single sentence about what 'she felt' is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q00332",
+      "person_signal": "non_base",
+      "note": "The second-person and first-person forms belong to Trisha's imagined direct speech, not base narration."
+    },
+    {
+      "quote_id": "q00333",
+      "person_signal": "unmarked",
+      "note": "A lone third-person character reference does not by itself identify the controlling narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://stephenkingbooks.co.uk/wp-content/uploads/2015/05/girl_who_loved_guide.pdf",
+      "title": "The Girl Who Loved Tom Gordon Reading Guide",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized Stephen King UK guide reproduces a sustained opening extract that narrates Trisha, Pete, and their mother in third person; first-person wording is confined to Trisha's direct thought."
+    },
+    {
+      "url": "https://www.supersummary.com/the-girl-who-loved-tom-gordon/literary-devices/",
+      "title": "The Girl Who Loved Tom Gordon Literary Devices",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies a third-person omniscient narrator and explains that the narration follows Trisha while periodically covering her family and searchers."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-girl-who-loved-tom-gordon/study-guide/literary-elements",
+      "title": "The Girl Who Loved Tom Gordon Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The narrator-and-point-of-view section explicitly identifies third-person narration closely aligned with the protagonist's thoughts and impressions."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with 'excerpt,' 'first chapter,' and official Stephen King/Simon & Schuster domain restrictions; found and opened the authorized UK reading-guide extract.",
+    "Searched the title with 'point of view,' 'third person,' 'first person,' 'narrator,' and 'omniscient narrator'; opened explicit whole-book descriptions from SuperSummary and GradeSaver.",
+    "Checked the official Simon & Schuster and Stephen King work pages; both verified the novel and protagonist but their synopsis language did not independently establish narrative person.",
+    "Opened the Google Books record and limited-preview listing; the accessible page exposed metadata and contents rather than usable sustained prose, so it was not treated as person evidence.",
+    "Searched for scholarly discussion of narration and focalization; results either concerned focalization generally or did not expose a work-specific structural claim sufficient to improve the evidence tier."
+  ],
+  "person_note": "The diagnostic quotes repeatedly present Trisha and her surroundings through sustained close third-person narration, agreeing with the authorized opening extract and two explicit whole-book POV descriptions. First-person forms in the evidence occur in dialogue, gnomic language, or Trisha's direct thoughts; apparent 'you' forms are generic maxims or direct address, not sustained second-person narration. No source indicates autonomous first-person or second-person sections. Sources differ only over whether the third-person technique is best called limited or omniscient, a focalization distinction that does not affect the THIRD label.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_033",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T19:08:41.016321+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "94fb27c0dabf9e1293cfe4d1416c2a513d1ad8cecaedc56b3a27969bfc1f8e0f"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1994:3555",
+  "quotes": [
+    {
+      "quote_id": "q03394",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns occur in character dialogue; the external speech tags alone are not diagnostic."
+    },
+    {
+      "quote_id": "q03395",
+      "person_signal": "non_base",
+      "note": "This rhymed line is the magic mirror's quoted reply in the Snow White tale, not base narration."
+    },
+    {
+      "quote_id": "q03396",
+      "person_signal": "third",
+      "note": "In the surrounding Red Riding Hood scene, a nonparticipating narrator externally describes Red's action and motivation."
+    },
+    {
+      "quote_id": "q03397",
+      "person_signal": "unmarked",
+      "note": "A self-contained comic rhyme about a girl uses third-person grammar but lacks enough narrative context to establish the base narrator; it was also absent from the accessible 1994 transcription."
+    },
+    {
+      "quote_id": "q03398",
+      "person_signal": "third",
+      "note": "This sustained ending of Rapunzel externally narrates her later actions and life without a participating narrator."
+    },
+    {
+      "quote_id": "q03399",
+      "person_signal": "third",
+      "note": "Despite the clipped final parenthesis, the passage is sustained external narration from the Cinderella tale."
+    },
+    {
+      "quote_id": "q03400",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator describes Cinderella's arrival, clothing, hair, and footwear across a sustained scene."
+    },
+    {
+      "quote_id": "q03401",
+      "person_signal": "unmarked",
+      "note": "The isolated comic nursery rhyme uses third-person grammar but provides insufficient context to identify base narration; it was not found in the accessible 1994 transcription."
+    },
+    {
+      "quote_id": "q03402",
+      "person_signal": "third",
+      "note": "The surrounding authorized excerpt confirms this as external narration of Red Riding Hood and the wolf."
+    },
+    {
+      "quote_id": "q03403",
+      "person_signal": "non_base",
+      "note": "The diagnostic first- and second-person forms belong to the fairy godperson's speech; the brief speech beat does not independently establish person."
+    },
+    {
+      "quote_id": "q03404",
+      "person_signal": "third",
+      "note": "Outside the wolf's quoted demand, the base narrator externally recounts the wolf's and pigs' actions within a sustained third-person tale."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jamesfinngarner.com/pdf/PCBS_excerpt.pdf",
+      "title": "Excerpt From Politically Correct Bedtime Stories: \u201cLittle Red Riding Hood\u201d",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The author-hosted, copyrighted Macmillan excerpt sustains external narration of Red Riding Hood and the wolf; dialogue uses I and you only locally."
+    },
+    {
+      "url": "https://www.oldtowntheatre-huntsville.org/uploads/2/0/1/6/20163637/politically_correct_bedtime_stories.pdf",
+      "title": "Politically Correct Bedtime Stories",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The accessible complete transcription lists thirteen tales and consistently narrates sampled openings, interiors, and endings externally in third person, including Rumpelstiltskin, Rapunzel, Cinderella, Snow White, Chicken Little, Jack and the Beanstalk, and The Pied Piper of Hamelin. Its first-person introduction is paratext, not a story section."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/lifestyle/1994/04/27/book-world/3894d52c-4551-4e56-b485-d67736f52c62/",
+      "title": "BOOK WORLD: Fables for the PC '90s",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "A contemporaneous review quotes externally narrated passages from The Emperor's New Clothes and The Three Little Pigs, independently corroborating third-person narration beyond the author-hosted Red Riding Hood excerpt."
+    },
+    {
+      "url": "https://openlibrary.org/works/OL2272532W/Politically_Correct_Bedtime_Stories?edition=key%3A%2Fbooks%2FOL25427921M&mode=all",
+      "title": "Politically Correct Bedtime Stories by James Finn Garner",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The library record verifies the 1994 Macmillan work and classifies it as short stories, adaptations, and humorous fiction, but it does not describe narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Politically Correct Bedtime Stories\" \"James Finn Garner\" with excerpt, first chapter, narrator, point of view, first person, third person, and preview terms.",
+    "Opened the author-hosted PCBS_excerpt.pdf and confirmed sustained third-person narration in the named Little Red Riding Hood tale.",
+    "Opened and sampled the 94-page transcription across its contents, story openings, interiors, and endings; all thirteen prose tales use external third-person narration, while the first-person introduction is paratext.",
+    "Searched Open Library, Internet Archive, WorldCat, Google Books, Macmillan, and library/catalog records; Open Library verified the edition and short-story form but supplied no explicit POV description.",
+    "Opened a contemporaneous Washington Post review whose quotations from The Emperor's New Clothes and The Three Little Pigs independently exhibit third-person narration.",
+    "Searched exact text for the two nursery-rhyme quotes; Goodreads attributes them to the work, but they were not found in the accessible 1994 transcription, so they were not used to determine the label.",
+    "No credible source found sustained first-person or second-person story sections, an epistolary structure, or alternating narrative persons."
+  ],
+  "person_note": "The eligible narrative content is a collection of prose fairy-tale retellings, and the diagnostic quotes span Red Riding Hood, Rapunzel, Cinderella, and The Three Little Pigs in consistent external third-person narration. The author-hosted excerpt independently confirms that structure for Red Riding Hood, while the complete accessible transcription and a contemporaneous review corroborate additional tales. I/you forms in dialogue are local character speech, and the first-person introduction in the full transcription is paratext, so neither creates alternation. The two isolated comic rhymes have uncertain edition provenance and are nondiagnostic. The main residual limitation is that the whole-book transcription is not an authorized publisher source, but agreement among the Tier A excerpt, multiple supplied story passages, the cross-collection transcription, and the independent review supports THIRD with high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_028",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:20:06.209128+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1716dee5f58c2f5281655735919e9304e22bde1be639a459fb0a5e718fa0f817"
+  }
+}

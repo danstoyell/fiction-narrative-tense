@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1978:1023",
+  "quotes": [
+    {
+      "quote_id": "q02400",
+      "person_signal": "non_base",
+      "note": "Gnomic ship-and-human analogy; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q02401",
+      "person_signal": "third",
+      "note": "Broad historical exposition evaluates the peninsula and its states from a nonparticipating narratorial position."
+    },
+    {
+      "quote_id": "q02402",
+      "person_signal": "third",
+      "note": "External historical narration summarizes Lincoln's attitudes and actions without a participating narrator."
+    },
+    {
+      "quote_id": "q02403",
+      "person_signal": "third",
+      "note": "Despite the clipped ending, this is extended external historical exposition across societies and eras."
+    },
+    {
+      "quote_id": "q02404",
+      "person_signal": "unmarked",
+      "note": "Exposition about Quaker doctrine belongs to possible base narration, but generic 'one' does not independently identify person."
+    },
+    {
+      "quote_id": "q02405",
+      "person_signal": "non_base",
+      "note": "Script-like direct dialogue between a Catholic and a Quaker; its pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q02406",
+      "person_signal": "non_base",
+      "note": "Clipped bibliographic or paratextual reference, not story narration."
+    },
+    {
+      "quote_id": "q02407",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Pentaquod while accessing his feelings, decisions, and thoughts; the quoted thought is locally embedded."
+    },
+    {
+      "quote_id": "q02408",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic assertion about the Chesapeake, with no diagnostic narrative person."
+    },
+    {
+      "quote_id": "q02409",
+      "person_signal": "third",
+      "note": "Although clipped at the start, the passage sustains external scene narration of the expedition and its leaders."
+    },
+    {
+      "quote_id": "q02410",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unidentified 'her' is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q02411",
+      "person_signal": "non_base",
+      "note": "General maxim about decision-making, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q02412",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks the subject and surrounding narrative structure needed for attribution."
+    },
+    {
+      "quote_id": "q02413",
+      "person_signal": "non_base",
+      "note": "Standalone literary judgment in the gnomic bucket; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02414",
+      "person_signal": "third",
+      "note": "Extended generational summary externally narrates both Steed branches and their history."
+    },
+    {
+      "quote_id": "q02415",
+      "person_signal": "third",
+      "note": "External historical narration relates the war's aftermath and the legislature's action without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/769303407/Chesapeake-A-Novel",
+      "title": "Chesapeake by James A. Michener, Steve Berry (Ebook)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained licensed ebook preview opens with Voyage One and externally narrates Pentaquod's actions, memories, reasoning, and private conclusions in third person."
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/chesapeake-james-michener/",
+      "title": "Chesapeake by James A. Michener | Literature and Writing | Research Starters",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This article, excerpted from Magill's Survey of American Literature, explicitly states that the novel uses third-person omniscient point of view and describes its fourteen-episode, four-century structure."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-chesapeake-a-novel/styles.html",
+      "title": "James A. Michener Writing Styles in Chesapeake: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies a nonparticipating omniscient third-person narrator and supports the claim with narration concerning characters from Pentaquod in 1583 through Pusey Paxmore in 1978."
+    }
+  ],
+  "search_log": [
+    "Searched \"James A. Michener Chesapeake excerpt first chapter Pentaquod\" and opened the sustained Everand ebook preview.",
+    "Searched \"Chesapeake James Michener point of view third person narrator\" and opened explicit analyses from EBSCO and BookRags.",
+    "Searched \"Chesapeake Michener novel omniscient narrator narrative structure generations\"; EBSCO supplied whole-book structural evidence.",
+    "Searched \"publisher Chesapeake James A. Michener read excerpt\" and opened Penguin Random House, but its accessible page exposed catalog copy and a non-extractable Read Sample interface rather than usable prose.",
+    "Opened the Open Library record; it verified editions and preview availability but supplied no explicit person evidence, so it was retained only as a discovery dead end."
+  ],
+  "person_note": "The diagnostic quotes repeatedly show a nonparticipating narrator recounting scenes, private states, historical events, and family developments across widely separated eras. The sustained opening preview independently confirms that mode, while the EBSCO whole-book analysis explicitly identifies third-person omniscient narration across the novel's fourteen episodes; BookRags corroborates coverage from 1583 to 1978. Dialogue, aphorisms, paratext, and Pentaquod's locally quoted thought do not constitute alternate base narration. No credible first- or second-person section was found, and the main limitation is that the directly inspected sustained prose is from the opening rather than every episode.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_020",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T07:03:25.195221+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f4eaedeb7a0cd2ab917a6519d0213c7c10abaff583bf953a894f14d203f75a63"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:THE KNIGHT AND THE MOTH|Rachel Gillig",
+  "quotes": [
+    {
+      "quote_id": "q10055",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism; it does not cast a story protagonist as the narratee."
+    },
+    {
+      "quote_id": "q10056",
+      "person_signal": "non_base",
+      "note": "General aphorism with no diagnostic base-narrator pronoun."
+    },
+    {
+      "quote_id": "q10057",
+      "person_signal": "non_base",
+      "note": "Universal second person and inclusive 'we' express a maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q10058",
+      "person_signal": "first",
+      "note": "Although mostly dialogue, the narration beat 'My hammer collided' exposes the participating first-person narrator."
+    },
+    {
+      "quote_id": "q10059",
+      "person_signal": "first",
+      "note": "Specific first-person introspection by the participating narrator."
+    },
+    {
+      "quote_id": "q10060",
+      "person_signal": "non_base",
+      "note": "Character speech addressing another character; its pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q10061",
+      "person_signal": "first",
+      "note": "A constitutive retrospective narratorial address to Bartholomew: the speaker promises to tell 'this story' and identifies herself as its participating teller."
+    },
+    {
+      "quote_id": "q10062",
+      "person_signal": "non_base",
+      "note": "Vocative character speech to Bartholomew, not diagnostic narration."
+    },
+    {
+      "quote_id": "q10063",
+      "person_signal": "non_base",
+      "note": "Inclusive 'we' occurs in a universal reflection rather than participating story narration."
+    },
+    {
+      "quote_id": "q10064",
+      "person_signal": "non_base",
+      "note": "Dedication and direct address in paratext, outside the novel's base narration."
+    },
+    {
+      "quote_id": "q10065",
+      "person_signal": "first",
+      "note": "The narrator reports her own specific perception and indecision as 'I.'"
+    },
+    {
+      "quote_id": "q10066",
+      "person_signal": "non_base",
+      "note": "Universal second-person rhetorical question, not sustained protagonist narration."
+    },
+    {
+      "quote_id": "q10067",
+      "person_signal": "non_base",
+      "note": "Two turns of direct character speech with no diagnostic narration."
+    },
+    {
+      "quote_id": "q10068",
+      "person_signal": "non_base",
+      "note": "General statement about storytelling; no participating narrator is established locally."
+    },
+    {
+      "quote_id": "q10069",
+      "person_signal": "first",
+      "note": "The interposed narration 'That one took me a moment' exposes the participating first-person narrator despite surrounding dialogue."
+    },
+    {
+      "quote_id": "q10070",
+      "person_signal": "first",
+      "note": "The narrator recounts her own loss of faith and meeting another character in first person."
+    },
+    {
+      "quote_id": "q10071",
+      "person_signal": "non_base",
+      "note": "Predominantly direct speech; the third-person action beat does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q10072",
+      "person_signal": "non_base",
+      "note": "Character speech using a vocative; it does not expose base narration."
+    },
+    {
+      "quote_id": "q10073",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue, with only an externally phrased action beat that is not diagnostic by itself."
+    },
+    {
+      "quote_id": "q10074",
+      "person_signal": "first",
+      "note": "The narration beat 'I whispered against his lips' explicitly identifies the participating narrator."
+    },
+    {
+      "quote_id": "q10075",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and the brief third-person action beat does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q10076",
+      "person_signal": "first",
+      "note": "The embedded tale is speech, but surrounding beats such as 'my hand,' 'my hammer,' and 'my face' expose first-person base narration."
+    },
+    {
+      "quote_id": "q10077",
+      "person_signal": "first",
+      "note": "Dialogue is interleaved with first-person narrative beats including 'led me,' 'I murmured,' and 'my clothes.'"
+    },
+    {
+      "quote_id": "q10078",
+      "person_signal": "non_base",
+      "note": "A spoken promise with no contextual narration; speech 'I' is not base-person evidence."
+    },
+    {
+      "quote_id": "q10079",
+      "person_signal": "first",
+      "note": "The narrator participates in the scene and is the referent of 'Rory's eyes flitted to me.'"
+    },
+    {
+      "quote_id": "q10080",
+      "person_signal": "non_base",
+      "note": "Universal second-person advice, not story-specific second-person narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.orbit-books.co.uk/orbit-books-news/2025/06/03/read-an-extract-from-the-knight-and-the-moth-by-rachel-gillig/",
+      "title": "Read an extract from The Knight and the Moth by Rachel Gillig",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Orbit/Hachette's authorized Chapter One excerpt sustains Sybil's participating narration with repeated 'I' actions and perceptions."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/orbit-books/heat-up-your-valentines-day-with-an-exclusive-sneak-peek-of-the-knight-and-the-moth-by-rachel-gillig/",
+      "title": "Excerpt: The Knight and the Moth by Rachel Gillig",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "An authorized publisher excerpt from a later scene sustains the same first-person narrator through action, dialogue beats, perception, and interior response."
+    },
+    {
+      "url": "https://twohalvesonebrian.com/2026/03/11/the-knight-and-the-moth-by-rachel-gillig/",
+      "title": "The Knight and the Moth (Book 1), by Rachel Gillig",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A completed-book review explicitly identifies the novel as single-narrator first person from Six/Sybil Delling's point of view."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/655f5b79-d658-4488-b193-9a2e48ec3076",
+      "title": "Review by virtualangel \u2014 The Knight and the Moth",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A reviewer who reports finishing the novel repeatedly describes its protagonist perspective and narration as first person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Knight and the Moth\" Rachel Gillig excerpt first chapter; found and opened Orbit/Hachette's authorized Chapter One extract.",
+    "Searched the title with publisher-domain and excerpt terms; found and opened a separate Hachette interior scene with sustained first-person narration.",
+    "Searched the title with \"first person,\" \"POV,\" \"narrator,\" \"single POV,\" and \"Sybil's POV\"; opened explicit completed-book descriptions identifying a single first-person Sybil/Six narrator.",
+    "Searched the exact phrase \"You know this story, Bartholomew\" to investigate whether the apparent address signaled a separate narrator; results associated it with the book's recurring Bartholomew address and revealed no autonomous contrary-person section.",
+    "Searches for alternating, dual, frame, diary, and epistolary narration produced no credible evidence that this volume contains sustained base sections in another grammatical person; unrelated search snippets about other books or the sequel were disregarded."
+  ],
+  "person_note": "The Goodreads material repeatedly exposes a participating narrator through 'I,' 'me,' and 'my,' including narration beats embedded in dialogue-heavy quotations. The address to Bartholomew is consistent with that first-person teller's constitutive storytelling frame, not evidence of a separate second-person base. Authorized publisher excerpts independently show the same first-person voice in the opening and an interior scene, while completed-book reviews explicitly identify a single Sybil/Six first-person viewpoint. Speech, aphorisms, universal 'you/we,' and the dedication were excluded from person inference. No credible evidence of sustained narration in another person was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_092",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:34:09.052220+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "eee87f040bc630b2b3f38b0c293232421def7ea50833ef5fe51b35d57aca5a8a"
+  }
+}

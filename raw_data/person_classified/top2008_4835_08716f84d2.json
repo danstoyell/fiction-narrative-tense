@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:4835",
+  "quotes": [
+    {
+      "quote_id": "q01406",
+      "person_signal": "non_base",
+      "note": "General maxim; generic you does not identify narrative person."
+    },
+    {
+      "quote_id": "q01407",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive we, not story-specific participating narration."
+    },
+    {
+      "quote_id": "q01408",
+      "person_signal": "non_base",
+      "note": "Dialogue offering advice; you addresses the listener."
+    },
+    {
+      "quote_id": "q01409",
+      "person_signal": "non_base",
+      "note": "General observation about loneliness; no diagnostic narration."
+    },
+    {
+      "quote_id": "q01410",
+      "person_signal": "non_base",
+      "note": "Gnomic advice using generic our and you."
+    },
+    {
+      "quote_id": "q01411",
+      "person_signal": "non_base",
+      "note": "General advice about contemplation, not second-person storytelling."
+    },
+    {
+      "quote_id": "q01412",
+      "person_signal": "non_base",
+      "note": "Character speech about responsibility; no identifying narrative beat."
+    },
+    {
+      "quote_id": "q01413",
+      "person_signal": "non_base",
+      "note": "Spoken prayer; us and we belong to the prayer."
+    },
+    {
+      "quote_id": "q01414",
+      "person_signal": "first",
+      "note": "The narrator describes his own physical actions outside the quoted exchange."
+    },
+    {
+      "quote_id": "q01415",
+      "person_signal": "first",
+      "note": "Participating narrator reports his own perceptions, emotions, and resistance."
+    },
+    {
+      "quote_id": "q01416",
+      "person_signal": "non_base",
+      "note": "Dialogue containing a general comparison between animals and people."
+    },
+    {
+      "quote_id": "q01417",
+      "person_signal": "unclear",
+      "note": "First-person reflection is visible, but this clipped generalization does not establish whether the speaker is Eddie or an authorial/local voice."
+    },
+    {
+      "quote_id": "q01418",
+      "person_signal": "first",
+      "note": "The outside beat identifies the narrator as the recipient; publisher chapter context confirms Eddie's narration."
+    },
+    {
+      "quote_id": "q01419",
+      "person_signal": "non_base",
+      "note": "Advice addressed to a character; no diagnostic outside narration."
+    },
+    {
+      "quote_id": "q01420",
+      "person_signal": "first",
+      "note": "Outside speech beats identify the participating narrator, whom his mother addresses as Eddie."
+    },
+    {
+      "quote_id": "q01421",
+      "person_signal": "non_base",
+      "note": "Brief spoken advice; you is the addressee."
+    },
+    {
+      "quote_id": "q01422",
+      "person_signal": "unmarked",
+      "note": "Dialogue is nondiagnostic; the outside he continued beat alone does not identify narrator participation."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.net/books/The-Christmas-Sweater/Glenn-Beck/9781416595007",
+      "title": "The Christmas Sweater \u2014 Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Sustained Chapter One excerpt establishes Eddie as the participating narrator across the car journey and memories of his father's bakery. It also reproduces q01418 within that narration. The excerpt covers the opening chapter, not the whole novel."
+    },
+    {
+      "url": "https://www.barnesandnoble.com/w/the-christmas-sweater-glenn-beck/1100363985",
+      "title": "The Christmas Sweater \u2014 Barnes & Noble",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Short prose excerpt corroborates the same first-person opening; it supplies no independent interior coverage."
+    }
+  ],
+  "search_log": [
+    "Read TASK.md, PERSON_METHODOLOGY.md, PROMPT.md, book.json, quotes.csv, and result_schema.json.",
+    "Searched: Glenn Beck The Christmas Sweater excerpt chapter; The Christmas Sweater novel first person narrator Eddie.",
+    "Opened the Simon & Schuster novel page and read its sustained Chapter One excerpt, including the bakery memories and q01418.",
+    "Searched: \"The Christmas Sweater\" \"first person\"; \"The Christmas Sweater\" \"I wonder sometimes\"; \"The Christmas Sweater\" excerpt \"Sixteen\".",
+    "Searched: \"The Christmas Sweater\" \"narrator\" Beck Eddie; \"The Christmas Sweater\" \"excerpt\" Russell; \"The Christmas Sweater\" \"alternating\" narration. No reliable interior excerpt or explicit whole-book structural analysis was located.",
+    "Search results included the separate picture-book adaptation, audiobook performer credits, automated summaries, and a review discussing its own first-person style; these were not used as novel-person evidence.",
+    "Opened Barnes & Noble; its visible sample corroborated only the opening."
+  ],
+  "person_note": "Eddie controls the narrative as a participating first-person narrator. The sustained authorized opening and supplied action passages and speech beats agree, including an exchange explicitly naming Eddie. Generic pronouns in maxims, prayers, and dialogue do not imply another narrative person. q01417 remains locally uncertain and is unnecessary to the decision. The main limitation is the absence of independently verified interior web excerpts or whole-book structural analysis; no credible contrary narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_046",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T17:11:43.272573+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "87961687e9adadc52631d0acd4c6c951f3d653de2912a56dd8139d6f5beae1e0"
+  }
+}

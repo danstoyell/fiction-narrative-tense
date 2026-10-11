@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:IDENTITY|Nora Roberts",
+  "quotes": [
+    {
+      "quote_id": "q08347",
+      "person_signal": "non_base",
+      "note": "Attributed universal aphorism; it does not expose the novel's base narrator."
+    },
+    {
+      "quote_id": "q08348",
+      "person_signal": "non_base",
+      "note": "Character speech addressing another character; its pronouns are not narratorial."
+    },
+    {
+      "quote_id": "q08349",
+      "person_signal": "non_base",
+      "note": "Two-speaker dialogue exchange, not base narration."
+    },
+    {
+      "quote_id": "q08350",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph by John Milton, not the novel's narrator."
+    },
+    {
+      "quote_id": "q08351",
+      "person_signal": "non_base",
+      "note": "A grandmother's first-person speech to a grandchild, not base narration."
+    },
+    {
+      "quote_id": "q08352",
+      "person_signal": "unmarked",
+      "note": "Possible third-person scene prose describing a character's feeling, but this isolated sentence does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q08353",
+      "person_signal": "non_base",
+      "note": "Direct advice addressed by one character to another."
+    },
+    {
+      "quote_id": "q08354",
+      "person_signal": "non_base",
+      "note": "General proverb without diagnostic story narration."
+    },
+    {
+      "quote_id": "q08355",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08356",
+      "person_signal": "non_base",
+      "note": "Universal second-person generalization about divorce."
+    },
+    {
+      "quote_id": "q08357",
+      "person_signal": "non_base",
+      "note": "Character speech referring to the addressee's experience."
+    },
+    {
+      "quote_id": "q08358",
+      "person_signal": "non_base",
+      "note": "General observation about daughters rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q08359",
+      "person_signal": "non_base",
+      "note": "Conversational first-person aside spoken by a character."
+    },
+    {
+      "quote_id": "q08360",
+      "person_signal": "non_base",
+      "note": "Character speech combining direct address with conversational 'us.'"
+    },
+    {
+      "quote_id": "q08361",
+      "person_signal": "non_base",
+      "note": "Emphatic first-person character speech, not the controlling narrative voice."
+    },
+    {
+      "quote_id": "q08362",
+      "person_signal": "non_base",
+      "note": "Vocative character speech addressed to 'baby.'"
+    },
+    {
+      "quote_id": "q08363",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism about love, not base second-person narration."
+    },
+    {
+      "quote_id": "q08364",
+      "person_signal": "non_base",
+      "note": "Present-tense maxim rather than story narration."
+    },
+    {
+      "quote_id": "q08365",
+      "person_signal": "non_base",
+      "note": "Explicit question-and-answer dialogue exchange."
+    },
+    {
+      "quote_id": "q08366",
+      "person_signal": "non_base",
+      "note": "Sustained character speech directly addressing a victimized woman."
+    },
+    {
+      "quote_id": "q08367",
+      "person_signal": "non_base",
+      "note": "Conversational analysis by a character; its first and second persons are not narratorial."
+    },
+    {
+      "quote_id": "q08368",
+      "person_signal": "non_base",
+      "note": "Spoken analysis of case evidence; the pronouns refer to discussed characters, not a base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250893390/identity/",
+      "title": "Identity: A Novel \u2014 Nora Roberts",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter One excerpt narrates Morgan externally as she/her while presenting her actions, perceptions, and thoughts in third-person past narration."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9781250284112",
+      "title": "Identity by Nora Roberts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review establishes that the novel switches among Morgan's, the killer's, and FBI pursuers' viewpoints, but it does not explicitly identify their grammatical narrative person."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/identity",
+      "title": "Identity",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes the writing as third-person omniscient and says readers receive Morgan's, Miles's, and the killer's thoughts."
+    }
+  ],
+  "search_log": [
+    "Searched \"Nora Roberts Identity 2023 excerpt first chapter publisher\" and opened the Macmillan publisher excerpt.",
+    "Searched \"Identity Nora Roberts point of view third person novel\" and variants for third-person, narrator, POV changes, and multiple narrators.",
+    "Opened Publishers Weekly's review to assess the whole-book viewpoint structure.",
+    "Opened Bookreporter's review, which explicitly identifies third-person omniscient narration across multiple characters.",
+    "Checked Hachette UK's title page and excerpt link; the accessible page exposed promotional copy rather than excerpt prose.",
+    "Checked Google Books results; the relevant editions reported no accessible preview."
+  ],
+  "person_note": "The authorized opening is sustained third-person narration centered on Morgan, and a whole-book review explicitly identifies third-person omniscient writing that also enters Miles's and the killer's thoughts. Publishers Weekly independently confirms multiple focal viewpoints, with no indication that any becomes a sustained first- or second-person narrator. The Goodreads set is dominated by dialogue, aphorisms, and paratext; its lone event sentence is compatible with third person but too short to establish the controlling narrator independently. Because quote evidence is not diagnostic and only one Tier A/B source directly supports THIRD, confidence is medium rather than high.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_082",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:20:42.240873+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "44899ea1c272f4d98701c97e293982a9a759d6d78038eecc18817a73bd1e0eae"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:6126",
+  "quotes": [
+    {
+      "quote_id": "q04899",
+      "person_signal": "non_base",
+      "note": "First-person wording occurs in a general reflection on friendship, not a story-specific narrated event."
+    },
+    {
+      "quote_id": "q04900",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement with no diagnostic base-narrator reference."
+    },
+    {
+      "quote_id": "q04901",
+      "person_signal": "non_base",
+      "note": "Universal reflection on emotional health rather than story-specific narration."
+    },
+    {
+      "quote_id": "q04902",
+      "person_signal": "non_base",
+      "note": "Character dialogue; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q04903",
+      "person_signal": "non_base",
+      "note": "General reflection on life and change, despite the Trevor attribution in Goodreads apparatus."
+    },
+    {
+      "quote_id": "q04904",
+      "person_signal": "first",
+      "note": "Trevor directly narrates his own beliefs, loss, perceptions, and present emotional state using I, my, and me."
+    },
+    {
+      "quote_id": "q04905",
+      "person_signal": "non_base",
+      "note": "Universal rhetorical reflection about aging, not story-specific narration."
+    },
+    {
+      "quote_id": "q04906",
+      "person_signal": "non_base",
+      "note": "Imperative advice; the implied you is generic rather than a second-person protagonist."
+    },
+    {
+      "quote_id": "q04907",
+      "person_signal": "first",
+      "note": "The participating narrator identifies family relationships and recounts what his grandfather told him."
+    },
+    {
+      "quote_id": "q04908",
+      "person_signal": "non_base",
+      "note": "Standalone proverb with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q04909",
+      "person_signal": "first",
+      "note": "The narration includes the first-person dialogue tag I said and Trevor's story-specific internal realization."
+    },
+    {
+      "quote_id": "q04910",
+      "person_signal": "first",
+      "note": "Trevor narrates his own relationship desires using I and neither of us."
+    },
+    {
+      "quote_id": "q04911",
+      "person_signal": "first",
+      "note": "Trevor narrates a scene and explicitly compares Natalie with himself using I, me, and my."
+    },
+    {
+      "quote_id": "q04912",
+      "person_signal": "first",
+      "note": "The spoken pronouns are nondiagnostic, but the external first-person dialogue tag I said identifies the participating narrator."
+    },
+    {
+      "quote_id": "q04913",
+      "person_signal": "unclear",
+      "note": "The clipped clause contains I but lacks enough context to distinguish base narration from stripped speech."
+    },
+    {
+      "quote_id": "q04914",
+      "person_signal": "non_base",
+      "note": "Generic advice about guilt; you is universal rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q04915",
+      "person_signal": "first",
+      "note": "Trevor retrospectively narrates his own actions, feelings, and changed understanding using I, me, and my."
+    },
+    {
+      "quote_id": "q04916",
+      "person_signal": "non_base",
+      "note": "General factual advice about honey; you refers generically to consumers."
+    },
+    {
+      "quote_id": "q04917",
+      "person_signal": "non_base",
+      "note": "Although phrased with I, this is an isolated gnomic conclusion rather than story-specific event narration."
+    },
+    {
+      "quote_id": "q04918",
+      "person_signal": "first",
+      "note": "The participating narrator reports his observation and prior belief using I."
+    },
+    {
+      "quote_id": "q04919",
+      "person_signal": "unmarked",
+      "note": "Expository history about bees contains third-person subjects but does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q04920",
+      "person_signal": "first",
+      "note": "Trevor narrates his own present knowledge and relationship assessment using I and we."
+    },
+    {
+      "quote_id": "q04921",
+      "person_signal": "non_base",
+      "note": "An embedded joke has its own characters and dialogue and does not represent the novel's base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.littlebrown.co.uk/little-brown-news/2020/09/16/an-exclusive-extract-from-nicholas-sparks-the-return/",
+      "title": "An Exclusive Extract from Nicholas Sparks\u2019 The Return",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher's sustained prologue and Chapter 1 extract identifies Trevor Benson as I, presents him as the teller of past events, and continues in first-person narration."
+    },
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-22.2020.09-the-return.pdf",
+      "title": "The Return \u2014 Official PDF Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized 18-page prologue and opening-chapter excerpt sustains Trevor's participating first-person narration across the 2019 frame and 2014 story."
+    },
+    {
+      "url": "https://booktrib.com/2020/10/07/afghanistan-veteran-finds-sweet-healing-among-the-bees-in-the-return/",
+      "title": "Afghanistan Vet Finds Love and Sweet Healing in New Nicholas Sparks Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes the novel as a first-person account and discusses Trevor as the character through whom both plot strands unfold."
+    },
+    {
+      "url": "https://nicholassparks.com/work/the-return/",
+      "title": "Nicholas Sparks \u2014 The Return",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The author's official book page supplies several first-person quotations from later situations involving Trevor, corroborating that first-person narration extends beyond the opening."
+    },
+    {
+      "url": "https://opesopinions.com/2020/12/04/the-return/",
+      "title": "The Return | Ope's Opinions",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The completed-book review states that the story is told solely from Trevor's point of view, supporting a single controlling narrator rather than alternating sections."
+    }
+  ],
+  "search_log": [
+    "Searched Nicholas Sparks The Return 2020 excerpt, first chapter, and Trevor Benson; found and opened the Little, Brown authorized extract and Nicholas Sparks official PDF.",
+    "Searched The Return Nicholas Sparks point of view, first person, narrator, and narrated in first person; found and opened BookTrib's explicit whole-book description.",
+    "Searched for alternating point of view and multiple narrators; found no credible indication of sustained narration by anyone other than Trevor.",
+    "Opened the Nicholas Sparks book page for authorized interior quotations and an independent completed-book review stating that the story is solely from Trevor's point of view.",
+    "Attempted to open the Bookreporter excerpt, but the page timed out; it was not used as evidence."
+  ],
+  "person_note": "The base narration is Trevor Benson's participating first-person retrospective account. Multiple event quotes from different pages independently show Trevor narrating his own perceptions, actions, memories, and relationships as I, while the authorized opening sustains the same voice across both the 2019 prologue frame and the 2014 main story. Whole-book reviews explicitly describe a first-person account told solely from Trevor's point of view, and official interior quotations corroborate continuation beyond the opening. Dialogue, aphorisms, generic you statements, factual bee exposition, and the embedded joke do not create competing narrative persons. The only unresolved local item is the clipped q04913, which could be narration or speech but does not challenge the otherwise consistent structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_073",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:09:00.339495+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e081c44c0cffe45fa88efeb36af8da74401a4ae7caa3cf228070ea89db318671"
+  }
+}

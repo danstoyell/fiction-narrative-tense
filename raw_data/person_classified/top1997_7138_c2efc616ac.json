@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:7138",
+  "quotes": [
+    {
+      "quote_id": "q00050",
+      "person_signal": "non_base",
+      "note": "Gnomic, universal \u201cwe\u201d does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; the bare speech beat does not establish base narrative person."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "non_base",
+      "note": "Aphoristic exclamation contains no diagnostic base-narrator marker."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI thought\u201d directly exposes the participating narrator."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "first",
+      "note": "The narrator uses \u201cI\u201d to recall people she could not save or farewell."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "non_base",
+      "note": "Gnomic \u201cyour\u201d is universal address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "unclear",
+      "note": "The quotation is clipped before \u201clike,\u201d removing the grammatical subject needed for a reliable signal."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "General aphorism about songs; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "first",
+      "note": "Participating narration is marked by the possessives \u201cmy Mozart\u201d and \u201cmy Beethoven.\u201d"
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "first",
+      "note": "The narrator\u2019s \u201cI\u2019ve been all my life\u201d gives autobiographical first-person reflection; generic \u201cyou\u201d is rhetorical."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "first",
+      "note": "Repeated \u201cI played\u201d directly reports the narrator\u2019s own action."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "first",
+      "note": "\u201cMy Dark Heart\u201d and \u201cmy broken life\u201d expose the narrator\u2019s personal perspective."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "unmarked",
+      "note": "Description of Stefan is compatible with a first-person observer but lacks a visible narrator marker."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "unmarked",
+      "note": "Evaluative narration contains no pronoun identifying the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "unmarked",
+      "note": "Description of the saint does not reveal whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "first",
+      "note": "Inclusive \u201cus\u201d and \u201cour\u201d place the narrator among the remembered family group."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "first",
+      "note": "Sustained scene narration uses \u201cI,\u201d \u201cmy,\u201d and reports what the narrator sees and does."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "first",
+      "note": "\u201cI think\u201d and the reference to the narrator\u2019s mother expose participating narration."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "first",
+      "note": "\u201cMe\u201d casts the narrator as the story-specific witness to another character\u2019s torment."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "non_base",
+      "note": "Personified, gnomic statements about grief do not identify base narration."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "first",
+      "note": "Despite its clipped opening, \u201cI would mourn you forever\u201d clearly places the narrator within the loss being recalled."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "unmarked",
+      "note": "The walking figure and \u201cyou\u201d are generic analogy, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00072",
+      "person_signal": "non_base",
+      "note": "Surrounding context presents \u201cI know your pain\u201d as words heard or implied through the music, a local voice addressing Triana."
+    },
+    {
+      "quote_id": "q00073",
+      "person_signal": "non_base",
+      "note": "Direct character speech cannot determine the controlling narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00074",
+      "person_signal": "unmarked",
+      "note": "The scene-transition description of the sea contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q00075",
+      "person_signal": "unmarked",
+      "note": "This clipped descriptive fragment does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00076",
+      "person_signal": "first",
+      "note": "Inclusive \u201call of us\u201d places the narrator within the group interpreting Beethoven."
+    },
+    {
+      "quote_id": "q00077",
+      "person_signal": "first",
+      "note": "\u201cMy happy guardian\u201d and \u201cI called him\u201d directly expose first-person narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/ec/novela-romantica/8129-libro-violin-9788490705216/fragmento",
+      "title": "Viol\u00edn \u2014 Fragmento | Penguin Libros",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Opened authorized publisher excerpt of the Spanish translation. The proem identifies the account as the narrator\u2019s own life, tragedy, and triumph, and the sustained opening chapter has Triana narrate her actions, memories, home, and Karl\u2019s death as yo/me/mi."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/153728/violin-by-anne-rice/",
+      "title": "Violin by Anne Rice | PenguinRandomHouse.com",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publisher page identifies the complete novel and reproduces a Cleveland Plain Dealer description that the tale is told from Triana\u2019s point of view; its synopsis follows Triana and Stefan through the climax."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780679433026",
+      "title": "Violin by Anne Rice | Publishers Weekly",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The full-book review explicitly identifies Triana as the narrator, describes her distinctive voice, and follows her through Stefan\u2019s past and her later return to the present and journey to Brazil."
+    },
+    {
+      "url": "https://bolhafner.com/stevesreads/violin.html",
+      "title": "Musical Madness Played on Unusual Stradivarius \u2014 \u201cViolin\u201d Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Contemporary St. Louis Post-Dispatch review explicitly calls Triana the narrator and discusses how her narration changes in style as the book progresses."
+    },
+    {
+      "url": "https://www.spokesman.com/stories/1997/oct/26/violin-a-great-read/",
+      "title": "\u2018Violin\u2019 A Great Read | The Spokesman-Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Contemporary Dallas Morning News review explicitly calls Triana Rice\u2019s narrator and describes her narration of her name, family history, Stefan\u2019s past, and the later struggle over the violin."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cAnne Rice Violin novel excerpt publisher first chapter\u201d and related excerpt queries; located Penguin Random House publisher pages and authorized excerpts.",
+    "Opened the sustained Penguin Libros fragment, including the proem and chapter 1; it provides Tier A first-person evidence in an authorized translation.",
+    "Located the English Penguin Random House Higher Education excerpt, but direct opening repeatedly timed out; it was not needed because the opened Penguin Libros fragment supplied equivalent Tier A evidence.",
+    "Searched \u201cAnne Rice Violin narrator first person Triana point of view\u201d and opened Penguin Random House, Publishers Weekly, St. Louis Post-Dispatch, and Dallas Morning News/Spokesman-Review material.",
+    "Searched targeted Kirkus, Library Journal, scholarly-analysis, epistolary, frame-narrative, and alternating-POV combinations; no credible source described sustained narration in another person.",
+    "Checked Google Books, but its limited/snippet view did not establish narrative structure and was not used as supporting evidence.",
+    "An exact-quotation search supplied surrounding context showing q00072\u2019s first-person wording is an implied voice in the music; the non-authoritative full-text host was used only for local attribution and not as book-level web evidence.",
+    "A UPRM scholarly PDF surfaced during research, but its discussion centered on autobiography in the Vampire Chronicles rather than Violin\u2019s whole-book person, so it was not used as structural evidence."
+  ],
+  "person_note": "Triana is the participating controlling narrator. Numerous independent quote passages expose her as \u201cI\u201d across memories, observation, performance, grief, and family history. The Tier A publisher excerpt independently establishes sustained first-person self-narration in the proem and opening chapter, while several contemporary whole-book reviews explicitly identify Triana as narrator and trace that voice through later Vienna and Brazil material. Third-person references to Stefan are objects of Triana\u2019s narration, not evidence of a nonparticipating narrator; dialogue, aphorisms, and the voice implied by music are local material. The authorized excerpt is opening-scoped, but the interior quote sample and multiple whole-book descriptions extend the evidence beyond it. No credible evidence of sustained narration in another person was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_031",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:41:53.694558+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "edae8b8a94c6fb3d8128098374279dd423d4f127dac483f8569a8d313d9b859d"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1987:3480",
+  "quotes": [
+    {
+      "quote_id": "q02909",
+      "person_signal": "non_base",
+      "note": "Aphoristic gnomic statement with no narrating character."
+    },
+    {
+      "quote_id": "q02910",
+      "person_signal": "non_base",
+      "note": "Direct speech; \u201cyou\u201d addresses another character rather than the protagonist through base narration."
+    },
+    {
+      "quote_id": "q02911",
+      "person_signal": "non_base",
+      "note": "Direct speech dominates, and the brief \u201cEvans said\u201d attribution does not establish the base narrator."
+    },
+    {
+      "quote_id": "q02912",
+      "person_signal": "third",
+      "note": "Sustained external exposition describes professional soldiers and their collective attitudes from a nonparticipating position."
+    },
+    {
+      "quote_id": "q02913",
+      "person_signal": "third",
+      "note": "Several sentences narrate Sally and her father externally, including Sally\u2019s disposition and past conduct."
+    },
+    {
+      "quote_id": "q02914",
+      "person_signal": "non_base",
+      "note": "Universal gnomic observation rather than character-specific narration."
+    },
+    {
+      "quote_id": "q02915",
+      "person_signal": "non_base",
+      "note": "Direct address within dialogue; \u201cyou\u201d is not second-person base narration."
+    },
+    {
+      "quote_id": "q02916",
+      "person_signal": "non_base",
+      "note": "Dialogue containing a general explanation, not narratorial self-reference."
+    },
+    {
+      "quote_id": "q02917",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to a character speaking to an enemy."
+    },
+    {
+      "quote_id": "q02918",
+      "person_signal": "non_base",
+      "note": "The generic \u201cyou\u201d occurs in an embedded lesson or speech-like maxim and does not cast the protagonist as narratee."
+    },
+    {
+      "quote_id": "q02919",
+      "person_signal": "non_base",
+      "note": "Attributed Edmund Burke epigraph, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q02920",
+      "person_signal": "unmarked",
+      "note": "Possible base narration reports a man\u2019s memory, but the short clipped passage alone does not establish the controlling narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q02921",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; the short Jackson action and speech beats are insufficient by themselves to identify base person."
+    },
+    {
+      "quote_id": "q02922",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about terrorism rather than a diagnostic narrative passage."
+    },
+    {
+      "quote_id": "q02923",
+      "person_signal": "non_base",
+      "note": "The repeated \u201cwe\u201d occurs in a character\u2019s policy argument, not participating narration."
+    },
+    {
+      "quote_id": "q02924",
+      "person_signal": "unmarked",
+      "note": "Abstract narratorial exposition contains no diagnostic narrator reference or sustained character scene."
+    },
+    {
+      "quote_id": "q02925",
+      "person_signal": "non_base",
+      "note": "A general maxim presented as dialogue."
+    },
+    {
+      "quote_id": "q02926",
+      "person_signal": "unclear",
+      "note": "The subject and surrounding sentence boundaries are lost to clipping, preventing responsible attribution."
+    },
+    {
+      "quote_id": "q02927",
+      "person_signal": "third",
+      "note": "Despite edge clipping, the intact sequence sustains external narration of a man\u2019s curiosity, perceptions, and body as \u201che\u201d and \u201chis.\u201d"
+    },
+    {
+      "quote_id": "q02928",
+      "person_signal": "non_base",
+      "note": "Author-attributed paratextual maxim, not story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780425269404",
+      "title": "Patriot Games | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter 1 excerpt sustains external narration of Ryan as \u201che,\u201d while entering his thoughts through third-person narration. Its isolated first-person sentence is Ryan\u2019s direct thought, not a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-patriot-games/style.html",
+      "title": "Tom Clancy Writing Styles in Patriot Games",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened study-guide analysis explicitly describes an omniscient third-person narrator using numerous character viewpoints throughout the story."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cPatriot Games Tom Clancy excerpt first chapter,\u201d \u201cpoint of view third person narrator,\u201d \u201cGoogle Books preview,\u201d and \u201cInternet Archive text.\u201d",
+    "Opened and reviewed the Penguin Random House authorized Chapter 1 excerpt, the Tom Clancy website PDF excerpt, Google Books metadata/preview page, and BookRags point-of-view analysis.",
+    "Searched specifically for \u201cPatriot Games\u201d with \u201cfirst person,\u201d \u201calternating point of view,\u201d and \u201comniscient narrator\u201d; results corroborated third-person omniscience and produced no credible evidence of sustained first-person, second-person, or alternating base sections.",
+    "Google Books and Open Library supplied bibliographic or limited-preview material but no additional accessible structural evidence, so they were not used as person-supporting sources."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person, moving among character viewpoints. Multiple interior Goodreads passages expose external narration of Sally, Ryan, and others, while dialogue, maxims, the Burke epigraph, and Clancy-attributed paratext were excluded from base-person inference. The authorized opening independently shows sustained third-person narration; its momentary \u201cI\u201d is free-direct thought belonging to Ryan, not a narrator switch. The whole-book point-of-view description corroborates third-person omniscience, and targeted research found no alternating structure. The main limitation is that the Tier A prose covers only the opening, mitigated by the interior quote evidence and explicit whole-book description.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_024",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T15:39:25.056376+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "19bf1c33ce220920d05034afd01b0fff9c39700669fa0bfc4b0a82b9bf35aa7a"
+  }
+}

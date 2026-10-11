@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:CAMINO GHOSTS|John Grisham",
+  "quotes": [
+    {
+      "quote_id": "q09098",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally names several characters and reports their perceptions and unspoken reactions without a participating narrator."
+    },
+    {
+      "quote_id": "q09099",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; its first- and second-person pronouns identify speakers and addressees, not the base narrator."
+    },
+    {
+      "quote_id": "q09100",
+      "person_signal": "third",
+      "note": "Authorial narration describes Camino Island gossip and Floridians collectively from a nonparticipating position."
+    },
+    {
+      "quote_id": "q09101",
+      "person_signal": "non_base",
+      "note": "Lovely's first-person claim occurs in direct speech and is not base narration."
+    },
+    {
+      "quote_id": "q09102",
+      "person_signal": "unmarked",
+      "note": "The brief outside beat may be base narration, but most of the passage is Steven's speech and the beat alone does not securely identify narrator participation."
+    },
+    {
+      "quote_id": "q09103",
+      "person_signal": "third",
+      "note": "Sustained external description presents Lovely and Miss Naomi as third-person characters; the final word is clipped but does not undermine the visible narration."
+    },
+    {
+      "quote_id": "q09104",
+      "person_signal": "non_base",
+      "note": "This historical Dark Isle episode belongs to the embedded ancestral story associated with Lovely's memoir, so it should not independently identify the modern base narrator."
+    },
+    {
+      "quote_id": "q09105",
+      "person_signal": "non_base",
+      "note": "The Nalla episode is part of Lovely's embedded historical account rather than an autonomous change in base narrative person."
+    },
+    {
+      "quote_id": "q09106",
+      "person_signal": "non_base",
+      "note": "A clipped fragment from the embedded Joseph and Nalla history; its third-person wording is not base-person evidence."
+    },
+    {
+      "quote_id": "q09107",
+      "person_signal": "non_base",
+      "note": "A clipped passage from Lovely's embedded ancestral narrative, not diagnostic of the modern base narrator."
+    },
+    {
+      "quote_id": "q09108",
+      "person_signal": "non_base",
+      "note": "Bruce's first-person phrase occurs entirely within direct dialogue."
+    },
+    {
+      "quote_id": "q09109",
+      "person_signal": "non_base",
+      "note": "Web context identifies this historical exposition as text quoted from Lovely's book within the novel."
+    },
+    {
+      "quote_id": "q09110",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence lacks a referent and narratorial frame, so it cannot securely distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q09111",
+      "person_signal": "non_base",
+      "note": "Question and answer are direct dialogue; the pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q09112",
+      "person_signal": "unmarked",
+      "note": "This clipped historical statement contains no visible narratorial participant or adequately framed story character, so the quote alone is nondiagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/camino-ghosts/excerpt",
+      "title": "Camino Ghosts by John Grisham | Excerpt | Bookreporter.com",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter One excerpt sustains external narration across Mercer, Thomas, Bruce, and other characters, including access to several characters' thoughts, with no participating narrator."
+    },
+    {
+      "url": "https://www.supersummary.com/camino-ghosts/chapters-1-3-summary/",
+      "title": "Camino Ghosts Chapters 1-3 Summary & Analysis | SuperSummary",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies an omniscient narrator and explains that Lovely's memoir supplies the embedded Nalla history in Chapters 1-3."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/3abbce11-676f-4d9f-b554-3f4451ba5509",
+      "title": "Review by jennifermreads - Camino Ghosts | The StoryGraph",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reader's whole-book review explicitly calls the novel's narrative style third person and separately describes Lovely's ancestors' account as a story within the story; useful corroboration but weak authority."
+    }
+  ],
+  "search_log": [
+    "Searched \"Camino Ghosts\" \"John Grisham\" excerpt and opened the Bookreporter Chapter One excerpt, which states that it is reproduced with publisher permission.",
+    "Searched \"Camino Ghosts\" with third-person, omniscient, point-of-view, narrator, and narrative-perspective terms; opened SuperSummary's explicit omniscient-narrator analysis and the StoryGraph review describing third-person narration.",
+    "Searched publisher and author domains, including site:jgrisham.com and Penguin Random House; the official Penguin Random House page verified the work and offered a sample button, but its accessible text was synopsis rather than diagnostic prose.",
+    "Searched for alternating narrators, multiple narrators, frame narrative, story-within-a-story, epistolary form, diary, and memoir narration; results documented Lovely's embedded memoir but found no sustained base-person alternation.",
+    "Ran exact-phrase searches for the Nalla, Joseph, Fancher, and Jefferson passages. They located contextual reproductions showing that several historical quotes come from Lovely's book and that the Jefferson fragment sits inside a later third-person scene; unauthorized reading sites were not promoted to usable web evidence.",
+    "Audiobook pages and press releases were inspected but discarded as person evidence because their use of \"narrator\" referred to performer Whoopi Goldberg, not grammatical narrative person."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and omniscient third person: the Goodreads material repeatedly presents modern characters externally and sometimes reports their private reactions, while the authorized opening and an explicit structural guide agree. First- and second-person forms in the quotes are dialogue. Several Nalla and Joseph passages belong to Lovely's book-within-the-book; they are embedded historical material and do not establish a different base person. No research source showed sustained first- or second-person chapters or person alternation. The main limitation is that the authorized prose source covers only the opening, but the interior quote evidence and weaker whole-book corroboration reveal no contrary structure.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.273893+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ac5b288267bbb3b471e942a10b77571714eebd3c067227bb4602715621cf92a7"
+  }
+}

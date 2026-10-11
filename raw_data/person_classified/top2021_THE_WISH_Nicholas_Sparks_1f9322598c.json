@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:THE WISH|Nicholas Sparks",
+  "quotes": [
+    {
+      "quote_id": "q05703",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q05704",
+      "person_signal": "non_base",
+      "note": "Direct speech posing a general question, not narratorial evidence."
+    },
+    {
+      "quote_id": "q05705",
+      "person_signal": "non_base",
+      "note": "Direct advice in dialogue; its pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q05706",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic 'you,' not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q05707",
+      "person_signal": "non_base",
+      "note": "Universal maxim; generic 'we' does not expose the narrator."
+    },
+    {
+      "quote_id": "q05708",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q05709",
+      "person_signal": "non_base",
+      "note": "Attributed speech by Mark Price, not base narration."
+    },
+    {
+      "quote_id": "q05710",
+      "person_signal": "non_base",
+      "note": "Gnomic claim without a narrating participant."
+    },
+    {
+      "quote_id": "q05711",
+      "person_signal": "first",
+      "note": "Maggie narrates her remembered experience as 'I' in the sustained past-story section."
+    },
+    {
+      "quote_id": "q05712",
+      "person_signal": "non_base",
+      "note": "The reference to a woman as 'the one' indicates locally quoted first-person speech rather than Maggie's controlling past narration."
+    },
+    {
+      "quote_id": "q05713",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic and addressed 'you,' not second-person base narration."
+    },
+    {
+      "quote_id": "q05714",
+      "person_signal": "non_base",
+      "note": "Gnomic material presented as dialogue; it does not identify the narrator."
+    },
+    {
+      "quote_id": "q05715",
+      "person_signal": "third",
+      "note": "Sustained frame narration externally recounts Maggie's illness as 'she'; the closing 'I' is her direct thought."
+    },
+    {
+      "quote_id": "q05716",
+      "person_signal": "unmarked",
+      "note": "Narratorial or reflective prose, but no narrator-participation marker appears."
+    },
+    {
+      "quote_id": "q05717",
+      "person_signal": "unmarked",
+      "note": "A brief report about 'she' is compatible with either a participating or nonparticipating narrator."
+    },
+    {
+      "quote_id": "q05718",
+      "person_signal": "non_base",
+      "note": "Gnomic dialogue with generic 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q05719",
+      "person_signal": "first",
+      "note": "A participating narrator describes her own experience using 'me' and 'my.'"
+    },
+    {
+      "quote_id": "q05720",
+      "person_signal": "first",
+      "note": "The narrator participates in the relationship described as 'we' and 'each other.'"
+    },
+    {
+      "quote_id": "q05721",
+      "person_signal": "unmarked",
+      "note": "Clipped generalization without a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q05722",
+      "person_signal": "first",
+      "note": "The narrator explicitly participates as 'I' while recalling a witnessed event."
+    },
+    {
+      "quote_id": "q05723",
+      "person_signal": "unmarked",
+      "note": "The brief external speech beat about 'she' does not by itself establish whether an observing narrator participates."
+    },
+    {
+      "quote_id": "q05724",
+      "person_signal": "non_base",
+      "note": "Dialogue and its speech beat; pronouns belong to the characters."
+    },
+    {
+      "quote_id": "q05725",
+      "person_signal": "non_base",
+      "note": "Direct speech with a speech tag, not controlling narration."
+    },
+    {
+      "quote_id": "q05726",
+      "person_signal": "non_base",
+      "note": "Clear spoken address; 'you' is not a narratively cast protagonist."
+    },
+    {
+      "quote_id": "q05727",
+      "person_signal": "third",
+      "note": "The frame externally narrates Maggie's actions and knowledge; her quoted 'I' begins the embedded oral account."
+    },
+    {
+      "quote_id": "q05728",
+      "person_signal": "first",
+      "note": "Sustained participating narration repeatedly uses 'I,' 'me,' and 'my' for Maggie's past."
+    },
+    {
+      "quote_id": "q05729",
+      "person_signal": "non_base",
+      "note": "Direct relationship dialogue, not narratorial first-person evidence."
+    },
+    {
+      "quote_id": "q05730",
+      "person_signal": "non_base",
+      "note": "A quoted aphorism within dialogue, not base narration."
+    },
+    {
+      "quote_id": "q05731",
+      "person_signal": "third",
+      "note": "Long, sustained frame scene externally narrates Maggie and Mark as 'she' and 'he,' including Maggie's private perceptions."
+    },
+    {
+      "quote_id": "q05732",
+      "person_signal": "non_base",
+      "note": "Gnomic description of photographers without diagnostic narrator person."
+    },
+    {
+      "quote_id": "q05733",
+      "person_signal": "third",
+      "note": "Story-specific habitual summary externally names Maggie and reports her prior decision."
+    },
+    {
+      "quote_id": "q05734",
+      "person_signal": "non_base",
+      "note": "Dialogue, including a speaker's first-person retrospective, not base narration."
+    },
+    {
+      "quote_id": "q05735",
+      "person_signal": "first",
+      "note": "The participating narrator describes what 'I' observed about Bryce."
+    },
+    {
+      "quote_id": "q05736",
+      "person_signal": "first",
+      "note": "The narrator contrasts herself with another character using 'I' and 'me.'"
+    },
+    {
+      "quote_id": "q05737",
+      "person_signal": "first",
+      "note": "Sustained scene narration presents Maggie's actions, perceptions, and relationship as 'I,' 'my,' and 'me.'"
+    },
+    {
+      "quote_id": "q05738",
+      "person_signal": "unmarked",
+      "note": "A bare report of Bryce's death lacks enough context to identify the narrator or quotation status."
+    },
+    {
+      "quote_id": "q05739",
+      "person_signal": "third",
+      "note": "Frame narration externally recounts Maggie's perception and Mark's actions as 'she' and 'he.'"
+    },
+    {
+      "quote_id": "q05740",
+      "person_signal": "non_base",
+      "note": "Conversation with speech beats; first-person pronouns occur inside dialogue."
+    },
+    {
+      "quote_id": "q05741",
+      "person_signal": "third",
+      "note": "Despite damaged quotation boundaries, the surrounding frame narration externally describes Mark's action and expression."
+    },
+    {
+      "quote_id": "q05742",
+      "person_signal": "first",
+      "note": "The past-story narrator participates in the scene as 'I' and 'me'; adjacent dialogue is locally quoted."
+    },
+    {
+      "quote_id": "q05743",
+      "person_signal": "non_base",
+      "note": "Clear spoken question; addressed 'you' is not second-person narration."
+    },
+    {
+      "quote_id": "q05744",
+      "person_signal": "third",
+      "note": "Sustained retrospective summary externally narrates Maggie's treatment and learning as 'she' and 'her.'"
+    },
+    {
+      "quote_id": "q05745",
+      "person_signal": "first",
+      "note": "Maggie compares her own family with Bryce's using 'I,' 'ours,' and 'us.'"
+    },
+    {
+      "quote_id": "q05746",
+      "person_signal": "non_base",
+      "note": "Direct speech containing 'I,' not narratorial evidence."
+    },
+    {
+      "quote_id": "q05747",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrator person."
+    },
+    {
+      "quote_id": "q05748",
+      "person_signal": "third",
+      "note": "Externally narrated, story-specific account of Maggie's private travel list uses 'she.'"
+    },
+    {
+      "quote_id": "q05749",
+      "person_signal": "unclear",
+      "note": "Incomplete noun phrase supplies no recoverable narrative structure."
+    },
+    {
+      "quote_id": "q05750",
+      "person_signal": "third",
+      "note": "Although clipped at the start, the sustained passage externally summarizes Maggie's travels as 'she.'"
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-23.2021.09-the-wish.pdf",
+      "title": "The Wish \u2014 Official PDF Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized 37-page opening, headed Manhattan, December 2019, sustains third-person narration of Maggie as 'she' through the present-day frame."
+    },
+    {
+      "url": "https://nicholassparks.com/work/the-wish/",
+      "title": "Nicholas Sparks: The Wish",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The author's official page establishes the frame-and-story structure: present-day Maggie grows close to Mark and tells him the extended story of an earlier Christmas."
+    },
+    {
+      "url": "https://www.supersummary.com/the-wish-nicholas-sparks/chapters-1-3-summary/",
+      "title": "The Wish Chapters 1-3 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The detailed chapter guide identifies Chapter 1 as the 2019 Manhattan frame and Chapter 2 as the extended 1995 Ocracoke account, corroborating that the quoted first-person material belongs to a sustained section rather than an isolated document or thought."
+    },
+    {
+      "url": "https://sobrief.com/books/the-wish?report_issues=true",
+      "title": "The Wish by Nicholas Sparks: Summary, Audio, Analysis, FAQ",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Its narrative-technique discussion explicitly identifies a dual-timeline structure and says the past Ocracoke sections use Maggie's first-person perspective; combined with the authorized third-person frame excerpt, this supports mixed-person sections."
+    }
+  ],
+  "search_log": [
+    "Searched \"Nicholas Sparks The Wish official excerpt Maggie first person third person narration\" and opened the author's official work page and PDF excerpt.",
+    "Searched \"The Wish Nicholas Sparks point of view alternating first person third person\" and targeted variants for narrator, narrative structure, and perspective shifts.",
+    "Opened the authorized excerpt and verified sustained third-person narration throughout the available 2019 opening.",
+    "Opened the Nicholas Sparks title page and Hachette listing to verify the present-day frame in which Maggie tells Mark her earlier story.",
+    "Opened SuperSummary's Chapters 1-3 guide and SoBrief's narrative-technique discussion to check the relationship between the 2019 frame and 1995 first-person section.",
+    "Searched exact quote strings to confirm that the Goodreads first-person passages occur in Maggie's extended Ocracoke account; an unauthorized full-text result was discovered but not used as web evidence.",
+    "Searched Google Books, Open Library, WorldCat, and library-catalog variants; accessible catalog pages verified the edition and frame premise but did not provide additional diagnostic interior prose."
+  ],
+  "person_note": "The novel sustains two base narrative modes: a third-person 2019 Manhattan frame centered on adult Maggie and a first-person account in which Maggie narrates her 1995-96 life on Ocracoke. The long third-person quotes (especially q05731 and q05744) agree with the authorized opening, while q05728 and q05737 unmistakably expose sustained first-person scene narration in the past story. Because that oral retrospective constitutes a major continuing section of the novel rather than isolated dialogue or an embedded document, the controlling book-level classification is ALTERNATING. Brief dialogue, aphorisms, direct thoughts, and clipped passages were not promoted to separate narrative modes; no credible second-person strand or unresolved contrary structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_077",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:48:07.773585+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "23198ee2fca65500367f99bec59d2b0ea881b12a8d43b351bcfea42248e074ac"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:2978",
+  "quotes": [
+    {
+      "quote_id": "q04803",
+      "person_signal": "non_base",
+      "note": "A general aphorism without story-specific narration; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q04804",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect base narration, but this impersonal reflection contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q04805",
+      "person_signal": "unmarked",
+      "note": "A generalized free-indirect reflection whose grammatical form does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q04806",
+      "person_signal": "unmarked",
+      "note": "The named character and reported speech are compatible with either participating or nonparticipating narration."
+    },
+    {
+      "quote_id": "q04807",
+      "person_signal": "third",
+      "note": "In light of the established Noem\u00ed-centered narration, this externally rendered account of her competing desires is third-person base narration."
+    },
+    {
+      "quote_id": "q04808",
+      "person_signal": "non_base",
+      "note": "First-person dialogue; the speaker's I does not identify the narrator."
+    },
+    {
+      "quote_id": "q04809",
+      "person_signal": "unmarked",
+      "note": "An impersonal free-indirect generalization with no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q04810",
+      "person_signal": "unmarked",
+      "note": "The repeated she refers to a character, but this short metaphorical fragment alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q04811",
+      "person_signal": "third",
+      "note": "The narrator externally attributes thought to she and then narrates the characters' shared situation in third person."
+    },
+    {
+      "quote_id": "q04812",
+      "person_signal": "third",
+      "note": "The external tag 'It seemed to her' introduces Noem\u00ed-centered free-indirect reflection in the novel's third-person base narration."
+    },
+    {
+      "quote_id": "q04813",
+      "person_signal": "non_base",
+      "note": "The inclusive our occurs in a universal aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q04814",
+      "person_signal": "non_base",
+      "note": "Gnomic or possibly spoken material; neither reading identifies the base narrator."
+    },
+    {
+      "quote_id": "q04815",
+      "person_signal": "non_base",
+      "note": "You is direct address within dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q04816",
+      "person_signal": "non_base",
+      "note": "The vocative and you mark character speech addressed to Noem\u00ed."
+    },
+    {
+      "quote_id": "q04817",
+      "person_signal": "non_base",
+      "note": "I belongs to a character's conversational statement within the third-person novel."
+    },
+    {
+      "quote_id": "q04818",
+      "person_signal": "unmarked",
+      "note": "The impersonal construction describes the house but does not expose narrator participation."
+    },
+    {
+      "quote_id": "q04819",
+      "person_signal": "non_base",
+      "note": "A universal maxim, possibly dialogue, with no story-specific person evidence."
+    },
+    {
+      "quote_id": "q04820",
+      "person_signal": "non_base",
+      "note": "You addresses another character in clipped dialogue and is not second-person base narration."
+    },
+    {
+      "quote_id": "q04821",
+      "person_signal": "non_base",
+      "note": "A two-speaker exchange; its first-person language belongs to dialogue."
+    },
+    {
+      "quote_id": "q04822",
+      "person_signal": "non_base",
+      "note": "The vocative Noem\u00ed and repeated you form sustained character-to-character address."
+    },
+    {
+      "quote_id": "q04823",
+      "person_signal": "third",
+      "note": "With the novel's Noem\u00ed focalization established, this external rendering of her feelings is third-person base narration."
+    },
+    {
+      "quote_id": "q04824",
+      "person_signal": "non_base",
+      "note": "The I, me, and you forms occur in speech addressed to Noem\u00ed."
+    },
+    {
+      "quote_id": "q04825",
+      "person_signal": "non_base",
+      "note": "Dialogue controls the passage; the brief third-person speech tag is insufficient as independent person evidence."
+    },
+    {
+      "quote_id": "q04826",
+      "person_signal": "non_base",
+      "note": "First-person conversational speech; its I does not belong to the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://assets.penguinrandomhouse.com/wp-content/uploads/2019/12/16154230/Mexican-Gothic_Silvia-Moreno-Garcia_excerpt1.pdf",
+      "title": "Mexican Gothic by Silvia Moreno-Garcia \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-hosted 19-page excerpt sustains external she/Noem\u00ed narration and access to Noem\u00ed's perceptions across the opening chapters."
+    },
+    {
+      "url": "https://www.cla.purdue.edu/academic/english/the-big-read/documents-resources/teaching-related/mexican_gothic_hs.pdf",
+      "title": "Mexican Gothic High School Teaching Guide \u2014 Purdue Big Read",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The academic teaching guide explicitly identifies a non-character narrator using third-person limited point of view focused on Noem\u00ed and applies that description to the novel, including its second half and ending."
+    },
+    {
+      "url": "https://www.cla.purdue.edu/academic/english/the-big-read/documents-resources/teaching-related/mexican_gothic_lesson_2.pdf",
+      "title": "Mexican Gothic Lesson Plan: Focalization \u2014 Purdue Big Read",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The lesson identifies Noem\u00ed as the narrative's primary focalizer and explicitly discusses how that focalization operates with a third-person narrator, using passages from multiple interior pages."
+    },
+    {
+      "url": "https://kbbookreviews867789450.wordpress.com/2020/06/30/blogtour-book-review-mexican-gothic-by-silvia-moreno-garcia/",
+      "title": "Blogtour + Book Review: Mexican Gothic, by Silvia Moreno-Garcia",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes the entire book as told in third person through Noem\u00ed's point of view and discusses that perspective's function throughout the story."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Mexican Gothic\" \"Silvia Moreno-Garcia\" excerpt publisher first chapter; opened and reviewed Penguin Random House's 19-page PDF excerpt.",
+    "Searched: \"Mexican Gothic\" point of view third person narration review; found several explicit third-person descriptions and opened a detailed review.",
+    "Searched: site:penguinrandomhouse.com Mexican Gothic excerpt; verified the authorized publisher-hosted excerpt rather than relying on search snippets.",
+    "Searched: \"Mexican Gothic\" alternating point of view narrator; found no credible evidence of sustained narration in another grammatical person.",
+    "Opened Purdue Big Read's teaching guide and focalization lesson; both explicitly distinguish the third-person narrator from Noem\u00ed as focalizer and address the novel beyond its opening."
+  ],
+  "person_note": "The controlling narration is third-person limited, centered on Noem\u00ed. Several Goodreads passages expose that external position through attributed thought and free-indirect access to her feelings, while many other quotes are dialogue, aphorisms, or too grammatically unmarked to diagnose person. First- and second-person pronouns in the dialogue are local character speech, not autonomous narrative sections. The authorized opening excerpt and Purdue's whole-book instructional analysis agree, and targeted research found no credible alternating structure; the opening source's limited scope is resolved by the whole-book evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_071",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T12:45:46.997507+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "350b89957e485d193e6ae60d49509f71e114e3192b134040d96e59eb6b193cd5"
+  }
+}

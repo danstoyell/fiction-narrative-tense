@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:1600",
+  "quotes": [
+    {
+      "quote_id": "q00145",
+      "person_signal": "non_base",
+      "note": "A general aphorism with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00146",
+      "person_signal": "non_base",
+      "note": "A joke presented entirely as character speech; its first-person pronouns belong to speakers within the joke."
+    },
+    {
+      "quote_id": "q00147",
+      "person_signal": "unclear",
+      "note": "The clipped fragment omits its grammatical subject; 'his' alone cannot distinguish third-person narration from a first-person narrator describing someone else."
+    },
+    {
+      "quote_id": "q00148",
+      "person_signal": "unclear",
+      "note": "The fragment and trailing comma obscure whether 'my' is dialogue, direct thought, or base narration."
+    },
+    {
+      "quote_id": "q00149",
+      "person_signal": "unmarked",
+      "note": "This may be free-indirect base narration, but one named third-person character and her mental state do not independently establish narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.johnsandford.org/prey11pr.html",
+      "title": "Easy Prey \u2014 Preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized three-chapter preview sustains nonparticipating third-person narration across scenes focalized through the unnamed killer, Alie'e Maison, Lucas Davenport, and others; first-person forms occur locally in speech, thought, and an email."
+    },
+    {
+      "url": "https://www.enotes.com/topics/easy-prey/in-depth",
+      "title": "Easy Prey Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book-level style analysis explicitly identifies the narrative as primarily third-person limited through Davenport, with access to his thoughts and perceptions."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Sandford Easy Prey excerpt first chapter\" and opened the authorized John Sandford preview containing Chapters One through Three.",
+    "Searched \"John Sandford Easy Prey point of view third person\", \"narrator\", and \"multiple narrators\"; opened the eNotes whole-book POV analysis.",
+    "Searched the exact Goodreads fragments, including \"Felt the dark finger of hypocrisy stroking his soul\", \"going over and over it in my head\", and \"Jael feared it was true\"; results did not recover decisive surrounding context for the clipped quotations.",
+    "Checked Google Books and Penguin Random House previews. Google Books exposed only catalog/preview metadata, while Penguin Random House's accessible page offered a sample button but no narratively diagnostic sample text.",
+    "Searched for interior, epistolary, frame, and alternating-narration evidence; found no credible indication of sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. The authorized opening sustains that position across three chapters and several focal characters, while the whole-book eNotes analysis explicitly corroborates third-person limited narration. The Goodreads material is sparse: its dialogue and aphorism are non-base, and the two clipped fragments cannot safely identify a narrator. The isolated 'my' therefore does not contradict the third-person structure. Confidence is medium because the strongest primary prose evidence covers only the opening and the whole-book corroboration is Tier C rather than a structural Tier A/B source.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.231543+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "20490bafcb615c1b1beec593b0f99d24a226137625a91f4fff3c712d41adcb45"
+  }
+}

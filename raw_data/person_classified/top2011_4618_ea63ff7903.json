@@ -1,0 +1,424 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:4618",
+  "quotes": [
+    {
+      "quote_id": "q02403",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within character dialogue."
+    },
+    {
+      "quote_id": "q02404",
+      "person_signal": "non_base",
+      "note": "Advice delivered in dialogue does not expose the narrator."
+    },
+    {
+      "quote_id": "q02405",
+      "person_signal": "unmarked",
+      "note": "Aphoristic narration uses universal you, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q02406",
+      "person_signal": "unmarked",
+      "note": "Local speech beats, external description, or speculative observations do not establish whether the narrator participates; the book-level THIRD label must not be projected onto this quote."
+    },
+    {
+      "quote_id": "q02407",
+      "person_signal": "non_base",
+      "note": "Character dialogue is nondiagnostic."
+    },
+    {
+      "quote_id": "q02408",
+      "person_signal": "non_base",
+      "note": "Gnomic statement contains no base-narrator evidence."
+    },
+    {
+      "quote_id": "q02409",
+      "person_signal": "third",
+      "note": "After embedded dialogue, narration externally refers to him and her and reports her knowledge."
+    },
+    {
+      "quote_id": "q02410",
+      "person_signal": "third",
+      "note": "Sustained narration presents Amanda as she while reporting her former belief and present knowledge."
+    },
+    {
+      "quote_id": "q02411",
+      "person_signal": "non_base",
+      "note": "First-person declarations occur in dialogue."
+    },
+    {
+      "quote_id": "q02412",
+      "person_signal": "non_base",
+      "note": "Gnomic observation is nondiagnostic."
+    },
+    {
+      "quote_id": "q02413",
+      "person_signal": "non_base",
+      "note": "The first-person recollection is a local character utterance despite its upstream event bucket."
+    },
+    {
+      "quote_id": "q02414",
+      "person_signal": "non_base",
+      "note": "Dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02415",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs in dialogue."
+    },
+    {
+      "quote_id": "q02416",
+      "person_signal": "non_base",
+      "note": "Gnomic material does not establish narrative person."
+    },
+    {
+      "quote_id": "q02417",
+      "person_signal": "third",
+      "note": "Sustained narration refers to Amanda as she and renders her questions, doubts, and memories."
+    },
+    {
+      "quote_id": "q02418",
+      "person_signal": "non_base",
+      "note": "General maxim is nondiagnostic."
+    },
+    {
+      "quote_id": "q02419",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within dialogue."
+    },
+    {
+      "quote_id": "q02420",
+      "person_signal": "unclear",
+      "note": "The truncated fragment contains no recoverable narratorial structure."
+    },
+    {
+      "quote_id": "q02421",
+      "person_signal": "non_base",
+      "note": "Dialogue is nondiagnostic."
+    },
+    {
+      "quote_id": "q02422",
+      "person_signal": "unmarked",
+      "note": "Local speech beats, external description, or speculative observations do not establish whether the narrator participates; the book-level THIRD label must not be projected onto this quote."
+    },
+    {
+      "quote_id": "q02423",
+      "person_signal": "non_base",
+      "note": "First-person recollection is character dialogue."
+    },
+    {
+      "quote_id": "q02424",
+      "person_signal": "third",
+      "note": "Sustained external narration presents Amanda as she and reports her understanding of marriage."
+    },
+    {
+      "quote_id": "q02425",
+      "person_signal": "third",
+      "note": "Sustained narration refers to Amanda as she and renders her uncertainty and thoughts about Dawson."
+    },
+    {
+      "quote_id": "q02426",
+      "person_signal": "non_base",
+      "note": "Gnomic statement is not narrator-person evidence."
+    },
+    {
+      "quote_id": "q02427",
+      "person_signal": "unmarked",
+      "note": "A brief he-centered metaphor alone cannot establish whether a participating narrator frames it."
+    },
+    {
+      "quote_id": "q02428",
+      "person_signal": "non_base",
+      "note": "First-person recollection occurs in dialogue."
+    },
+    {
+      "quote_id": "q02429",
+      "person_signal": "third",
+      "note": "Narration externally presents her conclusion about another person's life."
+    },
+    {
+      "quote_id": "q02430",
+      "person_signal": "non_base",
+      "note": "General statement about memory is gnomic and nondiagnostic."
+    },
+    {
+      "quote_id": "q02431",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence about his feelings is compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q02432",
+      "person_signal": "unmarked",
+      "note": "A bare statement about they does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q02433",
+      "person_signal": "non_base",
+      "note": "First-person statement is dialogue."
+    },
+    {
+      "quote_id": "q02434",
+      "person_signal": "unmarked",
+      "note": "The short statement about he is insufficient by itself to establish narrative person."
+    },
+    {
+      "quote_id": "q02435",
+      "person_signal": "non_base",
+      "note": "The attribution identifies this as Amanda's dialogue."
+    },
+    {
+      "quote_id": "q02436",
+      "person_signal": "unmarked",
+      "note": "This isolated she-centered interior statement is too short to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02437",
+      "person_signal": "unmarked",
+      "note": "The isolated account of her wishes does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q02438",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02439",
+      "person_signal": "unmarked",
+      "note": "Local speech beats, external description, or speculative observations do not establish whether the narrator participates; the book-level THIRD label must not be projected onto this quote."
+    },
+    {
+      "quote_id": "q02440",
+      "person_signal": "unmarked",
+      "note": "A single she-centered thought passage is not independently conclusive."
+    },
+    {
+      "quote_id": "q02441",
+      "person_signal": "third",
+      "note": "Extended narration refers to Amanda as she while rendering her realization and inner impression."
+    },
+    {
+      "quote_id": "q02442",
+      "person_signal": "unmarked",
+      "note": "A brief he knew construction alone is insufficient."
+    },
+    {
+      "quote_id": "q02443",
+      "person_signal": "unmarked",
+      "note": "A short statement about she does not establish narrator participation."
+    },
+    {
+      "quote_id": "q02444",
+      "person_signal": "unmarked",
+      "note": "The brief she-centered reflection is locally compatible with multiple narrator configurations."
+    },
+    {
+      "quote_id": "q02445",
+      "person_signal": "non_base",
+      "note": "First-person account is character dialogue."
+    },
+    {
+      "quote_id": "q02446",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence about her experience is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02447",
+      "person_signal": "non_base",
+      "note": "First-person self-description and you-address occur in dialogue."
+    },
+    {
+      "quote_id": "q02448",
+      "person_signal": "unmarked",
+      "note": "Despite third-person references, this single reflective sentence does not independently establish the narrator."
+    },
+    {
+      "quote_id": "q02449",
+      "person_signal": "non_base",
+      "note": "The first-person naval account is an embedded character story in dialogue."
+    },
+    {
+      "quote_id": "q02450",
+      "person_signal": "unmarked",
+      "note": "General exposition about small-town America contains no participating or nonparticipating narrator reference."
+    },
+    {
+      "quote_id": "q02451",
+      "person_signal": "third",
+      "note": "Sustained narration presents Amanda as she, names Dawson externally, and reports her knowledge and desire."
+    },
+    {
+      "quote_id": "q02452",
+      "person_signal": "unmarked",
+      "note": "The maxim and brief she thought clause are insufficient by themselves."
+    },
+    {
+      "quote_id": "q02453",
+      "person_signal": "unmarked",
+      "note": "The single sentence about she realizing something does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q02454",
+      "person_signal": "unmarked",
+      "note": "Generalized narration about marriages is nondiagnostic."
+    },
+    {
+      "quote_id": "q02455",
+      "person_signal": "third",
+      "note": "Sustained narration moves through his beliefs and her contrary assessment and emotional response."
+    },
+    {
+      "quote_id": "q02456",
+      "person_signal": "third",
+      "note": "The passage externally presents Amanda as she while reporting her perception and habitual feelings."
+    },
+    {
+      "quote_id": "q02457",
+      "person_signal": "non_base",
+      "note": "The first-person wartime account is embedded character dialogue."
+    },
+    {
+      "quote_id": "q02458",
+      "person_signal": "unmarked",
+      "note": "The brief comparison of he and she is insufficient without a broader narratorial frame."
+    },
+    {
+      "quote_id": "q02459",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Amanda as she, names Dawson, and renders her perceptions and thoughts."
+    },
+    {
+      "quote_id": "q02460",
+      "person_signal": "third",
+      "note": "Narration externally presents Amanda and Jared and reports her perception and interpretation."
+    },
+    {
+      "quote_id": "q02461",
+      "person_signal": "unmarked",
+      "note": "The short he-centered statement alone is not conclusive."
+    },
+    {
+      "quote_id": "q02462",
+      "person_signal": "unmarked",
+      "note": "General reflection about family contains no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q02463",
+      "person_signal": "unmarked",
+      "note": "Local speech beats, external description, or speculative observations do not establish whether the narrator participates; the book-level THIRD label must not be projected onto this quote."
+    },
+    {
+      "quote_id": "q02464",
+      "person_signal": "non_base",
+      "note": "Second-person reassurance is dialogue."
+    },
+    {
+      "quote_id": "q02465",
+      "person_signal": "unclear",
+      "note": "The truncated fragment cannot reveal narrative person."
+    },
+    {
+      "quote_id": "q02466",
+      "person_signal": "non_base",
+      "note": "The first-person wartime recollection is Tuck's embedded account, not base narration."
+    },
+    {
+      "quote_id": "q02467",
+      "person_signal": "non_base",
+      "note": "The first-person naval story is embedded character dialogue."
+    },
+    {
+      "quote_id": "q02468",
+      "person_signal": "non_base",
+      "note": "This first-person observation belongs to a local character voice, not the independently established base narrator."
+    },
+    {
+      "quote_id": "q02469",
+      "person_signal": "non_base",
+      "note": "I and you occur within dialogue."
+    },
+    {
+      "quote_id": "q02470",
+      "person_signal": "unmarked",
+      "note": "The brief statement about what he figured is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02471",
+      "person_signal": "non_base",
+      "note": "The attribution to Tuck confirms an embedded first-person message."
+    },
+    {
+      "quote_id": "q02472",
+      "person_signal": "non_base",
+      "note": "Character dialogue is nondiagnostic."
+    },
+    {
+      "quote_id": "q02473",
+      "person_signal": "unmarked",
+      "note": "Local speech beats, external description, or speculative observations do not establish whether the narrator participates; the book-level THIRD label must not be projected onto this quote."
+    },
+    {
+      "quote_id": "q02474",
+      "person_signal": "unmarked",
+      "note": "Local speech beats, external description, or speculative observations do not establish whether the narrator participates; the book-level THIRD label must not be projected onto this quote."
+    },
+    {
+      "quote_id": "q02475",
+      "person_signal": "third",
+      "note": "Narration externally presents both characters and renders her study and reflection on his drawing."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-17.2011.10-best-of-me.pdf",
+      "title": "The Best of Me \u2014 PDF Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized 36-page excerpt sustains third-person narration across Dawson- and Amanda-centered material, including external he/she references and access to both characters' thoughts."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-best-of-me/style.html",
+      "title": "Nicholas Sparks (author) Writing Styles in The Best of Me",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel as third-person omniscient and explains that viewpoint shifts among Amanda, Dawson, and minor characters occur at chapters or section breaks without changing grammatical person."
+    },
+    {
+      "url": "https://nicholassparks.com/work/the-best-of-me/",
+      "title": "Nicholas Sparks \u2014 The Best of Me",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author's book page supplies several separated passages from the novel that externally present Amanda and Dawson as she/he, corroborating third-person narration beyond a single continuous scene."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Best_of_Me_(novel)",
+      "title": "The Best of Me (novel)",
+      "tier": "D",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "Used only to resolve local structure: it identifies Tuck's first-person love story as a letter read by Dawson and Amanda, so that embedded voice does not imply alternating base narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cNicholas Sparks The Best of Me official excerpt first chapter\u201d and opened the author's authorized PDF excerpt and book page.",
+    "Searched \u201cThe Best of Me Nicholas Sparks point of view third person narrator\u201d and opened the BookRags point-of-view discussion.",
+    "Searched for multiple narrators, alternating point of view, epistolary form, and letter narration; results described multiple focal characters but no sustained change away from third-person base narration.",
+    "Searched for late chapters and the epilogue; chapter summaries corroborated continued Amanda- and Tanner-centered focalization but were not treated as direct grammatical evidence, while the plot source was used only to identify Tuck's embedded letter."
+  ],
+  "person_note": "The base narration is third person, shifting focal attention among Dawson, Amanda, and other characters while retaining external he/she reference. Numerous Goodreads event passages independently show sustained third-person scene narration and interior access, agreeing with the authorized opening and the explicit whole-book POV description. First-person material in the quote set is dialogue, recollection, or Tuck's embedded letter rather than an autonomous first-person base section; the main limitation is that the authorized continuous excerpt covers only the opening, but the quote corpus and whole-book structural description remove material uncertainty. Quote audit: six nondiagnostic speech-beat or descriptive passages were conservatively changed to unmarked; sustained interior narration still supports THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_050",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T03:17:09.386618+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3abad283eb8070c919e2dbbdf1dabfe4550b23e1f345d8f692bfe2b81c0738d2"
+  }
+}

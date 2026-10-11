@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1973:5401",
+  "quotes": [
+    {
+      "quote_id": "q01922",
+      "person_signal": "non_base",
+      "note": "A gnomic maxim without diagnostic base-narrator reference."
+    },
+    {
+      "quote_id": "q01923",
+      "person_signal": "non_base",
+      "note": "Generalized gnomic material; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q01924",
+      "person_signal": "non_base",
+      "note": "Aphoristic reflection rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01925",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside character speech."
+    },
+    {
+      "quote_id": "q01926",
+      "person_signal": "non_base",
+      "note": "Dialogue addressing another character, not base narration."
+    },
+    {
+      "quote_id": "q01927",
+      "person_signal": "unmarked",
+      "note": "Scenic narration contains no reference identifying the narrator's person."
+    },
+    {
+      "quote_id": "q01928",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about life, not diagnostic narration."
+    },
+    {
+      "quote_id": "q01929",
+      "person_signal": "non_base",
+      "note": "Gnomic reformulation without narrator-person evidence."
+    },
+    {
+      "quote_id": "q01930",
+      "person_signal": "unclear",
+      "note": "A clipped sentence fragment provides insufficient local structure for attribution."
+    },
+    {
+      "quote_id": "q01931",
+      "person_signal": "first",
+      "note": "The narratorial I witnesses Arthur and retrospectively anticipates what he will see later."
+    },
+    {
+      "quote_id": "q01932",
+      "person_signal": "unmarked",
+      "note": "Possible dream narration, but the fragment contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01933",
+      "person_signal": "first",
+      "note": "The narratorial I describes returning to a remembered hillside scene."
+    },
+    {
+      "quote_id": "q01934",
+      "person_signal": "unclear",
+      "note": "The excerpt ends at a dangling I, so clipping prevents responsible use of that pronoun."
+    },
+    {
+      "quote_id": "q01935",
+      "person_signal": "first",
+      "note": "The narratorial I repeatedly reports witnessing the battle and Arthur's standard."
+    },
+    {
+      "quote_id": "q01936",
+      "person_signal": "first",
+      "note": "The participating narrator reflects on his own experience of God's voice."
+    },
+    {
+      "quote_id": "q01937",
+      "person_signal": "non_base",
+      "note": "First-person language is contained within direct dialogue."
+    },
+    {
+      "quote_id": "q01938",
+      "person_signal": "non_base",
+      "note": "Supplied paratext, not narration from the novel."
+    },
+    {
+      "quote_id": "q01939",
+      "person_signal": "unmarked",
+      "note": "Narratorial exposition is visible, but no participating or external narrator is identified."
+    },
+    {
+      "quote_id": "q01940",
+      "person_signal": "unmarked",
+      "note": "Atmospheric event narration contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01941",
+      "person_signal": "unmarked",
+      "note": "Weather and setting description alone do not establish narrative person."
+    },
+    {
+      "quote_id": "q01942",
+      "person_signal": "non_base",
+      "note": "The geographical description occurs within direct speech."
+    },
+    {
+      "quote_id": "q01943",
+      "person_signal": "first",
+      "note": "The narratorial I identifies the described woman through personal memory."
+    },
+    {
+      "quote_id": "q01944",
+      "person_signal": "unmarked",
+      "note": "A bare historical inference does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q01945",
+      "person_signal": "first",
+      "note": "The narratorial I recounts lying awake and observing the night."
+    },
+    {
+      "quote_id": "q01946",
+      "person_signal": "non_base",
+      "note": "The statement is explicitly attributed speech by Moravik."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.jlls.org/index.php/jlls/article/download/4827/1583",
+      "title": "The Portrayal of Nature and Its Topography in Mary Stewart\u2019s The Hollow Hills",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly article identifies Merlin as the novel's narrator and analyzes first-person descriptions by him across numerous interior pages."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/a/mary-stewart-6/the-hollow-hills/",
+      "title": "The Hollow Hills",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The contemporaneous Kirkus review explicitly says that Merlin narrates his own story and summarizes his actions throughout the novel."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-hollow-hills/quotes.html",
+      "title": "The Hollow Hills Quotes",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Passages attributed to Chapters 1 and 3 explicitly identify the speaking narrator as Merlin and use participating first-person narration."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-hollow-hills/styles.html",
+      "title": "Mary Stewart Writing Styles in The Hollow Hills",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis identifies Merlin as narrator and explains that his direct observation and limited visions govern what readers can know."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-hollow-hills",
+      "title": "The Hollow Hills Background",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A community-contributed overview explicitly calls the novel first-person from Merlin's viewpoint; retained only as weak corroboration."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-hollow-hills/study-guide/literary-elements",
+      "title": "The Hollow Hills Literary Elements",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "One community-contributed page claims third-person objective narration, but it conflicts with the novel passages, stronger sources, and another page on the same site."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Hollow Hills\" \"Mary Stewart\" excerpt, first chapter, and exact opening text; the Hodder/Hachette publisher page advertised an excerpt but exposed only synopsis text, while Open Library supplied only one anonymous opening sentence.",
+    "Searched \"The Hollow Hills\" first person, point of view, narrator, and Merlin; opened the Kirkus review, BookRags point-of-view analysis, BookRags chapter quotations, and the GradeSaver pages.",
+    "Searched scholarly sources for \"The Hollow Hills\" Merlin narrator; opened the Journal of Language and Linguistic Studies article, which identifies Merlin as narrator and analyzes passages across the novel.",
+    "Searched for alternating narration, multiple narrators, frame narrative, diary, and epistolary structure; found no evidence of sustained base narration in another person.",
+    "Followed up on GradeSaver's third-person assertion; its community-authored status, contradiction by GradeSaver's own first-person overview, and conflict with direct first-person prose make it an unreliable outlier."
+  ],
+  "person_note": "The controlling narrator is Merlin, who participates in the story and narrates retrospectively as I. Six supplied event quotations expose that voice directly, including scenes of personal memory, travel, and witnessed battle; dialogue and aphorisms were not allowed to vote. Scholarly whole-book analysis, a contemporary review, and chapter-specific web passages independently corroborate Merlin's narration, with no evidence of alternating sections. The lone third-person claim is a low-tier community contribution contradicted by direct prose and even by another page on its own site, so it does not create a credible unresolved conflict.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_018",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T05:55:49.956631+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "34fbf03bdc3b5a02dd9672a82a50bbb181b1d75f7237a9f8ce4351734a6b9469"
+  }
+}

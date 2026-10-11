@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:5475",
+  "quotes": [
+    {
+      "quote_id": "q01843",
+      "person_signal": "non_base",
+      "note": "Character speech addressing Will; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01844",
+      "person_signal": "non_base",
+      "note": "Alternating dialogue; first-person pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q01845",
+      "person_signal": "third",
+      "note": "Sustained external narration names Robie as he and reports his history and preferences."
+    },
+    {
+      "quote_id": "q01846",
+      "person_signal": "unmarked",
+      "note": "Generic you in generalized reflection, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01847",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Will."
+    },
+    {
+      "quote_id": "q01848",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection; you and I occur in an aphoristic formulation rather than exposing a narrator."
+    },
+    {
+      "quote_id": "q01849",
+      "person_signal": "unmarked",
+      "note": "Generalized commentary about young people; it lacks a story-specific narratorial participant."
+    },
+    {
+      "quote_id": "q01850",
+      "person_signal": "unmarked",
+      "note": "A bare third-person observation is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q01851",
+      "person_signal": "unclear",
+      "note": "Incomplete descriptive fragment with insufficient context to identify the narrator."
+    },
+    {
+      "quote_id": "q01852",
+      "person_signal": "unmarked",
+      "note": "Expository commentary about Congress uses third-person subjects but does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q01853",
+      "person_signal": "unclear",
+      "note": "The isolated story-specific first-person reflection may be direct inner monologue, but the quote lacks surrounding text or typography and the separate forum passage cannot establish this quote's local boundaries."
+    },
+    {
+      "quote_id": "q01854",
+      "person_signal": "unmarked",
+      "note": "Short third-person sentence without enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01855",
+      "person_signal": "third",
+      "note": "The external reporting clause identifies Robie by name while attributing his thought."
+    },
+    {
+      "quote_id": "q01856",
+      "person_signal": "unclear",
+      "note": "Severely clipped noun phrase with no recoverable narratorial structure."
+    },
+    {
+      "quote_id": "q01857",
+      "person_signal": "non_base",
+      "note": "Primarily clipped quoted speech; the brief attribution does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q01858",
+      "person_signal": "unclear",
+      "note": "Incomplete passage ends before its narratorial structure becomes diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.barnesandnoble.com/w/the-innocent-david-baldacci/1106244248?ean=9780446572989",
+      "title": "The Innocent (Will Robie Series #1) by David Baldacci",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized retailer excerpt from Chapter 1 sustains external narration of Robie as he and reports his actions, perceptions, and circumstances."
+    },
+    {
+      "url": "https://www.writingforums.com/threads/3rd-person-limited-pov-and-internal-dialogue-consistency.209795/",
+      "title": "3rd Person Limited POV and Internal Dialogue Consistency",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "An anonymous forum user transcribes a different passage from about 19% into the novel and reports italicized first-person inner monologue within third-person prose. The discussion is useful for discovery but has unverified transcription and cannot establish q01853's location or boundaries."
+    }
+  ],
+  "search_log": [
+    "Searched: \"David Baldacci The Innocent\" excerpt, first chapter, and publisher/author pages.",
+    "Searched: \"The Innocent\" \"David Baldacci\" point of view, third person, narrator, and perspective.",
+    "Opened the Barnes & Noble Chapter 1 excerpt and verified sustained third-person narration.",
+    "Opened an interior-passage discussion identifying third-person limited narration and brief italicized first-person inner monologue.",
+    "Checked Google Books and Pan Macmillan previews; their accessible pages verified the edition and preview availability but exposed no additional diagnostic prose in the fetched text.",
+    "Targeted searches for epistolary, frame-narrative, multiple-narrator, and alternating-person descriptions found no credible evidence of sustained narration in another grammatical person."
+  ],
+  "person_note": "The controlling narration is third person, centered chiefly on Will Robie. The strongest Goodreads passage repeatedly calls Robie he while reporting his private history and preferences, and the authorized opening independently sustains the same external narrating position. The isolated I passage q01853 may be direct inner monologue, but its local context and typography are missing; the forum discusses a different purported interior passage and cannot resolve this quote, so q01853 remains unclear rather than non-base. No credible source indicated sustained first- or second-person sections. Confidence is med because the only strong web evidence is opening-only and the forum is Tier D discovery material, while the Goodreads channel has one clearly sustained third-person passage. Audit: independent review retained THIRD, downgraded high to med, corrected the forum from Tier C/THIRD to Tier D/none, and removed the unsupported local attribution of q01853.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_051",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T04:13:50.004618+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d15200bba0261aa7adc5281ae0b9d05b65ac3b5bb8988f7e7c99f18731d422ea"
+  }
+}

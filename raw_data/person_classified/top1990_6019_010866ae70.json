@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1990:6019",
+  "quotes": [
+    {
+      "quote_id": "q03134",
+      "person_signal": "unmarked",
+      "note": "Generalized exposition about mammoths uses third-person plurals but does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03135",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q03136",
+      "person_signal": "non_base",
+      "note": "Gnomic scientific exposition without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q03137",
+      "person_signal": "non_base",
+      "note": "Character speech; the brief attribution to Jondalar is insufficient by itself to establish narrative person."
+    },
+    {
+      "quote_id": "q03138",
+      "person_signal": "non_base",
+      "note": "Character speech; the short attribution does not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q03139",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks enough syntax or context for attribution."
+    },
+    {
+      "quote_id": "q03140",
+      "person_signal": "unmarked",
+      "note": "A single unnamed third-person subject and her realization are compatible with more than one base person."
+    },
+    {
+      "quote_id": "q03141",
+      "person_signal": "unmarked",
+      "note": "Brief third-person interior reflection lacks enough surrounding narration to establish the controlling person."
+    },
+    {
+      "quote_id": "q03142",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Ayla's actions, perceptions, and thoughts with no participating narrator frame."
+    },
+    {
+      "quote_id": "q03143",
+      "person_signal": "unmarked",
+      "note": "Landscape description contains no narrator participation or story-specific protagonist pronouns."
+    },
+    {
+      "quote_id": "q03144",
+      "person_signal": "third",
+      "note": "Extended authorial narration describes unnamed characters and supplies historical knowledge from outside the story."
+    },
+    {
+      "quote_id": "q03145",
+      "person_signal": "third",
+      "note": "An external authorial voice names Jondalar and Ayla, generalizes about their minds, and places them in human prehistory."
+    },
+    {
+      "quote_id": "q03146",
+      "person_signal": "third",
+      "note": "Extended external narration situates the travelers and supplies geological knowledge extending beyond their perspective."
+    },
+    {
+      "quote_id": "q03147",
+      "person_signal": "unmarked",
+      "note": "General reflection about human spiritual belief does not expose the narrator's grammatical person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://theallfreenovel.com/15643/1/the_plains_of_passage.amp",
+      "title": "Read The Plains of Passage online free by Jean M. Auel",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The opened Chapter 1 passage sustains external narration of Ayla, Jondalar, other characters, and multiple characters' private thoughts."
+    },
+    {
+      "url": "https://theallfreenovel.com/15643/62/the_plains_of_passage",
+      "title": "Read The Plains of Passage page 62 online free by Jean M. Auel",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A far-interior passage externally narrates Jondalar, Attaroa, Epadoa, and others while moving among their private thoughts, corroborating third-person omniscient narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Plains of Passage\" \"Jean M. Auel\" with excerpt, first-chapter, point-of-view, narrator, third-person, omniscient, epistolary, frame, and alternating-narration terms.",
+    "Opened Penguin Random House and Hachette UK publisher pages; both advertised sample or excerpt controls, but their accessible page text exposed only catalog description, not narrative prose.",
+    "Opened the novel's sustained Chapter 1 text and a distant interior passage at page 62; both consistently used external third-person narration and disclosed multiple characters' thoughts.",
+    "Checked Open Library editions and preview links; the catalog confirmed English previews exist, but the prose viewer was not accessible through the research interface.",
+    "Opened EBSCO's whole-series research overview and Kirkus's review; both described the book as Ayla and Jondalar's continuous journey, but neither explicitly identified narrative person, so they were not treated as person evidence.",
+    "Targeted searches for first-person, second-person, alternating, diary, epistolary, or frame structure found no credible contrary evidence."
+  ],
+  "person_note": "The strongest quote passages and both opened web passages agree on a nonparticipating third-person narrator, often with omniscient access to several characters. First-person forms in the material occur only inside dialogue, and no sustained first- or second-person base section was found. Confidence is medium because the accessible prose copies are corroborating Tier C sources rather than an authorized Tier A excerpt or an explicit whole-book Tier B narratological analysis.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_026",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:39:41.606502+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "54e89b6e1db251348d4e3c939d5f44f839d2ba93360b64450b859d2b19734806"
+  }
+}

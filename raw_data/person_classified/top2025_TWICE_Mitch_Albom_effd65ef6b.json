@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:TWICE|Mitch Albom",
+  "quotes": [
+    {
+      "quote_id": "q10097",
+      "person_signal": "non_base",
+      "note": "Universal aphorism; its I/you contrast does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q10098",
+      "person_signal": "non_base",
+      "note": "General aphorism about years and moments, without story-specific narration."
+    },
+    {
+      "quote_id": "q10099",
+      "person_signal": "non_base",
+      "note": "Proverb-like generalization with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q10100",
+      "person_signal": "non_base",
+      "note": "Vocative direct speech to Alfie; the speaker's person does not establish base narration."
+    },
+    {
+      "quote_id": "q10101",
+      "person_signal": "non_base",
+      "note": "General life aphorism, not a narrated story event."
+    },
+    {
+      "quote_id": "q10102",
+      "person_signal": "non_base",
+      "note": "Universal we/us refers generically to people, not to a participating narrator."
+    },
+    {
+      "quote_id": "q10103",
+      "person_signal": "non_base",
+      "note": "Aphoristic direct address; generic you is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q10104",
+      "person_signal": "non_base",
+      "note": "Speech addressed to Boss; its first and second persons belong to dialogue."
+    },
+    {
+      "quote_id": "q10105",
+      "person_signal": "first",
+      "note": "Alfie narrates a specific past action and perception as I."
+    },
+    {
+      "quote_id": "q10106",
+      "person_signal": "non_base",
+      "note": "Universal we aphorism does not expose the base narrator."
+    },
+    {
+      "quote_id": "q10107",
+      "person_signal": "non_base",
+      "note": "Truth About True Love refrain is gnomic rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q10108",
+      "person_signal": "non_base",
+      "note": "Universal we generalizes about youth and age."
+    },
+    {
+      "quote_id": "q10109",
+      "person_signal": "non_base",
+      "note": "Generic you in an aphorism is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q10110",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a universal reflection, not the base story situation."
+    },
+    {
+      "quote_id": "q10111",
+      "person_signal": "non_base",
+      "note": "Rhetorical generalization using universal us, with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q10112",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph by C. S. Lewis, outside the novel's base narration."
+    },
+    {
+      "quote_id": "q10113",
+      "person_signal": "non_base",
+      "note": "Generic you in a universal statement about losing a parent."
+    },
+    {
+      "quote_id": "q10114",
+      "person_signal": "first",
+      "note": "A specific story-state is narrated through my heart before a gnomic coda."
+    },
+    {
+      "quote_id": "q10115",
+      "person_signal": "non_base",
+      "note": "Acknowledgments-style authorial thanks in paratext, not Alfie's narration."
+    },
+    {
+      "quote_id": "q10116",
+      "person_signal": "non_base",
+      "note": "General aphorism about boys and mothers."
+    },
+    {
+      "quote_id": "q10117",
+      "person_signal": "first",
+      "note": "A participating narrator recounts a specific shared hospital event as we."
+    },
+    {
+      "quote_id": "q10118",
+      "person_signal": "first",
+      "note": "Although mostly dialogue, the outside speech tag Yaya asked me identifies the participating narrator."
+    },
+    {
+      "quote_id": "q10119",
+      "person_signal": "first",
+      "note": "The narrator recounts a specific realization as I and addresses the frame addressee as you."
+    },
+    {
+      "quote_id": "q10120",
+      "person_signal": "non_base",
+      "note": "Generic you expresses a maxim about leaving the past behind."
+    },
+    {
+      "quote_id": "q10121",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person fragment, not sustained story-specific narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.goodmorningamerica.com/culture/story/mitch-albom-gma-book-club-pick-october-125904119",
+      "title": "'Twice' by Mitch Albom is our Book Club pick for October",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "A sustained interior excerpt, explicitly reprinted by permission of Harper, has Alfie narrate actions and perceptions as I/we/my and address Boss within the narration."
+    },
+    {
+      "url": "https://www.cbsnews.com/newyork/news/mitch-albom-new-book-twice/",
+      "title": "Bestselling author Mitch Albom talks to Club Calvi about his new novel \"Twice\"",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "A separate sustained excerpt from Alfie's youth consistently uses I/we/me for the narrating protagonist; the accompanying author interview also explains that Alfie is writing to the character he calls Boss."
+    },
+    {
+      "url": "https://www.washingtonpost.com/books/2025/10/08/twice-mitch-albom/",
+      "title": "Mitch Albom\u2019s \u2018Twice\u2019 is somehow both bonkers and bland",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review describes the framing device: Alfie reads aloud his handwritten notebook detailing his life, and it repeatedly attributes the retrospective narration and memories to Alfie."
+    },
+    {
+      "url": "https://www.hachette.co.uk/titles/mitch-albom/twice/9781405551878/",
+      "title": "Twice by Mitch Albom",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "none",
+      "note": "Publisher synopsis confirms an interrogation frame beginning late in Alfie's life but does not itself grammatically establish the controlling narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Mitch Albom Twice 2025 excerpt first chapter narrator\" and located sustained GMA and CBS excerpts.",
+    "Searched publisher and author domains for \"Twice\" excerpts; Hachette supplied synopsis-level frame information, while Mitch Albom's site exposed an author reading but no searchable transcript of the passage.",
+    "Searched \"TWICE Mitch Albom first person narrator\" and point-of-view/frame terms; opened the Washington Post review for its description of Alfie's notebook-and-interrogation structure.",
+    "Opened and inspected the GMA excerpt, CBS author interview and excerpt, Hachette title page, and Washington Post review rather than relying on search snippets."
+  ],
+  "person_note": "The base narration is Alfie Logan's first-person retrospective account, presented through the notebook he reads or writes to the interrogating 'Boss.' Four event quotes directly use I, my, or we for story participation, and the dialogue-heavy q10118 additionally contains a first-person narratorial tag. The many I/we/you aphorisms and speeches are local or generic and therefore do not vote on narrative person. Two sustained, authorized interior excerpts independently reproduce Alfie's first-person narration in different life episodes, while credible structural reporting identifies the notebook as Alfie's life story. The police interrogation is a frame situation, but the researched sources provide no evidence of sustained third-person base sections requiring ALTERNATING; remaining uncertainty about brief frame transitions does not undermine the controlling FIRST classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_092",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:34:09.055680+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a09307d6107148360f18f58d295b552d2b04a924155719fa31a544c92dd090f5"
+  }
+}

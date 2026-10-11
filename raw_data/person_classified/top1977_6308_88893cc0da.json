@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1977:6308",
+  "quotes": [
+    {
+      "quote_id": "q02230",
+      "person_signal": "non_base",
+      "note": "Gnomic lore formula; it does not identify a participating narrator."
+    },
+    {
+      "quote_id": "q02231",
+      "person_signal": "non_base",
+      "note": "Direct speech; the brief attribution does not establish base person."
+    },
+    {
+      "quote_id": "q02232",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q02233",
+      "person_signal": "unmarked",
+      "note": "The historiographic phrase 'came down to us' identifies recipients of tradition, not a narrator participating in the narrated events."
+    },
+    {
+      "quote_id": "q02234",
+      "person_signal": "non_base",
+      "note": "Il\u00favatar's direct speech, not base narration."
+    },
+    {
+      "quote_id": "q02235",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02236",
+      "person_signal": "non_base",
+      "note": "Quoted verse rather than controlling prose narration."
+    },
+    {
+      "quote_id": "q02237",
+      "person_signal": "non_base",
+      "note": "Direct counsel addressed to a character."
+    },
+    {
+      "quote_id": "q02238",
+      "person_signal": "non_base",
+      "note": "General reflection rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02239",
+      "person_signal": "non_base",
+      "note": "Proverbial statement without base-person evidence."
+    },
+    {
+      "quote_id": "q02240",
+      "person_signal": "non_base",
+      "note": "Authorial commentary about magic and art, not story narration."
+    },
+    {
+      "quote_id": "q02241",
+      "person_signal": "unmarked",
+      "note": "A short external statement about Il\u00favatar alone cannot distinguish first-person historical retelling from third-person narration."
+    },
+    {
+      "quote_id": "q02242",
+      "person_signal": "unmarked",
+      "note": "Brief description of Galadriel with no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02243",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first and second persons belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q02244",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Beren and L\u00fathien and reports Beren's memories and thoughts."
+    },
+    {
+      "quote_id": "q02245",
+      "person_signal": "unmarked",
+      "note": "Compressed historical summary with no explicit narrator position."
+    },
+    {
+      "quote_id": "q02246",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about oaths, not diagnostic narration."
+    },
+    {
+      "quote_id": "q02247",
+      "person_signal": "non_base",
+      "note": "Expository authorial commentary on Elves and Men, not base story narration."
+    },
+    {
+      "quote_id": "q02248",
+      "person_signal": "third",
+      "note": "Sustained creation narrative treats Eru and the Ainur externally without a participating narrator."
+    },
+    {
+      "quote_id": "q02249",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Sauron's spirit, return, and new form."
+    },
+    {
+      "quote_id": "q02250",
+      "person_signal": "non_base",
+      "note": "Character speech, including its first-person plural, is not narrator evidence."
+    },
+    {
+      "quote_id": "q02251",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, substantial outside narration recounts H\u00farin's actions before enclosing his cry."
+    },
+    {
+      "quote_id": "q02252",
+      "person_signal": "unmarked",
+      "note": "Brief third-person description alone does not securely expose narrator participation."
+    },
+    {
+      "quote_id": "q02253",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim without diagnostic story narration."
+    },
+    {
+      "quote_id": "q02254",
+      "person_signal": "non_base",
+      "note": "Direct accusation; visible persons belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q02255",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts L\u00fathien's song, tears, and Mandos's response."
+    },
+    {
+      "quote_id": "q02256",
+      "person_signal": "non_base",
+      "note": "Direct collective speech, not controlling narration."
+    },
+    {
+      "quote_id": "q02257",
+      "person_signal": "unmarked",
+      "note": "Single compressed creation statement lacks enough local context to establish narrator person independently."
+    },
+    {
+      "quote_id": "q02258",
+      "person_signal": "third",
+      "note": "Sustained external creation narration describes the Ainur and the music across multiple clauses."
+    },
+    {
+      "quote_id": "q02259",
+      "person_signal": "non_base",
+      "note": "Maedhros's direct speech; the introductory attribution is nondiagnostic."
+    },
+    {
+      "quote_id": "q02260",
+      "person_signal": "non_base",
+      "note": "Authorial or gnomic commentary about art, not story narration."
+    },
+    {
+      "quote_id": "q02261",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally depicts L\u00fathien, Beren, their actions, and the changing landscape."
+    },
+    {
+      "quote_id": "q02262",
+      "person_signal": "unmarked",
+      "note": "Short event summary without an exposed narrator position."
+    },
+    {
+      "quote_id": "q02263",
+      "person_signal": "non_base",
+      "note": "Editorial closing paratext rather than controlling event narration."
+    },
+    {
+      "quote_id": "q02264",
+      "person_signal": "unmarked",
+      "note": "A short verse account names Felagund but does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q02265",
+      "person_signal": "unmarked",
+      "note": "Single historical death statement is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q02266",
+      "person_signal": "third",
+      "note": "Extensive outside narration frames Fingon and Maedhros's actions around a local prayer."
+    },
+    {
+      "quote_id": "q02267",
+      "person_signal": "third",
+      "note": "The speeches are locally embedded within external narration that identifies the speakers and summarizes their continuing alliance."
+    },
+    {
+      "quote_id": "q02268",
+      "person_signal": "third",
+      "note": "Despite its dialogue bucket, the passage externally narrates Morwen's death and H\u00farin's perception."
+    },
+    {
+      "quote_id": "q02269",
+      "person_signal": "unmarked",
+      "note": "Brief historical description of Galadriel and Celeborn does not by itself expose narrator participation."
+    },
+    {
+      "quote_id": "q02270",
+      "person_signal": "third",
+      "note": "Sustained external scene narration depicts Morgoth and Fingolfin without a participating narrator."
+    },
+    {
+      "quote_id": "q02271",
+      "person_signal": "non_base",
+      "note": "Galadriel's direct speech, including 'I,' is local character voice."
+    },
+    {
+      "quote_id": "q02272",
+      "person_signal": "third",
+      "note": "Sustained external narration reports B\u00ebor's death and the Eldar's knowledge, grief, and wonder."
+    },
+    {
+      "quote_id": "q02273",
+      "person_signal": "third",
+      "note": "Substantial external narration frames Isildur's refusal and embeds his first-person speech locally."
+    },
+    {
+      "quote_id": "q02274",
+      "person_signal": "non_base",
+      "note": "Direct address to characters, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02275",
+      "person_signal": "unmarked",
+      "note": "Single description of Maedhros does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q02276",
+      "person_signal": "third",
+      "note": "Long historical narration externally surveys the Three Rings, their keepers, and later consequences."
+    },
+    {
+      "quote_id": "q02277",
+      "person_signal": "third",
+      "note": "Sustained outside narration frames Thingol's question and Beren's reply and reports Beren's perceptions."
+    },
+    {
+      "quote_id": "q02278",
+      "person_signal": "third",
+      "note": "Extended external historical narration recounts Elrond's life, household, knowledge, and purpose."
+    },
+    {
+      "quote_id": "q02279",
+      "person_signal": "non_base",
+      "note": "Olw\u00eb's direct reply is local speech."
+    },
+    {
+      "quote_id": "q02280",
+      "person_signal": "third",
+      "note": "The passage externally narrates Finrod's burial and later state across a broad timespan."
+    },
+    {
+      "quote_id": "q02281",
+      "person_signal": "unmarked",
+      "note": "Brief historical setting description lacks explicit narrator-position evidence."
+    },
+    {
+      "quote_id": "q02282",
+      "person_signal": "third",
+      "note": "Finrod's first-person farewell is embedded within external narration of his death and Beren's mourning."
+    },
+    {
+      "quote_id": "q02283",
+      "person_signal": "third",
+      "note": "Sustained external description compares the two musics without placing the narrator within the action."
+    },
+    {
+      "quote_id": "q02284",
+      "person_signal": "third",
+      "note": "Extended narration externally recounts Sauron, the Elves, the rings, their motives, and consequences."
+    },
+    {
+      "quote_id": "q02285",
+      "person_signal": "third",
+      "note": "Long external narration frames the characters' speeches and reports what Thingol's listeners perceived and knew."
+    },
+    {
+      "quote_id": "q02286",
+      "person_signal": "third",
+      "note": "Although bucketed as dialogue, most of the passage is external narration about Il\u00favatar and Men before a local quotation."
+    },
+    {
+      "quote_id": "q02287",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur entirely in direct character speech."
+    },
+    {
+      "quote_id": "q02288",
+      "person_signal": "third",
+      "note": "Sustained external narration describes Nienna's nature, inner sorrow, actions, and effects on others."
+    },
+    {
+      "quote_id": "q02289",
+      "person_signal": "non_base",
+      "note": "Local speech about mortality, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q02290",
+      "person_signal": "non_base",
+      "note": "Proverbial statement without narrator evidence."
+    },
+    {
+      "quote_id": "q02291",
+      "person_signal": "non_base",
+      "note": "Authorial paratext about stories and the Fall, not narration within the book."
+    },
+    {
+      "quote_id": "q02292",
+      "person_signal": "non_base",
+      "note": "Clipped but clearly attributed direct speech; it does not expose base person."
+    },
+    {
+      "quote_id": "q02293",
+      "person_signal": "unmarked",
+      "note": "Clipped single event clause with only a third-person subject."
+    },
+    {
+      "quote_id": "q02294",
+      "person_signal": "unmarked",
+      "note": "Short account of naming Maeglin is insufficient by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02295",
+      "person_signal": "non_base",
+      "note": "First-person singular and plural forms belong to a character's oath speech."
+    },
+    {
+      "quote_id": "q02296",
+      "person_signal": "unmarked",
+      "note": "Bare third-person event statement without diagnostic narrator context."
+    },
+    {
+      "quote_id": "q02297",
+      "person_signal": "third",
+      "note": "Sustained external narration follows E\u00e4rendil and his vessel across repeated voyages."
+    },
+    {
+      "quote_id": "q02298",
+      "person_signal": "unmarked",
+      "note": "Single sentence about a character's desires does not alone distinguish the book's narrator person."
+    },
+    {
+      "quote_id": "q02299",
+      "person_signal": "third",
+      "note": "Sustained historical narration externally surveys Elves and Men across an extended period."
+    },
+    {
+      "quote_id": "q02300",
+      "person_signal": "unmarked",
+      "note": "Brief description of a group in third-person grammar is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02301",
+      "person_signal": "non_base",
+      "note": "F\u00ebanor's first-person speech is local dialogue."
+    },
+    {
+      "quote_id": "q02302",
+      "person_signal": "third",
+      "note": "Extended external narration reports the Ainur's perceptions, knowledge, and response to the Children."
+    },
+    {
+      "quote_id": "q02303",
+      "person_signal": "unmarked",
+      "note": "Short historical statement about Men lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02304",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally depicts Morgoth, L\u00fathien, their actions, and Morgoth's burden."
+    },
+    {
+      "quote_id": "q02305",
+      "person_signal": "third",
+      "note": "Extended external narration recounts the making, use, and mental effects of the One Ring."
+    },
+    {
+      "quote_id": "q02306",
+      "person_signal": "non_base",
+      "note": "The Doom is delivered as direct address; 'you' is not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q02307",
+      "person_signal": "non_base",
+      "note": "Paratextual Ring verse rather than controlling prose narration."
+    },
+    {
+      "quote_id": "q02308",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in direct character speech."
+    },
+    {
+      "quote_id": "q02309",
+      "person_signal": "non_base",
+      "note": "Questions and first-person possessives belong to direct speech."
+    },
+    {
+      "quote_id": "q02310",
+      "person_signal": "third",
+      "note": "External historical narration describes Manw\u00eb, Morgoth, and continuing consequences without a participating narrator."
+    },
+    {
+      "quote_id": "q02311",
+      "person_signal": "non_base",
+      "note": "Il\u00favatar's first- and second-person forms occur in direct speech."
+    },
+    {
+      "quote_id": "q02312",
+      "person_signal": "third",
+      "note": "Long external narration recounts Melkor's defeat, capture, imprisonment, and the Valar's incomplete search."
+    },
+    {
+      "quote_id": "q02313",
+      "person_signal": "third",
+      "note": "Extended external narration surveys Melkor's fortress, the marring of Arda, and the Valar's response."
+    },
+    {
+      "quote_id": "q02314",
+      "person_signal": "third",
+      "note": "Continuous external narration follows Nienor's actions, awakening, perceptions, and lack of memory."
+    },
+    {
+      "quote_id": "q02315",
+      "person_signal": "non_base",
+      "note": "First-person plural and second-person address occur in local speech."
+    },
+    {
+      "quote_id": "q02316",
+      "person_signal": "unmarked",
+      "note": "Single expository sentence about Elvish and human names does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q02317",
+      "person_signal": "non_base",
+      "note": "Quoted gnomic verse, not controlling prose narration."
+    },
+    {
+      "quote_id": "q02318",
+      "person_signal": "non_base",
+      "note": "Authorial paratext concerning myth and art, not the story narrator."
+    },
+    {
+      "quote_id": "q02319",
+      "person_signal": "third",
+      "note": "Extended historical narration externally traces numerous Elves and their descendants across ages."
+    },
+    {
+      "quote_id": "q02320",
+      "person_signal": "third",
+      "note": "Substantial outside narration frames Fingon's cry and the army's response."
+    },
+    {
+      "quote_id": "q02321",
+      "person_signal": "third",
+      "note": "Sustained external historical narration surveys N\u00famen\u00f3rean death, fear, violence, and Sauron's influence."
+    },
+    {
+      "quote_id": "q02322",
+      "person_signal": "non_base",
+      "note": "Doctrinal direct speech, not base narration."
+    },
+    {
+      "quote_id": "q02323",
+      "person_signal": "third",
+      "note": "Long outside narration follows T\u00farin and Glaurung, embeds the dragon's speech, and returns to T\u00farin's response."
+    },
+    {
+      "quote_id": "q02324",
+      "person_signal": "third",
+      "note": "External narration reports M\u00edriel's condition and yearning before embedding her first-person speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://files01.core.ac.uk/download/pdf/236231503.pdf",
+      "title": "Point of View in Tolkien",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Christine Barkley's Mythlore article analyzes the omniscient narrator of The Silmarillion and contrasts that mode with limited third-person narration, supporting an external third-person base voice."
+    },
+    {
+      "url": "https://doktori.bibl.u-szeged.hu/1515/1/Nagy_Gergely_disszertacio.pdf",
+      "title": "'Ye Olde Authour': Tolkien's Anatomy of Tradition in The Silmarillion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Gergely Nagy's University of Szeged dissertation analyzes the unified 1977 text, its absent overt frame, and its third-person narration while distinguishing surface voice from hypothetical in-world authorship."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/the-silmarillion",
+      "title": "The Silmarillion Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies the book's point of view as third person through an unnamed narrator and covers all constituent sections."
+    },
+    {
+      "url": "https://www.silmarillionwritersguild.org/node/7829",
+      "title": "Death, Grief, and the Other in the Quenta Silmarillion",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Structural analysis of the longest section explains that the published edition removed explicit source-narrator attributions; its dispute over omniscience concerns knowledge and bias, not a shift away from external third-person narration."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/179220/the-silmarillion-by-jrr-tolkien/",
+      "title": "The Silmarillion by J.R.R. Tolkien",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Publisher page verifies the work and its multi-era contents, but its catalog description and inaccessible scripted sample do not establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched for authorized excerpts with: The Silmarillion J.R.R. Tolkien official excerpt Ainulindal\u00eb publisher; Google Books and the Penguin Random House sample entry did not expose sustained readable prose in the web interface.",
+    "Searched for structural evidence with: The Silmarillion narrative voice narrator third person scholarly; opened the University of Szeged dissertation and Silmarillion Writers' Guild analyses.",
+    "Searched exact person formulations with: \"The Silmarillion\" \"third-person narrator\", \"third person narration\", and \"third-person narrative\"; located Barkley's Mythlore article and corroborating scholarly discussion.",
+    "Searched Christine Barkley \"Point of View in Tolkien\" PDF Mythlore 1996 and opened the journal landing page and full-text result.",
+    "Searched whole-book reference guides for The Silmarillion narrator omniscient point of view; opened LitCharts and GradeSaver, with LitCharts providing the clearer explicit whole-book third-person statement.",
+    "Searched publisher domains including Penguin Random House, HarperCollins, Hachette, and Tolkien.co.uk; Penguin Random House verified the edition but added no usable POV evidence."
+  ],
+  "person_note": "The controlling surface narration is third person: numerous long passages independently and externally narrate characters across the creation account, Quenta Silmarillion, Akallab\u00eath, and the Ring history, often reporting thoughts and events no participating speaker frames. First- and second-person forms in the sample are overwhelmingly direct speech, verse, or authorial paratext. The lone narratorial 'came down to us' in q02233 is a historiographic gesture toward a receiving tradition, not sustained narration by a character participating in the events. Scholarship debates whether hidden Elven, Mannish, or compiled in-world sources underlie the published voice and whether it is omniscient, but that focalization and source question does not create a sustained first-person section. No credible evidence of alternating base person was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_019",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T06:16:23.673728+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9680c84250ff535f9d5c5657968069af072ea065922c781c78ebe76fc6a4bdee"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:87",
+  "quotes": [
+    {
+      "quote_id": "q00127",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00128",
+      "person_signal": "non_base",
+      "note": "General aphorism that does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00129",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison; \u201cyou\u201d is universal rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q00130",
+      "person_signal": "non_base",
+      "note": "General maxim; \u201cyou\u201d is generic and not a story-specific protagonist."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/703/A-Day-Late-and-A-Dollar-Short",
+      "title": "Excerpt from A Day Late and A Dollar Short by Terry McMillan",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reprinted with Viking Books\u2019 permission opens with Viola narrating her own circumstances and family relationships as \u201cI.\u201d"
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/day-late-and-dollar-short-terry-mcmillan",
+      "title": "A Day Late and a Dollar Short by Terry McMillan",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This EBSCO/Magill\u2019s structural analysis explicitly identifies six first-person narrators: Viola, Cecil, and their four children."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/293143/a-day-late-and-a-dollar-short-by-terry-mcmillan/9780451211088/readers-guide",
+      "title": "A Day Late and a Dollar Short Reader\u2019s Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The publisher guide describes each Price speaking in an individual voice, calls them the novel\u2019s six narrators, and includes first-person reflections from several of them."
+    },
+    {
+      "url": "https://www.latimes.com/archives/la-xpm-2001-feb-16-cl-25967-story.html",
+      "title": "Delicious Family Saga Finds Terry McMillan in Top Form",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review describes six distinctive voices and successive narrators, while quoting Viola\u2019s participating first-person narration."
+    },
+    {
+      "url": "https://www.sfgate.com/books/article/better-late-than-never-seven-years-after-her-2964412.php",
+      "title": "Better Late Than Never / Seven years after her mother's death, McMillan finishes her novel of family dynamics",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review states that the novel comprises alternating chapters narrated by the individual family characters and discusses the characters\u2019 distinct narratorial voices."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cA Day Late and a Dollar Short Terry McMillan excerpt narrator\u201d and opened the permission-reprinted BookBrowse excerpt.",
+    "Searched \u201cA Day Late and a Dollar Short first person\u201d and \u201csix first-person narrators A Day Late and a Dollar Short\u201d; found and opened EBSCO\u2019s whole-book structural analysis.",
+    "Searched for multiple narrators, point of view, and the six Price-family narrators; opened the Penguin Random House reader\u2019s guide and author interview.",
+    "Searched newspaper reviews describing the narrative structure; opened the Los Angeles Times and SFGATE reviews.",
+    "Opened the Penguin Random House product page, but its catalog description alone was not person-diagnostic.",
+    "The Bookreporter page timed out when opened, so it was not used as evidence."
+  ],
+  "person_note": "The supplied quotes are all gnomic sayings and provide no base-narrator evidence. The authorized opening independently demonstrates Viola\u2019s first-person narration, while EBSCO explicitly establishes that the whole novel uses six first-person narrators. Publisher and major-review descriptions corroborate the multi-narrator chapter structure. Because every sustained narrator uses first person, the changing narrators do not make the book ALTERNATING under the methodology. No credible evidence of sustained second- or third-person sections was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.234473+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f4a8b1449447b06156142836fee5a968fca82277da1b542eda63246aecea214b"
+  }
+}

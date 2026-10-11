@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:3883",
+  "quotes": [
+    {
+      "quote_id": "q04064",
+      "person_signal": "non_base",
+      "note": "General financial maxim using generic second person; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q04065",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Ash; its pronouns are not base-narration evidence."
+    },
+    {
+      "quote_id": "q04066",
+      "person_signal": "non_base",
+      "note": "Standalone general exhortation rather than story-specific narration."
+    },
+    {
+      "quote_id": "q04067",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but this isolated third-person subject is too brief to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q04068",
+      "person_signal": "non_base",
+      "note": "Ingrid's directly quoted speech; first- and second-person pronouns belong to the character."
+    },
+    {
+      "quote_id": "q04069",
+      "person_signal": "non_base",
+      "note": "Generic reflection addressing an unspecified you, not sustained narration of a story protagonist."
+    },
+    {
+      "quote_id": "q04070",
+      "person_signal": "non_base",
+      "note": "Dialogue with a minimal speech tag; the tag alone is insufficient to establish base person."
+    },
+    {
+      "quote_id": "q04071",
+      "person_signal": "non_base",
+      "note": "Prayer-like quoted exhortation, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q04072",
+      "person_signal": "non_base",
+      "note": "Text printed on an embedded tip-jar sign rather than narratorial discourse."
+    },
+    {
+      "quote_id": "q04073",
+      "person_signal": "non_base",
+      "note": "Aphoristic generic-you passage; it does not cast a story-specific protagonist as you."
+    },
+    {
+      "quote_id": "q04074",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to she could occur within either first- or third-person narration."
+    },
+    {
+      "quote_id": "q04075",
+      "person_signal": "third",
+      "note": "Sustained external narration depicts Dee Dee and gives Ash's reaction and private thought without a participating narrator."
+    },
+    {
+      "quote_id": "q04076",
+      "person_signal": "third",
+      "note": "The narration externally identifies Simon and reports what he remembered, while the embedded generic-you explanation is not second-person story narration."
+    },
+    {
+      "quote_id": "q04077",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Dee Dee externally and reports her perception and hope in third person."
+    },
+    {
+      "quote_id": "q04078",
+      "person_signal": "third",
+      "note": "External narration identifies Simon and conveys his private expectation about Rocco."
+    },
+    {
+      "quote_id": "q04079",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narrator reports Cornelius's actions and Simon's belief in third person."
+    },
+    {
+      "quote_id": "q04080",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Simon's actions, attempted comprehension, and changing understanding."
+    },
+    {
+      "quote_id": "q04081",
+      "person_signal": "third",
+      "note": "The narratorial frame depicts Elena and evaluates the caller externally; generic you appears only in an aside."
+    },
+    {
+      "quote_id": "q04082",
+      "person_signal": "non_base",
+      "note": "Generalized reflection about college using generic you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04083",
+      "person_signal": "third",
+      "note": "Sustained external scene narration covers several characters and reports Ash's earlier experience and fascination."
+    },
+    {
+      "quote_id": "q04084",
+      "person_signal": "third",
+      "note": "After Dee Dee's brief speech, external narration follows a male character's return to consciousness and perception of the room."
+    },
+    {
+      "quote_id": "q04085",
+      "person_signal": "third",
+      "note": "External narration names Elena and describes her actions in a continuous scene."
+    },
+    {
+      "quote_id": "q04086",
+      "person_signal": "third",
+      "note": "External narration establishes Elena's location and describes Isaacson greeting her, with no participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.novelsuspects.com/excerpts/read-four-chapters-of-run-away-by-harlan-coben/",
+      "title": "Read an excerpt from Harlan Coben\u2019s thriller RUN AWAY",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Hachette Book Group's authorized first-four-chapter excerpt consistently narrates Simon externally as he and reports his actions, memories, perceptions, and thoughts in third person."
+    },
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781804956397/9781804956397-sample.pdf",
+      "title": "RUN AWAY \u2014 Harlan Coben sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized 38-page sample corroborates sustained third-person narration across the opening chapters."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2019/3/12/run-away-review/",
+      "title": "'Run Away,' Please",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly says the plot is told in third person and describes an omniscient narrator plus chapters focalized through Ash and Dee Dee; it treats second-person address as occasional digressive tangents rather than a separate story narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Harlan Coben Run Away official excerpt Simon third person\" and found the author-linked Hachette/Novel Suspects excerpt.",
+    "Searched \"Run Away Harlan Coben first chapter excerpt publisher\" and opened authorized Hachette and Penguin samples.",
+    "Searched \"Run Away Harlan Coben point of view third person narrator\" and opened The Harvard Crimson's explicit whole-book discussion of narrative voice.",
+    "Searched \"Run Away Harlan Coben multiple points of view review\"; Kirkus described alternating focal-character investigations but did not explicitly establish a different grammatical person.",
+    "Checked the author's Run Away page; its second-person promotional synopsis was treated as catalog copy, not narration evidence."
+  ],
+  "person_note": "The authorized opening excerpts sustain third-person narration centered on Simon, while the Goodreads passages independently show third-person interior scenes centered on Simon, Elena, Ash, and Dee Dee. The whole-book Crimson review explicitly confirms that the plot is told in third person and characterizes its second-person language as occasional reader-addressing tangents. Generic-you aphorisms, dialogue, prayer, and sign text therefore do not create sustained second-person sections. The main limitation is that the authorized prose sources cover only the opening, but the varied interior quotes and explicit whole-book review resolve that scope limitation without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_067",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T04:56:52.145613+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2f575e03a66df15ce090a9ec3550ca270aeca155954ae6db95927f3ba77847e7"
+  }
+}

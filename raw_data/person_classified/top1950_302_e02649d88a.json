@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1950:302",
+  "quotes": [
+    {
+      "quote_id": "q00461",
+      "person_signal": "non_base",
+      "note": "Universal advice using generic you; gnomic material does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00462",
+      "person_signal": "unmarked",
+      "note": "Brief narration about an unnamed he; the third-person subject alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00463",
+      "person_signal": "unclear",
+      "note": "The unanchored I could be speech, thought, or narration; lost context prevents attribution."
+    },
+    {
+      "quote_id": "q00464",
+      "person_signal": "unmarked",
+      "note": "Reports a man's feeling and tagged thought, but the short passage does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q00465",
+      "person_signal": "unmarked",
+      "note": "Extended description of his smile contains no participating narrator, but third-person subjects alone are not conclusive."
+    },
+    {
+      "quote_id": "q00466",
+      "person_signal": "non_base",
+      "note": "General maxim with generic everyone and you; it is not story-specific narration."
+    },
+    {
+      "quote_id": "q00467",
+      "person_signal": "non_base",
+      "note": "Direct speech by the girl; the speech pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00468",
+      "person_signal": "non_base",
+      "note": "Direct character speech, including the speaker's I and generic you."
+    },
+    {
+      "quote_id": "q00469",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased sentence about the Colonel is insufficient by itself to establish third-person narration."
+    },
+    {
+      "quote_id": "q00470",
+      "person_signal": "non_base",
+      "note": "Dialogue and card-playing metaphor; its I and you belong to speakers."
+    },
+    {
+      "quote_id": "q00471",
+      "person_signal": "non_base",
+      "note": "Unattributed dialogue rather than controlling narration."
+    },
+    {
+      "quote_id": "q00472",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion using generic you."
+    },
+    {
+      "quote_id": "q00473",
+      "person_signal": "non_base",
+      "note": "Aphorism without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00474",
+      "person_signal": "non_base",
+      "note": "A dialogue exchange; visible pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q00475",
+      "person_signal": "unmarked",
+      "note": "The first-person wording is explicitly Cantwell's tagged thought, not narratorial I; the short outside tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00476",
+      "person_signal": "unmarked",
+      "note": "Brief third-person action with generic you, but too little context to determine narrator participation."
+    },
+    {
+      "quote_id": "q00477",
+      "person_signal": "non_base",
+      "note": "Gnomic, second-person wording rather than sustained story-specific narration."
+    },
+    {
+      "quote_id": "q00478",
+      "person_signal": "unclear",
+      "note": "A clipped noun-phrase fragment lacks enough syntax and context to identify narration."
+    },
+    {
+      "quote_id": "q00479",
+      "person_signal": "non_base",
+      "note": "Direct dialogue with conventional speech tags; no diagnostic narratorial pronoun appears."
+    },
+    {
+      "quote_id": "q00480",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short external action beat does not independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q00481",
+      "person_signal": "non_base",
+      "note": "Direct speech by the Colonel."
+    },
+    {
+      "quote_id": "q00482",
+      "person_signal": "third",
+      "note": "Sustained external narration follows the Colonel as he and accesses his thoughts; the later I is Cantwell's interior voice, introduced by 'he thought,' rather than the outside narrator."
+    },
+    {
+      "quote_id": "q00483",
+      "person_signal": "non_base",
+      "note": "Direct speech by the girl with a speech tag."
+    },
+    {
+      "quote_id": "q00484",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence and omits the subject, preventing reliable attribution."
+    },
+    {
+      "quote_id": "q00485",
+      "person_signal": "non_base",
+      "note": "Direct character speech rather than base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.ca/ebooks/hemingwaye-acrosstheriver/hemingwaye-acrosstheriver-00-h.html",
+      "title": "Across the River and Into the Trees, by Ernest Hemingway",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The complete searchable novel predominantly narrates Cantwell externally as he or the Colonel. Chapter XXXV becomes a sustained, unquoted first-person war recollection using I and we, and Chapter XXXVI returns to third-person narration."
+    },
+    {
+      "url": "https://elibrary.tucl.edu.np/bitstreams/933776a5-5aee-4e03-97db-92b1a284b0ae/download",
+      "title": "Ernest Hemingway's Across the River and into the Trees: A Study in Narrative Technique",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "This scholarly study distinguishes the limited heterodiegetic narrator from Cantwell as fixed internal focalizer and describes the third-person duck-shoot frame and extended interior-monologue structure, corroborating the novel's mixed narrative modes."
+    },
+    {
+      "url": "https://www.supersummary.com/across-the-river-and-into-the-trees/chapters-28-36-summary/",
+      "title": "Across the River and into the Trees Chapters 28-36",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The chapter analysis explicitly states that Chapter 35 switches into a first-person account of Cantwell's past without the filter of the third-person narrator, before the following chapter returns to the present scene."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Across the River and Into the Trees\" Hemingway excerpt first chapter narrator point of view.",
+    "Searched: \"Across the River and Into the Trees\" third person narration scholarly.",
+    "Searched: \"Across the River and Into the Trees\" full text excerpt Colonel he thought.",
+    "Searched: \"Across the River and Into the Trees\" narrative technique point of view.",
+    "Targeted follow-up searches for \"third-person narrator,\" \"heterodiegetic narrator,\" and the Chapter XXXV transition located a full text, a university thesis, and an explicit chapter analysis.",
+    "The USF thesis landing page was found, but its PDF returned HTTP 403 and supplied no usable person-specific passage."
+  ],
+  "person_note": "The controlling narrative is predominantly a nonparticipating third-person voice closely focalized through Colonel Cantwell. Chapter XXXV contains a single chapter-length first-person interior war account, but it remains subordinate to and embedded within the otherwise third-person novel rather than forming a co-controlling base strand. Under the clarified base-narration rule, the book label is THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_007",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:35:09.685668+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "17b7087a0e2e40d7fe51327f0100847babd1afb7047c322ca7f98b1f285d1070"
+  }
+}

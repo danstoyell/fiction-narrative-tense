@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:SUMMER IN THE CITY|Alex Aster",
+  "quotes": [
+    {
+      "quote_id": "q10630",
+      "person_signal": "non_base",
+      "note": "The first-person wording is Parker's dialogue; the external tag 'he says' does not identify the base narrator's person."
+    },
+    {
+      "quote_id": "q10631",
+      "person_signal": "non_base",
+      "note": "The pronouns occur in Parker's speech, while the brief third-person action beat does not establish the narrator's participation status."
+    },
+    {
+      "quote_id": "q10632",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q10633",
+      "person_signal": "first",
+      "note": "The narratorial speech tag 'I say' exposes the participating narrator outside the quoted dialogue."
+    },
+    {
+      "quote_id": "q10634",
+      "person_signal": "non_base",
+      "note": "A general reflection with universal 'you'; the parenthetical 'I think' is not a sufficiently situated narrative moment on its own."
+    },
+    {
+      "quote_id": "q10635",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection on life and love; its generalized 'we' is not diagnostic base narration."
+    },
+    {
+      "quote_id": "q10636",
+      "person_signal": "non_base",
+      "note": "Essayistic reflection about love rather than a situated narrative action."
+    },
+    {
+      "quote_id": "q10637",
+      "person_signal": "first",
+      "note": "'She told me' places the participating narrator within a specific remembered event."
+    },
+    {
+      "quote_id": "q10638",
+      "person_signal": "first",
+      "note": "Sustained character-specific self-narration repeatedly uses 'I' and 'me' outside dialogue."
+    },
+    {
+      "quote_id": "q10639",
+      "person_signal": "first",
+      "note": "'My mom' and the narrator's present reflection expose a participating first-person narrator."
+    },
+    {
+      "quote_id": "q10640",
+      "person_signal": "first",
+      "note": "The narrator describes her own current life using 'I'."
+    },
+    {
+      "quote_id": "q10641",
+      "person_signal": "unmarked",
+      "note": "This may be base narration, but describing an unnamed woman as 'she' does not by itself distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q10642",
+      "person_signal": "first",
+      "note": "'My own words,' 'my chest,' and 'I think' situate the passage in the participating narrator's experience."
+    },
+    {
+      "quote_id": "q10643",
+      "person_signal": "first",
+      "note": "Character-specific self-narration uses 'I,' 'my,' and 'me' outside dialogue."
+    },
+    {
+      "quote_id": "q10644",
+      "person_signal": "non_base",
+      "note": "The second- and first-person pronouns occur entirely within an exchange between characters."
+    },
+    {
+      "quote_id": "q10645",
+      "person_signal": "non_base",
+      "note": "The first-person claims belong to direct speech, not base narration."
+    },
+    {
+      "quote_id": "q10646",
+      "person_signal": "first",
+      "note": "The narrator recounts her own change using 'I' and 'me' across past and present clauses."
+    },
+    {
+      "quote_id": "q10647",
+      "person_signal": "first",
+      "note": "A participating narrator reports her own action and thought with 'I' and 'my'."
+    },
+    {
+      "quote_id": "q10648",
+      "person_signal": "non_base",
+      "note": "A generalized observation about men and women does not expose the base narrator's person."
+    },
+    {
+      "quote_id": "q10649",
+      "person_signal": "non_base",
+      "note": "All person markers belong to character dialogue."
+    },
+    {
+      "quote_id": "q10650",
+      "person_signal": "first",
+      "note": "Although most of the passage is dialogue, the external tag 'I say' diagnostically identifies the participating narrator."
+    },
+    {
+      "quote_id": "q10651",
+      "person_signal": "non_base",
+      "note": "The bookstore reflection is gnomic, and its universal 'we' does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q10652",
+      "person_signal": "first",
+      "note": "The narrator directly reports her own thought with 'I' and 'me' in a story-specific context."
+    },
+    {
+      "quote_id": "q10653",
+      "person_signal": "first",
+      "note": "Character-specific self-description uses 'I' and 'me' as base narration."
+    },
+    {
+      "quote_id": "q10654",
+      "person_signal": "first",
+      "note": "The participating narrator describes being kissed using 'me,' 'my,' and 'we' outside dialogue."
+    },
+    {
+      "quote_id": "q10655",
+      "person_signal": "non_base",
+      "note": "A generalized statement about New York weekends does not independently identify the narrator's person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.cosmopolitan.com/entertainment/books/a61588508/alex-aster-summer-in-the-city-excerpt/",
+      "title": "Exclusive: Alex Aster's \u2018Summer in the City\u2019 Excerpt is Hotter Than the Rest of Your TBR",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reprinted with William Morrow's permission narrates an interior scene through Elle's continuous participating 'I' voice."
+    },
+    {
+      "url": "https://www.oprahdaily.com/entertainment/books/a64274281/alex-aster-summer-in-the-city-excerpt/",
+      "title": "Read This Steamy Excerpt from Alex Aster's Summer in the City",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "A second authorized, publisher-permission excerpt presents a different scene through Elle's sustained first-person narration."
+    },
+    {
+      "url": "https://www.supersummary.com/summer-in-the-city/background/",
+      "title": "Summer in the City Background",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly states that Aster wrote this novel in first person and identifies the perspective as Elle's."
+    },
+    {
+      "url": "https://www.supersummary.com/summer-in-the-city/chapters-1-10-summary/",
+      "title": "Summer in the City Chapters 1-10 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The structural analysis explicitly identifies the novel's narration as first-person limited through Elle and explains that readers are restricted to her subjective perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \"Summer in the City\" \"Alex Aster\" excerpt; opened sustained authorized excerpts in Cosmopolitan and Oprah Daily.",
+    "Searched \"Summer in the City\" \"Alex Aster\" \"first person\" and point-of-view/narrator variants; opened SuperSummary's explicit whole-book perspective discussion.",
+    "Searched for alternating POV, dual POV, and chapter-level perspective; found no credible indication of sustained narration outside Elle's first-person voice.",
+    "Checked Google Books and publisher-oriented catalog results; their synopses verified the work and protagonist but were not treated as person evidence.",
+    "Reviewed a HarperCollins Holland sample and other retail/sample results for corroboration; translated or catalog material was unnecessary once stronger English-language evidence was available."
+  ],
+  "person_note": "The event quotes repeatedly expose Elle as a participating first-person narrator, while first- or second-person language in dialogue and gnomic statements was excluded from the decision. Two authorized excerpts independently show sustained first-person scene narration, and the whole-book study guide explicitly identifies Elle's first-person perspective; targeted searches found no alternating or dual-POV structure. The only unmarked event quote describes another woman as 'she,' which is fully compatible with Elle's first-person narration and creates no conflict.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_091",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:18:21.642483+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f2621cb3961f47b80ec294204e488e830ecb7aaa5c3b90dd16356eee14b4928e"
+  }
+}

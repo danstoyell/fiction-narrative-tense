@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:2758",
+  "quotes": [
+    {
+      "quote_id": "q02918",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection on justice; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q02919",
+      "person_signal": "non_base",
+      "note": "General exposition about narcissism and murderers is not diagnostic of narrator participation."
+    },
+    {
+      "quote_id": "q02920",
+      "person_signal": "unmarked",
+      "note": "Story-specific recollection uses 'she,' but this isolated sentence does not by itself establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02921",
+      "person_signal": "non_base",
+      "note": "General political maxim; narrator person is not exposed."
+    },
+    {
+      "quote_id": "q02922",
+      "person_signal": "unclear",
+      "note": "Clipped conditional fragment lacks enough context to identify its voice."
+    },
+    {
+      "quote_id": "q02923",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in direct speech, not base narration."
+    },
+    {
+      "quote_id": "q02924",
+      "person_signal": "unmarked",
+      "note": "The fragment describes story-world actors as 'they' but does not provide enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q02925",
+      "person_signal": "unmarked",
+      "note": "Story-specific description refers to an unnamed 'she,' but the short passage alone is insufficient to prove the controlling person."
+    },
+    {
+      "quote_id": "q02926",
+      "person_signal": "unmarked",
+      "note": "Story-specific travel exposition uses 'she,' but no participating or explicitly external narrator is independently exposed."
+    },
+    {
+      "quote_id": "q02927",
+      "person_signal": "non_base",
+      "note": "Aphoristic reflection is not diagnostic of base-narrator person."
+    },
+    {
+      "quote_id": "q02928",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns belong to direct dialogue; the brief attribution does not independently establish the book-level narrator."
+    },
+    {
+      "quote_id": "q02929",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks the governing clause and voice context."
+    },
+    {
+      "quote_id": "q02930",
+      "person_signal": "non_base",
+      "note": "General reflection on hindsight contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q02931",
+      "person_signal": "unmarked",
+      "note": "A single action attributed to 'she' does not alone establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02932",
+      "person_signal": "non_base",
+      "note": "Generalized first-person-free claim occurs in direct speech."
+    },
+    {
+      "quote_id": "q02933",
+      "person_signal": "third",
+      "note": "Extended scene narration externally names Pine and other characters, reports actions and setting, and tags Pine's thought from a nonparticipating narratorial position."
+    },
+    {
+      "quote_id": "q02934",
+      "person_signal": "unmarked",
+      "note": "Expository statement contains possible narration but no diagnostic narrator or sustained character reference."
+    },
+    {
+      "quote_id": "q02935",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks a subject and recoverable voice boundaries."
+    },
+    {
+      "quote_id": "q02936",
+      "person_signal": "unclear",
+      "note": "The clipped first-person wording may be speech or direct thought; missing quotation boundaries prevent treating it as base narration."
+    },
+    {
+      "quote_id": "q02937",
+      "person_signal": "unmarked",
+      "note": "Short story-world statement about the Bureau does not identify narrator participation."
+    },
+    {
+      "quote_id": "q02938",
+      "person_signal": "non_base",
+      "note": "Imperative and first-person plural language are direct address in dialogue, not controlling narration."
+    },
+    {
+      "quote_id": "q02939",
+      "person_signal": "third",
+      "note": "Extended external narration describes Pine's actions and pauses in third person; the first-person sentence is explicitly her private thought and the remaining first person is dialogue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://crimereads.com/long-road-to-mercy/",
+      "title": "Long Road to Mercy",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained excerpt reprinted with permission from Grand Central Publishing narrates Pine externally as 'Pine' and 'she,' including her actions, memories, perceptions, and thoughts, with no participating narrator."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/long-road-to-mercy/9781538761533/?lens=grand-central-publishing",
+      "title": "Long Road to Mercy by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher page verifies the eligible novel and its protagonist and plot, but its synopsis is not narrative-person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Long Road to Mercy David Baldacci official excerpt chapter\" and found the permissioned CrimeReads excerpt plus publisher and author pages.",
+    "Searched \"Long Road to Mercy David Baldacci point of view third person narrator\" and related narrator, first-person, third-person, epistolary, and alternating-POV terms; no credible source indicated first-person, second-person, or alternating base narration.",
+    "Opened the CrimeReads excerpt and verified its permission notice and sustained third-person prose extending through an interior investigation scene.",
+    "Opened the Hachette/Grand Central publisher page; it verified the work but offered synopsis rather than usable person evidence.",
+    "Attempted to open the Bookreporter excerpt and Santa Barbara Public Library preview; the former timed out and the latter returned a 403, so neither was used as evidence."
+  ],
+  "person_note": "The controlling narration is third person. Two lengthy Goodreads passages expose a nonparticipating narrator describing Pine and other characters externally, while the authorized interior excerpt independently sustains the same pattern across actions, memories, perceptions, and interior states. First-person forms elsewhere are direct dialogue, an explicitly tagged private thought, or a clipped passage with unresolved quotation boundaries; none demonstrates a sustained first-person section. The authorized excerpt covers only an interior section rather than the whole book, but its agreement with diagnostic quotes from other scenes and the absence of credible contrary structural evidence support high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_063",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T20:22:24.465234+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "735ff8bc68567be6fa4918250240eec43c2598d21c64632184ff0c9dbcf61234"
+  }
+}

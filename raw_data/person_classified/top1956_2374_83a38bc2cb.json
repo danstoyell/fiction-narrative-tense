@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1956:2374",
+  "quotes": [
+    {
+      "quote_id": "q00564",
+      "person_signal": "third",
+      "note": "Sustained narration externally describes both characters and Yehonala's determination without a participating narrator."
+    },
+    {
+      "quote_id": "q00565",
+      "person_signal": "third",
+      "note": "The first-person words are dialogue; the surrounding scene and speech beats narrate Yehonala and Lady Miao in third person."
+    },
+    {
+      "quote_id": "q00566",
+      "person_signal": "non_base",
+      "note": "Direct speech; its second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00567",
+      "person_signal": "third",
+      "note": "Extended interior scene follows Tzu Hsi's perceptions and imagined journey entirely through third-person narration."
+    },
+    {
+      "quote_id": "q00568",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough syntax and context to identify narration or person."
+    },
+    {
+      "quote_id": "q00569",
+      "person_signal": "unmarked",
+      "note": "A brief sentence reports her thought in third-person grammar, but alone is too short to establish narrator participation."
+    },
+    {
+      "quote_id": "q00570",
+      "person_signal": "non_base",
+      "note": "Standalone maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00571",
+      "person_signal": "third",
+      "note": "An external, evaluative narrator surveys the protagonist's abilities and choices in third person."
+    },
+    {
+      "quote_id": "q00572",
+      "person_signal": "third",
+      "note": "The narrator summarizes a eunuch's status and generalized court knowledge from a nonparticipating position."
+    },
+    {
+      "quote_id": "q00573",
+      "person_signal": "non_base",
+      "note": "The first-person plural occurs in the Empress Mother's quoted speech, not base narration."
+    },
+    {
+      "quote_id": "q00574",
+      "person_signal": "non_base",
+      "note": "Standalone rhetorical maxim with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q00575",
+      "person_signal": "third",
+      "note": "The enclosing scene and dialogue beats describe both lovers externally as she and he."
+    },
+    {
+      "quote_id": "q00576",
+      "person_signal": "third",
+      "note": "Retrospective narration summarizes both characters' aging, passion, and feelings in third person."
+    },
+    {
+      "quote_id": "q00577",
+      "person_signal": "non_base",
+      "note": "First-person forms belong to the Empress Mother's written message, an embedded document."
+    },
+    {
+      "quote_id": "q00578",
+      "person_signal": "third",
+      "note": "The narrator reports her private prayer and resulting state externally in sustained third person."
+    },
+    {
+      "quote_id": "q00579",
+      "person_signal": "third",
+      "note": "A third-person narrator frames the man's tactical decision and ensuing speech; the first-person form is dialogue."
+    },
+    {
+      "quote_id": "q00580",
+      "person_signal": "third",
+      "note": "The narrator renders Tzu Hsi's reasoning, fear, and lifelong response in third person."
+    },
+    {
+      "quote_id": "q00581",
+      "person_signal": "unclear",
+      "note": "The story-specific 'our' may be clipped speech or collective narration; absent speaker and quotation boundaries prevent attribution."
+    },
+    {
+      "quote_id": "q00582",
+      "person_signal": "third",
+      "note": "Despite clipped endpoints, the sustained historical scene externally narrates armies, captives, the Emperor, and Tzu Hsi."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://fictionfanblog.wordpress.com/2013/06/06/imperial-woman-by-pearl-s-buck/",
+      "title": "Imperial Woman by Pearl S. Buck \u2013 FictionFan's Book Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reviewer of the publisher-supplied edition explicitly states that the novel is told in third person through Tzu Hsi's viewpoint and reproduces a third-person passage."
+    },
+    {
+      "url": "https://www.enotes.com/topics/pearls-buck/criticism/buck-pearl-s/silence-buck-bellows-review-date-1-january-1956",
+      "title": "Inside the Forbidden City",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "This reproduced 1956 New York Herald Tribune review identifies Tzu Hsi as the point-of-view character and describes one continuous arc from Orchid's arrival through her late reign; it corroborates focalization and scope but does not explicitly name grammatical person."
+    },
+    {
+      "url": "https://euroasia-science.ru/wp-content/uploads/2018/11/Euroasiajournal_7_part-22.pdf",
+      "title": "Temporal Stylization as a Translation Technique (Based on the Translation of Pearl Buck's Historical Novel Imperial Woman)",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "THIRD",
+      "note": "The academic translation study quotes English narration from pages 8, 62, and 206 using she/he and character names, providing short third-person samples from separated portions of the novel."
+    },
+    {
+      "url": "https://zettelsraum.blogspot.com/2021/04/der-ausflug-ins-bild-pearl-s-buck.html",
+      "title": "Der Ausflug ins Bild \u2013 Pearl S. Buck, Kaiserliche Hoheit (1956)",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained German interior extract narrates Yehonala and Lady Miao as sie; a local first-person thought is explicitly bounded as Yehonala's thought rather than a narrator switch."
+    }
+  ],
+  "search_log": [
+    "Searched \"Imperial Woman\" \"Pearl S. Buck\" with excerpt, first chapter, narrator, point of view, third-person, omniscient, frame, diary, and alternating-narration terms.",
+    "Opened the Open Road Media publisher page and its Google Books listing; both verified the edition and whole-life subject, but the available publisher text was synopsis rather than diagnostic prose, and the linked Amazon preview failed to load.",
+    "Opened Open Library and attempted its Internet Archive preview/borrow routes; the catalog verified the 1956 novel, but readable English scans required preview access or login.",
+    "Searched exact lines from the supplied quotes and located an academic translation paper, an interior German extract, a contemporaneous whole-book review, and an explicit third-person review.",
+    "No credible source indicated first-person, second-person, epistolary, framed, or alternating base narration."
+  ],
+  "person_note": "The controlling narration is third person, closely focalized through Tzu Hsi but also capable of externally summarizing other characters and historical events. Numerous Goodreads passages from different life stages sustain she/he narration, while first-person forms occur in speech, a written invitation, or bounded thought. Web research explicitly corroborates third person and describes a single Tzu Hsi-centered whole-book arc; no alternating structure surfaced. Confidence is medium because the accessible web support consists chiefly of a credible explicit review and separated or translated excerpts rather than a sustained authorized English preview. The clipped 'our' in q00581 remains locally ambiguous but does not outweigh the controlling pattern.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_009",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:27:42.153618+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3bda6a91b026ef51f524dcdbfaf2fa0c6f2bb72d34aa45a90fb71341a2671982"
+  }
+}

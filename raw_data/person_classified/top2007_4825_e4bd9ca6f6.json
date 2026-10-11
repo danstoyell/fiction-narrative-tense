@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:4825",
+  "quotes": [
+    {
+      "quote_id": "q01499",
+      "person_signal": "non_base",
+      "note": "Personal declaration addressed to another character; apparent speech despite the event bucket, a possible upstream issue."
+    },
+    {
+      "quote_id": "q01500",
+      "person_signal": "non_base",
+      "note": "General thematic question, not person-diagnostic narration."
+    },
+    {
+      "quote_id": "q01501",
+      "person_signal": "non_base",
+      "note": "Rhetorical address to a general audience, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q01502",
+      "person_signal": "non_base",
+      "note": "General maxim about mental overload."
+    },
+    {
+      "quote_id": "q01503",
+      "person_signal": "unmarked",
+      "note": "Brief report of his attitude; insufficient local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q01504",
+      "person_signal": "non_base",
+      "note": "General observation about storytelling."
+    },
+    {
+      "quote_id": "q01505",
+      "person_signal": "non_base",
+      "note": "Conversational first-person recollection, consistent with local character speech in the verified third-person novel; possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01506",
+      "person_signal": "non_base",
+      "note": "Character speech addressing a couple; its first-person pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q01507",
+      "person_signal": "non_base",
+      "note": "Spoken advice with generic second-person address."
+    },
+    {
+      "quote_id": "q01508",
+      "person_signal": "third",
+      "note": "Sustained external presentation of a man's emotional state, remembered happiness, and present difficulties."
+    },
+    {
+      "quote_id": "q01509",
+      "person_signal": "non_base",
+      "note": "Gnomic statement and personal declaration about love, not established base narration."
+    },
+    {
+      "quote_id": "q01510",
+      "person_signal": "non_base",
+      "note": "Extended speech addressing two characters and describing the speaker's romantic expectations."
+    },
+    {
+      "quote_id": "q01511",
+      "person_signal": "third",
+      "note": "Sustained scene narration integrates his actions, sensations, and memories through a nonparticipating voice."
+    },
+    {
+      "quote_id": "q01512",
+      "person_signal": "unmarked",
+      "note": "Short account of his thoughts supports third-person context but does not independently establish the narrating position."
+    },
+    {
+      "quote_id": "q01513",
+      "person_signal": "non_base",
+      "note": "Direct declaration of love addressed to Gabby."
+    },
+    {
+      "quote_id": "q01514",
+      "person_signal": "third",
+      "note": "Narrator reports both partners' intuitive understanding, supporting a nonparticipating narrating position."
+    },
+    {
+      "quote_id": "q01515",
+      "person_signal": "non_base",
+      "note": "Dialogue uses generic you and a local personal reflection."
+    },
+    {
+      "quote_id": "q01516",
+      "person_signal": "unmarked",
+      "note": "Brief third-person recollection does not by itself establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q01517",
+      "person_signal": "unmarked",
+      "note": "Isolated statement about her feelings lacks sufficient narratorial context."
+    },
+    {
+      "quote_id": "q01518",
+      "person_signal": "non_base",
+      "note": "Extended romantic speech addressed to another character."
+    },
+    {
+      "quote_id": "q01519",
+      "person_signal": "unclear",
+      "note": "Isolated first-person question cannot locally be distinguished as speech or direct thought; no evidence of a base-narration shift."
+    },
+    {
+      "quote_id": "q01520",
+      "person_signal": "third",
+      "note": "Scene action is coupled with direct access to Gabby's private imagined future, supporting external narration."
+    },
+    {
+      "quote_id": "q01521",
+      "person_signal": "unmarked",
+      "note": "Impersonal contextual reflection contains no diagnostic narrator person."
+    },
+    {
+      "quote_id": "q01522",
+      "person_signal": "third",
+      "note": "Sustained account of his perceptions and changing interpretation of events establishes third-person narration; us is generic."
+    },
+    {
+      "quote_id": "q01523",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates; brief external beats naming Gabby and Stephanie do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q01524",
+      "person_signal": "unmarked",
+      "note": "Narrative evaluation of a day without diagnostic person markers."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/work/the-choice/",
+      "title": "Nicholas Sparks \u2014 The Choice",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "In his account of the novel's composition, Sparks explicitly states that The Choice was written completely in third person. This directly resolves whole-book scope."
+    },
+    {
+      "url": "https://www.readinggroupguides.com/reviews/the-choice/excerpt",
+      "title": "The Choice by Nicholas Sparks \u2014 Excerpt",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Authorized Chapter One excerpt, reprinted with Grand Central Publishing's permission, sustains external narration with access to Matt's, Travis's, and Gabby's thoughts. First-person dialogue and direct thought remain locally distinguished."
+    },
+    {
+      "url": "https://www.supersummary.com/the-choice/background/",
+      "title": "The Choice \u2014 Background",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly describes the novel as using third-person limited point of view, corroborating the author's structural statement."
+    }
+  ],
+  "search_log": [
+    "Searched: Nicholas Sparks The Choice excerpt prologue chapter.",
+    "Searched: The Choice Nicholas Sparks novel third person narrative point of view.",
+    "Opened the author's official book page, the authorized ReadingGroupGuides excerpt, and SuperSummary's Background page. The author's explicit whole-book statement resolves whether different narrative persons occur beyond the opening."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and presents characters' actions and interior experiences in third person. Diagnostic Goodreads passages agree with sustained authorized prose, and Sparks explicitly confirms that the entire novel uses third person. First-person declarations and generic you passages are local speech or thematic material, not alternating narration. Remaining uncertainty concerns only the precise local attribution of clipped quotations, especially q01519; it does not undermine the whole-book classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_045",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T13:26:01.528021+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3cc4407d4471ec8cb5271197af7336139cd722b831f130d02285fcd9f98dccb7"
+  }
+}

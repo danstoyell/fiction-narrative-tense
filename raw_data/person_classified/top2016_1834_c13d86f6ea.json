@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:1834",
+  "quotes": [
+    {
+      "quote_id": "q01290",
+      "person_signal": "non_base",
+      "note": "A universal aphorism without a story-specific narrator signal."
+    },
+    {
+      "quote_id": "q01291",
+      "person_signal": "non_base",
+      "note": "A general statement about grief, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q01292",
+      "person_signal": "first",
+      "note": "The participating narrator explicitly reports her present mental act as “I.”"
+    },
+    {
+      "quote_id": "q01293",
+      "person_signal": "non_base",
+      "note": "A proverb without diagnostic narrative context."
+    },
+    {
+      "quote_id": "q01294",
+      "person_signal": "third",
+      "note": "Authorized surrounding context identifies this as sustained third-person narration in the prologue, centered on Elaine and her family."
+    },
+    {
+      "quote_id": "q01295",
+      "person_signal": "unmarked",
+      "note": "The fragment appears to convey a character’s interior rationale, but it contains no explicit narrator-person marker."
+    },
+    {
+      "quote_id": "q01296",
+      "person_signal": "non_base",
+      "note": "Universal advice using generic “you,” not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01297",
+      "person_signal": "non_base",
+      "note": "A universal observation about memory within the prologue; “you” is generic rather than a narrated protagonist."
+    },
+    {
+      "quote_id": "q01298",
+      "person_signal": "unmarked",
+      "note": "A clipped reported-thought fragment about “she” does not establish the controlling narrator’s person."
+    },
+    {
+      "quote_id": "q01299",
+      "person_signal": "non_base",
+      "note": "Although framed with “I,” the quote is bucketed as a broad generalization and lacks enough local context to attribute it securely to base narration."
+    },
+    {
+      "quote_id": "q01300",
+      "person_signal": "first",
+      "note": "The participating narrator explicitly describes her own past disposition with “me” and “I.”"
+    },
+    {
+      "quote_id": "q01301",
+      "person_signal": "first",
+      "note": "Narratorial “we” includes the participating narrator in a specific act of agreement."
+    },
+    {
+      "quote_id": "q01302",
+      "person_signal": "unmarked",
+      "note": "Reporting that “she says” does not by itself identify whether the surrounding narrator is first or third person."
+    },
+    {
+      "quote_id": "q01303",
+      "person_signal": "first",
+      "note": "Repeated “me” and “I” identify a participating narrator reflecting on her sister."
+    },
+    {
+      "quote_id": "q01304",
+      "person_signal": "first",
+      "note": "The participating narrator recounts her own past state with “I.”"
+    },
+    {
+      "quote_id": "q01305",
+      "person_signal": "first",
+      "note": "Narratorial “we” places the participating narrator in the specific scene with Ellen."
+    },
+    {
+      "quote_id": "q01306",
+      "person_signal": "first",
+      "note": "The narrator explicitly performs and reports actions as “I.”"
+    },
+    {
+      "quote_id": "q01307",
+      "person_signal": "first",
+      "note": "The narrator’s specific mental act is explicitly reported as “I think.”"
+    },
+    {
+      "quote_id": "q01308",
+      "person_signal": "unmarked",
+      "note": "A statement about “he” alone cannot distinguish first-person narration about another character from third-person narration."
+    },
+    {
+      "quote_id": "q01309",
+      "person_signal": "unclear",
+      "note": "The medical-register fragment is truncated and its speaker or narrative level cannot be resolved."
+    },
+    {
+      "quote_id": "q01310",
+      "person_signal": "unclear",
+      "note": "The first-person wording could be narration or unmarked dialogue; the isolated passage does not resolve its local status."
+    },
+    {
+      "quote_id": "q01311",
+      "person_signal": "first",
+      "note": "The participating narrator explicitly states her own reaction with “I also appreciate.”"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.emilygiffin.com/preview-first-comes-love",
+      "title": "Preview: First Comes Love by Emily Giffin",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The author’s sustained preview presents a third-person prologue about Elaine, Daniel, and the family, followed by the labeled JOSIE chapter narrated in first person."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/227146/first-comes-love-by-emily-giffin/9780345546944/readers-guide/",
+      "title": "First Comes Love by Emily Giffin — Reading Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In the publisher-hosted interview, Giffin says the story alternates Josie’s and Meredith’s perspectives, that she switched between their voices, and discusses writing these protagonists in first person; this establishes the main chapters’ dual first-person structure."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780345546920",
+      "title": "First Comes Love by Emily Giffin",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly independently reports that chapters alternate between the two sisters’ points of view, corroborating the main narrative’s dual-narrator organization when read with the first-person passages."
+    },
+    {
+      "url": "https://harlequinjunkie.com/review-first-comes-love-by-emily-giffin/",
+      "title": "Review: First Comes Love by Emily Giffin",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review describes chapter-by-chapter alternation between Josie and Meredith, reproduces first-person narrative passages, and separately notes that the book begins from their mother’s view, corroborating the opening/body distinction."
+    }
+  ],
+  "search_log": [
+    "Searched “First Comes Love” “Emily Giffin” with excerpt, narrator, Josie, Meredith, first-person, point-of-view, alternating-perspectives, prologue, and chapter-two terms.",
+    "Opened and inspected the author’s official preview, which contains sustained prose from the third-person prologue and first-person Chapter One.",
+    "Opened and inspected Penguin Random House’s reading guide and author interview for whole-book structural evidence.",
+    "Opened and inspected the Publishers Weekly review and a contemporaneous detailed review for independent structural corroboration.",
+    "Searches also surfaced similarly titled works by Emily Goodwin and Katie Kacvinsky; these were rejected as title-author mismatches."
+  ],
+  "person_note": "The sustained body alternates between participating first-person narrators Josie and Meredith; multiple narrators using the same grammatical person yield FIRST. A third-person prologue is a brief introductory exception rather than a co-controlling base strand. The quote evidence and structural sources therefore support FIRST.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_056",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T15:51:46.818424+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f1bb8f0670ee61f8656bc463babd720af88c4acc6ce5381c5957d69097a9942c"
+  }
+}

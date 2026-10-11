@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:5593",
+  "quotes": [
+    {
+      "quote_id": "q01214",
+      "person_signal": "non_base",
+      "note": "Gnomic biblical maxim; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01215",
+      "person_signal": "first",
+      "note": "Willie narrates his own biography and perceived reputation through repeated \u201cI\u201d statements."
+    },
+    {
+      "quote_id": "q01216",
+      "person_signal": "unmarked",
+      "note": "Base-narrative exposition about parole, but it contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01217",
+      "person_signal": "unmarked",
+      "note": "A brief election report with no pronoun identifying the narrator."
+    },
+    {
+      "quote_id": "q01218",
+      "person_signal": "unmarked",
+      "note": "The bare third-person subject does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01219",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its address to \u201cyou\u201d is not base narration."
+    },
+    {
+      "quote_id": "q01220",
+      "person_signal": "unmarked",
+      "note": "Third-person description of a group, without enough context to identify narrator person."
+    },
+    {
+      "quote_id": "q01221",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic assertion rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01222",
+      "person_signal": "first",
+      "note": "Participating narrator Willie describes his vow, departure, and feelings as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01223",
+      "person_signal": "first",
+      "note": "Willie participates in the scene and narrates his worry and response as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01224",
+      "person_signal": "first",
+      "note": "The narrator identifies his own past experience through \u201cI had\u201d and \u201cI left.\u201d"
+    },
+    {
+      "quote_id": "q01225",
+      "person_signal": "unmarked",
+      "note": "Exposition about the bankruptcy and creditors does not identify narrator person."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780099537144/9780099537144-sample.pdf",
+      "title": "The Last Juror \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The authorized publisher sample contains sustained participating first-person narration by Willie in Chapter 1 and then a sustained third-person account centered on Rhoda Kassellaw in Chapter 2."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-last-juror/style.html",
+      "title": "John Grisham Writing Styles in The Last Juror",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The dedicated point-of-view analysis explicitly says the novel is primarily Willie\u2019s first-person narrative except for the full Rhoda Kassellaw murder chapter, which is third-person omniscient."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/last-juror",
+      "title": "The Last Juror",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Thomson Gale-derived literary study identifies Willie as the retrospective narrator throughout its character and style analysis, corroborating the novel\u2019s predominant first-person strand."
+    },
+    {
+      "url": "https://www.irishtimes.com/news/a-page-turner-with-extra-character-1.1307048",
+      "title": "A page-turner with extra character",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The contemporary review explicitly identifies Willie Traynor as the first-person narrator, corroborating the controlling mode but not discussing the exceptional third-person chapter."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with \u201cexcerpt,\u201d \u201cfirst chapter,\u201d \u201cpoint of view,\u201d \u201cfirst person,\u201d \u201cthird person,\u201d \u201cnarrator,\u201d and \u201calternating\u201d terms.",
+    "Opened the Penguin Books sample and checked its Chapter 1 first-person narration against the Chapter 2 third-person Rhoda Kassellaw sequence.",
+    "Opened the BookRags point-of-view analysis, which explicitly resolves the structure as predominantly first person with one third-person-omniscient chapter.",
+    "Opened the Irish Times review and Thomson Gale-derived Encyclopedia.com study for independent identification of Willie as the predominant first-person narrator.",
+    "Checked Penguin Random House and Google Books pages; their catalog descriptions or inaccessible preview text were useful for identity verification but not independently diagnostic of the whole narrative structure."
+  ],
+  "person_note": "The Goodreads passages repeatedly expose Willie Traynor as a participating first-person narrator. They do not sample the contrasting strand, but the authorized Penguin excerpt directly shows Chapter 1\u2019s sustained first person followed by Chapter 2\u2019s sustained third-person Rhoda Kassellaw narrative, and the whole-book structural analysis identifies that murder chapter as the novel\u2019s notable third-person-omniscient exception. Because a complete chapter is a sustained base section rather than dialogue, thought, or an embedded document, the methodology requires ALTERNATING rather than collapsing the book to its predominant FIRST mode. The main residual limitation is that the supplied quotes represent only the first-person strand, but the Tier A excerpt and Tier B whole-book analysis resolve that coverage gap.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_041",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T22:04:07.887046+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "476634125d111bf3f1072431cf4fbecc83af2e3320bde53743beaea81178cb5d"
+  }
+}

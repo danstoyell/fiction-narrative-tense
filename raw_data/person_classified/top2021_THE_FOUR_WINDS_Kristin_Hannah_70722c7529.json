@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:THE FOUR WINDS|Kristin Hannah",
+  "quotes": [
+    {
+      "quote_id": "q05521",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; its first-person phrase is figurative commentary, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q05522",
+      "person_signal": "unmarked",
+      "note": "The generic 'you' expresses a maxim rather than sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q05523",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q05524",
+      "person_signal": "unmarked",
+      "note": "Likely free-indirect third-person prose, but this single reference to 'her' does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q05525",
+      "person_signal": "non_base",
+      "note": "Direct address to Loreda in character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q05526",
+      "person_signal": "unclear",
+      "note": "The clipped first-person reflection lacks attribution; it could be a local thought, speech, or one of the book's first-person sections."
+    },
+    {
+      "quote_id": "q05527",
+      "person_signal": "non_base",
+      "note": "Essayistic historical reflection, likely authorial back matter, rather than story narration."
+    },
+    {
+      "quote_id": "q05528",
+      "person_signal": "non_base",
+      "note": "Character speech signaled by 'I say'; not base-narrator evidence."
+    },
+    {
+      "quote_id": "q05529",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Elsa, even with access to her knowledge, is insufficient by itself to establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q05530",
+      "person_signal": "non_base",
+      "note": "First-person declaration within direct address to Loreda; character speech rather than base narration."
+    },
+    {
+      "quote_id": "q05531",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' occurs in a free-indirect generalization and is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q05532",
+      "person_signal": "non_base",
+      "note": "First-person-plural rally speech by a character, not the controlling narrator."
+    },
+    {
+      "quote_id": "q05533",
+      "person_signal": "third",
+      "note": "Sustained scene exposition names Elsa externally and presents her history and internal experience from a nonparticipating position."
+    },
+    {
+      "quote_id": "q05534",
+      "person_signal": "unmarked",
+      "note": "The narratorial frame is too short and pronominally dependent to identify its person; the imperative phrases are embedded speech."
+    },
+    {
+      "quote_id": "q05535",
+      "person_signal": "unmarked",
+      "note": "Third-person reference to a character in one sentence does not independently reveal whether the narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q05536",
+      "person_signal": "third",
+      "note": "Several connected sentences externally narrate a woman's life and perception, consistent with the novel's sustained third-person body."
+    },
+    {
+      "quote_id": "q05537",
+      "person_signal": "third",
+      "note": "Connected scene narration treats Jean and Elsa externally while reporting Elsa's realization, exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q05538",
+      "person_signal": "non_base",
+      "note": "Attributed C\u00e9sar Ch\u00e1vez epigraph; not the novel's base narration."
+    },
+    {
+      "quote_id": "q05539",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic material without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q05540",
+      "person_signal": "non_base",
+      "note": "Character aphorism marked by the spoken interjection 'si'; not base narration."
+    },
+    {
+      "quote_id": "q05541",
+      "person_signal": "unmarked",
+      "note": "The passage is mostly dialogue, and its brief external speech beats do not establish the controlling narrator's participation."
+    },
+    {
+      "quote_id": "q05542",
+      "person_signal": "third",
+      "note": "Sustained multi-sentence exposition repeatedly treats the focal character as 'she' and reports her learned behavior externally."
+    },
+    {
+      "quote_id": "q05543",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q05544",
+      "person_signal": "unmarked",
+      "note": "A single third-person free-indirect sentence about a character is not independently diagnostic of narrator participation."
+    },
+    {
+      "quote_id": "q05545",
+      "person_signal": "non_base",
+      "note": "Direct address between characters; first- and second-person pronouns belong to speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250178602/thefourwinds/",
+      "title": "The Four Winds | Macmillan Publishers",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter One excerpt narrates Elsa externally as 'she' while presenting her perceptions and thoughts, establishing third-person limited narration in the novel's main opening chapter."
+    },
+    {
+      "url": "https://kristinhannah.com/books/the-four-winds/the-four-winds-excerpt/",
+      "title": "The Four Winds \u2013 Excerpt \u2013 Kristin Hannah",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The author's sustained Chapter One excerpt continues to narrate Elsa externally in third person, independently corroborating the main narrative mode."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-four-winds/styles.html",
+      "title": "Kristin Hannah Writing Styles in The Four Winds",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The point-of-view analysis explicitly maps the structure: an Elsa first-person prologue later revealed as strike speech, third-person Elsa and Loreda narration from Chapter One onward, and a Loreda first-person epilogue."
+    },
+    {
+      "url": "https://www.shelf-awareness.com/sar-titles.html?issue=997",
+      "title": "The Four Winds by Kristin Hannah | Shelf Awareness",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The professional review describes Loreda's voice as alternating with third-person narration and quotes Loreda's first-person concluding epitaph, corroborating a person shift around the ending."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Four Winds\" \"Kristin Hannah\" official excerpt publisher.",
+    "Searched: \"The Four Winds\" \"Kristin Hannah\" point of view third person narration.",
+    "Searched: \"The Four Winds\" \"Kristin Hannah\" excerpt Elsa Loreda chapter.",
+    "Searched: site:kristinhannah.com \"The Four Winds\" excerpt.",
+    "Searched: \"The Four Winds\" Epilogue \"first person\" Loreda.",
+    "Searched: \"The Four Winds\" \"third person\" Elsa Loreda point of view.",
+    "Searched: \"The Four Winds\" narrative perspective prologue epilogue Loreda.",
+    "Searched: \"The Four Winds\" Kristin Hannah literary devices point of view.",
+    "Searched exact wording of \"I am in awe of her fire\" with Loreda, Elsa, epilogue, and Google Books terms; results reproduced only the context-free Goodreads quotation and did not resolve its local speaker or section.",
+    "Opened the Macmillan publisher excerpt, Kristin Hannah's authorized excerpt, the BookRags point-of-view analysis, and the Shelf Awareness review before using them. General summaries and search snippets lacking explicit person evidence were not used."
+  ],
+  "person_note": "The book's base narration is sustained third-person limited, focused mainly through Elsa and later Loreda; multiple Goodreads passages and two authorized excerpts independently corroborate that mode. A brief first-person Loreda epilogue is a local framing exception rather than a co-controlling base strand, so it does not make the novel ALTERNATING. The prologue's first-person voice is later revealed as Elsa's embedded strike speech, and the isolated q05526 first-person line cannot be reliably located. The controlling narration is therefore THIRD with high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_075",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T18:04:31.138158+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "67d3d27242209bb153a25a0a7eb4c69f695e43ab9c60b49c455cb24892629da0"
+  }
+}

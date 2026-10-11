@@ -1,0 +1,450 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:FUNNY STORY|Emily Henry",
+  "quotes": [
+    {
+      "quote_id": "q08995",
+      "person_signal": "unclear",
+      "note": "Gnomic reflection ends with \u201cI,\u201d but the clipped context does not securely establish base narration."
+    },
+    {
+      "quote_id": "q08996",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q08997",
+      "person_signal": "non_base",
+      "note": "Generic advice using \u201cyou,\u201d not base-narrator evidence."
+    },
+    {
+      "quote_id": "q08998",
+      "person_signal": "non_base",
+      "note": "Brief gnomic self-description lacks enough context to attribute it to base narration."
+    },
+    {
+      "quote_id": "q08999",
+      "person_signal": "non_base",
+      "note": "Universal observation without diagnostic narrator person."
+    },
+    {
+      "quote_id": "q09000",
+      "person_signal": "non_base",
+      "note": "Direct speech; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q09001",
+      "person_signal": "non_base",
+      "note": "Direct speech or aphoristic advice, not diagnostic narration."
+    },
+    {
+      "quote_id": "q09002",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q09003",
+      "person_signal": "non_base",
+      "note": "Speech dominates; the third-person speech beat does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q09004",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur entirely within direct speech."
+    },
+    {
+      "quote_id": "q09005",
+      "person_signal": "non_base",
+      "note": "General maxim rather than person-marked story narration."
+    },
+    {
+      "quote_id": "q09006",
+      "person_signal": "non_base",
+      "note": "Direct address within speech."
+    },
+    {
+      "quote_id": "q09007",
+      "person_signal": "non_base",
+      "note": "Dialogue with a third-person beat; no diagnostic base-narrator reference."
+    },
+    {
+      "quote_id": "q09008",
+      "person_signal": "non_base",
+      "note": "First-person statement presented as isolated dialogue."
+    },
+    {
+      "quote_id": "q09009",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09010",
+      "person_signal": "first",
+      "note": "Narrator explicitly reports what \u201cI\u2019d learned\u201d within event narration."
+    },
+    {
+      "quote_id": "q09011",
+      "person_signal": "first",
+      "note": "Participating narrator repeatedly describes herself as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q09012",
+      "person_signal": "first",
+      "note": "Narrator describes decisions \u201cI made\u201d and \u201cmy hopes.\u201d"
+    },
+    {
+      "quote_id": "q09013",
+      "person_signal": "first",
+      "note": "The narratorial speech tag \u201cI say\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q09014",
+      "person_signal": "first",
+      "note": "Story narration uses \u201cI know,\u201d \u201cI understand,\u201d and \u201cI first met.\u201d"
+    },
+    {
+      "quote_id": "q09015",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, the narrator uses \u201cmy jaw\u201d and \u201cI whisper.\u201d"
+    },
+    {
+      "quote_id": "q09016",
+      "person_signal": "non_base",
+      "note": "First-person forms occur in dialogue; the surrounding beat identifies only the male speaker."
+    },
+    {
+      "quote_id": "q09017",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms are confined to direct speech."
+    },
+    {
+      "quote_id": "q09018",
+      "person_signal": "non_base",
+      "note": "Upstream dialogue classification and absent context prevent treating the first person as base narration."
+    },
+    {
+      "quote_id": "q09019",
+      "person_signal": "non_base",
+      "note": "Dialogue plus a third-person speech beat does not diagnose narrator person."
+    },
+    {
+      "quote_id": "q09020",
+      "person_signal": "non_base",
+      "note": "Generic second-person statement presented as dialogue."
+    },
+    {
+      "quote_id": "q09021",
+      "person_signal": "first",
+      "note": "Participating narrator states \u201cHe loves me\u201d and \u201cI love him.\u201d"
+    },
+    {
+      "quote_id": "q09022",
+      "person_signal": "first",
+      "note": "Narratorial \u201cwe\u201d and \u201cus\u201d place the narrator within the relationship."
+    },
+    {
+      "quote_id": "q09023",
+      "person_signal": "non_base",
+      "note": "Direct speech containing generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q09024",
+      "person_signal": "first",
+      "note": "Narrator recounts what \u201cI spent\u201d time doing and what \u201cI\u2019d stopped\u201d considering."
+    },
+    {
+      "quote_id": "q09025",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the generic sentence contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q09026",
+      "person_signal": "first",
+      "note": "The narration identifies the observing character relative to \u201cme\u201d and says \u201cI love to tell it.\u201d"
+    },
+    {
+      "quote_id": "q09027",
+      "person_signal": "first",
+      "note": "The speech tag \u201cI rasp\u201d and subsequent narratorial framing expose a participating narrator."
+    },
+    {
+      "quote_id": "q09028",
+      "person_signal": "unmarked",
+      "note": "A bare third-person statement about \u201cshe\u201d cannot establish third-person base narration."
+    },
+    {
+      "quote_id": "q09029",
+      "person_signal": "first",
+      "note": "The narratorial tag \u201cI say\u201d identifies the participating speaker-narrator."
+    },
+    {
+      "quote_id": "q09030",
+      "person_signal": "first",
+      "note": "Narrative beats use \u201cI say\u201d while depicting the narrator in the scene."
+    },
+    {
+      "quote_id": "q09031",
+      "person_signal": "first",
+      "note": "Speech tags and action narration use \u201cI say\u201d and \u201ceach of us.\u201d"
+    },
+    {
+      "quote_id": "q09032",
+      "person_signal": "unmarked",
+      "note": "The passage describes Miles and uses generic \u201cyou,\u201d without explicitly marking narrator participation."
+    },
+    {
+      "quote_id": "q09033",
+      "person_signal": "first",
+      "note": "Narrator calls the woman \u201cmy best friend\u201d and reports \u201cI\u2019d always thought.\u201d"
+    },
+    {
+      "quote_id": "q09034",
+      "person_signal": "first",
+      "note": "Outside dialogue, \u201cI argue\u201d and \u201cmy face\u201d identify the participating narrator."
+    },
+    {
+      "quote_id": "q09035",
+      "person_signal": "first",
+      "note": "Narrator explicitly characterizes herself as \u201cI\u2019m still the loser.\u201d"
+    },
+    {
+      "quote_id": "q09036",
+      "person_signal": "first",
+      "note": "Speech tags and concluding narration use \u201cI agree,\u201d \u201cI tell him,\u201d and \u201cmy body.\u201d"
+    },
+    {
+      "quote_id": "q09037",
+      "person_signal": "non_base",
+      "note": "First and second person appear only in the quoted speaker\u2019s dialogue."
+    },
+    {
+      "quote_id": "q09038",
+      "person_signal": "non_base",
+      "note": "The \u201cyou\u201d forms occur in dialogue; the speech beat does not identify narrator person."
+    },
+    {
+      "quote_id": "q09039",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about librarians without narrator-person evidence."
+    },
+    {
+      "quote_id": "q09040",
+      "person_signal": "non_base",
+      "note": "First-person discussion occurs wholly within direct speech."
+    },
+    {
+      "quote_id": "q09041",
+      "person_signal": "non_base",
+      "note": "Direct address and first-person forms are confined to speech."
+    },
+    {
+      "quote_id": "q09042",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d occurs in dialogue rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q09043",
+      "person_signal": "non_base",
+      "note": "Generic maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q09044",
+      "person_signal": "first",
+      "note": "Narratorial tags \u201cI ask\u201d and \u201cI point out\u201d identify the participating narrator."
+    },
+    {
+      "quote_id": "q09045",
+      "person_signal": "first",
+      "note": "Narrator recounts her own memory through repeated \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q09046",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI say\u201d tags identify the participating narrator."
+    },
+    {
+      "quote_id": "q09047",
+      "person_signal": "first",
+      "note": "Narrator recounts her own past actions using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q09048",
+      "person_signal": "first",
+      "note": "Outside dialogue, Miles high-fives \u201cme\u201d and the narrator says \u201cI reply.\u201d"
+    },
+    {
+      "quote_id": "q09049",
+      "person_signal": "non_base",
+      "note": "General lesson presented as dialogue, not base narration."
+    },
+    {
+      "quote_id": "q09050",
+      "person_signal": "first",
+      "note": "Substantial action narration uses \u201cI fire back,\u201d \u201cour hips,\u201d and \u201che kisses me.\u201d"
+    },
+    {
+      "quote_id": "q09051",
+      "person_signal": "first",
+      "note": "The speech tag \u201cI say\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q09052",
+      "person_signal": "first",
+      "note": "Narrator directly describes the limit of her own risk-taking as \u201cI get.\u201d"
+    },
+    {
+      "quote_id": "q09053",
+      "person_signal": "first",
+      "note": "Sustained reflection uses \u201cI\u2019d,\u201d \u201cme,\u201d and repeated \u201cI want.\u201d"
+    },
+    {
+      "quote_id": "q09054",
+      "person_signal": "unmarked",
+      "note": "Story-specific reflection about \u201chim\u201d and \u201cher\u201d does not itself expose narrator person."
+    },
+    {
+      "quote_id": "q09055",
+      "person_signal": "first",
+      "note": "Sustained narration uses \u201cmy,\u201d \u201cme,\u201d and \u201cI realize\u201d; embedded speech is subordinate."
+    },
+    {
+      "quote_id": "q09056",
+      "person_signal": "first",
+      "note": "Narratorial tags repeatedly use \u201cI say,\u201d \u201cI half shout,\u201d and \u201cI whisper.\u201d"
+    },
+    {
+      "quote_id": "q09057",
+      "person_signal": "first",
+      "note": "Narrator describes her own embodied experience as \u201cI\u2019m\u201d and \u201chis.\u201d"
+    },
+    {
+      "quote_id": "q09058",
+      "person_signal": "first",
+      "note": "Substantial narration uses \u201cI feel,\u201d \u201cI\u2019ve loved,\u201d and \u201cme\u201d before the dialogue."
+    },
+    {
+      "quote_id": "q09059",
+      "person_signal": "non_base",
+      "note": "Direct exchange with a third-person speech beat; narrator person remains unidentified."
+    },
+    {
+      "quote_id": "q09060",
+      "person_signal": "first",
+      "note": "The narratorial tag \u201cI say\u201d identifies Daphne as the participating narrator."
+    },
+    {
+      "quote_id": "q09061",
+      "person_signal": "first",
+      "note": "Narrator recounts her own prior relief through \u201cI\u2019d\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q09062",
+      "person_signal": "first",
+      "note": "Story-specific reflection explicitly uses \u201cI\u2019m old enough.\u201d"
+    },
+    {
+      "quote_id": "q09063",
+      "person_signal": "first",
+      "note": "The narratorial tag \u201cI say\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q09064",
+      "person_signal": "first",
+      "note": "Extended reflection and remembered scenes use \u201cI,\u201d \u201cme,\u201d and \u201cMom.\u201d"
+    },
+    {
+      "quote_id": "q09065",
+      "person_signal": "first",
+      "note": "Narrative framing and speech tags use \u201cI say\u201d and \u201cmy god.\u201d"
+    },
+    {
+      "quote_id": "q09066",
+      "person_signal": "non_base",
+      "note": "Direct address within dialogue, not second-person base narration."
+    },
+    {
+      "quote_id": "q09067",
+      "person_signal": "non_base",
+      "note": "Generic gnomic statement about time, without diagnostic narrator person."
+    },
+    {
+      "quote_id": "q09068",
+      "person_signal": "non_base",
+      "note": "First-person material occurs inside direct speech."
+    },
+    {
+      "quote_id": "q09069",
+      "person_signal": "first",
+      "note": "The narrator\u2019s internal response is explicitly marked by \u201cmy heart.\u201d"
+    },
+    {
+      "quote_id": "q09070",
+      "person_signal": "first",
+      "note": "Participating narrator states her own desires and thoughts through repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q09071",
+      "person_signal": "first",
+      "note": "Action narration uses \u201cI choke,\u201d \u201cme,\u201d and \u201cI finally manage.\u201d"
+    },
+    {
+      "quote_id": "q09072",
+      "person_signal": "first",
+      "note": "Narrative framing uses \u201cme\u201d and repeated \u201cI say\u201d tags."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/funny-story-9780241998175/extracts/3073-funny-story",
+      "title": "Extract | Funny Story by Emily Henry",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher-hosted opening is sustained first-person narration by Daphne, using \u201cI,\u201d \u201cmy,\u201d and present-tense scene narration around Miles."
+    },
+    {
+      "url": "https://www.elle.com/culture/books/a46486669/funny-story-emily-henry-excerpt/",
+      "title": "Read an Exclusive Excerpt of Emily Henry\u2019s Funny Story",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "This authorized Berkley-credited interior excerpt sustains Daphne\u2019s first-person narration throughout a later scene with Miles."
+    },
+    {
+      "url": "https://www.theromancereport.com/reviews/2thewyznnkw4g6z6efewmn4b0oep3o",
+      "title": "emily henry does it again \u2014 a funny story review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The reviewer explicitly describes the novel as a first-person narrative through Daphne\u2019s lens and discusses the completed book."
+    },
+    {
+      "url": "https://www.supersummary.com/funny-story/major-character-analysis/",
+      "title": "Funny Story Character Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The whole-book study guide explicitly identifies Daphne Vincent as the story\u2019s protagonist and first-person narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cFunny Story Emily Henry official excerpt first chapter Penguin Random House\u201d; found and opened Penguin\u2019s sustained publisher excerpt and its sample-PDF listing.",
+    "Searched \u201cFunny Story Emily Henry excerpt Daphne Miles chapter\u201d; found and opened ELLE\u2019s authorized Berkley-credited interior excerpt.",
+    "Searched \u201cFunny Story Emily Henry point of view first person narrator Daphne\u201d and \u201cFunny Story Emily Henry review first-person narration\u201d; opened explicit whole-book descriptions from The Romance Report and SuperSummary.",
+    "Searched \u201cFunny Story single POV Emily Henry\u201d plus Publishers Weekly and Library Journal domain queries; results corroborated single-Daphne POV, while Publishers Weekly\u2019s opened/searchable review summarized plot but did not explicitly identify narrative person and was not used as person evidence.",
+    "Targeted searches for multiple narrators, alternating point of view, epistolary structure, diary, or frame narration produced no credible contrary structural evidence."
+  ],
+  "person_note": "The quote corpus repeatedly exposes Daphne as a participating \u201cI\u201d narrator across recollection, present action, reflection, and speech beats. Generic \u201cyou\u201d statements are maxims or dialogue, not sustained second-person narration; bare references to \u201che\u201d or \u201cshe\u201d do not establish third person. Publisher-authorized opening and interior excerpts independently sustain the same first-person voice, and whole-book sources explicitly identify Daphne as the first-person narrator. No evidence indicates alternating narrators or a frame structure; the only uncertainty concerns a few context-poor gnomic quotations, which does not affect the book-level classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_085",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:07:01.114050+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c7d8d95fd99fb902f6586914a0ae5a08a67c6bc21180ea9ea192ece7a176f802"
+  }
+}

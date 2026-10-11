@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:GONE BEFORE GOODBYE|Reese Witherspoon and Harlan C",
+  "quotes": [
+    {
+      "quote_id": "q09993",
+      "person_signal": "non_base",
+      "note": "Generalized second-person reflection; the generic \u201cyou\u201d does not designate a story protagonist."
+    },
+    {
+      "quote_id": "q09994",
+      "person_signal": "non_base",
+      "note": "Gnomic use of generic \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09995",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents Maggie\u2019s grief, bodily sensation, and expectations externally as \u201cher\u201d while accessing her perspective."
+    },
+    {
+      "quote_id": "q09996",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the brief \u201cSharon shrugs\u201d beat does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q09997",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks boundaries and context needed to distinguish narration from speech or reflection."
+    },
+    {
+      "quote_id": "q09998",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q09999",
+      "person_signal": "third",
+      "note": "Narration externally designates the focal character as \u201cshe\u201d while reporting her private self-assessment."
+    },
+    {
+      "quote_id": "q10000",
+      "person_signal": "non_base",
+      "note": "Generic second-person assertion about the legal system, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q10001",
+      "person_signal": "non_base",
+      "note": "Standalone general aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q10002",
+      "person_signal": "non_base",
+      "note": "Generalized reflection uses generic \u201cyou,\u201d not a sustained second-person protagonist."
+    },
+    {
+      "quote_id": "q10003",
+      "person_signal": "non_base",
+      "note": "Rhetorical, generalized address rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q10004",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not evidence of the base narrator."
+    },
+    {
+      "quote_id": "q10005",
+      "person_signal": "third",
+      "note": "Scene narration externally calls the focal character \u201cshe\u201d and describes her specific coping behavior."
+    },
+    {
+      "quote_id": "q10006",
+      "person_signal": "unclear",
+      "note": "The clipped transition from an aphorism to \u201cWe\u2019ve made a deal\u201d lacks quotation and speaker boundaries, so the first-person plural cannot safely be attributed to base narration."
+    },
+    {
+      "quote_id": "q10007",
+      "person_signal": "non_base",
+      "note": "Quoted conversation; the third-person speech beat is too brief to establish narrative person independently."
+    },
+    {
+      "quote_id": "q10008",
+      "person_signal": "non_base",
+      "note": "Standalone general imperative without a story-specific addressee."
+    },
+    {
+      "quote_id": "q10009",
+      "person_signal": "non_base",
+      "note": "Generic first-person plural refers to humanity collectively and does not expose a participating narrator."
+    },
+    {
+      "quote_id": "q10010",
+      "person_signal": "unmarked",
+      "note": "The fragment reports a character\u2019s realization as \u201cshe,\u201d but its limited context is insufficient by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q10011",
+      "person_signal": "non_base",
+      "note": "Porkchop\u2019s first-person language is explicitly character speech, not base narration."
+    },
+    {
+      "quote_id": "q10012",
+      "person_signal": "non_base",
+      "note": "Generic first-person plural reflection about people collectively, not a participating story narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.hachettebookgroup.com/articles/exclusive-excerpt-from-gone-before-goodbye-by-reese-witherspoon-harlan-coben/",
+      "title": "Exclusive Excerpt from GONE BEFORE GOODBYE by Reese Witherspoon & Harlan Coben",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s sustained opening excerpt narrates Maggie externally in third-person present while repeatedly presenting her perceptions and private knowledge."
+    },
+    {
+      "url": "https://www.barnesandnoble.com/blog/gone-before-goodbye/",
+      "title": "Gone Before Goodbye: Read an Excerpt from Reese Witherspoon and Harlan Coben",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "This authorized excerpt reproduces an extended opening scene in third-person narration focused on Maggie, including narration outside dialogue and access to her memories."
+    },
+    {
+      "url": "https://www.supersummary.com/gone-before-goodbye/chapters-11-15-summary/",
+      "title": "Gone Before Goodbye Chapters 11-15 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The structural analysis explicitly identifies shifting third-person-limited perspectives in chapters devoted to Maggie, Sharon, and Porkchop."
+    },
+    {
+      "url": "https://perfectretort.blogspot.com/2025/11/gone-before-goodbye-by-reese.html",
+      "title": "Gone Before Goodbye by Reese Witherspoon & Harlan Coben",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A full-book review explicitly describes the story as mostly told from Maggie\u2019s point of view by a third-person narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cGone Before Goodbye\u201d with Maggie, excerpt, Reese Witherspoon, and Harlan Coben; located and opened the publisher\u2019s sustained excerpt and an authorized Barnes & Noble excerpt.",
+    "Searched the title with \u201cfirst person,\u201d \u201cthird person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201cpresent tense\u201d; found explicit third-person descriptions in a chapter-level structural analysis and a full-book review.",
+    "Searched exact interior quote language, including the grief passage, shower passage, and \u201cWe\u2019ve made a deal\u201d; results corroborated attribution to the book but did not recover sufficient surrounding context for the clipped first-person-plural passage.",
+    "Checked Google Books results, but the available pages supplied catalog descriptions rather than diagnostic narrative prose; the Penguin Random House South Africa extract timed out and was not used."
+  ],
+  "person_note": "The book\u2019s base narration is third person, primarily limited through Maggie and, according to the structural web evidence, shifting to other characters while remaining third person. The publisher-authorized opening independently shows sustained third-person-present narration with access to Maggie\u2019s memories and thoughts, and the interior Goodreads passages likewise narrate specific experiences as \u201cshe\u201d and \u201cher.\u201d Generic \u201cyou\u201d and \u201cwe\u201d aphorisms do not create second- or first-person narrative sections, Porkchop\u2019s \u201cI\u201d is dialogue, and the clipped \u201cWe\u2019ve made a deal\u201d passage cannot safely be assigned to the narrator. No credible evidence establishes a sustained first- or second-person base section; the main residual uncertainty is limited context around that clipped passage, which does not outweigh the convergent structural evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_088",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:35:33.728200+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "06d693ca907a6cdb32368b22703db3528b1bef4e51336e5c363528c1d6704271"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:FAIRY TALE|Stephen King",
+  "quotes": [
+    {
+      "quote_id": "q06868",
+      "person_signal": "non_base",
+      "note": "Aphoristic gnomic material with no diagnostic base-narrator marker."
+    },
+    {
+      "quote_id": "q06869",
+      "person_signal": "non_base",
+      "note": "The first-person hedge and universal you occur within a general maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q06870",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, not sustained narration of Charlie as you."
+    },
+    {
+      "quote_id": "q06871",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization; I and we do not establish the story's narrating position here."
+    },
+    {
+      "quote_id": "q06872",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Charlie; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q06873",
+      "person_signal": "non_base",
+      "note": "Unmarked aphorism rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q06874",
+      "person_signal": "non_base",
+      "note": "General reflection about childhood stories, without a diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q06875",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim without story-specific narration."
+    },
+    {
+      "quote_id": "q06876",
+      "person_signal": "non_base",
+      "note": "Generalized second-person reflection; you is universal rather than the narrated protagonist."
+    },
+    {
+      "quote_id": "q06877",
+      "person_signal": "first",
+      "note": "Charlie describes alcohol through his own participating perspective using me."
+    },
+    {
+      "quote_id": "q06878",
+      "person_signal": "first",
+      "note": "Despite the aphoristic payload, the frame explicitly presents the participating retrospective narrator recalling what I learned in Empis."
+    },
+    {
+      "quote_id": "q06879",
+      "person_signal": "non_base",
+      "note": "The I think hedge introduces a general maxim and is not independently diagnostic base narration."
+    },
+    {
+      "quote_id": "q06880",
+      "person_signal": "first",
+      "note": "Participating narrator Charlie describes his own past resentments with my."
+    },
+    {
+      "quote_id": "q06881",
+      "person_signal": "unclear",
+      "note": "The first-person present statement may be base narration, direct thought, or speech; the clipped context does not resolve its local status."
+    },
+    {
+      "quote_id": "q06882",
+      "person_signal": "non_base",
+      "note": "General aphorism without a diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q06883",
+      "person_signal": "non_base",
+      "note": "A gnomic translation introduced by I think, potentially speech, and not reliable base-narrator evidence."
+    },
+    {
+      "quote_id": "q06884",
+      "person_signal": "non_base",
+      "note": "Clipped aphoristic comparison with no diagnostic narrative-person signal."
+    },
+    {
+      "quote_id": "q06885",
+      "person_signal": "non_base",
+      "note": "An explicitly attributed Benjamin Franklin quotation, not the novel's base narration."
+    },
+    {
+      "quote_id": "q06886",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural maxim rather than participating story narration."
+    },
+    {
+      "quote_id": "q06887",
+      "person_signal": "first",
+      "note": "Outside the quoted dialogue, Charlie narrates I thought and I shook my head as a participating narrator."
+    },
+    {
+      "quote_id": "q06888",
+      "person_signal": "non_base",
+      "note": "Attributed epigraphic material from the Blue Fairy, not base narration."
+    },
+    {
+      "quote_id": "q06889",
+      "person_signal": "unmarked",
+      "note": "Possible base narration about he, but the isolated third-person reference cannot distinguish a participating from a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q06890",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment and comparison, not diagnostic narration."
+    },
+    {
+      "quote_id": "q06891",
+      "person_signal": "first",
+      "note": "Sustained retrospective self-narration repeatedly uses I to recount Charlie's knowledge, choice, and desire."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/p/stephen-king-fairy-tale-excerpt?ss_sid=113071810",
+      "title": "Excerpt from Stephen King's Fairy Tale | Simon & Schuster",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The authorized Scribner excerpt is a sustained interior scene in which Charlie enters the Other while consistently narrating his own actions and perceptions as I."
+    },
+    {
+      "url": "https://timothyjohnsonfiction.com/blog/fairy-tale-by-stephen-king-a-review-with-a-long-self-serving-preamble/",
+      "title": "\u2018Fairy Tale\u2019 by Stephen King, A Review With a Long, Self-Serving Preamble",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes the novel as first-person retrospective narration in which the participating narrator writes down his own tale."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2022/sep/03/fairy-tale-by-stephen-king-review-a-terrifying-treat",
+      "title": "Fairy Tale by Stephen King review \u2013 a terrifying treat",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The review attributes first-person passages to Charlie during his journey through the other world, corroborating that the participating voice continues well beyond the opening."
+    }
+  ],
+  "search_log": [
+    "Searched \"Stephen King Fairy Tale official excerpt Charlie I narrator\", \"site:stephenking.com Fairy Tale excerpt\", and \"site:simonandschuster.com Fairy Tale Stephen King excerpt\"; found and opened the authorized Simon & Schuster interior excerpt.",
+    "Searched \"Fairy Tale Stephen King first person narrator point of view\" and targeted review queries for \"first-person narration\" and \"Charlie Reade\"; opened explicit whole-book and interior corroboration.",
+    "Searched exact quote strings including \"I don't want to be a Disney prince\", \"Here is something I learned in Empis\", and \"All alcohol smells the same to me\"; results did not supply reliable surrounding prose for the locally ambiguous quotation.",
+    "Searched \"Fairy Tale Stephen King alternating narration narrators\", \"multiple narrators\", \"epistolary frame narrative\", and ending-narrator queries; found no credible indication of sustained narration in another grammatical person.",
+    "Opened a Pittsburgh Post-Gazette review whose search result explicitly described Charlie and the novel's first-person narration, but the opened page did not expose the article body reliably, so it was not relied upon as recorded evidence."
+  ],
+  "person_note": "Charlie Reade is the controlling participating narrator, retrospectively recounting his own experiences in the first person. Multiple event quotes independently expose that voice, and the authorized Simon & Schuster interior excerpt sustains it after Charlie enters the other world; whole-book and later-scene reviews corroborate the structure. Dialogue, aphorisms, an attributed quotation, and the epigraph are local non-base material, while q06889 is merely unmarked rather than third-person evidence. The only material uncertainty is the lost local boundary around q06881, not the book-level person; targeted research found no sustained second- or third-person strand.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.270493+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f21cf1655756ec6f738fcf3796bbc43c23d9110ad3fcb0778284d36683436009"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:4136",
+  "quotes": [
+    {
+      "quote_id": "q00805",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns occur in dialogue; the closing speech beat uses only a nondiagnostic third-person subject."
+    },
+    {
+      "quote_id": "q00806",
+      "person_signal": "third",
+      "note": "An authorized Chapter One excerpt places this paragraph within sustained external narration that subsequently identifies and enters the thoughts of the Kranks without a participating narrator."
+    },
+    {
+      "quote_id": "q00807",
+      "person_signal": "unmarked",
+      "note": "The clipped sentence reports a male character's pause and reaction, but an isolated third-person reference does not independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q00808",
+      "person_signal": "non_base",
+      "note": "This is a universal maxim containing generic 'you,' not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00809",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to quoted character speech rather than the base narrator."
+    },
+    {
+      "quote_id": "q00810",
+      "person_signal": "unmarked",
+      "note": "This narratorial sentence describes a woman's holiday routine, but an isolated third-person referent is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00811",
+      "person_signal": "unmarked",
+      "note": "The opening sentence is possible base narration but only uses an isolated 'he'; the subsequent generic 'you' is an attributed maxim, not second-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/skipping-christmas/excerpt",
+      "title": "Skipping Christmas by John Grisham | Excerpt | Bookreporter.com",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized, publisher-permitted Chapter One excerpt sustains external third-person narration, names Blair, Nora, and Luther, and presents characters' thoughts without a participating narrator."
+    },
+    {
+      "url": "https://www.gradesaver.com/skipping-christmas/study-guide/literary-elements",
+      "title": "Skipping Christmas Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel's narrator and point of view as third-person narration."
+    },
+    {
+      "url": "https://writingonthewallblog.blogspot.com/2007/04/point-of-viewfirst-person-vs-third.html",
+      "title": "Point of View: First Person vs. Third Person",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The writing analysis explicitly classifies Skipping Christmas as third-person omniscient and cites an interior scene on pages 77\u201379 that moves among Nora's, Luther's, and Treen's thoughts."
+    }
+  ],
+  "search_log": [
+    "Searched \"Skipping Christmas\" \"John Grisham\" excerpt and opened the authorized Bookreporter and BookBrowse extracts; both reproduce sustained third-person Chapter One narration.",
+    "Searched \"Skipping Christmas\" \"John Grisham\" \"point of view\" and \"Skipping Christmas\" narrator third-person omniscient; opened GradeSaver's explicit whole-book classification and the writing analysis of an interior scene.",
+    "Searched exact quote phrases to recover context for q00807, q00810, and q00811; results confirmed that their visible first- or second-person language is dialogue, thought, or maxim rather than a narrator switch.",
+    "Searched \"Skipping Christmas\" with multiple narrators, epistolary, diary, frame narrative, alternating point of view, and dual POV; found no credible evidence of first-person, second-person, epistolary, framed, or alternating narration.",
+    "Checked Penguin Random House, Google Books, WorldCat, and library results; their accessible descriptions were bibliographic records or plot synopses and were not used as person evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person, with access to the thoughts of several characters. The authorized opening, an explicit whole-book POV description, and an analyzed interior scene agree with the Goodreads event passages. First- and second-person forms in the quotes belong to dialogue, private thought, or generic maxims and do not indicate alternate base narration. No credible structural contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_036",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:06:26.147397+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6ce089cf959fb96aa882ebd5a3c0b89333d18c08a7ffe87845e016be49d57169"
+  }
+}

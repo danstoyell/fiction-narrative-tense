@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1958:2745",
+  "quotes": [
+    {
+      "quote_id": "q00700",
+      "person_signal": "unmarked",
+      "note": "The clipped sentence belongs locally to Humbert's memoir, but it contains no grammatical evidence identifying the narrator."
+    },
+    {
+      "quote_id": "q00701",
+      "person_signal": "non_base",
+      "note": "Web research identifies this as the closing line of Humbert's embedded poem \u201cWanted,\u201d not base prose narration."
+    },
+    {
+      "quote_id": "q00702",
+      "person_signal": "first",
+      "note": "The opening establishes a participating narrator through \u201cmy arms\u201d and \u201chad I not loved.\u201d"
+    },
+    {
+      "quote_id": "q00703",
+      "person_signal": "non_base",
+      "note": "Direct character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00704",
+      "person_signal": "non_base",
+      "note": "This impersonal gnomic statement is nondiagnostic for base narration."
+    },
+    {
+      "quote_id": "q00705",
+      "person_signal": "non_base",
+      "note": "This is a provenance error: an authorized excerpt places the sentence in Azar Nafisi's Reading Lolita in Tehran, not Nabokov's Lolita."
+    },
+    {
+      "quote_id": "q00706",
+      "person_signal": "non_base",
+      "note": "Direct character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00707",
+      "person_signal": "first",
+      "note": "Humbert narrates his own knowledge and love using repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00708",
+      "person_signal": "first",
+      "note": "The participating narrator recounts a shared past as \u201cwe\u201d and adds the narratorial aside \u201cI should add.\u201d"
+    },
+    {
+      "quote_id": "q00709",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d narrates Humbert's actions, knowledge, and feelings within the story."
+    },
+    {
+      "quote_id": "q00710",
+      "person_signal": "first",
+      "note": "The participating narrator retrospectively describes himself and Annabel as \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q00711",
+      "person_signal": "non_base",
+      "note": "Direct character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00712",
+      "person_signal": "non_base",
+      "note": "Although Humbert speaks as \u201cI,\u201d the upstream bucket identifies this as direct dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q00713",
+      "person_signal": "first",
+      "note": "The narrator participates in the narrated action through \u201cI was driving\u201d and \u201cmy tears.\u201d"
+    },
+    {
+      "quote_id": "q00714",
+      "person_signal": "non_base",
+      "note": "The universal \u201cyou\u201d occurs in clipped gnomic material, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00715",
+      "person_signal": "non_base",
+      "note": "Imperatives and \u201cyou\u201d occur in direct character speech, not base narration."
+    },
+    {
+      "quote_id": "q00716",
+      "person_signal": "non_base",
+      "note": "Despite its \u201cI\u201d and \u201cwe,\u201d this is generalized gnomic reflection rather than story-participating narration."
+    },
+    {
+      "quote_id": "q00717",
+      "person_signal": "first",
+      "note": "First-person possessives place the participating narrator in the scene: \u201cmy fist\u201d and \u201cmy pocket.\u201d"
+    },
+    {
+      "quote_id": "q00718",
+      "person_signal": "non_base",
+      "note": "The universal \u201cwe\u201d belongs to a gnomic statement and is not diagnostic narrative participation."
+    },
+    {
+      "quote_id": "q00719",
+      "person_signal": "first",
+      "note": "This is unmistakable retrospective event narration by Humbert using repeated \u201cI\u201d; the upstream gnomic bucket appears mistaken."
+    },
+    {
+      "quote_id": "q00720",
+      "person_signal": "non_base",
+      "note": "The universal \u201cwe all\u201d introduces a general maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00721",
+      "person_signal": "non_base",
+      "note": "The second-person address occurs in direct speech and does not establish base person."
+    },
+    {
+      "quote_id": "q00722",
+      "person_signal": "first",
+      "note": "The narratorial \u201cI\u201d states Humbert's own epistemic position within his continuing memoir."
+    },
+    {
+      "quote_id": "q00723",
+      "person_signal": "first",
+      "note": "Humbert recounts the shared journey as \u201cwe\u201d and explicitly reflects as \u201cI.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780679723165",
+      "title": "Lolita | Penguin Random House Secondary Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized publisher excerpt spans several opening chapters and repeatedly presents the protagonist-narrator's autobiography as \u201cI,\u201d including \u201cI was born\u201d and \u201cI am writing under observation.\u201d"
+    },
+    {
+      "url": "https://nabokovsociety.org/bibliography/bouchet-marie-focalization-and-narration-lolita-novel-and-film-2009",
+      "title": "Bouchet, Marie. Focalization and Narration in Lolita, Novel and Film",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly abstract describes Humbert as the novel's omnipresent homodiegetic narrator and distinguishes his \u201cnarrating I\u201d from his \u201cnarrated I.\u201d"
+    },
+    {
+      "url": "https://journal.oraltradition.org/wp-content/uploads/OT-Volume-34-Burgoyne.pdf",
+      "title": "Orality and Social Memory in Vladimir Nabokov\u2019s Lolita",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This peer-reviewed analysis says the novel is mostly first-person and explains that apparent third-person or omniscient effects remain rhetorical modes controlled by Humbert, not autonomous narrators."
+    },
+    {
+      "url": "https://digitalcommons.chapman.edu/english_theses/2/",
+      "title": "Readers in Pursuit of Popular Justice: Unraveling Conflicting Frameworks in Lolita",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The thesis identifies the fictional John Ray foreword as a framing voice distinct from Humbert's manuscript; this supports treating the foreword as local framing rather than sustained base-person alternation."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1247/page_number/2/reading-lolita-in-tehran",
+      "title": "Excerpt from Reading Lolita in Tehran by Azar Nafisi",
+      "tier": "A",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The excerpt, reproduced by permission of Random House, places q00705 in Nafisi's memoir and therefore resolves it as foreign to the target novel."
+    },
+    {
+      "url": "https://nabokovsociety.org/topic/rust-stardust-lolita",
+      "title": "rust & stardust in Lolita",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The International Vladimir Nabokov Society page identifies q00701 as the final line of Humbert's embedded poem \u201cWanted.\u201d"
+    }
+  ],
+  "search_log": [
+    "Searched \u201cVladimir Nabokov Lolita official excerpt Humbert first person\u201d and publisher-domain variants; opened the Penguin Random House authorized excerpt covering Chapters 1\u20135.",
+    "Searched \u201cLolita Nabokov first person narrator scholarly analysis Humbert Humbert\u201d; opened the International Vladimir Nabokov Society bibliography abstract and peer-reviewed Oral Tradition article.",
+    "Searched \u201cLolita foreword John Ray narrative structure scholarly\u201d; opened the Chapman University thesis describing the fictional foreword and Humbert manuscript as distinct frameworks.",
+    "Searched specifically for third-person passages and alternating narration; the Oral Tradition analysis explains that brief third-person self-reference and omniscient effects remain Humbert's narration.",
+    "Searched the exact text of q00705; an authorized Reading Lolita in Tehran excerpt showed it was imported from Azar Nafisi's memoir.",
+    "Searched the exact text of q00701; the Nabokov Society source located it in Humbert's embedded poem \u201cWanted.\u201d",
+    "The Penguin Random House Canada excerpt endpoint initially returned no readable page content, and Google Books supplied only catalog/preview metadata; neither was relied upon."
+  ],
+  "person_note": "The controlling narrative is Humbert Humbert's retrospective first-person memoir, independently demonstrated by numerous interior quotes, an authorized multi-chapter excerpt, and whole-book scholarly analyses. John Ray's fictional foreword and Nabokov's later afterword are framing paratext, while Humbert's occasional third-person self-reference remains his own controlling voice; neither creates sustained base narration in another person. q00701 is embedded verse, q00705 belongs to another book, and q00719 appears misbucketed upstream. These provenance issues and the few unmarked or gnomic fragments do not create material uncertainty about the FIRST label.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_011",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T11:25:56.160484+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "47920abf159c73b5b34e5bafb07181f11452459038b7279c926f423fcf3b13f8"
+  }
+}

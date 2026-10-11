@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1991:6426",
+  "quotes": [
+    {
+      "quote_id": "q03210",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a narrating character."
+    },
+    {
+      "quote_id": "q03211",
+      "person_signal": "non_base",
+      "note": "General maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q03212",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its you-pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q03213",
+      "person_signal": "non_base",
+      "note": "Character speech rather than base narration."
+    },
+    {
+      "quote_id": "q03214",
+      "person_signal": "non_base",
+      "note": "Attributed epigraphic quotation from Churchill."
+    },
+    {
+      "quote_id": "q03215",
+      "person_signal": "non_base",
+      "note": "Dialogue or local thought, with no exposed base narrator."
+    },
+    {
+      "quote_id": "q03216",
+      "person_signal": "non_base",
+      "note": "Character speech, not controlling narration."
+    },
+    {
+      "quote_id": "q03217",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q03218",
+      "person_signal": "third",
+      "note": "Extended external exposition about intelligence services is delivered by a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q03219",
+      "person_signal": "non_base",
+      "note": "Aphoristic material rather than a narrated scene."
+    },
+    {
+      "quote_id": "q03220",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks enough syntax or context for attribution."
+    },
+    {
+      "quote_id": "q03221",
+      "person_signal": "third",
+      "note": "The passage externally describes Ryan and explicitly reports Wellington's private judgment, exposing third-person narration despite the dialogue bucket."
+    },
+    {
+      "quote_id": "q03222",
+      "person_signal": "non_base",
+      "note": "General political maxim with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q03223",
+      "person_signal": "unmarked",
+      "note": "The exchange is direct speech; the brief third-person reporting tag alone is insufficient to establish narrator person."
+    },
+    {
+      "quote_id": "q03224",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows an unnamed male character as he and his, with narratorial commentary on social decorum."
+    },
+    {
+      "quote_id": "q03225",
+      "person_signal": "unmarked",
+      "note": "Direct dialogue dominates, and the short named-character reporting tags do not independently establish base person."
+    },
+    {
+      "quote_id": "q03226",
+      "person_signal": "non_base",
+      "note": "First-person plural and second-person forms occur inside character speech."
+    },
+    {
+      "quote_id": "q03227",
+      "person_signal": "non_base",
+      "note": "Gnomic claim rather than story-specific narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://tomclancy.com/images/tomclancy/site/contents/sum_of_all_fears_clancy.pdf",
+      "title": "The Sum of All Fears \u2014 Prologue: Broken Arrow",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained excerpt hosted on Tom Clancy's official site externally narrates the 1973 combat setting and Israeli personnel in third person, with no participating narrator."
+    },
+    {
+      "url": "https://writingexcuses.com/20-15-third-person-omniscient/",
+      "title": "20.15: Third Person Omniscient | Writing Excuses",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The professional writing discussion explicitly identifies the Act III chapter Three Shakes as third-person omniscient narration and explains that its events cannot belong to any character's viewpoint."
+    },
+    {
+      "url": "https://jyx.jyu.fi/bitstreams/539de381-4a3a-405c-99d3-4cbbbf48950c/download",
+      "title": "Tom Clancy and Orientalism: Arabs and Muslims in the Contemporary Technothriller Novel",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This University of Jyv\u00e4skyl\u00e4 thesis analyzes the novel's numerous character-centered plot strands and reproduces third-person passages from both the opening and interior, including narration through Motti Zadin and Ghosn."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Sum of All Fears\" Tom Clancy excerpt/first chapter; found and opened the official Tom Clancy prologue PDF.",
+    "Searched \"The Sum of All Fears\" third person/narrator/point of view/omniscient narrator; opened Writing Excuses discussions identifying the interior Three Shakes chapter as third-person omniscient.",
+    "Searched for scholarly structural analysis; opened the University of Jyv\u00e4skyl\u00e4 thesis and inspected its whole-novel chapter, opening analysis, and interior quotations.",
+    "Searched \"The Sum of All Fears\" alternating narrator/first person/epistolary/frame narrative; found no credible evidence of sustained first- or second-person base sections.",
+    "Checked Google Books and Open Library records; their catalog descriptions and limited previews verified the edition but were not used as person evidence.",
+    "Excluded search results concerning the film, first-person-shooter game, plot-only summaries, unattributed copies, and search snippets from evidentiary use."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates multiple characters and locations in third person, sometimes widening into omniscient technical exposition. The diagnostic Goodreads passages agree with the official third-person opening, the interior Three Shakes analysis, and the scholarly study's opening and interior examples. First- and second-person forms in the supplied quotes occur only in speech, aphorisms, or the Churchill epigraph, so they do not create alternating narration. The main limitation is that the authorized excerpt covers only the opening, but independently documented interior narration and whole-book structural analysis resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_027",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:55:31.094374+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "03d460a0182ca3e53356ace94a13a758b2a4b3642221219aafc070f3b7a05ba3"
+  }
+}

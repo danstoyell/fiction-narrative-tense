@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:1206",
+  "quotes": [
+    {
+      "quote_id": "q00938",
+      "person_signal": "non_base",
+      "note": "General aphorism; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00939",
+      "person_signal": "non_base",
+      "note": "General maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00940",
+      "person_signal": "non_base",
+      "note": "Attributed prophecy presented as paratext, not the base narrative voice."
+    },
+    {
+      "quote_id": "q00941",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' expresses a maxim or focalized reflection, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00942",
+      "person_signal": "unmarked",
+      "note": "Generic hypothetical 'you' is nondiagnostic for narrative person."
+    },
+    {
+      "quote_id": "q00943",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q00944",
+      "person_signal": "non_base",
+      "note": "A saying attributed to Lini; the local quoted voice is not the base narrator."
+    },
+    {
+      "quote_id": "q00945",
+      "person_signal": "non_base",
+      "note": "A saying attributed to Lini; its pronouns are local rather than narratorial."
+    },
+    {
+      "quote_id": "q00946",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' in a maxim does not indicate second-person narration."
+    },
+    {
+      "quote_id": "q00947",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' occurs in reflective narration but does not identify its person."
+    },
+    {
+      "quote_id": "q00948",
+      "person_signal": "non_base",
+      "note": "Explicitly presented as a maxim, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00949",
+      "person_signal": "unmarked",
+      "note": "The brief Domon-focused reflection is compatible with third-person narration but too compressed to establish it independently."
+    },
+    {
+      "quote_id": "q00950",
+      "person_signal": "unmarked",
+      "note": "Generic proverbial 'you' is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00951",
+      "person_signal": "unmarked",
+      "note": "Impersonal reference to a wise man does not identify the narrator."
+    },
+    {
+      "quote_id": "q00952",
+      "person_signal": "unmarked",
+      "note": "General reflection with generic 'you'; narratorial participation is not exposed."
+    },
+    {
+      "quote_id": "q00953",
+      "person_signal": "non_base",
+      "note": "First-person plural belongs to an embedded poem, not the novel's base narrator."
+    },
+    {
+      "quote_id": "q00954",
+      "person_signal": "unmarked",
+      "note": "General reflection contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00955",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism rather than base-narrator evidence."
+    },
+    {
+      "quote_id": "q00956",
+      "person_signal": "unmarked",
+      "note": "Repeated 'you' is generic and reflective, not sustained address to a protagonist."
+    },
+    {
+      "quote_id": "q00957",
+      "person_signal": "unmarked",
+      "note": "Expository or focalized reflection does not reveal whether the narrator participates."
+    },
+    {
+      "quote_id": "q00958",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at 'Being,' preventing reliable local attribution."
+    },
+    {
+      "quote_id": "q00959",
+      "person_signal": "non_base",
+      "note": "Dyelin's direct speech is a local character voice."
+    },
+    {
+      "quote_id": "q00960",
+      "person_signal": "unmarked",
+      "note": "General reflection contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q00961",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' in an aphoristic reflection is not second-person narration."
+    },
+    {
+      "quote_id": "q00962",
+      "person_signal": "non_base",
+      "note": "First-person forms occur inside a character's direct speech; the trailing fragment does not change that attribution."
+    },
+    {
+      "quote_id": "q00963",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' expresses a focalized generalization and is not story-specific second person."
+    },
+    {
+      "quote_id": "q00964",
+      "person_signal": "unmarked",
+      "note": "Impersonal observation does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00965",
+      "person_signal": "unmarked",
+      "note": "Impersonal maxim provides no diagnostic person evidence."
+    },
+    {
+      "quote_id": "q00966",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks enough context to identify narration or speaker."
+    },
+    {
+      "quote_id": "q00967",
+      "person_signal": "unclear",
+      "note": "Contextless foreign-language maxim cannot be reliably attributed to the base narration."
+    },
+    {
+      "quote_id": "q00968",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'she' and 'him' is compatible with third person but insufficient by itself."
+    },
+    {
+      "quote_id": "q00969",
+      "person_signal": "third",
+      "note": "The narration names Mat and externally attributes his thought, exposing a nonparticipating third-person narrator."
+    },
+    {
+      "quote_id": "q00970",
+      "person_signal": "third",
+      "note": "Outside the direct speech, sustained narration repeatedly renders Perrin as 'he' and reports his perceptions, surprise, and feelings from a nonparticipating third-person position."
+    },
+    {
+      "quote_id": "q00971",
+      "person_signal": "non_base",
+      "note": "Second-person forms occur in direct speech addressed to an Aes Sedai."
+    },
+    {
+      "quote_id": "q00972",
+      "person_signal": "third",
+      "note": "The speech is framed by external narration of Karldin as 'he,' including his action and an outside descriptive judgment."
+    },
+    {
+      "quote_id": "q00973",
+      "person_signal": "non_base",
+      "note": "Generic 'you' occurs inside direct advice or remembered speech."
+    },
+    {
+      "quote_id": "q00974",
+      "person_signal": "unmarked",
+      "note": "Impersonal observation contains no diagnostic narrator reference."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781429960748/crossroadsoftwilight/",
+      "title": "Crossroads of Twilight",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt consistently narrates Mat, Noal, and Egeanin as he or she while presenting Mat's memories and perceptions without a participating narrator."
+    },
+    {
+      "url": "https://www.gradesaver.com/crossroads-of-twilight/study-guide/literary-elements",
+      "title": "Crossroads of Twilight Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the book's narrator and point of view as a third-party narrative."
+    },
+    {
+      "url": "https://dichotomyofsoul.wordpress.com/2015/05/22/crossroads-of-twilight-book-review-book-10-of-the-wheel-of-time-series-by-robert-jordan/",
+      "title": "Crossroads of Twilight Book by Robert Jordan (Wheel of Time, #10)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly records the novel's POV as third person with multiple viewpoint characters."
+    },
+    {
+      "url": "https://www.swantower.com/2011/07/18/revisiting-the-wheel-of-time-crossroads-of-twilight/",
+      "title": "Revisiting the Wheel of Time: Crossroads of Twilight",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A systematic whole-book reread maps the prologue, every chapter, and the epilogue to named character POVs such as Mat, Perrin, Elayne, Egwene, and Rand, corroborating a shifting limited-POV structure rather than an alternate narratorial strand."
+    }
+  ],
+  "search_log": [
+    "Searched \"Crossroads of Twilight Robert Jordan excerpt chapter 1 official\" and located the authorized Macmillan Chapter 1 excerpt.",
+    "Searched \"Crossroads of Twilight Robert Jordan point of view third person narration\" and found explicit whole-book descriptions from GradeSaver and Bibliophile Bibliomaniac.",
+    "Searched for chapter summaries and POV structure; opened Swan Tower's complete chapter-by-chapter POV analysis and Tar Valon Library pages for Chapters 1 and 10.",
+    "Searched for the prologue and Google Books preview; the Google Books Glimmers page was inaccessible and its catalog description alone was not used as person evidence.",
+    "Checked the Macmillan book page directly and verified that its excerpt is sustained narrative prose rather than synopsis text."
+  ],
+  "person_note": "The base narration is third person with limited focalization shifting among many characters. The authorized opening renders Mat and others in third person, while the Goodreads interior passages q00969, q00970, and q00972 independently expose the same nonparticipating narratorial position. Whole-book POV sources describe third-person, multiple-view narration and map the viewpoint shifts across all sections. Generic 'you' passages are aphoristic or focalized generalizations, direct-speech pronouns are local, and q00953's 'we' belongs to an embedded poem; none constitutes a sustained first- or second-person base section. No credible contrary structure was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.237448+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "661708c998e87a21793389f1ae5a2efcf999f15e1fc87e40524c22d3ec573f43"
+  }
+}

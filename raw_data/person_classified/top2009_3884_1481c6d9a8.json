@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:3884",
+  "quotes": [
+    {
+      "quote_id": "q00361",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00362",
+      "person_signal": "unmarked",
+      "note": "The Teacher is described externally, but this isolated sentence does not establish a nonparticipating controlling narrator."
+    },
+    {
+      "quote_id": "q00363",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q00364",
+      "person_signal": "first",
+      "note": "The speech beat \u201cI said\u201d diagnostically exposes participating first-person narration."
+    },
+    {
+      "quote_id": "q00365",
+      "person_signal": "first",
+      "note": "Although bucketed as dialogue, the permissioned excerpt places this text within Mike Bennett's first-person base narration; the bucket appears to be an upstream error."
+    },
+    {
+      "quote_id": "q00366",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence has the Teacher as its third-person subject, but lacks enough local context to establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00367",
+      "person_signal": "non_base",
+      "note": "The permissioned excerpt identifies this as an embedded Edna St. Vincent Millay poem recalled by Bennett, not base narration."
+    },
+    {
+      "quote_id": "q00368",
+      "person_signal": "first",
+      "note": "The narratorial \u201cbeside me\u201d identifies the participating Mike Bennett narrator."
+    },
+    {
+      "quote_id": "q00369",
+      "person_signal": "first",
+      "note": "Outside the children's dialogue, \u201cI collapsed\u201d and \u201cI said\u201d expose first-person base narration."
+    },
+    {
+      "quote_id": "q00370",
+      "person_signal": "non_base",
+      "note": "Paratextual verse is not base narration."
+    },
+    {
+      "quote_id": "q00371",
+      "person_signal": "non_base",
+      "note": "Paratextual verse is not base narration."
+    },
+    {
+      "quote_id": "q00372",
+      "person_signal": "non_base",
+      "note": "Unframed direct speech supplies no narrator-person evidence."
+    },
+    {
+      "quote_id": "q00373",
+      "person_signal": "first",
+      "note": "The permissioned excerpt confirms this is Bennett's participating first-person base narration."
+    },
+    {
+      "quote_id": "q00374",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no story-specific narrator-person evidence."
+    },
+    {
+      "quote_id": "q00375",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person action lacks enough context to establish the narrator's person."
+    },
+    {
+      "quote_id": "q00376",
+      "person_signal": "unclear",
+      "note": "The sentence fragment has no recoverable narrator or quotation context."
+    },
+    {
+      "quote_id": "q00377",
+      "person_signal": "first",
+      "note": "The speech beat and accompanying action, \u201cI said\u201d and \u201cI entered,\u201d expose participating first-person narration."
+    },
+    {
+      "quote_id": "q00378",
+      "person_signal": "unmarked",
+      "note": "The reference to \u201cthey\u201d does not distinguish third-person narration from Bennett's first-person narration, and the preceding phrase has uncertain quotation boundaries."
+    },
+    {
+      "quote_id": "q00379",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence has the Teacher as its third-person subject, but lacks enough local context to establish a nonparticipating narrator."
+    }
+  ],
+  "person_label": "INSUFFICIENT",
+  "person_confidence": "",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/run-for-your-life/excerpt",
+      "title": "Run for Your Life by James Patterson and Michael Ledwidge | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reprinted with Little, Brown's permission covers the three-part prologue and Chapters 1\u20133 in Mike Bennett's first-person voice. It verifies q00365 and q00373 as base narration and q00367 as an embedded poem, but does not reach a Teacher-centered chapter or establish the whole book's person structure."
+    },
+    {
+      "url": "https://propensitytodiscuss.wordpress.com/2015/08/30/run-for-your-life/",
+      "title": "Run For Your Life by James Patterson and Michael Ledwidge \u2013 Propensity to Discuss",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review says Bobby Cannavale voices Mike and Dallas Roberts voices the Teacher in the audiobook. Separate performers may reflect character/strand differentiation, but the source does not state grammatical narrative person and therefore does not support ALTERNATING."
+    },
+    {
+      "url": "https://bcplinfo.overdrive.com/media/196250",
+      "title": "Run for Your Life - Baltimore County Public Library - OverDrive",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The library record verifies a publisher-supplied ebook and links an authorized sample, but the accessible reader landing did not expose a searchable Teacher-centered passage; it supplies no usable grammatical-person evidence beyond the already corroborated opening."
+    },
+    {
+      "url": "https://www.jamespatterson.com/titles/james-patterson/run-for-your-life/9780316040730/",
+      "title": "Run for Your Life by James Patterson & Michael Ledwidge | James Patterson",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The official title page verifies authorship, publisher, ISBN, and the Bennett-versus-Teacher premise, but its synopsis does not describe narrator person or alternating narration."
+    }
+  ],
+  "search_log": [
+    "Independent Sol Medium audit on 2026-09-06, applying the user's requested reasoning setting in place of the methodology's historical Sol High instruction.",
+    "Searched the verified title and authors with \u201cexcerpt,\u201d \u201cfirst person,\u201d \u201cthird person,\u201d \u201cpoint of view,\u201d \u201calternating,\u201d \u201cTeacher,\u201d and \u201cBennett\u201d; opened the permissioned Bookreporter excerpt, official author page, OverDrive library sample record, Google Books results, Goodreads quote/review results, and the cited audiobook review.",
+    "Searched exact Teacher text including \u201cTHE TEACHER WALKED into Bryant Park,\u201d \u201cTeacher chucked his Treo,\u201d and \u201cThe man in the beautifully tailored two-button Givenchy suit.\u201d Results reproduced isolated quotations or an unauthorized full-text copy, not an authorized sustained Teacher passage; unauthorized full text was not used as evidence.",
+    "The OverDrive record offered an authorized sample, but its protected web reader did not expose searchable prose sufficient to locate a Teacher chapter. Google Books exposed metadata rather than usable interior prose. No credible explicit whole-book statement of grammatical person was located.",
+    "A Goodreads reader review describes switches between the Teacher's and detective's points of view and quotes short third-person Teacher prose, but it does not explicitly distinguish grammatical person and was not treated as sufficient whole-book structural evidence."
+  ],
+  "person_note": "Independent Sol Medium review abstains. The permissioned opening and several sampled quotes securely establish sustained first-person Mike Bennett narration. However, q00362, q00366, and q00379 are isolated sentences with third-person subjects; under the methodology they are unmarked, not diagnostic proof of a nonparticipating narrator. The audiobook review establishes only separate performers, not different grammatical persons, and targeted research found neither an authorized sustained Teacher passage nor a credible explicit whole-book POV description. The book may alternate Bennett's first-person chapters with third-person Teacher chapters, but the available admissible evidence cannot distinguish that structure from a first-person book containing sentences about the Teacher, so ALTERNATING is not adequately supported.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_047",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T17:32:46.271438+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4946c6b9f93d9260f6704488b0a730aac270f52e8c66fb56f85a6e3b428636a9"
+  }
+}

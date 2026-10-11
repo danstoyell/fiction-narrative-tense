@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:PORTRAIT OF AN UNKNOWN WOMAN|Daniel Silva",
+  "quotes": [
+    {
+      "quote_id": "q07617",
+      "person_signal": "unmarked",
+      "note": "The opening action beat may be base narration, but the bare named subject does not establish narrator participation; the remaining text is dialogue."
+    },
+    {
+      "quote_id": "q07618",
+      "person_signal": "unmarked",
+      "note": "The speech tag may be base narration but does not establish its person; the proverb and pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q07619",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Christopher Keller and his appearance with no participating narrator, matching the authorized third-person excerpt."
+    },
+    {
+      "quote_id": "q07620",
+      "person_signal": "non_base",
+      "note": "A general definition, possibly spoken exposition, does not identify the story's base narrator."
+    },
+    {
+      "quote_id": "q07621",
+      "person_signal": "unclear",
+      "note": "Missing quotation boundaries leave this unresolved between a sarcastic spoken line and free-indirect material; neither reading securely identifies the narrator."
+    },
+    {
+      "quote_id": "q07622",
+      "person_signal": "non_base",
+      "note": "The Goodreads attribution identifies this as Sarah Bancroft's speech."
+    },
+    {
+      "quote_id": "q07623",
+      "person_signal": "non_base",
+      "note": "The first-person pronoun belongs to Julian Isherwood's attributed speech, not the base narrator."
+    },
+    {
+      "quote_id": "q07624",
+      "person_signal": "non_base",
+      "note": "The vocative and direct address identify character speech rather than second-person narration."
+    },
+    {
+      "quote_id": "q07625",
+      "person_signal": "non_base",
+      "note": "This is direct address to another character, not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q07626",
+      "person_signal": "unclear",
+      "note": "Missing boundaries leave the line unresolved between a speaker's aside and an unmarked narratorial observation."
+    },
+    {
+      "quote_id": "q07627",
+      "person_signal": "non_base",
+      "note": "Imperatives and first- and second-person pronouns occur in character speech."
+    },
+    {
+      "quote_id": "q07628",
+      "person_signal": "non_base",
+      "note": "The first-person autobiographical anecdote is a local character voice within the independently established third-person novel."
+    },
+    {
+      "quote_id": "q07629",
+      "person_signal": "non_base",
+      "note": "This general exposition about the art market, whether gnomic or spoken, does not expose the base narrator."
+    },
+    {
+      "quote_id": "q07630",
+      "person_signal": "unmarked",
+      "note": "This clipped third-person summary may be base narration, but its isolated pronoun and missing antecedent do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q07631",
+      "person_signal": "non_base",
+      "note": "Both the proverb and response occur within a marked dialogue exchange."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://danielsilvabooks.com/books/portrait-of-an-unknown-woman/excerpt/",
+      "title": "Excerpt - Daniel Silva",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's official site supplies a sustained excerpt spanning Chapters 1\u20133. It consistently narrates Julian Isherwood and Gabriel Allon externally in third person, including their actions, perceptions, memories, and thoughts, with no participating narrative frame."
+    }
+  ],
+  "search_log": [
+    "Searched exact-title-and-author combinations with \"excerpt,\" \"first chapter,\" and publisher/author-site restrictions.",
+    "Searched exact-title-and-author combinations with \"third person,\" \"point of view,\" \"narrator,\" and \"alternating point of view.\"",
+    "Opened and reviewed the official Daniel Silva excerpt, which spans three opening chapters and sustains third-person narration across more than one focal character.",
+    "Opened Google Books, but its accessible page supplied bibliographic data and common terms rather than readable diagnostic prose; Bookreporter's review was also checked but used plot-summary grammar without explicitly describing narrative person.",
+    "Targeted follow-up searches for explicit POV descriptions largely returned results for Vanora Bennett's different novel with the same title or unrelated artworks, so they were not used as evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. The diagnostic Goodreads scene about Christopher Keller agrees with the authorized multi-chapter excerpt, which externally narrates both Julian Isherwood and Gabriel Allon and enters their thoughts. First- and second-person forms in the quote set are dialogue or local anecdote, not autonomous narrative sections. No evidence of a first-person frame, sustained second-person narration, or alternating-person structure was found; the main limitation is that the authorized excerpt covers the opening rather than the entire novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_079",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T05:06:09.633347+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "db2da490f5fe579b3aa14361f1e58370d9affdf8477956af968eed52ab7a7b8c"
+  }
+}

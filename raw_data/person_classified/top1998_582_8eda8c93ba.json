@@ -1,0 +1,489 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:582",
+  "quotes": [
+    {
+      "quote_id": "q00158",
+      "person_signal": "non_base",
+      "note": "Aphoristic gnomic statement; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00159",
+      "person_signal": "non_base",
+      "note": "The first-person aside occurs within a general maxim, not a narrated story event."
+    },
+    {
+      "quote_id": "q00160",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor with no diagnostic base-narrator signal."
+    },
+    {
+      "quote_id": "q00161",
+      "person_signal": "first",
+      "note": "Participating narrator directly reports his own feelings as I."
+    },
+    {
+      "quote_id": "q00162",
+      "person_signal": "first",
+      "note": "The narrator describes his own perception and writing experience as I."
+    },
+    {
+      "quote_id": "q00163",
+      "person_signal": "non_base",
+      "note": "Extended universal reflection; its we and you are generic rather than story-specific."
+    },
+    {
+      "quote_id": "q00164",
+      "person_signal": "first",
+      "note": "Participating narrator reports being paid to do work he loved."
+    },
+    {
+      "quote_id": "q00165",
+      "person_signal": "non_base",
+      "note": "General maxim without a diagnostic narrating position."
+    },
+    {
+      "quote_id": "q00166",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison about grief, not story-event narration."
+    },
+    {
+      "quote_id": "q00167",
+      "person_signal": "unmarked",
+      "note": "Possible base description, but the sentence alone does not expose narrator person."
+    },
+    {
+      "quote_id": "q00168",
+      "person_signal": "non_base",
+      "note": "General reflection on reality; the incidental I think is not used as event evidence."
+    },
+    {
+      "quote_id": "q00169",
+      "person_signal": "non_base",
+      "note": "General observation about readers and writers."
+    },
+    {
+      "quote_id": "q00170",
+      "person_signal": "non_base",
+      "note": "Aphoristic definition of a writer."
+    },
+    {
+      "quote_id": "q00171",
+      "person_signal": "non_base",
+      "note": "Gnomic acronym rather than narrative evidence."
+    },
+    {
+      "quote_id": "q00172",
+      "person_signal": "first",
+      "note": "The retrospective I thought then exposes the participating narrator."
+    },
+    {
+      "quote_id": "q00173",
+      "person_signal": "unmarked",
+      "note": "The dream is described without a narrator-identifying pronoun."
+    },
+    {
+      "quote_id": "q00174",
+      "person_signal": "first",
+      "note": "The participating narrator includes himself in the past experience through we."
+    },
+    {
+      "quote_id": "q00175",
+      "person_signal": "unmarked",
+      "note": "Scenic description does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q00176",
+      "person_signal": "non_base",
+      "note": "Gnomic descriptive fragment without narrative-person evidence."
+    },
+    {
+      "quote_id": "q00177",
+      "person_signal": "non_base",
+      "note": "General maxim about marriage."
+    },
+    {
+      "quote_id": "q00178",
+      "person_signal": "non_base",
+      "note": "General philosophical statement about made objects."
+    },
+    {
+      "quote_id": "q00179",
+      "person_signal": "non_base",
+      "note": "Aphoristic definition of murder."
+    },
+    {
+      "quote_id": "q00180",
+      "person_signal": "non_base",
+      "note": "General observation about imaginative people."
+    },
+    {
+      "quote_id": "q00181",
+      "person_signal": "first",
+      "note": "After an attributed Hardy quotation, the narrator reports his own understanding and feeling as I."
+    },
+    {
+      "quote_id": "q00182",
+      "person_signal": "first",
+      "note": "Sustained self-description by the participating narrator repeatedly uses I."
+    },
+    {
+      "quote_id": "q00183",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim about nighttime thoughts."
+    },
+    {
+      "quote_id": "q00184",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00185",
+      "person_signal": "unmarked",
+      "note": "Weather description does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00186",
+      "person_signal": "non_base",
+      "note": "Its you is generic in a philosophical reflection, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00187",
+      "person_signal": "non_base",
+      "note": "General reflection about houses; the incidental I think is not event narration."
+    },
+    {
+      "quote_id": "q00188",
+      "person_signal": "non_base",
+      "note": "General observation about the dead and memory."
+    },
+    {
+      "quote_id": "q00189",
+      "person_signal": "first",
+      "note": "The narrator identifies his own editor and his own belief through my and I."
+    },
+    {
+      "quote_id": "q00190",
+      "person_signal": "non_base",
+      "note": "Generic second-person discussion of lawyers, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00191",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration by Mike uses my, me, and I throughout."
+    },
+    {
+      "quote_id": "q00192",
+      "person_signal": "non_base",
+      "note": "Character dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00193",
+      "person_signal": "non_base",
+      "note": "General reflection on repeating dreams."
+    },
+    {
+      "quote_id": "q00194",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs inside character speech."
+    },
+    {
+      "quote_id": "q00195",
+      "person_signal": "non_base",
+      "note": "Generic observation using you rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00196",
+      "person_signal": "non_base",
+      "note": "Direct speech is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00197",
+      "person_signal": "non_base",
+      "note": "Direct speech is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00198",
+      "person_signal": "unmarked",
+      "note": "Sensory description alone does not identify narrator person."
+    },
+    {
+      "quote_id": "q00199",
+      "person_signal": "non_base",
+      "note": "General reflection about fright and pain."
+    },
+    {
+      "quote_id": "q00200",
+      "person_signal": "unmarked",
+      "note": "Third-person description of her does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00201",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a maxim about faith."
+    },
+    {
+      "quote_id": "q00202",
+      "person_signal": "non_base",
+      "note": "General social observation without person evidence."
+    },
+    {
+      "quote_id": "q00203",
+      "person_signal": "non_base",
+      "note": "General proposition about hypnosis."
+    },
+    {
+      "quote_id": "q00204",
+      "person_signal": "non_base",
+      "note": "Aphoristic or quoted admonition, not base narration."
+    },
+    {
+      "quote_id": "q00205",
+      "person_signal": "non_base",
+      "note": "First person occurs within direct dialogue."
+    },
+    {
+      "quote_id": "q00206",
+      "person_signal": "non_base",
+      "note": "Gnomic exclamation about telephones."
+    },
+    {
+      "quote_id": "q00207",
+      "person_signal": "non_base",
+      "note": "The first-person language is explicitly quoted self-address or direct thought."
+    },
+    {
+      "quote_id": "q00208",
+      "person_signal": "first",
+      "note": "Sustained participating narration describes the narrator's own troubled condition as I."
+    },
+    {
+      "quote_id": "q00209",
+      "person_signal": "first",
+      "note": "The narrator reports his own actions and judgments through repeated I."
+    },
+    {
+      "quote_id": "q00210",
+      "person_signal": "first",
+      "note": "The participating narrator reports that he stayed and explains why."
+    },
+    {
+      "quote_id": "q00211",
+      "person_signal": "unclear",
+      "note": "Stripped context leaves unresolved whether the first-person sentence is dialogue or narration."
+    },
+    {
+      "quote_id": "q00212",
+      "person_signal": "non_base",
+      "note": "Abstract maxim about survival."
+    },
+    {
+      "quote_id": "q00213",
+      "person_signal": "non_base",
+      "note": "General observation about readers."
+    },
+    {
+      "quote_id": "q00214",
+      "person_signal": "first",
+      "note": "The narrator describes the writing mechanism in his own head using my and I."
+    },
+    {
+      "quote_id": "q00215",
+      "person_signal": "first",
+      "note": "The narrator identifies both the story and his understanding through my and I."
+    },
+    {
+      "quote_id": "q00216",
+      "person_signal": "first",
+      "note": "Participating first-person narration presents the narrator's anticipated experience."
+    },
+    {
+      "quote_id": "q00217",
+      "person_signal": "first",
+      "note": "The narrator describes his own past experience of writing through me and I."
+    },
+    {
+      "quote_id": "q00218",
+      "person_signal": "non_base",
+      "note": "The first-person account is enclosed in character dialogue."
+    },
+    {
+      "quote_id": "q00219",
+      "person_signal": "first",
+      "note": "The narrator directly reports his own present choice through I."
+    },
+    {
+      "quote_id": "q00220",
+      "person_signal": "non_base",
+      "note": "Generic writing advice and a quoted maxim do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00221",
+      "person_signal": "first",
+      "note": "The narrator reports his own recognition through me and I."
+    },
+    {
+      "quote_id": "q00222",
+      "person_signal": "unmarked",
+      "note": "A third-person statement about Krazy Kat does not identify narrator person."
+    },
+    {
+      "quote_id": "q00223",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person reference does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q00224",
+      "person_signal": "non_base",
+      "note": "All first-person material occurs in dialogue."
+    },
+    {
+      "quote_id": "q00225",
+      "person_signal": "non_base",
+      "note": "General descriptive reflection; the incidental I think is nondiagnostic."
+    },
+    {
+      "quote_id": "q00226",
+      "person_signal": "non_base",
+      "note": "Gnomic acronym rather than story narration."
+    },
+    {
+      "quote_id": "q00227",
+      "person_signal": "unmarked",
+      "note": "A quoted remark and external comment contain no narrator-identifying pronoun."
+    },
+    {
+      "quote_id": "q00228",
+      "person_signal": "unclear",
+      "note": "The context-free literary fragment cannot be securely assigned to base narration or embedded material."
+    },
+    {
+      "quote_id": "q00229",
+      "person_signal": "unmarked",
+      "note": "Third-person historical description of Robert Johnson does not identify narrator person."
+    },
+    {
+      "quote_id": "q00230",
+      "person_signal": "non_base",
+      "note": "Story-specific you occurs inside direct speech, not second-person base narration."
+    },
+    {
+      "quote_id": "q00231",
+      "person_signal": "first",
+      "note": "The participating narrator explicitly reports an observation he kept to himself."
+    },
+    {
+      "quote_id": "q00232",
+      "person_signal": "non_base",
+      "note": "Generic you appears in an aphoristic law, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00233",
+      "person_signal": "non_base",
+      "note": "The passage is direct thought or dialogue attributed to Jo."
+    },
+    {
+      "quote_id": "q00234",
+      "person_signal": "non_base",
+      "note": "Story-specific you occurs within direct dialogue."
+    },
+    {
+      "quote_id": "q00235",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports his own thought and memory as I."
+    },
+    {
+      "quote_id": "q00236",
+      "person_signal": "non_base",
+      "note": "Generic discussion of the creative process does not diagnose narrative person."
+    },
+    {
+      "quote_id": "q00237",
+      "person_signal": "first",
+      "note": "The participating narrator reports his own bodily action and self-reminder."
+    },
+    {
+      "quote_id": "q00238",
+      "person_signal": "first",
+      "note": "The narrator reports his own thought through me."
+    },
+    {
+      "quote_id": "q00239",
+      "person_signal": "first",
+      "note": "The participating narrator repeatedly describes his own thinking as I."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/Bag-of-Bones/Stephen-King/9781501198892",
+      "title": "Bag of Bones | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher's sustained Chapter 1 excerpt is narrated by Mike Noonan as I and my, beginning with his account of his wife's death."
+    },
+    {
+      "url": "https://stephenkingbooks.co.uk/wp-content/uploads/2015/05/bag_of_bones_guide.pdf",
+      "title": "Bag of Bones Reading Group Guide and Extract",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The authorized UK publisher guide supplies a sustained later extract in which Mike narrates his dreams of Sara Laughs through I and my."
+    },
+    {
+      "url": "https://theses.gla.ac.uk/516/1/2007napierphd.pdf",
+      "title": "The Haunted House of Memory in the Fiction of Stephen King",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Will Napier's University of Glasgow PhD thesis explicitly states that Bag of Bones is told through a first-person narrator and identifies that narrator as Mike Noonan."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-bag-of-bones/style.html",
+      "title": "Stephen King Writing Styles in Bag of Bones",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view section explicitly describes the novel as entirely first person through protagonist Mike Noonan."
+    },
+    {
+      "url": "https://www.independent.co.uk/arts-entertainment/books-don-t-mention-the-king-1171739.html",
+      "title": "Books: Don't mention the king",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Kim Newman's review identifies Michael Noonan as the narrator and describes the completed narrative as Noonan's memoir, including its final chapter."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780684853505",
+      "title": "Bag of Bones by Stephen King",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The contemporary review identifies Mike Noonan as the narrator and attributes the novel's opening account and continuing broodings to him."
+    }
+  ],
+  "search_log": [
+    "Searched: Stephen King Bag of Bones excerpt first chapter publisher; opened the Simon & Schuster official book page and its Chapter 1 excerpt.",
+    "Searched: Bag of Bones Stephen King first person narrator point of view; opened explicit point-of-view descriptions from BookRags and contemporary reviews.",
+    "Searched: Bag of Bones novel narration first person Mike Noonan scholarly; opened two academic theses, including the University of Glasgow PhD close reading.",
+    "Searched: site:stephenking.com Bag of Bones excerpt; no useful extract appeared on the author site, but the search located an authorized Stephen King UK publisher guide with an extract.",
+    "Searched targeted combinations for multiple narrators, alternating point of view, epistolary form, and frame narrative; found no credible indication of sustained base sections in another person.",
+    "Opened Publishers Weekly, The Independent, Salon, and the authorized excerpts to distinguish explicit narrator evidence from synopsis grammar.",
+    "An AudioFile result explicitly described the audiobook as a first-person narrative in its search result, but the live page redirected to a generic audiobook index, so it was not retained as web evidence.",
+    "Hachette UK's product page advertised an excerpt but exposed only catalog copy in the accessible page; it was treated as a discovery dead end."
+  ],
+  "person_note": "The diagnostic event quotes repeatedly expose bestselling novelist Mike Noonan as a participating I-narrator, including sustained autobiographical passages about his wife, grief, writer's block, and later experiences. Third-person scenic sentences are merely unmarked within that first-person account, while dialogue and gnomic quotations were not promoted to base-narrator evidence; q00211 and q00228 remain locally unresolved because context was stripped. Independent authorized opening and interior extracts reproduce Mike's first-person voice, and scholarly whole-book analysis explicitly identifies the novel's first-person narrator. Targeted searches found no sustained second- or third-person base sections, so the controlling narrative person is FIRST with no material remaining structural uncertainty.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.229050+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "338288783fb6f7ed5f567ed970da53755805d2afcb9511f640d664cffc0e0e84"
+  }
+}

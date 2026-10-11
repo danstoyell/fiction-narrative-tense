@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:1835",
+  "quotes": [
+    {
+      "quote_id": "q00491",
+      "person_signal": "third",
+      "note": "Sustained external narration describes the president as \u201che\u201d and adds authorial commentary without a participating narrator."
+    },
+    {
+      "quote_id": "q00492",
+      "person_signal": "non_base",
+      "note": "Generic aphorism; it does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q00493",
+      "person_signal": "non_base",
+      "note": "General maxim about survival rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00494",
+      "person_signal": "third",
+      "note": "Despite clipped edges, several sentences externally narrate a man attending a woman on a ventilator."
+    },
+    {
+      "quote_id": "q00495",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur entirely within character dialogue."
+    },
+    {
+      "quote_id": "q00496",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical commentary does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00497",
+      "person_signal": "non_base",
+      "note": "Aphoristic rhetorical question with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00498",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns belong to direct speech."
+    },
+    {
+      "quote_id": "q00499",
+      "person_signal": "unmarked",
+      "note": "A single sentence about \u201cshe\u201d and a man is insufficient by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q00500",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d means people generally, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00501",
+      "person_signal": "unmarked",
+      "note": "Historical exposition contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00502",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in dialogue."
+    },
+    {
+      "quote_id": "q00503",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows \u201cshe,\u201d including her actions, perceptions, and thoughts, with no participating frame narrator."
+    },
+    {
+      "quote_id": "q00504",
+      "person_signal": "unclear",
+      "note": "The fragment lacks its subject and both surrounding boundaries, preventing responsible attribution."
+    },
+    {
+      "quote_id": "q00505",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech remains local dialogue and cannot identify the base narrator."
+    },
+    {
+      "quote_id": "q00506",
+      "person_signal": "unmarked",
+      "note": "General exposition about farmers does not reveal whether the narrator participates in the story."
+    },
+    {
+      "quote_id": "q00507",
+      "person_signal": "unmarked",
+      "note": "Exposition about presidential roles lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00508",
+      "person_signal": "third",
+      "note": "The authorized prologue places these rhetorical fragments inside sustained third-person narration focalized through Michelle."
+    },
+    {
+      "quote_id": "q00509",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than diagnostic story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.vpm.org/npr-news/2009-07-24/excerpt-first-family/",
+      "title": "Excerpt: \u2018First Family\u2019",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The NPR/VPM excerpt presents the complete prologue and Chapter 1 in sustained third person, moving from Michelle Maxwell to Jane Cox while externally reporting each character\u2019s actions and interior responses."
+    },
+    {
+      "url": "https://bingebooks.com/book/first-family",
+      "title": "First Family by David Baldacci",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The commercial read sample continues across multiple early scenes and focal characters, including Jane, Sean, and Michelle, while consistently using a nonparticipating third-person narrator."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/first-family/9780446557979/?lens=grand-central-publishing",
+      "title": "First Family by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher page verifies the 2009 Grand Central Publishing work and King & Maxwell plot but does not explicitly identify narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDavid Baldacci First Family excerpt first chapter\u201d; found and opened the sustained NPR/VPM prologue-and-Chapter-1 excerpt and the BingeBooks early-chapter sample.",
+    "Searched \u201cFirst Family David Baldacci point of view third person narrator\u201d and exact-title variants; results about other Baldacci novels and generic POV pages were rejected as non-book-specific.",
+    "Searched official Hachette, David Baldacci, Google Books, Barnes & Noble, and Open Library variants; the Hachette page verified the edition, while Google Books, Barnes & Noble, and Open Library previews were bibliographic or inaccessible rather than additional diagnostic prose.",
+    "Searched exact-title combinations with \u201cepistolary,\u201d \u201cdiary,\u201d \u201cletters,\u201d \u201cmultiple narrators,\u201d and \u201calternating point of view\u201d; no credible source indicated first-person documents or sustained changes of grammatical person.",
+    "Reviewed AudioFile, Publishers Weekly, and reader-review results; references to multiple characters, passages, or the kidnapper\u2019s point of view described focalization or audiobook performance, not narrative person, so they were not treated as supporting evidence."
+  ],
+  "person_note": "The base narrator is nonparticipating and consistently uses third person while focalization shifts among characters such as Michelle, Jane, Sean, the president, and others. The authorized opening independently establishes this pattern, and scattered interior Goodreads passages\u2014especially q00491, q00494, and q00503\u2014corroborate it. First-person forms in the quote set are confined to dialogue, while generic \u201cyou\u201d statements are gnomic rather than second-person narration. The apparent free-indirect fragments in q00508 are explicitly located within Michelle\u2019s third-person prologue scene by the web excerpt. The main limitation is that the sustained web prose covers the opening and early chapters rather than the entire novel, but the distributed quote evidence and targeted structure searches reveal no contrary or alternating person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.245391+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c1703ea0bf5e2334cd1b50f5735e07993a1527fb31069a47a31fbb8c92c61973"
+  }
+}

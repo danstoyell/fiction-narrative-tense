@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:705",
+  "quotes": [
+    {
+      "quote_id": "q00240",
+      "person_signal": "non_base",
+      "note": "Gnomic hypothetical uses universal 'you,' not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00241",
+      "person_signal": "non_base",
+      "note": "Aphoristic gnomic statement has no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00242",
+      "person_signal": "unmarked",
+      "note": "Possible base narration describes Robert and his ancestry in third person, but without context this does not distinguish a first-person narrator describing him from third-person narration."
+    },
+    {
+      "quote_id": "q00243",
+      "person_signal": "non_base",
+      "note": "Dialogue; 'my father' belongs to the speaker and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00244",
+      "person_signal": "non_base",
+      "note": "Dialogue containing conversational and generic 'you,' not base narration."
+    },
+    {
+      "quote_id": "q00245",
+      "person_signal": "non_base",
+      "note": "Gnomic universal 'you' does not identify narrative person."
+    },
+    {
+      "quote_id": "q00246",
+      "person_signal": "first",
+      "note": "Despite initial clipping, narratorial 'I thought' recounts the participating narrator's reason for staying."
+    },
+    {
+      "quote_id": "q00247",
+      "person_signal": "non_base",
+      "note": "Dialogue with no evidence about the base narrator."
+    },
+    {
+      "quote_id": "q00248",
+      "person_signal": "non_base",
+      "note": "Gnomic universal 'you' is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00249",
+      "person_signal": "first",
+      "note": "Narratorial 'I' reflects on the speaker's lived circumstances and exposes participating base narration."
+    },
+    {
+      "quote_id": "q00250",
+      "person_signal": "first",
+      "note": "The base narrator participates through 'I can't blame her'; the third-person reference to another woman does not change the narrating person."
+    },
+    {
+      "quote_id": "q00251",
+      "person_signal": "first",
+      "note": "Narratorial 'me' describes the participating narrator's bodily grief."
+    },
+    {
+      "quote_id": "q00252",
+      "person_signal": "first",
+      "note": "The narrator's reflective 'I know' exposes the participating base voice."
+    },
+    {
+      "quote_id": "q00253",
+      "person_signal": "first",
+      "note": "Narratorial 'I had to go on living' directly presents the participating narrator's experience."
+    },
+    {
+      "quote_id": "q00254",
+      "person_signal": "first",
+      "note": "Repeated narratorial 'I' recounts hiding and interpreting the narrator's own wounds."
+    },
+    {
+      "quote_id": "q00255",
+      "person_signal": "first",
+      "note": "Narratorial 'me' places the participating narrator in relation to another woman."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/400/black-and-blue",
+      "title": "Black and Blue Excerpt: Read free excerpt of Black and Blue by Anna Quindlen",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained nine-page promotional excerpt begins with Fran recounting her abuse as 'I' and continues in first-person narration; the page supplies an explicit copyright and promotional-use notice."
+    },
+    {
+      "url": "https://www.enotes.com/topics/anna-quindlen/criticism/criticism/frank-l-fennell-review-date-6-june-1998",
+      "title": "Review of Black and Blue",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Frank L. Fennell's 1998 review, originally published in America, explicitly identifies the novel as Fran Benedetto's first-person narrative and discusses her controlling voice and the epilogue."
+    },
+    {
+      "url": "https://www.salon.com/1998/02/10/10review/",
+      "title": "Black and Blue",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Laura Green's contemporary review explicitly calls Fran the narrator and describes the novel's controlling voice as first person."
+    },
+    {
+      "url": "https://books.google.com/books/about/Black_and_Blue.html?id=n-goOxfFfscC",
+      "title": "Black and Blue: A Novel",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Google Books identifies the Random House edition and displays first-person passages from pages 1 and 8, corroborating the opening excerpt."
+    }
+  ],
+  "search_log": [
+    "Searched \"Anna Quindlen Black and Blue novel excerpt first chapter narrator first person\" and located the sustained BookBrowse promotional excerpt, Google Books passages, and contemporary reviews.",
+    "Searched \"Black and Blue Anna Quindlen point of view first person narrator\" and opened explicit whole-book descriptions from America/eNotes, Salon, and BookRags.",
+    "Searched \"Black and Blue Quindlen first-person narrative epilogue\", \"alternating point of view\", and \"diary narrator\"; found confirmation of Fran's continuing narratorial voice and no evidence of sustained narration in another person.",
+    "Searched Penguin Random House, Random House, Google Books, Open Library, and Internet Archive; the publisher page verified the edition and offered a sample control, but its visible synopsis was not itself person evidence."
+  ],
+  "person_note": "The event quotations repeatedly expose Fran/Beth as a participating 'I' narrator, while the lone sustained third-person-looking quotation merely describes Robert and remains compatible with her first-person account. Dialogue and universal gnomic uses of 'you' are local or nondiagnostic. A sustained authorized promotional opening and Google Books passages agree with two independent contemporary whole-book reviews explicitly identifying Fran's first-person narrative; targeted searches found no alternating-person structure. The only scope limitation is that the directly accessible prose excerpts cover the opening, but the whole-book reviews, including discussion of the epilogue, resolve that limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.229330+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "418d575727fcad14710a8e6faa608764c329ca895dc0969a1c3d6b61ac3a8a32"
+  }
+}

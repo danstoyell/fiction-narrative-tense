@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:3537",
+  "quotes": [
+    {
+      "quote_id": "q01494",
+      "person_signal": "third",
+      "note": "External narration names Sam and reports the collective response of everyone in the locker room, with no participating narrator framing the scene."
+    },
+    {
+      "quote_id": "q01495",
+      "person_signal": "third",
+      "note": "Despite the clipped opening fragment, the narration externally identifies Rick and reports what he admitted to himself."
+    },
+    {
+      "quote_id": "q01496",
+      "person_signal": "unmarked",
+      "note": "Sustained impersonal exposition about Bolzano is compatible with third-person narration but does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q01497",
+      "person_signal": "third",
+      "note": "The narrator externally summarizes the couple's relationship progression as 'they' without participating in it."
+    },
+    {
+      "quote_id": "q01498",
+      "person_signal": "unmarked",
+      "note": "This brief sentence uses 'they' for characters but lacks enough context to identify the narrator's person independently."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/playing-for-pizza/excerpt",
+      "title": "Playing for Pizza by John Grisham | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A Dell-permissioned excerpt covering Chapters 1 and 2 externally narrates Rick, Arnie, and Sam and discloses their separate thoughts without a participating narrator."
+    },
+    {
+      "url": "https://www.supersummary.com/playing-for-pizza/chapters-1-6-summary/",
+      "title": "Playing For Pizza Chapters 1-6 Summary & Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly states that Grisham maintains third-person omniscient narration throughout, while shifting narrative focus among Rick, Arnie, and Sam."
+    }
+  ],
+  "search_log": [
+    "Searched \"Playing for Pizza\" John Grisham with excerpt, first chapter, point of view, third person, and narrator terms.",
+    "Opened the permissioned Bookreporter/Dell excerpt and inspected its sustained narration across Chapters 1 and 2.",
+    "Opened SuperSummary's chapter analysis, which explicitly describes third-person omniscient narration throughout the novel.",
+    "Searched for multiple narrators, alternating point of view, epistolary form, diaries, and frame narrative; found no credible evidence of sustained narration in another person.",
+    "Opened Google Books, but its catalog synopsis was nondiagnostic for narrative person and was not used as evidence.",
+    "Searched exact phrases from the supplied interior quotes; Goodreads quote pages and uncontrolled full-text copies were found but not used as independent web evidence."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person omniscient narrator. The authorized opening moves among Rick's, Arnie's, and Sam's perspectives without changing grammatical person, and the explicit whole-book analysis says this narration continues throughout. Interior quotes q01494, q01495, and q01497 independently corroborate external narration; q01496 and q01498 are compatible but not diagnostic alone. No first- or second-person base sections, epistolary structure, or frame narrative surfaced. The opening excerpt's limited scope is offset by the interior quotes and the whole-book structural description.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.243569+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dd266fb394b2f0088aa4b2b888ec52210d49e1be584dc7e396694d1e8a77917e"
+  }
+}

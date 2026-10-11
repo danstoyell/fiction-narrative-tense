@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:ALL THE COLORS OF THE DARK|Chris Whitaker",
+  "quotes": [
+    {
+      "quote_id": "q08758",
+      "person_signal": "unmarked",
+      "note": "Ungrounded reflection contains no participating narrator or sustained external focalization."
+    },
+    {
+      "quote_id": "q08759",
+      "person_signal": "non_base",
+      "note": "Direct speech; the speaker's I does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08760",
+      "person_signal": "non_base",
+      "note": "Quoted speech dominates, and the bare tag \u201che said\u201d is not independently diagnostic."
+    },
+    {
+      "quote_id": "q08761",
+      "person_signal": "non_base",
+      "note": "General maxim without story-specific narration."
+    },
+    {
+      "quote_id": "q08762",
+      "person_signal": "non_base",
+      "note": "Gnomic advice using generic you, not second-person story narration."
+    },
+    {
+      "quote_id": "q08763",
+      "person_signal": "non_base",
+      "note": "Gnomic advice; the imperative and generic reference do not identify the narrator."
+    },
+    {
+      "quote_id": "q08764",
+      "person_signal": "third",
+      "note": "External narration follows a male character across two ages and reports his realizations; you is generic."
+    },
+    {
+      "quote_id": "q08765",
+      "person_signal": "non_base",
+      "note": "Direct speech; the external tag alone is too slight to diagnose person."
+    },
+    {
+      "quote_id": "q08766",
+      "person_signal": "unmarked",
+      "note": "Fragment names third parties but does not expose the narrating position."
+    },
+    {
+      "quote_id": "q08767",
+      "person_signal": "non_base",
+      "note": "Vocative direct speech, not base narration."
+    },
+    {
+      "quote_id": "q08768",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; its first-person expression and tags are local."
+    },
+    {
+      "quote_id": "q08769",
+      "person_signal": "non_base",
+      "note": "Conversational speech with generic you."
+    },
+    {
+      "quote_id": "q08770",
+      "person_signal": "unmarked",
+      "note": "A brief statement about she and him could occur under either first- or third-person narration."
+    },
+    {
+      "quote_id": "q08771",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a story-specific narrator."
+    },
+    {
+      "quote_id": "q08772",
+      "person_signal": "non_base",
+      "note": "General advice using generic you."
+    },
+    {
+      "quote_id": "q08773",
+      "person_signal": "non_base",
+      "note": "Universal we in a gnomic question does not expose a participating narrator."
+    },
+    {
+      "quote_id": "q08774",
+      "person_signal": "non_base",
+      "note": "General religious reflection with generic anyone and they."
+    },
+    {
+      "quote_id": "q08775",
+      "person_signal": "non_base",
+      "note": "Local first-person speech or direct thought; whole-book structural evidence rules it out as base narration, indicating a likely upstream boundary issue."
+    },
+    {
+      "quote_id": "q08776",
+      "person_signal": "non_base",
+      "note": "Local first-person-plural speech or thought about shared childhoods, not the structurally established base voice."
+    },
+    {
+      "quote_id": "q08777",
+      "person_signal": "non_base",
+      "note": "Gnomic people/we reflection rather than story-specific narration."
+    },
+    {
+      "quote_id": "q08778",
+      "person_signal": "third",
+      "note": "Nonparticipating narration names Saint and reports what she knew."
+    },
+    {
+      "quote_id": "q08779",
+      "person_signal": "non_base",
+      "note": "Vocative direct speech with generic you."
+    },
+    {
+      "quote_id": "q08780",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; no outside narration identifies person."
+    },
+    {
+      "quote_id": "q08781",
+      "person_signal": "non_base",
+      "note": "First-person speech followed by a local dialogue tag."
+    },
+    {
+      "quote_id": "q08782",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; brief action beats do not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q08783",
+      "person_signal": "non_base",
+      "note": "First-person direct address is local speech, not base narration."
+    },
+    {
+      "quote_id": "q08784",
+      "person_signal": "unclear",
+      "note": "Clipped first-person-plural fragment lacks quotation boundaries; it cannot responsibly identify the base voice."
+    },
+    {
+      "quote_id": "q08785",
+      "person_signal": "unmarked",
+      "note": "Brief he/her reference alone does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q08786",
+      "person_signal": "unclear",
+      "note": "Colloquial fragment likely represents speech, but missing boundaries prevent secure attribution."
+    },
+    {
+      "quote_id": "q08787",
+      "person_signal": "non_base",
+      "note": "Explicitly tagged direct speech with generic you."
+    },
+    {
+      "quote_id": "q08788",
+      "person_signal": "non_base",
+      "note": "Quoted conversation dominates; the short external beat is locally nondiagnostic."
+    },
+    {
+      "quote_id": "q08789",
+      "person_signal": "non_base",
+      "note": "First-person conversational speech, not narration."
+    },
+    {
+      "quote_id": "q08790",
+      "person_signal": "non_base",
+      "note": "Direct dialogue addressing Patch."
+    },
+    {
+      "quote_id": "q08791",
+      "person_signal": "non_base",
+      "note": "Clipped first-person thought or speech is local within a structurally third-person novel."
+    },
+    {
+      "quote_id": "q08792",
+      "person_signal": "unmarked",
+      "note": "Subordinate fragment about he lacks enough context to expose narrator person."
+    },
+    {
+      "quote_id": "q08793",
+      "person_signal": "non_base",
+      "note": "Direct speech dominates; \u201cHe listened\u201d is too brief to diagnose the controlling narrator."
+    },
+    {
+      "quote_id": "q08794",
+      "person_signal": "third",
+      "note": "External narration names Saint and gives sustained access to what she wanted, knew, felt, and feared."
+    },
+    {
+      "quote_id": "q08795",
+      "person_signal": "unmarked",
+      "note": "Narratorial-sounding summary contains no character or participating-narrator anchor."
+    },
+    {
+      "quote_id": "q08796",
+      "person_signal": "non_base",
+      "note": "General maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q08797",
+      "person_signal": "third",
+      "note": "External narration follows a female focal character and reports her wondering about Patch."
+    },
+    {
+      "quote_id": "q08798",
+      "person_signal": "third",
+      "note": "Saint is named externally and her knowledge is reported by the narrator."
+    },
+    {
+      "quote_id": "q08799",
+      "person_signal": "third",
+      "note": "Patch is named externally and the narration reports what he knew."
+    },
+    {
+      "quote_id": "q08800",
+      "person_signal": "third",
+      "note": "External focalization reports what a female character saw in another character."
+    },
+    {
+      "quote_id": "q08801",
+      "person_signal": "non_base",
+      "note": "Direct spoken address with generic we and you."
+    },
+    {
+      "quote_id": "q08802",
+      "person_signal": "unmarked",
+      "note": "The brief external description and dialogue tag use he, but do not alone prove narrator nonparticipation."
+    },
+    {
+      "quote_id": "q08803",
+      "person_signal": "non_base",
+      "note": "Explicitly tagged direct speech with generic people and you."
+    },
+    {
+      "quote_id": "q08804",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you."
+    },
+    {
+      "quote_id": "q08805",
+      "person_signal": "non_base",
+      "note": "Generalizing direct speech; we and you belong to the speaker."
+    },
+    {
+      "quote_id": "q08806",
+      "person_signal": "third",
+      "note": "External narration follows she and reports her later wondering and interpretation of the moment."
+    },
+    {
+      "quote_id": "q08807",
+      "person_signal": "non_base",
+      "note": "Direct question and advice to an addressee, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08808",
+      "person_signal": "non_base",
+      "note": "Direct advice using generic you."
+    },
+    {
+      "quote_id": "q08809",
+      "person_signal": "unmarked",
+      "note": "Bare third-person plural subject does not reveal whether the narrator participates."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9780593798898",
+      "title": "All the Colors of the Dark: A Read with Jenna Pick | Penguin Random House Higher Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained opening excerpt narrates Patch externally as he and reports his beliefs and perceptions without a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-all-the-colors-of-the-dark/styles.html",
+      "title": "Chris Whitaker Writing Styles in All the Colors of the Dark",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly states that the novel is written in third person and consistently follows either Saint's or Patch's perspective."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-all-the-colors-of-the-dark/quotes.html",
+      "title": "All the Colors of the Dark Quotes",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The guide attributes the Chapter 10 Saint passage also represented by q08798 to the Narrator, corroborating that this interior quotation is third-person base narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cAll the Colors of the Dark Chris Whitaker excerpt first chapter,\u201d publisher excerpts, and PRH pages; found sustained third-person opening prose from Penguin Random House and a duplicate authorized Bookreporter excerpt.",
+    "Searched the title with \u201cthird person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201cmultiple points of view\u201d; found BookRags' explicit whole-book third-person analysis.",
+    "Searched exact text from the apparent first-person quotations (\u201cThe shrink they make me see,\u201d \u201cWe look at others with fucking trivial problems,\u201d \u201cTo ask forgiveness for acts I know in my heart,\u201d and \u201csometimes things survive\u201d); no indexed contextual matches were found.",
+    "Checked Google Books, Hachette UK, SuperSummary, reader-guide, epistolary, frame-narrative, and interior-excerpt leads; Google Books and publisher samples did not expose a different interior narrative person, and no credible source described alternating first-person sections."
+  ],
+  "person_note": "The controlling narration is third person, shifting limited focalization chiefly between Patch and Saint. Multiple Goodreads event passages externally name these characters while reporting their knowledge, perceptions, and private responses; the authorized opening independently uses the same pattern, and the whole-book study guide explicitly identifies third person throughout. The isolated I/we passages in q08775, q08776, q08783, and q08791 are therefore local speech or direct thought, with likely lost quotation boundaries or upstream bucket issues, rather than sustained first-person sections. No credible evidence supports second person or alternating person. The only residual uncertainty is the exact local attribution of those clipped first-person fragments, which does not affect the book-level label.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.273262+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1ecb898c99eb0d885b3d4d472a7f9632e4f5cb296d149127fb90fddd3b6af454"
+  }
+}

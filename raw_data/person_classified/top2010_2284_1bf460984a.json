@@ -1,0 +1,531 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:2284",
+  "quotes": [
+    {
+      "quote_id": "q00564",
+      "person_signal": "non_base",
+      "note": "General aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q00565",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; its isolated I does not establish base narration."
+    },
+    {
+      "quote_id": "q00566",
+      "person_signal": "first",
+      "note": "A participating narrator compares cats with himself using I and me."
+    },
+    {
+      "quote_id": "q00567",
+      "person_signal": "first",
+      "note": "The narrator recalls what my dad used to say."
+    },
+    {
+      "quote_id": "q00568",
+      "person_signal": "non_base",
+      "note": "Universal second-person analogy, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00569",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00570",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration uses I and we to describe the narrator's life as a mother and columnist."
+    },
+    {
+      "quote_id": "q00571",
+      "person_signal": "first",
+      "note": "The narrating consciousness directly comments using I."
+    },
+    {
+      "quote_id": "q00572",
+      "person_signal": "first",
+      "note": "A participating narrator reports an action and perception using I."
+    },
+    {
+      "quote_id": "q00573",
+      "person_signal": "non_base",
+      "note": "Isolated gnomic saying despite its first-person framing."
+    },
+    {
+      "quote_id": "q00574",
+      "person_signal": "non_base",
+      "note": "Generalized gnomic we, not participating story narration."
+    },
+    {
+      "quote_id": "q00575",
+      "person_signal": "non_base",
+      "note": "Generalized statement about parents rather than a narrated story event."
+    },
+    {
+      "quote_id": "q00576",
+      "person_signal": "first",
+      "note": "The dialogue is locally framed by the first-person speech beat I reply."
+    },
+    {
+      "quote_id": "q00577",
+      "person_signal": "non_base",
+      "note": "General aphorism without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00578",
+      "person_signal": "non_base",
+      "note": "Universal you in a maxim, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00579",
+      "person_signal": "non_base",
+      "note": "General statement about mothers, with no participating narrator exposed."
+    },
+    {
+      "quote_id": "q00580",
+      "person_signal": "first",
+      "note": "The narrator directly describes personal incomprehension using I."
+    },
+    {
+      "quote_id": "q00581",
+      "person_signal": "non_base",
+      "note": "Impersonal factual and gnomic exposition."
+    },
+    {
+      "quote_id": "q00582",
+      "person_signal": "first",
+      "note": "The narrator reports a recurring personal reaction using I."
+    },
+    {
+      "quote_id": "q00583",
+      "person_signal": "first",
+      "note": "Emma narrates her experience as Jacob's mother using I, me, and my."
+    },
+    {
+      "quote_id": "q00584",
+      "person_signal": "non_base",
+      "note": "General contrast between logic and imagination; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q00585",
+      "person_signal": "first",
+      "note": "A participating mother describes her own life using I."
+    },
+    {
+      "quote_id": "q00586",
+      "person_signal": "non_base",
+      "note": "Gnomic figurative characterization with no narrator identified."
+    },
+    {
+      "quote_id": "q00587",
+      "person_signal": "first",
+      "note": "The narrator evaluates Jacob through an explicitly personal I comparison."
+    },
+    {
+      "quote_id": "q00588",
+      "person_signal": "non_base",
+      "note": "General aphorism about parenting."
+    },
+    {
+      "quote_id": "q00589",
+      "person_signal": "first",
+      "note": "The narrator reports a personal imagining using I."
+    },
+    {
+      "quote_id": "q00590",
+      "person_signal": "first",
+      "note": "The narrator recounts being mocked, using says to me."
+    },
+    {
+      "quote_id": "q00591",
+      "person_signal": "non_base",
+      "note": "Crime-related aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q00592",
+      "person_signal": "first",
+      "note": "A participating narrator describes what home schooling taught me."
+    },
+    {
+      "quote_id": "q00593",
+      "person_signal": "first",
+      "note": "Although dialogue-heavy, the outside narration uses me and I say."
+    },
+    {
+      "quote_id": "q00594",
+      "person_signal": "non_base",
+      "note": "Direct speech dominates; the third-person speech tag alone cannot establish a third-person base narrator."
+    },
+    {
+      "quote_id": "q00595",
+      "person_signal": "first",
+      "note": "The first-person speech beat I explain identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00596",
+      "person_signal": "first",
+      "note": "The narrator reflects on a personal action using I."
+    },
+    {
+      "quote_id": "q00597",
+      "person_signal": "first",
+      "note": "The narrator describes my mother and personal incomprehension using I."
+    },
+    {
+      "quote_id": "q00598",
+      "person_signal": "unmarked",
+      "note": "Possible base commentary, but it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00599",
+      "person_signal": "first",
+      "note": "The narrator identifies himself as an affected jury peer using me."
+    },
+    {
+      "quote_id": "q00600",
+      "person_signal": "non_base",
+      "note": "General legal maxim; generic you is not story-specific narration."
+    },
+    {
+      "quote_id": "q00601",
+      "person_signal": "first",
+      "note": "The narrator reports turning toward Henry using I."
+    },
+    {
+      "quote_id": "q00602",
+      "person_signal": "non_base",
+      "note": "General aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q00603",
+      "person_signal": "first",
+      "note": "A participating narrator discusses my feelings and says I am not in love."
+    },
+    {
+      "quote_id": "q00604",
+      "person_signal": "non_base",
+      "note": "Unframed exchange of direct speech."
+    },
+    {
+      "quote_id": "q00605",
+      "person_signal": "non_base",
+      "note": "Gnomic one-line description with no narrator identified."
+    },
+    {
+      "quote_id": "q00606",
+      "person_signal": "first",
+      "note": "Sustained experiential narration repeatedly uses I, me, and my body."
+    },
+    {
+      "quote_id": "q00607",
+      "person_signal": "non_base",
+      "note": "General aphorism without base-person evidence."
+    },
+    {
+      "quote_id": "q00608",
+      "person_signal": "non_base",
+      "note": "Direct speech with no outside narratorial frame."
+    },
+    {
+      "quote_id": "q00609",
+      "person_signal": "first",
+      "note": "The narrator recounts a personal school experience using my and me."
+    },
+    {
+      "quote_id": "q00610",
+      "person_signal": "first",
+      "note": "The narrator directly states that people do not make sense to me."
+    },
+    {
+      "quote_id": "q00611",
+      "person_signal": "non_base",
+      "note": "Generalized reflection using generic you."
+    },
+    {
+      "quote_id": "q00612",
+      "person_signal": "first",
+      "note": "The narrator reflects on personal memory using my and I."
+    },
+    {
+      "quote_id": "q00613",
+      "person_signal": "non_base",
+      "note": "General gnomic claims about mothers."
+    },
+    {
+      "quote_id": "q00614",
+      "person_signal": "first",
+      "note": "Emma states my hope and fear for Jacob and her future presence using I."
+    },
+    {
+      "quote_id": "q00615",
+      "person_signal": "first",
+      "note": "The narrator states personal beliefs using I; the later you is generic."
+    },
+    {
+      "quote_id": "q00616",
+      "person_signal": "non_base",
+      "note": "General parenting advice with generic second-person address."
+    },
+    {
+      "quote_id": "q00617",
+      "person_signal": "first",
+      "note": "The labeled Jacob concept uses my concentration to express his participating perspective."
+    },
+    {
+      "quote_id": "q00618",
+      "person_signal": "first",
+      "note": "Despite extensive dialogue, the surrounding action and sensation are narrated with I and me."
+    },
+    {
+      "quote_id": "q00619",
+      "person_signal": "non_base",
+      "note": "Unframed direct speech; you addresses another character."
+    },
+    {
+      "quote_id": "q00620",
+      "person_signal": "first",
+      "note": "A participating narrator compares another person's learning to what I might learn."
+    },
+    {
+      "quote_id": "q00621",
+      "person_signal": "non_base",
+      "note": "The Daniel and Jason case material is locally embedded rather than one of the novel's controlling character narratives."
+    },
+    {
+      "quote_id": "q00622",
+      "person_signal": "first",
+      "note": "The narrator describes a personal eating constraint using my and I."
+    },
+    {
+      "quote_id": "q00623",
+      "person_signal": "first",
+      "note": "The narrator gives my opinion and compares Mark with himself using I."
+    },
+    {
+      "quote_id": "q00624",
+      "person_signal": "non_base",
+      "note": "General analogy about autistic meltdowns; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q00625",
+      "person_signal": "first",
+      "note": "Emma recounts Jacob's childhood and her own advice using I and me."
+    },
+    {
+      "quote_id": "q00626",
+      "person_signal": "first",
+      "note": "The narrator directly describes his own understanding and feelings using I."
+    },
+    {
+      "quote_id": "q00627",
+      "person_signal": "first",
+      "note": "The generic you examples are framed by sustained personal explanation using me and I."
+    },
+    {
+      "quote_id": "q00628",
+      "person_signal": "first",
+      "note": "Emma explicitly identifies herself as a mother and narrates her knowledge using I."
+    },
+    {
+      "quote_id": "q00629",
+      "person_signal": "first",
+      "note": "Emma supplies a personal interpretation using in my mind."
+    },
+    {
+      "quote_id": "q00630",
+      "person_signal": "first",
+      "note": "A generic maxim is anchored in the narrator's personal history by I learned."
+    },
+    {
+      "quote_id": "q00631",
+      "person_signal": "non_base",
+      "note": "Direct question addressed to another character."
+    },
+    {
+      "quote_id": "q00632",
+      "person_signal": "first",
+      "note": "Oliver identifies his own legal and financial situation using I and me."
+    },
+    {
+      "quote_id": "q00633",
+      "person_signal": "first",
+      "note": "The dialogue is embedded in first-person bodily narration using my."
+    },
+    {
+      "quote_id": "q00634",
+      "person_signal": "first",
+      "note": "The narrator recalls observing Henry using I."
+    },
+    {
+      "quote_id": "q00635",
+      "person_signal": "unclear",
+      "note": "Context-stripped factual exposition does not reveal whether it is base narration or embedded case material."
+    },
+    {
+      "quote_id": "q00636",
+      "person_signal": "unclear",
+      "note": "The incomplete fragment cannot reveal narratorial person."
+    },
+    {
+      "quote_id": "q00637",
+      "person_signal": "first",
+      "note": "Sustained personal sensory narration uses my, me, and I."
+    },
+    {
+      "quote_id": "q00638",
+      "person_signal": "unclear",
+      "note": "The incomplete fragment has no recoverable narratorial context."
+    },
+    {
+      "quote_id": "q00639",
+      "person_signal": "first",
+      "note": "The participating narrator describes us and we."
+    },
+    {
+      "quote_id": "q00640",
+      "person_signal": "first",
+      "note": "The narrator reports personal sensation and expectation using my and I."
+    },
+    {
+      "quote_id": "q00641",
+      "person_signal": "first",
+      "note": "The narrator describes personal confusion and contrasts Mark with me."
+    },
+    {
+      "quote_id": "q00642",
+      "person_signal": "first",
+      "note": "Although dialogue-heavy, first-person narration appears in I say while Jess is described externally."
+    },
+    {
+      "quote_id": "q00643",
+      "person_signal": "first",
+      "note": "The narrator reports breathing and perception using I and my."
+    },
+    {
+      "quote_id": "q00644",
+      "person_signal": "unmarked",
+      "note": "The passage discusses Jack and Jacob externally but does not establish whether the base narrator participates."
+    },
+    {
+      "quote_id": "q00645",
+      "person_signal": "first",
+      "note": "Jacob narrates his imagined future with Jess using my and I."
+    },
+    {
+      "quote_id": "q00646",
+      "person_signal": "first",
+      "note": "After direct speech, Jacob sustains first-person action, thought, and imagination using I and my."
+    },
+    {
+      "quote_id": "q00647",
+      "person_signal": "first",
+      "note": "The narrator directly describes his own incomprehension using I."
+    },
+    {
+      "quote_id": "q00648",
+      "person_signal": "first",
+      "note": "The narrator repeatedly states personal incomprehension using I."
+    },
+    {
+      "quote_id": "q00649",
+      "person_signal": "first",
+      "note": "Jacob recounts a personal library encounter using I, me, and my."
+    },
+    {
+      "quote_id": "q00650",
+      "person_signal": "first",
+      "note": "Jacob describes what I have watched and how attention affects me."
+    },
+    {
+      "quote_id": "q00651",
+      "person_signal": "first",
+      "note": "Jacob reports pictures he has seen using I've."
+    },
+    {
+      "quote_id": "q00652",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration of Jacob's calls to Jess uses I."
+    },
+    {
+      "quote_id": "q00653",
+      "person_signal": "first",
+      "note": "The narrator describes a room through his own bodily reaction using I."
+    },
+    {
+      "quote_id": "q00654",
+      "person_signal": "first",
+      "note": "Emma recalls taking a photograph using I and my."
+    },
+    {
+      "quote_id": "q00655",
+      "person_signal": "non_base",
+      "note": "General aphorism about human hope."
+    },
+    {
+      "quote_id": "q00656",
+      "person_signal": "first",
+      "note": "The narrator describes the life I have carved; later you is generic."
+    },
+    {
+      "quote_id": "q00657",
+      "person_signal": "non_base",
+      "note": "General moral reflection; its inclusive we is gnomic rather than story narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jodipicoult.com/house-rules.html",
+      "title": "Jodi Picoult \u00b7 House Rules (2010)",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The author's official page says several characters take turns narrating chapters, and its authorized excerpt presents labeled Emma, Rich, and Jacob sections, each in sustained first person."
+    },
+    {
+      "url": "https://www.simonandschuster.com/books/House-Rules/Jodi-Picoult/9780743296441",
+      "title": "House Rules | Book by Jodi Picoult | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher's sustained excerpt labels Theo as narrator and presents his participating account consistently as I; the longer excerpt also proceeds through other labeled first-person character sections."
+    },
+    {
+      "url": "https://eprints.ums.ac.id/45844/23/CHAPTER%20III.pdf",
+      "title": "Structural Analysis of Jodi Picoult's House Rules",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly structural analysis explicitly identifies participant first-person point of view and describes Jacob, Emma, and Theo as narrating characters."
+    },
+    {
+      "url": "https://www.supersummary.com/house-rules-picoult/summary/",
+      "title": "House Rules Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The guide explicitly describes multiple first-person perspectives and identifies the five recurring narrators as Jacob, Emma, Theo, Oliver, and Rich."
+    }
+  ],
+  "search_log": [
+    "Searched: \"House Rules\" \"Jodi Picoult\" excerpt chapter Jacob Emma Oliver first person narrators.",
+    "Searched: \"House Rules\" \"Jodi Picoult\" multiple narrators point of view.",
+    "Searched the author's domain for a House Rules excerpt and structural description; opened the official book page and its excerpt.",
+    "Searched the publisher's domain for House Rules excerpts; opened the Simon & Schuster print and e-book pages.",
+    "Opened an explicit whole-book study-guide description and a scholarly structural-analysis PDF to verify that the changing character viewpoints remain first person.",
+    "Discarded search snippets, Wikipedia, Reddit discussions, plot-summary grammar, and audiobook cast descriptions as unnecessary or weaker evidence."
+  ],
+  "person_note": "House Rules uses chapter-length narration by multiple participating characters\u2014Emma, Theo, Jacob, Rich, and Oliver\u2014but the narrators consistently speak as I, so multiple voices do not make the book ALTERNATING under the methodology. The Goodreads evidence independently contains sustained first-person narration attributable to several of those characters, while dialogue, aphorisms, universal you statements, and embedded case material were excluded from the person decision. Authorized excerpts and whole-book structural sources agree that the controlling narration is first person. The context-stripped fragments remain locally unresolved but create no credible evidence of sustained second- or third-person sections.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_049",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T20:06:56.508486+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b19097568e0a5979e58257ab5ae7a290aa04712e7a68fce3f7e894c61a0c307b"
+  }
+}

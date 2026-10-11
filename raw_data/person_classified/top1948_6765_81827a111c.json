@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1948:6765",
+  "quotes": [
+    {
+      "quote_id": "q00379",
+      "person_signal": "non_base",
+      "note": "The first-person Army reflection is a contextless character monologue, not the established third-person base narrator."
+    },
+    {
+      "quote_id": "q00380",
+      "person_signal": "non_base",
+      "note": "A standalone gnomic maxim with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q00381",
+      "person_signal": "non_base",
+      "note": "The first-person account of learning to kill is a local soldier voice; whole-book evidence rules out a controlling first-person narrator."
+    },
+    {
+      "quote_id": "q00382",
+      "person_signal": "third",
+      "note": "The external attribution 'he thought' presents a focal character's thought from third-person narration."
+    },
+    {
+      "quote_id": "q00383",
+      "person_signal": "non_base",
+      "note": "Pavone's first-person language is dialogue; the short attribution does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q00384",
+      "person_signal": "non_base",
+      "note": "Direct speech by a character, including first- and second-person pronouns, is not base narration."
+    },
+    {
+      "quote_id": "q00385",
+      "person_signal": "non_base",
+      "note": "Direct spoken address does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q00386",
+      "person_signal": "third",
+      "note": "The narrator externally attributes the questions to a focal character as 'he thought,' exposing third-person narration."
+    },
+    {
+      "quote_id": "q00387",
+      "person_signal": "non_base",
+      "note": "Dialogue predominates; the brief third-person speech and action beat is not sufficient by itself."
+    },
+    {
+      "quote_id": "q00388",
+      "person_signal": "non_base",
+      "note": "Direct dialogue predominates, and the bare attribution to Michael is nondiagnostic."
+    },
+    {
+      "quote_id": "q00389",
+      "person_signal": "third",
+      "note": "External narration names Louise and Michael and frames Michael's first-person direct thought; the 'I' is the character's local thought, not the narrator."
+    },
+    {
+      "quote_id": "q00390",
+      "person_signal": "unmarked",
+      "note": "This clipped descriptive fragment lacks a character frame or narrator pronoun that identifies narrative person."
+    },
+    {
+      "quote_id": "q00391",
+      "person_signal": "unmarked",
+      "note": "A story-world generalization without a participating or externally positioned narrator."
+    },
+    {
+      "quote_id": "q00392",
+      "person_signal": "unmarked",
+      "note": "The generalized description of twentieth-century Americans does not independently identify narrative person."
+    },
+    {
+      "quote_id": "q00393",
+      "person_signal": "unmarked",
+      "note": "A bare 'he' character-state sentence is compatible with both first- and third-person framing."
+    },
+    {
+      "quote_id": "q00394",
+      "person_signal": "third",
+      "note": "The narrator externally identifies Michael and reports what he knew; the inclusive 'we' belongs to the represented reflection, not a participating narrator."
+    },
+    {
+      "quote_id": "q00395",
+      "person_signal": "unmarked",
+      "note": "The isolated 'he' sentence lacks enough context to establish the controlling narrator's position."
+    },
+    {
+      "quote_id": "q00396",
+      "person_signal": "unmarked",
+      "note": "A bare third-person character description alone does not distinguish first-person framing from third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9780226751290/Young-Lions-Shaw-Irwin-Salter-0226751295/plp",
+      "title": "The Young Lions \u2014 University of Chicago Press authorized excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained, permission-reprinted Chapter One excerpt narrates Margaret Freemantle externally as 'she' while entering her perceptions and thoughts, establishing third-person narration for the opening."
+    },
+    {
+      "url": "https://scholarworks.montana.edu/server/api/core/bitstreams/cece55a5-72e9-4f80-b151-cd227faf05ff/content",
+      "title": "Exploring Satire in the Early Postmodern American War Novel",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Kolby Elizabeth Brown's Montana State University MA thesis explicitly identifies The Young Lions as using an omniscient narrator and analyzes that narrator across interior passages."
+    },
+    {
+      "url": "https://books.google.com/books/about/The_Young_Lions.html?id=ogVlMyjWQXsC",
+      "title": "The Young Lions \u2014 Google Books / University of Chicago Press edition",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Publisher metadata describes Shaw as telling the story through the viewpoints of three named characters\u2014Christian, Michael, and Noah\u2014corroborating a multi-focal rather than participating narrator structure."
+    },
+    {
+      "url": "https://helenlowe.info/blog/2020/07/27/a-few-more-reflections-on-irwin-shaws-the-young-lions/",
+      "title": "A Few More Reflections on Irwin Shaw's The Young Lions",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Novelist Helen Lowe's structural discussion reports that Chapter One follows Margaret and the remainder is told through Christian, Noah, and Michael, with character thoughts presented from their respective viewpoints."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Young Lions\" \"Irwin Shaw\" \"third person\" and point-of-view/narrator variants; located an authorized opening and explicit structural discussions.",
+    "Searched \"The Young Lions\" Irwin Shaw excerpt, first chapter, and Google Books; opened the University of Chicago Press permission-reprinted Chapter One and publisher metadata.",
+    "Searched \"The Young Lions\" omniscient narrator and multiple points of view; opened a Montana State University thesis explicitly identifying an omniscient narrator.",
+    "Searched exact text from q00379, q00381, q00382, and q00380 to test whether first-person material represented base narration; quote aggregators reproduced the passages but generally omitted their surrounding attribution.",
+    "Checked a full-text discovery page and author-interview results; the former did not expose the relevant interior contexts through search, while the interview discussed Shaw's general preference for third person but was not needed as direct book evidence."
+  ],
+  "person_note": "The book uses third-person narration with shifting focalization among Margaret in the opening and principally Christian, Noah, and Michael thereafter. The authorized opening, a scholarly whole-book analysis explicitly naming an omniscient narrator, publisher structural metadata, and interior Goodreads passages such as q00389 and q00394 agree. First-person material in q00379 and q00381 is therefore local character discourse, while the 'I' in q00389 is explicitly Michael's direct thought; none establishes a sustained first-person section. The remaining uncertainty is only the missing immediate attribution around those two clipped monologues, not the book-level person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_007",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:35:09.684953+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "aca3a24f02f4f079b9afd24a1d10b9d4052e4ee2e52ef5d6a26184f7beb7a111"
+  }
+}

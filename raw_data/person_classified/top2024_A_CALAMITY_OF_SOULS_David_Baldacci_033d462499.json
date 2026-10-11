@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:A CALAMITY OF SOULS|David Baldacci",
+  "quotes": [
+    {
+      "quote_id": "q09151",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization about nations; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q09152",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to an audience; the rhetorical you is not base narration."
+    },
+    {
+      "quote_id": "q09153",
+      "person_signal": "non_base",
+      "note": "A general aphorism with no story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q09154",
+      "person_signal": "non_base",
+      "note": "The first-person forms belong to a character's public speech, not the base narrator."
+    },
+    {
+      "quote_id": "q09155",
+      "person_signal": "non_base",
+      "note": "General reflection illustrated by a hypothetical lawyer; narratorial person is not exposed."
+    },
+    {
+      "quote_id": "q09156",
+      "person_signal": "third",
+      "note": "Outside the quoted speech, sustained narration follows the speaker externally as he pauses, feels his heart race, and looks toward Sally."
+    },
+    {
+      "quote_id": "q09157",
+      "person_signal": "non_base",
+      "note": "A character's first-person report of advice from a woman, not participating base narration."
+    },
+    {
+      "quote_id": "q09158",
+      "person_signal": "unmarked",
+      "note": "Mostly dialogue; the brief she-added action beat is compatible with third-person narration but is too short to establish it independently."
+    },
+    {
+      "quote_id": "q09159",
+      "person_signal": "non_base",
+      "note": "Essayistic historical generalization rather than a narrated story event."
+    },
+    {
+      "quote_id": "q09160",
+      "person_signal": "non_base",
+      "note": "The first-person and we forms occur in character speech addressed to an interlocutor."
+    },
+    {
+      "quote_id": "q09161",
+      "person_signal": "non_base",
+      "note": "Conversational speech containing a quoted maxim and generic you, not base narration."
+    },
+    {
+      "quote_id": "q09162",
+      "person_signal": "unmarked",
+      "note": "The quotation contains character speech plus only the minimal tag she said, which is insufficient by itself to identify the base narrator."
+    },
+    {
+      "quote_id": "q09163",
+      "person_signal": "non_base",
+      "note": "Character explanation using an addressee-oriented You see; it is not second-person base narration."
+    },
+    {
+      "quote_id": "q09164",
+      "person_signal": "non_base",
+      "note": "A generic hypothetical analogy with no story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q09165",
+      "person_signal": "unmarked",
+      "note": "Mostly dialogue; the isolated external action He noted the scar is too brief to establish narratorial person alone."
+    },
+    {
+      "quote_id": "q09166",
+      "person_signal": "non_base",
+      "note": "Generic-you moral advice, not sustained narration of a story-specific you protagonist."
+    },
+    {
+      "quote_id": "q09167",
+      "person_signal": "unmarked",
+      "note": "Quoted remembered speech is framed only by a short third-person attribution, insufficient alone to diagnose the controlling narrator."
+    },
+    {
+      "quote_id": "q09168",
+      "person_signal": "unmarked",
+      "note": "Possible base summary narration, but the visible you belongs to a generic bootstrap message and the passage does not independently expose narrator participation."
+    },
+    {
+      "quote_id": "q09169",
+      "person_signal": "third",
+      "note": "Sustained external exposition narrates the parents as they across several sentences, with no participating narrator framing the passage."
+    },
+    {
+      "quote_id": "q09170",
+      "person_signal": "non_base",
+      "note": "A borrowed aphoristic comparison rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q09171",
+      "person_signal": "unclear",
+      "note": "The clipped opening and unresolved referent of he prevent separation of homiletic material from possible story narration."
+    },
+    {
+      "quote_id": "q09172",
+      "person_signal": "third",
+      "note": "Free-indirect narration reports a focal character externally as he and renders his belief without a participating narrator."
+    },
+    {
+      "quote_id": "q09173",
+      "person_signal": "unmarked",
+      "note": "Impersonal summary and fragmentary free-indirect phrasing contain no diagnostic narrator pronoun or sufficiently identified focal character."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.novelsuspects.com/excerpts/calamity-of-souls/",
+      "title": "Murder in Southern Virginia: Read the Excerpt of David Baldacci\u2019s A Calamity of Souls",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This Hachette-affiliated authorized excerpt sustains external third-person narration of Jack and Jerome, including access to Jack's thoughts, without a participating narrator."
+    },
+    {
+      "url": "https://www.supersummary.com/a-calamity-of-souls/important-quotes/",
+      "title": "A Calamity of Souls Important Quotes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Chapter-tagged passages sample the novel from Chapters 1 through 93. Narrative selections repeatedly treat Jack, DuBose, Frank, and others externally in third person, while the guide identifies visible first-person passages as character dialogue; it reveals no sustained alternate-person section."
+    }
+  ],
+  "search_log": [
+    "Searched \"A Calamity of Souls\" David Baldacci excerpt chapter, first chapter, and publisher/author-domain variants; opened the sustained Hachette-affiliated Novel Suspects excerpt.",
+    "Searched \"A Calamity of Souls\" with point of view, third person, third-person, narrator, and POV; results did not yield a credible explicit whole-book POV declaration.",
+    "Opened Google Books and its table-of-contents links; the accessible HTML confirmed the edition and extensive chapter structure but did not expose usable prose, so it was not counted as person evidence.",
+    "Opened SuperSummary's study guide and chapter-tagged important quotations, which provide corroborating passages from the opening through the final chapters.",
+    "Checked Hachette's audiobook listing; multiple performers describe the audio production and do not establish alternating grammatical person, so that listing was not used as POV evidence."
+  ],
+  "person_note": "The controlling narration is third person. Goodreads supplies diagnostic external narration and free-indirect access in q09156, q09169, and q09172; first-person forms elsewhere occur in speeches or other local material, and generic you passages are not second-person storytelling. The authorized interior excerpt independently sustains third-person narration, while chapter-tagged study-guide passages corroborate the same mode across the book through Chapter 93. No research uncovered a first-person frame or sustained alternate-person section. The main limitation is that no source explicitly names the whole-book POV, but the mutually consistent authorized prose, book-wide samples, and quote evidence make the classification high confidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.272533+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "803dd076e2be193efd9ee53514c09240e774cd85aa65b7b110fcf837896c9615"
+  }
+}

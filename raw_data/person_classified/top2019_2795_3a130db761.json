@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:2795",
+  "quotes": [
+    {
+      "quote_id": "q04130",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs within character speech and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q04131",
+      "person_signal": "non_base",
+      "note": "Gnomic universal 'you' is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04132",
+      "person_signal": "first",
+      "note": "The event-narrating 'I marveled' directly exposes a participating first-person narrator."
+    },
+    {
+      "quote_id": "q04133",
+      "person_signal": "non_base",
+      "note": "The first-person-free speech and brief attribution do not identify the base narrator's person."
+    },
+    {
+      "quote_id": "q04134",
+      "person_signal": "non_base",
+      "note": "This general aphorism contains no diagnostic base-narration person."
+    },
+    {
+      "quote_id": "q04135",
+      "person_signal": "non_base",
+      "note": "The first-person vow and plural pronouns belong to an extended speech."
+    },
+    {
+      "quote_id": "q04136",
+      "person_signal": "non_base",
+      "note": "The imperative and direct address belong to character speech."
+    },
+    {
+      "quote_id": "q04137",
+      "person_signal": "non_base",
+      "note": "This is a multi-speaker exchange, including an embedded quotation."
+    },
+    {
+      "quote_id": "q04138",
+      "person_signal": "non_base",
+      "note": "The universal second-person fragment is gnomic rather than story-specific narration."
+    },
+    {
+      "quote_id": "q04139",
+      "person_signal": "non_base",
+      "note": "The vocative, question, and first-person declaration are character speech."
+    },
+    {
+      "quote_id": "q04140",
+      "person_signal": "non_base",
+      "note": "This dialogue exchange does not expose the narrator's grammatical person."
+    },
+    {
+      "quote_id": "q04141",
+      "person_signal": "non_base",
+      "note": "The passage is dialogue with third-person speech beats, which remain compatible with first-person narration."
+    },
+    {
+      "quote_id": "q04142",
+      "person_signal": "non_base",
+      "note": "This authorial historical afterword addresses readers outside the novel's base narrative."
+    },
+    {
+      "quote_id": "q04143",
+      "person_signal": "non_base",
+      "note": "This aphorism has no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q04144",
+      "person_signal": "unclear",
+      "note": "Without context, the sentence could be narration, thought, or speech, so its local status is unresolved."
+    },
+    {
+      "quote_id": "q04145",
+      "person_signal": "unclear",
+      "note": "The isolated question could be dialogue or free thought and does not establish base person."
+    },
+    {
+      "quote_id": "q04146",
+      "person_signal": "non_base",
+      "note": "The first-person introduction and quoted material belong to a character's speech."
+    },
+    {
+      "quote_id": "q04147",
+      "person_signal": "unmarked",
+      "note": "This may be base exposition, but the deictic 'Home' and copular description do not directly mark narrator person."
+    },
+    {
+      "quote_id": "q04148",
+      "person_signal": "unmarked",
+      "note": "The event description and evaluative exclamation contain no narrator pronoun and remain compatible with first-person narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.co.nz/books/lost-roses-9781760892616/extracts/2053-lost-roses",
+      "title": "Extract | Lost Roses by Martha Hall Kelly - Penguin Books New Zealand",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher's sustained extract presents the prologue under Luba's name and Chapter 1 under Eliza's name; both narrate their scenes extensively as participating 'I' narrators."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-lost-roses/styles.html",
+      "title": "Martha Hall Kelly Writing Styles in Lost Roses",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The structural point-of-view analysis explicitly identifies four first-person narratives: Sofya, Eliza, Varinka, and Luba, with Luba narrating the prologue and epilogue."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2019/6/16/lost-roses-review/",
+      "title": "'Lost Roses' Brings to Life the Russian Revolution",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review says Eliza, Sofya, and Varinka each narrate her own story and illustrates that narration with an interior first-person passage."
+    },
+    {
+      "url": "https://austenprose.com/2019/05/09/lost-roses-a-novel-by-martha-hall-kelly-a-review/",
+      "title": "Lost Roses: A Novel, by Martha Hall Kelly - A Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The reviewer explicitly describes a first-person, multiple-point-of-view structure in which Eliza, Sofya, and Varinka take turns narrating by chapter."
+    }
+  ],
+  "search_log": [
+    "Searched \"Lost Roses\" \"Martha Hall Kelly\" excerpt and opened sustained excerpts from Penguin Books New Zealand and ReadingGroupGuides; both expose first-person narration, with the Penguin extract covering Luba's prologue and Eliza's Chapter 1.",
+    "Searched \"Lost Roses\" \"first person\" narrators and opened BookRags' point-of-view analysis, which explicitly identifies four first-person narrators and their structural roles.",
+    "Searched \"Lost Roses\" alternating point of view Eliza Sofya Varinka and opened the author's ReadingGroupGuides interview; it confirms the shared points of view but does not independently specify grammatical person.",
+    "Searched Martha Hall Kelly Lost Roses multiple first person narrators review and opened the Harvard Crimson and Austenprose reviews, which corroborate the character-narrated structure; Austenprose explicitly calls it first person.",
+    "Opened Kirkus' audiobook review; it confirms four character narrators and separate performers but was not used as direct grammatical-person evidence.",
+    "Publisher/catalog descriptions and Publishers Weekly plot-summary grammar were treated as discovery or nondiagnostic rather than person evidence."
+  ],
+  "person_note": "The only diagnostic Goodreads event quote uses a participating narratorial 'I'; the other event excerpts are unmarked, while speech, aphorisms, and the historical afterword are non-base material. A sustained publisher extract independently shows Luba and Eliza narrating as 'I', and whole-book structural sources establish that Sofya, Eliza, Varinka, and Luba all supply first-person sections. Because every controlling narrator uses the same grammatical person, the changing narrators and chapter perspectives yield FIRST rather than ALTERNATING. No credible evidence of sustained second- or third-person base narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_066",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T04:47:55.941574+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9153cb4ee93e3135013c5f0558602d2c15e9841cb3b15cd1b4da4e401ba134a7"
+  }
+}

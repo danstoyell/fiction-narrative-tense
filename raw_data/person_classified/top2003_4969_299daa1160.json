@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:4969",
+  "quotes": [
+    {
+      "quote_id": "q01064",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first-person plural pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01065",
+      "person_signal": "non_base",
+      "note": "Extended direct address within character speech; repeated \u201cyou\u201d is not second-person narration."
+    },
+    {
+      "quote_id": "q01066",
+      "person_signal": "first",
+      "note": "The narratorial reflection uses \u201cI\u2019ve\u201d and includes the narrator in \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q01067",
+      "person_signal": "first",
+      "note": "The participating narrator recalls her parents monitoring where \u201cI\u201d went."
+    },
+    {
+      "quote_id": "q01068",
+      "person_signal": "first",
+      "note": "The participating narrator recounts her own movement and perception as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01069",
+      "person_signal": "first",
+      "note": "The narrator contrasts other people\u2019s reactions with what the phone triggered \u201cfor me.\u201d"
+    },
+    {
+      "quote_id": "q01070",
+      "person_signal": "non_base",
+      "note": "Character speech about Miranda; its pronouns do not expose the narrating position."
+    },
+    {
+      "quote_id": "q01071",
+      "person_signal": "unmarked",
+      "note": "A bare statement about \u201cshe\u201d does not distinguish first-person narration about another character from third-person narration."
+    },
+    {
+      "quote_id": "q01072",
+      "person_signal": "non_base",
+      "note": "Direct character speech and address, not base narration."
+    },
+    {
+      "quote_id": "q01073",
+      "person_signal": "first",
+      "note": "The participating narrator reflects on what \u201cI\u2019d\u201d assumed and on \u201cmy\u201d obligations."
+    },
+    {
+      "quote_id": "q01074",
+      "person_signal": "unmarked",
+      "note": "Generalized narration using impersonal \u201cone\u201d identifies no participating or external narrator."
+    },
+    {
+      "quote_id": "q01075",
+      "person_signal": "non_base",
+      "note": "Quoted conversational advice; its second-person imperatives are local speech."
+    },
+    {
+      "quote_id": "q01076",
+      "person_signal": "first",
+      "note": "The narrator recounts \u201cI lied\u201d and what \u201cI\u2019d read,\u201d clearly participating in the scene."
+    },
+    {
+      "quote_id": "q01077",
+      "person_signal": "first",
+      "note": "Despite clipped boundaries, \u201cEmily had told me\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q01078",
+      "person_signal": "first",
+      "note": "Sustained narration of the speaker\u2019s habitual actions uses \u201cI,\u201d \u201cmy,\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q01079",
+      "person_signal": "first",
+      "note": "The narrator describes \u201cmy entire body,\u201d establishing participation."
+    },
+    {
+      "quote_id": "q01080",
+      "person_signal": "first",
+      "note": "The narrator recounts handling the waffle as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01081",
+      "person_signal": "first",
+      "note": "The narrator describes what \u201cI had to contend with.\u201d"
+    },
+    {
+      "quote_id": "q01082",
+      "person_signal": "first",
+      "note": "The narrator reports her own perception through \u201cmy eyes.\u201d"
+    },
+    {
+      "quote_id": "q01083",
+      "person_signal": "first",
+      "note": "The narrator marks a personal preference with \u201cmy favorite.\u201d"
+    },
+    {
+      "quote_id": "q01084",
+      "person_signal": "first",
+      "note": "The narrator\u2019s hypothetical comparison uses \u201cI\u2019d just announced.\u201d"
+    },
+    {
+      "quote_id": "q01085",
+      "person_signal": "first",
+      "note": "The participating narrator describes how \u201cI said this.\u201d"
+    },
+    {
+      "quote_id": "q01086",
+      "person_signal": "first",
+      "note": "Sustained reflection uses \u201cI thought\u201d and \u201cI soon came to realize.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.laurenweisberger.com/books/the-devil-wears-prada/1st-chapter/",
+      "title": "1st Chapter | Lauren Weisberger",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author\u2019s authorized first-chapter excerpt sustains Andrea\u2019s participating narration through repeated \u201cI,\u201d \u201cmy,\u201d and \u201cme.\u201d"
+    },
+    {
+      "url": "https://ueaeprints.uea.ac.uk/64175/1/2016BrossMPhD.pdf",
+      "title": "The Chick Lit Film: The Adaptation of Postfeminist Women\u2019s Fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This university-hosted scholarly analysis identifies Andrea Sachs as the first-person narrator and explicitly states that the first-person narration remains throughout the novel."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-devil-wears-prada/style.html",
+      "title": "Lauren Weisberger Writing Styles in The Devil Wears Prada",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly describes the novel as written in first person from main character Andrea Sachs\u2019s point of view."
+    },
+    {
+      "url": "https://www.supersummary.com/the-devil-wears-prada/summary/",
+      "title": "The Devil Wears Prada Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The overview states that Andrea Sachs narrates the story from the first-person perspective across the novel\u2019s eleven-month span."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Devil Wears Prada Lauren Weisberger official excerpt first chapter narrator\u201d and opened the author\u2019s first-chapter excerpt.",
+    "Searched \u201cThe Devil Wears Prada Lauren Weisberger point of view first person narrator\u201d and opened explicit whole-book descriptions from BookRags and SuperSummary.",
+    "Searched \u201csite:penguinrandomhouse.com The Devil Wears Prada excerpt Lauren Weisberger\u201d; the publisher page verified the work and publication but supplied no sustained excerpt or explicit POV description.",
+    "Searched \u201cThe Devil Wears Prada novel narrated first person Andrea Sachs\u201d and found scholarly and study-guide corroboration.",
+    "Searched \u201cThe Devil Wears Prada first-person narration remains throughout\u201d and opened a university-hosted scholarly analysis describing the novel\u2019s narration across the whole book.",
+    "Searched \u201cThe Devil Wears Prada alternating narration point of view\u201d; no credible evidence of sustained narration in another grammatical person was found.",
+    "Searched the exact phrase \u201cI've always expressed my thoughts in color but we remain blind\u201d; the result confirmed its Goodreads attribution but added no independent structural evidence."
+  ],
+  "person_note": "Numerous event passages independently expose Andrea as a participating \u201cI\u201d narrator, while dialogue containing \u201cyou,\u201d \u201cwe,\u201d or \u201cI\u201d was treated as local speech and two pronoun-light passages were left unmarked. The authorized opening independently sustains first-person narration, and scholarly whole-book analysis states that Andrea\u2019s first-person narration continues throughout; two additional explicit sources agree. No evidence of a third-person frame, alternating sections, or another controlling person was found. The authorized prose source covers only the opening, but the interior quote evidence and whole-book structural sources remove the principal scope uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_038",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:33:33.842039+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "19db6867e26769389aa4829bd62a82a2918dd575086dbdf5b69cbd39d6d0ee33"
+  }
+}

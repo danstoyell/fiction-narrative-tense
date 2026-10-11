@@ -1,0 +1,414 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:TOM LAKE|Ann Patchett",
+  "quotes": [
+    {
+      "quote_id": "q07880",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection uses generalized second person, not sustained protagonist-as-you narration."
+    },
+    {
+      "quote_id": "q07881",
+      "person_signal": "non_base",
+      "note": "Gnomic collective statement does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q07882",
+      "person_signal": "non_base",
+      "note": "Aphoristic collective statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q07883",
+      "person_signal": "non_base",
+      "note": "General maxim about stories does not expose narrative person."
+    },
+    {
+      "quote_id": "q07884",
+      "person_signal": "first",
+      "note": "Story-specific reflection explicitly presents the participating narrator as I."
+    },
+    {
+      "quote_id": "q07885",
+      "person_signal": "non_base",
+      "note": "General maxim is nondiagnostic."
+    },
+    {
+      "quote_id": "q07886",
+      "person_signal": "non_base",
+      "note": "Gnomic we refers generally to people, not specifically to the narrator."
+    },
+    {
+      "quote_id": "q07887",
+      "person_signal": "first",
+      "note": "The participating narrator recalls her own relationship using me."
+    },
+    {
+      "quote_id": "q07888",
+      "person_signal": "first",
+      "note": "The narrator describes her daughters and intentions through repeated I."
+    },
+    {
+      "quote_id": "q07889",
+      "person_signal": "non_base",
+      "note": "Aphoristic observation is nondiagnostic."
+    },
+    {
+      "quote_id": "q07890",
+      "person_signal": "first",
+      "note": "Although dialogue predominates, the narratorial attribution she asks me identifies a participating narrator."
+    },
+    {
+      "quote_id": "q07891",
+      "person_signal": "first",
+      "note": "The dialogue frame explicitly says I tell my daughter, exposing first-person narration."
+    },
+    {
+      "quote_id": "q07892",
+      "person_signal": "first",
+      "note": "Despite clipping, me and myself clearly refer to the narrator's own experience."
+    },
+    {
+      "quote_id": "q07893",
+      "person_signal": "first",
+      "note": "The narrator's private intention is expressed as I."
+    },
+    {
+      "quote_id": "q07894",
+      "person_signal": "non_base",
+      "note": "General maxim about secrets is nondiagnostic."
+    },
+    {
+      "quote_id": "q07895",
+      "person_signal": "first",
+      "note": "The narrator retrospectively evaluates what I had failed to grasp."
+    },
+    {
+      "quote_id": "q07896",
+      "person_signal": "first",
+      "note": "The narrator reports her own memory using I and my."
+    },
+    {
+      "quote_id": "q07897",
+      "person_signal": "first",
+      "note": "The narrator explicitly locates herself at two ages through I am."
+    },
+    {
+      "quote_id": "q07898",
+      "person_signal": "unmarked",
+      "note": "The narrator refers to her younger self as that girl; this local third-person phrasing does not establish third-person narration."
+    },
+    {
+      "quote_id": "q07899",
+      "person_signal": "unclear",
+      "note": "The clipped imperative could be speech or a maxim and contains no reliable narrative-person marker."
+    },
+    {
+      "quote_id": "q07900",
+      "person_signal": "first",
+      "note": "The narrator describes her own action and perception using I."
+    },
+    {
+      "quote_id": "q07901",
+      "person_signal": "first",
+      "note": "The narrator's perception is marked by overwhelms me."
+    },
+    {
+      "quote_id": "q07902",
+      "person_signal": "first",
+      "note": "The narrator's personal counterfactual uses I and her."
+    },
+    {
+      "quote_id": "q07903",
+      "person_signal": "first",
+      "note": "After brief embedded speech, sustained I/we narration describes the narrator's response and family state."
+    },
+    {
+      "quote_id": "q07904",
+      "person_signal": "first",
+      "note": "The narrator recalls her own maternal concern using I."
+    },
+    {
+      "quote_id": "q07905",
+      "person_signal": "non_base",
+      "note": "Gnomic we generalizes about available stories and is nondiagnostic."
+    },
+    {
+      "quote_id": "q07906",
+      "person_signal": "unmarked",
+      "note": "A bare description of she does not establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q07907",
+      "person_signal": "first",
+      "note": "Present family-scene narration repeatedly includes the participating narrator in we and Joe and I."
+    },
+    {
+      "quote_id": "q07908",
+      "person_signal": "first",
+      "note": "Though largely addressed speech, the narratorial sentence I then explained identifies the participating narrator."
+    },
+    {
+      "quote_id": "q07909",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q07910",
+      "person_signal": "first",
+      "note": "The narrator participates in the present scene through we and I stay."
+    },
+    {
+      "quote_id": "q07911",
+      "person_signal": "first",
+      "note": "The narrator follows the dog and reflects using I, my, and us."
+    },
+    {
+      "quote_id": "q07912",
+      "person_signal": "unmarked",
+      "note": "Story-specific you appears in reported advice, not sustained second-person base narration, and no narrator marker is present."
+    },
+    {
+      "quote_id": "q07913",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q07914",
+      "person_signal": "non_base",
+      "note": "Generalization about generations is nondiagnostic."
+    },
+    {
+      "quote_id": "q07915",
+      "person_signal": "first",
+      "note": "The narrator explicitly frames her past and present through I and my."
+    },
+    {
+      "quote_id": "q07916",
+      "person_signal": "non_base",
+      "note": "Generalized second person describes orchard life rather than a protagonist narrated as you."
+    },
+    {
+      "quote_id": "q07917",
+      "person_signal": "unmarked",
+      "note": "Description of Nell alone does not establish the narrator's participation."
+    },
+    {
+      "quote_id": "q07918",
+      "person_signal": "first",
+      "note": "Story-specific recollection includes the narrator among we, contrasted with they."
+    },
+    {
+      "quote_id": "q07919",
+      "person_signal": "non_base",
+      "note": "Direct speech by a male character predominates; its first person belongs to the speaker, not the base narrator."
+    },
+    {
+      "quote_id": "q07920",
+      "person_signal": "first",
+      "note": "The narrator reports her own thought using my."
+    },
+    {
+      "quote_id": "q07921",
+      "person_signal": "first",
+      "note": "Extended retrospective narration repeatedly uses I and we for the narrator's actions and withheld experience."
+    },
+    {
+      "quote_id": "q07922",
+      "person_signal": "first",
+      "note": "Address to a daughter is embedded in the narrator's participating we/I account and does not make the base narration second person."
+    },
+    {
+      "quote_id": "q07923",
+      "person_signal": "non_base",
+      "note": "Generalization about parents is nondiagnostic."
+    },
+    {
+      "quote_id": "q07924",
+      "person_signal": "unmarked",
+      "note": "Third-person character backstory lacks enough context to identify the controlling narrator's person."
+    },
+    {
+      "quote_id": "q07925",
+      "person_signal": "first",
+      "note": "The narrator describes her own marriage through repeated I."
+    },
+    {
+      "quote_id": "q07926",
+      "person_signal": "first",
+      "note": "Outside brief speech, the narrator uses I and my to describe the present family scene."
+    },
+    {
+      "quote_id": "q07927",
+      "person_signal": "non_base",
+      "note": "A male character's extended first-person speech is local dialogue; the short attribution does not independently identify base person."
+    },
+    {
+      "quote_id": "q07928",
+      "person_signal": "first",
+      "note": "The present-frame narrator identifies herself as the daughters' mother and narrates with I."
+    },
+    {
+      "quote_id": "q07929",
+      "person_signal": "first",
+      "note": "The extended recollection consistently narrates the speaker's actions, perceptions, and history through I and we."
+    },
+    {
+      "quote_id": "q07930",
+      "person_signal": "first",
+      "note": "Although clipped at the start, the passage clearly contains the narrator's first-person self-assessment."
+    },
+    {
+      "quote_id": "q07931",
+      "person_signal": "first",
+      "note": "The narrator describes her history with Emily using I."
+    },
+    {
+      "quote_id": "q07932",
+      "person_signal": "first",
+      "note": "The narrator directly characterizes her past self using I."
+    },
+    {
+      "quote_id": "q07933",
+      "person_signal": "non_base",
+      "note": "Direct dialogue predominates, and the third-person action beat alone does not identify narrative person."
+    },
+    {
+      "quote_id": "q07934",
+      "person_signal": "first",
+      "note": "The narrator recounts her own theatrical situation using I."
+    },
+    {
+      "quote_id": "q07935",
+      "person_signal": "first",
+      "note": "The narrator reports what I had been told."
+    },
+    {
+      "quote_id": "q07936",
+      "person_signal": "first",
+      "note": "The narrator identifies a man from her own past through I had known and my mind."
+    },
+    {
+      "quote_id": "q07937",
+      "person_signal": "first",
+      "note": "The narrator recounts her own emotional action through repeated I."
+    },
+    {
+      "quote_id": "q07938",
+      "person_signal": "non_base",
+      "note": "Universal second-person statement about youth is gnomic, not base second-person narration."
+    },
+    {
+      "quote_id": "q07939",
+      "person_signal": "first",
+      "note": "The narrator recalls her own money, preferences, and mobility through I and my."
+    },
+    {
+      "quote_id": "q07940",
+      "person_signal": "first",
+      "note": "The story-specific first sentence identifies the narrator through I; the following maxim does not negate it."
+    },
+    {
+      "quote_id": "q07941",
+      "person_signal": "first",
+      "note": "The narrator performs and internally voices a present action through I and my."
+    },
+    {
+      "quote_id": "q07942",
+      "person_signal": "first",
+      "note": "The narrator includes herself in their father and I and our own lives."
+    },
+    {
+      "quote_id": "q07943",
+      "person_signal": "first",
+      "note": "Clipped but diagnostic recollection places the narrator in the car through me and we."
+    },
+    {
+      "quote_id": "q07944",
+      "person_signal": "first",
+      "note": "The narrator evaluates her own inability using my."
+    },
+    {
+      "quote_id": "q07945",
+      "person_signal": "unmarked",
+      "note": "Present scene narration describes they without independently revealing whether the narrator participates."
+    },
+    {
+      "quote_id": "q07946",
+      "person_signal": "first",
+      "note": "The narrator states her own limits and shared family condition through I and we."
+    },
+    {
+      "quote_id": "q07947",
+      "person_signal": "first",
+      "note": "The narrator recounts asking a question using I."
+    },
+    {
+      "quote_id": "q07948",
+      "person_signal": "first",
+      "note": "The narrator participates physically in the scene through my waist and we."
+    },
+    {
+      "quote_id": "q07949",
+      "person_signal": "first",
+      "note": "Story-specific we includes the participating narrator in past family actions."
+    },
+    {
+      "quote_id": "q07950",
+      "person_signal": "unmarked",
+      "note": "Seasonal orchard description contains no diagnostic narrator-person marker."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/with-a-little-help-from-her-friends/",
+      "title": "With a Little Help From Her Friends",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In an author interview, Patchett says she chose Lara's point of view and explicitly explains that she did not want another male first-person narrator after The Dutch House; the discussion treats Lara as narrator throughout the novel."
+    },
+    {
+      "url": "https://compulsivereader.com/2024/03/12/a-review-of-tom-lake-by-ann-patchett/",
+      "title": "A review of Tom Lake by Ann Patchett",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly identifies Lara as the first-person narrator and explains that readers receive both her thoughts and the story she tells her daughters."
+    },
+    {
+      "url": "https://www.tamaraaghajaffar.com/book-reviews/2023/11/7/tom-lake",
+      "title": "Tom Lake \u2014 Tamara Agha-Jaffar",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review describes two interlocking past and present threads and states that both are carried by Lara's first-person narrative voice, ruling out a change of person between timelines."
+    },
+    {
+      "url": "https://www.irishtimes.com/culture/books/review/2023/08/02/tom-lane-by-ann-patchett-an-engrossing-utterly-convincing-meditation-on-life/",
+      "title": "Tom Lake by Ann Patchett: An engrossing, utterly convincing meditation on life",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review identifies Lara as the novel's narrator and describes her interior monologues and private disclosures beyond what she tells her daughters, corroborated by first-person passages."
+    }
+  ],
+  "search_log": [
+    "Searched `site:harpercollins.com Tom Lake Ann Patchett excerpt`, `Tom Lake Ann Patchett excerpt first chapter narrator first person`, `Tom Lake Ann Patchett point of view first person narrator review`, and `Tom Lake Ann Patchett alternating narration structure`.",
+    "Searched `Ann Patchett Tom Lake read excerpt publisher Bloomsbury`, `Tom Lake excerpt Ann Patchett HarperCollins chapter one`, `Tom Lake Ann Patchett Google Books excerpt Lara first person`, and `site:annpatchett.com Tom Lake excerpt`.",
+    "Opened the Kirkus author interview, Compulsive Reader review, Tamara Agha-Jaffar review, Irish Times review, Bloomsbury publisher page, and Google Books record. The Bloomsbury and Google Books pages verified the work and its dual-time premise but did not expose a sustained diagnostic excerpt in accessible page text.",
+    "Targeted structural checking found two interlocking timelines but the same narrator and person in both; no credible evidence of sustained third- or second-person sections was found."
+  ],
+  "person_note": "The Goodreads passages repeatedly expose Lara as a participating I/we narrator in both the 2020 orchard frame and her retrospective account of acting and Tom Lake. Story-specific addresses to her daughters and generalized uses of you are local address or aphorism, not second-person base narration; third-person references to Lara's younger self and other characters likewise do not create a separate narrating strand. Patchett's interview and multiple explicit whole-book reviews corroborate Lara's first-person narration across the interwoven timelines. Confidence is medium because no accessible sustained authorized excerpt or scholarly whole-book analysis was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_084",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T02:57:03.132243+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "832ea54efdf320e1269cd6e6e02004773109e2a65862662efd22db3608018f60"
+  }
+}

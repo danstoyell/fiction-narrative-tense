@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:3263",
+  "quotes": [
+    {
+      "quote_id": "q01076",
+      "person_signal": "unmarked",
+      "note": "Generic second-person soldiering maxim; it is not sustained story-specific second-person narration and may be clipped speech."
+    },
+    {
+      "quote_id": "q01077",
+      "person_signal": "unmarked",
+      "note": "Two sentences name Rogers and describe his action and sensation, but this short local reference does not by itself exclude a participating narrator elsewhere."
+    },
+    {
+      "quote_id": "q01078",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to direct address to Puller, not base narration."
+    },
+    {
+      "quote_id": "q01079",
+      "person_signal": "non_base",
+      "note": "Clipped conversational speech marked by \u201cas you know\u201d; its pronouns do not expose the narrator."
+    },
+    {
+      "quote_id": "q01080",
+      "person_signal": "third",
+      "note": "Despite clipping, the sustained scene externally narrates Rogers, the guards, and the prisoners in third person."
+    },
+    {
+      "quote_id": "q01081",
+      "person_signal": "unmarked",
+      "note": "The short funeral description names Jackie Puller and a priest but does not independently expose whether the controlling narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q01082",
+      "person_signal": "non_base",
+      "note": "The brief action beat is followed by character dialogue; first-person plural occurs only in speech."
+    },
+    {
+      "quote_id": "q01083",
+      "person_signal": "third",
+      "note": "Extended narration externally follows Puller and his deductions; \u201cmy mother\u201d is Puller\u2019s local free-direct thought, not a first-person narrator."
+    },
+    {
+      "quote_id": "q01084",
+      "person_signal": "non_base",
+      "note": "Conversational first-person plural occurs in dialogue rather than controlling narration."
+    },
+    {
+      "quote_id": "q01085",
+      "person_signal": "unmarked",
+      "note": "The passage describes an unanchored 'him' and broad story-world conditions, but does not independently identify the controlling narrator's participation status."
+    },
+    {
+      "quote_id": "q01086",
+      "person_signal": "non_base",
+      "note": "Acknowledgments address audiobook performers and are paratext, not story narration."
+    },
+    {
+      "quote_id": "q01087",
+      "person_signal": "non_base",
+      "note": "The quotation is predominantly dialogue; the third-person speech beats are too brief to establish person independently."
+    },
+    {
+      "quote_id": "q01088",
+      "person_signal": "non_base",
+      "note": "Puller\u2019s spoken clarification is dialogue; the attribution does not make its first-person wording narratorial."
+    },
+    {
+      "quote_id": "q01089",
+      "person_signal": "non_base",
+      "note": "Character speech dominates, while the short third-person action beat is locally nondiagnostic."
+    },
+    {
+      "quote_id": "q01090",
+      "person_signal": "unmarked",
+      "note": "Two short external actions name O\u2019Neil, Puller, and Knox, but bare named-character action is insufficient on its own to diagnose narrator person."
+    },
+    {
+      "quote_id": "q01091",
+      "person_signal": "unmarked",
+      "note": "The sequence uses only an unanchored 'he'; several third-person actions alone do not exclude narration by a participating observer."
+    },
+    {
+      "quote_id": "q01092",
+      "person_signal": "unmarked",
+      "note": "Two brief sentences name Rogers and recount his movements, which is compatible with third person but not independently diagnostic."
+    },
+    {
+      "quote_id": "q01093",
+      "person_signal": "third",
+      "note": "Base narration externally reports Puller\u2019s reaction; the fragmentary thoughts about his mother are his local mental content."
+    },
+    {
+      "quote_id": "q01094",
+      "person_signal": "non_base",
+      "note": "Vocative and imperative language identify speech addressed to a soldier, not second-person base narration."
+    },
+    {
+      "quote_id": "q01095",
+      "person_signal": "non_base",
+      "note": "The vocative \u201cAgent Puller\u201d and first-person plural identify direct speech, not the narrator."
+    },
+    {
+      "quote_id": "q01096",
+      "person_signal": "unclear",
+      "note": "Both ends are clipped, leaving too little local structure to establish the base narrating position."
+    },
+    {
+      "quote_id": "q01097",
+      "person_signal": "unclear",
+      "note": "The sentence is truncated before completion; the character references alone are insufficient to diagnose person."
+    },
+    {
+      "quote_id": "q01098",
+      "person_signal": "non_base",
+      "note": "The passage is dominated by the woman\u2019s direct plea; surrounding third-person beats are incomplete and local."
+    },
+    {
+      "quote_id": "q01099",
+      "person_signal": "non_base",
+      "note": "The guard\u2019s first-person account is quoted speech, preceded only by a short attribution beat."
+    },
+    {
+      "quote_id": "q01100",
+      "person_signal": "unmarked",
+      "note": "An unanchored 'he' and prison-mechanism exposition do not independently reveal whether the controlling narrator participates."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://bingebooks.com/book/no-mans-land",
+      "title": "No Man's Land by David Baldacci",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "BingeBooks' sustained sample presents Chapters 1\u20133 in third-person narration, first following Paul Rogers and then John Puller. BingeBooks identifies publisher feeds and Big Five partnerships, and its terms attribute hosted literary content to authors, publishers, or licensors, supporting treatment as an authorized sample."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/no-mans-land/9781455586493/",
+      "title": "No Man\u2019s Land by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher page verifies the 2016 Grand Central edition and its parallel Puller and Rogers plotlines, but its synopsis grammar does not independently establish narrative person."
+    },
+    {
+      "url": "https://books.google.com/books/about/No_Man_s_Land.html?id=z7MsDAAAQBAJ",
+      "title": "No Man's Land - David Baldacci - Google Books",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "Google Books verifies the Grand Central ebook, ISBN, length, and preview availability, but the opened metadata page does not expose enough continuous prose to serve as independent person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cNo Man's Land David Baldacci excerpt chapter 1 publisher,\u201d \u201cpoint of view third person narrator,\u201d the author site, and Google Books.",
+    "Opened the Hachette publisher page, Pan Macmillan page, Publishers Weekly review, Google Books record, and BingeBooks excerpt; only the sustained BingeBooks preview was directly diagnostic.",
+    "Searched exact title/ISBN and exact passage text, locating a continuous preview covering Chapters 1\u20133 and confirming that the supplied Goodreads passages match the same work.",
+    "Searched title combinations with \u201cthird person,\u201d \u201cthird-person,\u201d \u201cpoint of view,\u201d and \u201cmultiple points of view\u201d; results were dominated by unrelated works and yielded no credible explicit whole-book POV analysis.",
+    "Searched OverDrive and library catalogs for an authorized sample; a Reading District Libraries/OverDrive record offered \u201cRead a sample,\u201d but opening it returned HTTP 403, so it was not used as person evidence.",
+    "Targeted searches found no credible indication of epistolary form, a first-person frame, sustained second-person narration, or alternation between grammatical persons.",
+    "Independent audit checked BingeBooks' About, FAQ, and terms pages: the service states that it carries publisher-fed catalogs, including Hachette, and attributes its literary content to authors, publishers, or licensors, so the sustained sample remains Tier A despite the nonpublisher host."
+  ],
+  "person_note": "The controlling narration is THIRD. The strongest interior excerpts sustain external narration around John Puller and Paul Rogers, while the licensed BingeBooks sample independently shows Chapters 1\u20133 using the same third-person method across both focal characters. In q01083, the isolated 'my mother' is locally attributable free-direct thought after the narration explicitly names Puller and introduces his questions; it is not evidence of a first-person narrator. Several weaker passages were reduced to unmarked because bare names or third-person subjects alone are not diagnostic. Confidence is medium because the only useful web prose covers the opening and the remaining web sources are metadata or synopsis. Independent audit: verified BingeBooks' publisher-feed/licensor basis, retained its Tier A status, corrected weak quote signals, and calibrated confidence consistently with other opening-only Baldacci cases.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_057",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:00:30.733298+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7bf31bd3c1e74910ed5e52e0828be5dc9233603b2463723b1ea1dc2c7647cc27"
+  }
+}

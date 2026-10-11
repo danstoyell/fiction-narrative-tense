@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:THE HEAVEN & EARTH GROCERY STORE|James McBride",
+  "quotes": [
+    {
+      "quote_id": "q07859",
+      "person_signal": "non_base",
+      "note": "General cultural aphorism; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q07860",
+      "person_signal": "non_base",
+      "note": "Character speech; the second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07861",
+      "person_signal": "non_base",
+      "note": "General historical reflection classified as gnomic, without a participating narrator."
+    },
+    {
+      "quote_id": "q07862",
+      "person_signal": "third",
+      "note": "Sustained omniscient narration follows several named characters and projects their collective future from outside the story."
+    },
+    {
+      "quote_id": "q07863",
+      "person_signal": "third",
+      "note": "Third-person narration describes Chona externally while entering her habitual perception and values."
+    },
+    {
+      "quote_id": "q07864",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic fragment with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q07865",
+      "person_signal": "non_base",
+      "note": "Universal gnomic 'you,' not sustained second-person narration of a protagonist."
+    },
+    {
+      "quote_id": "q07866",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition contains no participating narrator, but this short passage alone does not establish person."
+    },
+    {
+      "quote_id": "q07867",
+      "person_signal": "non_base",
+      "note": "Direct character address in dialect; 'you' is not the narrated protagonist."
+    },
+    {
+      "quote_id": "q07868",
+      "person_signal": "non_base",
+      "note": "A character's first-person monologue, not base narration."
+    },
+    {
+      "quote_id": "q07869",
+      "person_signal": "non_base",
+      "note": "Dialect and inclusive 'us' mark character speech rather than the controlling narrator."
+    },
+    {
+      "quote_id": "q07870",
+      "person_signal": "third",
+      "note": "Extended third-person rendering of a woman's perceptions, regrets, and consciousness identifies locally focalized third-person narration."
+    },
+    {
+      "quote_id": "q07871",
+      "person_signal": "third",
+      "note": "An external omniscient narrator projects the consequences of a character's beliefs far into the future."
+    },
+    {
+      "quote_id": "q07872",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection ending in a universal claim; no narrator participation is exposed."
+    },
+    {
+      "quote_id": "q07873",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly an exchange between police and Malachi; first- and second-person forms belong to speech."
+    },
+    {
+      "quote_id": "q07874",
+      "person_signal": "unmarked",
+      "note": "A single free-indirect rhetorical question reflects a character's thought but is too brief to establish the base person independently."
+    },
+    {
+      "quote_id": "q07875",
+      "person_signal": "third",
+      "note": "Sustained third-person exposition presents the character's life, world, wants, and needs from an external narrating position."
+    },
+    {
+      "quote_id": "q07876",
+      "person_signal": "third",
+      "note": "Sustained historical and social exposition narrates groups externally without a participating narrator."
+    },
+    {
+      "quote_id": "q07877",
+      "person_signal": "unmarked",
+      "note": "The short statement about Chona's perception is compatible with third person but is insufficient by itself."
+    },
+    {
+      "quote_id": "q07878",
+      "person_signal": "third",
+      "note": "Extended free-indirect narration renders Doc's ideology and questions, then externally attributes his emotional state."
+    },
+    {
+      "quote_id": "q07879",
+      "person_signal": "unclear",
+      "note": "The lowercase, sentence-initial fragment has lost its surrounding syntax and cannot securely identify narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/wp-content/uploads/2023/06/Final_Summer-Sampler-2023-1.pdf",
+      "title": "Final Summer Sampler 2023 \u2014 The Heaven & Earth Grocery Store excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Riverhead excerpt contains Chapters 1 and 2. Its base narration is third person and shifts into characters' knowledge; the apparent first-person phrase in Chapter 1 occurs inside speech explicitly attributed to Chicken Hill's old women."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-heaven-earth-grocery-store/styles.html",
+      "title": "James McBride Writing Styles in The Heaven & Earth Grocery Store",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis explicitly describes a shifting third-person perspective throughout the novel, primarily omniscient and capable of entering multiple characters' interiors."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/the-heaven-earth-grocery-store",
+      "title": "The Heaven & Earth Grocery Store Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide's key facts explicitly identify the novel's point of view as third-person limited."
+    },
+    {
+      "url": "https://www.tournamentofbooks.com/2024/the-librarianist-v-the-heaven-earth-grocery-store",
+      "title": "The Librarianist v. The Heaven & Earth Grocery Store",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review describes the novel's omniscient narration as capturing the interior psychological landscapes of its various characters."
+    },
+    {
+      "url": "https://www.jewishbookcouncil.org/book/the-heaven-earth-grocery-store",
+      "title": "The Heaven & Earth Grocery Store",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review says the novel cycles among many characters' points of view. This corroborates shifting focalization but does not independently name grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Heaven & Earth Grocery Store\" James McBride excerpt publisher and opened the authorized Penguin Random House/Riverhead sampler.",
+    "Searched \"The Heaven & Earth Grocery Store\" third person, point of view, narrator, omniscient narrator, and shifting third-person; opened BookRags, LitCharts, Tournament of Books, and Jewish Book Council results.",
+    "Checked the authorized opening around the apparent first-person wording and confirmed that it is enclosed in a speech passage introduced as the old Black women of Chicken Hill telling the story.",
+    "The official Penguin Random House secondary-education book page returned an internal error; the publisher-hosted PDF sampler remained accessible.",
+    "Google Books searches did not yield a comparably usable sustained preview, so no search snippet was treated as evidence."
+  ],
+  "person_note": "The controlling narration is shifting third person, ranging from character-focused free indirect discourse to broad omniscient historical commentary. Multiple interior Goodreads passages independently corroborate the authorized opening and whole-book POV descriptions. First- and second-person forms in the supplied quotations occur in character speech or universal aphorisms. The authorized opening also resolves the potentially contrary phrase 'my lips': it belongs to an explicitly attributed oral account by Chicken Hill's old women, embedded within third-person narration. Sources differ only in calling the narration limited versus omniscient, a focalization distinction that does not affect the THIRD label.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_083",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:32:21.533854+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f2e52bb6bfec787fb9d947e5e375f7ab80364d9ee145c7f062693e5240f310d4"
+  }
+}

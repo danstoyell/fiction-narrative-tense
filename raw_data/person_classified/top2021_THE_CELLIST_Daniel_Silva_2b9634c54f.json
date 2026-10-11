@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:THE CELLIST|Daniel Silva",
+  "quotes": [
+    {
+      "quote_id": "q06560",
+      "person_signal": "unmarked",
+      "note": "Story-world political exposition contains no participating narrator or sustained protagonist-directed you."
+    },
+    {
+      "quote_id": "q06561",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to the author's paratextual note, not the novel's base narrator."
+    },
+    {
+      "quote_id": "q06562",
+      "person_signal": "third",
+      "note": "Narration names Gabriel externally and reports his thought, exposing third-person base narration."
+    },
+    {
+      "quote_id": "q06563",
+      "person_signal": "unmarked",
+      "note": "The impersonal historical statement does not by itself identify the narrator's person."
+    },
+    {
+      "quote_id": "q06564",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unresolved he is insufficient to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q06565",
+      "person_signal": "non_base",
+      "note": "The pronouns and direct address occur within character speech."
+    },
+    {
+      "quote_id": "q06566",
+      "person_signal": "non_base",
+      "note": "This is a general maxim without diagnostic story narration."
+    },
+    {
+      "quote_id": "q06567",
+      "person_signal": "non_base",
+      "note": "Bibliographic paratext does not represent base narration."
+    },
+    {
+      "quote_id": "q06568",
+      "person_signal": "unclear",
+      "note": "The clipped nominal fragment has no recoverable narrating frame."
+    },
+    {
+      "quote_id": "q06569",
+      "person_signal": "unmarked",
+      "note": "A single externally described action by she is compatible with both first- and third-person framing."
+    },
+    {
+      "quote_id": "q06570",
+      "person_signal": "unclear",
+      "note": "The truncated procedural phrase lacks a subject and narrating context."
+    },
+    {
+      "quote_id": "q06571",
+      "person_signal": "unmarked",
+      "note": "The isolated named-character action does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q06572",
+      "person_signal": "unclear",
+      "note": "Truncation and missing quotation boundaries prevent reliable attribution."
+    },
+    {
+      "quote_id": "q06573",
+      "person_signal": "unclear",
+      "note": "The sentence is cut off before enough local narration develops to establish person."
+    },
+    {
+      "quote_id": "q06574",
+      "person_signal": "third",
+      "note": "Despite the clipped opening, consecutive external narration of the man and another character establishes a third-person scene; the authorized excerpt confirms this context."
+    },
+    {
+      "quote_id": "q06575",
+      "person_signal": "third",
+      "note": "Sustained scene narration tracks an unnamed woman externally across several actions without a participating narrator."
+    },
+    {
+      "quote_id": "q06576",
+      "person_signal": "unmarked",
+      "note": "This clipped relative clause and embedded phrase do not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q06577",
+      "person_signal": "non_base",
+      "note": "The first-person voice is explicitly the author's afterword, not story narration."
+    },
+    {
+      "quote_id": "q06578",
+      "person_signal": "unmarked",
+      "note": "The isolated they sentence lacks enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q06579",
+      "person_signal": "third",
+      "note": "Narration externally reports Morosov addressing Gabriel and describes Morosov in third person."
+    },
+    {
+      "quote_id": "q06580",
+      "person_signal": "non_base",
+      "note": "The upstream gnomic maxim is not independently diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q06581",
+      "person_signal": "unmarked",
+      "note": "The base text introduces an embedded newspaper quotation, but its impersonal construction does not identify narrative person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://danielsilvabooks.com/books/the-cellist/an-excerpt-of-the-cellist/",
+      "title": "An Excerpt of The Cellist - Daniel Silva",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized, sustained Chapter 1 excerpt narrates Sarah Bancroft and other characters externally as she, he, and by name while freely reporting Sarah's thoughts; no participating narrator frames the scene."
+    },
+    {
+      "url": "https://www.goodreads.com/work/quotes/84787002-the-cellist?page=2",
+      "title": "The Cellist Quotes by Daniel Silva (page 2 of 2)",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Several interior passages continue external third-person narration of Gabriel, including his recollections and a sustained sequence of his actions, corroborating the authorized opening beyond its limited scope."
+    }
+  ],
+  "search_log": [
+    "Searched \"Daniel Silva The Cellist official excerpt first chapter\" and opened the author's authorized excerpt.",
+    "Searched \"The Cellist Daniel Silva excerpt Gabriel thought\" and inspected additional Goodreads passages.",
+    "Searched \"The Cellist Daniel Silva point of view third person narrator\"; many results concerned Steven Galloway's different novel The Cellist of Sarajevo and were discarded.",
+    "Searched site:harpercollins.com for a publisher excerpt; no usable HarperCollins excerpt surfaced.",
+    "Searched Google Books, chapter-excerpt, narrator, epistolary, multiple-narrator, and alternating-POV variants; no credible evidence of first-person, second-person, epistolary, framed, or alternating base narration was found.",
+    "Opened the author's excerpt and Goodreads interior quote page before using them; synopsis-only reviews and audiobook narrator references were not treated as narrative-person evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. Multiple Goodreads passages expose external narration and access to Gabriel's or other characters' thoughts, while the authorized Chapter 1 excerpt sustains the same mode across a long Sarah Bancroft scene. First-person forms in q06561 and q06577 belong to the author's paratext, and those in dialogue or quoted material are local voices. The main limitation is that the Tier A source covers the opening rather than the whole book, but interior passages independently corroborate third person and targeted research found no evidence of sustained sections in another person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_075",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T18:04:31.137600+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "407e91dabf321459e2e508c1643d46fe3aaa5a83ca0879adf7ca30b395f35cd0"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:3473",
+  "quotes": [
+    {
+      "quote_id": "q02893",
+      "person_signal": "unclear",
+      "note": "Clipped continuation omits the subject and cannot identify the narrator's person."
+    },
+    {
+      "quote_id": "q02894",
+      "person_signal": "unmarked",
+      "note": "A context-free description of a boy as he does not by itself establish the narrating position."
+    },
+    {
+      "quote_id": "q02895",
+      "person_signal": "third",
+      "note": "Sustained external narration describes a male character's actions and the bow without a participating narrator."
+    },
+    {
+      "quote_id": "q02896",
+      "person_signal": "non_base",
+      "note": "Direct conversational speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02897",
+      "person_signal": "unmarked",
+      "note": "Focalized fragments contain no narrator-participant pronoun or independently diagnostic person marking."
+    },
+    {
+      "quote_id": "q02898",
+      "person_signal": "non_base",
+      "note": "Conversational speech addressed to another character."
+    },
+    {
+      "quote_id": "q02899",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02900",
+      "person_signal": "third",
+      "note": "The dialogue is framed by sustained external narration of Mark and Patty and their surroundings."
+    },
+    {
+      "quote_id": "q02901",
+      "person_signal": "non_base",
+      "note": "This clipped passage closely matches promotional synopsis language rather than constitutive novel narration, indicating an upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q02902",
+      "person_signal": "third",
+      "note": "Sustained external narration names Reacher and describes another man's condition and Reacher-focalized speculation."
+    },
+    {
+      "quote_id": "q02903",
+      "person_signal": "third",
+      "note": "The surrounding authorized interior excerpt confirms that he refers to Reacher in sustained third-person narration."
+    },
+    {
+      "quote_id": "q02904",
+      "person_signal": "third",
+      "note": "Dialogue is embedded within external narration that repeatedly names Reacher and Patty and narrates Reacher's actions."
+    },
+    {
+      "quote_id": "q02905",
+      "person_signal": "unclear",
+      "note": "The isolated he/you passage lacks reliable quotation boundaries and could be either narration or a character's description."
+    },
+    {
+      "quote_id": "q02906",
+      "person_signal": "non_base",
+      "note": "Predominantly direct dialogue; the short speech beats do not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02907",
+      "person_signal": "unclear",
+      "note": "A clipped noun-phrase fragment with no recoverable narrating position."
+    },
+    {
+      "quote_id": "q02908",
+      "person_signal": "third",
+      "note": "Extended free-indirect reasoning is attributed externally to a male focal character."
+    },
+    {
+      "quote_id": "q02909",
+      "person_signal": "third",
+      "note": "Narration externally reports what Peter said and what the group subsequently thought and did."
+    },
+    {
+      "quote_id": "q02910",
+      "person_signal": "unmarked",
+      "note": "Brief metaphorical he/they description is too context-poor to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q02911",
+      "person_signal": "third",
+      "note": "The narrator externally names Reacher and attributes his thought."
+    },
+    {
+      "quote_id": "q02912",
+      "person_signal": "third",
+      "note": "External narration names Burke and Reacher and reports Reacher's comprehension and feeling."
+    },
+    {
+      "quote_id": "q02913",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Reacher's actions and introduces Brenda Amos."
+    },
+    {
+      "quote_id": "q02914",
+      "person_signal": "third",
+      "note": "Reacher's dialogue is framed by sustained external narration of Reacher and Mortimer."
+    },
+    {
+      "quote_id": "q02915",
+      "person_signal": "third",
+      "note": "The spoken exchange gives way to externally attributed Reacher reasoning and free-indirect reflection."
+    },
+    {
+      "quote_id": "q02916",
+      "person_signal": "third",
+      "note": "Sustained free-indirect speculation about a group remains third-person narration, despite generic imagined scenarios."
+    },
+    {
+      "quote_id": "q02917",
+      "person_signal": "third",
+      "note": "A long continuous action scene externally narrates Reacher, the old man, and his opponent."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.co.in/an-excerpt-from-lee-childs-past-tense/",
+      "title": "An Excerpt from Lee Child's \"Past Tense\"",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized Chapter One excerpt sustains third-person narration across both the Reacher and Patty/Shorty storylines."
+    },
+    {
+      "url": "https://crimereads.com/past-tense/",
+      "title": "Past Tense \u2014 By Lee Child",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This publisher-permitted interior excerpt externally narrates Reacher's archival research and thoughts in sustained third person."
+    },
+    {
+      "url": "https://pekoeblaze.wordpress.com/2020/08/20/review-past-tense-by-lee-child-novel/",
+      "title": "Review: \u201cPast Tense\u201d by Lee Child (Novel)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reviewer who identifies the edition read explicitly describes the novel's narration as third person and discusses that narration across earlier and later portions."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Past_Tense_(novel)",
+      "title": "Past Tense (novel)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The work-level entry explicitly states that the novel is written in the third person; this corroborates the excerpts and quote evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Past Tense Lee Child excerpt official publisher\", \"Past Tense Lee Child first chapter excerpt\", and \"Past Tense Lee Child Google Books preview\"; opened Penguin excerpts and found sustained third-person prose.",
+    "Searched \"Past Tense Lee Child third person point of view narrator\", \"Past Tense third-person Reacher novel\", and \"Past Tense point of view Lee Child\"; opened explicit whole-book descriptions and reviews.",
+    "Searched exact quote fragments including \"His usual habit was to click twice\" and located the passage in a publisher-permitted CrimeReads interior excerpt, confirming third-person attribution to Reacher.",
+    "Attempted to open the long Penguin Random House South Africa PDF excerpt, but the live fetch timed out; its search result was not relied on as primary evidence.",
+    "Searched for epistolary, frame, multiple-narrator, and alternating-POV indications; found parallel Reacher and Patty/Shorty storylines but no sustained change away from third person."
+  ],
+  "person_note": "The controlling narration is third person. Numerous interior Goodreads passages externally narrate Reacher and other characters, including their thoughts and actions, while authorized opening and interior excerpts independently show the same structure across both major plot strands. Dialogue, the gnomic generic-you quote, and probable promotional synopsis text are non-base material; two clipped passages remain locally unresolved but provide no credible first- or second-person counterevidence. The only remaining uncertainty concerns those isolated quote boundaries, not the book-level narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_063",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T20:22:24.466475+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "43ea3fe9ba9881c91a6abee2385c6f34d1e567c7af036d28b00ba42025e0c2f0"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:THE MAIDENS|Alex Michaelides",
+  "quotes": [
+    {
+      "quote_id": "q06426",
+      "person_signal": "first",
+      "note": "Participating narrator repeatedly uses I to define his story-world role as villain; web research identifies this as the recurring first-person Sebastian strand."
+    },
+    {
+      "quote_id": "q06427",
+      "person_signal": "non_base",
+      "note": "Standalone general observation without a story-specific narrator."
+    },
+    {
+      "quote_id": "q06428",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; the surrounding speech tags do not identify the base narrator's participation."
+    },
+    {
+      "quote_id": "q06429",
+      "person_signal": "unmarked",
+      "note": "Possible narration about Ruth, but the short statement contains no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q06430",
+      "person_signal": "non_base",
+      "note": "Universal gnomic reflection; we and you do not denote a story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q06431",
+      "person_signal": "unmarked",
+      "note": "The imperative appears to be local thought or maxim, while the brief she-clause alone cannot establish narrative person."
+    },
+    {
+      "quote_id": "q06432",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you."
+    },
+    {
+      "quote_id": "q06433",
+      "person_signal": "non_base",
+      "note": "Direct speech; first- and second-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q06434",
+      "person_signal": "non_base",
+      "note": "Although bucketed as event, the publisher excerpt identifies this line as a C. S. Lewis epigraph, so me is not base narration."
+    },
+    {
+      "quote_id": "q06435",
+      "person_signal": "third",
+      "note": "Sustained external narration names Mariana, reports what she wondered and knew, and treats her as the third-person focal character."
+    },
+    {
+      "quote_id": "q06436",
+      "person_signal": "third",
+      "note": "Third-person limited narration reports Mariana's professional knowledge; we is an embedded generalization."
+    },
+    {
+      "quote_id": "q06437",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; all person markers belong to Ruth and Mariana."
+    },
+    {
+      "quote_id": "q06438",
+      "person_signal": "unmarked",
+      "note": "A single unanchored she-sentence is compatible with either third-person narration or a first-person narrator describing someone else."
+    },
+    {
+      "quote_id": "q06439",
+      "person_signal": "unclear",
+      "note": "The passage begins as a clipped fragment and shifts into generic you, preventing reliable attribution."
+    },
+    {
+      "quote_id": "q06440",
+      "person_signal": "third",
+      "note": "Extended narration externally follows Mariana's knowledge and evaluation of the unseen man."
+    },
+    {
+      "quote_id": "q06441",
+      "person_signal": "non_base",
+      "note": "Attributed Arthur Miller quotation in paratext."
+    },
+    {
+      "quote_id": "q06442",
+      "person_signal": "unmarked",
+      "note": "Clipped description of she supplies too little context to establish narrator participation."
+    },
+    {
+      "quote_id": "q06443",
+      "person_signal": "unmarked",
+      "note": "The single statement about Mariana's state does not by itself distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q06444",
+      "person_signal": "unclear",
+      "note": "Quotation boundaries and speaker attribution are unresolved in the supplied text."
+    },
+    {
+      "quote_id": "q06445",
+      "person_signal": "non_base",
+      "note": "Standalone rhetorical generalization rather than story-specific narration."
+    },
+    {
+      "quote_id": "q06446",
+      "person_signal": "unmarked",
+      "note": "Impersonal story-world exposition contains no narrator or focal character marker."
+    },
+    {
+      "quote_id": "q06447",
+      "person_signal": "unmarked",
+      "note": "Historical and mythological exposition does not expose whether the narrator participates."
+    },
+    {
+      "quote_id": "q06448",
+      "person_signal": "non_base",
+      "note": "Standalone universal maxim."
+    },
+    {
+      "quote_id": "q06449",
+      "person_signal": "first",
+      "note": "Sustained autobiographical recollection uses I and my; research places such passages in Sebastian's recurring first-person narrative."
+    },
+    {
+      "quote_id": "q06450",
+      "person_signal": "first",
+      "note": "Story-specific first-person recollection by the participating narrator of the recurring interlude strand."
+    },
+    {
+      "quote_id": "q06451",
+      "person_signal": "third",
+      "note": "Sustained external scene narration names Mariana and reports her perception of another character as she."
+    },
+    {
+      "quote_id": "q06452",
+      "person_signal": "unmarked",
+      "note": "Impersonal description of the college supplies no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q06453",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; we and you are conversational rather than narratorial."
+    },
+    {
+      "quote_id": "q06454",
+      "person_signal": "first",
+      "note": "Sustained immediate experience uses repeated I and me in the recurring first-person strand."
+    },
+    {
+      "quote_id": "q06455",
+      "person_signal": "unmarked",
+      "note": "The clipped passage refers to Mariana externally but is too brief to establish the controlling narrating position independently."
+    },
+    {
+      "quote_id": "q06456",
+      "person_signal": "non_base",
+      "note": "Direct lecture speech using generic you and us."
+    },
+    {
+      "quote_id": "q06457",
+      "person_signal": "third",
+      "note": "External retrospective narration states what she did not know at the time and describes the couple as they."
+    },
+    {
+      "quote_id": "q06458",
+      "person_signal": "non_base",
+      "note": "Dialogue and quoted Homeric verse; person markers belong to speakers or the embedded quotation."
+    },
+    {
+      "quote_id": "q06459",
+      "person_signal": "unclear",
+      "note": "Unattributed first-person line could be speech or narration in the clipped context."
+    },
+    {
+      "quote_id": "q06460",
+      "person_signal": "third",
+      "note": "Extended external exposition names Mariana and narrates her developing attachment to an imagined England."
+    },
+    {
+      "quote_id": "q06461",
+      "person_signal": "non_base",
+      "note": "Generalizing argument using one rather than story-specific narration."
+    },
+    {
+      "quote_id": "q06462",
+      "person_signal": "non_base",
+      "note": "Standalone universal claim."
+    },
+    {
+      "quote_id": "q06463",
+      "person_signal": "third",
+      "note": "After embedded verse, sustained narration externally follows she through perception and changing mental state."
+    },
+    {
+      "quote_id": "q06464",
+      "person_signal": "non_base",
+      "note": "Attributed Shakespeare epigraph."
+    },
+    {
+      "quote_id": "q06465",
+      "person_signal": "third",
+      "note": "Sustained external narration names Mariana, describes her profession, and reports what she knew."
+    },
+    {
+      "quote_id": "q06466",
+      "person_signal": "third",
+      "note": "Extended third-person limited narration follows Mariana's memories, uncertainty, and imagined conversations."
+    },
+    {
+      "quote_id": "q06467",
+      "person_signal": "non_base",
+      "note": "Standalone general reflection without a story-specific narrator."
+    },
+    {
+      "quote_id": "q06468",
+      "person_signal": "non_base",
+      "note": "Embedded verse from Tennyson rather than the novel's base narration."
+    },
+    {
+      "quote_id": "q06469",
+      "person_signal": "first",
+      "note": "Story-specific present reflection uses my and me and belongs to the recurring first-person interlude strand."
+    },
+    {
+      "quote_id": "q06470",
+      "person_signal": "non_base",
+      "note": "Embedded Tennyson verse rather than base narration."
+    },
+    {
+      "quote_id": "q06471",
+      "person_signal": "third",
+      "note": "Despite dialogue and recited verse at its edges, the substantial scene narration externally names Clarissa and Mariana."
+    },
+    {
+      "quote_id": "q06472",
+      "person_signal": "third",
+      "note": "Sustained scene narration treats Mariana and Sebastian externally as she, he, and they."
+    },
+    {
+      "quote_id": "q06473",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; first-person markers belong to the speakers."
+    },
+    {
+      "quote_id": "q06474",
+      "person_signal": "unmarked",
+      "note": "A single statement about she does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q06475",
+      "person_signal": "third",
+      "note": "Third-person limited narration names Mariana and reports her private realization and self-assessment."
+    },
+    {
+      "quote_id": "q06476",
+      "person_signal": "unmarked",
+      "note": "Single factual sentence about Edward and Zoe does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q06477",
+      "person_signal": "non_base",
+      "note": "Dialogue with a brief action beat; the pronouns occur in speech and the beat alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q06478",
+      "person_signal": "non_base",
+      "note": "Poem title and attribution are paratext."
+    },
+    {
+      "quote_id": "q06479",
+      "person_signal": "non_base",
+      "note": "Direct dialogue about another novel's character."
+    },
+    {
+      "quote_id": "q06480",
+      "person_signal": "third",
+      "note": "Sustained external narration names Mariana and Zoe and reports Mariana's perception and anticipation."
+    },
+    {
+      "quote_id": "q06481",
+      "person_signal": "non_base",
+      "note": "Direct speech; first-person pronouns belong to the speaking character."
+    },
+    {
+      "quote_id": "q06482",
+      "person_signal": "unmarked",
+      "note": "A bare he-statement lacks enough context to identify the narrating position."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250304476/themaidens/",
+      "title": "The Maidens",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's authorized opening narrates Mariana externally as she across sustained prose, establishing the opening's third-person strand; it also identifies the apparent first-person grief line as a C. S. Lewis epigraph."
+    },
+    {
+      "url": "https://www.supersummary.com/the-maidens/summary/",
+      "title": "The Maidens Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Whole-book structural overview says the main narrative is third person from Mariana's perspective and that first-person narratives from Sebastian are interspersed through the six-part novel."
+    },
+    {
+      "url": "https://www.supersummary.com/the-maidens/important-quotes/",
+      "title": "The Maidens Important Quotes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Book-wide textual analysis identifies Part 1, Chapter 7 as a first-person Sebastian letter chapter interrupting the otherwise third-person limited narrative, while quoting third-person passages from the opening through the epilogue."
+    },
+    {
+      "url": "https://www.supersummary.com/the-maidens/prologue-part-1-chapter-10-summary/",
+      "title": "The Maidens Prologue\u2013Part 1, Chapter 10 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Section analysis records a shift to first person in Part 1, Chapter 7 and a return to Mariana's third-person limited perspective in Chapter 8, demonstrating alternation within Part 1."
+    },
+    {
+      "url": "https://www.supersummary.com/the-maidens/part-4-chapters-1-11-summary/",
+      "title": "The Maidens Part 4, Chapters 1\u201311 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Part 4 analysis identifies first-person narration in Chapters 1 and 11 surrounding sustained chapters externally following Mariana, showing that the first-person strand recurs well into the interior."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-maidens/styles.html",
+      "title": "Alex Michaelides Writing Styles in The Maidens",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view discussion explicitly identifies third-person limited narration through Mariana. It describes the dominant strand but omits the recurring Sebastian interludes documented by the structural sources."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Maidens\" Alex Michaelides \"third person\" narrator and opened the publisher excerpt plus explicit POV analyses.",
+    "Searched \"The Maidens\" Alex Michaelides excerpt first chapter and opened the Macmillan authorized opening and Google Books chapter-sampler record.",
+    "Searched \"The Maidens\" Alex Michaelides \"first person\" chapters and \"The Maidens\" Sebastian \"first-person\" interspersed; located whole-book and part-level structural analyses.",
+    "Searched exact first-person quote fragments including \"I also learned, from a young age\", \"I felt safe, suddenly\", and \"It's been here the whole time\u2014my past\" to test whether the Goodreads passages belonged to a recurring strand.",
+    "Opened SuperSummary's whole-book overview, important-quotes analysis, Part 1 analysis, Part 2 analysis, and Part 4 analysis; these consistently identify recurring first-person Sebastian chapters within the third-person Mariana narrative.",
+    "An academic repository PDF on childhood trauma appeared in results and echoed the interspersed first-person structure, but the page could not be opened reliably, so it was not used as web evidence.",
+    "An A. J. Sefton review explicitly described third-person Mariana narration and first-person killer narration in search results, but the page timed out when opened, so it was excluded from usable evidence."
+  ],
+  "person_note": "The novel alternates a dominant third-person limited narrative centered on Mariana with recurring, chapter-length first-person narratives by Sebastian that are ultimately understood as portions of his letter to Zoe. The quote set independently contains extensive third-person Mariana narration and repeated autobiographical I-passages matching that first-person strand. Those passages are therefore constitutive recurring sections, not isolated dialogue or incidental documents. q06434 is an upstream bucket anomaly: the authorized publisher excerpt shows that it is an attributed C. S. Lewis epigraph, so it is non-base. BookRags' third-person-only description captures the dominant Mariana strand but omits the interludes; the whole-book and part-level structural analyses resolve that omission. No material uncertainty remains about the sustained alternation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_076",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T18:15:45.635831+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e015caf59ce2af753bedc1902bf9a3a143b95ca78ad0507d6a8ba05746693928"
+  }
+}

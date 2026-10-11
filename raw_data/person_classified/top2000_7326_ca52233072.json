@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:7326",
+  "quotes": [
+    {
+      "quote_id": "q00203",
+      "person_signal": "non_base",
+      "note": "Gnomic counsel using generic 'you'; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00204",
+      "person_signal": "non_base",
+      "note": "A universal observation using inclusive 'we', not participating narration."
+    },
+    {
+      "quote_id": "q00205",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00206",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first-person pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00207",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with generic 'you', not second-person narration."
+    },
+    {
+      "quote_id": "q00208",
+      "person_signal": "non_base",
+      "note": "Generalized maxim using generic 'you'; it is nondiagnostic for narrative person."
+    },
+    {
+      "quote_id": "q00209",
+      "person_signal": "unmarked",
+      "note": "Possible narration or free-indirect thought, but no narrator-specific pronoun or frame appears."
+    },
+    {
+      "quote_id": "q00210",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts a woman's history and regrets as 'she' without a participating narrator."
+    },
+    {
+      "quote_id": "q00211",
+      "person_signal": "third",
+      "note": "Sustained third-person character description presents her speech, conduct, and relationships externally."
+    },
+    {
+      "quote_id": "q00212",
+      "person_signal": "non_base",
+      "note": "Direct character speech; 'us' and 'you' are local dialogue."
+    },
+    {
+      "quote_id": "q00213",
+      "person_signal": "non_base",
+      "note": "Aphorism without diagnostic narrative-person evidence."
+    },
+    {
+      "quote_id": "q00214",
+      "person_signal": "non_base",
+      "note": "Direct first-person address within character speech, not base narration."
+    },
+    {
+      "quote_id": "q00215",
+      "person_signal": "non_base",
+      "note": "A character's local first-person reflection about Oscar; it conflicts only superficially with the third-person base."
+    },
+    {
+      "quote_id": "q00216",
+      "person_signal": "unmarked",
+      "note": "A short third-person statement about two characters; alone it does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00217",
+      "person_signal": "non_base",
+      "note": "Entirely dialogue, so the visible first- and second-person forms are local."
+    },
+    {
+      "quote_id": "q00218",
+      "person_signal": "non_base",
+      "note": "Abstract gnomic definition of grief rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00219",
+      "person_signal": "unmarked",
+      "note": "Generic 'one' and the lack of a narrating participant leave person unmarked."
+    },
+    {
+      "quote_id": "q00220",
+      "person_signal": "non_base",
+      "note": "Direct dialogue with no outside narratorial context."
+    },
+    {
+      "quote_id": "q00221",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not controlling narration."
+    },
+    {
+      "quote_id": "q00222",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00223",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence and is too clipped to establish its local narrative structure."
+    },
+    {
+      "quote_id": "q00224",
+      "person_signal": "third",
+      "note": "Third-person narration enters an unnamed man's retrospective thought across a coherent passage."
+    },
+    {
+      "quote_id": "q00225",
+      "person_signal": "third",
+      "note": "A sustained scene narrates Carrie's perceptions, memories, and surroundings externally in third person."
+    },
+    {
+      "quote_id": "q00226",
+      "person_signal": "unmarked",
+      "note": "A brief speech beat and sentence about Elfrida are compatible with third person but too short to be diagnostic alone."
+    },
+    {
+      "quote_id": "q00227",
+      "person_signal": "third",
+      "note": "Sustained opening narration externally follows Elfrida's actions, perceptions, and decisions in third person."
+    },
+    {
+      "quote_id": "q00228",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Carrie's prior belief is insufficient by itself to establish narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://images.macmillan.com/folio-assets/book-excerpts/9781250077462EX.pdf",
+      "title": "Winter Solstice",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-hosted eight-page opening sustains external third-person narration centered on Elfrida, including her actions, perceptions, and thoughts."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/605/page_number/1/winter-solstice",
+      "title": "Winter Solstice Excerpt: Read free excerpt of Winter Solstice by Rosamunde Pilcher",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The excerpt, explicitly reproduced by permission, corroborates the sustained third-person opening and identifies the section as 'Elfrida.'"
+    },
+    {
+      "url": "https://tractatus.sumdu.edu.ua/Arhiv/2018-1/20.pdf",
+      "title": "Lingual and Non-Lingual Secrets of the Popularity of the Novel \u201cWinter Solstice\u201d by R. Pilcher",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly textual analysis describes the named-character chapter structure and quotes third-person narration focalized through Elfrida, Oscar, Lucy, Carrie, and Sam across widely separated pages. It also treats first-person passages as character comments or dialogue."
+    },
+    {
+      "url": "https://www.rambles.net/pilcher_wsolstice00.html",
+      "title": "Rosamunde Pilcher, Winter Solstice",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A full-book review explicitly states that the whole book is written in third person and explains that character-name chapter titles indicate whose storyline is foregrounded."
+    },
+    {
+      "url": "https://books.google.com/books/about/Winter_Solstice.html?id=1PeXb7Y3BUYC",
+      "title": "Winter Solstice - Rosamunde Pilcher",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The Macmillan edition's contents show recurring sections named for Elfrida, Sam, Carrie, Lucy, and Oscar, but the contents alone do not establish grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Winter Solstice\" \"Rosamunde Pilcher\" excerpt and opened the Macmillan publisher PDF and BookBrowse's permissioned excerpt.",
+    "Searched \"Winter Solstice\" \"Rosamunde Pilcher\" third person, narrator, and point of view; opened a full-book review explicitly identifying third person.",
+    "Searched for chapter structure and alternating point of view; the Google Books contents showed recurring character-named sections but no change of grammatical person.",
+    "Searched exact interior passages involving Carrie, Oscar, and Elfrida; opened a scholarly textual study quoting third-person narration across the novel and identifying nearby first-person material as character commentary.",
+    "Searched for epistolary, diary, frame-narrative, and multiple-narrator evidence; found Lucy's diary mentioned only as a local element and found no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling narration is third person, with changing focal characters rather than changing grammatical person. The strongest Goodreads passages sustain external narration through Elfrida and Carrie, while the authorized opening independently does the same. Scholarly whole-book analysis samples third-person narration through all five principal characters, and an explicit full-book review confirms that the character-titled chapters remain third person. q00215 is local first-person character reflection, consistent with the study's treatment of such passages as quoted character commentary, not an autonomous first-person section. No credible evidence of alternating base narration remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_035",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:55:19.382644+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5a670b6aff1a1a84f0a757664eef3ea73ef2f45468e97a9c12b39faf59f628b0"
+  }
+}

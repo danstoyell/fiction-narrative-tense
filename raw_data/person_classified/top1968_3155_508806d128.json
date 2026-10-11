@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1968:3155",
+  "quotes": [
+    {
+      "quote_id": "q00802",
+      "person_signal": "first",
+      "note": "The controlling diary narrator uses \u201cme\u201d and \u201cI\u201d in a story-specific declaration about her own fate."
+    },
+    {
+      "quote_id": "q00803",
+      "person_signal": "first",
+      "note": "The narrator participates as \u201cI\u201d while assessing her students and stating her conviction."
+    },
+    {
+      "quote_id": "q00804",
+      "person_signal": "first",
+      "note": "The first-person possessive \u201cmy\u201d identifies the narrator as the character whose plans have gone awry."
+    },
+    {
+      "quote_id": "q00805",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI\u201d statements describe the protagonist-narrator\u2019s beliefs, desires, and mission."
+    },
+    {
+      "quote_id": "q00806",
+      "person_signal": "first",
+      "note": "The participating narrator uses \u201cI\u201d to report her own habitual physical reaction."
+    },
+    {
+      "quote_id": "q00807",
+      "person_signal": "non_base",
+      "note": "This is an impersonal gnomic assertion without diagnostic evidence about the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q00808",
+      "person_signal": "first",
+      "note": "The narrator recounts her own quest and transformations through \u201cmy\u201d and repeated \u201cI\u201d constructions."
+    },
+    {
+      "quote_id": "q00809",
+      "person_signal": "first",
+      "note": "Myra explicitly identifies herself as \u201cI\u201d and narrates her purported past actions in the controlling diary voice."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://publicatio.bibl.u-szeged.hu/21590/1/Bodies%20That%20Do%20Not%20Fit.pdf",
+      "title": "Bodies That Do Not Fit: Sexual Metamorphoses, Re-embodied Identities and Cultural Crisis in Contemporary Transgender Memoirs",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Anna K\u00e9rchy\u2019s scholarly analysis explicitly identifies Myra\u2019s account as a first-person singular diary narrative and describes the other constitutive chapters as transcriptions of Uncle Buck\u2019s first-person Dictaphone monologues."
+    },
+    {
+      "url": "https://www.enotes.com/topics/myra-breckinridge/in-depth",
+      "title": "Myra Breckinridge Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The structural analysis says the novel combines multiple first-person narrators: Myra\u2019s diary entries and Buck Loner\u2019s transcribed tape recordings."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/67020-10-best-hollywood-novels.html",
+      "title": "10 Best Hollywood Novels",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "FIRST",
+      "note": "The article explicitly characterizes Myra\u2019s voice as first-person narration, though it does not discuss the Buck Loner interludes."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/605925/myra-breckinridge-by-gore-vidal/",
+      "title": "Myra Breckinridge by Gore Vidal",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher reproduces the first-person opening and calls it Myra\u2019s testimony; this establishes the opening voice but not the whole-book structure."
+    },
+    {
+      "url": "https://www.bookforum.com/print/2502/gore-vidal-s-male-to-film-transsexual-19696",
+      "title": "A Phantasmic Woman",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "FIRST",
+      "note": "The critical review identifies Myra as the novel\u2019s unreliable narrator and explains that readers are encountering diary entries she writes for her psychoanalyst."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMyra Breckinridge\u201d with \u201cfirst person,\u201d \u201cnarrator,\u201d \u201cpoint of view,\u201d and \u201cdiary narration.\u201d",
+    "Searched for Gore Vidal excerpts, first chapters, publisher pages, Google Books previews, and Buck Loner\u2019s recorded sections.",
+    "Opened the Penguin Random House edition page, Google Books record, Publishers Weekly article, Bookforum review, eNotes structural analysis, and the University of Szeged-hosted scholarly PDF.",
+    "Targeted searches for scholarly discussion found the Szeged analysis and an Edinburgh thesis result; the Edinburgh repository page failed to open and was not used as evidence.",
+    "Google Books exposed the opening and contents but not enough sustained interior prose to establish the whole structure independently."
+  ],
+  "person_note": "The Goodreads passages repeatedly expose Myra\u2019s participating first-person diary voice. Whole-book structural research shows that the novel also contains Buck Loner\u2019s Dictaphone-report chapters, but these are another participating first-person voice rather than third-person narration. The Myra-to-Myron identity development likewise does not change narrative person. Under the methodology, multiple first-person narrators remain FIRST, not ALTERNATING. The quote sample contains only Myra\u2019s strand, but the scholarly structural source accounts for Buck\u2019s interludes, and no sustained second- or third-person base section was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_015",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T01:39:00.862036+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f35add6605f1ae5a4f13b7b89220d033c704224fc0505d4985b9378b8125da5d"
+  }
+}

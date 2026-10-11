@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:4751",
+  "quotes": [
+    {
+      "quote_id": "q01147",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question with no story-specific narrator."
+    },
+    {
+      "quote_id": "q01148",
+      "person_signal": "third",
+      "note": "Although dialogue dominates, repeated external tags\u2014Alex said, Stone answered, and Reuben countered\u2014expose third-person base narration."
+    },
+    {
+      "quote_id": "q01149",
+      "person_signal": "non_base",
+      "note": "The first-person language is Captain Jack's local speech; the upstream event bucket obscures its dialogue status."
+    },
+    {
+      "quote_id": "q01150",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Alex and the president in third person, including Alex's knowledge."
+    },
+    {
+      "quote_id": "q01151",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in speech; the brief proper-name attribution alone is not diagnostic."
+    },
+    {
+      "quote_id": "q01152",
+      "person_signal": "unmarked",
+      "note": "Generic focalized 'you' means anyone in the situation, not a protagonist narrated in second person."
+    },
+    {
+      "quote_id": "q01153",
+      "person_signal": "third",
+      "note": "The narrator externally names Hemingway while reporting what he had always considered."
+    },
+    {
+      "quote_id": "q01154",
+      "person_signal": "unmarked",
+      "note": "Clipped generalization about spies contains no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q01155",
+      "person_signal": "third",
+      "note": "Sustained narration externally describes Brennan and Gray and reports Brennan's political reasoning."
+    },
+    {
+      "quote_id": "q01156",
+      "person_signal": "third",
+      "note": "The external narrator identifies the NIC chief and reports what he knew."
+    },
+    {
+      "quote_id": "q01157",
+      "person_signal": "third",
+      "note": "Gray is narrated externally while his experience and view of presidential power are reported."
+    },
+    {
+      "quote_id": "q01158",
+      "person_signal": "unmarked",
+      "note": "A contextless fragment beginning with 'He' does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q01159",
+      "person_signal": "third",
+      "note": "Extended narration names Djamila externally while entering her memories, expectations, and imagination."
+    },
+    {
+      "quote_id": "q01160",
+      "person_signal": "non_base",
+      "note": "Attributed Dostoyevsky aphorism rather than base narration."
+    },
+    {
+      "quote_id": "q01161",
+      "person_signal": "unmarked",
+      "note": "Bare present-tense assertion lacks enough context to distinguish narration from speech or an embedded statement."
+    },
+    {
+      "quote_id": "q01162",
+      "person_signal": "unclear",
+      "note": "Clipping at both the beginning and end leaves the local speaker or narrator unresolved."
+    },
+    {
+      "quote_id": "q01163",
+      "person_signal": "third",
+      "note": "Lengthy surrounding prose externally follows Gray and al-Omari and reports Gray's perceptions; first-person forms are confined to dialogue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/the-camel-club/9780759515239/",
+      "title": "The Camel Club by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Publisher metadata verifies the title, author, 2005 publication, and prose-fiction eligibility, but its synopsis does not establish narrative person."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-camel-club/excerpt",
+      "title": "The Camel Club by David Baldacci | Excerpt | Bookreporter.com",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained Chapter 1 excerpt, explicitly reprinted with publisher permission, narrates Oliver Stone externally as he/he/Stone and enters his memories and thoughts. Local first-person thoughts and dialogue remain embedded within that third-person frame."
+    },
+    {
+      "url": "https://www.supersummary.com/the-camel-club/chapters-24-35-summary/",
+      "title": "The Camel Club Chapters 24-35 | SuperSummary",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The structural analysis describes shifting perspectives across Stone, Alex, Hemingway, Djamila, and Captain Jack while calling the reader's observing position omniscient. It also identifies the humans-are-rotten passage as Captain Jack's speech, resolving the apparent first-person conflict in q01149."
+    },
+    {
+      "url": "https://www.supersummary.com/the-camel-club/chapters-60-70-summary/",
+      "title": "The Camel Club Chapters 60-70 | SuperSummary",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The closing-chapter analysis continues to describe an external narrative that moves among Gray, Hemingway, Stone, Alex, and other characters and gives access to their distinct motivations."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Camel Club\" \"David Baldacci\" with official excerpt, first chapter, publisher, author, and reading-guide terms; found the permissioned Bookreporter Chapter 1 excerpt and Hachette title record.",
+    "Searched title plus point of view, third person, narrator, and omniscient; found SuperSummary's explicit analysis of shifting perspectives and an omniscient observing position.",
+    "Opened Google Books, Open Library, and OverDrive records. Their previews or samples were unavailable to the text browser or exposed only metadata/isolated sentences, so they were not used as person evidence.",
+    "Searched the exact q01149 language, including \"I've fought for and against pretty much every cause there is\" and \"humans are rotten to the core\"; Goodreads reproduced the quotation, while SuperSummary's Chapter 25 account established that the sentiment belongs to Captain Jack's dialogue.",
+    "Searched title plus epistolary, diary, frame narrative, multiple narrators, alternating narration, and first person; found no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The permissioned opening and the interior Goodreads passages independently show a nonparticipating third-person narrator with access to several characters' thoughts. The book shifts focal characters and plotlines, but the grammatical narrating person remains third, so this is not ALTERNATING. q01149's apparent first person is Captain Jack's speech, and other first-person forms occur in dialogue or free-direct thought. Several clipped quotes remain locally nondiagnostic, but no credible source indicates a competing base person; the main limitation is that the authorized prose source covers only the opening, mitigated by multiple interior passages and structural coverage through the final chapters.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_042",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-04T05:27:56.363140+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3686456d9710907bf25bd4fbd29246254fe860a5f00e2317e177640ca4d67437"
+  }
+}

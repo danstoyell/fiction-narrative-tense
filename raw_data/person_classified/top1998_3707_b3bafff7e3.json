@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:3707",
+  "quotes": [
+    {
+      "quote_id": "q00555",
+      "person_signal": "unmarked",
+      "note": "Base-narrative planning exposition, but it contains no participating narrator or sufficiently contextualized character reference to identify person."
+    },
+    {
+      "quote_id": "q00556",
+      "person_signal": "third",
+      "note": "The nonparticipating narrator attributes an interior thought directly to Popov by name."
+    },
+    {
+      "quote_id": "q00557",
+      "person_signal": "unmarked",
+      "note": "A generalized observation about Irishmen does not expose the narrator's participation or person."
+    },
+    {
+      "quote_id": "q00558",
+      "person_signal": "non_base",
+      "note": "Gnomic analogy without a story-world referent; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00559",
+      "person_signal": "third",
+      "note": "Sustained external narration profiles Loiselle as he/his and reports information from his file without a participating narrator."
+    },
+    {
+      "quote_id": "q00560",
+      "person_signal": "unmarked",
+      "note": "The clipped narrative fragment uses an unidentified they, which does not by itself distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q00561",
+      "person_signal": "unmarked",
+      "note": "Setting exposition about nation-states and America contains no person-diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00562",
+      "person_signal": "unmarked",
+      "note": "Institutional exposition about the KGB and FBI does not identify whether the narrator participates in the story."
+    },
+    {
+      "quote_id": "q00563",
+      "person_signal": "unmarked",
+      "note": "The quoted letters name two distributions, not speakers; the sentence contains no person-diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00564",
+      "person_signal": "unmarked",
+      "note": "The brief description of a helicopter ride contains no narrator or contextualized character reference."
+    },
+    {
+      "quote_id": "q00565",
+      "person_signal": "unmarked",
+      "note": "Generalized narration about people's willingness to die does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q00566",
+      "person_signal": "unclear",
+      "note": "The fragment has a lost opening boundary and an unmatched quotation mark, preventing attribution to narration or speech."
+    },
+    {
+      "quote_id": "q00567",
+      "person_signal": "non_base",
+      "note": "A clipped aphoristic imperative is gnomic rather than evidence of the story's controlling narrator."
+    },
+    {
+      "quote_id": "q00568",
+      "person_signal": "non_base",
+      "note": "This proverbial line is gnomic material and does not identify base narration."
+    },
+    {
+      "quote_id": "q00569",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its implied first-person speaker and address to pal do not identify the narrator."
+    },
+    {
+      "quote_id": "q00570",
+      "person_signal": "unmarked",
+      "note": "The generalized judgment about Europeans may reflect a focal character, but it has no person-diagnostic narratorial reference."
+    },
+    {
+      "quote_id": "q00571",
+      "person_signal": "unclear",
+      "note": "A detached simile fragment has too little structure or context to attribute responsibly."
+    },
+    {
+      "quote_id": "q00572",
+      "person_signal": "unclear",
+      "note": "The bare first-person plural clause lacks quotation boundaries and attribution, so its we cannot be established as base narration rather than local speech."
+    },
+    {
+      "quote_id": "q00573",
+      "person_signal": "unclear",
+      "note": "The dependent fragment lacks enough surrounding syntax to determine its voice or attribution."
+    },
+    {
+      "quote_id": "q00574",
+      "person_signal": "unmarked",
+      "note": "The external beat naming Foster is too brief alone to diagnose person, while the visible I occurs inside clearly marked dialogue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780425170342",
+      "title": "Rainbow Six | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained authorized prologue excerpt narrates John Clark and other characters externally as he, she, and they while freely reporting Clark's thoughts; no participating narrator frames the scenes."
+    },
+    {
+      "url": "https://tomclancy.com/images/tomclancy/site/contents/rainbow_six_clancy.pdf",
+      "title": "Rainbow Six",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author-site excerpt continues sustained external narration of Clark, his family, and the hijackers, including access to characters' knowledge and perceptions, corroborating third-person narration in the opening."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-rainbow-six/style.html",
+      "title": "Tom Clancy Writing Styles in Rainbow Six",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the entire tale as third-person omniscient and explains that the narration moves among the knowledge and thoughts of Popov, Clark, and other characters."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Tom Clancy Rainbow Six excerpt chapter one\" and publisher/author excerpts; opened the Penguin Random House excerpt and the Tom Clancy author-site PDF.",
+    "Searched for \"Rainbow Six Tom Clancy third person point of view narrator\"; opened BookRags' whole-book point-of-view discussion.",
+    "Searched Penguin Random House, Hachette, Google Books, and Open Library variants; Hachette supplied catalog material but no opened prose excerpt, Google Books produced no usable result, and unrelated game guides were discarded.",
+    "Searched for \"Rainbow Six\" with first person, multiple narrators, epistolary, and frame narrative; results were dominated by first-person-shooter video-game material and produced no credible evidence of alternating novel narration.",
+    "Searched exact clipped quote fragments, including \"we're proceeding on the assumption\" and \"Foster poured some more bourbon\"; Goodreads repeated the fragments without restoring attribution, and an unauthorized full-text mirror was not used as evidence."
+  ],
+  "person_note": "The quote evidence and web research agree on a nonparticipating third-person narrator. In particular, q00556 reports Popov's thought externally and q00559 gives a sustained external profile of Loiselle; the authorized opening likewise narrates Clark and several other characters externally while entering their thoughts. The whole-book point-of-view description confirms that this structure controls the entire novel. The isolated we in q00572 lacks boundaries and attribution and therefore cannot establish a first-person section, while q00574's I is plainly dialogue. Several other quotes are too short or expository to diagnose person, but none supplies credible evidence of sustained first- or second-person base narration. The remaining uncertainty is limited to attribution of the clipped fragments, not the book-level person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_032",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:56:42.750724+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c487de39991ef941e44d75dfcf6daed929a3c456e65d2cf8fd32e30ed3145eda"
+  }
+}

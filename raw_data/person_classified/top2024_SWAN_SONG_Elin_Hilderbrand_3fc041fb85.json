@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:SWAN SONG|Elin Hilderbrand",
+  "quotes": [
+    {
+      "quote_id": "q09120",
+      "person_signal": "non_base",
+      "note": "Attributed poem excerpt is paratext, not the novel's base narration."
+    },
+    {
+      "quote_id": "q09121",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization contains no story-specific narratorial person evidence."
+    },
+    {
+      "quote_id": "q09122",
+      "person_signal": "non_base",
+      "note": "Second-person wording occurs inside Coco's direct thought addressing another character, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09123",
+      "person_signal": "third",
+      "note": "Sustained exposition and access to a character's mental response present him externally through nonparticipating narration."
+    },
+    {
+      "quote_id": "q09124",
+      "person_signal": "third",
+      "note": "Narration externally describes Leslee and reports Coco's learned observation and intention."
+    },
+    {
+      "quote_id": "q09125",
+      "person_signal": "unmarked",
+      "note": "Scene description and listed names do not independently establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q09126",
+      "person_signal": "unmarked",
+      "note": "The brief outside narration names characters, while the diagnostic first- and second-person language is confined to speech."
+    },
+    {
+      "quote_id": "q09127",
+      "person_signal": "non_base",
+      "note": "General rhetorical question is gnomic rather than story-specific narration."
+    },
+    {
+      "quote_id": "q09128",
+      "person_signal": "third",
+      "note": "The passage externally identifies Coco while reporting her private reaction and habitual experience."
+    },
+    {
+      "quote_id": "q09129",
+      "person_signal": "third",
+      "note": "Extended scene narration follows Coco's actions, history, and concern from a nonparticipating third-person position."
+    },
+    {
+      "quote_id": "q09130",
+      "person_signal": "third",
+      "note": "Narration presents the externally named character's contemplated speech and imagined exchange in third person."
+    },
+    {
+      "quote_id": "q09131",
+      "person_signal": "third",
+      "note": "The narrator describes Coco externally and reports her private judgment about the book's adaptation."
+    },
+    {
+      "quote_id": "q09132",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly quoted instructional speech; its short third-person beats do not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q09133",
+      "person_signal": "unclear",
+      "note": "The quotation begins mid-sentence with a missing antecedent and ends in clipped speech, preventing secure local attribution."
+    },
+    {
+      "quote_id": "q09134",
+      "person_signal": "unmarked",
+      "note": "A single externally described action and character opinion lack enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q09135",
+      "person_signal": "unmarked",
+      "note": "Static description of Coco's nightstand names a character but does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q09136",
+      "person_signal": "unmarked",
+      "note": "The sentence characterizes Sharon externally, but alone does not rule out a participating narrator."
+    },
+    {
+      "quote_id": "q09137",
+      "person_signal": "first",
+      "note": "Narratorial 'us' exposes the novel's participating collective Nantucket voice, consistent with the documented first-person-plural strand."
+    },
+    {
+      "quote_id": "q09138",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Sharon's actions, perceptions, and direct thought."
+    },
+    {
+      "quote_id": "q09139",
+      "person_signal": "unmarked",
+      "note": "A single habitual statement about an unnamed character does not independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q09140",
+      "person_signal": "unclear",
+      "note": "The unmatched opening of quoted speech leaves the passage clipped; the brief action beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q09141",
+      "person_signal": "non_base",
+      "note": "A standalone book title is paratext rather than narrative evidence."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookofthemonth.com/all-hardcovers/swan-song-2163",
+      "title": "Swan Song by Elin Hilderbrand",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized opening sample sustains third-person narration of Ed Kapenash, including external action, history, and access to his thoughts."
+    },
+    {
+      "url": "https://www.supersummary.com/swan-song/prologue-chapter-9-summary/",
+      "title": "Swan Song Prologue-Chapter 9 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis explicitly distinguishes the largely third-person omniscient present-day timeline from past-timeline passages that shift into an unidentified first-person-plural Nantucket gossip voice, quoting a sustained collective 'we' example."
+    },
+    {
+      "url": "https://www.whathappened.fyi/books/swan-song",
+      "title": "Swan Song by Elin Hilderbrand: The Complete Reader's Companion",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The whole-book guide identifies a third-person omniscient narrator with multiple character perspectives; this corroborates the major third-person strand but does not address the collective first-person passages."
+    },
+    {
+      "url": "https://www.audible.com/blog/elin-hilderbrand-swan-song-audio-interview",
+      "title": "Elin Hilderbrand's Nantucket \"Swan Song\" achieves perfect pitch",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "none",
+      "note": "The author says she personally narrates the final chapter as a goodbye to readers, but the interview does not supply enough prose or structural detail to classify that chapter's grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Swan Song\" \"Elin Hilderbrand\" excerpt and opened the Book of the Month sample plus the Hachette title page; the sample provided sustained third-person opening prose, while Hachette's excerpt control did not expose additional text.",
+    "Searched \"Swan Song\" \"Elin Hilderbrand\" \"point of view\", narrator, and third person; opened SuperSummary's structural analysis and a whole-book reader guide.",
+    "Searched the exact quote \"The entire harbor is spread out before us like a banquet\" and queries for the novel's \"we\" narrator; the exact passage was not independently indexed, but the search surfaced explicit analysis of the collective first-person-plural Nantucket voice.",
+    "Searched for alternating narration, multiple narrators, and timeline structure; SuperSummary explicitly described different voices across the present and past timelines.",
+    "Checked the Audible author interview because the author narrates the final chapter; it established the chapter's personal farewell function but did not provide diagnostic prose.",
+    "A large newspaper PDF surfaced a snippet mentioning Hilderbrand's collective \"we\" voice, but the document could not be opened reliably and was not used as evidence."
+  ],
+  "person_note": "The novel sustains a major third-person omniscient strand across the present-day investigation and character-centered scenes, as shown by the authorized opening and numerous quotes. It also uses a participating first-person-plural Nantucket/community voice in recurring past-timeline gossip passages; q09137 exposes that 'us' voice, and a commercial structural guide independently documents the collective 'we.' Because these are recurring narrative strands rather than an isolated bookend, the classification is ALTERNATING. Confidence is medium because the evidence for the frequency of the collective strand comes from a commercial guide rather than scholarly or authorized whole-book analysis.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_086",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:18:49.070913+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7ccf9d5acefefb9a941d4f5ee3ca0b2f2bb951685cd57411636f39656a36dca2"
+  }
+}

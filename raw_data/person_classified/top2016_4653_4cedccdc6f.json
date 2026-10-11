@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:4653",
+  "quotes": [
+    {
+      "quote_id": "q01200",
+      "person_signal": "unmarked",
+      "note": "Narratorial future-in-past commentary implies broad knowledge but contains no participating narrator or sufficiently sustained context to establish person."
+    },
+    {
+      "quote_id": "q01201",
+      "person_signal": "unmarked",
+      "note": "Brief third-person description of Gabriel alone does not establish whether the controlling narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q01202",
+      "person_signal": "non_base",
+      "note": "Gnomic lexical fragment with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q01203",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01204",
+      "person_signal": "unmarked",
+      "note": "A single attribution of Gabriel's thought uses third-person grammar but is too brief to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01205",
+      "person_signal": "third",
+      "note": "Sustained external exposition and scene narration range across historical events and named characters without a participating narrator; the embedded dialogue does not alter that base position."
+    },
+    {
+      "quote_id": "q01206",
+      "person_signal": "non_base",
+      "note": "The first-person voice belongs to the author's acknowledgments, not the novel's base narration."
+    },
+    {
+      "quote_id": "q01207",
+      "person_signal": "non_base",
+      "note": "The first-person declaration is character speech."
+    },
+    {
+      "quote_id": "q01208",
+      "person_signal": "unclear",
+      "note": "Missing quotation boundaries leave unresolved whether this present-tense statement is dialogue or narration."
+    },
+    {
+      "quote_id": "q01209",
+      "person_signal": "non_base",
+      "note": "A clipped gnomic fragment provides no base-narrator evidence."
+    },
+    {
+      "quote_id": "q01210",
+      "person_signal": "third",
+      "note": "A sustained multi-character action sequence is narrated externally, including simultaneous actions by Safia, Carter, Mikhail, and Gabriel."
+    },
+    {
+      "quote_id": "q01211",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly dialogue; its short external speech beats do not independently establish the controlling person."
+    },
+    {
+      "quote_id": "q01212",
+      "person_signal": "non_base",
+      "note": "Gnomic essayistic material, partly marked as quotation, does not identify the story's base narrator."
+    },
+    {
+      "quote_id": "q01213",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization contains no story-specific participating narration."
+    },
+    {
+      "quote_id": "q01214",
+      "person_signal": "unclear",
+      "note": "The omitted subject and clipped boundaries prevent reliable attribution of the fragment."
+    },
+    {
+      "quote_id": "q01215",
+      "person_signal": "third",
+      "note": "Sustained free-indirect narration presents Saladin's history, predictions, and certainty from an external third-person position."
+    },
+    {
+      "quote_id": "q01216",
+      "person_signal": "non_base",
+      "note": "This is character dialogue."
+    },
+    {
+      "quote_id": "q01217",
+      "person_signal": "unmarked",
+      "note": "The brief narrative summary is compatible with third person but does not itself expose the narrator's participation status."
+    },
+    {
+      "quote_id": "q01218",
+      "person_signal": "non_base",
+      "note": "Gnomic argument by analogy is not diagnostic base narration."
+    },
+    {
+      "quote_id": "q01219",
+      "person_signal": "unmarked",
+      "note": "Historical exposition lacks a narrator reference and alone cannot distinguish participating from nonparticipating narration."
+    },
+    {
+      "quote_id": "q01220",
+      "person_signal": "non_base",
+      "note": "The first-person plural occurs in a universal essayistic generalization, not as story participation."
+    },
+    {
+      "quote_id": "q01221",
+      "person_signal": "non_base",
+      "note": "Second-person direct address and first-person reference occur in character speech."
+    },
+    {
+      "quote_id": "q01222",
+      "person_signal": "unmarked",
+      "note": "Brief story-world exposition does not independently identify narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://danielsilvabooks.com/books/the-black-widow/the-black-widowexcerpt/",
+      "title": "Read an Excerpt of The Black Widow",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized extended opening narrates Hannah Weinberg externally in third person, moves between exterior action and her private thoughts, and contains no participating frame narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-black-widow/styles.html",
+      "title": "Daniel Silva Writing Styles in The Black Widow",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies an omniscient third-person narrator and explains that the narration ranges among Natalie and multiple intelligence-agency characters across the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \"Daniel Silva The Black Widow excerpt first chapter publisher\"; opened the sustained excerpt on Daniel Silva's official site.",
+    "Searched \"The Black Widow Daniel Silva point of view third person narrator\" and \"The Black Widow Daniel Silva review third-person narration\"; opened BookRags' whole-book point-of-view analysis and its shorter Q&A corroboration.",
+    "Searched \"The Black Widow Daniel Silva Google Books excerpt\"; opened the Google Books record, which verified the HarperCollins edition and extensive chapter structure but exposed catalog material rather than usable narrative prose.",
+    "Checked Harper reading-guide, review, epistolary, frame-narrative, multiple-narrator, and alternating-POV leads; none supplied credible evidence of sustained first- or second-person base sections.",
+    "Independent audit reopened the author-hosted opening and BookRags' dedicated Point of View section; the former is sustained authorized third-person prose and the latter explicitly describes third-person narration across Natalie and multiple intelligence-agency characters."
+  ],
+  "person_note": "The diagnostic interior evidence contains sustained external narration across several characters, including multi-character action and free-indirect access to Saladin; visible first- and second-person forms are dialogue, gnomic commentary, or acknowledgments. The author's authorized opening independently sustains third-person narration with access to Hannah's thoughts, and BookRags' dedicated whole-book Point of View analysis explicitly describes third-person narration ranging across Natalie and multiple intelligence-agency characters. THIRD/high is retained because the distributed quote evidence, Tier A opening, and explicit whole-book Tier C structural description agree without contrary evidence. Independent audit: verified both cited sources and found the quote signals appropriately conservative.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_057",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:00:30.734749+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b020020e05904104cf65ef22fa17c7f70e23052383b0c5b87bbcf101519183c2"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:5997",
+  "quotes": [
+    {
+      "quote_id": "q03055",
+      "person_signal": "unmarked",
+      "note": "Greer's belief is attributed externally, but this isolated sentence does not establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q03056",
+      "person_signal": "unmarked",
+      "note": "The repeated 'you' is a lover's recognition in free-direct thought, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03057",
+      "person_signal": "unmarked",
+      "note": "Impersonal exposition about Nantucket fog contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q03058",
+      "person_signal": "unmarked",
+      "note": "The clipped third-person thought attribution lacks an antecedent and does not independently establish the narrator's participation."
+    },
+    {
+      "quote_id": "q03059",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns occur in direct speech."
+    },
+    {
+      "quote_id": "q03060",
+      "person_signal": "non_base",
+      "note": "This is a general gnomic statement rather than story narration."
+    },
+    {
+      "quote_id": "q03061",
+      "person_signal": "non_base",
+      "note": "This aphoristic declaration is not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03062",
+      "person_signal": "non_base",
+      "note": "This general maxim does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q03063",
+      "person_signal": "non_base",
+      "note": "The pronouns belong to a spoken toast."
+    },
+    {
+      "quote_id": "q03064",
+      "person_signal": "third",
+      "note": "Sustained narration names Celeste as 'she' while reporting her private thoughts; the general 'we' occurs inside her conclusion."
+    },
+    {
+      "quote_id": "q03065",
+      "person_signal": "non_base",
+      "note": "The short maxim is gnomic and narratively nondiagnostic."
+    },
+    {
+      "quote_id": "q03066",
+      "person_signal": "third",
+      "note": "The narrator presents Celeste externally as 'she' while entering her immediate, story-specific reflection."
+    },
+    {
+      "quote_id": "q03067",
+      "person_signal": "third",
+      "note": "The passage externally narrates Karen's private desire and her past routine with Celeste."
+    },
+    {
+      "quote_id": "q03068",
+      "person_signal": "unmarked",
+      "note": "The brief external action is insufficient alone; the first-person declaration is embedded writing on the paper."
+    },
+    {
+      "quote_id": "q03069",
+      "person_signal": "unclear",
+      "note": "The isolated first-person assertion has no attribution or boundaries showing whether it is narration, speech, or embedded text."
+    },
+    {
+      "quote_id": "q03070",
+      "person_signal": "unmarked",
+      "note": "Impersonal scene description contains no participating narrator or focal character reference."
+    },
+    {
+      "quote_id": "q03071",
+      "person_signal": "third",
+      "note": "Outside the brief dialogue, the narrator presents Celeste as 'she' and reports what she anticipates and knows."
+    },
+    {
+      "quote_id": "q03072",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a female character's repeated actions and preferences as 'she'."
+    },
+    {
+      "quote_id": "q03073",
+      "person_signal": "unmarked",
+      "note": "This clipped biographical fragment about Robin does not by itself establish the controlling narrator's participation."
+    },
+    {
+      "quote_id": "q03074",
+      "person_signal": "third",
+      "note": "Extended external narration reports Greer's private evaluation of herself and her relationship with Tag."
+    },
+    {
+      "quote_id": "q03075",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms are confined to direct conversational speech."
+    },
+    {
+      "quote_id": "q03076",
+      "person_signal": "non_base",
+      "note": "This general maxim is not story-specific narration."
+    },
+    {
+      "quote_id": "q03077",
+      "person_signal": "non_base",
+      "note": "The generalized aside about communicating with Millennials is gnomic rather than diagnostic narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://bingebooks.com/book/the-perfect-couple",
+      "title": "The Perfect Couple by Elin Hilderbrand",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained commercial sample narrates Chief Kapenash, Greer, and Karen externally in third person while moving among their private thoughts."
+    },
+    {
+      "url": "https://www.supersummary.com/the-perfect-couple/chapters-1-7-summary/",
+      "title": "The Perfect Couple Chapters 1-7 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Structural analysis identifies multiple points of view and specifically describes the opening as third-person-close through Chief Kapenash; its discussion also treats Tag's passages as point-of-view narration."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-perfect-couple/",
+      "title": "The Perfect Couple Summary & Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly describes the whole novel as told by an omniscient narrator who shifts among several main characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Perfect Couple\" \"Elin Hilderbrand\" with excerpt, first chapter, point of view, narrator, third person, omniscient narrator, and multiple-points-of-view terms.",
+    "Opened and reviewed the BingeBooks sustained opening sample, which shifts from Chief Kapenash to Greer and Karen while retaining third-person narration.",
+    "Opened SuperSummary's Chapters 1-7 analysis and BookRags' whole-book study-guide description; both explicitly characterize the narrative structure and support third person.",
+    "Opened the Hachette Book Group and author-title pages, but their publisher descriptions summarize the plot without explicitly identifying narrative person.",
+    "The Des Moines Public Library catalog advertised an excerpt, but the excerpt did not load and supplied no usable prose evidence.",
+    "Targeted searches for third-person-close, omniscient narrator, and Chief Kapenash found no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The diagnostic quotes repeatedly present Celeste, Karen, and Greer externally while reporting their private thoughts, matching commercial structural descriptions of shifting third-person viewpoints or an omniscient narrator. The apparent second person in q03056 is local romantic thought, the first person in q03068 is an embedded written message, and the remaining first-person forms occur in speech, gnomic material, or an unattributed fragment. No source indicates autonomous first- or second-person sections. Confidence is medium because the sustained prose sample and whole-book descriptions are Tier C, although varied interior Goodreads quotes consistently corroborate THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_065",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T21:46:34.016189+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0be548caffe80a601d8c0654a23a9a0bd54a8ff5622d6745c7dbee4aefd3b7d8"
+  }
+}

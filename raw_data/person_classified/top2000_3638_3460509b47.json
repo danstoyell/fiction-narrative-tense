@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:3638",
+  "quotes": [
+    {
+      "quote_id": "q00730",
+      "person_signal": "non_base",
+      "note": "General ecological maxim; it does not expose a story narrator."
+    },
+    {
+      "quote_id": "q00731",
+      "person_signal": "unmarked",
+      "note": "Free-indirect reflection without a narratorial pronoun or enough context to establish person."
+    },
+    {
+      "quote_id": "q00732",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in direct speech; the attribution beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00733",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you, not base narration."
+    },
+    {
+      "quote_id": "q00734",
+      "person_signal": "non_base",
+      "note": "A spoken prayer rather than narratorial discourse."
+    },
+    {
+      "quote_id": "q00735",
+      "person_signal": "non_base",
+      "note": "First-person dialogue, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00736",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation about moths; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q00737",
+      "person_signal": "unclear",
+      "note": "The unanchored first-person reflection could be narration, speech, or thought; clipping prevents attribution."
+    },
+    {
+      "quote_id": "q00738",
+      "person_signal": "unmarked",
+      "note": "A single third-person thought attribution is compatible with both first- and third-person framing."
+    },
+    {
+      "quote_id": "q00739",
+      "person_signal": "unmarked",
+      "note": "One sentence about unnamed characters does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q00740",
+      "person_signal": "unclear",
+      "note": "The lowercase sentence fragment lacks enough surrounding syntax to determine its narrative status."
+    },
+    {
+      "quote_id": "q00741",
+      "person_signal": "unmarked",
+      "note": "Character-colored reflection is present, but no diagnostic narratorial person appears."
+    },
+    {
+      "quote_id": "q00742",
+      "person_signal": "third",
+      "note": "This sustained opening passage presents the focal character externally as her and is confirmed by the contiguous excerpt as third-person base narration."
+    },
+    {
+      "quote_id": "q00743",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00744",
+      "person_signal": "unmarked",
+      "note": "A bare third-person character reference is insufficient by itself."
+    },
+    {
+      "quote_id": "q00745",
+      "person_signal": "third",
+      "note": "Sustained external narration enters her perception and then supplies impersonal explanation, with no participating narrator framing the scene."
+    },
+    {
+      "quote_id": "q00746",
+      "person_signal": "third",
+      "note": "The passage sustains Garnett's perspective through he while an external narrator renders his perception and free-indirect judgment."
+    },
+    {
+      "quote_id": "q00747",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the brief speech beat does not independently establish base person."
+    },
+    {
+      "quote_id": "q00748",
+      "person_signal": "unmarked",
+      "note": "A single external action sentence is compatible with multiple narrator configurations."
+    },
+    {
+      "quote_id": "q00749",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to character dialogue."
+    },
+    {
+      "quote_id": "q00750",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and its brief attribution beats are insufficiently diagnostic."
+    },
+    {
+      "quote_id": "q00751",
+      "person_signal": "non_base",
+      "note": "The pronouns occur in quoted conversation; the short thought beat does not identify the narrator."
+    },
+    {
+      "quote_id": "q00752",
+      "person_signal": "non_base",
+      "note": "Expository gnomic material; we and our are generic human reference."
+    },
+    {
+      "quote_id": "q00753",
+      "person_signal": "third",
+      "note": "Extended Lusa-centered narration repeatedly calls the focal character Lusa and she while rendering her private dream process from outside."
+    },
+    {
+      "quote_id": "q00754",
+      "person_signal": "third",
+      "note": "Sustained free-indirect questions and an explicit Garnett attribution expose third-person limited narration."
+    },
+    {
+      "quote_id": "q00755",
+      "person_signal": "third",
+      "note": "The external she/he frame controls the scene; the first-person sentence is an embedded voice addressed to her."
+    },
+    {
+      "quote_id": "q00756",
+      "person_signal": "non_base",
+      "note": "A character's extended speech; I, you, and me do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00757",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection about most people lacks a diagnostic narratorial position."
+    },
+    {
+      "quote_id": "q00758",
+      "person_signal": "non_base",
+      "note": "First-person complaint in dialogue."
+    },
+    {
+      "quote_id": "q00759",
+      "person_signal": "non_base",
+      "note": "Spoken moral using generic you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00760",
+      "person_signal": "unmarked",
+      "note": "Free-indirect or gnomic reflection without an identifying narrator marker."
+    },
+    {
+      "quote_id": "q00761",
+      "person_signal": "unmarked",
+      "note": "A single sentence about she does not alone distinguish narrator participation."
+    },
+    {
+      "quote_id": "q00762",
+      "person_signal": "non_base",
+      "note": "Dialogue using generic you."
+    },
+    {
+      "quote_id": "q00763",
+      "person_signal": "third",
+      "note": "Extended access to a woman's bodily sensations and private questions is rendered through she/her by a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00764",
+      "person_signal": "unmarked",
+      "note": "A single he-centered free-indirect sentence is locally suggestive but not independently diagnostic."
+    },
+    {
+      "quote_id": "q00765",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to direct speech."
+    },
+    {
+      "quote_id": "q00766",
+      "person_signal": "non_base",
+      "note": "Clipped but recognizable dialogue; its I and you are character speech."
+    },
+    {
+      "quote_id": "q00767",
+      "person_signal": "unmarked",
+      "note": "One bare third-person action sentence does not establish the narrator's participation."
+    },
+    {
+      "quote_id": "q00768",
+      "person_signal": "third",
+      "note": "Although dialogue-heavy, the substantial surrounding narration externally depicts her actions, knowledge, reluctance, and interpretation in third person."
+    },
+    {
+      "quote_id": "q00769",
+      "person_signal": "third",
+      "note": "Sustained scene and memory narration follows she while the narrator describes imagined extinct animals; generic you is not a protagonist address."
+    },
+    {
+      "quote_id": "q00770",
+      "person_signal": "unmarked",
+      "note": "The single he-centered sentence provides focalized thought but too little local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q00771",
+      "person_signal": "unmarked",
+      "note": "A single Lusa/her sentence is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00772",
+      "person_signal": "non_base",
+      "note": "Extended character speech; the third-person beats merely attribute the dialogue."
+    },
+    {
+      "quote_id": "q00773",
+      "person_signal": "unclear",
+      "note": "Sentence fragment with no anchor or narratorial pronoun."
+    },
+    {
+      "quote_id": "q00774",
+      "person_signal": "third",
+      "note": "The short sustained scene externally attributes thought to she and continues through her perception of the unseen bird."
+    },
+    {
+      "quote_id": "q00775",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to Nannie Rawley's explicitly signed embedded letter, not the base narrator."
+    },
+    {
+      "quote_id": "q00776",
+      "person_signal": "non_base",
+      "note": "Clipped direct dialogue containing a quoted imitation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/660/prodigal-summer",
+      "title": "Excerpt from Prodigal Summer by Barbara Kingsolver",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained first-chapter excerpt begins with the q00742 passage and continues by narrating Deanna as her/she while reporting her movement, judgment, and mental state."
+    },
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9781572337350_A50771190/preview-9781572337350_A50771190.pdf",
+      "title": "Seeds of Change: Critical Essays on Barbara Kingsolver",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly volume's introduction describes the novel's three parallel plots and explicitly identifies Kingsolver's method as third-person limited narration."
+    },
+    {
+      "url": "https://wrightlibrary.org/sites/default/files/attachments/Kittle%20POV%20Workshop.pdf",
+      "title": "Point of View Workshop",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This library-hosted instructional handout labels a substantial interior Garnett passage from Prodigal Summer as third-person subjective and reproduces its he-centered narration."
+    },
+    {
+      "url": "https://ecozona.eu/article/download/3089/3157",
+      "title": "Measured Chaos: EcoPoet(h)ics of the Wild in Barbara Kingsolver's Prodigal Summer",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The peer-reviewed article characterizes the complete novel as three intertwined third-person narratives and distinguishes the Garnett\u2013Nannie epistolary exchanges within one thread."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780060199654",
+      "title": "Prodigal Summer by Barbara Kingsolver",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review confirms that alternating chapters center three protagonists\u2014Deanna, Lusa, and Garnett\u2014but does not explicitly identify grammatical narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Barbara Kingsolver Prodigal Summer excerpt first chapter third person point of view\" and opened the BookBrowse chapter-one excerpt.",
+    "Searched \"Prodigal Summer narrative point of view three stories third person scholarly\" and opened scholarly sources describing the whole-book structure.",
+    "Searched \"Prodigal Summer third-person limited narration\" and verified the explicit description in Seeds of Change.",
+    "Searched for interior \"Old Chestnuts\" and \"Moth Love\" excerpts; opened the Wright Memorial Public Library workshop handout containing an interior Garnett passage labeled third-person subjective.",
+    "Searched for narrator, alternating-person, frame, and epistolary evidence. A BookRags study-guide page claimed a first-to-third switch but immediately described all three named strands as using a third-person narrator; because it is anonymous and internally inconsistent, it was treated as an unusable assertion rather than credible contrary evidence.",
+    "Opened Publishers Weekly and Ecozon@ structural discussions to verify that the alternating chapters are three focal strands, not sustained changes of grammatical person."
+  ],
+  "person_note": "The base narration is third person. Goodreads supplies several sustained passages externally narrating Deanna, Lusa, and Garnett while entering their perceptions, and both the opening and an interior excerpt corroborate that form. Independent scholarly sources describe the whole novel as three parallel or intertwined third-person narratives, so its changing focal characters do not warrant ALTERNATING. First-person material in the quotes is character speech, prayer, or Nannie Rawley's embedded letter; generic you occurs in dialogue or maxim-like reflection rather than sustained protagonist address. The only apparent web contradiction was an internally inconsistent anonymous study-guide statement and is outweighed by the excerpts and scholarly structural evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.232879+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "34e2f31b0e8bae1ca17b8aca43f813c4901cbe4520920875eeff67308ecd7687"
+  }
+}

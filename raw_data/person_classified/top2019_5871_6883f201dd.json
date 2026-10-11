@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:5871",
+  "quotes": [
+    {
+      "quote_id": "q04295",
+      "person_signal": "non_base",
+      "note": "A general truism, not diagnostic of the narrator's participation."
+    },
+    {
+      "quote_id": "q04296",
+      "person_signal": "third",
+      "note": "Sustained external narration describes a group and attributes a judgment to Gabriel in third person."
+    },
+    {
+      "quote_id": "q04297",
+      "person_signal": "non_base",
+      "note": "Two-speaker dialogue; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q04298",
+      "person_signal": "unclear",
+      "note": "The severely clipped fragment lacks enough context to identify the narrating position."
+    },
+    {
+      "quote_id": "q04299",
+      "person_signal": "non_base",
+      "note": "Attributed Macbeth epigraph rather than the novel's base narration."
+    },
+    {
+      "quote_id": "q04300",
+      "person_signal": "non_base",
+      "note": "Attributed proverb rather than story narration."
+    },
+    {
+      "quote_id": "q04301",
+      "person_signal": "non_base",
+      "note": "Second-person address within character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q04302",
+      "person_signal": "unmarked",
+      "note": "Narratorial exposition, but it contains no character reference that distinguishes participating from nonparticipating narration."
+    },
+    {
+      "quote_id": "q04303",
+      "person_signal": "non_base",
+      "note": "Direct address within dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q04304",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased action with an unidentified 'he' is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q04305",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; the short third-person speech tags are not sufficient diagnostic context."
+    },
+    {
+      "quote_id": "q04306",
+      "person_signal": "third",
+      "note": "External scene narration identifies both travelers by their third-person roles, exposing a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q04307",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no diagnostic base-narrator reference."
+    },
+    {
+      "quote_id": "q04308",
+      "person_signal": "unclear",
+      "note": "The narration begins mid-sentence with its subject missing and is immediately followed by dialogue, preventing reliable local attribution."
+    },
+    {
+      "quote_id": "q04309",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than person-marked story narration."
+    },
+    {
+      "quote_id": "q04310",
+      "person_signal": "non_base",
+      "note": "First-person plural and other pronouns occur entirely within dialogue."
+    },
+    {
+      "quote_id": "q04311",
+      "person_signal": "unmarked",
+      "note": "Conditional exposition about the Kingdom does not reveal whether the narrator participates in the story."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://danielsilvabooks.com/books/the-new-girl/read-an-excerpt-of-the-new-girl/",
+      "title": "Read an excerpt of The New Girl",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized Chapter 1 excerpt sustains external third-person narration of Beatrice, Jihan, and other characters, including attributed perceptions and thoughts, with no participating narrator."
+    },
+    {
+      "url": "https://travellingcari.wordpress.com/2019/07/22/review-daniel-silvas-the-new-girl/",
+      "title": "Review: Daniel Silva\u2019s The New Girl",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The review quotes an interior passage that narrates Gabriel and Chiara externally and attributes Gabriel's thoughts as 'he thought,' corroborating third-person narration beyond the opening."
+    },
+    {
+      "url": "https://books.google.com/books?id=6GdzDwAAQBAJ",
+      "title": "The New Girl: A Novel",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The HarperCollins Google Books record verified the 2019 novel and its extensive multi-location chapter structure, but its accessible page did not explicitly establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Daniel Silva The New Girl official excerpt first chapter\" and opened the author's authorized Chapter 1 excerpt.",
+    "Searched \"The New Girl Daniel Silva excerpt Gabriel Allon\" and inspected Google Books and other preview results.",
+    "Searched \"The New Girl Daniel Silva point of view third person narrator\" and variants for explicit POV descriptions; results were mostly summaries rather than person evidence.",
+    "Searched for epistolary, multiple-narrator, and alternating-point-of-view descriptions; found no credible evidence of sustained first- or second-person sections.",
+    "Searched exact interior quote strings from quotes.csv; no usable independent source was returned.",
+    "Searched an exact interior passage quoted in a completed-reader review and found third-person narration centered on Gabriel.",
+    "The LitRes preview was inaccessible, and Google Books chapter links exposed structure but not readable interior prose."
+  ],
+  "person_note": "The authorized opening uses sustained third-person narration, while the Goodreads evidence independently includes third-person scene narration centered on Gabriel and other protagonists. A separately quoted interior passage likewise narrates Gabriel externally and renders his thought as 'he thought.' First- and second-person forms in the supplied quotes occur only in dialogue, proverbs, or epigraphs, and no research source indicated alternating narration. The main limitation is that the strongest authorized excerpt covers only Chapter 1, but distributed interior evidence resolves that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_068",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:29:27.341783+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a2fe7cb37f13eaccd960e01ed4b57b461b35a1c2dfaea50746ddfcaf885879c6"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2015:5250",
+  "quotes": [
+    {
+      "quote_id": "q02476",
+      "person_signal": "non_base",
+      "note": "Direct speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02477",
+      "person_signal": "unmarked",
+      "note": "Possible narration presents a male character's thought, but the short fragment does not independently establish the controlling narrator's person."
+    },
+    {
+      "quote_id": "q02478",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic first-person plural."
+    },
+    {
+      "quote_id": "q02479",
+      "person_signal": "non_base",
+      "note": "Dialogue question without narratorial person evidence."
+    },
+    {
+      "quote_id": "q02480",
+      "person_signal": "non_base",
+      "note": "Gnomic religious reflection; generic we/us does not identify the narrator."
+    },
+    {
+      "quote_id": "q02481",
+      "person_signal": "non_base",
+      "note": "Direct speech expressing a general observation."
+    },
+    {
+      "quote_id": "q02482",
+      "person_signal": "non_base",
+      "note": "Direct speech or thought, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q02483",
+      "person_signal": "non_base",
+      "note": "Gnomic political observation without narratorial person evidence."
+    },
+    {
+      "quote_id": "q02484",
+      "person_signal": "non_base",
+      "note": "Dialogue with a brief she-said attribution; the attribution alone is insufficient to establish base person."
+    },
+    {
+      "quote_id": "q02485",
+      "person_signal": "non_base",
+      "note": "Gnomic authorial observation that does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02486",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; first- and third-person references belong to speakers."
+    },
+    {
+      "quote_id": "q02487",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; our refers to a speaker's group."
+    },
+    {
+      "quote_id": "q02488",
+      "person_signal": "non_base",
+      "note": "Direct address within speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02489",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without person evidence."
+    },
+    {
+      "quote_id": "q02490",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing Professor Sharif."
+    },
+    {
+      "quote_id": "q02491",
+      "person_signal": "non_base",
+      "note": "Direct speech and rhetorical questions, not base narration."
+    },
+    {
+      "quote_id": "q02492",
+      "person_signal": "unclear",
+      "note": "The isolated first-person line lacks recovered framing. The book's established THIRD label does not by itself prove this is speech or thought; its local attribution remains unresolved."
+    },
+    {
+      "quote_id": "q02493",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person statement using generic you."
+    },
+    {
+      "quote_id": "q02494",
+      "person_signal": "non_base",
+      "note": "Clipped dialogue exchange, not narratorial evidence."
+    },
+    {
+      "quote_id": "q02495",
+      "person_signal": "third",
+      "note": "Sustained external narration names Salander as she and presents her perceptions and affinities without a participating narrator."
+    },
+    {
+      "quote_id": "q02496",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person-plural aphorism, not diagnostic narration."
+    },
+    {
+      "quote_id": "q02497",
+      "person_signal": "non_base",
+      "note": "Dialogue question; he and himself refer to God within the speech."
+    },
+    {
+      "quote_id": "q02498",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange recounting another character; speaker pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q02499",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Salander is compatible with third-person narration but is too brief to establish the controlling position by itself."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://assets.penguinrandomhouse.com/wp-content/uploads/2018/02/20204443/Movie-Tie-In-Sampler-2018.pdf",
+      "title": "Read It Before You Watch It: The Girl in the Spider's Web sampler",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Penguin Random House's sustained authorized excerpt narrates the Wrange\u2013Salander chess scene externally in third person while moving through Wrange's thoughts."
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/magazines/panache/an-extract-from-david-lagercrantzs-book-the-girl-in-the-spiders-web/articleshow/48937978.cms?from=mdr",
+      "title": "An extract from David Lagercrantz's book, The Girl in the Spider's Web",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained Salander passage, reprinted by permission of Hachette India/Quercus, uses third-person narration and renders Salander's actions, memories, knowledge, and thoughts externally."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-girl-in-the-spiders-web/styles.html",
+      "title": "David Lagercrantz Writing Styles in The Girl in the Spider's Web",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly states that the book is told in third person, with chapter focus shifting among multiple characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Girl in the Spider's Web\" David Lagercrantz excerpt and opened sustained Penguin Random House and permission-reprinted Hachette/Quercus material.",
+    "Searched \"The Girl in the Spider's Web\" \"third person\", narrator, and point of view; opened BookRags' whole-book POV description.",
+    "Searched the exact q02492 wording and variants to determine whether its isolated I belonged to a sustained first-person section; results did not provide usable surrounding context.",
+    "Opened Hachette UK's title page, but its Read Excerpt control did not expose excerpt text in the accessible page.",
+    "Reviewed discovery results for Goodreads, retailer previews, reviews, and an audiobook clip; plot-summary grammar, reader comments, inaccessible previews, and the performer's narrator credit were not used as person evidence."
+  ],
+  "person_note": "The base narration is third person with focalization shifting among characters. The diagnostic Goodreads passage about Salander agrees with two distinct sustained interior excerpts: one follows Salander and one follows Wrange, both externally in third person. The whole-book POV description independently confirms third person despite chapter-level focal shifts. q02492's isolated I remains locally unresolved: the book-level THIRD evidence cannot establish its missing immediate framing. No credible source indicated sustained first- or second-person base narration; the only residual uncertainty is the missing immediate context of that isolated line, which does not affect the book-level result. Quote audit: q02492 is unclear rather than presumed non_base.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_055",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T03:31:40.506223+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2bf0ff8388b97c911eb4b942dbb5d3921809a897d4b55bcd28fa66094cc1621d"
+  }
+}

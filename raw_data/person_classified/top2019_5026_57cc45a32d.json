@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:5026",
+  "quotes": [
+    {
+      "quote_id": "q03400",
+      "person_signal": "non_base",
+      "note": "Maeve's first-person speech is local dialogue; the external speech beat does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q03401",
+      "person_signal": "non_base",
+      "note": "Universal second-person reflection is gnomic, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03402",
+      "person_signal": "first",
+      "note": "Participating narrator uses \u201cwe\u201d to characterize his and Maeve's shared response to misfortune."
+    },
+    {
+      "quote_id": "q03403",
+      "person_signal": "first",
+      "note": "Participating narrator recounts his own decision and retrospective understanding as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03404",
+      "person_signal": "first",
+      "note": "Danny narrates his memories, feelings, and relationship to his father in sustained first person."
+    },
+    {
+      "quote_id": "q03405",
+      "person_signal": "non_base",
+      "note": "Direct-address question to an interlocutor is dialogue, not controlling second-person narration."
+    },
+    {
+      "quote_id": "q03406",
+      "person_signal": "first",
+      "note": "Participating narrator retrospectively describes what he wished he had asked his father."
+    },
+    {
+      "quote_id": "q03407",
+      "person_signal": "unmarked",
+      "note": "Base narration reports what Fluffy habitually said, but contains no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q03408",
+      "person_signal": "non_base",
+      "note": "Generic second-person advice is gnomic and does not cast a protagonist as \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03409",
+      "person_signal": "first",
+      "note": "The narrator identifies his own thoughts and present conduct with \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q03410",
+      "person_signal": "non_base",
+      "note": "Conversational first-person-plural speech is local dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q03411",
+      "person_signal": "first",
+      "note": "\u201cOur childhood\u201d and the two surviving children identify the participating narrator's shared history."
+    },
+    {
+      "quote_id": "q03412",
+      "person_signal": "first",
+      "note": "Sustained \u201cwe/our/us\u201d narration presents Danny and Maeve as participants reflecting on their loss."
+    },
+    {
+      "quote_id": "q03413",
+      "person_signal": "first",
+      "note": "\u201cWe had stepped\u201d is participating narration; the embedded \u201cyou\u201d is a generic metaphor."
+    },
+    {
+      "quote_id": "q03414",
+      "person_signal": "unmarked",
+      "note": "The external description lacks a diagnostic narrator pronoun and cannot alone establish third person."
+    },
+    {
+      "quote_id": "q03415",
+      "person_signal": "non_base",
+      "note": "Vocative and imperatives identify character speech addressed to Maeve."
+    },
+    {
+      "quote_id": "q03416",
+      "person_signal": "first",
+      "note": "Danny explicitly recounts his childhood, mother, memories, and perception of Maeve as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03417",
+      "person_signal": "non_base",
+      "note": "Colloquial imperatives and direct advice are character speech, not base narration."
+    },
+    {
+      "quote_id": "q03418",
+      "person_signal": "first",
+      "note": "The participating narrator recounts actions he and Celeste took with their children."
+    },
+    {
+      "quote_id": "q03419",
+      "person_signal": "non_base",
+      "note": "Story-specific \u201cyou\u201d addresses an interlocutor in dialogue rather than sustaining second-person narration."
+    },
+    {
+      "quote_id": "q03420",
+      "person_signal": "first",
+      "note": "Danny narrates his unwanted medical career as \u201cI\u201d; the conditional \u201cyou\u201d is a generic aside."
+    },
+    {
+      "quote_id": "q03421",
+      "person_signal": "first",
+      "note": "The narrator retrospectively judges his own fifteen-year-old interpretation in first person."
+    },
+    {
+      "quote_id": "q03422",
+      "person_signal": "first",
+      "note": "The participating narrator describes his absent mother and his own former beliefs and emotional response."
+    },
+    {
+      "quote_id": "q03423",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism is gnomic rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q03424",
+      "person_signal": "unmarked",
+      "note": "A description of a named child alone does not distinguish first-person narration about another character from third person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.waterstones.com/special/pdf/9781526614971.pdf",
+      "title": "The Dutch House \u2014 Chapter 1 excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained authorized opening excerpt repeatedly uses \u201cI,\u201d \u201cmy,\u201d and \u201cwe\u201d as Danny narrates his own childhood and later conversations with Maeve."
+    },
+    {
+      "url": "https://lithub.com/ann-patchett-discusses-her-new-novel-the-dutch-house/",
+      "title": "Ann Patchett Discusses Her New Novel, The Dutch House",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In an author interview, Patchett says she intended to write the novel in first person and that Danny was the narrator, contrasting that choice with Maeve's viewpoint and third person."
+    },
+    {
+      "url": "https://time.com/5686818/ann-patchett-the-dutch-house-interview/",
+      "title": "Ann Patchett Explains Why She Had to Totally Rewrite Her New Novel The Dutch House And Her Problem with Villains",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Patchett explicitly states that she wrote the book in first person and explains that Danny's limited knowledge controls what the narrative can reveal."
+    },
+    {
+      "url": "https://www.washingtonpost.com/gender-identity/ann-patchett-refuses-to-buy-a-smartphone-maybe-thats-why-shes-written-so-many-books/",
+      "title": "Ann Patchett refuses to buy a smartphone. Maybe that\u2019s why she\u2019s written so many books.",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The article states that the entire story is seen from Danny's point of view and identifies the novel as Patchett's return to first-person narration, corroborated by her comments about Danny telling his story."
+    },
+    {
+      "url": "https://www.capradio.org/news/npr/story?storyid=762888874",
+      "title": "Motherless Children Make Their Own Family In Ann Patchett's 'The Dutch House'",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The NPR review explicitly describes the novel as written in first person from Danny's adult point of view."
+    },
+    {
+      "url": "https://www.americamagazine.org/faith/2019/10/15/review-ann-patchetts-liars-and-questionable-saints/",
+      "title": "Review: Ann Patchett\u2019s liars and questionable saints",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review identifies Danny as the novel's single narrator, whose perspective develops as he ages, providing evidence against alternating narrators."
+    }
+  ],
+  "search_log": [
+    "Searched for authorized excerpts using \u201cThe Dutch House Ann Patchett excerpt,\u201d \u201cfirst chapter,\u201d and publisher/retailer-domain variants; opened a sustained Waterstones-hosted Chapter 1 PDF.",
+    "Searched for explicit POV evidence using \u201cThe Dutch House first person narrator Danny,\u201d \u201cpoint of view,\u201d and \u201cnarrated by\u201d; opened author interviews in Literary Hub, Time, and The Washington Post plus an NPR review.",
+    "Searched specifically for \u201calternating narrators,\u201d \u201cmultiple narrators,\u201d and \u201cthird person\u201d; found no evidence of sustained narration in another person, while America Magazine explicitly identified Danny as the single narrator.",
+    "The Waterstones FAQ page returned HTTP 403 when opened, so it was treated as a dead end and not used as evidence; its separate downloadable excerpt was accessible and evaluated directly.",
+    "Publisher product-page searches chiefly returned synopsis or audiobook-performer information, which was not used to infer grammatical narrative person."
+  ],
+  "person_note": "The event quotations repeatedly expose Danny as a participating retrospective narrator through \u201cI,\u201d \u201cmy,\u201d \u201cwe,\u201d and \u201cour.\u201d Dialogue and gnomic uses of first or second person are local and were excluded, while isolated descriptions of other characters were left unmarked rather than misclassified as third person. The authorized opening independently displays sustained first-person narration, and multiple author interviews and credible reviews establish Danny's first-person viewpoint across the whole novel, with one source explicitly identifying him as the single narrator. No credible evidence of alternating base sections was found; the only limitation is that the sustained prose excerpt covers the opening rather than the entire text, but whole-book structural sources resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_067",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T04:56:52.146555+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ab67a3708610556884642863793aecadfda9f185a763ec6f1d9bd07037068b85"
+  }
+}

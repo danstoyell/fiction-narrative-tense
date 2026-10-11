@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:THE WIDOW|John Grisham",
+  "quotes": [
+    {
+      "quote_id": "q10081",
+      "person_signal": "third",
+      "note": "Despite extensive dialogue, the surrounding narration externally names Simon, reports his perceptions and history, and uses third-person pronouns without a participating narrator."
+    },
+    {
+      "quote_id": "q10082",
+      "person_signal": "non_base",
+      "note": "This clipped conversational fragment is character speech and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q10083",
+      "person_signal": "unclear",
+      "note": "The mark-stripped first-person fragment may be dialogue; its local narrative status cannot be resolved."
+    },
+    {
+      "quote_id": "q10084",
+      "person_signal": "third",
+      "note": "Sustained narratorial exposition discusses Simon and Wally externally, including evaluative commentary, with no participating narrator framing it."
+    },
+    {
+      "quote_id": "q10085",
+      "person_signal": "unmarked",
+      "note": "The short passage refers to an unnamed character as he, which alone cannot distinguish third-person narration from a first-person narrator describing someone else."
+    },
+    {
+      "quote_id": "q10086",
+      "person_signal": "third",
+      "note": "A sustained expository paragraph narrates Wally's actions and future powers externally in third person with no participating narrator."
+    },
+    {
+      "quote_id": "q10087",
+      "person_signal": "third",
+      "note": "Sustained narration externally follows Simon while representing his thoughts and realizations through he/him, diagnosing third-person limited narration."
+    },
+    {
+      "quote_id": "q10088",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Simon does not identify the base narrator."
+    },
+    {
+      "quote_id": "q10089",
+      "person_signal": "third",
+      "note": "The long scene externally narrates Simon's actions, perceptions, memories, and private motives in sustained third person; embedded speech and thought do not change the base voice."
+    },
+    {
+      "quote_id": "q10090",
+      "person_signal": "unclear",
+      "note": "The clipped phrase lacks enough syntax and context to identify either a narrator or speech."
+    },
+    {
+      "quote_id": "q10091",
+      "person_signal": "unclear",
+      "note": "The mark-stripped first-person address is likely speech, but its boundaries and local status are unresolved."
+    },
+    {
+      "quote_id": "q10092",
+      "person_signal": "unmarked",
+      "note": "This impersonal fragment contains possible narration but no narrator-participation evidence."
+    },
+    {
+      "quote_id": "q10093",
+      "person_signal": "unmarked",
+      "note": "The brief reference to Simon in a subordinate clause is insufficient by itself to establish narrative person."
+    },
+    {
+      "quote_id": "q10094",
+      "person_signal": "third",
+      "note": "Three consecutive story-specific sentences externally describe Simon, his marriage, and his conduct through Simon/he with no participating narrator."
+    },
+    {
+      "quote_id": "q10095",
+      "person_signal": "unmarked",
+      "note": "The impersonal statement identifies no narrating position."
+    },
+    {
+      "quote_id": "q10096",
+      "person_signal": "unclear",
+      "note": "This context-free question could be dialogue or thought and does not securely expose base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/the-widow",
+      "title": "The Widow by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's official, authorized Chapter 1 excerpt sustains external third-person narration centered on Simon Latch, including access to his thoughts, and matches the voice found in the quote evidence."
+    },
+    {
+      "url": "https://thoughtsfromthemountaintop.com/2026/05/23/audiobook-review-the-widow-by-john-grisham-innocent-until-proven-guilty/",
+      "title": "Audiobook Review: The Widow by John Grisham \u2013 Innocent Until Proven Guilty?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reviewer who received the book from NetGalley and Doubleday explicitly states that the book is told in third person and distinguishes Simon from the narrator."
+    },
+    {
+      "url": "https://www.supersummary.com/the-widow-grisham/chapters-27-39-summary/",
+      "title": "The Widow Chapters 27-39 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Analysis of an interior thirteen-chapter section says the point of view remains mostly focused on Simon and discusses his externally presented internal monologue, corroborating continued third-person limited narration beyond the opening."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Grisham The Widow 2025 excerpt Simon Latch\" and located the authorized Chapter 1 excerpt on the author's site.",
+    "Searched site:jgrisham.com, site:doubleday.com, and title-plus-\"Chapter 1\" combinations for publisher or author excerpts; the author site supplied the strongest authorized prose, while no separate Doubleday excerpt was found.",
+    "Searched \"The Widow\" John Grisham with \"third-person,\" \"point of view,\" \"narrator,\" and \"perspective\"; found an explicit whole-book third-person statement in an ARC/audiobook review.",
+    "Opened SuperSummary analyses for Chapters 1-13 and 27-39 to check interior POV continuity; the later section describes the viewpoint as mostly focused on Simon.",
+    "Opened the Minnesota Star Tribune excerpt, but it substantially duplicated the opening material already available from the author's official site and was not treated as independent structural proof.",
+    "Reviewed additional reviews and a Queen's University Belfast repository copy of a critical article; they described Simon as the protagonist but did not explicitly establish grammatical narrative person."
+  ],
+  "person_note": "The controlling narration is third-person limited, primarily centered on Simon Latch. Multiple Goodreads passages provide sustained external narration of Simon's actions, perceptions, thoughts, and motives, while first-person fragments are dialogue or lack enough context to be treated as narration. The official Chapter 1 excerpt independently exhibits the same third-person voice, an explicit whole-book review identifies the novel as third person, and interior structural analysis indicates that Simon-focused perspective continues later. The authorized source covers only the opening, but the interior quote evidence and broader web descriptions resolve that scope limitation; no credible evidence suggests sustained first- or second-person sections.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_092",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:34:09.055195+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4520d62df9ca2b675dcf2b436577b2ae46f7b5be22646d9099762cde1d2b983c"
+  }
+}

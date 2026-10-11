@@ -1,0 +1,430 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:LESSONS IN CHEMISTRY|Bonnie Garmus",
+  "quotes": [
+    {
+      "quote_id": "q06582",
+      "person_signal": "non_base",
+      "note": "Elizabeth's spoken address to her television audience; second-person wording is dialogue."
+    },
+    {
+      "quote_id": "q06583",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech, not base narration."
+    },
+    {
+      "quote_id": "q06584",
+      "person_signal": "non_base",
+      "note": "Character speech with a brief attribution; the bare third-person beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06585",
+      "person_signal": "non_base",
+      "note": "General exhortation with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q06586",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than character-participating narration."
+    },
+    {
+      "quote_id": "q06587",
+      "person_signal": "non_base",
+      "note": "Character address; inclusive first-person language belongs to the speaker."
+    },
+    {
+      "quote_id": "q06588",
+      "person_signal": "non_base",
+      "note": "General aphoristic commentary without a diagnostic narrator."
+    },
+    {
+      "quote_id": "q06589",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation, not independently diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q06590",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; brief external beats do not establish person on their own."
+    },
+    {
+      "quote_id": "q06591",
+      "person_signal": "non_base",
+      "note": "Generalization without story-specific narrator participation."
+    },
+    {
+      "quote_id": "q06592",
+      "person_signal": "unmarked",
+      "note": "Possible reflective narration, but it contains no narrator or character reference that identifies person."
+    },
+    {
+      "quote_id": "q06593",
+      "person_signal": "non_base",
+      "note": "General hypothetical and rhetorical address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q06594",
+      "person_signal": "third",
+      "note": "External narration identifies a character as she and reports her recurring experience from outside the story."
+    },
+    {
+      "quote_id": "q06595",
+      "person_signal": "non_base",
+      "note": "Harriet's directly quoted advice; you refers to Elizabeth within dialogue."
+    },
+    {
+      "quote_id": "q06596",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about humans, without diagnostic story narration."
+    },
+    {
+      "quote_id": "q06597",
+      "person_signal": "non_base",
+      "note": "Quoted character address rather than base narration."
+    },
+    {
+      "quote_id": "q06598",
+      "person_signal": "non_base",
+      "note": "Quoted instructional speech."
+    },
+    {
+      "quote_id": "q06599",
+      "person_signal": "non_base",
+      "note": "General rhetorical reflection without a person-bearing narrator."
+    },
+    {
+      "quote_id": "q06600",
+      "person_signal": "non_base",
+      "note": "Inclusive first-person generalization, not participating story narration."
+    },
+    {
+      "quote_id": "q06601",
+      "person_signal": "third",
+      "note": "External narrator reports a male character's realization and thought while describing his action."
+    },
+    {
+      "quote_id": "q06602",
+      "person_signal": "third",
+      "note": "Sustained external narration describes Elizabeth and her private attitudes in third person."
+    },
+    {
+      "quote_id": "q06603",
+      "person_signal": "third",
+      "note": "External narration explicitly attributes realization and evaluation to Elizabeth as she."
+    },
+    {
+      "quote_id": "q06604",
+      "person_signal": "third",
+      "note": "External narrator renders a male character's thoughts about Elizabeth in third person."
+    },
+    {
+      "quote_id": "q06605",
+      "person_signal": "non_base",
+      "note": "First-person language is explicitly attributed character speech."
+    },
+    {
+      "quote_id": "q06606",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using impersonal one."
+    },
+    {
+      "quote_id": "q06607",
+      "person_signal": "third",
+      "note": "External narration summarizes Elizabeth's attitude and prior speech in third person."
+    },
+    {
+      "quote_id": "q06608",
+      "person_signal": "non_base",
+      "note": "Dialogue predominates; the short third-person action and attribution beats are not independently diagnostic."
+    },
+    {
+      "quote_id": "q06609",
+      "person_signal": "non_base",
+      "note": "First-person plural and you occur in quoted conversational address."
+    },
+    {
+      "quote_id": "q06610",
+      "person_signal": "non_base",
+      "note": "Inclusive gnomic statement rather than story narration."
+    },
+    {
+      "quote_id": "q06611",
+      "person_signal": "non_base",
+      "note": "General exhortation, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q06612",
+      "person_signal": "third",
+      "note": "External narrator attributes an observation to Six-Thirty in third person."
+    },
+    {
+      "quote_id": "q06613",
+      "person_signal": "non_base",
+      "note": "Television-show address; you denotes the audience within speech."
+    },
+    {
+      "quote_id": "q06614",
+      "person_signal": "non_base",
+      "note": "General aphoristic observation without diagnostic base narration."
+    },
+    {
+      "quote_id": "q06615",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to a character's quoted address."
+    },
+    {
+      "quote_id": "q06616",
+      "person_signal": "non_base",
+      "note": "Dialogue explicitly attributed to he; you addresses another character."
+    },
+    {
+      "quote_id": "q06617",
+      "person_signal": "non_base",
+      "note": "Quoted speech addressed to Mr. Roth."
+    },
+    {
+      "quote_id": "q06618",
+      "person_signal": "non_base",
+      "note": "Directly quoted speech."
+    },
+    {
+      "quote_id": "q06619",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the isolated she action plus quoted signature line is too brief to establish narrator participation."
+    },
+    {
+      "quote_id": "q06620",
+      "person_signal": "non_base",
+      "note": "Quoted television address."
+    },
+    {
+      "quote_id": "q06621",
+      "person_signal": "non_base",
+      "note": "Inclusive first-person speech addressed to an audience."
+    },
+    {
+      "quote_id": "q06622",
+      "person_signal": "non_base",
+      "note": "Gnomic description; generic you does not indicate sustained second-person narration."
+    },
+    {
+      "quote_id": "q06623",
+      "person_signal": "non_base",
+      "note": "Quoted rhetorical speech with inclusive ourselves."
+    },
+    {
+      "quote_id": "q06624",
+      "person_signal": "non_base",
+      "note": "First-person conversational recommendation, not base narration."
+    },
+    {
+      "quote_id": "q06625",
+      "person_signal": "non_base",
+      "note": "Quoted exchange; repeated you is interpersonal address."
+    },
+    {
+      "quote_id": "q06626",
+      "person_signal": "third",
+      "note": "External narrator reports a male character's assumptions and prior experience in third person."
+    },
+    {
+      "quote_id": "q06627",
+      "person_signal": "unmarked",
+      "note": "A bare third-person visual description does not by itself establish the controlling narrator."
+    },
+    {
+      "quote_id": "q06628",
+      "person_signal": "third",
+      "note": "Although speech predominates, the sustained cutaway to an unrelated living room is external third-person scene narration."
+    },
+    {
+      "quote_id": "q06629",
+      "person_signal": "unmarked",
+      "note": "Story-world historical summary contains no participating or externally referenced character."
+    },
+    {
+      "quote_id": "q06630",
+      "person_signal": "non_base",
+      "note": "Clipped first-person speech by Calvin; fuller searchable context begins with an attribution to Calvin."
+    },
+    {
+      "quote_id": "q06631",
+      "person_signal": "third",
+      "note": "External narrator reports a woman's private assumption in third person."
+    },
+    {
+      "quote_id": "q06632",
+      "person_signal": "third",
+      "note": "An external third-person frame describes Six-Thirty transmitting an internal message while pressing his ear to Elizabeth."
+    },
+    {
+      "quote_id": "q06633",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person-plural comparison, not participating story narration."
+    },
+    {
+      "quote_id": "q06634",
+      "person_signal": "unclear",
+      "note": "Fragment lacks quotation boundaries and enough local structure to identify its voice."
+    },
+    {
+      "quote_id": "q06635",
+      "person_signal": "non_base",
+      "note": "First-person forms occur in an explicitly attributed dialogue exchange."
+    },
+    {
+      "quote_id": "q06636",
+      "person_signal": "third",
+      "note": "External narration reports a female character's knowledge and emotional state."
+    },
+    {
+      "quote_id": "q06637",
+      "person_signal": "non_base",
+      "note": "Extended speech explicitly attributed to he; its first person is the speaker and its she references a hypothetical homemaker."
+    },
+    {
+      "quote_id": "q06638",
+      "person_signal": "non_base",
+      "note": "Quoted speech explicitly attributed to Elizabeth."
+    },
+    {
+      "quote_id": "q06639",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; ourselves belongs to Calvin's speech."
+    },
+    {
+      "quote_id": "q06640",
+      "person_signal": "non_base",
+      "note": "Dialogue predominates; short third-person action beats do not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q06641",
+      "person_signal": "non_base",
+      "note": "Quoted advice with brief speech and action attributions."
+    },
+    {
+      "quote_id": "q06642",
+      "person_signal": "third",
+      "note": "Sustained external narration summarizes Calvin's traits, reputation, and behavior in third person."
+    },
+    {
+      "quote_id": "q06643",
+      "person_signal": "non_base",
+      "note": "Quoted speech explicitly attributed to she."
+    },
+    {
+      "quote_id": "q06644",
+      "person_signal": "non_base",
+      "note": "First-person declaration explicitly attributed to Elizabeth."
+    },
+    {
+      "quote_id": "q06645",
+      "person_signal": "third",
+      "note": "External narrator gives direct access to Elizabeth's knowledge, wishes, and judgment while calling her she."
+    },
+    {
+      "quote_id": "q06646",
+      "person_signal": "non_base",
+      "note": "Extended dialogue with external beats; all first-person language belongs to Elizabeth or Calvin."
+    },
+    {
+      "quote_id": "q06647",
+      "person_signal": "non_base",
+      "note": "Clipped dialogue spoken by Elizabeth; searchable surrounding text includes her continuing speech and subsequent attribution."
+    },
+    {
+      "quote_id": "q06648",
+      "person_signal": "non_base",
+      "note": "First-person speech explicitly attributed to Elizabeth."
+    },
+    {
+      "quote_id": "q06649",
+      "person_signal": "unmarked",
+      "note": "Possible character-inflected reflection, but the clipped passage lacks a referent that identifies narrative person."
+    },
+    {
+      "quote_id": "q06650",
+      "person_signal": "third",
+      "note": "After a brief spoken word, the external narrator explains the formation and nature of the characters' friendship."
+    },
+    {
+      "quote_id": "q06651",
+      "person_signal": "third",
+      "note": "External narrator presents a counterfactual report of Calvin's private judgment and describes both partners as he, she, and they."
+    },
+    {
+      "quote_id": "q06652",
+      "person_signal": "third",
+      "note": "External narration attributes long-held knowledge to a male character."
+    },
+    {
+      "quote_id": "q06653",
+      "person_signal": "third",
+      "note": "External narrator recounts a specific audience event and Calvin's actions around a short quotation."
+    },
+    {
+      "quote_id": "q06654",
+      "person_signal": "non_base",
+      "note": "Quoted statement explicitly attributed to Elizabeth."
+    },
+    {
+      "quote_id": "q06655",
+      "person_signal": "unmarked",
+      "note": "Past-tense generalization without a character or participating narrator reference."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/lessons-in-chemistry-9781804993477/extracts/2679-lessons-in-chemistry",
+      "title": "Extract | Lessons in Chemistry by Bonnie Garmus",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-authorized extract spanning Chapters 1 and 2 sustains external third-person narration and accesses the thoughts of Madeline, Elizabeth, and Walter."
+    },
+    {
+      "url": "https://www.audible.com/blog/interview-lessons-in-chemistry-bonnie-garmus",
+      "title": "Why Bonnie Garmus decided to break the rules with Lessons in Chemistry",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Author confirms that the novel moves among ten character viewpoints, sometimes within a paragraph. This establishes shifting focalization but does not itself specify grammatical person."
+    },
+    {
+      "url": "https://www.gradesaver.com/lessons-in-chemistry/study-guide/literary-elements",
+      "title": "Lessons in Chemistry Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Whole-book literary guide explicitly identifies the narrator and point of view as third-person narrative."
+    },
+    {
+      "url": "https://www.bookrags.com/questions/english-and-literature/Lessons_in_Chemistry/what-is-the-narrator-point-of-view-in-the-novel-lessons-in-chemistry--258584",
+      "title": "What is the narrator point of view in the novel, Lessons in Chemistry?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "BookRags explicitly describes the novel as narrated in third person by an omniscient narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"Lessons in Chemistry\" Bonnie Garmus excerpt, first chapter, publisher, and Google Books; opened the Penguin Books Australia authorized extract and the Penguin Random House title page.",
+    "Searched \"Lessons in Chemistry\" with point of view, third person, narrator, multiple narrators, and alternating point of view; opened the Audible author interview, GradeSaver literary-elements page, and BookRags POV answer.",
+    "Searched for interior and Six-Thirty excerpts. Bookreporter surfaced Chapters 1 and 3 but timed out when opened; The StoryGraph only described an Apple Books Chapters 1-5 excerpt and did not expose the prose.",
+    "Searched the exact apparent first-person exceptions. The fuller context of \"I used to tell myself every day was new\" identifies Calvin as the speaker, while \"People like my father preach love\" occurs inside Elizabeth's extended dialogue.",
+    "No opened source indicated sustained first- or second-person base sections; multiple viewpoints were consistently character focalizations within third-person narration."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, moving omnisciently or through multiple character focalizers, including Six-Thirty. Numerous Goodreads event passages independently expose external access to Elizabeth's, Calvin's, Madeline's, and Six-Thirty's thoughts, agreeing with the authorized Penguin opening and whole-book POV descriptions. The two clipped first-person event quotes are local speech by Calvin and Elizabeth when restored to context, so they do not create alternating narration. The main scope limitation is that the Tier A extract covers only the opening, but this is offset by many interior quote passages, the author's whole-book account of ten focal viewpoints, and two explicit whole-book third-person descriptions; no credible contrary structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_078",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:58:02.861658+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dce8eaa10a24226b86761c1048f04c4558bf339beeca0b10080d0a34147f925b"
+  }
+}

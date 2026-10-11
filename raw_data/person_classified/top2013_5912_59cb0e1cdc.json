@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:5912",
+  "quotes": [
+    {
+      "quote_id": "q00047",
+      "person_signal": "first",
+      "note": "The participating narrator describes his own life using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "non_base",
+      "note": "Aphoristic material about grown-ups does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "first",
+      "note": "The narrator reflects on his own childhood and experience using repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "non_base",
+      "note": "Universal gnomic address using \u201cyou\u201d and \u201cI,\u201d not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "first",
+      "note": "The narrator identifies himself as the child who knew and used the described routes."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "non_base",
+      "note": "Lettie\u2019s direct speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "first",
+      "note": "The participating narrator recounts retreating into books using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "first",
+      "note": "Although much of the passage is dialogue, the surrounding narration locates the women relative to the narrator as \u201con my right\u201d and \u201con my left.\u201d"
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "non_base",
+      "note": "General aphoristic material about monsters does not expose the narrating position."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "first",
+      "note": "The narrator directly describes his own preference for myths using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "Character speech and its attribution do not establish the base narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "non_base",
+      "note": "Gnomic dialogue about memory does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "non_base",
+      "note": "Character dialogue about mortality and memory is not base-narration evidence."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "first",
+      "note": "The narrator recounts how books shaped his own upbringing using \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "first",
+      "note": "The participating narrator recounts lying on the bed and reading using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "non_base",
+      "note": "A character\u2019s direct speech using \u201cI\u201d is local dialogue, not narrator evidence."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech is not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "first",
+      "note": "The participating narrator describes what he saw and understood using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "non_base",
+      "note": "The inclusive \u201cwe\u201d belongs to a general maxim about aging, not story-specific narration."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "non_base",
+      "note": "The phrase \u201cI suspect\u201d occurs within a gnomic statement and does not establish the story\u2019s controlling narration by itself."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "first",
+      "note": "The narrator reports his own childhood belief using \u201cI knew.\u201d"
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "non_base",
+      "note": "A general observation about childhood memory does not identify narrative person."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "non_base",
+      "note": "Direct speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "first",
+      "note": "The narrator extensively characterizes his childhood self using \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "unmarked",
+      "note": "Possible base narration describes a woman as \u201cshe,\u201d but this isolated description does not reveal whether the narrator participates."
+    },
+    {
+      "quote_id": "q00072",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to a character does not constitute second-person narration."
+    },
+    {
+      "quote_id": "q00073",
+      "person_signal": "first",
+      "note": "The participating narrator recounts his childhood reaction to peas using \u201cme\u201d and \u201cI.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.theguardian.com/books/2013/jun/10/extract-ocean-end-lane-neil-gaiman",
+      "title": "Extract: The Ocean at the End of the Lane by Neil Gaiman",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained exclusive extract presents the adult protagonist\u2019s return in continuous first-person narration; its scope is limited to the opening frame."
+    },
+    {
+      "url": "https://journal.finfar.org/articles/power-and-all-its-secrets-engendering-magic-in-neil-gaimans-the-ocean-at-the-end-of-the-lanea/",
+      "title": "\u201cPower and all its secrets\u201d: Engendering Magic in Neil Gaiman\u2019s The Ocean at the End of the Lane",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Scholarly structural analysis identifies an unnamed first-person narrator in the frame and explains that the central childhood narrative follows the same narrator as a child."
+    },
+    {
+      "url": "https://omc.obta.al.uw.edu.pl/myth-survey/item/466",
+      "title": "The Ocean at the End of a Lane \u2014 Our Mythical Childhood Survey",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "University-affiliated scholarly survey explicitly states that the novel is narrated in first person by its unnamed protagonist and describes the adult frame, childhood recollection, and closing return."
+    },
+    {
+      "url": "https://www.salon.com/2013/06/16/the_ocean_at_the_end_of_the_lane_neil_gaiman_returns/",
+      "title": "\u201cThe Ocean at the End of the Lane\u201d: Neil Gaiman returns",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A contemporary review states that most action is recounted in first person and that the same unnamed narrator appears as an adult in the opening and closing frame."
+    }
+  ],
+  "search_log": [
+    "Searched: site:neilgaiman.com \"The Ocean at the End of the Lane\" excerpt; no usable sustained author-site excerpt surfaced.",
+    "Searched: site:harpercollins.com \"Ocean at the End of the Lane\" excerpt Neil Gaiman; no usable publisher excerpt surfaced.",
+    "Searched: \"The Ocean at the End of the Lane\" \"first-person\" narrator.",
+    "Searched: \"The Ocean at the End of the Lane\" point of view narrator frame narrative.",
+    "Searched: Neil Gaiman Ocean at End of Lane read excerpt chapter one official.",
+    "Searched: The Ocean at the End of the Lane excerpt \"I wore a black suit\"; located and opened The Guardian\u2019s sustained exclusive extract.",
+    "Searched Guardian and Google Books domains for extracts or previews; the Guardian extract was usable, while no accessible Google Books passage was used.",
+    "Opened and evaluated the Guardian extract, Fafnir scholarly article, Our Mythical Childhood Survey entry, and Salon review."
+  ],
+  "person_note": "The event quotes repeatedly expose an unnamed participating narrator recalling his own childhood as \u201cI.\u201d The sustained opening extract independently confirms first-person narration in the adult frame, while two scholarly structural sources establish that the central childhood recollection and closing frame belong to that same first-person narrator. Dialogue, universal maxims, and the isolated \u201cshe\u201d description are local or nondiagnostic rather than contrary person shifts. The opening excerpt alone has limited scope, but the whole-book analyses resolve that limitation; no credible evidence of sustained second- or third-person sections was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_053",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T10:25:43.744560+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f0586f6d429acf47d365ed23745a014034f26782512c37e599b4fb250fc0c242"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:710",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement with no diagnostic base-narrator participation."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim; \u201cyou\u201d is universal rather than a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "unmarked",
+      "note": "Reader-inclusive authorial \u201cwe\u201d orients the narration but does not make the narrator a story participant."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Verse-like gnomic material does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "General observation about madness, without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "unclear",
+      "note": "A clipped chant or rhyme whose local speaker and narrative status are unresolved."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents Jack externally, attributes his thoughts, and contains only character dialogue."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "third",
+      "note": "The reader-inclusive \u201cus\u201d observes the hotel and its inhabitants from outside the action; the narrator is nonparticipating."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "unmarked",
+      "note": "\u201cThose of us\u201d is a generic comparison, while the brief description of Beezer alone cannot establish narrator participation."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Tyler\u2019s actions and enters his perceptions without a participating narrator."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "non_base",
+      "note": "Direct speech; its \u201cyou\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "unmarked",
+      "note": "Narratorial description with universal \u201cus all,\u201d which does not establish a participating narrator."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "unclear",
+      "note": "Severely clipped prose lacks enough structure or attribution for classification."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "unclear",
+      "note": "Clipped clause lacks an antecedent and sufficient narratorial context."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "Quoted dialogue; the pronouns belong to Burny\u2019s speech."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "unclear",
+      "note": "Fragmentary comparison lacks enough surrounding narration to determine its function."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "unmarked",
+      "note": "The short attribution \u201cJack thinks\u201d is compatible with third-person narration but is too limited by itself to prove the controlling person."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "unmarked",
+      "note": "A single external description using \u201che\u201d is insufficient to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "Unquoted first-person direct thought belongs to a character, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "third",
+      "note": "The narrator depicts Tansy and Gorg externally; \u201cI think we all know\u201d is an intrusive reader-directed aside, not participation in the story."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "non_base",
+      "note": "Generic advice rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative with an implied generic addressee, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "Direct speech; its \u201cyou\u201d is addressed by one character to another."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "unmarked",
+      "note": "A short description of \u201che\u201d lacks enough context to establish narrator person."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "unmarked",
+      "note": "Impersonal scenic description contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "unmarked",
+      "note": "A single statement about \u201che\u201d does not distinguish first- from third-person framing."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism does not expose the book\u2019s base narration."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "unclear",
+      "note": "Clipped simile lacks a governing clause and identifiable narrative context."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks attribution and sufficient context."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "unclear",
+      "note": "Clipped continuation with an unresolved antecedent cannot responsibly identify narrator person."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "unclear",
+      "note": "Fragmentary comparison lacks a speaker and surrounding context."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "unmarked",
+      "note": "Extended environmental narration is compatible with the base voice but contains no diagnostic participant reference."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "unmarked",
+      "note": "The sensory \u201cyour\u201d is generic reader address, not narration of a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "third",
+      "note": "Fred\u2019s \u201cI\u201d occurs in dialogue; the outside speech beat then presents Fred and Jack, including Jack\u2019s knowledge, from a nonparticipating position."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unclear",
+      "note": "Clipped participial clause lacks a subject and governing narrative context."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; first-person language belongs to the speaker."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.chron.com/life/article/Black-House-by-Stephen-King-and-Peter-Straub-2071846.php",
+      "title": "'Black House' by Stephen King and Peter Straub",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized, permission-granted opening excerpt sustains an external aerial survey, moves the reader-inclusive narrator through French Landing, and presents Bobby Dulac and Tom Lund externally."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780375504396",
+      "title": "BLACK HOUSE",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The professional review explicitly describes the device as an unusual \u201cthird-person plural narration\u201d that continues throughout the book."
+    },
+    {
+      "url": "https://www.deseret.com/2001/10/28/19613683/black-house-a-bright-spot-in-horror/",
+      "title": "'Black House' a bright spot in horror",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The contemporary review characterizes the book\u2019s controlling voice as plural and omniscient, consistent with a nonparticipating third-person narrator despite its use of \u201cwe.\u201d"
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/culture-magazines/king-stephen-1947",
+      "title": "King, Stephen (1947\u2013)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Literary analysis explains that the narration equates reader and narrator in a first-person-plural rhetorical device and quotes the voice observing a murder scene; under the task\u2019s participation criterion, this is an external observer rather than a character narrator."
+    },
+    {
+      "url": "https://www.sfgate.com/books/article/king-and-straub-let-their-horrors-run-wild-2857867.php",
+      "title": "King and Straub let their horrors run wild",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review reports shifting point of view among a gallery of heroes and villains, corroborating omniscient external focalization rather than autonomous first-person character sections."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Black House\" Stephen King Peter Straub excerpt opening narrator.",
+    "Searched: \"Black House\" King Straub point of view, third person, first-person plural, and plural omniscient narrator.",
+    "Searched for publisher, author, library, Google Books, scholarly, and reputable-review discussions of the narrative structure.",
+    "Opened the authorized Houston Chronicle excerpt, Publishers Weekly review, Deseret News review, Encyclopedia.com analysis, and SFGATE review before using them.",
+    "Google Books confirmed the edition and displayed a limited-preview table of contents but exposed no sustained prose in the accessible page, so it was not used as person evidence.",
+    "Searches also found informal reader discussions and an inaccessible A.V. Club page; these were unnecessary once accessible stronger sources established the structure."
+  ],
+  "person_note": "The controlling voice is an intrusive, omniscient, nonparticipating narrator that often folds the reader into an authorial \u201cwe\u201d and moves like an invisible camera among characters. Under this methodology, grammatical \u201cwe\u201d is not FIRST because the narrator is not a character participating in the represented events. The sustained quote passages externally narrate Jack, Tyler, Tansy, and others, while q00019 is character thought, q00034\u2019s \u201cI\u201d is dialogue, and q00020\u2019s \u201cI/we\u201d is an authorial aside. Web sources independently describe the whole-book device as third-person plural or plural omniscient; sources calling it first-person plural are describing its rhetoric and reader alignment, not a homodiegetic narrator. No credible evidence shows sustained autonomous first-person character narration, so the base-person label is THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_035",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:55:19.383786+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fe2241c6e75d25b30f98c285852eaf499ccc84efbcec8991f70e96c9ea57ac91"
+  }
+}

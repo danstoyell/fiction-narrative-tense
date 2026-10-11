@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:6488",
+  "quotes": [
+    {
+      "quote_id": "q00651",
+      "person_signal": "non_base",
+      "note": "A standalone maxim with no diagnostic base narrator."
+    },
+    {
+      "quote_id": "q00652",
+      "person_signal": "unmarked",
+      "note": "The brief third-person reference is insufficient by itself; the generic \u201cyou\u201d is gnomic, not second-person narration."
+    },
+    {
+      "quote_id": "q00653",
+      "person_signal": "unmarked",
+      "note": "A single sentence about \u201che\u201d does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00654",
+      "person_signal": "non_base",
+      "note": "A general observation about witnesses, not story-specific narration."
+    },
+    {
+      "quote_id": "q00655",
+      "person_signal": "unmarked",
+      "note": "Possible narrative summary, but it contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q00656",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in dialogue; the short speech beats do not establish base person."
+    },
+    {
+      "quote_id": "q00657",
+      "person_signal": "non_base",
+      "note": "Direct address spoken to Nate, not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q00658",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect narrative thought, but no narrator person is exposed."
+    },
+    {
+      "quote_id": "q00659",
+      "person_signal": "third",
+      "note": "Sustained external narration summarizes a character\u2019s career, success, and misery in third person."
+    },
+    {
+      "quote_id": "q00660",
+      "person_signal": "non_base",
+      "note": "Dialogue and general social commentary do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00661",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough syntax and context for attribution."
+    },
+    {
+      "quote_id": "q00662",
+      "person_signal": "third",
+      "note": "Sustained narration presents Nate\u2019s thoughts, memories, and Rachel externally as he/she."
+    },
+    {
+      "quote_id": "q00663",
+      "person_signal": "third",
+      "note": "A sustained interior scene narrates Nate\u2019s perceptions, actions, travel, and surrounding people externally in third person."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/es/novela-negra-misterio-y-thriller/34636-libro-el-testamento-9788466356923/fragmento",
+      "title": "El testamento \u2014 fragmento",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Penguin Random House\u2019s authorized Spanish excerpt spans the opening chapters: Troy narrates sustained prose as \u201cyo\u201d before the text changes to sustained third-person narration after his death and continues into chapter 4."
+    },
+    {
+      "url": "https://manuals.plus/m/3350ab77b9bf779eca555497611c39adac2be2fce0bab333330c14c3c5059c9c.pdf",
+      "title": "Revisiting John Grisham: A Critical Companion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Mary Beth Pringle\u2019s Greenwood Press literary study states that Phelan narrates the first two chapters and that third-person voices begin relating events in chapter 3."
+    },
+    {
+      "url": "https://www.deseret.com/1999/3/3/19432269/new-novel-a-testament-to-grishams-storytelling-skills/",
+      "title": "New novel a testament to Grisham's storytelling skills",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The Associated Press review explicitly reports that a man narrates the first two chapters and a third-person narrator continues after his suicide."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-testament/style.html",
+      "title": "John Grisham Writing Styles in The Testament",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The study guide explicitly identifies Troy\u2019s first-person opening, the subsequent transition to third person, and third-person narration for the remainder centered on Nate."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJohn Grisham The Testament official excerpt chapter one\u201d and publisher-domain variants; opened the Penguin Random House Spanish excerpt and the Penguin Random House US title page.",
+    "Searched \u201cThe Testament John Grisham point of view third person narrator,\u201d \u201cfirst person,\u201d and \u201cfirst two chapters\u201d; opened the BookRags structural description and the Associated Press review hosted by Deseret News.",
+    "Searched for scholarly structural evidence and opened Mary Beth Pringle\u2019s Revisiting John Grisham; verified its Greenwood/Bloomsbury publication metadata through Bloomsbury and Google Books.",
+    "Checked excerpt, narrator, alternating-point-of-view, and multiple-narrator results; discarded results for Margaret Atwood\u2019s similarly titled The Testaments and sources that supplied only synopsis grammar or unsupported snippets.",
+    "No credible source contradicted the documented first-person chapters 1\u20132 followed by sustained third-person narration from chapter 3 onward."
+  ],
+  "person_note": "The novel has sustained base narration in two persons: Troy Phelan narrates chapters 1\u20132 in first person, then his death ends that voice and chapter 3 begins the sustained third-person narrative that controls the remainder. The Goodreads quotations sample only the later Nate-centered portion; its longer event passages independently corroborate that third-person phase, while dialogue and generic \u201cyou\u201d statements are non-diagnostic. The authorized multi-chapter excerpt, scholarly structural analysis, and two explicit secondary descriptions agree, leaving no material structural conflict; the quote sample\u2019s omission of the opening is the main coverage limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_033",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T19:08:41.016685+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "84e2afd684d176b6d912185aca321d055072cd25c0117fa2bdec0f50bdb25814"
+  }
+}

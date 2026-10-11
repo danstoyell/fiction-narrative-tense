@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:SOMEONE ELSE'S SHOES|Jojo Moyes",
+  "quotes": [
+    {
+      "quote_id": "q08168",
+      "person_signal": "non_base",
+      "note": "Universal second-person advice; gnomic material does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08169",
+      "person_signal": "non_base",
+      "note": "General definition of strength, not story-specific narration."
+    },
+    {
+      "quote_id": "q08170",
+      "person_signal": "non_base",
+      "note": "Dr. Kovitz's attributed speech; its first-person plural language is dialogue."
+    },
+    {
+      "quote_id": "q08171",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about women over forty; narrator participation is not exposed."
+    },
+    {
+      "quote_id": "q08172",
+      "person_signal": "third",
+      "note": "Sustained external narration focalized through Sam; the embedded universal 'you' statements are her attributed thoughts."
+    },
+    {
+      "quote_id": "q08173",
+      "person_signal": "non_base",
+      "note": "Generalized second-person assertions, not sustained narration of a story-specific 'you' protagonist."
+    },
+    {
+      "quote_id": "q08174",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization incorporating Nisha's disposition; it is not independently diagnostic of narrator person."
+    },
+    {
+      "quote_id": "q08175",
+      "person_signal": "non_base",
+      "note": "Fragmentary generalized reflection about dancing and hardship, without a diagnostic base narrator."
+    },
+    {
+      "quote_id": "q08176",
+      "person_signal": "non_base",
+      "note": "Conversation attributed to Nisha; first- and second-person pronouns belong to speech."
+    },
+    {
+      "quote_id": "q08177",
+      "person_signal": "third",
+      "note": "After a quoted question, sustained narration externally describes Sam's actions, circumstances, and feelings."
+    },
+    {
+      "quote_id": "q08178",
+      "person_signal": "non_base",
+      "note": "Predominantly attributed dialogue; the brief third-person speech beats do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q08179",
+      "person_signal": "non_base",
+      "note": "Imperative proverb rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08180",
+      "person_signal": "third",
+      "note": "Close third-person narration reports the focal character's imagining, reaction, and circumstances."
+    },
+    {
+      "quote_id": "q08181",
+      "person_signal": "third",
+      "note": "The third-person frame attributes the ensuing imperatives to the focal character's thoughts."
+    },
+    {
+      "quote_id": "q08182",
+      "person_signal": "non_base",
+      "note": "Advisor-like speech or locally voiced advice; its 'you' does not constitute base second-person narration."
+    },
+    {
+      "quote_id": "q08183",
+      "person_signal": "non_base",
+      "note": "Explicitly tagged speech; second-person address belongs to the speaker."
+    },
+    {
+      "quote_id": "q08184",
+      "person_signal": "third",
+      "note": "Third-person narration explicitly frames the imperatives as the focal character's thoughts."
+    },
+    {
+      "quote_id": "q08185",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Sam's observation and her mother's attitude is compatible with third person but too brief to establish narrator participation by itself."
+    },
+    {
+      "quote_id": "q08186",
+      "person_signal": "non_base",
+      "note": "First-person confession identified upstream as dialogue, not participating base narration."
+    },
+    {
+      "quote_id": "q08187",
+      "person_signal": "non_base",
+      "note": "Colloquial first-person response identified upstream as speech, not base narration."
+    },
+    {
+      "quote_id": "q08188",
+      "person_signal": "unmarked",
+      "note": "Brief external description of an unnamed 'she' is consistent with third person but lacks enough local context to be independently diagnostic."
+    },
+    {
+      "quote_id": "q08189",
+      "person_signal": "unmarked",
+      "note": "The short external clause is compatible with third person; 'We need to turn here' is an embedded example of her directions, not first-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.com/articles/someone-elses-shoes-excerpt/",
+      "title": "Start Reading Jojo Moyes\u2019 New Novel, Someone Else\u2019s Shoes",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized publisher excerpt presents Chapter One as sustained close third-person narration centered on Sam. First-person passages are explicitly framed as silent recitation, imagined speech, or thought."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-someone-elses-shoes/styles.html",
+      "title": "Jojo Moyes Writing Styles in Someone Else's Shoes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly describes the novel as third-person omniscient, focused mainly on Sam and Nisha with occasional Phil chapters, and explains that focal storylines shift without changing grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Someone Else's Shoes\" Jojo Moyes excerpt publisher and opened Penguin Random House's authorized Chapter One excerpt.",
+    "Searched \"Someone Else's Shoes\" Jojo Moyes \"third person\" and opened BookRags' explicit whole-book point-of-view analysis.",
+    "Searched the title with point of view, narrator, alternating, third-person, first chapter, and publisher-domain terms.",
+    "Penguin Australia offered an extract link but its accessible page did not expose additional prose; catalog and synopsis pages were nondiagnostic.",
+    "Other results described dual or alternating character perspectives, but either lacked source authority or referred to focalization rather than a change in narrative person; none credibly reported first- or second-person base sections."
+  ],
+  "person_note": "The controlling narration is third person, chiefly focalized through Sam and Nisha and sometimes Phil. Multiple Goodreads event passages show an external narrator reporting characters' actions and thoughts, while the authorized opening independently demonstrates sustained close third-person narration. BookRags' whole-book structural account confirms that later shifts are between character storylines within third person, not between grammatical persons. Apparent first-person material is dialogue or direct thought, and apparent second-person material is universal advice, imperatives, or thought content. The publisher excerpt covers only Chapter One, but the whole-book description and interior quote evidence remove the main scope uncertainty; no credible contrary structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_082",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:20:42.243131+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5f9311bf8779270f0a299726e2f1186e61ddda7e5b65f4dac3cf6aad7c085d11"
+  }
+}

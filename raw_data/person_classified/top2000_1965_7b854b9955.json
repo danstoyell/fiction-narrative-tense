@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:1965",
+  "quotes": [
+    {
+      "quote_id": "q00194",
+      "person_signal": "non_base",
+      "note": "The first-person plural pronouns occur in Mr. Pendergast's dialogue; the attribution does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q00195",
+      "person_signal": "first",
+      "note": "Sustained event narration uses I, my, and me for the participating narrator reflecting on her own work and feelings."
+    },
+    {
+      "quote_id": "q00196",
+      "person_signal": "non_base",
+      "note": "The first-person plural pronoun occurs in Ma Richards's quoted speech, not base narration."
+    },
+    {
+      "quote_id": "q00197",
+      "person_signal": "non_base",
+      "note": "Gnomic description of illness contains no diagnostic evidence about the base narrator."
+    },
+    {
+      "quote_id": "q00198",
+      "person_signal": "first",
+      "note": "The participating narrator recounts her own realization with I."
+    },
+    {
+      "quote_id": "q00199",
+      "person_signal": "non_base",
+      "note": "The pronouns occur in a character's spoken prayer; the third-person attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00200",
+      "person_signal": "non_base",
+      "note": "This universal maxim does not expose the narrative voice."
+    },
+    {
+      "quote_id": "q00201",
+      "person_signal": "first",
+      "note": "The narrator introduces her personal experience with I discovered; subsequent uses of you are generic and do not indicate second-person narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.readinggroupguides.com/reviews/gap-creek/excerpt",
+      "title": "Gap Creek by Robert Morgan | Excerpt",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reprinted with Simon & Schuster's permission narrates Julie's actions, perceptions, and thoughts as I during the kitchen fire."
+    },
+    {
+      "url": "https://www.bookbrowse.com/author_interviews/full/index.cfm/author_number/282/robert-morgan",
+      "title": "Robert R. Morgan author interview",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In a publisher-permitted author interview, Morgan explains that Julie tells her own story and that he constructed the novel around her voice."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/robert-morgan/gap-creek/",
+      "title": "GAP CREEK | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review identifies protagonist Julie as the narrator of the tale and follows her narration from her family losses through her marriage and later calamities."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-gap-creek/style.html",
+      "title": "Robert Morgan Writing Styles in Gap Creek",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis explicitly describes the novel as first-person narration from Julie Harmon's perspective throughout."
+    }
+  ],
+  "search_log": [
+    "Searched \"Gap Creek\" \"Robert Morgan\" excerpt, first chapter, narrator, point of view, and first person.",
+    "Opened and inspected the permission-granted ReadingGroupGuides excerpt, the BookBrowse author interview, the Kirkus review, and the BookRags point-of-view analysis.",
+    "Ran targeted searches for Julie's narrative voice, first-person narrator, scholarly discussion, and possible alternating or framed narration; no credible evidence of another controlling person was found.",
+    "Searches also returned The Road from Gap Creek excerpts and narration descriptions; these were excluded because that title is a sequel narrated by Julie's daughter, not the work being classified."
+  ],
+  "person_note": "The event quotes repeatedly expose Julie's participating I-narration, while dialogue and gnomic quotations are nondiagnostic. An authorized sustained interior excerpt independently shows the same voice; Morgan's own account and whole-book reviews identify Julie as the narrator, with one source explicitly calling the novel first-person. No sustained second- or third-person base sections or framing narrator were found. The excerpt alone has limited interior scope, but the whole-book descriptions resolve that coverage limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.231924+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "15ad0f511eff787566948281c7b62c24c4d9cfd88c5ada8e27271b6e7925babf"
+  }
+}

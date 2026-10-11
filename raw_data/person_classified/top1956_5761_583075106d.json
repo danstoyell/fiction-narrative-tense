@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1956:5761",
+  "quotes": [
+    {
+      "quote_id": "q00583",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed she does not exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00584",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person subject is insufficient to establish the base narrator."
+    },
+    {
+      "quote_id": "q00585",
+      "person_signal": "third",
+      "note": "Outside the character's self-directed speech, the beat narrates him externally; the quoted I and you are local speech."
+    },
+    {
+      "quote_id": "q00586",
+      "person_signal": "first",
+      "note": "Narratorial I reports the speaker's perception and emotional state."
+    },
+    {
+      "quote_id": "q00587",
+      "person_signal": "first",
+      "note": "Story-specific we describes the narrator's separation from another participant."
+    },
+    {
+      "quote_id": "q00588",
+      "person_signal": "non_base",
+      "note": "A general aphorism without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q00589",
+      "person_signal": "unmarked",
+      "note": "This isolated she/him description could occur in either first- or third-person narration; you is generic."
+    },
+    {
+      "quote_id": "q00590",
+      "person_signal": "first",
+      "note": "Participating I recounts an unsuccessful effort involving a story-specific you."
+    },
+    {
+      "quote_id": "q00591",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address uses generic you rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q00592",
+      "person_signal": "non_base",
+      "note": "Direct speech pronouns identify the speakers, not the base narrator."
+    },
+    {
+      "quote_id": "q00593",
+      "person_signal": "first",
+      "note": "The narrator participates as me/I while recounting another character's actions."
+    },
+    {
+      "quote_id": "q00594",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur within direct speech."
+    },
+    {
+      "quote_id": "q00595",
+      "person_signal": "first",
+      "note": "A sustained participating narrator recounts personal travel, choices, knowledge, and shared activity as I/we."
+    },
+    {
+      "quote_id": "q00596",
+      "person_signal": "non_base",
+      "note": "A generalized reflection using spectator and generic you is not story-specific narration."
+    },
+    {
+      "quote_id": "q00597",
+      "person_signal": "third",
+      "note": "The external beat presents a character as he; the following I and you belong to his quoted reflection."
+    },
+    {
+      "quote_id": "q00598",
+      "person_signal": "unmarked",
+      "note": "Although the sentence follows a she-character's experience, this isolated passage does not rule out a participating observer."
+    },
+    {
+      "quote_id": "q00599",
+      "person_signal": "unmarked",
+      "note": "A single description of him and his qualities does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00600",
+      "person_signal": "non_base",
+      "note": "First-person statements occur entirely within direct speech."
+    },
+    {
+      "quote_id": "q00601",
+      "person_signal": "non_base",
+      "note": "Generic you expresses a maxim rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q00602",
+      "person_signal": "non_base",
+      "note": "Generic you appears in an aphorism."
+    },
+    {
+      "quote_id": "q00603",
+      "person_signal": "non_base",
+      "note": "Gnomic fragments and generic you do not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00604",
+      "person_signal": "first",
+      "note": "Participating I recalls knowing and seeing Chancel and compares the surrounding people with myself."
+    },
+    {
+      "quote_id": "q00605",
+      "person_signal": "non_base",
+      "note": "An abstract maxim about life contains no diagnostic narratorial position."
+    },
+    {
+      "quote_id": "q00606",
+      "person_signal": "first",
+      "note": "Participating I interprets Lambert's boredom and refers to the group's lives as ours."
+    },
+    {
+      "quote_id": "q00607",
+      "person_signal": "non_base",
+      "note": "A brief philosophical maxim is nondiagnostic."
+    },
+    {
+      "quote_id": "q00608",
+      "person_signal": "first",
+      "note": "The narration outside Scriassine's speech identifies the participating observer as me."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://litres.com/book/simone-beauvoir-de/the-mandarins-39808393/read/",
+      "title": "Read the book: The Mandarins",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized HarperCollins ebook excerpt provides sustained Chapter One narration centered externally on Henri, consistently using he/him while reporting his actions and thoughts."
+    },
+    {
+      "url": "https://www.boundary2.org/2016/10/page/4/",
+      "title": "Alex Woloch: Bleak House: 19, 20, 21",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "This peer-reviewed essay identifies The Mandarins as a novel whose persistent narrative voices occupy first- and third-person modes and alternate without a master frame."
+    },
+    {
+      "url": "https://www.newyorker.com/magazine/1956/09/15/experience-of-our-time",
+      "title": "Experience of Our Time",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The contemporary review explicitly says the point of view changes in alternate chapters from third to first, identifying Henri as the focus of the third-person plot and Anne as the first-person narrator."
+    },
+    {
+      "url": "https://www.marxists.org/history/etol/writers/mage/1957/xx/debeauvoir.htm",
+      "title": "A Political Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A transcribed 1957 International Socialist Review article describes each chapter as containing a first-person section told by Anne and a third-person section centered mainly on Henri."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Mandarins\" Simone de Beauvoir narrative point of view Anne first person Henri third person.",
+    "Searched: \"The Mandarins\" Simone de Beauvoir excerpt first chapter Anne Henri narration.",
+    "Searched Google Books specifically for The Mandarins, Anne, Henri, and third-person evidence; no usable accessible preview was returned.",
+    "Searched academic and institutional domains for \"The Mandarins\" with \"first person,\" \"third person,\" and \"heterodiegetic.\"",
+    "Searched: \"The Mandarins\" \"alternate chapters\" first person third person review.",
+    "Searched exact Goodreads passages beginning \"I hadn't known Chancel very well\" and \"I could easily understand why Lambert was bored\"; these confirmed attribution to the book but produced no independent authorized interior excerpt.",
+    "Opened the LitRes/HarperCollins excerpt and the New Yorker, boundary 2, and International Socialist Review pages. Several potentially useful repository PDFs were inaccessible because of timeout, size, 403, or method errors."
+  ],
+  "person_note": "The novel has two sustained base modes: Anne Dubreuilh narrates her sections as a participating first-person I, while Henri Perron's sections use third-person narration. The quotes repeatedly expose Anne's base voice, especially q00595, q00604, and q00606, and contain third-person beats consistent with Henri's strand. Short isolated she/he passages were conservatively left unmarked. The authorized opening independently demonstrates Henri's third-person mode, while whole-book structural sources explicitly establish persistent alternation between Anne's first-person and Henri's third-person sections. Some quote snippets lack section labels, but the independent structural evidence resolves that limited uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_010",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:39:15.260652+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e0554c7d9af19486916a642f24e3abe4709982d89b4d6eb5a33a15f678deedea"
+  }
+}

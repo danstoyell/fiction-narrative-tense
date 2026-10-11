@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:IRON FLAME|Rebecca Yarros",
+  "quotes": [
+    {
+      "quote_id": "q07733",
+      "person_signal": "first",
+      "note": "Outside Xaden's speech, the action beat describes the narrator as \u201cmy,\u201d exposing participating first-person narration."
+    },
+    {
+      "quote_id": "q07734",
+      "person_signal": "non_base",
+      "note": "Standalone character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07735",
+      "person_signal": "non_base",
+      "note": "Tairn's quoted speech contains first-person language, but the outside attribution does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q07736",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection does not identify the story's controlling narrator."
+    },
+    {
+      "quote_id": "q07737",
+      "person_signal": "first",
+      "note": "The outside speech beat \u201cI tease\u201d diagnostically exposes participating narration."
+    },
+    {
+      "quote_id": "q07738",
+      "person_signal": "first",
+      "note": "The story-world cohort summary includes the narrator in \u201cus\u201d and \u201cour,\u201d supporting participating first-person narration."
+    },
+    {
+      "quote_id": "q07739",
+      "person_signal": "first",
+      "note": "The speech attribution \u201cI whisper\u201d exposes the participating narrator, independently of the quoted dialogue."
+    },
+    {
+      "quote_id": "q07740",
+      "person_signal": "non_base",
+      "note": "Standalone direct speech is not evidence of base-narration person."
+    },
+    {
+      "quote_id": "q07741",
+      "person_signal": "non_base",
+      "note": "Dragon dialogue dominates; the external speech tags do not reveal the narrator's participation."
+    },
+    {
+      "quote_id": "q07742",
+      "person_signal": "non_base",
+      "note": "Dialogue between Andarna and Tairn does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07743",
+      "person_signal": "first",
+      "note": "Outside the dialogue, \u201che points to me\u201d identifies the narrator as a story participant."
+    },
+    {
+      "quote_id": "q07744",
+      "person_signal": "first",
+      "note": "The narratorial action \u201cI fold my arms\u201d directly exposes first-person base narration."
+    },
+    {
+      "quote_id": "q07745",
+      "person_signal": "non_base",
+      "note": "Tairn's quoted offer is character speech rather than narratorial evidence."
+    },
+    {
+      "quote_id": "q07746",
+      "person_signal": "non_base",
+      "note": "Unattributed gnomic statement does not establish narrative person."
+    },
+    {
+      "quote_id": "q07747",
+      "person_signal": "non_base",
+      "note": "Xaden's direct address to Violet is dialogue and does not identify the narrator."
+    },
+    {
+      "quote_id": "q07748",
+      "person_signal": "unclear",
+      "note": "Missing framing leaves the first-person address unresolved between dialogue and narration."
+    },
+    {
+      "quote_id": "q07749",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about love is nondiagnostic for base narration."
+    },
+    {
+      "quote_id": "q07750",
+      "person_signal": "non_base",
+      "note": "Clipped but recognizable conversational exchange does not expose the narrator."
+    },
+    {
+      "quote_id": "q07751",
+      "person_signal": "first",
+      "note": "Narration outside the dialogue uses \u201cmy hand,\u201d \u201cmy head,\u201d and \u201cI give,\u201d clearly identifying a participating narrator."
+    },
+    {
+      "quote_id": "q07752",
+      "person_signal": "non_base",
+      "note": "Standalone threat addressed to Dain is character speech."
+    },
+    {
+      "quote_id": "q07753",
+      "person_signal": "unclear",
+      "note": "The isolated first-person statement lacks enough framing to distinguish speech from narration."
+    },
+    {
+      "quote_id": "q07754",
+      "person_signal": "unclear",
+      "note": "The isolated direct address lacks enough framing to determine whether it is speech or base narration."
+    },
+    {
+      "quote_id": "q07755",
+      "person_signal": "non_base",
+      "note": "Attributed addendum is paratext and not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q07756",
+      "person_signal": "non_base",
+      "note": "Xaden's plea to Violet is direct speech rather than narratorial evidence."
+    },
+    {
+      "quote_id": "q07757",
+      "person_signal": "first",
+      "note": "The narratorial dialogue tag \u201cI whisper\u201d exposes participating first-person narration."
+    },
+    {
+      "quote_id": "q07758",
+      "person_signal": "first",
+      "note": "Despite clipped quotation marks, the outside action \u201cI turn toward her\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q07759",
+      "person_signal": "non_base",
+      "note": "Conversational rhetorical turn is speech and does not establish base narration."
+    },
+    {
+      "quote_id": "q07760",
+      "person_signal": "first",
+      "note": "Sustained event narration uses \u201cI\u201d and \u201cme,\u201d unmistakably exposing a participating narrator."
+    },
+    {
+      "quote_id": "q07761",
+      "person_signal": "non_base",
+      "note": "Standalone conversational question does not identify the narrator."
+    },
+    {
+      "quote_id": "q07762",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, \u201cmy cheek\u201d places the narrator within the narrated scene."
+    },
+    {
+      "quote_id": "q07763",
+      "person_signal": "non_base",
+      "note": "Dragon dialogue dominates, and the external tags do not expose the narrator's person."
+    },
+    {
+      "quote_id": "q07764",
+      "person_signal": "first",
+      "note": "The narratorial beat \u201cacross my face\u201d identifies the narrator as a participant."
+    },
+    {
+      "quote_id": "q07765",
+      "person_signal": "non_base",
+      "note": "Standalone quoted utterance is character speech."
+    },
+    {
+      "quote_id": "q07766",
+      "person_signal": "first",
+      "note": "The outside action \u201cI snuggle\u201d diagnostically exposes first-person narration."
+    },
+    {
+      "quote_id": "q07767",
+      "person_signal": "unclear",
+      "note": "The isolated first-person direct address lacks framing that would distinguish speech from narration."
+    },
+    {
+      "quote_id": "q07768",
+      "person_signal": "unclear",
+      "note": "The isolated first-person address lacks affirmative speech or narration framing."
+    },
+    {
+      "quote_id": "q07769",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about mankind does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q07770",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the third-person speech beat alone cannot establish third-person base narration."
+    },
+    {
+      "quote_id": "q07771",
+      "person_signal": "first",
+      "note": "The outside phrase \u201cmy ears\u201d identifies the narrator as a participant hearing Xaden."
+    },
+    {
+      "quote_id": "q07772",
+      "person_signal": "non_base",
+      "note": "Recovered correspondence is an embedded epigraph, not the controlling narrative."
+    },
+    {
+      "quote_id": "q07773",
+      "person_signal": "non_base",
+      "note": "Xaden's sustained speech to Violet does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07774",
+      "person_signal": "first",
+      "note": "The narratorial phrase \u201caround us\u201d includes the narrator among the scene's participants."
+    },
+    {
+      "quote_id": "q07775",
+      "person_signal": "first",
+      "note": "Sustained event narration repeatedly uses \u201cmy,\u201d \u201cme,\u201d and \u201cI,\u201d directly establishing first-person narration."
+    },
+    {
+      "quote_id": "q07776",
+      "person_signal": "non_base",
+      "note": "Xaden's dialogue dominates; the external beat does not reveal the narrator's person."
+    },
+    {
+      "quote_id": "q07777",
+      "person_signal": "first",
+      "note": "The narratorial action \u201cI shake my head\u201d exposes participating first-person narration."
+    },
+    {
+      "quote_id": "q07778",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs within character dialogue and is not base-narration evidence."
+    },
+    {
+      "quote_id": "q07779",
+      "person_signal": "non_base",
+      "note": "Directly addressed conversational assertion does not expose the narrator."
+    },
+    {
+      "quote_id": "q07780",
+      "person_signal": "unmarked",
+      "note": "The event narration supplies external action and speech tags but no diagnostic evidence of narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q07781",
+      "person_signal": "first",
+      "note": "The event narration says heads turn \u201cour direction,\u201d including the narrator within the scene."
+    },
+    {
+      "quote_id": "q07782",
+      "person_signal": "non_base",
+      "note": "Standalone conversational utterance is not narratorial evidence."
+    },
+    {
+      "quote_id": "q07783",
+      "person_signal": "unclear",
+      "note": "The unframed imperative cannot be resolved between speech, thought, and narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.princetonbookreview.com/book_pages/discussion/iron-flame-print.pdf",
+      "title": "Iron Flame Discussion Questions",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The completed-book discussion guide explicitly identifies Chapter 66 as a final switch from Violet's point of view to Xaden's; the quote evidence establishes that the narratorial form used for the participating viewpoints is first person."
+    },
+    {
+      "url": "https://miscellanyoffiction.com/summaries/iron-flame/",
+      "title": "Iron Flame by Rebecca Yarros \u2014 Chapter-by-Chapter Summary & Ending Explained",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The complete 66-chapter structural summary identifies Violet as the main focal character and Chapter 66 as Xaden's point-of-view chapter, corroborating a final narrator change without a change of grammatical person."
+    },
+    {
+      "url": "https://awritersnotebook.substack.com/p/lessons-from-reading-iron-flame",
+      "title": "Lessons From Reading: Iron Flame",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes the novel as written from the first-person perspective of Violet Sorrengail; its statement is useful corroboration but overlooks or compresses the final Xaden chapter."
+    },
+    {
+      "url": "https://publishinguide.com/iron-flame-igniting-the-revolution/",
+      "title": "Iron Flame, Igniting the Revolution",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review describes the book as told from Violet's perspective with one final chapter from Xaden's point of view, corroborating the whole-book narrator structure."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cIron Flame Rebecca Yarros official excerpt chapter first person Violet,\u201d \u201cpoint of view first person narrator Xaden final chapter,\u201d the author's site, Hachette, and Google Books.",
+    "Opened the author and Hachette title pages; both verified the work and Violet-centered premise, but their accessible text was synopsis rather than diagnostic narrative prose.",
+    "Located TODAY's authorized prepublication excerpt, but the original page was blocked by robots.txt; syndicated/search copies showed first-person prose, so it was treated as a discovery lead rather than cited as Tier A evidence.",
+    "Searched targeted combinations for \u201cfirst-person POV,\u201d \u201cViolet's point of view,\u201d \u201cfinal chapter Xaden,\u201d and narrative perspective; opened and compared whole-book structural descriptions and the Princeton discussion guide.",
+    "Follow-up research found no credible claim that any sustained section is narrated in second or third person; sources consistently describe Violet's perspective with a final Xaden point-of-view chapter."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly expose Violet as a participating first-person narrator in event narration and in narration surrounding dialogue. Web research corroborates that Violet controls nearly the entire novel and that Chapter 66 switches to Xaden's viewpoint. That switch does not warrant ALTERNATING because both narrators narrate as \u201cI\u201d; multiple first-person narrators remain FIRST under the methodology. Dialogue, aphorisms, and epigraph-like correspondence were kept separate from base narration. Confidence is medium because the accessible web support consists chiefly of explicit reviews and structural guides; the authorized TODAY excerpt could not be opened directly.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_082",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:20:42.241724+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c403fac111dbdbb0ed2a2f2a70a58e937866f819f3647e71c18da45090a072ed"
+  }
+}

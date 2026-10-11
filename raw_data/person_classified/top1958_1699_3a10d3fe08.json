@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1958:1699",
+  "quotes": [
+    {
+      "quote_id": "q00963",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first-person plural does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00964",
+      "person_signal": "third",
+      "note": "Dialogue is framed by external narration of several characters, including access to the customs inspector's thought."
+    },
+    {
+      "quote_id": "q00965",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unresolved 'he' does not by itself identify narrator participation."
+    },
+    {
+      "quote_id": "q00966",
+      "person_signal": "third",
+      "note": "Sustained external narration attributes reasoning to Johann Clement and summarizes his worldview."
+    },
+    {
+      "quote_id": "q00967",
+      "person_signal": "non_base",
+      "note": "A character addresses Ari in direct first-person speech."
+    },
+    {
+      "quote_id": "q00968",
+      "person_signal": "third",
+      "note": "The narrator externally follows Johann Clement and expands into sustained historical summary."
+    },
+    {
+      "quote_id": "q00969",
+      "person_signal": "unmarked",
+      "note": "Impersonal narratorial commentary contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q00970",
+      "person_signal": "unmarked",
+      "note": "A standalone historical statement does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q00971",
+      "person_signal": "non_base",
+      "note": "Political argument presented as direct character speech."
+    },
+    {
+      "quote_id": "q00972",
+      "person_signal": "non_base",
+      "note": "Predominantly direct dialogue; brief third-person speech beats do not independently diagnose the base narrator."
+    },
+    {
+      "quote_id": "q00973",
+      "person_signal": "third",
+      "note": "Sustained narration externally names Karen while reporting her perceptions, exhaustion, and changing mental state."
+    },
+    {
+      "quote_id": "q00974",
+      "person_signal": "unmarked",
+      "note": "The unresolved third-person subject and reported beliefs are too locally clipped to establish the narrator's position."
+    },
+    {
+      "quote_id": "q00975",
+      "person_signal": "unmarked",
+      "note": "Standalone historical exposition about Shoshanna lacks diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00976",
+      "person_signal": "non_base",
+      "note": "Direct conversation with only a nondiagnostic speech beat."
+    },
+    {
+      "quote_id": "q00977",
+      "person_signal": "unmarked",
+      "note": "A standalone historical report about Dr. Dering does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00978",
+      "person_signal": "third",
+      "note": "External scene narration follows Ari and his female companion through several locations; the biblical lines are embedded quotation."
+    },
+    {
+      "quote_id": "q00979",
+      "person_signal": "third",
+      "note": "External narration follows the pair and explicitly presents words arising in Kitty's mind."
+    },
+    {
+      "quote_id": "q00980",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00981",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00982",
+      "person_signal": "non_base",
+      "note": "Attributed aphorism, not base narration."
+    },
+    {
+      "quote_id": "q00983",
+      "person_signal": "unclear",
+      "note": "A clipped fragment with lost context and boundaries cannot be assigned responsibly."
+    },
+    {
+      "quote_id": "q00984",
+      "person_signal": "non_base",
+      "note": "Character-centered religious reflection classified upstream as dialogue; its local voice does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00985",
+      "person_signal": "third",
+      "note": "Sustained external historical narration and evaluative commentary describe the Yishuv and British institutions."
+    },
+    {
+      "quote_id": "q00986",
+      "person_signal": "non_base",
+      "note": "Direct political speech; first-person plural is spoken by a character."
+    },
+    {
+      "quote_id": "q00987",
+      "person_signal": "third",
+      "note": "Sustained external historical narration recounts British, Israeli, and Egyptian actions and adds narratorial evaluation."
+    },
+    {
+      "quote_id": "q00988",
+      "person_signal": "unmarked",
+      "note": "A rhetorical historical aside followed by a clipped fragment does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00989",
+      "person_signal": "third",
+      "note": "Sustained explanatory narration gives an external historical account of communal farming's development."
+    },
+    {
+      "quote_id": "q00990",
+      "person_signal": "third",
+      "note": "External narration follows Ari at the grave and explicitly attributes the final projected thought to him."
+    },
+    {
+      "quote_id": "q00991",
+      "person_signal": "third",
+      "note": "External historical narration recounts government actions and supplies evaluative commentary on the appeasers."
+    },
+    {
+      "quote_id": "q00992",
+      "person_signal": "third",
+      "note": "The narrator reports Jossi's deliberation and Sarah's habits and intentions across the same passage."
+    },
+    {
+      "quote_id": "q00993",
+      "person_signal": "third",
+      "note": "External narration characterizes Ari and reports the crushing effect of his private realism."
+    },
+    {
+      "quote_id": "q00994",
+      "person_signal": "non_base",
+      "note": "Direct explanatory speech; its second-person wording is not sustained second-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.posenlibrary.com/entry/exodus-0",
+      "title": "Exodus \u2014 Chapter Nineteen | Posen Library",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The opened curated-library excerpt begins Chapter Nineteen with consecutive external third-person sentences about the ship, Ari, and the assembled community; its short visible extent limits it to local corroboration."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/exodus/plot-analysis/",
+      "title": "Exodus: Full Book Analysis | SparkNotes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened full-book analysis explicitly identifies the novel as third-person omniscient with no single character serving as its narrating voice, and describes its five-book structure."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-exodus/style.html",
+      "title": "Leon Uris Writing Styles in Exodus | BookRags.com",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened Point of View section explicitly states that the story is told in third-person past tense."
+    },
+    {
+      "url": "https://geneticsmr.com/index.php/gmr/article/download/1347/831/4244",
+      "title": "Trauma, Memories, And A Lost Identity: A Tale Of Two People",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This opened scholarly close-reading states that the novel is third-person omniscient with no single character speaking for the whole book; it also reproduces a sustained Book 2 passage narrated externally about Yakov and Jossi."
+    }
+  ],
+  "search_log": [
+    "Searched \"Leon Uris Exodus novel excerpt first chapter publisher\" and opened the Posen Library Chapter Nineteen excerpt.",
+    "Searched \"Leon Uris Exodus novel point of view third person narrator\" and opened the explicit whole-book analyses from SparkNotes and BookRags.",
+    "Searched \"Exodus Leon Uris third-person omniscient\" and opened a scholarly comparative paper that explicitly describes the whole novel's narration and quotes an interior passage.",
+    "Searched \"Exodus Leon Uris first person narrator\" and \"Exodus Leon Uris alternating point of view epistolary\"; no opened source described sustained first-person, second-person, epistolary, or alternating base narration.",
+    "Checked Google Books and Open Library/Internet Archive records for preview text; Google Books exposed only bibliographic and promotional material, while the Internet Archive reader did not open in the web interface, so neither was used as person evidence."
+  ],
+  "person_note": "The quote set repeatedly shows a nonparticipating narrator moving among characters and reporting the private thoughts of Johann Clement, Karen, Kitty, Ari, Jossi, and Sarah, alongside broad historical exposition. First- and second-person forms occur only in dialogue, aphorism, embedded biblical language, or character reflection, not in controlling narration. The independent scholarly structural description and two explicit whole-book study-guide descriptions agree that the novel is third-person, while the curated Chapter Nineteen excerpt locally corroborates that form. No research source indicated alternating or constitutive first-person sections. The principal limitation is that the accessible authorized excerpt is short, but the extensive diagnostic quotes and whole-book structural evidence make the classification high-confidence THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_011",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T11:25:56.158762+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "66ec06db1b705a28952055f2df32661ace3774006a458364846b6ea398eb141a"
+  }
+}

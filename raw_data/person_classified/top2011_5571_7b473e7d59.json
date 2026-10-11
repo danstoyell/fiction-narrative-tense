@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:5571",
+  "quotes": [
+    {
+      "quote_id": "q01760",
+      "person_signal": "third",
+      "note": "Although much of the quote is dialogue, the surrounding narration describes Ayla, the First, and the zelandonia externally and reports the group's reaction from a nonparticipating position."
+    },
+    {
+      "quote_id": "q01761",
+      "person_signal": "unclear",
+      "note": "Clipped noun-phrase fragment with no recoverable narrating position."
+    },
+    {
+      "quote_id": "q01762",
+      "person_signal": "non_base",
+      "note": "The published opening excerpt confirms that this first-person wording is Jondalar's direct speech, not base narration; the upstream event bucket is therefore potentially misleading for person analysis."
+    },
+    {
+      "quote_id": "q01763",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in Levela's direct speech; the brief third-person speech tags do not provide enough sustained narration to diagnose the base voice independently."
+    },
+    {
+      "quote_id": "q01764",
+      "person_signal": "third",
+      "note": "Dialogue and Ayla's quoted thought are embedded within narration that identifies her as 'she' and reports her private knowledge from a nonparticipating narrating position."
+    },
+    {
+      "quote_id": "q01765",
+      "person_signal": "unclear",
+      "note": "Clipped place-name fragment with no recoverable narration."
+    },
+    {
+      "quote_id": "q01766",
+      "person_signal": "third",
+      "note": "Sustained narration externally presents Balderan and Wolf as 'he' and reports both characters' perceptions and motives without a participating narrator."
+    },
+    {
+      "quote_id": "q01767",
+      "person_signal": "third",
+      "note": "Sustained narration presents Ayla as 'she,' reports her developing interpretation, and embeds her thoughts within a nonparticipating narrative voice."
+    },
+    {
+      "quote_id": "q01768",
+      "person_signal": "third",
+      "note": "Despite clipping at both ends, the sustained passage renders a woman's hopes and relationship through third-person references without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780553383201",
+      "title": "The Land of Painted Caves | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized Chapter 1 excerpt sustains third-person narration across a group of travelers and individual characters, including access to Ayla's perception and thought, with first-person forms confined to dialogue or direct thought."
+    },
+    {
+      "url": "https://www.lovereading.co.uk/extract/7180/The-Land-of-Painted-Caves-by-Jean-M-Auel.html",
+      "title": "The Land of Painted Caves by Jean M. Auel \u2014 Extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The typeset 17-page extract reproduces the same Chapter 1 opening available from Penguin Random House, with third-person narration shifting among Ayla, Jondalar, Joharran, and others. It confirms that q01762 is Jondalar's dialogue but is not an independent second excerpt."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Land of Painted Caves\" \"Jean M. Auel\" excerpt and opened the Penguin Random House retail excerpt and the extended LoveReading typeset extract.",
+    "Searched \"The Land of Painted Caves\" \"third person\", narrator, and point of view; results did not yield a credible explicit whole-book POV analysis.",
+    "Searched publisher domains, including Penguin Random House and Hachette, for samples and excerpts; Hachette's title page advertised an excerpt but its accessible page exposed only descriptive copy.",
+    "Opened the Google Books record; it verified the edition and exposed book vocabulary but did not provide sufficiently accessible sustained prose for separate person evidence.",
+    "Searched the exact q01762 cave-lion wording; the extended opening extract located it inside Jondalar's direct speech and resolved the apparent first-person conflict."
+  ],
+  "person_note": "The base narration is third person. Multiple interior Goodreads passages sustain a nonparticipating narrator that reports the perceptions and private states of Ayla, Balderan, Wolf, and others, while the publisher-authorized opening independently shows the same pattern across an extended scene. The conspicuous first-person passage in q01762 is not a narrator switch: the recovered context identifies it as Jondalar's dialogue. Other first-person forms likewise occur in speech or direct thought. No credible evidence of sustained first- or second-person base sections was found. Confidence is med because both Tier A URLs present the same Chapter 1 opening rather than independent or whole-book coverage; under the methodology, one opening corroborated by interior Goodreads evidence supports med, not high. Audit: independent review retained THIRD, documented the duplicate opening, and downgraded confidence from high to med.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_050",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T03:17:09.387150+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "14af59ecf4224880fada81c451137639380cceec6b1b6605300bffc25d457f95"
+  }
+}

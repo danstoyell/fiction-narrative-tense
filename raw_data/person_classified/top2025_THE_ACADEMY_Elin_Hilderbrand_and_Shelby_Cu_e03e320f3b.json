@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:THE ACADEMY|Elin Hilderbrand and Shelby Cu",
+  "quotes": [
+    {
+      "quote_id": "q10498",
+      "person_signal": "non_base",
+      "note": "Generic aphorism without a story-specific narrator."
+    },
+    {
+      "quote_id": "q10499",
+      "person_signal": "non_base",
+      "note": "General maxim; its grammar does not expose base narration."
+    },
+    {
+      "quote_id": "q10500",
+      "person_signal": "unclear",
+      "note": "First-person character reflection, but the clipping does not distinguish base narration from speech, direct thought, or an embedded post."
+    },
+    {
+      "quote_id": "q10501",
+      "person_signal": "non_base",
+      "note": "General statement about education rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q10502",
+      "person_signal": "unclear",
+      "note": "Noun-phrase fragment with no recoverable narrating context."
+    },
+    {
+      "quote_id": "q10503",
+      "person_signal": "unmarked",
+      "note": "Possible narration about an unnamed she, but the short passage alone does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q10504",
+      "person_signal": "unclear",
+      "note": "Decontextualized list fragment."
+    },
+    {
+      "quote_id": "q10505",
+      "person_signal": "third",
+      "note": "The external attribution 'Charley thinks' identifies third-person narration around her thought."
+    },
+    {
+      "quote_id": "q10506",
+      "person_signal": "non_base",
+      "note": "Generic conditional maxim."
+    },
+    {
+      "quote_id": "q10507",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition using her, but too little context to rule out a participating narrator."
+    },
+    {
+      "quote_id": "q10508",
+      "person_signal": "non_base",
+      "note": "Generic maxim about quality."
+    },
+    {
+      "quote_id": "q10509",
+      "person_signal": "non_base",
+      "note": "Gnomic we is universal rather than the novel's story-specific collective narrator."
+    },
+    {
+      "quote_id": "q10510",
+      "person_signal": "unmarked",
+      "note": "Brief focalized statement about Audre; the named character alone is not diagnostic."
+    },
+    {
+      "quote_id": "q10511",
+      "person_signal": "non_base",
+      "note": "Generic conditional fragment."
+    },
+    {
+      "quote_id": "q10512",
+      "person_signal": "unclear",
+      "note": "Clipping leaves speech and narration boundaries unresolved."
+    },
+    {
+      "quote_id": "q10513",
+      "person_signal": "unmarked",
+      "note": "Impersonal event narration does not reveal narrator participation."
+    },
+    {
+      "quote_id": "q10514",
+      "person_signal": "unmarked",
+      "note": "Exposition about Ruth lacks enough context to establish narrator person."
+    },
+    {
+      "quote_id": "q10515",
+      "person_signal": "third",
+      "note": "Although dialogue dominates, repeated external beats and the final free-indirect sentence narrate Charley in third person."
+    },
+    {
+      "quote_id": "q10516",
+      "person_signal": "unmarked",
+      "note": "Brief exposition about Mr. Rivera is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q10517",
+      "person_signal": "third",
+      "note": "Sustained external narration names Cordelia while entering what she can recall, exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q10518",
+      "person_signal": "unclear",
+      "note": "Book-title list without narrating context."
+    },
+    {
+      "quote_id": "q10519",
+      "person_signal": "unclear",
+      "note": "First-person reflection is diagnostic only if it belongs to base narration; the isolated passage could instead be a speech, post, or direct thought."
+    },
+    {
+      "quote_id": "q10520",
+      "person_signal": "non_base",
+      "note": "Acknowledgments-style paratext, not story narration."
+    },
+    {
+      "quote_id": "q10521",
+      "person_signal": "third",
+      "note": "The dialogue itself is nondiagnostic, but the external attribution 'Mr. Rivera tells them' is a third-person narration beat."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.supersummary.com/the-academy-elin-hilderbrand/part-1-summary/",
+      "title": "The Academy Part 1 Summary & Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis explicitly identifies shifting third-person narration and recurring 'Tiffin Talks' chapters narrated in collective first person using we."
+    },
+    {
+      "url": "https://www.quercusbooks.co.uk/titles/elin-hilderbrand-3/the-academy/9781529445237/",
+      "title": "The Academy by Elin Hilderbrand | Quercus Books",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The publisher page reproduces Publishers Weekly's description of a gossipy collective voice and Booklist's description of roving points of view, corroborating the mixed narrative structure."
+    },
+    {
+      "url": "https://bingebooks.com/book/the-academy-5",
+      "title": "The Academy by Elin Hilderbrand",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained opening excerpt follows Audre externally in present-tense third person, including access to her thoughts and memories."
+    },
+    {
+      "url": "https://cravenwild.com/2026/08/19/the-academy-by-elin-hildebrand-and-shelby-cunningham/",
+      "title": "The Academy by Elin Hildebrand and Shelby Cunningham \u2013 CravenWild",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review describes regular story chapters interspersed with chapters that function like a Greek chorus, corroborating the structurally distinct collective sections."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and authors with first person, third person, narrator, point of view, excerpt, and first chapter terms.",
+    "Opened the Quercus publisher page; its review material identified roving points of view and a gossipy collective voice, though its displayed page did not expose the advertised excerpt directly.",
+    "Opened and inspected the sustained BingeBooks opening excerpt, which is third-person narration focalized through Audre.",
+    "Searched for the exact Goodreads first-person quotations; results reproduced the quotations but did not recover enough surrounding text to determine whether they are narration, speech, direct thought, or embedded material.",
+    "Searched specifically for collective first-person, Tiffin Talks, Greek chorus, and chapter structure; SuperSummary explicitly documented shifting third-person narration alternating with recurring collective-first-person Tiffin Talks sections.",
+    "Reviewed later-section summaries to confirm that shifting third-person narration continues beyond the opening and that the mixed structure is not merely an opening effect."
+  ],
+  "person_note": "The book alternates sustained narrative persons: most scenes use roving third-person limited narration, while recurring chapters titled 'Tiffin Talks' use a participating collective first-person we. The opening material and several quote narration beats corroborate the third-person strand. The isolated first-person-singular Goodreads quotations may be local speech, thought, posts, or chapel remarks, but this does not undermine the documented recurring first-person-plural chapters. The classification is ALTERNATING; confidence is medium because the whole-book configuration is supported by commercial analysis and publisher-carried review descriptions rather than authorized sustained excerpts of both strands.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_091",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:18:21.644195+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "82c339df02b03adee8664b2814f558c65d47d1032e43d3f7241891ea0bc925de"
+  }
+}

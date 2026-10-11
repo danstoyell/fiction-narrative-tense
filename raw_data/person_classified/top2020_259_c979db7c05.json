@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:259",
+  "quotes": [
+    {
+      "quote_id": "q05125",
+      "person_signal": "non_base",
+      "note": "A general maxim without a story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q05126",
+      "person_signal": "unmarked",
+      "note": "Narratorial commentary about Noose\u2019s courtroom, but it contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q05127",
+      "person_signal": "non_base",
+      "note": "The sustained \u201cyou\u201d is direct speech addressed to Jake, not second-person base narration."
+    },
+    {
+      "quote_id": "q05128",
+      "person_signal": "unmarked",
+      "note": "A brief statement about \u201che\u201d is compatible with either first- or third-person framing when isolated."
+    },
+    {
+      "quote_id": "q05129",
+      "person_signal": "non_base",
+      "note": "Character dialogue; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q05130",
+      "person_signal": "third",
+      "note": "Between dialogue turns, unframed narration externally names Jake and reports his internal reaction and preparedness."
+    },
+    {
+      "quote_id": "q05131",
+      "person_signal": "unmarked",
+      "note": "The sentence reports a character\u2019s state and motivation, but the isolated \u201che\u201d lacks enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q05132",
+      "person_signal": "non_base",
+      "note": "Quoted advice spoken by a character rather than controlling narration."
+    },
+    {
+      "quote_id": "q05133",
+      "person_signal": "non_base",
+      "note": "An extended dialogue exchange with only short attribution beats."
+    },
+    {
+      "quote_id": "q05134",
+      "person_signal": "non_base",
+      "note": "The visible \u201cI\u201d occurs in a generalizing gnomic statement and does not establish a participating story narrator."
+    },
+    {
+      "quote_id": "q05135",
+      "person_signal": "unmarked",
+      "note": "Base exposition about Bible Belt terminology contains no diagnostic narrator-person reference."
+    },
+    {
+      "quote_id": "q05136",
+      "person_signal": "third",
+      "note": "Sustained unframed scene narration depicts the spectators externally as \u201cthey\u201d across several sentences."
+    },
+    {
+      "quote_id": "q05137",
+      "person_signal": "unmarked",
+      "note": "Jake is named externally, but the closing \u201cyou\u201d is a generic generalization rather than second-person story narration."
+    },
+    {
+      "quote_id": "q05138",
+      "person_signal": "unclear",
+      "note": "The fragment is clipped at both ends and lacks enough local structure for responsible person attribution."
+    },
+    {
+      "quote_id": "q05139",
+      "person_signal": "non_base",
+      "note": "Predominantly character speech with a short third-person action beat."
+    },
+    {
+      "quote_id": "q05140",
+      "person_signal": "non_base",
+      "note": "A context-free maxim that does not identify the base narrator."
+    },
+    {
+      "quote_id": "q05141",
+      "person_signal": "non_base",
+      "note": "Character speech with only a brief external action beat."
+    },
+    {
+      "quote_id": "q05142",
+      "person_signal": "non_base",
+      "note": "Two speech turns without narratorial text."
+    },
+    {
+      "quote_id": "q05143",
+      "person_signal": "non_base",
+      "note": "Extended family dialogue; the lone attribution tag is not diagnostic."
+    },
+    {
+      "quote_id": "q05144",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Carla, Jake, Josie, Kiera, and Dyer without a participating narrator."
+    },
+    {
+      "quote_id": "q05145",
+      "person_signal": "non_base",
+      "note": "Courtroom dialogue dominates; the short named-character beats do not independently establish narrator person."
+    },
+    {
+      "quote_id": "q05146",
+      "person_signal": "third",
+      "note": "Despite a clipped opening, sustained external narration describes the lawyer\u2019s projected conduct and identifies him as Jake."
+    },
+    {
+      "quote_id": "q05147",
+      "person_signal": "third",
+      "note": "A sustained third-person character portrait describes Stuart externally while also conveying what \u201cshe\u201d had repeatedly observed."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/a-time-for-mercy",
+      "title": "A Time for Mercy by John Grisham",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author\u2019s authorized excerpt sustains external narration of Jake as \u201che,\u201d including his actions, routine, and perspective; other sources identify the preceding Josie/Drew scene as chapter 1."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-a-time-for-mercy/styles.html",
+      "title": "John Grisham Writing Styles in A Time For Mercy",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly says the novel has a third-person narrator who chiefly follows Jake but also follows Josie and other characters."
+    },
+    {
+      "url": "https://www.supersummary.com/a-time-for-mercy/background/",
+      "title": "A Time For Mercy Background",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the entire novel as written in third person and notes that this perspective provides insight into multiple characters."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJohn Grisham A Time for Mercy excerpt publisher,\u201d \u201cA Time for Mercy first chapter excerpt,\u201d and Google Books preview; opened the official John Grisham excerpt and a longer Bookreporter reproduction. Google Books reported no preview.",
+    "Searched \u201cA Time for Mercy third person point of view narrator,\u201d \u201cA Time for Mercy POV review third person,\u201d and the exact excerpt opening; opened the whole-book BookRags point-of-view analysis.",
+    "Searched site-specific SuperSummary, GradeSaver, and BookAnalysis queries for point-of-view evidence; opened SuperSummary\u2019s explicit whole-book third-person description, while the other targeted sites yielded no useful source.",
+    "Searched \u201cA Time for Mercy alternating narration,\u201d \u201cmultiple narrators,\u201d \u201cepistolary,\u201d \u201cdiary,\u201d \u201cframe narrative,\u201d and \u201cfirst person\u201d; found no credible indication of sustained first- or second-person sections. PRH and Hachette product pages exposed sample controls or descriptions but no additional diagnostic prose in the accessible page text."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Jake, Josie, Stuart, and other characters in the third person, sometimes entering their thoughts. Distributed Goodreads passages corroborate the authorized third-person excerpt, while two independent whole-book guides explicitly identify the same structure. First-person forms in q05129 and q05134 belong to dialogue or gnomic material, and the \u201cyou\u201d in q05127 is direct address; none indicates an alternate base section. The official excerpt has limited scope, but the whole-book descriptions and multiple interior quote contexts leave no material unresolved conflict.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.264646+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3e5eb9f90d520db21469ab35579667c865930254eeabdc232e6471cc7047129c"
+  }
+}

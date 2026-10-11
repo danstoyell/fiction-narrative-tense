@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1970:2816",
+  "quotes": [
+    {
+      "quote_id": "q01700",
+      "person_signal": "first",
+      "note": "Outside the speech, \u201cI asked\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q01701",
+      "person_signal": "first",
+      "note": "Oliver directly narrates his own fears as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01702",
+      "person_signal": "first",
+      "note": "The participating narrator recounts his own action as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01703",
+      "person_signal": "first",
+      "note": "The narratorial \u201cwhat I had done\u201d identifies a participating first-person voice."
+    },
+    {
+      "quote_id": "q01704",
+      "person_signal": "first",
+      "note": "The dialogue frame \u201cI asked\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q01705",
+      "person_signal": "non_base",
+      "note": "Unattributed character speech; \u201cus\u201d does not establish the base narrator."
+    },
+    {
+      "quote_id": "q01706",
+      "person_signal": "first",
+      "note": "The narratorial beat \u201cI asked her\u201d identifies the narrator as a participant."
+    },
+    {
+      "quote_id": "q01707",
+      "person_signal": "first",
+      "note": "Extended narration presents Oliver\u2019s sensations, actions, and responses as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01708",
+      "person_signal": "first",
+      "note": "The narrator reports his own perception with \u201cI think I heard.\u201d"
+    },
+    {
+      "quote_id": "q01709",
+      "person_signal": "first",
+      "note": "The speech beat \u201cI said\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q01710",
+      "person_signal": "non_base",
+      "note": "Gnomic opening question; its generic \u201cyou\u201d is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01711",
+      "person_signal": "unmarked",
+      "note": "This is base narration in the web excerpt, but the isolated sentence does not grammatically identify its person."
+    },
+    {
+      "quote_id": "q01712",
+      "person_signal": "first",
+      "note": "The outside beat \u201cI replied\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q01713",
+      "person_signal": "first",
+      "note": "Narratorial beats such as \u201cI answered\u201d identify Oliver\u2019s participating voice."
+    },
+    {
+      "quote_id": "q01714",
+      "person_signal": "first",
+      "note": "The authorized opening confirms this is Oliver\u2019s first-person base narration despite its dialogue bucket."
+    },
+    {
+      "quote_id": "q01715",
+      "person_signal": "first",
+      "note": "The narratorial sentence \u201cShe looked me\u201d places the narrator inside the scene."
+    },
+    {
+      "quote_id": "q01716",
+      "person_signal": "first",
+      "note": "Extended prose narrates Oliver\u2019s looking, shame, fear, and response as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01717",
+      "person_signal": "first",
+      "note": "Extended first-person reflection exposes Oliver\u2019s controlling narratorial voice."
+    },
+    {
+      "quote_id": "q01718",
+      "person_signal": "first",
+      "note": "Repeated outside beats such as \u201cI replied\u201d identify the participating narrator."
+    },
+    {
+      "quote_id": "q01719",
+      "person_signal": "first",
+      "note": "The narratorial \u201cI asked her\u201d identifies a participating first-person voice."
+    },
+    {
+      "quote_id": "q01720",
+      "person_signal": "first",
+      "note": "The authorized excerpt shows \u201cShe shot a glance up at me\u201d is first-person scene narration."
+    },
+    {
+      "quote_id": "q01721",
+      "person_signal": "non_base",
+      "note": "The visible first-person pronoun occurs in Oliver\u2019s direct speech; the third-person speech beat alone is nondiagnostic."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.lovereading.co.uk/extract/3560/Love-Story-by-Erich-Segal.html",
+      "title": "Love Story \u2014 Erich Segal \u2014 Published by Hodder \u2014 Extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "This publisher-identified exclusive opening spans sustained scenes and consistently presents Oliver as an involved I-narrator."
+    },
+    {
+      "url": "https://pressto.amu.edu.pl/index.php/pt/article/download/44472/36804/103783",
+      "title": "Feature Film as a Literary Work",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Krzysztof Koz\u0142owski\u2019s scholarly structural analysis explicitly identifies the novel as a first-person memoir narrated by its protagonist, Oliver."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/entertainment/books/2000/06/18/love-story/87064b2f-16ef-4120-a388-5d35641ba4e1/",
+      "title": "Love Story",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Washington Post review identifies Oliver Barrett IV as the novel\u2019s narrator; the sustained prose sources establish that his narration uses the I-form."
+    },
+    {
+      "url": "https://erichsegal.com/book/love-story/",
+      "title": "Love Story (1970) \u2014 Erich Segal",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "FIRST",
+      "note": "The official author site attributes multiple selected passages to the novel, including first-person narrative passages matching the supplied sample."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cErich Segal Love Story excerpt first chapter Oliver narrator,\u201d title/author plus point of view and first-person terms, and library/Google Books preview variants.",
+    "Opened the Hodder/LoveReading exclusive opening, ReadingGroupGuides chapter-one excerpt, the official Erich Segal page, the Washington Post review, and the Adam Mickiewicz University Press scholarly article.",
+    "Searched specifically for epistolary form, frame narrative, multiple narrators, and alternating point of view; no evidence of another sustained narrative person was found.",
+    "Open Library supplied edition metadata and a preview-only notice but no usable prose in the opened page.",
+    "The opened BookRags study-guide page called the novel third person while simultaneously assigning narration and voice to Oliver; this internally inconsistent, unattributed claim was rejected against the primary first-person prose and scholarly whole-book analysis."
+  ],
+  "person_note": "The quote sample repeatedly exposes Oliver Barrett IV as a participating I-narrator, including event prose and narratorial beats embedded around dialogue. The Hodder opening independently confirms that several dialogue-bucket items contain first-person base narration; q01714 is a clear upstream bucket issue. Pure character speech and the generic-you gnomic question were not allowed to vote. A Tier B whole-book analysis identifies the novel as Oliver\u2019s first-person memoir, resolving the opening excerpt\u2019s limited scope. No sustained second- or third-person strand, epistolary structure, or alternating narrator was found; remaining uncertainty is minimal.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_016",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T01:54:08.609154+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "19a30bfff1db09b74fba45413a5da57e82691c94813d1af3a1c9c61ace618ec4"
+  }
+}

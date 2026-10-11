@@ -1,0 +1,401 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:3286",
+  "quotes": [
+    {
+      "quote_id": "q03996",
+      "person_signal": "non_base",
+      "note": "First-person pronoun occurs in character speech, not base narration."
+    },
+    {
+      "quote_id": "q03997",
+      "person_signal": "third",
+      "note": "Narration names Marianne and reports her private perception from outside."
+    },
+    {
+      "quote_id": "q03998",
+      "person_signal": "unmarked",
+      "note": "Abstract narratorial commentary contains no participating narrator or sustained character reference."
+    },
+    {
+      "quote_id": "q03999",
+      "person_signal": "third",
+      "note": "The thought tag attributes the passage to a character designated as she; generic you is not second-person narration."
+    },
+    {
+      "quote_id": "q04000",
+      "person_signal": "third",
+      "note": "Sustained narration externally designates both protagonists and enters Marianne's thoughts; the closing first person is dialogue."
+    },
+    {
+      "quote_id": "q04001",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic base narration."
+    },
+    {
+      "quote_id": "q04002",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person statement does not establish the novel's narrator."
+    },
+    {
+      "quote_id": "q04003",
+      "person_signal": "non_base",
+      "note": "General aphorism; you is universal rather than a story protagonist."
+    },
+    {
+      "quote_id": "q04004",
+      "person_signal": "third",
+      "note": "Narration externally designates the perceiving woman and Marianne while reporting belief."
+    },
+    {
+      "quote_id": "q04005",
+      "person_signal": "third",
+      "note": "Sustained external she narration reports a character's awareness and memories."
+    },
+    {
+      "quote_id": "q04006",
+      "person_signal": "non_base",
+      "note": "First-person language is spoken dialogue; the brief speech beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q04007",
+      "person_signal": "unmarked",
+      "note": "Aphoristic commentary presented without a character or participating narrator."
+    },
+    {
+      "quote_id": "q04008",
+      "person_signal": "third",
+      "note": "Marianne's thought is explicitly reported by nonparticipating narration."
+    },
+    {
+      "quote_id": "q04009",
+      "person_signal": "non_base",
+      "note": "The first-person language is Marianne's direct speech."
+    },
+    {
+      "quote_id": "q04010",
+      "person_signal": "third",
+      "note": "External he narration reports the focal character's feeling and analogy."
+    },
+    {
+      "quote_id": "q04011",
+      "person_signal": "third",
+      "note": "Free-indirect interior perception refers to the focal character as him."
+    },
+    {
+      "quote_id": "q04012",
+      "person_signal": "non_base",
+      "note": "General maxim without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q04013",
+      "person_signal": "third",
+      "note": "The narrator refers to Connell externally and reports his private wish."
+    },
+    {
+      "quote_id": "q04014",
+      "person_signal": "third",
+      "note": "Close narration refers to the focal character as her and reports her generalized understanding."
+    },
+    {
+      "quote_id": "q04015",
+      "person_signal": "third",
+      "note": "Sustained narration names Marianne and reports her desires, memories, and knowledge externally."
+    },
+    {
+      "quote_id": "q04016",
+      "person_signal": "third",
+      "note": "Close narration repeatedly designates the focal character as he and reports private desires."
+    },
+    {
+      "quote_id": "q04017",
+      "person_signal": "third",
+      "note": "The narrator names Connell and reports what an experience suggests to him."
+    },
+    {
+      "quote_id": "q04018",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks the subject and surrounding narrative boundaries needed for attribution."
+    },
+    {
+      "quote_id": "q04019",
+      "person_signal": "third",
+      "note": "Extended close-third narration describes his writing, desires, and view of Marianne without a participating narrator."
+    },
+    {
+      "quote_id": "q04020",
+      "person_signal": "third",
+      "note": "Extended external he narration enters the focal character's perceptions and judgments."
+    },
+    {
+      "quote_id": "q04021",
+      "person_signal": "third",
+      "note": "Narration alternates external references to Connell and Marianne while reporting Marianne's knowledge."
+    },
+    {
+      "quote_id": "q04022",
+      "person_signal": "third",
+      "note": "Close-third narration reports Marianne's behavior and Connell's interpretation of it."
+    },
+    {
+      "quote_id": "q04023",
+      "person_signal": "third",
+      "note": "Sustained narration names Connell, recounts his actions, and reports his bodily feeling."
+    },
+    {
+      "quote_id": "q04024",
+      "person_signal": "unclear",
+      "note": "Clipped noun phrase has no recoverable narrator or local narrative structure."
+    },
+    {
+      "quote_id": "q04025",
+      "person_signal": "third",
+      "note": "Sustained he narration describes the focal character's outward expression and inner state."
+    },
+    {
+      "quote_id": "q04026",
+      "person_signal": "third",
+      "note": "External he narration directly reports the focal character's divided sense of self."
+    },
+    {
+      "quote_id": "q04027",
+      "person_signal": "third",
+      "note": "Extended close-third narration names Connell and Marianne and reports Connell's sensations."
+    },
+    {
+      "quote_id": "q04028",
+      "person_signal": "third",
+      "note": "The narrator names Marianne and reports her realization and longings externally."
+    },
+    {
+      "quote_id": "q04029",
+      "person_signal": "non_base",
+      "note": "Generic you in a maxim is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04030",
+      "person_signal": "third",
+      "note": "Sustained she narration reports the focal character's efforts and private self-condemnation."
+    },
+    {
+      "quote_id": "q04031",
+      "person_signal": "non_base",
+      "note": "First-person language and generic you occur in Marianne's direct speech."
+    },
+    {
+      "quote_id": "q04032",
+      "person_signal": "unmarked",
+      "note": "Contextless rhetorical questions with he and her suggest focalized thought but do not independently establish the narrating position."
+    },
+    {
+      "quote_id": "q04033",
+      "person_signal": "third",
+      "note": "Two-sentence narration consistently designates the characters as they and each other without a participating frame."
+    },
+    {
+      "quote_id": "q04034",
+      "person_signal": "third",
+      "note": "Sustained external he narration recounts past realization and present understanding."
+    },
+    {
+      "quote_id": "q04035",
+      "person_signal": "third",
+      "note": "Narration refers to the woman as she and reports her relational self-understanding."
+    },
+    {
+      "quote_id": "q04036",
+      "person_signal": "third",
+      "note": "Sustained narration names Marianne and reports the male focal character's past feelings and later judgment."
+    },
+    {
+      "quote_id": "q04037",
+      "person_signal": "unmarked",
+      "note": "Clipped descriptive fragment contains no narrator or identified focal character."
+    },
+    {
+      "quote_id": "q04038",
+      "person_signal": "third",
+      "note": "Extended he narration evaluates Marianne through a focal character; generic you appears only inside an analogy."
+    },
+    {
+      "quote_id": "q04039",
+      "person_signal": "non_base",
+      "note": "First-person and second-person pronouns occur in direct speech."
+    },
+    {
+      "quote_id": "q04040",
+      "person_signal": "third",
+      "note": "Extended close-third narration reports his understanding, judgments, and expectations."
+    },
+    {
+      "quote_id": "q04041",
+      "person_signal": "unmarked",
+      "note": "A single decontextualized sentence about her interiority is compatible with third person but insufficiently contextualized."
+    },
+    {
+      "quote_id": "q04042",
+      "person_signal": "third",
+      "note": "Sustained narration externally designates Lukas and Marianne and reports Marianne's realization."
+    },
+    {
+      "quote_id": "q04043",
+      "person_signal": "third",
+      "note": "Narration refers to the focal character and shared protagonists externally across a retrospective passage."
+    },
+    {
+      "quote_id": "q04044",
+      "person_signal": "non_base",
+      "note": "Third-person speech beat frames character dialogue but is too brief to establish base narration independently."
+    },
+    {
+      "quote_id": "q04045",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in direct speech."
+    },
+    {
+      "quote_id": "q04046",
+      "person_signal": "third",
+      "note": "Description is explicitly focalized through a character designated as her."
+    },
+    {
+      "quote_id": "q04047",
+      "person_signal": "third",
+      "note": "Close-third narration reports the male focal character's former and current self-perception."
+    },
+    {
+      "quote_id": "q04048",
+      "person_signal": "third",
+      "note": "Extended past-tense narration designates both characters externally and reports his sensations and wishes."
+    },
+    {
+      "quote_id": "q04049",
+      "person_signal": "third",
+      "note": "Narration refers to both protagonists as he and she and reports her private history and response."
+    },
+    {
+      "quote_id": "q04050",
+      "person_signal": "non_base",
+      "note": "First-person statements occur in direct speech."
+    },
+    {
+      "quote_id": "q04051",
+      "person_signal": "third",
+      "note": "Sustained they, she, and him narration evaluates the protagonists' shared history externally."
+    },
+    {
+      "quote_id": "q04052",
+      "person_signal": "third",
+      "note": "Narration externally designates both characters and reports what he knew about her willingness."
+    },
+    {
+      "quote_id": "q04053",
+      "person_signal": "third",
+      "note": "Extended she narration reports private uncertainty, reflection, and guilt."
+    },
+    {
+      "quote_id": "q04054",
+      "person_signal": "third",
+      "note": "Sustained she narration reports the focal character's feelings, knowledge, and hypothetical expectation."
+    },
+    {
+      "quote_id": "q04055",
+      "person_signal": "non_base",
+      "note": "Second-person pronouns are Marianne's direct address in dialogue."
+    },
+    {
+      "quote_id": "q04056",
+      "person_signal": "third",
+      "note": "Despite editorial clipping, the passage clearly reports a character designated as she wondering about belonging."
+    },
+    {
+      "quote_id": "q04057",
+      "person_signal": "third",
+      "note": "External he narration reports the focal character's horror and realization."
+    },
+    {
+      "quote_id": "q04058",
+      "person_signal": "third",
+      "note": "Sustained her and she narration reports the focal character's knowledge and embodied memories."
+    },
+    {
+      "quote_id": "q04059",
+      "person_signal": "third",
+      "note": "Extended close-third narration reports his actions, motives, perceptions, and happiness."
+    },
+    {
+      "quote_id": "q04060",
+      "person_signal": "third",
+      "note": "External he and her narration reports the effect of Marianne's gaze on the male focal character."
+    },
+    {
+      "quote_id": "q04061",
+      "person_signal": "third",
+      "note": "Sustained he and she narration describes action and reports Marianne's bodily experience; the short utterance is embedded dialogue."
+    },
+    {
+      "quote_id": "q04062",
+      "person_signal": "third",
+      "note": "Close narration names Marianne and repeatedly designates her as she while reporting her anticipated experience."
+    },
+    {
+      "quote_id": "q04063",
+      "person_signal": "third",
+      "note": "Sustained he narration reports the focal character's ambivalence and uncertainty."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/3905/normal-people",
+      "title": "Excerpt from Normal People by Sally Rooney",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained opening excerpt, reproduced with the copyright holder's permission, narrates Marianne and Connell as she and he while entering Connell's perceptions."
+    },
+    {
+      "url": "https://www.lrb.co.uk/the-paper/v46/n18/joanna-biggs/glimpses-of-utopia",
+      "title": "Glimpses of Utopia: Sally Rooney's Couples",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The London Review of Books explicitly describes Normal People as third person, alternating close focalization between Marianne and Connell."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2018/aug/25/sally-rooney-interview-normal-people-conversations-with-friends",
+      "title": "Conversations with Sally Rooney: the 27-year-old novelist defining a generation",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The Guardian describes the novel's scenes across 2011\u20132015 and reproduces an interior passage that sustains he/she narration while entering Connell's mind."
+    },
+    {
+      "url": "https://thesewaneereview.com/articles/beautiful-world-where-are-you",
+      "title": "Beautiful World, Where Are You?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Sewanee Review explicitly states that Normal People is told in close third person and contrasts that intimate method with Rooney's later remote-third narration."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Normal People Sally Rooney official excerpt publisher\"; found and opened the permission-based BookBrowse opening excerpt and publisher catalog pages.",
+    "Searched: \"Normal People Sally Rooney third person narration point of view\"; found and opened explicit whole-book descriptions in the London Review of Books and Sewanee Review.",
+    "Searched: \"Normal People Sally Rooney narrative perspective scholarly third person\"; a Taylor & Francis article described an omniscient intimate voice and separate Marianne/Connell perspectives in search results, but the full article returned 403 and was not used as evidence.",
+    "Searched publisher-specific queries on Faber, Penguin, and Penguin Random House; their accessible title pages verified the work but did not provide usable sustained prose, so they were not included as person evidence.",
+    "Searched Guardian coverage and opened its Sally Rooney interview, which includes an interior third-person passage and describes the novel's multi-year scene structure.",
+    "Targeted searches for epistolary, diary, frame-narrative, multiple-narrator, and alternating-person structures produced no credible evidence that the novel contains sustained base narration in another grammatical person."
+  ],
+  "person_note": "The Goodreads evidence repeatedly presents sustained close narration of Marianne and Connell as she and he, with access to each character's private thoughts and perceptions. First-person forms occur in dialogue or gnomic material, while generic you appears in maxims, direct address, or analogies rather than as story-specific base narration. The authorized opening excerpt independently shows the same third-person mode, and credible whole-book criticism explicitly identifies alternating focalization between Marianne and Connell within third-person narration. Alternating focal characters therefore do not constitute alternating grammatical person. No credible source indicates a first-person frame, epistolary base, or sustained second-person section; the only limitation is that the Tier A prose source covers the opening, offset by extensive interior and ending quote evidence plus multiple explicit whole-book descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_067",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T04:56:52.142686+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dec2ad588319577748763945ef6d1369da9bfedb5ed3d7c4542f74a89e7f3e4e"
+  }
+}

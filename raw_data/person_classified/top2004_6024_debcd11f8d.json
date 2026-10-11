@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:6024",
+  "quotes": [
+    {
+      "quote_id": "q01144",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d recalls the speaker\u2019s prior understanding."
+    },
+    {
+      "quote_id": "q01145",
+      "person_signal": "first",
+      "note": "Narrator refers to \u201cme\u201d and participation among \u201cwe schoolchildren.\u201d"
+    },
+    {
+      "quote_id": "q01146",
+      "person_signal": "non_base",
+      "note": "Gnomic observation contains no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01147",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01148",
+      "person_signal": "non_base",
+      "note": "Rhetorical speech or broadcast excerpt, not exposed base narration."
+    },
+    {
+      "quote_id": "q01149",
+      "person_signal": "first",
+      "note": "\u201cMy father\u201d establishes a participating family narrator."
+    },
+    {
+      "quote_id": "q01150",
+      "person_signal": "non_base",
+      "note": "Direct speech; \u201cyou\u201d and \u201cwe\u201d belong to the speaker."
+    },
+    {
+      "quote_id": "q01151",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI\u201d describes the narrator\u2019s younger self."
+    },
+    {
+      "quote_id": "q01152",
+      "person_signal": "non_base",
+      "note": "Exclamatory character speech rather than base narration."
+    },
+    {
+      "quote_id": "q01153",
+      "person_signal": "first",
+      "note": "\u201cHe\u2019d tell us\u201d includes the narrator among the participating children."
+    },
+    {
+      "quote_id": "q01154",
+      "person_signal": "non_base",
+      "note": "Unattributed dialogue supplies no base-narrator evidence."
+    },
+    {
+      "quote_id": "q01155",
+      "person_signal": "non_base",
+      "note": "Direct advice in dialogue; \u201cyou\u201d is an addressee, not a narrated protagonist."
+    },
+    {
+      "quote_id": "q01156",
+      "person_signal": "non_base",
+      "note": "Character speech, including local first-person plural references."
+    },
+    {
+      "quote_id": "q01157",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, \u201cI said\u201d and \u201cI began to bawl\u201d expose participating narration."
+    },
+    {
+      "quote_id": "q01158",
+      "person_signal": "first",
+      "note": "The narratorial beat \u201cmy father cried\u201d identifies the family participant narrator."
+    },
+    {
+      "quote_id": "q01159",
+      "person_signal": "first",
+      "note": "Narratorial \u201cme\u201d records the narrator\u2019s own concern."
+    },
+    {
+      "quote_id": "q01160",
+      "person_signal": "first",
+      "note": "The dialogue is framed by the narrator\u2019s \u201cmy mother.\u201d"
+    },
+    {
+      "quote_id": "q01161",
+      "person_signal": "non_base",
+      "note": "Rhetorical character or broadcast speech, not base narration."
+    },
+    {
+      "quote_id": "q01162",
+      "person_signal": "unmarked",
+      "note": "Possible narration describes police and a generic child without identifying narrator participation."
+    },
+    {
+      "quote_id": "q01163",
+      "person_signal": "unmarked",
+      "note": "Third-person description of a woman does not establish the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q01164",
+      "person_signal": "first",
+      "note": "\u201cI\u2019d had no idea\u201d and \u201cmy father\u201d unmistakably expose participating narration."
+    },
+    {
+      "quote_id": "q01165",
+      "person_signal": "first",
+      "note": "The speech beat \u201cmy father told me\u201d identifies the narrator as a participant."
+    },
+    {
+      "quote_id": "q01166",
+      "person_signal": "unmarked",
+      "note": "Social description of men and women contains no narrator marker."
+    },
+    {
+      "quote_id": "q01167",
+      "person_signal": "unmarked",
+      "note": "Abstract reflection using generic \u201cone\u201d does not identify narrative person."
+    },
+    {
+      "quote_id": "q01168",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks enough structure to locate its voice."
+    },
+    {
+      "quote_id": "q01169",
+      "person_signal": "non_base",
+      "note": "Direct exclamatory speech rather than controlling narration."
+    },
+    {
+      "quote_id": "q01170",
+      "person_signal": "unmarked",
+      "note": "Sustained third-person description does not reveal whether a participant narrator frames it."
+    },
+    {
+      "quote_id": "q01171",
+      "person_signal": "first",
+      "note": "The speech beat \u201cshe told me\u201d places the narrator in the scene."
+    },
+    {
+      "quote_id": "q01172",
+      "person_signal": "first",
+      "note": "\u201cMy delight,\u201d \u201cI\u2019d been born,\u201d and \u201cmy own\u201d expose participating narration."
+    },
+    {
+      "quote_id": "q01173",
+      "person_signal": "first",
+      "note": "\u201cI saw my father\u201d directly identifies the narrator as a family participant."
+    },
+    {
+      "quote_id": "q01174",
+      "person_signal": "first",
+      "note": "Outside the dialogue, \u201cmy father began to shout\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q01175",
+      "person_signal": "first",
+      "note": "\u201cOur protectors,\u201d \u201cwe,\u201d and \u201ctold us\u201d place the narrator among the children."
+    },
+    {
+      "quote_id": "q01176",
+      "person_signal": "first",
+      "note": "\u201cOur homeland\u201d identifies the narrator with the affected community."
+    },
+    {
+      "quote_id": "q01177",
+      "person_signal": "non_base",
+      "note": "Quoted speaker\u2019s \u201cI\u201d is local dialogue, not base narration."
+    },
+    {
+      "quote_id": "q01178",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur entirely within direct speech."
+    },
+    {
+      "quote_id": "q01179",
+      "person_signal": "unclear",
+      "note": "Clipped unattributed fragment cannot be assigned to narration or speech."
+    },
+    {
+      "quote_id": "q01180",
+      "person_signal": "first",
+      "note": "\u201cOur neighbors\u201d situates the narrator within the described neighborhood."
+    },
+    {
+      "quote_id": "q01181",
+      "person_signal": "unclear",
+      "note": "Severely clipped fragment has no recoverable narrative structure."
+    },
+    {
+      "quote_id": "q01182",
+      "person_signal": "first",
+      "note": "Amid extensive dialogue, the base speech beat identifies \u201cmy mother.\u201d"
+    },
+    {
+      "quote_id": "q01183",
+      "person_signal": "unclear",
+      "note": "Clipped fragment does not establish voice or quotation boundaries."
+    },
+    {
+      "quote_id": "q01184",
+      "person_signal": "first",
+      "note": "\u201cMy father\u201d and \u201cEven I\u201d explicitly expose the participating narrator."
+    },
+    {
+      "quote_id": "q01185",
+      "person_signal": "first",
+      "note": "\u201cOur countrymen\u201d and \u201cus\u201d include the narrator in the persecuted minority."
+    },
+    {
+      "quote_id": "q01186",
+      "person_signal": "unmarked",
+      "note": "Historical description of Lindbergh as \u201chim\u201d does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q01187",
+      "person_signal": "first",
+      "note": "\u201cI began school,\u201d \u201cour house,\u201d and \u201cI learned\u201d establish autobiographical participation."
+    },
+    {
+      "quote_id": "q01188",
+      "person_signal": "unmarked",
+      "note": "Historical exposition about Lindbergh uses only third-person reference."
+    },
+    {
+      "quote_id": "q01189",
+      "person_signal": "unmarked",
+      "note": "Bare, context-poor reference to \u201che\u201d does not expose narrator participation."
+    },
+    {
+      "quote_id": "q01190",
+      "person_signal": "first",
+      "note": "\u201cMy cousin\u201d places the narrator within the narrated family."
+    },
+    {
+      "quote_id": "q01191",
+      "person_signal": "non_base",
+      "note": "Pronouns occur within a dialogue exchange and are locally addressed."
+    },
+    {
+      "quote_id": "q01192",
+      "person_signal": "first",
+      "note": "The narrator explicitly recalls \u201cthese memories\u201d and wonders about the boy \u201cI\u201d was."
+    },
+    {
+      "quote_id": "q01193",
+      "person_signal": "first",
+      "note": "\u201cOur inheritance,\u201d \u201cmy father,\u201d and \u201cmy mother\u201d identify a participating narrator."
+    },
+    {
+      "quote_id": "q01194",
+      "person_signal": "first",
+      "note": "Repeated \u201cwe,\u201d \u201cmy,\u201d \u201cI,\u201d and \u201cus\u201d narrate the family\u2019s Washington visit."
+    },
+    {
+      "quote_id": "q01195",
+      "person_signal": "first",
+      "note": "Narratorial \u201cwe\u201d describes the family or community\u2019s own allegiance."
+    },
+    {
+      "quote_id": "q01196",
+      "person_signal": "unmarked",
+      "note": "Neighborhood description contains no explicit narrator marker."
+    },
+    {
+      "quote_id": "q01197",
+      "person_signal": "non_base",
+      "note": "Churchill\u2019s quoted declaration is subordinate speech, not base narration."
+    },
+    {
+      "quote_id": "q01198",
+      "person_signal": "unmarked",
+      "note": "External description of the crowd does not identify narrator person."
+    },
+    {
+      "quote_id": "q01199",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d reflects on the permanent loss of childhood security."
+    },
+    {
+      "quote_id": "q01200",
+      "person_signal": "non_base",
+      "note": "The first-person statement belongs to a quoted character."
+    },
+    {
+      "quote_id": "q01201",
+      "person_signal": "unmarked",
+      "note": "Generalized description of an unnamed man does not reveal narrator participation."
+    },
+    {
+      "quote_id": "q01202",
+      "person_signal": "first",
+      "note": "\u201cNeighborhoods like ours\u201d locates the narrator within the described community."
+    },
+    {
+      "quote_id": "q01203",
+      "person_signal": "non_base",
+      "note": "Political commentary appears as dialogue or broadcast speech."
+    },
+    {
+      "quote_id": "q01204",
+      "person_signal": "non_base",
+      "note": "Direct address to Sandy is character speech, not second-person base narration."
+    },
+    {
+      "quote_id": "q01205",
+      "person_signal": "non_base",
+      "note": "Rhetorical political speech supplies no base-narrator evidence."
+    },
+    {
+      "quote_id": "q01206",
+      "person_signal": "unclear",
+      "note": "Elliptical fragment lacks enough context to determine its voice."
+    },
+    {
+      "quote_id": "q01207",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI\u201d recounts the narrator\u2019s childhood discovery."
+    },
+    {
+      "quote_id": "q01208",
+      "person_signal": "non_base",
+      "note": "Quoted political defense is local speech rather than narration."
+    },
+    {
+      "quote_id": "q01209",
+      "person_signal": "first",
+      "note": "Although mostly dialogue, the narratorial beat \u201cI asked\u201d exposes participation."
+    },
+    {
+      "quote_id": "q01210",
+      "person_signal": "first",
+      "note": "\u201cMy brother left\u201d identifies the narrator as a member of the affected family."
+    },
+    {
+      "quote_id": "q01211",
+      "person_signal": "non_base",
+      "note": "Political declaration is quoted speech, not controlling narration."
+    },
+    {
+      "quote_id": "q01212",
+      "person_signal": "non_base",
+      "note": "Reported dialogue and its speakers\u2019 pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01213",
+      "person_signal": "unmarked",
+      "note": "Historical summary contains no explicit marker of narrator participation."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://images.penguinrandomhouse.com/promo_image/9781400079490_8785.pdf",
+      "title": "The Plot Against America \u2014 Vintage Reading Group Guide",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The publisher\u2019s guide states that an adult narrator remembers what befell his family when he was a boy and cites first-person passages from the opening and interior pages."
+    },
+    {
+      "url": "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/6001/1/Crossroads_14_2016_S_Kubiak_Childhood_memories_in_three_novels_by_Philip_Roth_Portnoy%E2%80%99s_Complaint_The_Plot_Against_America_and_American_Pastoral_as_pivotal_components_of_the_protagonists%E2%80%99_identities.pdf",
+      "title": "Childhood memories in three novels by Philip Roth: Portnoy\u2019s Complaint, The Plot Against America, and American Pastoral, as pivotal components of the protagonists\u2019 identities",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly article explicitly identifies Philip Roth as the novel\u2019s protagonist and first-person narrator and analyzes his retrospective childhood narration."
+    },
+    {
+      "url": "https://www.english.upenn.edu/sites/default/files/articles/PMLA%20134.5--Alternate-Reality%20Effects.pdf",
+      "title": "Alternate-Reality Effects",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "This PMLA article explicitly calls the voice first-person and analyzes an interior scene on page 139 narrated by young Philip."
+    },
+    {
+      "url": "https://www.bostonreview.net/articles/matt-gallagher-plot-against-america/",
+      "title": "The Plots Against America",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review identifies the narrator as a fictionalized young Roth and explains that the alternate history unfolds through Philip\u2019s experience, contrasting the novel\u2019s viewpoint with the adaptation\u2019s expanded viewpoints."
+    }
+  ],
+  "search_log": [
+    "Searched: site:nytimes.com \"The Plot Against America\" \"Philip Roth\" excerpt first chapter; the New York Times result was inaccessible because of robots restrictions.",
+    "Searched: \"The Plot Against America\" \"first-person narrator\" and opened scholarly results from Crossroads and PMLA.",
+    "Searched: \"The Plot Against America\" point of view narrator Philip first person and opened the Boston Review and LitCharts descriptions.",
+    "Searched: site:penguinrandomhouse.com/books \"The Plot Against America\" excerpt; no sustained excerpt surfaced, but an official Vintage/Penguin Random House reading guide did.",
+    "Searched author-interview and institutional combinations including Philip Roth, narrator, child, Paris Review, Library of America, and LOA; results corroborated the child/adult retrospective narrator but did not provide a better authorized full-book excerpt."
+  ],
+  "person_note": "The controlling narrator is the fictional Philip Roth, participating in the story as a child while narrating retrospectively as an adult. Numerous event passages independently expose this first-person position through \u201cI,\u201d \u201cwe,\u201d \u201cmy,\u201d \u201cme,\u201d and \u201cour,\u201d and the official publisher guide plus two scholarly sources confirm the same structure across the novel. Third-person historical and neighborhood passages are expansions within that first-person account, not autonomous third-person sections. First-person pronouns confined to character speech were treated as local, while dialogue passages with narratorial beats such as \u201cI asked\u201d or \u201cmy father\u201d still expose the base narrator. No credible evidence of sustained narration in another person was found; remaining uncertainty is negligible.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_041",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T22:04:07.887452+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2ee85499e5c45a5003f44593adc69f9b1545522de0160f6dc768775a529d2bf5"
+  }
+}

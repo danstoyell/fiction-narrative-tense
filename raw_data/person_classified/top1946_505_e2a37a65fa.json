@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1946:505",
+  "quotes": [
+    {
+      "quote_id": "q00353",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the question and answer do not expose the base narrator."
+    },
+    {
+      "quote_id": "q00354",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00355",
+      "person_signal": "non_base",
+      "note": "Character speech; the implied speaker is not the base narrator."
+    },
+    {
+      "quote_id": "q00356",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q00357",
+      "person_signal": "non_base",
+      "note": "A character tells an embedded allegory during dialogue; its voice is not base narration."
+    },
+    {
+      "quote_id": "q00358",
+      "person_signal": "non_base",
+      "note": "Standalone aphoristic generalization with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00359",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using generic one and we, not a participating narrator."
+    },
+    {
+      "quote_id": "q00360",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q00361",
+      "person_signal": "unmarked",
+      "note": "Possible base-narrative reflection, but no one and generic you do not identify narrator participation."
+    },
+    {
+      "quote_id": "q00362",
+      "person_signal": "non_base",
+      "note": "Gnomic we refers generically to people in love, not to a controlling narrator."
+    },
+    {
+      "quote_id": "q00363",
+      "person_signal": "third",
+      "note": "The base text externally frames a male character as he and marks the first-person clauses as his direct thought."
+    },
+    {
+      "quote_id": "q00364",
+      "person_signal": "unmarked",
+      "note": "Atmospheric scene description contains no character-relative narrator marker."
+    },
+    {
+      "quote_id": "q00365",
+      "person_signal": "non_base",
+      "note": "Generic aphoristic we does not expose the narrator."
+    },
+    {
+      "quote_id": "q00366",
+      "person_signal": "third",
+      "note": "A third-person beat, he thought, frames the subsequent I as a character's direct thought rather than first-person base narration."
+    },
+    {
+      "quote_id": "q00367",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with generic second-person address."
+    },
+    {
+      "quote_id": "q00368",
+      "person_signal": "non_base",
+      "note": "Explicitly identified as Ravic's speech; the narrated butterfly scenario is locally embedded."
+    },
+    {
+      "quote_id": "q00369",
+      "person_signal": "third",
+      "note": "External narration calls the focal character he and reports his feeling toward she across a sustained descriptive passage."
+    },
+    {
+      "quote_id": "q00370",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial reflection, but impersonal one and passive constructions do not identify person."
+    },
+    {
+      "quote_id": "q00371",
+      "person_signal": "unmarked",
+      "note": "Impersonal/free-indirect reflection using generic one; it does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00372",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic comparison about love, with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q00373",
+      "person_signal": "non_base",
+      "note": "Sustained character dialogue; I, you, and we belong to the speakers."
+    },
+    {
+      "quote_id": "q00374",
+      "person_signal": "third",
+      "note": "Sustained external narration follows he, reports his circumstances, and explains why he had lived alone."
+    },
+    {
+      "quote_id": "q00375",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00376",
+      "person_signal": "unmarked",
+      "note": "Possible base narration of a moment, but the abstract description contains no narrator-relative person marker."
+    },
+    {
+      "quote_id": "q00377",
+      "person_signal": "non_base",
+      "note": "Character speech; repeated you and first-person references are local to the exchange."
+    },
+    {
+      "quote_id": "q00378",
+      "person_signal": "unmarked",
+      "note": "Reflective fragments may belong to base narration or free-indirect thought, but contain no diagnostic person marker."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9780812985580",
+      "title": "Arch of Triumph | Penguin Random House Higher Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates Ravic and the woman externally as he and she while separately marking Ravic's thoughts, establishing third-person narration throughout the opening."
+    },
+    {
+      "url": "https://www.bookrags.com/shortguide-arch-of-triumph/techniques.html",
+      "title": "Writing Techniques in Arch of Triumph",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This Gale-derived study-guide section explicitly states that the novel uses third-person point of view focused on Ravic and Joan and discusses that technique through the ending."
+    }
+  ],
+  "search_log": [
+    "Searched \"Arch of Triumph\" \"Erich Maria Remarque\" with excerpt, first chapter, point of view, narrator, third person, and narrative-perspective terms.",
+    "Opened the Penguin Random House edition page and inspected its sustained authorized Chapter 1 excerpt.",
+    "Opened the BookRags/Gale writing-techniques page, which explicitly identifies third-person point of view across the novel.",
+    "Opened EBSCO Research and the Erich Maria Remarque Peace Center pages; their plot summaries verified the work and Ravic's centrality but summary grammar was not treated as person evidence.",
+    "A University of Stirling thesis search result described the novel as combining third-person perspective with a close portrayal of Ravic, but the PDF returned HTTP 403 when opened and was excluded from web evidence.",
+    "Google Books and Internet Archive targeted searches did not yield an additional accessible sustained interior excerpt."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Ravic in third person, often with close access to his thoughts. Goodreads event passages repeatedly show this structure, especially the externally marked thought passages and the sustained he-centered narration in q00369 and q00374. First-person language in q00363 and q00366 is explicitly embedded as Ravic's direct thought, while first and second person elsewhere occur in dialogue or generic maxims. The authorized publisher opening independently confirms sustained third-person narration, and the Gale-derived technique description explicitly extends that classification to the novel as a whole. No evidence of sustained first- or second-person base sections was found; the main scope limitation is that the authorized prose excerpt covers only the opening.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_006",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:21:42.962916+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "88bdeb9925850d773ee7575bef0b8a1cd40caeafcdc1467ff12b8a2ef3fb6606"
+  }
+}

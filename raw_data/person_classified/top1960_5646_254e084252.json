@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1960:5646",
+  "quotes": [
+    {
+      "quote_id": "q01077",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in character speech, not base narration."
+    },
+    {
+      "quote_id": "q01078",
+      "person_signal": "non_base",
+      "note": "Dialogue and aphoristic speech do not identify the narrator."
+    },
+    {
+      "quote_id": "q01079",
+      "person_signal": "non_base",
+      "note": "The first-person plural belongs to Don Fabrizio's speech."
+    },
+    {
+      "quote_id": "q01080",
+      "person_signal": "non_base",
+      "note": "Sustained first-person plural occurs within Don Fabrizio's speech."
+    },
+    {
+      "quote_id": "q01081",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim without story-specific narration."
+    },
+    {
+      "quote_id": "q01082",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the isolated third-person referents do not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q01083",
+      "person_signal": "third",
+      "note": "Free-indirect presentation of a male character's thoughts belongs to the established external base narrator."
+    },
+    {
+      "quote_id": "q01084",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q01085",
+      "person_signal": "third",
+      "note": "The external narrator recounts Tancredi and Angelica and proleptically knows their later lives and thoughts."
+    },
+    {
+      "quote_id": "q01086",
+      "person_signal": "third",
+      "note": "An external voice explicitly attributes the thought to Don Fabrizio and comments on young and old characters."
+    },
+    {
+      "quote_id": "q01087",
+      "person_signal": "non_base",
+      "note": "The apparent first person is Don Fabrizio recounting an anecdote inside his dialogue with Chevalley."
+    },
+    {
+      "quote_id": "q01088",
+      "person_signal": "non_base",
+      "note": "Gnomic observation rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01089",
+      "person_signal": "third",
+      "note": "Sustained external narration enters the Prince's fantasies, suffering, and unspoken understanding."
+    },
+    {
+      "quote_id": "q01090",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization without a story-specific narrator."
+    },
+    {
+      "quote_id": "q01091",
+      "person_signal": "third",
+      "note": "The external narrator states the character's motive and describes his private mental response to the stars."
+    },
+    {
+      "quote_id": "q01092",
+      "person_signal": "unmarked",
+      "note": "A single unnamed third-person subject does not independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q01093",
+      "person_signal": "non_base",
+      "note": "Gnomic political maxim, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q01094",
+      "person_signal": "non_base",
+      "note": "First-person plural belongs to character speech about Sicilians."
+    },
+    {
+      "quote_id": "q01095",
+      "person_signal": "unmarked",
+      "note": "Base descriptive prose is likely, but the passage has no character-narrator relationship diagnostic of person."
+    },
+    {
+      "quote_id": "q01096",
+      "person_signal": "non_base",
+      "note": "Character speech, not narratorial evidence."
+    },
+    {
+      "quote_id": "q01097",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs within dialogue and is not sustained base narration."
+    },
+    {
+      "quote_id": "q01098",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in character speech."
+    },
+    {
+      "quote_id": "q01099",
+      "person_signal": "non_base",
+      "note": "Dialogue and generalized commentary do not expose the base narrator."
+    },
+    {
+      "quote_id": "q01100",
+      "person_signal": "unmarked",
+      "note": "The inclusive 'we all know' is an authorial generalization, not participation in the story."
+    },
+    {
+      "quote_id": "q01101",
+      "person_signal": "unmarked",
+      "note": "Historical and figurative exposition lacks a diagnostic narrator-character relation."
+    },
+    {
+      "quote_id": "q01102",
+      "person_signal": "third",
+      "note": "The external narrator names Tancredi and reports his private imaginative experiment and decision."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinblogposts.wordpress.com/2015/09/16/extract-the-leopard-giuseppe-tomasi-di-lampedusa/",
+      "title": "Extract: The Leopard, Giuseppe Tomasi Di Lampedusa",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized Chapter One extract sustains external narration of the Prince, his family, servants, and setting in third person."
+    },
+    {
+      "url": "https://e-l.unifi.it/mod/resource/view.php?id=375137",
+      "title": "Il modello del romanzo storico ottocentesco (University of Florence course slides)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The academic structural overview explicitly identifies a heterodiegetic, omniscient narrator and outlines all eight parts; changes in focal character are not changes of narrator person."
+    },
+    {
+      "url": "https://escholarship.org/content/qt2w6561tz/qt2w6561tz_noSplash_461710095a7a8b3b70170c8bf24b5993.pdf?t=krns3w",
+      "title": "Il Gattopardo: una rivoluzione senza fine perch\u00e9 tutto rimanga com'\u00e8",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This University of Virginia article in Carte Italiane distinguishes the omniscient narrator from Don Fabrizio and explains that the narrator renders the Prince's thought stream and addresses the reader."
+    },
+    {
+      "url": "https://www.ceeol.com/search/article-detail?id=744281",
+      "title": "The Narrative Instance in Giuseppe Tomasi di Lampedusa's The Leopard",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly article analyzes the novel's narrator discourse, free-indirect style, and absorbed interior monologue, treating the Prince's voice as embedded within a distinct controlling narrator."
+    },
+    {
+      "url": "https://identityhunters.org/wp-content/uploads/2017/07/guiseppe-di-lampedusa-the-leopard.pdf",
+      "title": "The Leopard (unattributed full-text PDF mirror)",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Used only for local attribution: q01087 appears inside Don Fabrizio's spoken anecdote to Chevalley, after which the text returns to third-person narration; the mirror's provenance is too weak for primary structural support."
+    }
+  ],
+  "search_log": [
+    "Verified the work under the standard author spelling Giuseppe Tomasi di Lampedusa; the input's 'Guiseppe' is a misspelling.",
+    "Searched \"The Leopard\" \"Giuseppe Tomasi di Lampedusa\" excerpt and first chapter; opened Penguin's authorized Chapter One extract.",
+    "Searched \"The Leopard\" third-person narrator, point of view, and omniscient narration; opened explicit whole-book academic analyses from the University of Florence, Carte Italiane/UCLA eScholarship, and CEEOL.",
+    "Searched the title with epistolary, frame narrative, multiple narrators, and alternating point of view; found variable focalization and embedded discourse but no sustained change from the heterodiegetic narrator.",
+    "Searched the exact wording of q01087 and located it within Don Fabrizio's dialogue; the unattributed full-text mirror was retained only as Tier D local evidence.",
+    "Google Books catalog copy and general plot summaries supplied no diagnostic prose or structural evidence and were not used."
+  ],
+  "person_note": "The controlling narrator is heterodiegetic and omniscient, using third-person narration while frequently adopting Don Fabrizio's and other characters' internal perspectives through free-indirect discourse. The sustained event quotations independently show this external access to characters' thoughts and futures. First-person forms in the dialogue quotations belong to characters; specifically, q01087 is an anecdote spoken by Don Fabrizio, not an alternate narrator. Authorized opening prose and multiple whole-book academic analyses agree, and targeted searches found focalization shifts but no sustained first- or second-person base sections. The only scope limitation is that the authorized publisher extract covers the opening, offset by the whole-book scholarly evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_011",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T11:25:56.161729+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "91dfba429cb8c858133c3448acbf148a3d08232b9ab506ecc8d8811f38602d65"
+  }
+}

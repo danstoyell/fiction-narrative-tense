@@ -19,4 +19,5 @@ raw_data/archive/quotes.csv
 *.log
 throttle_out.txt
 raw_data/batches/
+raw_data/person_runs/
 __pycache__/

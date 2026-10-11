@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:1336",
+  "quotes": [
+    {
+      "quote_id": "q01769",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI thought\u201d and \u201cI wanted\u201d expose a participating first-person narrator."
+    },
+    {
+      "quote_id": "q01770",
+      "person_signal": "first",
+      "note": "The narrator participates as \u201cwe\u201d and explicitly evaluates the situation as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01771",
+      "person_signal": "first",
+      "note": "The narrator describes Eric loving \u201cme,\u201d identifying a participating first-person voice."
+    },
+    {
+      "quote_id": "q01772",
+      "person_signal": "first",
+      "note": "\u201cI\u2019d have to say\u201d presents the narrator\u2019s own evaluation in first person."
+    },
+    {
+      "quote_id": "q01773",
+      "person_signal": "first",
+      "note": "Although bucketed as dialogue, the outside speech beats include narratorial \u201cme\u201d and \u201cI answered,\u201d exposing first-person base narration."
+    },
+    {
+      "quote_id": "q01774",
+      "person_signal": "non_base",
+      "note": "Pure character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01775",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial commentary, but it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01776",
+      "person_signal": "non_base",
+      "note": "Pure direct speech addressed to another character."
+    },
+    {
+      "quote_id": "q01777",
+      "person_signal": "first",
+      "note": "Sustained narratorial reflection uses \u201cI,\u201d \u201cI\u2019m,\u201d and \u201cI\u2019d\u201d outside dialogue."
+    },
+    {
+      "quote_id": "q01778",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization without a diagnostic narrator pronoun; \u201cI\u201d occurs only inside a figurative label."
+    },
+    {
+      "quote_id": "q01779",
+      "person_signal": "non_base",
+      "note": "Pure character speech, including direct address to \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q01780",
+      "person_signal": "unmarked",
+      "note": "Possible base narration about Eric, but the sentence does not grammatically identify the narrator."
+    },
+    {
+      "quote_id": "q01781",
+      "person_signal": "non_base",
+      "note": "A sequence of gnomic sayings without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01782",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur only in direct character speech."
+    },
+    {
+      "quote_id": "q01783",
+      "person_signal": "first",
+      "note": "The outside speech beat \u201cI thought\u201d diagnostically exposes first-person narration; Terry\u2019s quoted \u201cI\u201d statements are local speech."
+    },
+    {
+      "quote_id": "q01784",
+      "person_signal": "first",
+      "note": "The narrator describes her own condition as \u201cI was,\u201d clearly participating in the story."
+    },
+    {
+      "quote_id": "q01785",
+      "person_signal": "first",
+      "note": "\u201cWe followed\u201d places the narrator among the characters performing the action."
+    },
+    {
+      "quote_id": "q01786",
+      "person_signal": "first",
+      "note": "The narrator states a personal judgment using \u201cmy,\u201d consistent with participating first-person narration."
+    },
+    {
+      "quote_id": "q01787",
+      "person_signal": "non_base",
+      "note": "Direct speech plus an unmarked attribution; \u201cSam muttered\u201d alone cannot establish third-person narration."
+    },
+    {
+      "quote_id": "q01788",
+      "person_signal": "unmarked",
+      "note": "The description of Lily as \u201cshe\u201d is compatible with either first- or third-person base narration."
+    },
+    {
+      "quote_id": "q01789",
+      "person_signal": "first",
+      "note": "The outside dialogue beat \u201cI said, feeling I was\u201d clearly exposes the participating narrator."
+    },
+    {
+      "quote_id": "q01790",
+      "person_signal": "unmarked",
+      "note": "After Dermot\u2019s speech, the narrator describes Dermot and Claude externally, but no narrator reference identifies person."
+    },
+    {
+      "quote_id": "q01791",
+      "person_signal": "first",
+      "note": "\u201cAs I navigated\u201d and \u201cI wondered\u201d place the narrator directly in the scene."
+    },
+    {
+      "quote_id": "q01792",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about humans with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01793",
+      "person_signal": "unmarked",
+      "note": "Scene commentary and a rhetorical question contain no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01794",
+      "person_signal": "first",
+      "note": "The sustained scene begins with narratorial \u201cI felt,\u201d establishing the participating first-person viewpoint."
+    },
+    {
+      "quote_id": "q01795",
+      "person_signal": "unmarked",
+      "note": "The clipped general description of vampires contains possible base narration but no narrator-identifying pronoun."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9781937007355",
+      "title": "Dead Reckoning | Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher\u2019s sustained Chapter 1 excerpt follows Sookie through the attic and Merlotte\u2019s scenes using continuous narratorial \u201cI,\u201d \u201cmy,\u201d and \u201cwe,\u201d with no competing base person."
+    },
+    {
+      "url": "https://fanac.org/fanzines/Ethel_the_Aardvark/Ethel%20the%20Aardvark%20154%20McGrath,%20Paula%202011-06%20MSFC%20AU.pdf.pdf",
+      "title": "Ethel the Aardvark 154",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Paula McGrath\u2019s contemporaneous review explicitly says Dead Reckoning is in first person and discusses how that viewpoint restricts the book to Sookie\u2019s thoughts and interactions."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Southern_Vampire_Mysteries",
+      "title": "The Southern Vampire Mysteries",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The series overview includes Dead Reckoning in the novel sequence and explicitly identifies Sookie Stackhouse as the series\u2019 first-person narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDead Reckoning Charlaine Harris excerpt first chapter publisher\u201d and related author, publisher, library, Google Books, and official-site combinations.",
+    "Searched \u201cDead Reckoning Charlaine Harris first person narrator,\u201d \u201cpoint of view,\u201d \u201cnarrated by,\u201d and \u201cSookie perspective\u201d for explicit structural descriptions.",
+    "Opened the Penguin Random House Library Marketing page and verified its sustained authorized Chapter 1 excerpt rather than relying on the search snippet.",
+    "Opened the FANAC-hosted Ethel the Aardvark review PDF and verified its explicit whole-book discussion of the first-person viewpoint.",
+    "Opened the Southern Vampire Mysteries series overview and verified that it identifies Sookie as the first-person narrator and lists Dead Reckoning as book 11.",
+    "The current Penguin Random House retail page advertised a sample but did not expose its prose in the opened page; Google Books provided bibliographic and preview metadata but no usable person evidence in the opened view.",
+    "The former Charlaine Harris official Chapter 1 URL was identified through contemporaneous links but was no longer directly accessible; an inaccessible interview result and plot-summary grammar were not used as evidence.",
+    "Targeted searches for epistolary, frame-narrative, multiple-narrator, alternating-person, and third-person exceptions found no credible indication that Dead Reckoning departs from Sookie\u2019s first-person narration."
+  ],
+  "person_note": "Numerous Goodreads passages from different scenes expose Sookie\u2019s participating narration through \u201cI,\u201d \u201cme,\u201d \u201cmy,\u201d and \u201cwe\u201d; dialogue-only and grammatically unmarked passages were not allowed to vote mechanically. The authorized opening independently sustains the same voice, while an explicit whole-book review and the series structure corroborate that the limitation to Sookie persists beyond the opening. No evidence of sustained third-person, second-person, framed, or alternating sections was found, so isolated third-person references to other characters are ordinary descriptions within Sookie\u2019s first-person narration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.249009+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ac45d7def1a0c53be869486aac796c4eb3cc3f5288e80cfcb0a88c10e9488a03"
+  }
+}

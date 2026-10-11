@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:DUNGEON CRAWLER CARL|Matt Dinniman",
+  "quotes": [
+    {
+      "quote_id": "q10316",
+      "person_signal": "non_base",
+      "note": "An in-world item description from the System interface, not the controlling narration."
+    },
+    {
+      "quote_id": "q10317",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q10318",
+      "person_signal": "non_base",
+      "note": "Direct character speech rather than narratorial prose."
+    },
+    {
+      "quote_id": "q10319",
+      "person_signal": "non_base",
+      "note": "Dialogue or quoted thought; the first-person plural is local to the speaker."
+    },
+    {
+      "quote_id": "q10320",
+      "person_signal": "non_base",
+      "note": "A question-and-answer announcement addressed to a character, not base second-person narration."
+    },
+    {
+      "quote_id": "q10321",
+      "person_signal": "first",
+      "note": "The external speech tag \u201cI said\u201d directly exposes the participating first-person narrator."
+    },
+    {
+      "quote_id": "q10322",
+      "person_signal": "non_base",
+      "note": "A System reward notification, constituting embedded interface text."
+    },
+    {
+      "quote_id": "q10323",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Carl; its pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q10324",
+      "person_signal": "non_base",
+      "note": "Direct character speech rather than controlling narration."
+    },
+    {
+      "quote_id": "q10325",
+      "person_signal": "non_base",
+      "note": "An embedded System achievement addressed to Carl as \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q10326",
+      "person_signal": "non_base",
+      "note": "A labeled message exchange between Carl and Donut, not the base narrative voice."
+    },
+    {
+      "quote_id": "q10327",
+      "person_signal": "non_base",
+      "note": "A metafictional System achievement addressed to the reader, not story-level narration."
+    },
+    {
+      "quote_id": "q10328",
+      "person_signal": "non_base",
+      "note": "Direct speech by Donut; first-person forms identify the character speaking."
+    },
+    {
+      "quote_id": "q10329",
+      "person_signal": "non_base",
+      "note": "An embedded System mob description; its third- and second-person language does not control the novel."
+    },
+    {
+      "quote_id": "q10330",
+      "person_signal": "non_base",
+      "note": "Authorial paratext requesting a review, outside the prose narrative."
+    },
+    {
+      "quote_id": "q10331",
+      "person_signal": "non_base",
+      "note": "An embedded System creature description, including generic and player-directed language."
+    },
+    {
+      "quote_id": "q10332",
+      "person_signal": "unmarked",
+      "note": "Possible base narration describes Mongo externally, but no participating or nonparticipating narrator is exposed."
+    },
+    {
+      "quote_id": "q10333",
+      "person_signal": "non_base",
+      "note": "Direct speech by Donut; its repeated \u201cI\u201d is character dialogue."
+    },
+    {
+      "quote_id": "q10334",
+      "person_signal": "unmarked",
+      "note": "The external speech beat names Mordecai but is compatible with either first- or third-person base narration."
+    },
+    {
+      "quote_id": "q10335",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection uses generic \u201cyourself\u201d and does not establish sustained second-person narration."
+    },
+    {
+      "quote_id": "q10336",
+      "person_signal": "non_base",
+      "note": "Embedded System party and title notifications addressed to Carl."
+    },
+    {
+      "quote_id": "q10337",
+      "person_signal": "non_base",
+      "note": "A gnomic statement with no diagnostic base-narrator signal."
+    },
+    {
+      "quote_id": "q10338",
+      "person_signal": "non_base",
+      "note": "An embedded System achievement uses \u201cyou\u201d to address Carl, not as the novel\u2019s controlling narration."
+    },
+    {
+      "quote_id": "q10339",
+      "person_signal": "unmarked",
+      "note": "The speech is non-diagnostic, while the external \u201cDonut said\u201d beat alone does not establish narrator participation."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://mattdinniman.com/books/dungeon-crawler-carl/",
+      "title": "DCC Book 1 \u2013 Dungeon Crawler Carl \u2013 Matt Dinniman",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author\u2019s official Chapter 1 transcript has Carl identify himself and continuously narrate his actions and history as \u201cI.\u201d"
+    },
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241816264/9780241816264-sample.pdf",
+      "title": "Dungeon Crawler Carl official Penguin sample",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The authorized 46-page sample spans Chapter 1 and substantial narrative after Carl enters the dungeon; scene narration remains consistently in Carl\u2019s first person around embedded System messages."
+    },
+    {
+      "url": "https://sfbook.com/dungeon-crawler-carl.htm",
+      "title": "Book review of Dungeon Crawler Carl by Matt Dinniman",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes the novel\u2019s perspective as first person and its narrator as an ordinary person recounting his journey."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDungeon Crawler Carl Matt Dinniman excerpt first chapter\u201d and opened the author\u2019s official book page and Chapter 1 transcript.",
+    "Searched Penguin Random House and Penguin UK for an authorized sample; opened the official 2025-edition PDF covering Chapter 1 and subsequent dungeon scenes.",
+    "Searched \u201cDungeon Crawler Carl first person narrator\u201d and \u201cDungeon Crawler Carl point of view\u201d; opened an explicit whole-book review describing the first-person perspective.",
+    "Checked publisher catalog material, fan references, forum results, and a Grimdark Magazine interview result; catalog synopsis grammar was not treated as person evidence, fan/forum assertions were unnecessary, and the interview page failed to open."
+  ],
+  "person_note": "Carl is the participating controlling narrator and tells the story as \u201cI.\u201d The diagnostic quote containing \u201cI said\u201d agrees with two sustained authorized excerpts and an explicit whole-book review. Most sampled second-person language comes from the dungeon System\u2019s achievement, item, and creature-description interface, while other first-person forms occur in dialogue; these are embedded local voices rather than alternative base narration. No credible evidence of sustained narration in another person was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_088",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:35:33.727843+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7f44ff7fc2ca79c68295773114329c310d4f620f511e8748f4804d93ded3ae3b"
+  }
+}

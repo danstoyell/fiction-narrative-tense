@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:1666",
+  "quotes": [
+    {
+      "quote_id": "q02676",
+      "person_signal": "unmarked",
+      "note": "Gnomic sentence situated in the first-person framing section, but it contains no person-diagnostic narration itself."
+    },
+    {
+      "quote_id": "q02677",
+      "person_signal": "unmarked",
+      "note": "Generalization within the framing section; it does not independently expose the narrator's person."
+    },
+    {
+      "quote_id": "q02678",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the brief third-person speech tag does not establish the base narrator."
+    },
+    {
+      "quote_id": "q02679",
+      "person_signal": "non_base",
+      "note": "First-person address from a character's embedded letter, not the controlling narration."
+    },
+    {
+      "quote_id": "q02680",
+      "person_signal": "non_base",
+      "note": "Universal aphorism with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q02681",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than story narration."
+    },
+    {
+      "quote_id": "q02682",
+      "person_signal": "first",
+      "note": "The narratorial I belongs to the sustained author-as-character framing section confirmed by the authorized excerpt."
+    },
+    {
+      "quote_id": "q02683",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q02684",
+      "person_signal": "non_base",
+      "note": "Character-level retrospective statement about a relationship, not the base narrator."
+    },
+    {
+      "quote_id": "q02685",
+      "person_signal": "unmarked",
+      "note": "Fragment from the framing discussion, but it contains no person-diagnostic pronoun."
+    },
+    {
+      "quote_id": "q02686",
+      "person_signal": "non_base",
+      "note": "Real-world Churchill reference used as a generalization, not story narration."
+    },
+    {
+      "quote_id": "q02687",
+      "person_signal": "first",
+      "note": "Participating I-narration from the author-as-character bookend reflecting on the couple."
+    },
+    {
+      "quote_id": "q02688",
+      "person_signal": "non_base",
+      "note": "Aphoristic line presented as part of the discovered embedded story, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q02689",
+      "person_signal": "non_base",
+      "note": "General statement about written words without diagnostic story narration."
+    },
+    {
+      "quote_id": "q02690",
+      "person_signal": "non_base",
+      "note": "First-person-framed generalization whose local speaker is not securely identifiable as the controlling narrator."
+    },
+    {
+      "quote_id": "q02691",
+      "person_signal": "unmarked",
+      "note": "A third-person character summary alone does not exclude a participating narrator."
+    },
+    {
+      "quote_id": "q02692",
+      "person_signal": "non_base",
+      "note": "A character's first-person retrospective statement, associated with the embedded love story rather than the frame narrator."
+    },
+    {
+      "quote_id": "q02693",
+      "person_signal": "unmarked",
+      "note": "Character cognition is rendered with she, but the short passage alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q02694",
+      "person_signal": "unmarked",
+      "note": "A character's belief is summarized in third person, but the isolated passage is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02695",
+      "person_signal": "unclear",
+      "note": "The passage is clipped mid-sentence, preventing reliable local attribution."
+    },
+    {
+      "quote_id": "q02696",
+      "person_signal": "unclear",
+      "note": "Lowercase fragment omits the governing character and narration boundaries."
+    },
+    {
+      "quote_id": "q02697",
+      "person_signal": "third",
+      "note": "Sustained external narration presents both characters, action, and her internal realization without a participating narrator."
+    },
+    {
+      "quote_id": "q02698",
+      "person_signal": "unmarked",
+      "note": "A single sentence about what she knew does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q02699",
+      "person_signal": "unmarked",
+      "note": "Third-person character desire surrounds a generalization, but the isolated sentence is not conclusive."
+    },
+    {
+      "quote_id": "q02700",
+      "person_signal": "first",
+      "note": "Participating I-narration belongs to the author-as-character framing bookend."
+    },
+    {
+      "quote_id": "q02701",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the speech tag does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02702",
+      "person_signal": "unclear",
+      "note": "Pronoun-dependent fragment lacks enough context to identify either narrator or focal character."
+    },
+    {
+      "quote_id": "q02703",
+      "person_signal": "third",
+      "note": "Authorized context identifies this as the opening of Part I, followed by sustained external narration of Tru."
+    },
+    {
+      "quote_id": "q02704",
+      "person_signal": "unmarked",
+      "note": "A lone externally phrased sentence about he is compatible with more than one narrator type."
+    },
+    {
+      "quote_id": "q02705",
+      "person_signal": "unmarked",
+      "note": "The passage reports his sensations and emotions but is too short to establish narrator participation independently."
+    },
+    {
+      "quote_id": "q02706",
+      "person_signal": "non_base",
+      "note": "First-person lament from a character's embedded written account, not the book's framing narrator."
+    },
+    {
+      "quote_id": "q02707",
+      "person_signal": "third",
+      "note": "Sustained external summary enters her understanding and decision without introducing a participating narrator."
+    },
+    {
+      "quote_id": "q02708",
+      "person_signal": "third",
+      "note": "Extended third-person narration repeatedly renders her memories, reflections, and decisions from a nonparticipating position."
+    },
+    {
+      "quote_id": "q02709",
+      "person_signal": "unclear",
+      "note": "The clipped passage ends mid-sentence and provides insufficient local framing."
+    },
+    {
+      "quote_id": "q02710",
+      "person_signal": "unmarked",
+      "note": "Free-indirect questions imply a character viewpoint but contain no narrator-person marker."
+    },
+    {
+      "quote_id": "q02711",
+      "person_signal": "non_base",
+      "note": "Two turns of character dialogue do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02712",
+      "person_signal": "unclear",
+      "note": "Lowercase clipped fragment lacks sufficient narratorial context."
+    },
+    {
+      "quote_id": "q02713",
+      "person_signal": "unmarked",
+      "note": "Story-world summary and embedded maxim contain no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q02714",
+      "person_signal": "unclear",
+      "note": "Lowercase fragment lacks its governing sentence and cannot securely identify the narrative voice."
+    },
+    {
+      "quote_id": "q02715",
+      "person_signal": "first",
+      "note": "Authorized context places this exact language in the sustained first-person author-as-character framing section."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-21.2018.10-every-breath.pdf",
+      "title": "An Excerpt from Every Breath",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The author's authorized excerpt presents sustained first-person self-insertion, and the included Author's Note explicitly identifies first-person bookends around the lovers' story."
+    },
+    {
+      "url": "https://bingebooks.com/book/every-breath",
+      "title": "Every Breath by Nicholas Sparks",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The continuous sample begins with the author-character narrating as I, then marks PART I: TRU and shifts to sustained third-person narration with access to Tru's thoughts."
+    },
+    {
+      "url": "https://robinshelley.com/2019/02/19/every-breath-by-nicholas-sparks/",
+      "title": "Every Breath by Nicholas Sparks",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A completed-book review explicitly describes Sparks inserting himself as narrator in a frame story surrounding the story of Hope and Tru."
+    }
+  ],
+  "search_log": [
+    "Searched \"Nicholas Sparks Every Breath excerpt first chapter narrator point of view\" and related author/publisher excerpt queries.",
+    "Searched \"Every Breath Nicholas Sparks third person first person frame narrator review\" and targeted bookend/alternating-POV queries.",
+    "Opened and inspected the authorized Nicholas Sparks PDF, including its first-person framing prose and structural Author's Note.",
+    "Opened the BingeBooks continuous sample through the transition from the first-person frame to Part I's sustained third-person Tru narration.",
+    "Checked targeted exact-quote searches to distinguish the framing narrator from character letters, dialogue, and other embedded first-person material; Goodreads quote pages lacked sufficient local context and were not used as web structural evidence."
+  ],
+  "person_note": "The central Hope-and-Tru story constitutes the sustained base narration and is told in third person. Nicholas Sparks appears as a participating first-person voice in framing bookends, but those short authorial sections do not override the controlling person of the main novel. Embedded letters and dialogue likewise remain local, so the book label is THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_063",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T20:22:24.462900+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a871cc03a3576d951eba01cb0b678577e668fe3ee8e22c6c8eb9d9a7adcbb80d"
+  }
+}

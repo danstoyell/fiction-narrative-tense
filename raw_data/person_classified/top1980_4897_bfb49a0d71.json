@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1980:4897",
+  "quotes": [
+    {
+      "quote_id": "q02485",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its wording does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02486",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02487",
+      "person_signal": "non_base",
+      "note": "Quoted speech; the inclusive pronoun belongs to the speaker."
+    },
+    {
+      "quote_id": "q02488",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial commentary, but the third-person subject alone cannot establish narrator participation."
+    },
+    {
+      "quote_id": "q02489",
+      "person_signal": "non_base",
+      "note": "General historical maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q02490",
+      "person_signal": "third",
+      "note": "Extended authorial narration describes a historical group externally as they and supplies broad contextual judgment without a participating narrator."
+    },
+    {
+      "quote_id": "q02491",
+      "person_signal": "third",
+      "note": "Sustained scene narration treats the Saltwood children and surrounding community externally, including omniscient background and projections about the children's future."
+    },
+    {
+      "quote_id": "q02492",
+      "person_signal": "non_base",
+      "note": "First-person dramatic speech quoted by a character, not base narration."
+    },
+    {
+      "quote_id": "q02493",
+      "person_signal": "non_base",
+      "note": "Sustained first-person character speech; the I belongs to the speaker."
+    },
+    {
+      "quote_id": "q02494",
+      "person_signal": "non_base",
+      "note": "The quote is predominantly dialogue; the brief proper-name action beat does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q02495",
+      "person_signal": "non_base",
+      "note": "Generic gnomic you, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q02496",
+      "person_signal": "non_base",
+      "note": "Dialogue containing an embedded joke; the speech tags do not establish the base narrator's participation."
+    },
+    {
+      "quote_id": "q02497",
+      "person_signal": "non_base",
+      "note": "Character speech, so its pronouns are not narratorial evidence."
+    },
+    {
+      "quote_id": "q02498",
+      "person_signal": "third",
+      "note": "Authorial historical narration ranges across South African police and international comparisons from a nonparticipating, omniscient position."
+    },
+    {
+      "quote_id": "q02499",
+      "person_signal": "unmarked",
+      "note": "A single isolated they-led action sentence is compatible with either first- or third-person framing and lacks enough context to decide."
+    },
+    {
+      "quote_id": "q02500",
+      "person_signal": "non_base",
+      "note": "Standalone maxim rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q02501",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic assertion rather than story narration."
+    },
+    {
+      "quote_id": "q02502",
+      "person_signal": "non_base",
+      "note": "Generic gnomic you, not second-person narrative."
+    },
+    {
+      "quote_id": "q02503",
+      "person_signal": "non_base",
+      "note": "Clipped dialogue fragment; its third-person reference does not identify the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://dokumen.pub/james-a-michener-a-critical-companion-1996-0313295387.html",
+      "title": "James A. Michener: A Critical Companion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A scholarly book-length critical study explicitly states that The Covenant's unfolding story is presented by a third-person narrator, then surveys that narrator across the novel's chapters and family strands."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-covenant/style.html",
+      "title": "James A. Michener Writing Styles in The Covenant",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "An unattributed commercial study-guide page asserts first-person narration but supplies no primary-text demonstration. Its claim conflicts with the sustained quoted prose and the detailed scholarly analysis, so it is retained only as a low-tier contrary assertion."
+    }
+  ],
+  "search_log": [
+    "Searched \"James A. Michener The Covenant excerpt first chapter narration\" and related excerpt and preview queries; Google Books exposed catalog information and a contents list but no usable sustained prose.",
+    "Searched \"The Covenant James Michener point of view narrator third person\" and \"The Covenant Michener third-person narrator\"; found the explicit whole-book discussion in Marilyn S. Severson's James A. Michener: A Critical Companion.",
+    "Searched for omniscient, alternating, multiple-narrator, frame-narrative, diary, and epistolary descriptions; found no credible evidence that the novel sustains first- or second-person base sections.",
+    "Opened the BookRags style page after its search result claimed first person; the page gave only an unsupported assertion, prompting targeted follow-up searches that continued to support third person.",
+    "Opened Google Books, Open Library, Kirkus, and Errol Lincoln Uys's manuscript-sample page; the catalog and review pages were nondiagnostic for grammatical person, while the manuscript images were not text-accessible enough to use as primary passage evidence."
+  ],
+  "person_note": "The diagnostic Goodreads passages expose a nonparticipating, historically omniscient narrator: q02491 sustains an externally narrated scene and projects the children's future, while q02490 and q02498 provide broad authorial knowledge and judgment. Shorter third-person-looking passages were kept unmarked where context was insufficient, and all first-person examples occur in dialogue or embedded quotation. The scholarly whole-book analysis independently identifies the narrator as third person and describes that structure across the novel. The lone first-person web assertion is an unsupported commercial-guide statement directly contradicted by both channels. The remaining uncertainty is limited to incomplete access to authorized primary previews and does not materially challenge the classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_021",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T07:21:42.164754+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5986632b0cca739bd112bca96df6804eb4752f4f12e7bdd9faf823d4fbca0164"
+  }
+}

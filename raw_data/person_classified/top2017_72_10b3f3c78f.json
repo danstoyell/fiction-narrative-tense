@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:72",
+  "quotes": [
+    {
+      "quote_id": "q01637",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim; it does not expose a participating or external base narrator."
+    },
+    {
+      "quote_id": "q01638",
+      "person_signal": "unmarked",
+      "note": "Historical generalization with no narrator-participation evidence."
+    },
+    {
+      "quote_id": "q01639",
+      "person_signal": "unmarked",
+      "note": "Expository statement about political language; grammatical subjects do not identify the narrator."
+    },
+    {
+      "quote_id": "q01640",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01641",
+      "person_signal": "non_base",
+      "note": "Political aphorism with no base-narrator signal."
+    },
+    {
+      "quote_id": "q01642",
+      "person_signal": "unclear",
+      "note": "The first-person sentence appears to be clipped speech, but missing boundaries prevent secure attribution."
+    },
+    {
+      "quote_id": "q01643",
+      "person_signal": "first",
+      "note": "Sustained retrospective narration by Ned; structural research confirms that he narrates recurring first-person sections."
+    },
+    {
+      "quote_id": "q01644",
+      "person_signal": "third",
+      "note": "External narration names Ned and reports the answer entering his mind, establishing third-person narration."
+    },
+    {
+      "quote_id": "q01645",
+      "person_signal": "unclear",
+      "note": "Conversational tense and wording suggest clipped character speech despite the event bucket; lost boundaries prevent secure attribution."
+    },
+    {
+      "quote_id": "q01646",
+      "person_signal": "unmarked",
+      "note": "The sentence belongs to a Ned interlude in wider context, but this clipped sentence contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01647",
+      "person_signal": "non_base",
+      "note": "Direct dialogue without a diagnostic narratorial frame."
+    },
+    {
+      "quote_id": "q01648",
+      "person_signal": "first",
+      "note": "Participating retrospective narration; recurring Ned interludes establish this as a base first-person section rather than isolated speech."
+    },
+    {
+      "quote_id": "q01649",
+      "person_signal": "first",
+      "note": "Extended first-person retrospective account by Ned, overlapping the structurally identified first-person interlude represented by q01643."
+    },
+    {
+      "quote_id": "q01650",
+      "person_signal": "unmarked",
+      "note": "A bare third-person description of an unnamed man is insufficient to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q01651",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Alison and Mary around a brief spoken command."
+    },
+    {
+      "quote_id": "q01652",
+      "person_signal": "unmarked",
+      "note": "The visible first and second persons occur inside a character's marked thought; the short external beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01653",
+      "person_signal": "third",
+      "note": "An external narrator marks a character's thought and sustains third-person reporting of the character's perceptions."
+    },
+    {
+      "quote_id": "q01654",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; the brief 'Ned said' beat is too slight to determine base person."
+    },
+    {
+      "quote_id": "q01655",
+      "person_signal": "non_base",
+      "note": "Second-person wording is direct speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01656",
+      "person_signal": "non_base",
+      "note": "Gnomic political statement with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q01657",
+      "person_signal": "unmarked",
+      "note": "Historical exposition about third parties could occur under either a participating or nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01658",
+      "person_signal": "unmarked",
+      "note": "Historical-religious exposition contains no diagnostic reference to the narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ken-follett.com/wp-content/uploads/2020/08/AColumnofFire.pdf",
+      "title": "A Column of Fire \u2014 authorized first-chapter PDF",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The author's site supplies eleven continuous pages from Part One, sustaining external third-person narration of Ned throughout the chapter opening."
+    },
+    {
+      "url": "https://www.supersummary.com/a-column-of-fire/major-character-analysis/",
+      "title": "A Column of Fire Character Analysis",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The detailed whole-book study identifies Ned as narrator of recurring, sporadic first-person segments; combined with the dominant third-person narrative it establishes a multi-person structure."
+    },
+    {
+      "url": "https://www.supersummary.com/a-column-of-fire/prologue-part-1-summary/",
+      "title": "A Column of Fire Prologue-Part 1 Summary & Analysis",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis identifies the prologue narrator as Ned speaking in first person and separately analyzes the ensuing Part One narrative, corroborating the transition between narrative persons."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-a-column-of-fire/styles.html",
+      "title": "Follett, Ken Writing Styles in A Column of Fire",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The whole-book point-of-view analysis identifies the dominant narrative as third-person limited following numerous focal characters; its broad description omits rather than disproves the short Ned interludes."
+    },
+    {
+      "url": "https://literaryquicksand.com/2017/10/review-column-fire/",
+      "title": "Review: A Column of Fire",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A reviewer of the unabridged book independently notes first-person asides by Ned between sections, corroborating their recurrence and structural placement."
+    }
+  ],
+  "search_log": [
+    "Searched site:ken-follett.com \"A Column of Fire\" excerpt and opened the author's book page and authorized first-chapter PDF.",
+    "Searched publisher domains for \"A Column of Fire\" extract/read sample; Penguin Random House exposed catalog information but not usable sample prose in the opened page.",
+    "Searched \"A Column of Fire\" point of view, third person, narrator, prologue, and first-person sections; opened the BookRags and SuperSummary structural analyses.",
+    "Searched exact first-person quotations including \"I have learned, during the course of a long life\" and \"I learned the meaning of the word bittersweet\" to distinguish recurring Ned narration from dialogue.",
+    "Searched \"A Column of Fire\" \"sporadic first-person segments\" and related wording; found an independent full-book review describing Ned's first-person asides between sections.",
+    "Searched Google Books and library/archive combinations; results did not provide a sustained accessible whole-book preview suitable as stronger evidence."
+  ],
+  "person_note": "The novel's dominant narrative is third-person limited across multiple focal characters, as shown by q01644, q01651, q01653, the authorized Part One excerpt, and whole-book structural analysis. It also contains recurring autonomous first-person interludes narrated retrospectively by Ned, represented by q01643, q01648, and q01649 and explicitly identified by Tier B structural research. Because these are repeated base sections rather than speech, documents, or an isolated thought, the methodology requires ALTERNATING. The main residual uncertainty is the precise placement of some clipped Goodreads sentences, but it does not affect the independently established two-person structure.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.258495+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "70a81b508f2cfd7c5de2bb41ab1b13c86f52b7bc5ea3d8994f28434d2f9dc664"
+  }
+}

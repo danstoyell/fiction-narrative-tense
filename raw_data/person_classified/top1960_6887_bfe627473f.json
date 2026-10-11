@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1960:6887",
+  "quotes": [
+    {
+      "quote_id": "q01047",
+      "person_signal": "non_base",
+      "note": "Atticus's spoken advice uses generic and directly addressed you; it does not expose the narrator."
+    },
+    {
+      "quote_id": "q01048",
+      "person_signal": "first",
+      "note": "Scout's narratorial I recalls her own fear and love of reading; the later maxim does not negate the first-person signal."
+    },
+    {
+      "quote_id": "q01049",
+      "person_signal": "non_base",
+      "note": "Atticus speaks as I to an addressed you, so these pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q01050",
+      "person_signal": "non_base",
+      "note": "A generalization presented as dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01051",
+      "person_signal": "non_base",
+      "note": "This gnomic statement contains no diagnostic base narration."
+    },
+    {
+      "quote_id": "q01052",
+      "person_signal": "first",
+      "note": "The narrator participates as the me whom Atticus instructed."
+    },
+    {
+      "quote_id": "q01053",
+      "person_signal": "non_base",
+      "note": "The first-person wording belongs to character speech."
+    },
+    {
+      "quote_id": "q01054",
+      "person_signal": "non_base",
+      "note": "This is character speech containing generalized you, not second-person narration."
+    },
+    {
+      "quote_id": "q01055",
+      "person_signal": "non_base",
+      "note": "Both clauses are direct dialogue between Scout and Atticus."
+    },
+    {
+      "quote_id": "q01056",
+      "person_signal": "first",
+      "note": "Outside the embedded speeches, Scout narrates as I that she heard Atticus and asked Miss Maudie."
+    },
+    {
+      "quote_id": "q01057",
+      "person_signal": "non_base",
+      "note": "Atticus addresses a listener as you within dialogue."
+    },
+    {
+      "quote_id": "q01058",
+      "person_signal": "non_base",
+      "note": "A spoken generalization does not expose narrative person."
+    },
+    {
+      "quote_id": "q01059",
+      "person_signal": "first",
+      "note": "This reflective sentence is Scout's participating narration despite its apparent upstream dialogue misbucket."
+    },
+    {
+      "quote_id": "q01060",
+      "person_signal": "unmarked",
+      "note": "This possible base-narrative observation contains no explicit participating narrator and cannot alone distinguish first from third person."
+    },
+    {
+      "quote_id": "q01061",
+      "person_signal": "non_base",
+      "note": "The explicit Atticus attribution confirms that you occurs in direct advice."
+    },
+    {
+      "quote_id": "q01062",
+      "person_signal": "non_base",
+      "note": "The generalized you belongs to dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01063",
+      "person_signal": "non_base",
+      "note": "This is direct advice using generic you."
+    },
+    {
+      "quote_id": "q01064",
+      "person_signal": "non_base",
+      "note": "The inclusive we and us belong to character speech."
+    },
+    {
+      "quote_id": "q01065",
+      "person_signal": "non_base",
+      "note": "The I and they forms occur in Jem's dialogue, not the controlling narration."
+    },
+    {
+      "quote_id": "q01066",
+      "person_signal": "non_base",
+      "note": "This brief spoken maxim is nondiagnostic."
+    },
+    {
+      "quote_id": "q01067",
+      "person_signal": "non_base",
+      "note": "The repeated we occurs in character speech."
+    },
+    {
+      "quote_id": "q01068",
+      "person_signal": "first",
+      "note": "Scout explicitly narrates her own development as I."
+    },
+    {
+      "quote_id": "q01069",
+      "person_signal": "first",
+      "note": "Scout participates through our, we, and me while retrospectively describing Boo and the children."
+    },
+    {
+      "quote_id": "q01070",
+      "person_signal": "non_base",
+      "note": "The directly addressed and generic you forms belong to dialogue."
+    },
+    {
+      "quote_id": "q01071",
+      "person_signal": "non_base",
+      "note": "This short line is dialogue and contains no narratorial person evidence."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://scholarship.shu.edu/dissertations/2991/",
+      "title": "Fulfilling the Search for Completeness in Harper Lee\u2019s To Kill A Mockingbird and Delia Owens\u2019 Where the Crawdads Sing",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A Seton Hall University MA thesis identifies Mockingbird as Scout's first-person narrative, structured as an adult's linear retrospective of events she witnessed in childhood."
+    },
+    {
+      "url": "https://diposit.ub.edu/bitstreams/5017fac9-251e-4956-9356-c98a6dc80ebd/download",
+      "title": "Reliably Unreliable: An Analysis of the Child Narrators in To Kill a Mockingbird (1960) and Room (2010)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This University of Barcelona narratological study analyzes Scout as the novel's retrospective narrating I and distinguishes the adult narrator from the experiencing child."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/mocking/point-of-view/",
+      "title": "To Kill a Mockingbird: Point of View",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The opened point-of-view analysis explicitly says the novel is first person, Scout is narrator and protagonist, and she remains narrator throughout the book even when she becomes an observer during the trial."
+    },
+    {
+      "url": "https://www.arts.gov/initiatives/nea-big-read/kill-mockingbird",
+      "title": "To Kill a Mockingbird | National Endowment for the Arts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The NEA Big Read guide describes Scout's perspective and refers to the adult Scout beginning and developing her own narrative, corroborating her role as participating retrospective narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"To Kill a Mockingbird Harper Lee official publisher excerpt first chapter Scout narrator\" and related publisher, author, library, and Google Books excerpt queries.",
+    "Opened the Google Books HarperCollins edition page; it supplied publisher metadata and a limited-preview listing but no usable sustained prose in the accessible page, so it was not treated as person evidence.",
+    "Searched \"To Kill a Mockingbird point of view Scout narrator scholarly analysis\" and opened relevant university-repository results from Seton Hall and the University of Barcelona.",
+    "Opened the National Endowment for the Arts Big Read guide and SparkNotes point-of-view analysis to verify Scout's role and whole-book scope.",
+    "Searched targeted combinations for \"alternating narrators,\" \"frame narrative,\" \"epistolary,\" and \"multiple narrators\"; results consistently described Scout as the continuing first-person narrator and produced no evidence of sustained base narration in another person."
+  ],
+  "person_note": "The controlling narrator is Jean Louise \"Scout\" Finch, a participant retrospectively recounting her childhood in first person. Event passages independently expose her narratorial I, me, we, and our, while most other first- or second-person forms in the quote set belong to local dialogue or maxims. q01059 appears to be Scout's base narration despite its upstream dialogue bucket. Two scholarly structural analyses and additional credible whole-book descriptions agree that Scout narrates the novel in first person, with no sustained third- or second-person base sections. The only material uncertainty concerns isolated quote bucketing, not the book-level narrative structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_012",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:31:19.471646+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "64f1e6cd77895f148a5419e9823007986f25e5578611461d10aa0e1d74b9c37d"
+  }
+}

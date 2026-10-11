@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:6800",
+  "quotes": [
+    {
+      "quote_id": "q00312",
+      "person_signal": "non_base",
+      "note": "Generalized reflection on aging; its rhetorical you does not establish second-person narration."
+    },
+    {
+      "quote_id": "q00313",
+      "person_signal": "non_base",
+      "note": "Aphorism about longevity without diagnostic narration."
+    },
+    {
+      "quote_id": "q00314",
+      "person_signal": "non_base",
+      "note": "Generic you in a maxim, not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00315",
+      "person_signal": "first",
+      "note": "My opinion reports the participating narrator's judgment; subsequent you is generic."
+    },
+    {
+      "quote_id": "q00316",
+      "person_signal": "first",
+      "note": "The narrator recounts his own intention as I outside speech."
+    },
+    {
+      "quote_id": "q00317",
+      "person_signal": "unmarked",
+      "note": "Indirectly reported speech about another character does not identify the reporting narrator's person."
+    },
+    {
+      "quote_id": "q00318",
+      "person_signal": "non_base",
+      "note": "General observation about aging without diagnostic personal narration."
+    },
+    {
+      "quote_id": "q00319",
+      "person_signal": "non_base",
+      "note": "Inclusive human we in philosophical commentary is nondiagnostic."
+    },
+    {
+      "quote_id": "q00320",
+      "person_signal": "first",
+      "note": "The narrator retrospectively states his own belief as I."
+    },
+    {
+      "quote_id": "q00321",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with a rhetorical I; alone it does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00322",
+      "person_signal": "non_base",
+      "note": "Universal we in a clipped maxim about time."
+    },
+    {
+      "quote_id": "q00323",
+      "person_signal": "first",
+      "note": "The narrator explicitly recalls getting to know Bear and his people as I."
+    },
+    {
+      "quote_id": "q00324",
+      "person_signal": "non_base",
+      "note": "General claims about history and suffering rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00325",
+      "person_signal": "non_base",
+      "note": "Impersonal moral aphorism."
+    },
+    {
+      "quote_id": "q00326",
+      "person_signal": "first",
+      "note": "I decided and I understood frame Bear's views through the participating narrator."
+    },
+    {
+      "quote_id": "q00327",
+      "person_signal": "non_base",
+      "note": "Abstract maxim about force without diagnostic narration."
+    },
+    {
+      "quote_id": "q00328",
+      "person_signal": "non_base",
+      "note": "Rhetorical I and collective we introduce a general judgment, not diagnostic participation."
+    },
+    {
+      "quote_id": "q00329",
+      "person_signal": "non_base",
+      "note": "Gnomic discussion of identity uses communal we and our without independently establishing narrative person."
+    },
+    {
+      "quote_id": "q00330",
+      "person_signal": "unmarked",
+      "note": "Travel narration leaves the traveler and narrator unidentified; you is generic commentary."
+    },
+    {
+      "quote_id": "q00331",
+      "person_signal": "non_base",
+      "note": "Attribution and quoted advice from Featherstone to Will; speech pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q00332",
+      "person_signal": "first",
+      "note": "The narrator recounts his own exchange with a writer; first-person narration also frames the reported jokes."
+    },
+    {
+      "quote_id": "q00333",
+      "person_signal": "first",
+      "note": "I passed out cigars establishes the narrator's participation before Charley's embedded stories."
+    },
+    {
+      "quote_id": "q00334",
+      "person_signal": "first",
+      "note": "The narrator states his own uncertainty about writing and recalls Bear's objections within that first-person frame."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1878/thirteen-moons",
+      "title": "Excerpt from Thirteen Moons by Charles Frazier",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Sustained opening excerpt explicitly reproduced with Random House's permission. The elderly narrator describes his present activities and shared past with Bear in first person; this source establishes the opening only."
+    },
+    {
+      "url": "https://www.newyorker.com/magazine/2006/10/02/dispossession",
+      "title": "Dispossession",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Louis Menand explicitly identifies Will Cooper as the protagonist telling his life in first person and discusses the novel's confinement to Cooper's voice."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/thirteen-moons",
+      "title": "Thirteen Moons",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Identifies Will Cooper as both narrator and protagonist recounting his life from old age. Attributes the passage supplied as q00323 to Will and corroborates his narration of later experiences."
+    }
+  ],
+  "search_log": [
+    "Searched: Charles Frazier Thirteen Moons excerpt.",
+    "Searched: Charles Frazier Thirteen Moons first person narrator Will review.",
+    "Opened the authorized BookBrowse excerpt, The New Yorker's Dispossession, and Bookreporter's review. Together they establish first-person opening narration and the novel's overall retrospective structure."
+  ],
+  "person_note": "Will Cooper controls the narrative, recounting his own life and reflecting from old age. Diagnostic Goodreads passages agree with the authorized opening and two explicit whole-book reviews, including independent attribution of q00323. Reported speech, Charley's stories, generalizing you/we, and passages about other characters do not establish alternate base narration. No credible contrary evidence emerged. Coverage is limited to an opening excerpt, selected quotations, and whole-book criticism rather than a complete-text audit; no material structural uncertainty remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_044",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T00:41:39.021009+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "599a2f5a57e8c2614ab8ab884e39058cccefb6dde4188701590c2fb004a9977d"
+  }
+}

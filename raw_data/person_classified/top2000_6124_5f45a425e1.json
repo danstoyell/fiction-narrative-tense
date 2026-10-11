@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:6124",
+  "quotes": [
+    {
+      "quote_id": "q00531",
+      "person_signal": "non_base",
+      "note": "Direct speech; its second-person advice does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00532",
+      "person_signal": "non_base",
+      "note": "Universal gnomic address, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00533",
+      "person_signal": "third",
+      "note": "Outside the dialogue, sustained scene narration refers externally to both characters and accesses the woman's feelings."
+    },
+    {
+      "quote_id": "q00534",
+      "person_signal": "non_base",
+      "note": "A context-free maxim, elsewhere expanded as character speech, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00535",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a narrating participant."
+    },
+    {
+      "quote_id": "q00536",
+      "person_signal": "non_base",
+      "note": "Isolated first-person aphorism; sustained third-person evidence indicates a clipped local voice rather than base narration."
+    },
+    {
+      "quote_id": "q00537",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00538",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech."
+    },
+    {
+      "quote_id": "q00539",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed she does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00540",
+      "person_signal": "unmarked",
+      "note": "Bare third-person reference alone is compatible with more than one narrating arrangement."
+    },
+    {
+      "quote_id": "q00541",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur entirely within direct speech."
+    },
+    {
+      "quote_id": "q00542",
+      "person_signal": "non_base",
+      "note": "Clipped exchange between characters, not base narration."
+    },
+    {
+      "quote_id": "q00543",
+      "person_signal": "third",
+      "note": "Extended external narration names Denise and reports her knowledge and feelings without a participating narrator."
+    },
+    {
+      "quote_id": "q00544",
+      "person_signal": "non_base",
+      "note": "Direct character speech addressed to Taylor."
+    },
+    {
+      "quote_id": "q00545",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base, while the brief Denise speech beat is possible narration but not independently diagnostic."
+    },
+    {
+      "quote_id": "q00546",
+      "person_signal": "third",
+      "note": "Sustained Taylor-focused narration externally reports his memories, self-questioning, and inaccessible inner distance."
+    },
+    {
+      "quote_id": "q00547",
+      "person_signal": "third",
+      "note": "External narration reports Taylor's internal attraction and unwillingness to commit, continuing the third-person Taylor strand."
+    },
+    {
+      "quote_id": "q00548",
+      "person_signal": "third",
+      "note": "Extended third-person rendering of a woman's knowledge and reflection exposes nonparticipating narration."
+    },
+    {
+      "quote_id": "q00549",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns are confined to humorous character speech."
+    },
+    {
+      "quote_id": "q00550",
+      "person_signal": "unclear",
+      "note": "The passage is clipped mid-sentence and lacks enough structure to distinguish speech from narration."
+    },
+    {
+      "quote_id": "q00551",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00552",
+      "person_signal": "unmarked",
+      "note": "Sentence fragment has no narrator-identifying person marker."
+    },
+    {
+      "quote_id": "q00553",
+      "person_signal": "third",
+      "note": "Sustained external narration renders the woman's hopes about Kyle and her free-indirect question."
+    },
+    {
+      "quote_id": "q00554",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to her inner longing lacks enough local context to establish the narrator's person."
+    },
+    {
+      "quote_id": "q00555",
+      "person_signal": "unmarked",
+      "note": "A bare named-character action does not by itself establish third-person base narration."
+    },
+    {
+      "quote_id": "q00556",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates; the brief she-said beat is possible base narration but not diagnostic."
+    },
+    {
+      "quote_id": "q00557",
+      "person_signal": "unmarked",
+      "note": "The first person is quoted speech, and the short he-stared beat does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q00558",
+      "person_signal": "unclear",
+      "note": "Severely clipped thought-like fragment; quotation and narration boundaries are absent."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-4.2000.09-the-rescue.pdf",
+      "title": "W8379-The Rescue",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's site hosts a sustained 24-page excerpt covering the opening and early chapters; it consistently narrates Denise and Kyle externally as she/he while entering Denise's perceptions and thoughts."
+    },
+    {
+      "url": "https://www.readinggroupguides.com/reviews/the-rescue/excerpt",
+      "title": "The Rescue by Nicholas Sparks | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained Chapter 1 excerpt, explicitly reprinted with Warner Books' permission, independently displays nonparticipating third-person narration focused on Denise; it substantially duplicates the author-hosted opening."
+    },
+    {
+      "url": "https://www.latimes.com/archives/la-xpm-2000-sep-19-cl-23180-story.html",
+      "title": "Love in an Eden of Small-Town Folks",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The contemporary full-book review reports access to both Denise's and Taylor's viewpoints and quotes Taylor's interior response in third-person form, supporting shifting focalization within third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Nicholas Sparks The Rescue excerpt first chapter publisher\" and opened the author-hosted PDF, Google Books record, BookBrowse excerpt, and permissioned ReadingGroupGuides excerpt.",
+    "Searched \"The Rescue Nicholas Sparks point of view third person narrator\" and exact variants including Denise and Taylor; no authoritative source explicitly labeled the whole novel's grammatical person.",
+    "Searched for epistolary, frame-narrative, multiple-narrator, and alternating-point-of-view descriptions; found no credible evidence of sustained first- or second-person sections.",
+    "Opened the Los Angeles Times contemporary review; it discusses the novel's access to both protagonists' viewpoints and supplies third-person interior quotations.",
+    "Checked Google Books and Nicholas Sparks's writing notes; they verified the work and structure but did not directly describe narrative person.",
+    "Searched the exact q00536 distance quotation and its longer Goodreads variant; results did not establish it as controlling narration, and the longer form is aphoristic and dialogue-like."
+  ],
+  "person_note": "The base narration is third person, with focalization through both Denise and Taylor. Several interior Goodreads passages expose a nonparticipating narrator reporting their private thoughts, and the authorized opening sustains the same form. First- and second-person forms in the quote set are overwhelmingly dialogue or gnomic address; q00536 is an isolated aphoristic first-person fragment and is treated as a local/clipped voice rather than evidence of a first-person section. No researched source indicated an epistolary frame or sustained change of grammatical person. Confidence is medium because the strongest authorized prose evidence is limited to the opening, although interior quotes and the full-book review corroborate the classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_035",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:55:19.380621+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b292123af3c54bb0be8c1efddd20438c9b4b73ae17cf32dc382fd17d852f73ed"
+  }
+}

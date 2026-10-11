@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1933:6671",
+  "quotes": [
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "Gnomic political aphorism; its third-person references do not expose the story's narrator."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial commentary, but the rhetorical questions contain no diagnostic narrator participation or sustained protagonist-address."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "first",
+      "note": "Although bucketed as dialogue, the outside attribution \u201cI said severely\u201d diagnostically exposes the participating frame narrator."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "third",
+      "note": "Third-person body narration renders a male character's private shame without a participating narratorial I."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using universal \u201cour,\u201d not story-specific participating narration."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "unmarked",
+      "note": "The passage begins with third-person description, but the ensuing \u201cyou\u201d is an invitation or free-direct thought rather than sustained second-person narration; the clipping is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "unmarked",
+      "note": "A bare historical description of the peasantry does not establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "Gnomic exposition about werewolf lore; generic man and beast references do not identify narrative person."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/91/59/2020719159/2020719159.pdf",
+      "title": "Sensational Internationalism: The Paris Commune and the Remapping of American Memory in the Long Nineteenth Century",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "J. Michelle Coghlan's scholarly analysis identifies a modern-Paris frame with an unnamed American narrator, followed by the Galliez report and historical material that the frame narrator recasts and expands; this establishes the frame/body division corroborated by the first- and third-person quotes."
+    },
+    {
+      "url": "https://www.washingtonpost.com/entertainment/books/the-werewolf-of-paris-by-guy-endore/2012/08/08/4c5a0c3e-d1c8-11e1-8bea-6dc0b4879aab_story.html",
+      "title": "Book World: Lupine savagery in \u2018The Werewolf of Paris,\u2019 by Guy Endore",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Michael Dirda describes the opening actions of the unnamed graduate-student narrator, his discovery of the manuscript, and the subsequent transition to Galliez's historical account, independently corroborating distinct frame and body narration."
+    },
+    {
+      "url": "https://whenchurchyardsyawn.com/2016/08/25/the-werewolf-of-paris-guy-endore-the-dennis-wheatley-library-of-the-occult-volume-2-sphere-1974/",
+      "title": "The Werewolf of Paris ~ Guy Endore (The Dennis Wheatley Library of the Occult ~ Volume 2)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review explicitly distinguishes the brief introductory frame about the unnamed American from the main body he constructs from the Galliez manuscript and his investigations."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Werewolf of Paris\u201d \u201cGuy Endore\u201d excerpt, first chapter, and full text; Google Books exposed bibliographic data and contents but no sustained readable preview, while Open Library supplied only catalog/borrowing information.",
+    "Searched the verified title with point of view, first person, third person, narrator, frame narrative, Galliez report, and multiple narrators; no credible source gave a simple whole-book POV label.",
+    "Opened the Washington Post review and a detailed frame-structure review; both distinguish the unnamed modern narrator's introductory chapter from the historical main body.",
+    "Searched scholarly sources for the title plus narrator and framing device; Coghlan's Sensational Internationalism provided explicit structural analysis of the opening frame, Galliez manuscript, and recast historical narrative.",
+    "Ran exact-phrase searches for the supplied first-person and third-person passages; results chiefly reproduced Goodreads material and did not provide an authorized continuous excerpt."
+  ],
+  "person_note": "The novel has a sustained first-person modern frame, directly exposed by q00004's narratorial speech beat, and a much longer historical body narrated in third person, locally exposed by q00005. Scholarly and reputable review evidence confirms that the unnamed American discovers the Galliez manuscript and then recasts it as the main historical narrative. The gnomic, rhetorical, and spoken pronouns in the other quotes are not additional narrative strands. Because different persons govern the frame and story sections, the appropriate book-level label is ALTERNATING; the main residual limitation is the absence of an accessible authorized continuous excerpt, but the quote evidence and Tier B structural analysis independently agree.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_001",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:04:12.326115+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "66c994c2b415ba26f2086aa5b4a0e9a2c0f8b01c58dc9a1db2e29875ed6272e9"
+  }
+}

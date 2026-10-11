@@ -1,0 +1,444 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:5276",
+  "quotes": [
+    {
+      "quote_id": "q00250",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person generalization; \u201cyou\u201d is not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00251",
+      "person_signal": "non_base",
+      "note": "Extended gnomic address about stories; its generalized \u201cyou\u201d does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00252",
+      "person_signal": "unmarked",
+      "note": "Narratorial description is present, but no participating or externally narrated character identifies person."
+    },
+    {
+      "quote_id": "q00253",
+      "person_signal": "non_base",
+      "note": "Direct character speech; \u201cyou\u201d is local dialogue."
+    },
+    {
+      "quote_id": "q00254",
+      "person_signal": "third",
+      "note": "A sustained sequence externally narrates an unnamed woman\u2019s actions without a participating frame."
+    },
+    {
+      "quote_id": "q00255",
+      "person_signal": "unmarked",
+      "note": "Narratorial comparison about families contains no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q00256",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism."
+    },
+    {
+      "quote_id": "q00257",
+      "person_signal": "third",
+      "note": "Sustained scene narration describes the lovers externally as \u201cthey,\u201d including actions and shared grief."
+    },
+    {
+      "quote_id": "q00258",
+      "person_signal": "unmarked",
+      "note": "Brief metaphorical fragment about \u201cher\u201d and \u201che\u201d lacks enough context to establish the narrator."
+    },
+    {
+      "quote_id": "q00259",
+      "person_signal": "non_base",
+      "note": "General reflection on memory and stories rather than a diagnostic narrated scene."
+    },
+    {
+      "quote_id": "q00260",
+      "person_signal": "unmarked",
+      "note": "Short poetic sequence about \u201che\u201d and \u201cshe\u201d does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00261",
+      "person_signal": "non_base",
+      "note": "Standalone collective aphorism."
+    },
+    {
+      "quote_id": "q00262",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection mentions Velutha but does not itself expose narrator participation."
+    },
+    {
+      "quote_id": "q00263",
+      "person_signal": "non_base",
+      "note": "Ammu\u2019s reported observation is a local character utterance; the reporting beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q00264",
+      "person_signal": "unmarked",
+      "note": "Conditional fragment using \u201che\u201d and \u201cher\u201d lacks a narratorial frame."
+    },
+    {
+      "quote_id": "q00265",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism."
+    },
+    {
+      "quote_id": "q00266",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about memory and death."
+    },
+    {
+      "quote_id": "q00267",
+      "person_signal": "third",
+      "note": "The narration externally names Estha and directly reports his two thoughts."
+    },
+    {
+      "quote_id": "q00268",
+      "person_signal": "unmarked",
+      "note": "Clipped passage about an unnamed \u201cshe\u201d does not establish the narrator\u2019s relationship to the story."
+    },
+    {
+      "quote_id": "q00269",
+      "person_signal": "non_base",
+      "note": "This first-person authorial statement about writing is nonfictional/gnomic material, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q00270",
+      "person_signal": "unmarked",
+      "note": "Abstract temporal narration contains no diagnostic character or narrator pronoun."
+    },
+    {
+      "quote_id": "q00271",
+      "person_signal": "non_base",
+      "note": "Generalized \u201cyou\u201d in a gnomic statement, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00272",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a woman\u2019s internal feelings about a man."
+    },
+    {
+      "quote_id": "q00273",
+      "person_signal": "unmarked",
+      "note": "Compressed pronoun fragment is too short to identify the narrator."
+    },
+    {
+      "quote_id": "q00274",
+      "person_signal": "unmarked",
+      "note": "Personified description of insanity provides no narrator-participation evidence."
+    },
+    {
+      "quote_id": "q00275",
+      "person_signal": "unmarked",
+      "note": "Abstract narratorial commentary has no diagnostic narrator person."
+    },
+    {
+      "quote_id": "q00276",
+      "person_signal": "third",
+      "note": "The narrator follows an unnamed woman\u2019s listening, bodily feeling, and movement from outside."
+    },
+    {
+      "quote_id": "q00277",
+      "person_signal": "unmarked",
+      "note": "A general maxim followed by one brief \u201cshe\u201d action is insufficiently contextualized."
+    },
+    {
+      "quote_id": "q00278",
+      "person_signal": "non_base",
+      "note": "Standalone generalization about people."
+    },
+    {
+      "quote_id": "q00279",
+      "person_signal": "unmarked",
+      "note": "Clipped explanatory fragment about the Love Laws does not identify narrator person."
+    },
+    {
+      "quote_id": "q00280",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, the exterior beat reports Ammu\u2019s exact understanding of Estha; speech pronouns themselves are local."
+    },
+    {
+      "quote_id": "q00281",
+      "person_signal": "non_base",
+      "note": "Gnomic collective \u201cwe\u201d describes colonized consciousness rather than a participating story narrator."
+    },
+    {
+      "quote_id": "q00282",
+      "person_signal": "third",
+      "note": "A sustained sequence externally narrates the lovers\u2019 mutually constrained actions."
+    },
+    {
+      "quote_id": "q00283",
+      "person_signal": "unmarked",
+      "note": "Brief narratorial question and answer about \u201cthem\u201d lacks enough surrounding context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q00284",
+      "person_signal": "unmarked",
+      "note": "Sentence fragment about \u201ctheir\u201d history does not establish narrator person."
+    },
+    {
+      "quote_id": "q00285",
+      "person_signal": "third",
+      "note": "External narration distinguishes a woman\u2019s assumption from the narrator\u2019s account of her actual feeling."
+    },
+    {
+      "quote_id": "q00286",
+      "person_signal": "third",
+      "note": "Outside Chacko\u2019s speech, the narration names Rahel and reports her thought and association."
+    },
+    {
+      "quote_id": "q00287",
+      "person_signal": "non_base",
+      "note": "Gnomic catalogue of generalized social fears."
+    },
+    {
+      "quote_id": "q00288",
+      "person_signal": "third",
+      "note": "Sustained external narration reports what the watching woman understood about the man."
+    },
+    {
+      "quote_id": "q00289",
+      "person_signal": "third",
+      "note": "Extended narration enters Estha\u2019s mental condition and summarizes his withdrawal over years from outside."
+    },
+    {
+      "quote_id": "q00290",
+      "person_signal": "third",
+      "note": "The twins are narrated externally as learning and recognizing how the world breaks men."
+    },
+    {
+      "quote_id": "q00291",
+      "person_signal": "third",
+      "note": "External scene narration describes the lovers\u2019 bodies and cautiously attributes shared foreknowledge."
+    },
+    {
+      "quote_id": "q00292",
+      "person_signal": "third",
+      "note": "The narrator reports Ammu\u2019s conflicting love, exasperation, and impulse toward her children."
+    },
+    {
+      "quote_id": "q00293",
+      "person_signal": "third",
+      "note": "External narration reports a woman\u2019s present comparison of a man with his boyhood self."
+    },
+    {
+      "quote_id": "q00294",
+      "person_signal": "non_base",
+      "note": "Vellya Paapen\u2019s claim is embedded reported speech; the short reporting frame is nondiagnostic."
+    },
+    {
+      "quote_id": "q00295",
+      "person_signal": "third",
+      "note": "Sustained narration follows Ammu\u2019s looking, feeling, remembered interpretation, and habitual reaction."
+    },
+    {
+      "quote_id": "q00296",
+      "person_signal": "unmarked",
+      "note": "The environmental opening is narratorial but contains no character whose relation to the narrator identifies person."
+    },
+    {
+      "quote_id": "q00297",
+      "person_signal": "third",
+      "note": "The narrator projects the twins\u2019 future attempts at consolation and their failure to find comfort."
+    },
+    {
+      "quote_id": "q00298",
+      "person_signal": "unmarked",
+      "note": "Descriptive fragment about an unnamed man lacks a narratorial frame."
+    },
+    {
+      "quote_id": "q00299",
+      "person_signal": "non_base",
+      "note": "Extended personification of memory is gnomic rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q00300",
+      "person_signal": "unmarked",
+      "note": "Personified historical abstraction does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00301",
+      "person_signal": "third",
+      "note": "Sustained external narration depicts Ammu\u2019s cremation through Rahel and Estha\u2019s relation to her; the embedded Kipling \u201cI\u201d is not narratorial."
+    },
+    {
+      "quote_id": "q00302",
+      "person_signal": "unmarked",
+      "note": "Abstract evaluative sentence contains no diagnostic narrator or character relationship."
+    },
+    {
+      "quote_id": "q00303",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic contrast between forgettable and unforgettable things."
+    },
+    {
+      "quote_id": "q00304",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00305",
+      "person_signal": "third",
+      "note": "Extended external characterization compares two named men and authoritatively explains their dispositions."
+    },
+    {
+      "quote_id": "q00306",
+      "person_signal": "third",
+      "note": "The narration explains the psychological source of a man\u2019s outward composure."
+    },
+    {
+      "quote_id": "q00307",
+      "person_signal": "unmarked",
+      "note": "A clipped series of rhetorical questions about \u201che\u201d could be narration or local free thought."
+    },
+    {
+      "quote_id": "q00308",
+      "person_signal": "unmarked",
+      "note": "Single externally phrased action is too brief to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00309",
+      "person_signal": "non_base",
+      "note": "Most of the passage is Chacko\u2019s embedded Earth Woman lesson; its reporting setup is too brief to diagnose base person."
+    },
+    {
+      "quote_id": "q00310",
+      "person_signal": "unmarked",
+      "note": "Short deictic statement about \u201cthey\u201d lacks sufficient local context."
+    },
+    {
+      "quote_id": "q00311",
+      "person_signal": "third",
+      "note": "Sustained narration moves between Velutha\u2019s and Ammu\u2019s perceptions while referring to both externally."
+    },
+    {
+      "quote_id": "q00312",
+      "person_signal": "unmarked",
+      "note": "Mythic descriptive fragment about \u201che\u201d does not independently expose the narrator."
+    },
+    {
+      "quote_id": "q00313",
+      "person_signal": "third",
+      "note": "External narration reports Rahel\u2019s ambition and her private conception of what Time means."
+    },
+    {
+      "quote_id": "q00314",
+      "person_signal": "unclear",
+      "note": "Clipped age fragment has no recoverable narratorial frame."
+    },
+    {
+      "quote_id": "q00315",
+      "person_signal": "unmarked",
+      "note": "Deictic clipping and embedded comments by Comrade Pillai prevent the passage from independently establishing person."
+    },
+    {
+      "quote_id": "q00316",
+      "person_signal": "third",
+      "note": "The narrator reports a woman\u2019s current thought and surveys Estha\u2019s and Rahel\u2019s separate lives from outside."
+    },
+    {
+      "quote_id": "q00317",
+      "person_signal": "third",
+      "note": "External scene narration reports the pair\u2019s looking, cessation of thought, and anticipated future."
+    },
+    {
+      "quote_id": "q00318",
+      "person_signal": "non_base",
+      "note": "Chacko\u2019s direct speech; the attribution beat does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00319",
+      "person_signal": "unmarked",
+      "note": "Brief passage about \u201cthey\u201d and punishment lacks enough contextual framing to identify narrator person."
+    },
+    {
+      "quote_id": "q00320",
+      "person_signal": "unmarked",
+      "note": "Abstract comment on a question and answer does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00321",
+      "person_signal": "third",
+      "note": "The narrator explicitly attributes the wordplay to Rahel\u2019s thought."
+    },
+    {
+      "quote_id": "q00322",
+      "person_signal": "third",
+      "note": "Extended narration enters Ammu\u2019s fear, preferences, and hypothetical wish while naming her externally."
+    },
+    {
+      "quote_id": "q00323",
+      "person_signal": "unclear",
+      "note": "An isolated bodily-description fragment has no subject or narratorial frame."
+    },
+    {
+      "quote_id": "q00324",
+      "person_signal": "third",
+      "note": "Despite clipping, the extended passage externally describes both characters and counterfactually interprets their trauma."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://researchoutput.ncku.edu.tw/en/studentTheses/an-allegorical-reading-arundhati-roys-the-god-of-small-things/",
+      "title": "An Allegorical Reading: Arundhati Roy\u2019s The God of Small Things",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The university-hosted master\u2019s-thesis abstract describes an omniscient narrator who supplies events unavailable to Rahel while filtering the two timelines through character memory."
+    },
+    {
+      "url": "https://deh.ulab.edu.bd/sites/default/files/Tasnim.pdf",
+      "title": "Reading the Language of Children in Arundhati Roy\u2019s The God of Small Things",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly article distinguishes the twins\u2019 childlike perspective from an omniscient narrator and explains that the perspectives alternate within the narration rather than becoming first-person base sections."
+    },
+    {
+      "url": "https://journals.openedition.org/ces/pdf/11863",
+      "title": "Re-Membering Personal History in The God of Small Things",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly essay explicitly associates the novel\u2019s time shifts with third-person narration and analyzes shifting focalization among the twins and adults within that narration."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/god-small-things",
+      "title": "The God of Small Things",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reference essay explicitly identifies an omniscient third-person narrator grounded in Rahel\u2019s memories and traces that narrator across the novel\u2019s chapters."
+    },
+    {
+      "url": "https://www.penguin.co.uk/discover/articles/fiction-heatwaves-summer-books",
+      "title": "From sweaty to sultry: why fiction loves a heatwave",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "none",
+      "note": "Penguin reproduces the novel\u2019s environmental opening, but that passage is person-unmarked and therefore only verifies the opening text, not the book-level person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The God of Small Things\" \"Arundhati Roy\" excerpt, publisher, first chapter, and read sample.",
+    "Searched \"The God of Small Things\" third-person, narrator, point of view, omniscient narrator, free indirect discourse, multiple narrators, and alternating narration.",
+    "Searched Google Books, Penguin Random House, Penguin UK, university repositories, scholarly PDFs, journal sites, and reference sources for sustained or whole-book evidence.",
+    "Opened Penguin Random House and Google Books preview pages; the PRH sample control was not exposed and Google Books returned mainly bibliographic or limited-preview material, so neither was used as diagnostic person evidence.",
+    "Opened the Taylor & Francis DOI for \"The Small Voice of History\" after its search extract explicitly described third-person handling of multiple perspectives, but the page returned HTTP 403, so it was omitted from web_evidence.",
+    "No opened credible source described sustained first- or second-person base sections; sources consistently treated changes of perspective as third-person focalization."
+  ],
+  "person_note": "The Goodreads evidence repeatedly shows a nonparticipating narrator referring to Rahel, Estha, Ammu, Velutha, and others externally while entering several characters\u2019 thoughts. Multiple scholarly whole-book analyses independently identify the narration as omniscient or close third person and explain that its shifting child/adult perspectives are focalization within third-person narration, not changes to first-person base narration. The conspicuous \u201cI,\u201d \u201cwe,\u201d and \u201cyou\u201d forms occur in an authorial nonfiction quotation, gnomic statements, or character speech and therefore do not create alternate base sections. Some short or clipped quotations remain locally unmarked or unclear, but they do not conflict with the sustained third-person passages. The main nuance is the narrator\u2019s unusually close alignment with Rahel\u2019s and Estha\u2019s language and memories; the researched structural evidence resolves that nuance as third person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_031",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:41:53.692775+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "45f9c93b344d979520ab72f6bff634512b55770718259ed7530c25c25984563f"
+  }
+}

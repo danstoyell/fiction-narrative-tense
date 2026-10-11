@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1988:831",
+  "quotes": [
+    {
+      "quote_id": "q01058",
+      "person_signal": "non_base",
+      "note": "Character dialogue; first- and second-person pronouns identify the speaker and addressee, not the base narrator."
+    },
+    {
+      "quote_id": "q01059",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without a narratorial participant or story-specific addressee."
+    },
+    {
+      "quote_id": "q01060",
+      "person_signal": "non_base",
+      "note": "Character dialogue, so its pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q01061",
+      "person_signal": "third",
+      "note": "Extended free-indirect passage presents Maggie and her perceptions externally in third person."
+    },
+    {
+      "quote_id": "q01062",
+      "person_signal": "unmarked",
+      "note": "Reports Maggie's feeling, but this isolated third-person reference is too brief to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q01063",
+      "person_signal": "non_base",
+      "note": "Gnomic material, apparently a locally voiced explanation, rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q01064",
+      "person_signal": "non_base",
+      "note": "Sustained dialogue between characters; its we and you forms are local speech."
+    },
+    {
+      "quote_id": "q01065",
+      "person_signal": "unmarked",
+      "note": "Brief descriptive comparison contains no participating narrator, but is too context-poor to establish narrative person."
+    },
+    {
+      "quote_id": "q01066",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unspecified they does not independently establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q01067",
+      "person_signal": "third",
+      "note": "Third-person narration follows Maggie's action and directly renders her internal view of her life."
+    },
+    {
+      "quote_id": "q01068",
+      "person_signal": "non_base",
+      "note": "Live context search shows this first-person sentence belongs to Serena's speech about losing her husband, not the base narrator."
+    },
+    {
+      "quote_id": "q01069",
+      "person_signal": "unmarked",
+      "note": "Brief narratorial attribution of something Serena said lacks enough context to diagnose narrative person."
+    },
+    {
+      "quote_id": "q01070",
+      "person_signal": "third",
+      "note": "Sustained free-indirect narration renders Maggie's body, actions, self-criticism, and knowledge of Ira in third person."
+    },
+    {
+      "quote_id": "q01071",
+      "person_signal": "unmarked",
+      "note": "An isolated she sentence reporting a feeling is compatible with more than one possible narratorial frame."
+    },
+    {
+      "quote_id": "q01072",
+      "person_signal": "third",
+      "note": "Extended third-person focalization names Maggie and renders her self-conscious thoughts about Leroy."
+    },
+    {
+      "quote_id": "q01073",
+      "person_signal": "unmarked",
+      "note": "The isolated statement about an unspecified pair does not expose whether the narrator participates."
+    },
+    {
+      "quote_id": "q01074",
+      "person_signal": "unmarked",
+      "note": "A clipped free-indirect question using she lacks enough surrounding narration to diagnose the controlling person alone."
+    },
+    {
+      "quote_id": "q01075",
+      "person_signal": "third",
+      "note": "Sustained third-person access to Maggie's pity, memories, and hypothetical self-assessment identifies close third-person narration."
+    },
+    {
+      "quote_id": "q01076",
+      "person_signal": "third",
+      "note": "Third-person free-indirect narration renders Maggie's renewed love and private pleasure without a participating narrator."
+    },
+    {
+      "quote_id": "q01077",
+      "person_signal": "third",
+      "note": "Repeated she forms and an explicit thought attribution provide sustained third-person rendering of Maggie's interiority."
+    },
+    {
+      "quote_id": "q01078",
+      "person_signal": "third",
+      "note": "Although much is dialogue, the substantial surrounding narration presents Maggie's questions, fear, memories, and conclusions externally in third person."
+    },
+    {
+      "quote_id": "q01079",
+      "person_signal": "third",
+      "note": "The passage explicitly attributes perception to Maggie and continues with third-person scene description."
+    },
+    {
+      "quote_id": "q01080",
+      "person_signal": "non_base",
+      "note": "Reported character speech; its comparative observation does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01081",
+      "person_signal": "unmarked",
+      "note": "A single she sentence about family resemblance is insufficient to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q01082",
+      "person_signal": "third",
+      "note": "Sustained third-person thought attribution and rhetorical free-indirect questions render Maggie's interiority; you is generic, not a second-person protagonist."
+    },
+    {
+      "quote_id": "q01083",
+      "person_signal": "third",
+      "note": "The passage frames generic you and we statements inside a third-person account of her thought and imagination, so they are not base first- or second-person narration."
+    },
+    {
+      "quote_id": "q01084",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about men rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01085",
+      "person_signal": "third",
+      "note": "A multi-sentence third-person account renders her realization about aging and her generation."
+    },
+    {
+      "quote_id": "q01086",
+      "person_signal": "non_base",
+      "note": "Direct question addressed to Mom; second person is local dialogue."
+    },
+    {
+      "quote_id": "q01087",
+      "person_signal": "unclear",
+      "note": "The fragment lacks boundaries and antecedents, so the function of you cannot be resolved."
+    },
+    {
+      "quote_id": "q01088",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Maggie's glance and gives direct access to her realization and prior mental image in third person."
+    },
+    {
+      "quote_id": "q01089",
+      "person_signal": "non_base",
+      "note": "Dialogue between Maggie and Serena; first- and second-person forms belong to the speakers."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780345485571",
+      "title": "Breathing Lessons (Pulitzer Prize Winner) | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates Maggie and Ira externally as they/she/he while entering Maggie's perceptions, with no participating narrator."
+    },
+    {
+      "url": "https://www.awej.org/images/AllIssues/Specialissues/Literature42016/awejliterature%204.%202016.%20full%20issue%20.pdf",
+      "title": "A Postmodernist Reading of Anne Tyler's Breathing Lessons, Jean Rhys's Wide Sargasso Sea and Kurt Vonnegut's Breakfast of Champions",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This peer-reviewed literary article explicitly states that a third-person narrator narrates the novel and describes viewpoint changes among its three parts."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-breathinglessons/styles.html",
+      "title": "Anne Tyler Writing Styles in Breathing Lessons",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly describes the whole novel as third person, with focal narration alternating between Maggie and Ira but neither functioning as an I narrator."
+    },
+    {
+      "url": "https://literariness.org/2018/07/04/analysis-of-anne-tylers-novels/",
+      "title": "Analysis of Anne Tyler's Novels",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The analysis says all three principal divisions use restricted third person: the first and third center Maggie's consciousness and the middle centers Ira's."
+    },
+    {
+      "url": "https://efsunland.com/2017/06/21/review-summer-7/",
+      "title": "Review: Breathing Lessons by Anne Tyler \u2013 That's What She Read",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "none",
+      "note": "The reproduced surrounding passage identifies the widow as the speaker of q01068, resolving that isolated I as dialogue rather than contrary first-person base narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Anne Tyler Breathing Lessons excerpt first chapter narration\" and opened Penguin Random House's Chapter 1 excerpt plus the Penguin sample PDF.",
+    "Searched \"Breathing Lessons Anne Tyler point of view third person narrator\" and opened explicit whole-book discussions from AWEJ, BookRags, eNotes, and Literary Theory and Criticism.",
+    "Searched for the novel's narrative structure, multiple narrators, and alternating point of view; sources consistently described three third-person divisions shifting focal consciousness between Maggie and Ira, not a change of grammatical person.",
+    "Searched the exact phrase \"And all at once I had no one to trade looks with\"; an opened review reproduced the surrounding funeral scene and showed it is the widow's dialogue.",
+    "Opened the Penguin Random House reader's guide; it confirmed the three-part structure but did not itself explicitly name grammatical person, so it was retained only as a search lead."
+  ],
+  "person_note": "The diagnostic event passages repeatedly use close third-person and free-indirect narration for Maggie, while strong web evidence establishes that the novel's three-part structure shifts focal consciousness between Maggie and Ira without changing from third person. Those focal shifts therefore do not qualify as ALTERNATING under the person methodology. The apparent first-person exception q01068 is Serena's locally quoted funeral speech, and the other I/we/you forms occur in dialogue, gnomic statements, or generic thought rather than base narration. The publisher opening, peer-reviewed whole-book analysis, and quote evidence agree; no credible contrary base-narration evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_025",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:26:19.338024+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3ddf75104236c0b7253dd253ac1c24bb71f07c7a3b6daa1e57092be9150089b5"
+  }
+}

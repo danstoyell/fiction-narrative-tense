@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:OUR MISSING HEARTS|Celeste Ng",
+  "quotes": [
+    {
+      "quote_id": "q07439",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using universal you; the quoted I/we occurs inside a hypothetical question, not base narration."
+    },
+    {
+      "quote_id": "q07440",
+      "person_signal": "non_base",
+      "note": "A local first-person address from Margaret to her child, embedded within the novel's third-person narration."
+    },
+    {
+      "quote_id": "q07441",
+      "person_signal": "unmarked",
+      "note": "The generic you appears in a maxim-like comparison; the clipped passage does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07442",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person plural statement, not participating story narration."
+    },
+    {
+      "quote_id": "q07443",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization about librarians, but no passage-level feature independently establishes person."
+    },
+    {
+      "quote_id": "q07444",
+      "person_signal": "third",
+      "note": "The external narrator attributes close interior reflection to a character as she."
+    },
+    {
+      "quote_id": "q07445",
+      "person_signal": "third",
+      "note": "The narrator reports a character's memory as he; your is generic within the remembered story principle."
+    },
+    {
+      "quote_id": "q07446",
+      "person_signal": "unmarked",
+      "note": "You might is generalized reader address in a simile, not sustained narration of a story-specific you."
+    },
+    {
+      "quote_id": "q07447",
+      "person_signal": "third",
+      "note": "Sustained external narration reports the character's thoughts as he."
+    },
+    {
+      "quote_id": "q07448",
+      "person_signal": "non_base",
+      "note": "Essayistic historical commentary, likely authorial paratext, rather than story narration."
+    },
+    {
+      "quote_id": "q07449",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing another character; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q07450",
+      "person_signal": "non_base",
+      "note": "Gnomic fragments with no narratorial person marker."
+    },
+    {
+      "quote_id": "q07451",
+      "person_signal": "non_base",
+      "note": "Descriptive gnomic fragment with no finite narratorial clause."
+    },
+    {
+      "quote_id": "q07452",
+      "person_signal": "non_base",
+      "note": "Predominantly direct speech; the third-person speech beats are too slight to diagnose the controlling narrator independently."
+    },
+    {
+      "quote_id": "q07453",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a character as he through projected future actions."
+    },
+    {
+      "quote_id": "q07454",
+      "person_signal": "non_base",
+      "note": "Direct speech marked by she says; we is spoken rather than narratorial."
+    },
+    {
+      "quote_id": "q07455",
+      "person_signal": "non_base",
+      "note": "Direct speech marked by she says; I/we belong to the speaker."
+    },
+    {
+      "quote_id": "q07456",
+      "person_signal": "third",
+      "note": "The external narrator recounts the mother's actions and the boy's present realization as she and him."
+    },
+    {
+      "quote_id": "q07457",
+      "person_signal": "non_base",
+      "note": "Predominantly gnomic meditation using universal you; the trailing she clause alone is insufficient to diagnose person."
+    },
+    {
+      "quote_id": "q07458",
+      "person_signal": "third",
+      "note": "Close third-person narration reports the boy's state and felt experience as he."
+    },
+    {
+      "quote_id": "q07459",
+      "person_signal": "non_base",
+      "note": "A local first-person address from Margaret to her child recounting his naming, not the controlling narrative voice."
+    },
+    {
+      "quote_id": "q07460",
+      "person_signal": "third",
+      "note": "Despite truncation, the narrator names Bird externally and reports what strikes him emotionally."
+    },
+    {
+      "quote_id": "q07461",
+      "person_signal": "third",
+      "note": "The external narrator attributes free-indirect questions to a character with she thought."
+    },
+    {
+      "quote_id": "q07462",
+      "person_signal": "third",
+      "note": "Third-person scene narration follows the boy's movement and perception as he."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.betterreading.com.au/wp-content/uploads/2022/11/OUR-MISSING-HEARTS-edited-extract.pdf",
+      "title": "OUR MISSING HEARTS \u2014 Edited Extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained promotional extract narrates Bird externally as he while entering his memories and perceptions, establishing third-person narration in the opening."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/our-missing-hearts",
+      "title": "Our Missing Hearts Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide's key facts explicitly identify the novel's point of view as third person."
+    },
+    {
+      "url": "https://chireviewofbooks.com/2022/10/05/review-our-missing-hearts/",
+      "title": "Stretching the Boundaries of American Political Reality in Our Missing Hearts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes much of the book as limited third person through Bird's perspective."
+    },
+    {
+      "url": "https://theturkishrug.com/2022/12/02/book-review-our-missing-hearts-by-celeste-ng/",
+      "title": "Book Review: Our Missing Hearts by Celeste Ng",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review states that all three acts use the same omnipresent narrator style; focal emphasis moves from Bird to Margaret and then between them without a change in grammatical person."
+    },
+    {
+      "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/books/2022/11/25/hearts-and-minds-2",
+      "title": "Hearts and minds",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly states that Ng narrates the novel in the third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Our Missing Hearts Celeste Ng official excerpt publisher\" and opened publisher/promotional pages; the accessible Better Reading PDF supplied sustained opening prose, while Penguin Random House and Hachette product pages did not expose usable excerpt text.",
+    "Searched \"Our Missing Hearts Celeste Ng point of view third person first person narration\" and opened LitCharts, which explicitly identifies third person.",
+    "Searched \"Our Missing Hearts alternating narration review narrator\" and opened structural reviews distinguishing shifts between Bird and Margaret from changes in grammatical person.",
+    "Searched site:celesteng.com and site:penguinrandomhouse.com for an author or publisher excerpt; Celeste Ng's page and the Penguin Random House product page supplied synopsis material but no usable sustained prose.",
+    "Targeted searches for \"Our Missing Hearts\" with \"third-person\", \"third person\", and \"narrator\" found corroborating reviews from Chicago Review of Books and Winnipeg Free Press; no credible source described sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling narration is third person, moving its focal attention chiefly between Bird and Margaret while retaining the same external narrating position. Numerous Goodreads passages independently show close third-person access through he/she, and the sustained opening extract plus whole-book descriptions agree. The first-person addresses in q07440 and q07459 are local speech or storytelling by Margaret to her child, not autonomous base sections; universal you passages likewise do not establish second person. References to alternating perspectives concern focal characters, not alternating narrative person. No material uncertainty remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_078",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:58:02.862798+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a402914f495a71ab65ac8b4399b2994a845ae19173b001960287c3a3712b6db7"
+  }
+}

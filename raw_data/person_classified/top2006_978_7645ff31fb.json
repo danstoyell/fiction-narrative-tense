@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:978",
+  "quotes": [
+    {
+      "quote_id": "q00294",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00295",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about humanity, with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q00296",
+      "person_signal": "non_base",
+      "note": "Generalized maxim rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00297",
+      "person_signal": "non_base",
+      "note": "Reported character speech; the surrounding beat is too slight to establish narrative person."
+    },
+    {
+      "quote_id": "q00298",
+      "person_signal": "unmarked",
+      "note": "The inclusive \u201cwe\u201d rhetorically groups surviving humanity or normies; it does not establish a participating controlling narrator."
+    },
+    {
+      "quote_id": "q00299",
+      "person_signal": "third",
+      "note": "Repeated external speech attributions to Clay and Alice expose the nonparticipating third-person narrating position despite the dialogue bucket."
+    },
+    {
+      "quote_id": "q00300",
+      "person_signal": "non_base",
+      "note": "Predominantly direct speech; the brief \u201che asked Tom\u201d attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00301",
+      "person_signal": "third",
+      "note": "Sustained external narration anticipates what would later occur to \u201chim,\u201d exposing a nonparticipating third-person narrator."
+    },
+    {
+      "quote_id": "q00302",
+      "person_signal": "unmarked",
+      "note": "A short external attribution introduces Alice\u2019s speech but is insufficient by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q00303",
+      "person_signal": "unmarked",
+      "note": "A bare third-person possessive description could occur within either first- or third-person narration."
+    },
+    {
+      "quote_id": "q00304",
+      "person_signal": "third",
+      "note": "The narration externally names Clay and reports his nerves and thought without a participating narrator frame."
+    },
+    {
+      "quote_id": "q00305",
+      "person_signal": "non_base",
+      "note": "Dialogue between Clay and Tom; speech pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00306",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph or paratext by Konrad Lorenz, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q00307",
+      "person_signal": "non_base",
+      "note": "Exact-context research shows this is direct speech by Clay, although the extracted quote lacks quotation marks."
+    },
+    {
+      "quote_id": "q00308",
+      "person_signal": "third",
+      "note": "Narratorial characterization of Dan Hartwick\u2019s manner and assumptions is delivered externally in third person."
+    },
+    {
+      "quote_id": "q00309",
+      "person_signal": "non_base",
+      "note": "An upstream clipping issue: full context shows Rucksack says this line aloud, so it is dialogue despite the event bucket."
+    },
+    {
+      "quote_id": "q00310",
+      "person_signal": "non_base",
+      "note": "Character dialogue with speech tags; it does not expose a participating base narrator."
+    },
+    {
+      "quote_id": "q00311",
+      "person_signal": "third",
+      "note": "Sustained external access to a character\u2019s reaction and self-conception supports third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/Cell/Stephen-King/9781668025208",
+      "title": "Cell | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized opening sustains external narration of Clayton Riddell as \u201che\u201d and accesses his thoughts. Its occasional \u201cyou might have guessed\u201d addresses the reader rather than casting the protagonist as \u201cyou.\u201d"
+    },
+    {
+      "url": "https://jameshowden.com/2014/10/better-read-than-never-stephen-kings-cell/",
+      "title": "Better Read Than Never: Stephen King\u2019s CELL",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reviewer explicitly characterizes the novel as third-person narration with Clay as its point of view and illustrates this with a substantial passage from late in the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cStephen King Cell novel excerpt Clay Riddell first chapter publisher\u201d and opened the Simon & Schuster authorized excerpt.",
+    "Searched \u201cCell Stephen King point of view third person narrator,\u201d \u201cCell by Stephen King third person,\u201d and related narrative-perspective variants; opened an explicit whole-book description of third-person narration with Clay as focal character.",
+    "Searched the exact text of q00298, q00307, q00308, and q00309 to resolve pronoun attribution and lost quotation boundaries; this confirmed that q00307 and q00309 are character speech.",
+    "Checked Stephen King\u2019s official work page, Hachette, Fresh Fiction, Guardian, and Google Books-oriented results for excerpts, framing, or alternating-person evidence. Synopses and digested retellings were nondiagnostic, and no credible evidence of sustained first-, second-, or alternating-person sections was found."
+  ],
+  "person_note": "The base narrator is nonparticipating third person, closely focalized mainly through Clay. Several interior Goodreads passages independently expose external narration and access to characters\u2019 thoughts, agreeing with the authorized opening and the explicit whole-book POV description. The isolated \u201cwe\u201d in q00298 is inclusive rhetoric about surviving humanity, not a sustained first-person section; q00307 and q00309 are local speech, and the opening\u2019s \u201cyou\u201d is reader address. No credible contrary or alternating structure was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.241287+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3aa6af436698bd7ab0c1a97ae51b3985fd4032f48cfb7c6f3fecb5e77e9b786a"
+  }
+}

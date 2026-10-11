@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:2144",
+  "quotes": [
+    {
+      "quote_id": "q00453",
+      "person_signal": "first",
+      "note": "Retrospective narratorial I/we exposes participating first-person narration."
+    },
+    {
+      "quote_id": "q00454",
+      "person_signal": "non_base",
+      "note": "Gnomic slogan; its implied person does not identify a narrator."
+    },
+    {
+      "quote_id": "q00455",
+      "person_signal": "non_base",
+      "note": "Aphoristic reflection; the isolated I is not securely attributable to base narration."
+    },
+    {
+      "quote_id": "q00456",
+      "person_signal": "non_base",
+      "note": "Reading advice addressed to another person, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00457",
+      "person_signal": "non_base",
+      "note": "Gnomic use of generic you and we does not establish narrative person."
+    },
+    {
+      "quote_id": "q00458",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the impersonal wording does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00459",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Bobby."
+    },
+    {
+      "quote_id": "q00460",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism without diagnostic narration."
+    },
+    {
+      "quote_id": "q00461",
+      "person_signal": "unmarked",
+      "note": "An isolated reference to his life is insufficient by itself to establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00462",
+      "person_signal": "non_base",
+      "note": "Standalone proverb."
+    },
+    {
+      "quote_id": "q00463",
+      "person_signal": "non_base",
+      "note": "Gnomic and apparently clipped character speech about hearts."
+    },
+    {
+      "quote_id": "q00464",
+      "person_signal": "third",
+      "note": "Sustained external narration and free-indirect access to Dieffenbaker's suppositions establish third person."
+    },
+    {
+      "quote_id": "q00465",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00466",
+      "person_signal": "non_base",
+      "note": "Rhetorical character speech or direct thought in a dialogue-classified passage."
+    },
+    {
+      "quote_id": "q00467",
+      "person_signal": "non_base",
+      "note": "Generic-you reading advice rather than base narration."
+    },
+    {
+      "quote_id": "q00468",
+      "person_signal": "unmarked",
+      "note": "Scenic description contains no narrator or character reference diagnostic of person."
+    },
+    {
+      "quote_id": "q00469",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about adulthood."
+    },
+    {
+      "quote_id": "q00470",
+      "person_signal": "first",
+      "note": "Event-classified narratorial I exposes a participating first-person voice."
+    },
+    {
+      "quote_id": "q00471",
+      "person_signal": "non_base",
+      "note": "Generic-you aphorism does not establish second-person narration."
+    },
+    {
+      "quote_id": "q00472",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic advice about books."
+    },
+    {
+      "quote_id": "q00473",
+      "person_signal": "non_base",
+      "note": "Generic-you maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00474",
+      "person_signal": "third",
+      "note": "Sustained external narration presents Bobby and his perceptions as he, establishing third person."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://dokumen.pub/revisiting-stephen-king-a-critical-companion-9780313006760-9780313317880.html",
+      "title": "Revisiting Stephen King: A Critical Companion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Published scholarly structural analysis states that point of view shifts across the five stories; it identifies \u201cLow Men in Yellow Coats\u201d as limited third person and the title novella as first person."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780684853512",
+      "title": "Hearts in Atlantis by Stephen King",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The contemporary review explicitly contrasts the third-person narration of \u201cLow Men\u201d with the first-person narration of \u201cHearts\u201d and notes differing styles among the narratives."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/entertainment/books/1999/09/05/shell-shocked/3f3c6cb7-1808-4f00-9a7d-eeaa070d3c26/",
+      "title": "Shell-Shocked",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The Washington Post explicitly describes the novella \u201cHearts in Atlantis,\u201d narrated by Pete Riley, as a first-person story."
+    },
+    {
+      "url": "https://norberthaupt.com/2018/05/10/book-review-hearts-in-atlantis-by-stephen-king/",
+      "title": "Book Review: Hearts in Atlantis \u2013 by Stephen King",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A detailed whole-book review identifies Parts 1, 3, 4, and 5 as third person and Part 2 as Pete's first-person account."
+    }
+  ],
+  "search_log": [
+    "Searched: Stephen King Hearts in Atlantis narrative point of view first person third person five stories.",
+    "Searched targeted combinations for \u201cLow Men in Yellow Coats,\u201d \u201cBlind Willie,\u201d Pete Riley, narrator, first person, and third person.",
+    "Searched exact quote text to distinguish narratorial I from dialogue, aphorism, and embedded thought.",
+    "Opened the Washington Post, Publishers Weekly, scholarly critical-companion text, and detailed whole-book review before using them.",
+    "Opened Google Books and publisher-derived listings; they confirmed five interconnected sequential stories but supplied no accessible sustained prose diagnostic of person."
+  ],
+  "person_note": "The book alternates narrative person across five sustained, interconnected sections. The scholarly structural analysis and independent reviews agree that \u201cLow Men in Yellow Coats\u201d and the later stories use third-person narration while Pete Riley narrates the substantial title novella in first person. The quote sample independently contains diagnostic first-person narration and sustained third-person passages. Generic you, aphoristic I/we, dialogue, and local thought were not promoted to base-person evidence. No credible source indicated sustained second-person narration or contradicted the alternating structure.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.231253+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "881cf1730b193888d0194842bb2ef812d9b71c1dd5216ebcbd42ca08093c4f10"
+  }
+}

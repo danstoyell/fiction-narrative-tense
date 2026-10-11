@@ -1,0 +1,490 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:2969",
+  "quotes": [
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "Lestat's direct speech, not base narration."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "Gnomic question without diagnostic narration."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "first",
+      "note": "David narrates his participating action as I/we."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "Merrick's direct speech; the female self-reference identifies a local voice."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "Louis's direct speech about Claudia, not base narration."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "Louis's direct speech about Claudia."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "first",
+      "note": "David explicitly narrates Louis finding him and describes his own perceptions."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "Direct speech by David; the visible I occurs inside dialogue rather than narratorial syntax."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without person evidence."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "first",
+      "note": "David narrates leaving Lestat and returning to his own coffin."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "first",
+      "note": "David narrates being observed while he recounts memories."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "first",
+      "note": "Narratorial we places David within the scene."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about English speakers."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "first",
+      "note": "David narrates his perception of the room and Louis."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "Louis's direct speech about Claudia's reading and poetry."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "Quoted supernatural voice and speech beat."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Merrick's dialogue; the surrounding beat does not expose narrator person."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about aging and mortality."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "non_base",
+      "note": "Louis's recalled direct speech."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "non_base",
+      "note": "Direct address in quoted speech."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "first",
+      "note": "David's narratorial question includes himself among those who saw the scene."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "first",
+      "note": "David narrates his fears and desires as I."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "first",
+      "note": "David narrates his reaction and love for Louis and Merrick."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "first",
+      "note": "David narrates his participating emotional experience."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "first",
+      "note": "David narrates entering, embracing, and kissing Louis."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "non_base",
+      "note": "Louis's direct speech describing Claudia."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "first",
+      "note": "David narrates his prior relationship with Merrick."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about vampires."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "non_base",
+      "note": "Direct speech by David; its I is locally spoken rather than base narratorial syntax."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "non_base",
+      "note": "Dialogue addressing another character."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "non_base",
+      "note": "Louis's direct speech about his prolonged youth."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "first",
+      "note": "David narrates his perception and emotional response."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "non_base",
+      "note": "Dialogue directly addressing a magician."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "first",
+      "note": "David narrates his attachment to Merrick as I."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "first",
+      "note": "David narrates how his own old age shaped him."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "first",
+      "note": "David explicitly describes his own identity and thoughts."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "first",
+      "note": "David narrates Louis's response to him."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "first",
+      "note": "David narrates his history as Lestat's fledgling and his love for Louis."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "non_base",
+      "note": "Direct speech by David within his conversation with Louis."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "first",
+      "note": "David narrates his reaction to Louis's voice."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "first",
+      "note": "David narrates his own desire and anticipated condition."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "Gnomic direct speech about summoning spirits."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "unmarked",
+      "note": "Possible base scene narration, but the named characters alone do not establish person."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "first",
+      "note": "David explicitly refers to his earlier narratorial remark and intention."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "first",
+      "note": "David narrates observing Merrick and interpreting her makeup."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "unmarked",
+      "note": "Base reflection is plausible, but no explicit I/we identifies its person."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "unmarked",
+      "note": "Evaluative base narration is plausible but grammatically unmarked for person."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "first",
+      "note": "David narrates what another character communicated to him."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "unmarked",
+      "note": "Atmospheric description without narrator reference."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing another character."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "first",
+      "note": "David narrates observing Louis and wondering about his appearance."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "unmarked",
+      "note": "Character description without explicit narrator participation."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "first",
+      "note": "David explicitly identifies a burden he must bear."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about vampire feeding."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "unmarked",
+      "note": "Bare description of Louis does not establish narrator person."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "first",
+      "note": "Narratorial we includes David among those who once adored Lestat."
+    },
+    {
+      "quote_id": "q00072",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question."
+    },
+    {
+      "quote_id": "q00073",
+      "person_signal": "non_base",
+      "note": "Gnomic speculation about blood and gods."
+    },
+    {
+      "quote_id": "q00074",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using inclusive we."
+    },
+    {
+      "quote_id": "q00075",
+      "person_signal": "first",
+      "note": "David narrates his perception and artistic association."
+    },
+    {
+      "quote_id": "q00076",
+      "person_signal": "unmarked",
+      "note": "The experience likely belongs to David, but the clipped impersonal construction lacks explicit I/we."
+    },
+    {
+      "quote_id": "q00077",
+      "person_signal": "first",
+      "note": "David narrates wanting Louis as his companion."
+    },
+    {
+      "quote_id": "q00078",
+      "person_signal": "unmarked",
+      "note": "Statement about another character's mind does not expose narrator person."
+    },
+    {
+      "quote_id": "q00079",
+      "person_signal": "unmarked",
+      "note": "Character description without narrator reference."
+    },
+    {
+      "quote_id": "q00080",
+      "person_signal": "unmarked",
+      "note": "External description of a character, insufficient by itself for third person."
+    },
+    {
+      "quote_id": "q00081",
+      "person_signal": "first",
+      "note": "David narrates his visual comparison of Louis and Merrick."
+    },
+    {
+      "quote_id": "q00082",
+      "person_signal": "first",
+      "note": "David explicitly narrates his affection and observation."
+    },
+    {
+      "quote_id": "q00083",
+      "person_signal": "first",
+      "note": "David narrates looking at and loving Louis and Merrick."
+    },
+    {
+      "quote_id": "q00084",
+      "person_signal": "non_base",
+      "note": "Embedded first-person notes written by Aaron, not David's base narration."
+    },
+    {
+      "quote_id": "q00085",
+      "person_signal": "non_base",
+      "note": "Aaron's quoted written account is an embedded document."
+    },
+    {
+      "quote_id": "q00086",
+      "person_signal": "first",
+      "note": "David narrates his reaction to Aaron handling the remnants of his life."
+    },
+    {
+      "quote_id": "q00087",
+      "person_signal": "first",
+      "note": "David narrates his own past religious commitment."
+    },
+    {
+      "quote_id": "q00088",
+      "person_signal": "unmarked",
+      "note": "Base description of Merrick is plausible but contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q00089",
+      "person_signal": "first",
+      "note": "David questions his own failure to anticipate Merrick's reaction."
+    },
+    {
+      "quote_id": "q00090",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange between characters."
+    },
+    {
+      "quote_id": "q00091",
+      "person_signal": "first",
+      "note": "David narrates his grief and silence toward his companions."
+    },
+    {
+      "quote_id": "q00092",
+      "person_signal": "first",
+      "note": "David narrates Merrick's effect on him and recalls his own attraction to Lestat."
+    },
+    {
+      "quote_id": "q00093",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing another character."
+    },
+    {
+      "quote_id": "q00094",
+      "person_signal": "first",
+      "note": "David narrates the effects of his mortal and vampire lives on himself."
+    },
+    {
+      "quote_id": "q00095",
+      "person_signal": "first",
+      "note": "David identifies Jesse as his student and narrates their shared history."
+    },
+    {
+      "quote_id": "q00096",
+      "person_signal": "first",
+      "note": "David narrates his speculation and compares Aaron's fate with his own."
+    },
+    {
+      "quote_id": "q00097",
+      "person_signal": "first",
+      "note": "David narrates his conversation with Merrick and their earlier years together."
+    },
+    {
+      "quote_id": "q00098",
+      "person_signal": "unmarked",
+      "note": "Physical description of Merrick without explicit narrator participation."
+    },
+    {
+      "quote_id": "q00099",
+      "person_signal": "non_base",
+      "note": "Clipped passage from Merrick's embedded written report, not base narration."
+    },
+    {
+      "quote_id": "q00100",
+      "person_signal": "non_base",
+      "note": "Sustained direct speech expressing a character's beliefs."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/657/merrick",
+      "title": "Excerpt from Merrick by Anne Rice",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Authorized Knopf excerpt: David introduces himself, calls himself the author of the tale, and narrates Chapter One as a participating I."
+    },
+    {
+      "url": "https://annerice.com/ph20000703.htm",
+      "title": "AnneRice.Com: Phone Message Transcript, July 3, 2000",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Before publication, Anne Rice explicitly identifies David Talbot as the novel's narrator."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780679454489",
+      "title": "Merrick by Anne Rice",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Contemporary professional review explicitly identifies vampire David Talbot as the narrator and describes his role throughout the plot."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/merrick",
+      "title": "Merrick by Anne Rice",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Contemporary review says the story is presented through David Talbot's voice and that David alternates between present preparations and his recollections, not between narrative persons."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Anne Rice Merrick novel excerpt David Talbot narrator first person\" and \"Merrick Anne Rice first person narrator point of view\"; found the authorized Knopf opening excerpt and explicit narrator descriptions.",
+    "Searched publisher and author domains with: site:penguinrandomhouse.com Merrick Anne Rice excerpt and site:annerice.com Merrick narrator; the Penguin Random House Higher Education page timed out when opened, while Anne Rice's archived phone transcript opened successfully.",
+    "Searched: \"Merrick Anne Rice review narrator David Talbot\" and \"Merrick Anne Rice told by David Talbot review\"; opened Publishers Weekly and Bookreporter reviews confirming the whole-book narrator.",
+    "Ran targeted exact-phrase searches for potentially clipped or misleading quotes, including \"There are so many books I mean to read,\" \"I hear the birds singing,\" \"I've been too young for too long,\" and \"Elements we might call Asian or Chinese,\" to distinguish dialogue and embedded writing from David's narration.",
+    "Google Books supplied bibliographic and synopsis material but no useful sustained interior preview. A searchable third-party scan was consulted only to resolve local quotation boundaries and was not treated as classification evidence."
+  ],
+  "person_note": "The controlling narrator is David Talbot, who participates throughout and recounts both the present action and extended memories in first person. Numerous interior Goodreads passages independently expose David's I/we narration, while the authorized opening names him as the tale's author and multiple whole-book sources identify him as narrator. Apparent contrary first-person voices are local material: Lestat, Louis, and Merrick speak in dialogue, while Aaron's notes and Merrick's report are embedded documents. The novel alternates timelines and recollection with present action, but the evidence does not show sustained base sections in another grammatical person. Remaining uncertainty is limited to a few clipped quote boundaries and does not affect the book-level label.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.232428+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5a190fc9ef20358e93b8dc4d504d27511caf47ecda59a270b15fcbba0b4d2045"
+  }
+}

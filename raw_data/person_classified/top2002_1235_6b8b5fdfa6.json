@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:1235",
+  "quotes": [
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Clipped character dialogue; its implied first-person speaker does not identify the base narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/224423200/Daddy-s-Little-Girl",
+      "title": "Daddy's Little Girl by Mary Higgins Clark (Ebook)",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The licensed Simon & Schuster ebook preview includes an introduction explicitly describing a short opening section in third person followed, after several chapters, by Ellie's first-person narration."
+    },
+    {
+      "url": "https://www.simonandschuster.net/books/Daddys-Little-Girl/Mary-Higgins-Clark/9781668069363",
+      "title": "Daddy's Little Girl | Book by Mary Higgins Clark | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates young Ellie externally as 'she,' establishing third-person narration in the opening only."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780743206044",
+      "title": "DADDY'S LITTLE GIRL by Mary Higgins Clark",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The professional review explicitly describes Clark as writing this novel in first person and identifies adult Ellie as the heroine, corroborating the first-person main narrative but not independently describing the third-person opening."
+    },
+    {
+      "url": "https://www.librarything.com/work/43269",
+      "title": "Daddy's Little Girl by Mary Higgins Clark",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A member review explicitly reports that the book moves from third-person narration in its first part to first-person narration later; useful corroboration, but not an authoritative structural source."
+    }
+  ],
+  "search_log": [
+    "Searched \"Mary Higgins Clark Daddy's Little Girl excerpt chapter\" and opened the official Simon & Schuster Chapter 1 excerpt.",
+    "Searched \"Daddy's Little Girl Mary Higgins Clark first person third person\" and opened Publishers Weekly, BookBrowse, LibraryThing, and the licensed Everand ebook preview.",
+    "Searched \"Daddy's Little Girl narrator point of view\" and related first-person and third-person variants; most results were summaries or reader assertions rather than structural evidence.",
+    "Google Books supplied bibliographic and snippet material but no sufficiently accessible sustained interior passage establishing the person shift."
+  ],
+  "person_note": "The input quote is dialogue and supplies no base-narration support. The official opening is sustained third person, while the licensed ebook's structural introduction states that the book shifts after its first few chapters into Ellie's first-person account; Publishers Weekly independently corroborates the first-person main narrative. Because both persons govern sustained sections, the book is ALTERNATING. Confidence is medium because only one Tier A/B source directly supports the complete alternating structure; the other strong sources establish individual components, and the only additional explicit alternating description is a reader review.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.236325+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2810eb49e013eecd7640f2977a20372aba74ce8e00ea182a2174284f63d4204a"
+  }
+}

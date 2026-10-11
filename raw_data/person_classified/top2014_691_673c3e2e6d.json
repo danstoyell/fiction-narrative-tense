@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:691",
+  "quotes": [
+    {
+      "quote_id": "q03316",
+      "person_signal": "non_base",
+      "note": "Character speech; first-person pronouns belong to the speaker, not the base narrator."
+    },
+    {
+      "quote_id": "q03317",
+      "person_signal": "non_base",
+      "note": "Character speech and a generalizing question do not identify the base narrator."
+    },
+    {
+      "quote_id": "q03318",
+      "person_signal": "non_base",
+      "note": "Dialogue among Jane and Madeline; all first- and second-person forms are spoken."
+    },
+    {
+      "quote_id": "q03319",
+      "person_signal": "non_base",
+      "note": "First-person character speech without an outside narratorial beat."
+    },
+    {
+      "quote_id": "q03320",
+      "person_signal": "non_base",
+      "note": "Gnomic simile with no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q03321",
+      "person_signal": "non_base",
+      "note": "Jane's directly attributed speech; its pronouns are not narratorial."
+    },
+    {
+      "quote_id": "q03322",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the generalized subjects do not establish narrator participation."
+    },
+    {
+      "quote_id": "q03323",
+      "person_signal": "unmarked",
+      "note": "The story-general 'your child' is generic address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03324",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' expresses a general observation rather than narrating a story-specific protagonist."
+    },
+    {
+      "quote_id": "q03325",
+      "person_signal": "unmarked",
+      "note": "A brief third-person reference to 'her' is compatible with more than one narrating position; generic 'your' is nondiagnostic."
+    },
+    {
+      "quote_id": "q03326",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person subject does not provide enough local context to establish the base narrator."
+    },
+    {
+      "quote_id": "q03327",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic 'you'; it does not narrate a story-specific protagonist."
+    },
+    {
+      "quote_id": "q03328",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no diagnostic base-narrator signal."
+    },
+    {
+      "quote_id": "q03329",
+      "person_signal": "unmarked",
+      "note": "Generalized narration about parents and children does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q03330",
+      "person_signal": "unmarked",
+      "note": "General observation about children; the plural third-person forms do not establish narrator participation."
+    },
+    {
+      "quote_id": "q03331",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03332",
+      "person_signal": "unmarked",
+      "note": "The first-person mantra is Madeline's quoted thought; the short surrounding third-person clause alone is not diagnostic."
+    },
+    {
+      "quote_id": "q03333",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment without a narratorial-person marker."
+    },
+    {
+      "quote_id": "q03334",
+      "person_signal": "third",
+      "note": "Outside attribution and thought beats narrate Abigail and Madeline as characters, including Madeline's internally reported comparison."
+    },
+    {
+      "quote_id": "q03335",
+      "person_signal": "non_base",
+      "note": "Direct character speech; second-person forms address the listener."
+    },
+    {
+      "quote_id": "q03336",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a woman's actions, relationships, and changing understanding; first-person wording is localized personification/free thought."
+    },
+    {
+      "quote_id": "q03337",
+      "person_signal": "unmarked",
+      "note": "A single third-person conditional thought is too brief to establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q03338",
+      "person_signal": "unmarked",
+      "note": "The isolated 'she' passage is compatible with third-person narration but does not independently prove it; 'you' is generic."
+    },
+    {
+      "quote_id": "q03339",
+      "person_signal": "third",
+      "note": "A sustained passage externally narrates the woman, her sons, and her recognition of violence without a participating narrator frame."
+    },
+    {
+      "quote_id": "q03340",
+      "person_signal": "non_base",
+      "note": "First-person interview-style character speech, not base narration."
+    },
+    {
+      "quote_id": "q03341",
+      "person_signal": "third",
+      "note": "Sustained narration follows Madeline as 'she' and reports her memories and free-indirect reflections; first-person fragments are her localized thoughts."
+    },
+    {
+      "quote_id": "q03342",
+      "person_signal": "unmarked",
+      "note": "Generalized statement about wives and husbands does not identify the narrator's person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780425274866",
+      "title": "Big Little Lies | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-hosted excerpt sustains third-person narration through Mrs. Ponder and Madeline across the opening chapters. Its labeled first-person parent statements are visibly interview/testimony snippets rather than the surrounding narrator."
+    },
+    {
+      "url": "https://ir.canterbury.ac.nz/server/api/core/bitstreams/1270ad8c-6258-4175-a30b-26c7bcf870c7/content",
+      "title": "\u201cAn Exquisite Suffering\u201d: Representations of Maternal Ambivalence in 21st Century Texts About Motherhood",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Rachel Williamson's University of Canterbury doctoral thesis explicitly describes the novel as using a shifting omniscient third-person narrative and separately identifies the Greek-chorus interviews as a framing device drawn from the novel."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-big-little-lies/styles.html",
+      "title": "Liane Moriarty Writing Styles in Big Little Lies",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly states that the novel is told in third-person omniscient, with chapters primarily shifting among Madeline, Jane, and Celeste, and distinguishes the parent interviews appended to chapters."
+    },
+    {
+      "url": "https://www.goodreads.com/interviews/show/994.Liane_Moriarty",
+      "title": "Interview with Liane Moriarty",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Moriarty calls the short statements a 'suburban Greek chorus' and distinguishes them from scenes centered on Celeste and Madeline, confirming that their first-person speech is a local structural device rather than an alternate controlling narrator."
+    }
+  ],
+  "search_log": [
+    "Searched 'Big Little Lies Liane Moriarty official excerpt first chapter publisher' and opened the Penguin Random House Retail excerpt.",
+    "Searched 'Big Little Lies point of view third person narration multiple perspectives' and opened the explicit BookRags whole-book POV description.",
+    "Searched 'Big Little Lies novel narrative structure interview snippets third person' and opened Liane Moriarty's Goodreads interview explaining the suburban Greek-chorus snippets.",
+    "Searched 'Big Little Lies narrative perspective scholarly novel third person' and opened Rachel Williamson's University of Canterbury thesis, which explicitly identifies the novel's shifting omniscient third-person narrative and interview framing device.",
+    "Targeted searches for an author statement that the published novel changed from first to third person mainly returned secondary summaries; an ABC adaptation interview was inaccessible and was not used as evidence."
+  ],
+  "person_note": "The controlling story is narrated in shifting third person, chiefly through Madeline, Jane, and Celeste. Several interior quote passages independently show sustained external narration and free-indirect access, agreeing with the authorized opening and the scholarly whole-book description. First-person material in the quote set is dialogue, quoted thought, or interview testimony; the author and structural sources identify the recurring interviews as short Greek-chorus framing snippets, not sustained first-person base sections, so they do not make the novel ALTERNATING. The publisher excerpt is limited to the opening, but the whole-book scholarly and study-guide evidence resolves that scope limitation; no material person conflict remains.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.253247+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3088afdd5401b5a94532a65406bd3f79395cfda1383d68d7d9ae1356f8968bb0"
+  }
+}

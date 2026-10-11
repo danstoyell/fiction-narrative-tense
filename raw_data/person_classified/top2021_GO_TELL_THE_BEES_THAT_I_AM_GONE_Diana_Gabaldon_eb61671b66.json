@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:GO TELL THE BEES THAT I AM GONE|Diana Gabaldon",
+  "quotes": [
+    {
+      "quote_id": "q06223",
+      "person_signal": "non_base",
+      "note": "First-person language occurs inside dialogue; the brief third-person speech tag does not establish base narration."
+    },
+    {
+      "quote_id": "q06224",
+      "person_signal": "non_base",
+      "note": "Character speech and its short attribution are nondiagnostic of the controlling narrator."
+    },
+    {
+      "quote_id": "q06225",
+      "person_signal": "non_base",
+      "note": "A universal, aphoristic use of 'you,' not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q06226",
+      "person_signal": "non_base",
+      "note": "Pronouns occur in attributed dialogue and do not identify the base narrator."
+    },
+    {
+      "quote_id": "q06227",
+      "person_signal": "first",
+      "note": "Participating narrator Claire recounts her recurring experience using 'my,' 'we,' and 'we didn\u2019t.'"
+    },
+    {
+      "quote_id": "q06228",
+      "person_signal": "non_base",
+      "note": "Extended universal address in gnomic material, not narration of a story protagonist as 'you.'"
+    },
+    {
+      "quote_id": "q06229",
+      "person_signal": "non_base",
+      "note": "Inclusive moral generalization rather than a diagnostic passage of story narration."
+    },
+    {
+      "quote_id": "q06230",
+      "person_signal": "non_base",
+      "note": "Impersonal aphorism about physical and mental scars."
+    },
+    {
+      "quote_id": "q06231",
+      "person_signal": "non_base",
+      "note": "Direct-address speech in Scots dialect; 'yourself' refers to the addressee."
+    },
+    {
+      "quote_id": "q06232",
+      "person_signal": "first",
+      "note": "Outside the whispered speech, a participating narrator reports hearing it and describes 'my heart' and her inability to speak."
+    },
+    {
+      "quote_id": "q06233",
+      "person_signal": "first",
+      "note": "Participating narrator describes patients she had personally seen over the years."
+    },
+    {
+      "quote_id": "q06234",
+      "person_signal": "non_base",
+      "note": "An attributed recollection of dialogue; its first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q06235",
+      "person_signal": "non_base",
+      "note": "Dialect speech uses generic and direct-address 'you,' not base narration."
+    },
+    {
+      "quote_id": "q06236",
+      "person_signal": "non_base",
+      "note": "Fergus's first-person statements occur within explicitly attributed dialogue."
+    },
+    {
+      "quote_id": "q06237",
+      "person_signal": "non_base",
+      "note": "A tagged exchange whose first- and second-person language belongs to the characters and quoted Milne line."
+    },
+    {
+      "quote_id": "q06238",
+      "person_signal": "unmarked",
+      "note": "The isolated close-third sentence presents a character's memory but lacks enough context to establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q06239",
+      "person_signal": "unmarked",
+      "note": "Third-person description of a woman alone does not distinguish third-person base narration from description within another narrator's account."
+    },
+    {
+      "quote_id": "q06240",
+      "person_signal": "unclear",
+      "note": "The passage is truncated mid-sentence and omits the subject and framing context needed for person attribution."
+    },
+    {
+      "quote_id": "q06241",
+      "person_signal": "unclear",
+      "note": "The clipped opening loses the likely subject and quotation boundary, leaving narration versus speech unresolved."
+    },
+    {
+      "quote_id": "q06242",
+      "person_signal": "non_base",
+      "note": "Jamie is explicitly identified as the speaker; the generic pronouns are confined to dialogue."
+    },
+    {
+      "quote_id": "q06243",
+      "person_signal": "unmarked",
+      "note": "A single third-person sentence about an unnamed character's indecision is insufficient to establish base person."
+    },
+    {
+      "quote_id": "q06244",
+      "person_signal": "first",
+      "note": "A participating narrator reports her own specific action as 'I.'"
+    },
+    {
+      "quote_id": "q06245",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the outside speech beat 'I assured him' diagnostically exposes participating first-person narration."
+    },
+    {
+      "quote_id": "q06246",
+      "person_signal": "non_base",
+      "note": "An impersonal comparative aphorism with no narrating participant or story-specific protagonist."
+    },
+    {
+      "quote_id": "q06247",
+      "person_signal": "first",
+      "note": "A participating narrator reports her own action, feeling, and internal response in a specific scene."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/go-tell-the-bees-that-i-am-gone-9781529158465/extracts/2629-go-tell-the-bees-that-i-am-gone",
+      "title": "Extract | Go Tell the Bees that I am Gone by Diana Gabaldon",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher's sustained opening extract is narrated by participating Claire as 'I,' independently corroborating the first-person strand."
+    },
+    {
+      "url": "https://dianagabaldon.com/books/outlander-series/book-nine-outlander-series/three-bees-excerpts/",
+      "title": "Three BEES Excerpts",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "ALTERNATING",
+      "note": "The author's authorized page presents separate sustained excerpts: close-third narration centered on Rachel and Brianna/Roger, followed by first-person narration from Claire."
+    },
+    {
+      "url": "https://dianagabaldon.com/books/outlander-series/book-nine-outlander-series/mantalk-iii-why-we-fight/",
+      "title": "\u201cMantalk\u201d III: \u201cWhy We Fight\u201d",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This authorized sustained Book Nine excerpt narrates Roger externally in close third person, including his perceptions and thoughts."
+    },
+    {
+      "url": "https://dianagabaldon.com/resources/faq/faq-about-the-books/",
+      "title": "FAQ: About the Books",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Gabaldon explicitly explains the series structure: Claire's viewpoint is first person, while all other viewpoint characters are rendered in third person."
+    },
+    {
+      "url": "https://bettybolte.net/2022/11/07/my-thoughts-on-go-tell-the-bees-that-i-am-gone-by-diana-gabaldon-histfic-historical-fiction-americanrevolution-scottish-timetravel-fantasy-amreading-amwriting/",
+      "title": "My thoughts on Go Tell the Bees That I Am Gone by Diana Gabaldon",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A review by an author/editor who read the novel explicitly reports Claire in first person and every other viewpoint character in close third person, with at least three additional POVs."
+    }
+  ],
+  "search_log": [
+    "Searched: site:penguinrandomhouse.com \"Go Tell the Bees That I Am Gone\" excerpt; located and opened Penguin's authorized sustained opening extract.",
+    "Searched: \"Go Tell the Bees That I Am Gone\" \"point of view\" first person third person; opened an explicit whole-book POV review.",
+    "Searched: \"Go Tell the Bees That I Am Gone\" excerpt Claire I Jamie he and Diana Gabaldon Bees multiple points of view narrator; opened authorized author excerpts showing both persons.",
+    "Searched: site:dianagabaldon.com \"third person\" Claire \"point of view\"; opened Gabaldon's FAQ explaining the series-wide first/third-person viewpoint design.",
+    "Searched the author's Book Nine pages for interior Roger, Rachel, Brianna, and Claire excerpts and opened the relevant pages; no credible evidence of sustained second-person narration or a conflicting structure was found."
+  ],
+  "person_note": "The book alternates sustained narrative persons: Claire's participating sections use first person, while sections centered on Roger, Rachel, Brianna, and other viewpoint characters use close third person. The Goodreads sample independently exposes several Claire passages as first-person narration but contains only isolated third-person fragments that are not strong enough alone; authorized interior excerpts and Gabaldon's structural explanation establish that those third-person viewpoints are sustained base sections rather than embedded material. Gnomic 'you' passages and dialogue are local and do not indicate second-person narration. The quote sample is strongly skewed toward Claire, but the convergent publisher, author, and explicit whole-book evidence resolves that coverage limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_074",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:20:51.291970+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f76f2e01d3b6ab61248c665b50a82a32e95e3ef65c9f2b48e6a776a7a6f02f07"
+  }
+}

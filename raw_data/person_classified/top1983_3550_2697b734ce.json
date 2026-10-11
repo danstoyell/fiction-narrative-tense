@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1983:3550",
+  "quotes": [
+    {
+      "quote_id": "q02649",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; its generic soldier and pronouns do not expose the base narrator."
+    },
+    {
+      "quote_id": "q02650",
+      "person_signal": "non_base",
+      "note": "Gnomic social commentary without diagnostic base-narrator participation."
+    },
+    {
+      "quote_id": "q02651",
+      "person_signal": "third",
+      "note": "Extended scene beats recount Marjorie's memory, perceptions, and thoughts externally around the dialogue."
+    },
+    {
+      "quote_id": "q02652",
+      "person_signal": "unclear",
+      "note": "A clipped reporting tag introduces quoted speech, and the terminal fragment prevents reliable local attribution."
+    },
+    {
+      "quote_id": "q02653",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q02654",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Jan's past experience and perception without a participating narrator."
+    },
+    {
+      "quote_id": "q02655",
+      "person_signal": "non_base",
+      "note": "Paratextual list and apparent quoted first-person remark do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02656",
+      "person_signal": "non_base",
+      "note": "Paratextual fragment with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q02657",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person exposition or speech; the visible I is not established as base narration."
+    },
+    {
+      "quote_id": "q02658",
+      "person_signal": "unmarked",
+      "note": "A brief external reporting clause frames character speech but is too limited to establish narrator participation."
+    },
+    {
+      "quote_id": "q02659",
+      "person_signal": "unmarked",
+      "note": "The passive reporting clause may be base narration, but the quoted maxim supplies no diagnostic narrator evidence."
+    },
+    {
+      "quote_id": "q02660",
+      "person_signal": "third",
+      "note": "Sustained historical exposition externally describes several social groups and their treatment."
+    },
+    {
+      "quote_id": "q02661",
+      "person_signal": "third",
+      "note": "Narrative beats externally follow Marjorie's actions and knowledge around the dialogue."
+    },
+    {
+      "quote_id": "q02662",
+      "person_signal": "third",
+      "note": "External scene narration describes Wiktor's actions and appearance around the characters' speech."
+    },
+    {
+      "quote_id": "q02663",
+      "person_signal": "third",
+      "note": "Continuous external action beats identify both characters by name or third-person pronouns."
+    },
+    {
+      "quote_id": "q02664",
+      "person_signal": "non_base",
+      "note": "An embedded Brezhnev joke; its storytelling voice and dialogue are local rather than base narration."
+    },
+    {
+      "quote_id": "q02665",
+      "person_signal": "unmarked",
+      "note": "Character speech dominates; the single external action beat does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q02666",
+      "person_signal": "third",
+      "note": "Sustained authorial exposition describes Castle Gorka's practices and Poland in 1646 from outside the story."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookrags.com/studyguide-poland/style.html",
+      "title": "James A. Michener Writing Styles in Poland",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened study-guide section explicitly identifies the novel as third-person and describes that narration as supplying historical background from the thirteenth century through 1981."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/114089/poland-by-james-a-michener/",
+      "title": "Poland by James A. Michener",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher verifies the work and its eight-century, three-family structure, but its catalog description does not explicitly establish grammatical person."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/lifestyle/1983/09/02/poland-bound-by-the-past/f2005770-69f0-4e5e-b0fc-d9c7df574348/",
+      "title": "'Poland': Bound by The Past",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The contemporary review describes the opening frame, multigenerational historical narrative, and return to the frame at the end, but does not explicitly name narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"James A. Michener Poland novel excerpt first chapter\", \"Poland point of view narrator third person\", Google Books previews, and chapter-structure terms.",
+    "Opened the BookRags point-of-view section, which explicitly describes whole-book third-person narration.",
+    "Checked Penguin Random House's edition page and Read Sample offering; the accessible page exposed catalog copy but not sample prose.",
+    "Checked Google Books, Open Library, and Internet Archive records; previews were limited or access-restricted and yielded no inspectable Tier A prose. Unofficial OCR/PDF copies were excluded from evidentiary use.",
+    "Searched \"James Michener Poland analysis narration narrator omniscient\" and related phrases; weaker automated summaries echoed an omniscient narrator but were not needed for the decision.",
+    "Opened the Washington Post contemporary review to verify the modern frame and historical-section structure; it did not explicitly state narrative person. No source indicated alternating or participating base narration."
+  ],
+  "person_note": "The diagnostic quotations repeatedly show a nonparticipating narrator recounting characters' actions, perceptions, and historical circumstances in third person, including both scene narration and broad authorial exposition. First- and second-person forms occur only in dialogue, gnomic commentary, paratext, or an embedded joke. The explicit whole-book BookRags description agrees and no researched source reports alternating narration. Confidence is medium because the accessible web evidence included no sustained authorized prose excerpt or Tier B structural study.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_022",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T19:46:26.754833+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6abedca9634707881b4e0ae09bbe785a2b1efb74f268a21a29087b279bfdac28"
+  }
+}

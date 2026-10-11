@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1979:4944",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "General maxim with inclusive we; it does not identify a story-participating narrator."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "Gnomic classification of people, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Sarah."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies this as Sarah's dialogue; you is her addressee, not a second-person protagonist."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "third",
+      "note": "Sustained narration presents Sarah externally as she while reporting her realization and private mental state."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Universal maxim using generic you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies the first-person wording as Roger Chatsworth's dialogue."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "The hypothetical you belongs to Johnny's written recurring Question about killing Hitler, not to base second-person narration."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "unmarked",
+      "note": "Narratorial political aside without a participating narrator or sufficiently sustained third-person scene."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "unmarked",
+      "note": "A single description of a crowd does not by itself establish narrator participation."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "third",
+      "note": "The narrator refers to Johnny as he and reports what Johnny supposed without participating in the scene."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Johnny."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "Proverb-like gnomic material, not story narration."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "third",
+      "note": "Outside the dialogue, extended beats narrate Ngo and Johnny externally and report Johnny's reaction; spoken pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents Sarah externally through she and describes her actions and sensations."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "unmarked",
+      "note": "Recovered context places this in Johnny-centered free-indirect reflection; the colon-introduced you is an imagined electorate message, not second-person narration."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "Dialogue; the brief said beats do not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "Johnny's speech to his mother."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies this assessment of the surgeon as Weizak's dialogue."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "First-person question spoken by a character."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "unmarked",
+      "note": "Narratorial observation about Stillson, but the isolated named subject is insufficient to diagnose person."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "third",
+      "note": "The narratorial beat identifies a character externally as he and frames his direct thought."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "unmarked",
+      "note": "Recovered context makes this Sarah-centered free-indirect base narration, but the excerpt itself contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "third",
+      "note": "Sustained narration reports Sarah's private hatred and describes her husband externally."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Generic-you hospital maxim, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Gnomic wording; full-text context also identifies it as Bannerman's dialogue."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "Proverb-like moral statement rather than a narrated story moment."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "third",
+      "note": "Sustained external scene narration covers the crowd, an armed man, and the spectators' collective recognition."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "unmarked",
+      "note": "A statement about Stillson's constituency does not alone identify whether the narrator participates."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "third",
+      "note": "Extended external exposition narrates Greg's activities and the contents of his propaganda without a participating frame."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies we as Markstone's spoken recollection of wartime service."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "third",
+      "note": "Sustained narration presents Sarah as she and filters national events through what she had noticed."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "non_base",
+      "note": "First-person character dialogue."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "unmarked",
+      "note": "Scenic fragments belonging to base narration, but they contain no grammatical evidence of narrator person."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "third",
+      "note": "The narrator presents a character externally as he while reporting his knowledge and imagined consequences."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "non_base",
+      "note": "Dialogue with a short attribution beat that is too limited to diagnose the controlling person independently."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.cambridge.org/core/books/abs/vote-with-a-bullet/dead-zone-1979/790AC37FC1CF5ED2421FB59C0016D6F7",
+      "title": "The Dead Zone (1979) \u2014 Vote with a Bullet: Assassination in American Fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Sascha P\u00f6hlmann's scholarly chapter explicitly states that the novel uses a third-person omniscient narrator and discusses that narrator's treatment of Johnny across the novel."
+    },
+    {
+      "url": "https://8d20c3ce-d59c-4730-a9b5-d1161a85d6d7.filesusr.com/ugd/fac563_cdac23a088c747089e1762ce69367bc0.pdf?index=true",
+      "title": "The Dead Zone \u2014 Scribner eBook text",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Searchable complete text sampled at the opening, multiple interior scenes, and ending consistently shows third-person base narration. Apparent first-person counterexamples resolve as dialogue, Johnny's letter, testimony, or direct thought; Tier C reflects the third-party host."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-dead-zone/style.html",
+      "title": "Stephen King Writing Styles in The Dead Zone",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the novel as third-person omniscient and explains that the narration follows several characters, including Johnny, his parents, and Greg Stillson."
+    },
+    {
+      "url": "https://openlibrary.org/books/OL4409440M/The_dead_zone",
+      "title": "The dead zone by Stephen King",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The library record verifies the 1979 Viking edition and supplies the opening sentence, which refers to Sarah in third person; its scope is only the opening and the excerpt is user-added."
+    }
+  ],
+  "search_log": [
+    "Searched \"Stephen King The Dead Zone excerpt first chapter publisher\", \"The Dead Zone Stephen King point of view third person narrator\", \"The Dead Zone Stephen King Google Books excerpt\", and \"The Dead Zone novel third-person narration scholarly analysis\".",
+    "Opened StephenKing.com, Simon & Schuster, Google Books, and Hodder/Hachette title pages. They verified the work and editions, but their synopses were not narrator-person evidence; Hodder's Read Excerpt control did not expose additional prose.",
+    "Searched Open Library and Internet Archive availability. Open Library exposed only the third-person opening sentence for the English edition, so it was retained as limited Tier D evidence.",
+    "Opened the Cambridge scholarly chapter and found an explicit whole-novel description of a third-person omniscient narrator.",
+    "Searched \"The Dead Zone third person omniscient\" and opened the BookRags style discussion as an additional explicit whole-book description.",
+    "Opened and searched a complete Scribner eBook text for the sampled quotations and for opening, interior, and ending structure. This resolved clipped I/we/you passages as dialogue, hypothetical thought, a letter, or testimony rather than alternating base narration."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, with omniscient or shifting limited access to Sarah, Johnny, Stillson, and other characters. Multiple quote passages independently expose that position through sustained external narration and access to characters' thoughts. Live full-text checks resolved the potentially contrary I, we, and you quotations as dialogue, generic maxims, Johnny's hypothetical Question, or other local material; the ending's first-person letter and testimony are explicitly embedded documents rather than autonomous first-person narrative sections. The quote evidence agrees with the Cambridge whole-book structural analysis and additional corroboration. The main limitation is that the complete searchable text was hosted by a third party, but the scholarly Tier B source and independent Goodreads-derived passages support the same classification with no credible conflict.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_020",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T07:03:25.197440+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fe65824253788d49cf83d6f271bd1f3aaf090a65f336e263d1bb3858ad0cfe74"
+  }
+}

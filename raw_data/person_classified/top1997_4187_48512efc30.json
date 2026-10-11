@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:4187",
+  "quotes": [
+    {
+      "quote_id": "q00025",
+      "person_signal": "non_base",
+      "note": "General comparison about human nature; it is gnomic and does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the isolated reference to \u201cher\u201d does not identify the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "A chain of universal maxims; \u201cwe\u201d refers generically to humanity, not a participating narrator."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Grandpa Teddy\u2019s quoted speech is a local voice, and the brief attribution does not establish base person."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "unmarked",
+      "note": "Impersonal setting description contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "third",
+      "note": "The narration externally reports a male focal character\u2019s private consideration in third person."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "third",
+      "note": "Extended third-person narration presents the focal character\u2019s inner state and emotional reaction."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Metaphysical generalization about the human spirit is gnomic rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "third",
+      "note": "The quoted words are dialogue, but the surrounding base-narrative beat recounts Joe\u2019s actions in third person."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "unmarked",
+      "note": "Generalized description of Los Angeles contains no participating or externally identified narrator."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "This opening event names Joe as the subject, but a proper-name subject alone does not establish narrator person."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Standalone universal assertion is gnomic and nondiagnostic."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "non_base",
+      "note": "The \u201cwe\u201d and \u201cus\u201d are universal human references in a maxim, not a controlling first-person narrator."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "non_base",
+      "note": "Generic statements about \u201cone\u201d and \u201csome people\u201d are gnomic; the clipping does not supply story-specific person evidence."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "non_base",
+      "note": "General reflection on acceptance and joy is gnomic; the clipped final word is nondiagnostic."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "non_base",
+      "note": "The comparison about banks is gnomic, and the stranded trailing name is too clipped to identify narration."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "third",
+      "note": "Sustained narration renders the focal character\u2019s hypothetical reasoning while referring to him as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "third",
+      "note": "Several sentences narrate the focal character\u2019s beliefs, hopes, and reasoning externally in third person."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "unmarked",
+      "note": "This metaphorical statement may reflect the focal character\u2019s outlook, but it contains no diagnostic narrator reference."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.deankoontz.com/sole-survivor-chapter-excerpt/",
+      "title": "SOLE SURVIVOR Excerpt \u2013 Dean Koontz",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The authorized Chapter Two excerpt sustains third-person narration of Joe Carpenter\u2019s actions, sensations, and memories without a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-sole-survivor/style.html",
+      "title": "Dean Koontz Writing Styles in Sole Survivor: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the story\u2019s point of view as third-person omniscient and describes its access to Joe\u2019s thoughts."
+    },
+    {
+      "url": "https://www.aliciarasley.com/wp-content/uploads/2021/04/The-Power-of-Point-of-View-WORD-with-cover-and-page-numbers.pdf",
+      "title": "The Power of Point of View",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "This writing-craft reference specifically identifies Sole Survivor\u2019s first two chapters as deep third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched Dean Koontz Sole Survivor with excerpt, first chapter, Chapter Two, and Google Books preview terms; found the authorized author-site excerpt, while Google Books and publisher catalog pages exposed mainly metadata or synopsis text.",
+    "Searched Sole Survivor with point of view, narrator, third person, and third-person omniscient terms; found an explicit whole-book BookRags description and Alicia Rasley\u2019s point-of-view craft reference.",
+    "Searched for multiple narrators, alternating point of view, epistolary form, and frame narrative; found no credible evidence of sustained narration in another grammatical person. Results were largely synopses, adaptations, or unrelated works."
+  ],
+  "person_note": "The event quotations repeatedly render Joe\u2019s private thoughts and beliefs through third-person base narration, while the authorized Chapter Two excerpt independently shows the same pattern. Whole-book explicit commentary identifies the novel as third-person omniscient, and a craft reference corroborates deep third person in the first two chapters. First-person forms in the quote set occur only in dialogue or universal maxims and are not competing narrative sections. The main limitation is that the authorized prose source covers one chapter, but the whole-book description and multiple diagnostic interior passages mitigate that scope limitation; no evidence of alternating or framed first-person narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_030",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:44:53.651828+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a69917376bd3bcf7cb5a17d17b444bfc10f302b231cf9aca50d081b6cd41c77a"
+  }
+}

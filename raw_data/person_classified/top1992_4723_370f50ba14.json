@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1992:4723",
+  "quotes": [
+    {
+      "quote_id": "q03228",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q03229",
+      "person_signal": "non_base",
+      "note": "Universal maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q03230",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not the base narrator."
+    },
+    {
+      "quote_id": "q03231",
+      "person_signal": "non_base",
+      "note": "First-person address within character speech."
+    },
+    {
+      "quote_id": "q03232",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without story-specific narration."
+    },
+    {
+      "quote_id": "q03233",
+      "person_signal": "non_base",
+      "note": "First-person character speech or reflection."
+    },
+    {
+      "quote_id": "q03234",
+      "person_signal": "non_base",
+      "note": "Gnomic statement, not narrative-person evidence."
+    },
+    {
+      "quote_id": "q03235",
+      "person_signal": "non_base",
+      "note": "Aphorism without a narrating participant."
+    },
+    {
+      "quote_id": "q03236",
+      "person_signal": "non_base",
+      "note": "Robert's signed first-person letter is an embedded document."
+    },
+    {
+      "quote_id": "q03237",
+      "person_signal": "non_base",
+      "note": "Direct character address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03238",
+      "person_signal": "non_base",
+      "note": "First-person material from Robert's embedded writing or speech."
+    },
+    {
+      "quote_id": "q03239",
+      "person_signal": "non_base",
+      "note": "Quoted maxim in direct speech."
+    },
+    {
+      "quote_id": "q03240",
+      "person_signal": "unmarked",
+      "note": "Research places this aphoristic sentence at the start of the first-person frame, but the sentence itself contains no person marker."
+    },
+    {
+      "quote_id": "q03241",
+      "person_signal": "third",
+      "note": "Externally narrated access to Robert's private values supports the third-person story body."
+    },
+    {
+      "quote_id": "q03242",
+      "person_signal": "non_base",
+      "note": "First-person recollection in character speech or writing."
+    },
+    {
+      "quote_id": "q03243",
+      "person_signal": "non_base",
+      "note": "Character speech, not controlling narration."
+    },
+    {
+      "quote_id": "q03244",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks recoverable narration boundaries."
+    },
+    {
+      "quote_id": "q03245",
+      "person_signal": "non_base",
+      "note": "First-person poetic speech rather than base narration."
+    },
+    {
+      "quote_id": "q03246",
+      "person_signal": "third",
+      "note": "Sustained external narration renders both characters and Francesca's private desire in third person."
+    },
+    {
+      "quote_id": "q03247",
+      "person_signal": "non_base",
+      "note": "Cummings's speech within the embedded interview."
+    },
+    {
+      "quote_id": "q03248",
+      "person_signal": "non_base",
+      "note": "Dialogue pronouns do not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q03249",
+      "person_signal": "non_base",
+      "note": "Gnomic sentence rather than scene narration."
+    },
+    {
+      "quote_id": "q03250",
+      "person_signal": "non_base",
+      "note": "Character speech."
+    },
+    {
+      "quote_id": "q03251",
+      "person_signal": "non_base",
+      "note": "First-person character speech or quoted thought."
+    },
+    {
+      "quote_id": "q03252",
+      "person_signal": "third",
+      "note": "Third-person scene narration combines external action with Francesca's perception and free-indirect phrasing."
+    },
+    {
+      "quote_id": "q03253",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, research locates this wording inside Cummings's first-person interview transcript."
+    },
+    {
+      "quote_id": "q03254",
+      "person_signal": "unmarked",
+      "note": "Brief third-person characterization alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q03255",
+      "person_signal": "non_base",
+      "note": "Character speech."
+    },
+    {
+      "quote_id": "q03256",
+      "person_signal": "third",
+      "note": "Outside the quoted dialogue, the speech beats and access to Francesca's thought use third-person narration."
+    },
+    {
+      "quote_id": "q03257",
+      "person_signal": "non_base",
+      "note": "First-person-plural character speech."
+    },
+    {
+      "quote_id": "q03258",
+      "person_signal": "non_base",
+      "note": "Quoted lyric or incantation."
+    },
+    {
+      "quote_id": "q03259",
+      "person_signal": "non_base",
+      "note": "First-person-plural dialogue between the lovers."
+    },
+    {
+      "quote_id": "q03260",
+      "person_signal": "unmarked",
+      "note": "A bare third-person character statement is insufficient by itself."
+    },
+    {
+      "quote_id": "q03261",
+      "person_signal": "non_base",
+      "note": "Generalization presented as character speech."
+    },
+    {
+      "quote_id": "q03262",
+      "person_signal": "unmarked",
+      "note": "The short named-character sentence does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q03263",
+      "person_signal": "third",
+      "note": "Several narratorial sentences externally render Robert and his private preferences in third person."
+    },
+    {
+      "quote_id": "q03264",
+      "person_signal": "non_base",
+      "note": "First-person statement from Cummings's embedded interview transcript."
+    },
+    {
+      "quote_id": "q03265",
+      "person_signal": "third",
+      "note": "External narration enters Francesca's divided private desires while referring to her as she."
+    },
+    {
+      "quote_id": "q03266",
+      "person_signal": "non_base",
+      "note": "First-person direct speech addressed to Robert."
+    },
+    {
+      "quote_id": "q03267",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q03268",
+      "person_signal": "unmarked",
+      "note": "The base clause merely introduces a quoted school evaluation and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q03269",
+      "person_signal": "non_base",
+      "note": "First-person dialogue."
+    },
+    {
+      "quote_id": "q03270",
+      "person_signal": "non_base",
+      "note": "First-person dialogue addressed to Robert."
+    },
+    {
+      "quote_id": "q03271",
+      "person_signal": "non_base",
+      "note": "Second-person form occurs in character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03272",
+      "person_signal": "first",
+      "note": "Although bucketed as paratext, the complete opening shows this is part of the constitutive frame narrated by the researching author as I."
+    },
+    {
+      "quote_id": "q03273",
+      "person_signal": "unclear",
+      "note": "Ellipsis removes the subject and framing context needed to attribute the thought."
+    },
+    {
+      "quote_id": "q03274",
+      "person_signal": "unclear",
+      "note": "Sentence fragment with no recoverable narrator-person evidence."
+    },
+    {
+      "quote_id": "q03275",
+      "person_signal": "non_base",
+      "note": "Gnomic regional generalization."
+    },
+    {
+      "quote_id": "q03276",
+      "person_signal": "non_base",
+      "note": "Francesca's first-person statement in an embedded letter."
+    },
+    {
+      "quote_id": "q03277",
+      "person_signal": "third",
+      "note": "Third-person narration reports Francesca's private erotic response to Robert's recent presence."
+    },
+    {
+      "quote_id": "q03278",
+      "person_signal": "third",
+      "note": "External third-person narration supplies Francesca's unspoken knowledge."
+    },
+    {
+      "quote_id": "q03279",
+      "person_signal": "non_base",
+      "note": "Cummings's first-person speech in the embedded interview transcript."
+    },
+    {
+      "quote_id": "q03280",
+      "person_signal": "non_base",
+      "note": "First-person character contention in dialogue."
+    },
+    {
+      "quote_id": "q03281",
+      "person_signal": "third",
+      "note": "Third-person narration interprets Francesca's private management of her memories."
+    },
+    {
+      "quote_id": "q03282",
+      "person_signal": "unmarked",
+      "note": "This clause occurs inside the first-person opening frame but refers only to Michael and Carolyn as they, so the excerpt itself is unmarked."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookrags.com/studyguide-the-bridges-of-madison-county/style.html",
+      "title": "Robert James Waller Writing Styles in The Bridges of Madison County",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Detailed structural analysis explicitly identifies limited-third narration in the central story and first-person narration in both the preface and postscript; this is corroborated by an independent study guide and the section texts."
+    },
+    {
+      "url": "https://www.supersummary.com/the-bridges-of-madison-county/chapters-1-4-summary/",
+      "title": "The Bridges of Madison County Chapters 1-4 Summary & Analysis",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Detailed chapter analysis identifies the opening narrator as a participating researcher who meets Michael and Carolyn, then describes the following Robert and Francesca chapters through sustained external third-person narration."
+    },
+    {
+      "url": "https://www.supersummary.com/the-bridges-of-madison-county/major-character-analysis/",
+      "title": "The Bridges of Madison County Character Analysis",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Independent structural analysis treats the narrator as a character whose research bookends the novel, corroborating that the first-person frame is repeated rather than an isolated pronoun."
+    },
+    {
+      "url": "https://esl-bits.org/ESL.English.Learning.Audiobooks/Bridges/01/text.html",
+      "title": "The Bridges of Madison County — The Beginning",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The complete opening section sustains an author-researcher voice using I and we while recounting meetings, investigation, and composition of the story."
+    },
+    {
+      "url": "https://esl-bits.org/ESL.English.Learning.Audiobooks/Bridges/11/text.html",
+      "title": "The Bridges of Madison County — The Tacoma Nighthawk",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The postscript again sustains the participating author's I-voice as he travels, researches Kincaid, locates Cummings, and introduces the interview transcript."
+    },
+    {
+      "url": "https://openlibrary.org/books/OL7536285M/The_Bridges_of_Madison_County",
+      "title": "The Bridges of Madison County by Robert James Waller",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The library record verifies the work and supplies only its first story-body sentence, which refers to Robert Kincaid externally; the passage is too short to establish whole-book structure."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Bridges of Madison County Robert James Waller official excerpt publisher first chapter\" and opened the Hachette/Grand Central listing; it verified the edition but supplied no narrative excerpt.",
+    "Searched \"The Bridges of Madison County narrative point of view third person scholarly\" and \"narrator point of view frame narrative analysis\"; BookRags explicitly distinguished the third-person central story from first-person preface and postscript.",
+    "Opened SuperSummary's chapter and narrator analyses; they independently identified the researching narrator at both bookends and described the intervening Robert and Francesca narrative.",
+    "Searched Google Books, Open Library, and Internet Archive records; Google Books was bibliographic and Open Library exposed only one story-body sentence, so neither preview alone was treated as whole-book proof.",
+    "Searched exact section titles and opening language, then opened the full texts of \"The Beginning\" and \"The Tacoma Nighthawk\" to confirm sustained first-person narration at both ends.",
+    "Opened the full \"Interview with Nighthawk Cummings\" text to identify q03253, q03264, and q03279 as embedded interview material rather than evidence of the authorial frame.",
+    "A national-tour educational guide described the novel simply as third person; targeted follow-up showed that this accurately summarizes the central romance but omits the documented first-person bookends."
+  ],
+  "person_note": "The central Robert–Francesca romance, which constitutes the book's base narrative, is sustained third person. The participating author-researcher appears in an opening and postscript, but those framing bookends do not override the controlling person of the main narrative. Letters, dialogue, and other embedded first-person material are also local, so the book label is THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_027",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:55:31.095414+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ac7c02b79626697173e27f61cad6a99f8b1b26d12456cccc2df9c7ec60699edb"
+  }
+}

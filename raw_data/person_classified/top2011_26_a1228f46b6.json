@@ -1,0 +1,477 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:26",
+  "quotes": [
+    {
+      "quote_id": "q00391",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00392",
+      "person_signal": "non_base",
+      "note": "Surrounding-text research identifies this as a man's spoken reply, despite the upstream event bucket."
+    },
+    {
+      "quote_id": "q00393",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00394",
+      "person_signal": "non_base",
+      "note": "A clipped first-person character statement, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q00395",
+      "person_signal": "non_base",
+      "note": "General aphoristic material without a story-specific narrator."
+    },
+    {
+      "quote_id": "q00396",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00397",
+      "person_signal": "non_base",
+      "note": "Extended direct character speech."
+    },
+    {
+      "quote_id": "q00398",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech, not second-person narration."
+    },
+    {
+      "quote_id": "q00399",
+      "person_signal": "non_base",
+      "note": "Direct character speech phrased as a maxim."
+    },
+    {
+      "quote_id": "q00400",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00401",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00402",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00403",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00404",
+      "person_signal": "non_base",
+      "note": "Gnomic statement."
+    },
+    {
+      "quote_id": "q00405",
+      "person_signal": "non_base",
+      "note": "Direct speech between characters."
+    },
+    {
+      "quote_id": "q00406",
+      "person_signal": "non_base",
+      "note": "General reflection using inclusive we, not participating narration."
+    },
+    {
+      "quote_id": "q00407",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00408",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the brief third-person speech tag is insufficient to establish narrative person."
+    },
+    {
+      "quote_id": "q00409",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00410",
+      "person_signal": "third",
+      "note": "Sustained external narration describes her actions, constructed persona, and private emotional needs."
+    },
+    {
+      "quote_id": "q00411",
+      "person_signal": "non_base",
+      "note": "A clipped first-person character statement or direct thought within third-person narration."
+    },
+    {
+      "quote_id": "q00412",
+      "person_signal": "non_base",
+      "note": "Character speech, regardless of its maxim-like wording."
+    },
+    {
+      "quote_id": "q00413",
+      "person_signal": "non_base",
+      "note": "Direct character speech about Tengo and Aomame."
+    },
+    {
+      "quote_id": "q00414",
+      "person_signal": "non_base",
+      "note": "Gnomic advice rather than scene narration."
+    },
+    {
+      "quote_id": "q00415",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech, not second-person base narration."
+    },
+    {
+      "quote_id": "q00416",
+      "person_signal": "third",
+      "note": "Extended external narration presents the moon and Aomame by name before embedding her spoken questions."
+    },
+    {
+      "quote_id": "q00417",
+      "person_signal": "non_base",
+      "note": "General admonition, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00418",
+      "person_signal": "non_base",
+      "note": "Gnomic use of we."
+    },
+    {
+      "quote_id": "q00419",
+      "person_signal": "non_base",
+      "note": "Exact-phrase research locates this passage in Murakami's separate short story about the 100% perfect girl, indicating an upstream provenance problem rather than 1Q84 base narration."
+    },
+    {
+      "quote_id": "q00420",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00421",
+      "person_signal": "non_base",
+      "note": "Extended direct speech using generic you."
+    },
+    {
+      "quote_id": "q00422",
+      "person_signal": "third",
+      "note": "External narration reports her habitual emotional response and behavior."
+    },
+    {
+      "quote_id": "q00423",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00424",
+      "person_signal": "unmarked",
+      "note": "Narratorial description is possible, but the sentence contains no character-narrator relation that establishes person."
+    },
+    {
+      "quote_id": "q00425",
+      "person_signal": "non_base",
+      "note": "Direct character speech using generic you."
+    },
+    {
+      "quote_id": "q00426",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic you."
+    },
+    {
+      "quote_id": "q00427",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies this as Aomame speaking to Ayumi, despite the upstream event bucket."
+    },
+    {
+      "quote_id": "q00428",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00429",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short he-said tag and reference to her mind are too local to establish controlling person."
+    },
+    {
+      "quote_id": "q00430",
+      "person_signal": "third",
+      "note": "External narration reports what she wanted to tell him and her judgment about expressing it."
+    },
+    {
+      "quote_id": "q00431",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization."
+    },
+    {
+      "quote_id": "q00432",
+      "person_signal": "non_base",
+      "note": "Dialogue with speech tags; the speakers' pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q00433",
+      "person_signal": "non_base",
+      "note": "Gnomic collective-we reflection."
+    },
+    {
+      "quote_id": "q00434",
+      "person_signal": "non_base",
+      "note": "Extended direct character speech."
+    },
+    {
+      "quote_id": "q00435",
+      "person_signal": "non_base",
+      "note": "Dialogue between Tamaru and another character."
+    },
+    {
+      "quote_id": "q00436",
+      "person_signal": "unmarked",
+      "note": "Abstract narratorial description contains no participating narrator or sufficiently contextualized character."
+    },
+    {
+      "quote_id": "q00437",
+      "person_signal": "unmarked",
+      "note": "Extended description of the moon may be base prose but does not independently expose narrator participation."
+    },
+    {
+      "quote_id": "q00438",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00439",
+      "person_signal": "non_base",
+      "note": "Direct character speech using generic you."
+    },
+    {
+      "quote_id": "q00440",
+      "person_signal": "non_base",
+      "note": "Direct character speech; inclusive we does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00441",
+      "person_signal": "non_base",
+      "note": "Character speech incorporating a quotation from Jung."
+    },
+    {
+      "quote_id": "q00442",
+      "person_signal": "non_base",
+      "note": "Direct character speech using collective we."
+    },
+    {
+      "quote_id": "q00443",
+      "person_signal": "non_base",
+      "note": "Gnomic statement."
+    },
+    {
+      "quote_id": "q00444",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00445",
+      "person_signal": "unmarked",
+      "note": "Possible base description, but the isolated image does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00446",
+      "person_signal": "non_base",
+      "note": "Direct character speech quoting a proposition."
+    },
+    {
+      "quote_id": "q00447",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you."
+    },
+    {
+      "quote_id": "q00448",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00449",
+      "person_signal": "non_base",
+      "note": "Extended dialogue about butterflies."
+    },
+    {
+      "quote_id": "q00450",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00451",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00452",
+      "person_signal": "third",
+      "note": "Sustained external narration calls the pair they, recounts their past, and states what they did not know at the time."
+    },
+    {
+      "quote_id": "q00453",
+      "person_signal": "non_base",
+      "note": "Gnomic statement."
+    },
+    {
+      "quote_id": "q00454",
+      "person_signal": "non_base",
+      "note": "Direct character speech phrased as a maxim."
+    },
+    {
+      "quote_id": "q00455",
+      "person_signal": "non_base",
+      "note": "A character's sustained first-person reflection embedded within the novel's third-person structure."
+    },
+    {
+      "quote_id": "q00456",
+      "person_signal": "non_base",
+      "note": "Extended direct first-person character speech."
+    },
+    {
+      "quote_id": "q00457",
+      "person_signal": "non_base",
+      "note": "A clipped first-person character thought or statement, not controlling narration."
+    },
+    {
+      "quote_id": "q00458",
+      "person_signal": "non_base",
+      "note": "Gnomic biological reflection using generic we and us."
+    },
+    {
+      "quote_id": "q00459",
+      "person_signal": "non_base",
+      "note": "A variant of the clipped first-person character statement about liking reading."
+    },
+    {
+      "quote_id": "q00460",
+      "person_signal": "non_base",
+      "note": "Direct speech by Tamaru."
+    },
+    {
+      "quote_id": "q00461",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech, not second-person narration."
+    },
+    {
+      "quote_id": "q00462",
+      "person_signal": "non_base",
+      "note": "Direct character speech using generic you."
+    },
+    {
+      "quote_id": "q00463",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00464",
+      "person_signal": "non_base",
+      "note": "Gnomic discussion of routines."
+    },
+    {
+      "quote_id": "q00465",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00466",
+      "person_signal": "third",
+      "note": "Sustained external narration describes her bodily action, internal calm, desire, and solace."
+    },
+    {
+      "quote_id": "q00467",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q00468",
+      "person_signal": "non_base",
+      "note": "Gnomic reassurance using generic you."
+    },
+    {
+      "quote_id": "q00469",
+      "person_signal": "non_base",
+      "note": "Extended direct character speech about mathematics."
+    },
+    {
+      "quote_id": "q00470",
+      "person_signal": "third",
+      "note": "External narration summarizes her habits, choices, and spending."
+    },
+    {
+      "quote_id": "q00471",
+      "person_signal": "non_base",
+      "note": "Direct character speech using generic you and inclusive we."
+    },
+    {
+      "quote_id": "q00472",
+      "person_signal": "non_base",
+      "note": "Dialogue between Tamaru and another character."
+    },
+    {
+      "quote_id": "q00473",
+      "person_signal": "non_base",
+      "note": "Dialogue between Ayumi and Aomame."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780307476463",
+      "title": "1Q84 | Penguin Random House Secondary Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter 1 excerpt sustains external third-person narration of Aomame, including her actions, history, perceptions, and thoughts."
+    },
+    {
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rlm/article/download/12363/11616",
+      "title": "Metaficci\u00f3n e intertextualidad en la novela 1Q84 de Haruki Murakami",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A University of Costa Rica journal article explicitly states that the entire novel has an omniscient narrator and a three-focus structure through Aomame, Tengo, and Ushikawa; the focal shifts do not change grammatical person."
+    },
+    {
+      "url": "https://www.bookforum.com/print/1804/realities-split-and-merge-in-haruki-murakami-s-new-cosmic-romance-8583",
+      "title": "Satellites of Love",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This opened literary review explicitly contrasts Murakami's usual first-person quests with the third-person 1Q84, describes Aomame and Tengo's alternating chapters, and notes Ushikawa's added perspective."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2011/oct/18/haruki-murakami-1q84-review",
+      "title": "1Q84 by Haruki Murakami \u2013 review",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The review identifies Ushikawa as a third focus of third-person narration in Book 3 and supplies sustained third-person prose examples involving Tengo and Aomame."
+    }
+  ],
+  "search_log": [
+    "Searched for \"1Q84 Haruki Murakami official excerpt Aomame Tengo third person\" and publisher/first-chapter variants; opened Penguin Random House's authorized Chapter 1 excerpt.",
+    "Searched for \"1Q84 point of view third person alternating chapters narrator scholarly\" and structural variants covering Aomame, Tengo, and Ushikawa.",
+    "Opened the University of Costa Rica journal PDF and verified its whole-book statement that the novel uses an omniscient narrator with three focal perspectives.",
+    "Opened Bookforum and Guardian reviews to verify third-person narration beyond the opening and the addition of Ushikawa's Book 3 perspective.",
+    "The University of Oregon J-lit page and Los Angeles Review of Books page returned fetch errors during opening, so their search snippets were not used as evidence.",
+    "Exact-phrase searches for \"I can bear any pain as long as it has meaning\" and \"The thing I'm most afraid of is me\" recovered surrounding dialogue, showing that q00392 and q00427 are character speech misbucketed as events.",
+    "An exact-phrase search for q00419 located the passage in Murakami's separate short story \"On Seeing the 100% Perfect Girl One Beautiful April Morning,\" indicating likely Goodreads provenance contamination."
+  ],
+  "person_note": "The controlling narration is third person throughout, while chapters alternate focal attention among Aomame and Tengo and, in Book 3, Ushikawa. The strongest event passages independently show external narration of characters' actions and private states. The first-person event-bucket snippets are clipped speech or direct character thought rather than autonomous first-person sections; web context explicitly resolves q00392 and q00427 as dialogue. q00419 appears to come from a separate Murakami short story and is therefore not evidence about this novel. Authorized opening prose, whole-book scholarly analysis, and reputable structural reviews agree, with no credible evidence of sustained first- or second-person base narration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.248288+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "91aa2a2863155b7f72e3a7a00c1845681b62bec7c60df7a2d1cbca6de4e7423d"
+  }
+}

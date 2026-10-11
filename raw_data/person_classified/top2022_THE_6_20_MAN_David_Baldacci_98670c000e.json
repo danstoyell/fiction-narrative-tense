@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:THE 6:20 MAN|David Baldacci",
+  "quotes": [
+    {
+      "quote_id": "q07237",
+      "person_signal": "non_base",
+      "note": "General aphorism with no story-specific narrator."
+    },
+    {
+      "quote_id": "q07238",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Devine; its first- and second-person pronouns are not narratorial."
+    },
+    {
+      "quote_id": "q07239",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization without diagnostic base narration."
+    },
+    {
+      "quote_id": "q07240",
+      "person_signal": "non_base",
+      "note": "General observation about finance and government, not story-specific narration."
+    },
+    {
+      "quote_id": "q07241",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim rather than sustained narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q07242",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates; the external tag naming Montgomery is too brief to establish narrative person."
+    },
+    {
+      "quote_id": "q07243",
+      "person_signal": "unmarked",
+      "note": "A possessive reference to an unnamed character alone does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q07244",
+      "person_signal": "third",
+      "note": "Free-indirect questions followed by external narration of the focal character as he expose third-person limited narration; we is universal, not a participating narrator."
+    },
+    {
+      "quote_id": "q07245",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates, while the short Devine speech tag is insufficient by itself to identify the base narrator."
+    },
+    {
+      "quote_id": "q07246",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to a soldier, not second-person base narration."
+    },
+    {
+      "quote_id": "q07247",
+      "person_signal": "non_base",
+      "note": "Conversational first-person plural belongs to character speech."
+    },
+    {
+      "quote_id": "q07248",
+      "person_signal": "non_base",
+      "note": "Gnomic you is universal advice, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q07249",
+      "person_signal": "unmarked",
+      "note": "Scene-setting narration contains no participating or externally narrated character."
+    },
+    {
+      "quote_id": "q07250",
+      "person_signal": "unmarked",
+      "note": "Generic you in a habitual/free-indirect statement is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q07251",
+      "person_signal": "third",
+      "note": "Contiguous scene narration presents a character externally as he and refers to his perceptions and room."
+    },
+    {
+      "quote_id": "q07252",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism supplies no evidence about the base narrator."
+    },
+    {
+      "quote_id": "q07253",
+      "person_signal": "unclear",
+      "note": "The opening subject is clipped, generic you is locally ambiguous, and the remaining bare he-clause is insufficient alone."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookrags.com/studyguide-the-6-20-man/styles.html",
+      "title": "David Baldacci Writing Styles in The 6:20 Man",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the novel as third-person narration limited to Travis Devine and distinguishes him from an independent narrator."
+    },
+    {
+      "url": "https://jhsiess.com/2022/07/13/book-review-the-620-man/",
+      "title": "Book Review: The 6:20 Man",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A long Chapter 1\u20132 excerpt consistently narrates Travis Devine as he while presenting his perceptions and thoughts, corroborating third-person limited narration at the opening."
+    },
+    {
+      "url": "https://www.novelsuspects.com/excerpts/620-man/",
+      "title": "Listen to the Excerpt: The 6:20 Man by David Baldacci",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "none",
+      "note": "The Hachette-affiliated page identifies an authorized audio excerpt, but the accessible page supplies only promotional synopsis text and an embedded player, so it does not independently establish prose person."
+    },
+    {
+      "url": "https://books.google.com/books/about/The_6_20_Man_A_Travis_Devine_Novel_1.html?id=UidoEAAAQBAJ",
+      "title": "The 6:20 Man: A Travis Devine Novel 1",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "Google Books verifies the Pan Macmillan edition, author, year, and novel form, but the accessible page contains catalog description rather than diagnostic narrative prose."
+    }
+  ],
+  "search_log": [
+    "Searched \"The 6:20 Man\" \"David Baldacci\" official excerpt and first chapter; found the Hachette-affiliated audio page and a substantial Chapter 1\u20132 excerpt reproduced by Colloquium.",
+    "Searched \"The 6:20 Man\" point of view, third person, and narrator; found BookRags' explicit whole-book description of third-person limited narration.",
+    "Searched for multiple narrators, alternating point of view, epistolary structure, and frame narrative; found no credible indication of sustained narration in another grammatical person.",
+    "Checked Google Books and Open Library/Internet Archive discovery results; accessible Google Books content was descriptive, and the Open Library page timed out, so neither supplied usable narrative-person evidence.",
+    "Targeted searches for Chapter 1 and interior Devine passages found third-person prose but also unauthorized full-text mirrors, which were not used as evidence."
+  ],
+  "person_note": "The diagnostic Goodreads passages present the focal character externally as he while allowing access to his perceptions, consistent with third-person limited narration. Universal or conversational I, we, and you instances occur in speech, aphorisms, or free-indirect generalization and do not establish first- or second-person base narration. BookRags explicitly characterizes the whole novel as third person limited to Travis Devine, and the substantial opening excerpt independently demonstrates that pattern. No credible evidence of alternating or framed first-person sections was found. Confidence is medium because the explicit whole-book source is Tier C and the corroborating prose excerpt covers only the opening.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_079",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T05:06:09.636223+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8379323b884853ae094bbd698f6dcf76e72a23d629b21613b6da0cc850e265ac"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:901",
+  "quotes": [
+    {
+      "quote_id": "q02721",
+      "person_signal": "unmarked",
+      "note": "The clipped media-reaction passage contains no marker of narrator participation; third-person references to Joe alone are nondiagnostic."
+    },
+    {
+      "quote_id": "q02722",
+      "person_signal": "non_base",
+      "note": "A fuller Goodreads passage shows that the terminal \u201cI\u201d belongs to Warren\u2019s direct speech about hitting Tony Conigliaro, not to base narration."
+    },
+    {
+      "quote_id": "q02723",
+      "person_signal": "unmarked",
+      "note": "The Joe-focused narration does not expose the narrator\u2019s person; \u201cyou\u201d and \u201cI\u201d occur in imagined direct speech and are nondiagnostic."
+    },
+    {
+      "quote_id": "q02724",
+      "person_signal": "unclear",
+      "note": "The clipped wording lacks attribution and may be dialogue; its references to Joe and his parents do not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q02725",
+      "person_signal": "non_base",
+      "note": "This general maxim about forgiveness is gnomic rather than story-specific narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.si.com/more-sports/2012/04/06/calico-joe",
+      "title": "Exclusive excerpt: Calico Joe",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The authorized Doubleday excerpt contains sustained prose in which participating narrator Paul repeatedly uses \u201cI\u201d and identifies Warren as \u201cmy father,\u201d including during the 1973 baseball narrative."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-calico-joe/styles.html",
+      "title": "John Grisham Writing Styles in Calico Joe",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view section explicitly identifies Paul Tracey as the novel\u2019s first-person narrator and discusses his narration in both adult and childhood portions."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/calico-joe",
+      "title": "Calico Joe",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review says the book moves between 1973 and the present while being told from adult Paul\u2019s point of view, corroborating one participating narrator across both timelines."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/audiobook-reviews/john-grisham/calico-joe/",
+      "title": "Calico Joe",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Kirkus identifies the grown Paul as the character who tells the tale and watches Joe\u2019s rise, corroborating Paul\u2019s narratorial participation."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cCalico Joe John Grisham excerpt Ray Chapman was killed\u201d and opened the authorized Sports Illustrated/Doubleday excerpt.",
+    "Searched \u201cCalico Joe first-person Paul Tracey narrator\u201d and opened explicit point-of-view descriptions from BookRags, Bookreporter, and Kirkus.",
+    "Opened the Penguin Random House catalog page; it offered a sample control and synopsis but no accessible diagnostic prose, so it was not retained as person evidence.",
+    "Searched publisher and author domains for additional extracts, including Penguin Random House Library Marketing and Hachette/Hodder. The PRH Library page timed out, and the Hachette excerpt control exposed no prose, so neither was counted as a second Tier A source.",
+    "Searched exact fragments from all clipped input quotes. Goodreads restored q02722\u2019s larger passage and established that its \u201cI\u201d is direct speech; searches did not resolve q02724\u2019s local attribution."
+  ],
+  "person_note": "Paul Tracey is the participating first-person narrator of both the present-day reconciliation story and the 1973 flashbacks; the timeline shifts do not constitute alternation of narrative person. The input quotes themselves provide no diagnostic first-person base-narration signal: q02722 is demonstrably dialogue, q02723 contains imagined speech, and the remaining event excerpts are unmarked or locally unclear. One authorized Tier A excerpt strongly establishes Paul\u2019s narration, and several explicit whole-book Tier C descriptions corroborate it with no credible contrary evidence. Confidence is therefore medium rather than high because quote support is absent and live research did not yield two usable Tier A/B sources.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.249537+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d425c104f8fa110db75c9db34c18d9c440f29ec77cb038836450857f59582ec3"
+  }
+}

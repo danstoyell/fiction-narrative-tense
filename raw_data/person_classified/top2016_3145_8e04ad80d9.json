@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:3145",
+  "quotes": [
+    {
+      "quote_id": "q01033",
+      "person_signal": "non_base",
+      "note": "General essayistic reflection; its narratorial I does not depict a story-world event."
+    },
+    {
+      "quote_id": "q01034",
+      "person_signal": "first",
+      "note": "Lucy retrospectively narrates her own experience as I."
+    },
+    {
+      "quote_id": "q01035",
+      "person_signal": "non_base",
+      "note": "The first-person-free attributing clause frames quoted character speech."
+    },
+    {
+      "quote_id": "q01036",
+      "person_signal": "first",
+      "note": "The participating narrator recounts her own realization as I."
+    },
+    {
+      "quote_id": "q01037",
+      "person_signal": "non_base",
+      "note": "General reflection about children rather than a specific narrated event."
+    },
+    {
+      "quote_id": "q01038",
+      "person_signal": "first",
+      "note": "The narrator describes what books did for her using me and my."
+    },
+    {
+      "quote_id": "q01039",
+      "person_signal": "non_base",
+      "note": "An embedded maxim and essayistic explanation, not sustained story narration."
+    },
+    {
+      "quote_id": "q01040",
+      "person_signal": "non_base",
+      "note": "Essayistic commentary on a literary quotation rather than story-world narration."
+    },
+    {
+      "quote_id": "q01041",
+      "person_signal": "non_base",
+      "note": "Universal aphorism with no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q01042",
+      "person_signal": "first",
+      "note": "The narrator identifies a specific lesson she learned as I."
+    },
+    {
+      "quote_id": "q01043",
+      "person_signal": "non_base",
+      "note": "Universal reflection about memory and human behavior."
+    },
+    {
+      "quote_id": "q01044",
+      "person_signal": "first",
+      "note": "Lucy narrates her own thoughts and perception of her family."
+    },
+    {
+      "quote_id": "q01045",
+      "person_signal": "first",
+      "note": "The participating narrator recounts what she said and habitually does."
+    },
+    {
+      "quote_id": "q01046",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, Lucy identifies the speaker as my daughter and herself as me."
+    },
+    {
+      "quote_id": "q01047",
+      "person_signal": "first",
+      "note": "The workshop participant-narrator includes herself in the specific group addressed as us."
+    },
+    {
+      "quote_id": "q01048",
+      "person_signal": "non_base",
+      "note": "The potentially first-person us belongs to Sarah Payne's reported speech."
+    },
+    {
+      "quote_id": "q01049",
+      "person_signal": "non_base",
+      "note": "Generalized political reflection rather than a specific story event."
+    },
+    {
+      "quote_id": "q01050",
+      "person_signal": "first",
+      "note": "Lucy narrates her past self-understanding and ambitions as I."
+    },
+    {
+      "quote_id": "q01051",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration recounts Lucy's memories, choices, and self-conception."
+    },
+    {
+      "quote_id": "q01052",
+      "person_signal": "first",
+      "note": "After a general opening, Lucy narrates her own and another character's specific past states."
+    },
+    {
+      "quote_id": "q01053",
+      "person_signal": "first",
+      "note": "Lucy frames a sustained autobiographical memory with I think and closes with me."
+    },
+    {
+      "quote_id": "q01054",
+      "person_signal": "non_base",
+      "note": "Habitual generalization about children, not a particular story-world episode."
+    },
+    {
+      "quote_id": "q01055",
+      "person_signal": "first",
+      "note": "Lucy recounts her own thoughts during the hospital stay."
+    },
+    {
+      "quote_id": "q01056",
+      "person_signal": "non_base",
+      "note": "Metanarrative generalization about the story's broader applicability."
+    },
+    {
+      "quote_id": "q01057",
+      "person_signal": "first",
+      "note": "The narrator recounts her own reading and remembering; the final quotation is embedded."
+    },
+    {
+      "quote_id": "q01058",
+      "person_signal": "non_base",
+      "note": "Universal reflection about social judgment rather than story narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.elizabethstrout.com/books/my-name-is-lucy-barton/lucy-barton-excerpt",
+      "title": "My Name Is Lucy Barton: Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's authorized sustained excerpt opens with Lucy narrating her hospitalization, family, perceptions, and actions as I."
+    },
+    {
+      "url": "https://www.thenation.com/article/archive/my-name-is-lucy-barton-elizabeth-strout-review/tnamp/",
+      "title": "Her Name Is Lucy Barton",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly says Lucy narrates retrospectively, describes the novel as told from her perspective, and places her in the tradition of first-person narrators."
+    },
+    {
+      "url": "https://www.irishtimes.com/culture/books/my-name-is-lucy-barton-by-elizabeth-strout-review-a-light-that-never-goes-out-1.2595261",
+      "title": "My Name is Lucy Barton by Elizabeth Strout review: a light that never goes out",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review identifies Lucy as the narrator throughout its discussion of the novel and attributes autobiographical recollections and first-person testimony to her."
+    },
+    {
+      "url": "https://www.washingtonpost.com/entertainment/books/elizabeth-strouts-my-name-is-lucy-barton-review/2016/01/04/8df36b98-afca-11e5-b711-1998289ffcea_story.html",
+      "title": "Elizabeth Strout\u2019s \u2018My Name is Lucy Barton\u2019 review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review analyzes Lucy's narration across the novel and explains that the pages being read are Lucy's own attempt to tell her story."
+    }
+  ],
+  "search_log": [
+    "Searched: site:penguinrandomhouse.com \"My Name Is Lucy Barton\" excerpt; located an authorized author-site excerpt and a BBC-hosted typeset extract.",
+    "Searched: \"My Name Is Lucy Barton\" \"first person\" narrator; found explicit whole-book discussion in The Nation.",
+    "Searched: \"My Name Is Lucy Barton\" point of view narrator review and Elizabeth Strout My Name Is Lucy Barton extract; opened relevant reviews and the authorized excerpt before using them.",
+    "Searched: \"My Name Is Lucy Barton\" alternating narration multiple narrators and \"My Name Is Lucy Barton\" epistolary frame narrative; results described Lucy's retrospective framing but supplied no evidence of sustained narration in another person.",
+    "Searched: site:edu \"My Name Is Lucy Barton\" narrator first person; results did not add stronger accessible evidence than the authorized excerpt and opened major-publication reviews."
+  ],
+  "person_note": "The event quotations repeatedly expose Lucy as a participating retrospective I-narrator, including material from the hospital stay, childhood, family relationships, writing life, and later marriage. Dialogue and gnomic quotations were not allowed to vote mechanically; embedded speech and general reflections were marked non-base where appropriate. The authorized opening independently confirms sustained first-person narration, while several whole-book reviews identify Lucy as the narrator and describe the broader novel as her retrospective account. Targeted searches found no credible evidence of alternating, second-person, third-person, epistolary, or autonomous embedded narration. The opening source alone has limited scope, but its agreement with numerous interior quotations and multiple whole-book descriptions supports high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_056",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T15:51:46.819998+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "19b568e6a1dc1850ca0ece4d375ba40e461b67e29bc463980a23f1e361e4a01e"
+  }
+}

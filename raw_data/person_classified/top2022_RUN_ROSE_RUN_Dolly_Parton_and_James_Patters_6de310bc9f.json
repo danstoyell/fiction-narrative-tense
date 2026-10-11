@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:RUN, ROSE, RUN|Dolly Parton and James Patters",
+  "quotes": [
+    {
+      "quote_id": "q07066",
+      "person_signal": "non_base",
+      "note": "Song lyrics; the lyric speaker's I does not identify the prose narrator."
+    },
+    {
+      "quote_id": "q07067",
+      "person_signal": "non_base",
+      "note": "Song lyrics rather than base prose narration."
+    },
+    {
+      "quote_id": "q07068",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization; universal you and everybody do not establish narrator participation."
+    },
+    {
+      "quote_id": "q07069",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial generalization with no person-diagnostic framing."
+    },
+    {
+      "quote_id": "q07070",
+      "person_signal": "unmarked",
+      "note": "Generalized free-indirect phrasing about a girl does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q07071",
+      "person_signal": "non_base",
+      "note": "Extended song lyrics; first-person language belongs to the lyric voice."
+    },
+    {
+      "quote_id": "q07072",
+      "person_signal": "unmarked",
+      "note": "Free-indirect question and generalization do not independently expose the narrator's person."
+    },
+    {
+      "quote_id": "q07073",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a female character as she while rendering her concerns and situation."
+    },
+    {
+      "quote_id": "q07074",
+      "person_signal": "non_base",
+      "note": "General advice rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q07075",
+      "person_signal": "non_base",
+      "note": "Universal second-person advice, not sustained narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q07076",
+      "person_signal": "third",
+      "note": "A first-person direct thought is explicitly embedded by the third-person tag she marveled."
+    },
+    {
+      "quote_id": "q07077",
+      "person_signal": "non_base",
+      "note": "Song lyrics; we and our belong to the lyric voice."
+    },
+    {
+      "quote_id": "q07078",
+      "person_signal": "non_base",
+      "note": "Song lyrics; first-person forms do not identify the prose narrator."
+    },
+    {
+      "quote_id": "q07079",
+      "person_signal": "non_base",
+      "note": "Gnomic definition about country songs, nondiagnostic of narrative person."
+    },
+    {
+      "quote_id": "q07080",
+      "person_signal": "non_base",
+      "note": "Character speech; I and you belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q07081",
+      "person_signal": "non_base",
+      "note": "Predominantly song lyrics; the brief she sang tag does not provide enough contextual narration for a diagnostic signal."
+    },
+    {
+      "quote_id": "q07082",
+      "person_signal": "non_base",
+      "note": "Predominantly Ruthanna's speech, including an embedded quotation; the short speech beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q07083",
+      "person_signal": "non_base",
+      "note": "Unmarked character speech; its I does not belong to the base narrator."
+    },
+    {
+      "quote_id": "q07084",
+      "person_signal": "non_base",
+      "note": "Paratextual donation appeal rather than the novel's narration."
+    },
+    {
+      "quote_id": "q07085",
+      "person_signal": "unmarked",
+      "note": "A brief statement about she is compatible with either first- or third-person framing when isolated."
+    },
+    {
+      "quote_id": "q07086",
+      "person_signal": "unmarked",
+      "note": "Bare speech beat and named-character action do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q07087",
+      "person_signal": "unclear",
+      "note": "The clipped passage combines an embedded first-person lyric with fragmentary external narration, preventing a clean local signal."
+    },
+    {
+      "quote_id": "q07088",
+      "person_signal": "non_base",
+      "note": "Predominantly song lyrics framed by a minimal singing tag; the lyric language is not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781529160291/9781529160291-sample.pdf",
+      "title": "Run Rose Run \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized 45-page sample covers the prologue and opening chapters. It sustains external third-person narration across AnnieLee, Ruthanna, and Ethan focal passages; first-person lines are explicitly marked thoughts, dialogue, or lyrics."
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/news/dolly-parton-james-patterson-run-rose-run-book-excerpt/",
+      "title": "Book excerpt: Dolly Parton & James Patterson's \"Run, Rose, Run\"",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Little, Brown-authorized interior excerpt sustains third-person narration around Ruthanna and AnnieLee, including external action, interior access, dialogue, and embedded lyrics."
+    },
+    {
+      "url": "https://www.penguin.co.nz/books/run-rose-run-9781529160291/extracts/2659-run-rose-run",
+      "title": "Extract | Run Rose Run by Dolly Parton",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-hosted Chapter 1 extract independently displays third-person narration of AnnieLee; first-person material is confined to her song lyrics or represented thoughts."
+    }
+  ],
+  "search_log": [
+    "Searched \"Run, Rose, Run\" Dolly Parton James Patterson excerpt/chapter and opened publisher-authorized Penguin and Little, Brown/CBS extracts.",
+    "Searched \"Run, Rose, Run\" with point of view, narrator, and third person; results were mostly synopsis pages rather than explicit structural evidence.",
+    "Searched for multiple narrators and alternating point of view; results concerned the full-cast audiobook performance, not changes in the prose narrative person, and supplied no evidence of first-/third-person alternation.",
+    "Checked the Google Books record, but its catalog description and contents listing were not person-diagnostic."
+  ],
+  "person_note": "The base prose narration is third person, with shifting focal attention among characters such as AnnieLee, Ruthanna, and Ethan. The authorized opening sample and a separate authorized interior excerpt sustain that form, while the diagnostic Goodreads passages agree. Apparent first-person counterexamples are songs, speech, or explicitly tagged direct thoughts rather than autonomous first-person narrative sections. No credible evidence of sustained second-person or first-/third-person alternation was found; the main limitation is that the strongest continuous web sample covers the opening rather than the entire novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_079",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T05:06:09.634933+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a4b98fc6bfc7dbb1de4119ca2fef932f91f427818f328875ebf7e7f846f2de51"
+  }
+}

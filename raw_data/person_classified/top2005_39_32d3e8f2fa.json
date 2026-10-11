@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:39",
+  "quotes": [
+    {
+      "quote_id": "q00348",
+      "person_signal": "first",
+      "note": "Lindsay narrates her investigative actions as \u201cI\u201d; this is base event narration, not dialogue or an embedded document."
+    },
+    {
+      "quote_id": "q00349",
+      "person_signal": "first",
+      "note": "The participating narrator describes her career, legal predicament, and emotions through sustained \u201cI\u201d narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://app.thestorygraph.com/book_reviews/c9170eb4-0ea6-4c5c-ab1d-e25cdd2e72d9?page=5",
+      "title": "Reviews \u2014 4th of July | The StoryGraph",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A book-specific review explicitly states that the viewpoint shifts: Lindsay-focused material is first person, while material focused on other characters is third person."
+    },
+    {
+      "url": "https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/142/4th-of-July",
+      "title": "Summary and Reviews of 4th of July by James Patterson and Maxine Paetro",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "A reader review says multiple chapters are given over to the killer called the Watcher, corroborating that the non-Lindsay strand is sustained rather than an isolated speech or document, but it does not specify grammatical person."
+    },
+    {
+      "url": "https://www.bookey.app/book/4th-of-july-by-james-patterson",
+      "title": "4th Of July Chapter Summary | James Patterson",
+      "tier": "D",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "Chapter-by-chapter summaries identify autonomous Watcher-centered scenes in Chapters 9, 28, 39, and 117, confirming repeated interior non-Lindsay sections; summary grammar itself was not treated as direct person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \u201c4th of July James Patterson Maxine Paetro excerpt chapter Lindsay first person\u201d and related excerpt/first-chapter queries; an AbeBooks result exposed a first-person opening snippet, but the page could not be opened reliably, so it was not used as evidence.",
+    "Searched the exact title with \u201cpoint of view,\u201d \u201cfirst person,\u201d \u201cthird person,\u201d \u201cnarrator,\u201d and \u201calternating\u201d; found and opened the StoryGraph page containing an explicit whole-book description of the first/third-person shift.",
+    "Searched for Watcher, Seeker, O\u2019Malley, and chapter-specific passages; opened BookBrowse and Bookey, which document repeated killer-centered chapters across the novel.",
+    "Inspected the author/publisher page and Google Books preview. Their accessible text verified the work but did not state narrative person, and Google Books did not expose readable interior prose in the browser.",
+    "Searched broader Women\u2019s Murder Club narration discussions and found series-level descriptions of Lindsay\u2019s first-person chapters and third-person chapters for other characters, but retained the book-specific StoryGraph review as the decisive web support."
+  ],
+  "person_note": "Both supplied event quotations diagnostically establish Lindsay Boxer\u2019s participating first-person base narration. The explicit book-specific web description says Lindsay-focused sections are first person and other-character sections are third person; independent chapter summaries and a review show that the Watcher receives numerous autonomous chapters throughout the interior, so those passages are sustained base sections rather than embedded material. The result is therefore ALTERNATING. Confidence is medium because the first-person strand is directly evidenced and the overall alternation is explicitly described, but no accessible authorized interior excerpt independently displayed the third-person prose.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.239414+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "597c639aaac2d5650e10e0540bb5ffaa63e94448156d8ff649a1d0f496441d8e"
+  }
+}

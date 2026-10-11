@@ -1,0 +1,447 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:482",
+  "quotes": [
+    {
+      "quote_id": "q04661",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about human experience; inclusive pronouns do not make the narrator a story participant."
+    },
+    {
+      "quote_id": "q04662",
+      "person_signal": "non_base",
+      "note": "General social commentary, not story-specific narration."
+    },
+    {
+      "quote_id": "q04663",
+      "person_signal": "non_base",
+      "note": "Aphoristic direct address rather than base-narrator evidence."
+    },
+    {
+      "quote_id": "q04664",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a story character as she and reports her self-directed thought."
+    },
+    {
+      "quote_id": "q04665",
+      "person_signal": "non_base",
+      "note": "Inclusive first-person-plural reflection about adulthood, not participation in the plot."
+    },
+    {
+      "quote_id": "q04666",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive-we statement."
+    },
+    {
+      "quote_id": "q04667",
+      "person_signal": "non_base",
+      "note": "Generalized inclusive-we commentary."
+    },
+    {
+      "quote_id": "q04668",
+      "person_signal": "non_base",
+      "note": "Aphoristic speech or direct address."
+    },
+    {
+      "quote_id": "q04669",
+      "person_signal": "non_base",
+      "note": "Metanarrative gnomic commentary introduces the story but does not make the narrator a character."
+    },
+    {
+      "quote_id": "q04670",
+      "person_signal": "non_base",
+      "note": "Unmarked aphorism about people generally."
+    },
+    {
+      "quote_id": "q04671",
+      "person_signal": "non_base",
+      "note": "General social observation rather than story action."
+    },
+    {
+      "quote_id": "q04672",
+      "person_signal": "non_base",
+      "note": "Character dialogue."
+    },
+    {
+      "quote_id": "q04673",
+      "person_signal": "non_base",
+      "note": "The I, we, and you form a universal narrator-reader reflection, not story participation."
+    },
+    {
+      "quote_id": "q04674",
+      "person_signal": "non_base",
+      "note": "Character speech; the short she-said beat alone is not diagnostic."
+    },
+    {
+      "quote_id": "q04675",
+      "person_signal": "non_base",
+      "note": "Generalized parental reflection using rhetorical you and inclusive we."
+    },
+    {
+      "quote_id": "q04676",
+      "person_signal": "non_base",
+      "note": "Character speech reporting the speaker's father."
+    },
+    {
+      "quote_id": "q04677",
+      "person_signal": "unmarked",
+      "note": "Narratorial we is an inclusive human generalization; the clipped passage does not establish participation in the story."
+    },
+    {
+      "quote_id": "q04678",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive-we statement about parents."
+    },
+    {
+      "quote_id": "q04679",
+      "person_signal": "non_base",
+      "note": "General aphorism about parenthood."
+    },
+    {
+      "quote_id": "q04680",
+      "person_signal": "non_base",
+      "note": "Character dialogue addressed to Jules."
+    },
+    {
+      "quote_id": "q04681",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive-we statement."
+    },
+    {
+      "quote_id": "q04682",
+      "person_signal": "non_base",
+      "note": "Universal second-person observation."
+    },
+    {
+      "quote_id": "q04683",
+      "person_signal": "non_base",
+      "note": "Unmarked aphorism."
+    },
+    {
+      "quote_id": "q04684",
+      "person_signal": "non_base",
+      "note": "Authorial dedication, not the novel's narration."
+    },
+    {
+      "quote_id": "q04685",
+      "person_signal": "non_base",
+      "note": "Character dialogue; first-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q04686",
+      "person_signal": "non_base",
+      "note": "Inclusive human commentary rather than story participation."
+    },
+    {
+      "quote_id": "q04687",
+      "person_signal": "non_base",
+      "note": "Universal second-person observation about adulthood."
+    },
+    {
+      "quote_id": "q04688",
+      "person_signal": "non_base",
+      "note": "Character dialogue using we."
+    },
+    {
+      "quote_id": "q04689",
+      "person_signal": "non_base",
+      "note": "Character dialogue and generalized advice."
+    },
+    {
+      "quote_id": "q04690",
+      "person_signal": "non_base",
+      "note": "The first-person questions are a character's local direct thought; surrounding you is generalized."
+    },
+    {
+      "quote_id": "q04691",
+      "person_signal": "non_base",
+      "note": "Aphoristic second-person formulation."
+    },
+    {
+      "quote_id": "q04692",
+      "person_signal": "non_base",
+      "note": "Universal narrator-reader reflection, not a story-specific first-person account."
+    },
+    {
+      "quote_id": "q04693",
+      "person_signal": "unmarked",
+      "note": "A single third-person speech report does not establish the controlling narrator's person."
+    },
+    {
+      "quote_id": "q04694",
+      "person_signal": "non_base",
+      "note": "Generalized second-person reflection."
+    },
+    {
+      "quote_id": "q04695",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic you."
+    },
+    {
+      "quote_id": "q04696",
+      "person_signal": "non_base",
+      "note": "Universal second-person commentary about family love."
+    },
+    {
+      "quote_id": "q04697",
+      "person_signal": "unmarked",
+      "note": "A short she-thought report is compatible with third-person narration but is not locally sustained enough to be diagnostic."
+    },
+    {
+      "quote_id": "q04698",
+      "person_signal": "non_base",
+      "note": "Inclusive-us and generic-you aphorism."
+    },
+    {
+      "quote_id": "q04699",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive-we statement."
+    },
+    {
+      "quote_id": "q04700",
+      "person_signal": "non_base",
+      "note": "General social observation about generations."
+    },
+    {
+      "quote_id": "q04701",
+      "person_signal": "non_base",
+      "note": "Direct reader address and inclusive human commentary, not a story-specific you protagonist."
+    },
+    {
+      "quote_id": "q04702",
+      "person_signal": "non_base",
+      "note": "Character dialogue."
+    },
+    {
+      "quote_id": "q04703",
+      "person_signal": "non_base",
+      "note": "Dialogue between Zara and the psychologist; its pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q04704",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about people."
+    },
+    {
+      "quote_id": "q04705",
+      "person_signal": "non_base",
+      "note": "Inclusive-we moral reflection rather than plot participation."
+    },
+    {
+      "quote_id": "q04706",
+      "person_signal": "non_base",
+      "note": "Paratextual quotation or epigraph."
+    },
+    {
+      "quote_id": "q04707",
+      "person_signal": "non_base",
+      "note": "Character dialogue using first person."
+    },
+    {
+      "quote_id": "q04708",
+      "person_signal": "non_base",
+      "note": "General aphorism using generic you."
+    },
+    {
+      "quote_id": "q04709",
+      "person_signal": "third",
+      "note": "Extended external narration names Nadia, uses she, and enters her inner experience without a participating narrator."
+    },
+    {
+      "quote_id": "q04710",
+      "person_signal": "non_base",
+      "note": "Character dialogue addressed to Anna-Lena."
+    },
+    {
+      "quote_id": "q04711",
+      "person_signal": "non_base",
+      "note": "General aphorism."
+    },
+    {
+      "quote_id": "q04712",
+      "person_signal": "non_base",
+      "note": "Character dialogue; I and you belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q04713",
+      "person_signal": "non_base",
+      "note": "Universal second-person observation."
+    },
+    {
+      "quote_id": "q04714",
+      "person_signal": "non_base",
+      "note": "Character dialogue using first person."
+    },
+    {
+      "quote_id": "q04715",
+      "person_signal": "non_base",
+      "note": "The narrator addresses a hypothetical parent-reader; you is not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q04716",
+      "person_signal": "non_base",
+      "note": "Inclusive-we metaphor about humanity."
+    },
+    {
+      "quote_id": "q04717",
+      "person_signal": "non_base",
+      "note": "Character dialogue; first person belongs to the speaker."
+    },
+    {
+      "quote_id": "q04718",
+      "person_signal": "non_base",
+      "note": "Character dialogue and rhetorical reader address."
+    },
+    {
+      "quote_id": "q04719",
+      "person_signal": "unmarked",
+      "note": "The clipped single sentence has third-person subjects but too little local context to establish narrator person independently."
+    },
+    {
+      "quote_id": "q04720",
+      "person_signal": "non_base",
+      "note": "General observation about divorce."
+    },
+    {
+      "quote_id": "q04721",
+      "person_signal": "non_base",
+      "note": "Generic reader address, not second-person story narration."
+    },
+    {
+      "quote_id": "q04722",
+      "person_signal": "non_base",
+      "note": "Character dialogue; first and second person are local to the speaker."
+    },
+    {
+      "quote_id": "q04723",
+      "person_signal": "non_base",
+      "note": "General socioeconomic commentary rather than story narration."
+    },
+    {
+      "quote_id": "q04724",
+      "person_signal": "unmarked",
+      "note": "A clipped blend of inclusive commentary and a brief third-person group reference is not diagnostic."
+    },
+    {
+      "quote_id": "q04725",
+      "person_signal": "third",
+      "note": "Several sentences externally narrate a woman as she; the later I passage is her embedded reply."
+    },
+    {
+      "quote_id": "q04726",
+      "person_signal": "non_base",
+      "note": "Character dialogue and generalized commentary."
+    },
+    {
+      "quote_id": "q04727",
+      "person_signal": "non_base",
+      "note": "Character dialogue using we and your."
+    },
+    {
+      "quote_id": "q04728",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about parenthood."
+    },
+    {
+      "quote_id": "q04729",
+      "person_signal": "non_base",
+      "note": "Inclusive-we generalization about fathers and sons."
+    },
+    {
+      "quote_id": "q04730",
+      "person_signal": "non_base",
+      "note": "Inclusive human commentary rather than a narrator's role in the plot."
+    },
+    {
+      "quote_id": "q04731",
+      "person_signal": "non_base",
+      "note": "Generalized joke using you."
+    },
+    {
+      "quote_id": "q04732",
+      "person_signal": "non_base",
+      "note": "Character speech and generalized relationship commentary."
+    },
+    {
+      "quote_id": "q04733",
+      "person_signal": "non_base",
+      "note": "Advice using generic I and you, not story narration."
+    },
+    {
+      "quote_id": "q04734",
+      "person_signal": "non_base",
+      "note": "General observation containing imagined speech."
+    },
+    {
+      "quote_id": "q04735",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Nadia as she and them while embedding her private thought as a local quotation."
+    },
+    {
+      "quote_id": "q04736",
+      "person_signal": "non_base",
+      "note": "Generalized second-person aphorism."
+    },
+    {
+      "quote_id": "q04737",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person summary followed by a generic-you maxim; insufficient local context for a diagnostic signal."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/Anxious-People/Fredrik-Backman/9781501160851",
+      "title": "Anxious People eBook by Fredrik Backman | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter 1 excerpt shifts from inclusive social commentary into sustained external narration of the bank robber's actions; the narrator is not a story character."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-anxious-people/styles.html",
+      "title": "Fredrik Backman Writing Styles in Anxious People",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies a third-person omniscient narrator and explains that first-person plural is social commentary, second person addresses the audience, and some chapters are witness-interview transcripts."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/anxious-people",
+      "title": "Anxious People Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide's key facts explicitly identify the novel's point of view as third-person omniscient."
+    },
+    {
+      "url": "https://www.supersummary.com/anxious-people/summary/",
+      "title": "Anxious People Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Describes an opinionated omniscient narrator who reveals characters' histories and interrupts the plot with philosophical commentary."
+    }
+  ],
+  "search_log": [
+    "Searched \"Anxious People Fredrik Backman official excerpt publisher first chapter\" and opened the Simon & Schuster authorized Chapter 1 excerpt.",
+    "Searched \"Anxious People Fredrik Backman point of view third person narrator\" and opened the LitCharts, BookRags, SuperSummary, GradeSaver, and Savannah Gilbo descriptions.",
+    "Searched \"Anxious People Fredrik Backman Google Books excerpt\"; the Google Books result supplied catalog information but no additional sustained usable passage.",
+    "Searched \"Anxious People narrative perspective omniscient narrator review\" for structural corroboration.",
+    "Searched \"Anxious People Chapter 20 second person\", \"Anxious People second person chapters narrator\", \"Anxious People first person plural narrator\", and \"Anxious People alternating point of view narration\" to test for person alternation.",
+    "A Reddit remark called Chapter 20 second-person, but stronger opened sources explain such you passages as audience address or universal commentary, not narration casting a story protagonist as you.",
+    "The AARP excerpt result timed out when opened and was not used as evidence."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person omniscient narrator. Interior quote passages about Nadia and other women sustain external she-narration, while the authorized opening independently does the same for the bank robber. The many we passages are inclusive philosophical commentary, the you passages address readers or generalized humans, and first-person singular occurs in dialogue or embedded thought. Witness-interview transcript chapters are documentary interludes rather than a sustained first- or second-person base strand. The publisher excerpt is limited to the opening, but multiple whole-book POV descriptions resolve that scope limitation; no material person conflict remains.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.265902+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "61d3821da7f2c2d9006909d45ce30c244565b088cfc7509f454d9af5f303f297"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:5257",
+  "quotes": [
+    {
+      "quote_id": "q02010",
+      "person_signal": "non_base",
+      "note": "General aphorism with no story-specific narrator."
+    },
+    {
+      "quote_id": "q02011",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02012",
+      "person_signal": "third",
+      "note": "Third-person narration reports a female character's wish and uncertainty."
+    },
+    {
+      "quote_id": "q02013",
+      "person_signal": "third",
+      "note": "Sustained third-person narration presents her actions, perception, and interior decision."
+    },
+    {
+      "quote_id": "q02014",
+      "person_signal": "unmarked",
+      "note": "A standalone statement about Salander does not by itself establish the narrator's person."
+    },
+    {
+      "quote_id": "q02015",
+      "person_signal": "non_base",
+      "note": "Gnomic survival rules without a diagnostic narrating position."
+    },
+    {
+      "quote_id": "q02016",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q02017",
+      "person_signal": "unmarked",
+      "note": "Narratorial maxim with no person-marking character context."
+    },
+    {
+      "quote_id": "q02018",
+      "person_signal": "third",
+      "note": "Third-person narration reports his feeling and anticipates Salander's reaction."
+    },
+    {
+      "quote_id": "q02019",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02020",
+      "person_signal": "non_base",
+      "note": "Web context identifies this as Armansky's dialogue during a police interview."
+    },
+    {
+      "quote_id": "q02021",
+      "person_signal": "unmarked",
+      "note": "Narratorial commentary that contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q02022",
+      "person_signal": "non_base",
+      "note": "Mathematical definition presented as gnomic material."
+    },
+    {
+      "quote_id": "q02023",
+      "person_signal": "unmarked",
+      "note": "Clipped relationship summary uses third-person reference but does not independently expose the narrator."
+    },
+    {
+      "quote_id": "q02024",
+      "person_signal": "third",
+      "note": "Sustained third-person narration enters a female character's fear and immediate situation."
+    },
+    {
+      "quote_id": "q02025",
+      "person_signal": "non_base",
+      "note": "Salander's explicitly attributed first-person dialogue."
+    },
+    {
+      "quote_id": "q02026",
+      "person_signal": "non_base",
+      "note": "Web context shows this is Paolo Roberto speaking to Blomkvist; the upstream event bucket obscures quotation boundaries."
+    },
+    {
+      "quote_id": "q02027",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue."
+    },
+    {
+      "quote_id": "q02028",
+      "person_signal": "third",
+      "note": "Third-person narration reports Salander's discovery, mental strategy, and actions."
+    },
+    {
+      "quote_id": "q02029",
+      "person_signal": "third",
+      "note": "Third-person narration summarizes Salander's physical position and personal attitude."
+    },
+    {
+      "quote_id": "q02030",
+      "person_signal": "third",
+      "note": "Third-person narration presents Salander's action and counterfactual thought."
+    },
+    {
+      "quote_id": "q02031",
+      "person_signal": "third",
+      "note": "Third-person narration summarizes a male character's standing attitude and reasoning."
+    },
+    {
+      "quote_id": "q02032",
+      "person_signal": "third",
+      "note": "External scene narration describes Salander and a hypothetical observer without a participating narrator."
+    },
+    {
+      "quote_id": "q02033",
+      "person_signal": "third",
+      "note": "Third-person narration reports her mental image and bodily sensation."
+    },
+    {
+      "quote_id": "q02034",
+      "person_signal": "non_base",
+      "note": "Fermat's first-person marginal remark is quoted mathematical material, not the novel's narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.readinggroupguides.com/reviews/the-girl-who-played-with-fire/excerpt",
+      "title": "The Girl Who Played With Fire by Stieg Larsson | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A long excerpt reprinted with Vintage's permission sustains third-person narration around Salander, accesses her thoughts, and briefly shifts focalization to Ella Carmichael."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-girl-who-played-with-fire/study-guide/literary-elements",
+      "title": "The Girl Who Played With Fire Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened literary-elements page explicitly identifies the novel's narrator as third-person."
+    },
+    {
+      "url": "https://app.thestorygraph.com/book_reviews/9a6e3502-75a2-451b-ae8f-a074fce245cb",
+      "title": "Reviews - The Girl Who Played with Fire | The StoryGraph",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An opened reader review describes the book as third-person omniscient with frequent shifts among many characters; useful corroboration but not an editorial authority."
+    },
+    {
+      "url": "https://www.cs.hmc.edu/~jmalone/fire/The_Girl_who-ayed_with_Fire_split_29.html",
+      "title": "The Girl who Played with Fire",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An interior-text reproduction establishes that q02026 occurs inside Paolo Roberto's dialogue and therefore is not first-person base narration; the host is not an authorized source."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Girl Who Played with Fire\" Stieg Larsson with excerpt, first chapter, point of view, third person, narrator, and Google Books/Open Library terms.",
+    "Opened the ReadingGroupGuides excerpt and verified its permission notice plus sustained third-person opening narration.",
+    "Opened GradeSaver's literary-elements page and The StoryGraph reviews for whole-book point-of-view descriptions.",
+    "Checked publisher and library routes: Penguin Random House and Hachette advertised samples, but the prose was not exposed by their opened pages; the Orange County Library page returned 403, while another OverDrive catalog exposed only metadata and a sample link.",
+    "Ran targeted searches for the isolated first-person quotations; results identified q02020 as Armansky's speech, q02026 as Paolo Roberto's speech, and q02034 as Fermat's marginal statement."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person, moving through the thoughts and experiences of Salander, Blomkvist, and other characters. Numerous Goodreads event passages independently show this position, and the authorized opening excerpt sustains it; whole-book descriptions corroborate third-person narration with multiple focal characters. The apparent first-person counterexamples are local material: q02020 and q02026 are dialogue, while q02034 quotes Fermat. No evidence indicates sustained first- or second-person base sections; the main limitation is that the strongest authorized web excerpt covers the opening rather than the entire novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_048",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T19:51:25.873070+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9c0f1b6ae91da4620d61fec8a01522801839e1cc0bedddd78087c099894933ff"
+  }
+}

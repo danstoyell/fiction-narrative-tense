@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:275",
+  "quotes": [
+    {
+      "quote_id": "q00474",
+      "person_signal": "non_base",
+      "note": "Direct speech; the generic \u201cyou\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00475",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; its first- and second-person pronouns are local speech."
+    },
+    {
+      "quote_id": "q00476",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial generalization, but it contains no participating narrator and insufficient context to establish third person."
+    },
+    {
+      "quote_id": "q00477",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, the latter sentences are base narration rendering Anders\u2019s past thoughts and present realization as \u201che\u201d; the publisher-sourced guide confirms this attribution."
+    },
+    {
+      "quote_id": "q00478",
+      "person_signal": "unmarked",
+      "note": "A brief third-person characterization, but the isolated \u201cher\u201d does not by itself exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00479",
+      "person_signal": "non_base",
+      "note": "Reported advice attributed to a character; its content does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00480",
+      "person_signal": "unmarked",
+      "note": "Narratorial or free-indirect generalization with no diagnostic person marking."
+    },
+    {
+      "quote_id": "q00481",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00482",
+      "person_signal": "non_base",
+      "note": "Direct advice in character speech; \u201cyou\u201d is not the narrated protagonist."
+    },
+    {
+      "quote_id": "q00483",
+      "person_signal": "non_base",
+      "note": "Character speech containing \u201cI\u201d and \u201cwe,\u201d not participating base narration."
+    },
+    {
+      "quote_id": "q00484",
+      "person_signal": "non_base",
+      "note": "Direct speech; pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00485",
+      "person_signal": "non_base",
+      "note": "A question in character speech using hypothetical \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00486",
+      "person_signal": "non_base",
+      "note": "Dialogue; first- and second-person pronouns are confined to the speakers."
+    },
+    {
+      "quote_id": "q00487",
+      "person_signal": "unmarked",
+      "note": "The sentence presents a woman\u2019s inward hope in third-person wording, but alone is too short to establish the narrator\u2019s participation status."
+    },
+    {
+      "quote_id": "q00488",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both ends, leaving its local narratorial structure unresolved."
+    },
+    {
+      "quote_id": "q00489",
+      "person_signal": "unclear",
+      "note": "An incomplete sentence fragment cannot reliably identify narration person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.readinggroupguides.com/reviews/a-week-in-winter-0/excerpt",
+      "title": "A Week in Winter by Maeve Binchy | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained excerpt authorized by Knopf narrates Chicky and other characters externally as she/he/they while moving through their knowledge, feelings, and actions; no participating narrator frames the passage."
+    },
+    {
+      "url": "https://edith-lagraziana.blogspot.com/2014/12/week-in-winter-by-maeve-binchy.html",
+      "title": "Book Review: A Week in Winter by Maeve Binchy",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reviewer explicitly describes an all-knowing third-person narrator and explains that the ten chapters rotate among temporary protagonists, establishing changing focal characters rather than changing grammatical person."
+    },
+    {
+      "url": "https://www2.halifaxpubliclibraries.ca/collections/bookclub-kits/A-Week-in-Winter-by-Maeve-Binchy.pdf",
+      "title": "A Week in Winter by Maeve Binchy \u2014 Halifax Public Libraries Book Club Kit",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This library-hosted, Penguin Random House-sourced guide attributes the q00477 maxim to Anders telling himself on page 224 and discusses his story among the novel\u2019s other character stories, confirming that the surrounding \u201che\u201d passage is interior third-person narration."
+    },
+    {
+      "url": "https://www.supersummary.com/a-week-in-winter/chapters-6-7-summary/",
+      "title": "A Week in Winter Chapters 6-7 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The chapter analysis identifies a narrator and quotes third-person narrative statements about Helen, Henry and Nicola, and Anders across two interior chapters, corroborating continued third-person narration beyond the opening."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cA Week in Winter\u201d \u201cMaeve Binchy\u201d with excerpt and first-chapter terms; opened the ReadingGroupGuides excerpt and verified its Knopf permission statement.",
+    "Searched the title with point-of-view, narrator, and third-person terms; opened the explicit whole-book narrator description in Edith\u2019s Miscellany.",
+    "Searched exact text from q00477 and q00487; the former led to the Halifax Public Libraries publisher-sourced reading guide, while the latter produced only Goodreads quote listings.",
+    "Opened SuperSummary analyses for Chapters 4-5 and 6-7 plus its character analysis; these documented rotating focal characters and third-person interior passages.",
+    "Opened Google Books, which supplied bibliographic details and the chapter list but no usable prose preview; the Penguin Random House retail result failed to open and added no independent person evidence."
+  ],
+  "person_note": "The book\u2019s base voice is an omniscient third-person narrator that shifts focal attention among Chicky, Anders, Winnie, and the other chapter protagonists. These viewpoint shifts remain third person and therefore do not constitute ALTERNATING narration. The many quoted instances of \u201cI\u201d and \u201cyou\u201d are character speech, while q00477 contains diagnostic third-person base narration despite its upstream dialogue bucket. The authorized opening, an interior publisher-sourced attribution, the input passage, and an explicit whole-book structural description agree. The main coverage limitation is that the Tier A excerpt is confined to the opening, but the independent interior and whole-book evidence resolves that limitation without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.251487+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "122f484cabc2a8ea7ba3781e1b6346e233605e93a13cd3921b1746ba42e63ff9"
+  }
+}

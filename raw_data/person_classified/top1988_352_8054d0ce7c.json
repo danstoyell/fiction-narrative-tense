@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1988:352",
+  "quotes": [
+    {
+      "quote_id": "q01033",
+      "person_signal": "unmarked",
+      "note": "Expository base narration about Los Angeles and Alaska contains no participating narrator or sustained protagonist-as-you."
+    },
+    {
+      "quote_id": "q01034",
+      "person_signal": "unmarked",
+      "note": "Narratorial historical evaluation contains no person-diagnostic reference."
+    },
+    {
+      "quote_id": "q01035",
+      "person_signal": "unmarked",
+      "note": "Historical exposition about animal migration does not identify the narrator's participation."
+    },
+    {
+      "quote_id": "q01036",
+      "person_signal": "unmarked",
+      "note": "A single externally described character and his learning do not by themselves establish the controlling narrator's person."
+    },
+    {
+      "quote_id": "q01037",
+      "person_signal": "unmarked",
+      "note": "The inclusive we refers universally to humanity, not to a narrator participating in the story."
+    },
+    {
+      "quote_id": "q01038",
+      "person_signal": "unmarked",
+      "note": "Historical explanation of Alaska's name contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01039",
+      "person_signal": "unclear",
+      "note": "The clipped non-finite fragment lacks enough structure to identify narrative person."
+    },
+    {
+      "quote_id": "q01040",
+      "person_signal": "unmarked",
+      "note": "Geographical description contains no person-diagnostic narration."
+    },
+    {
+      "quote_id": "q01041",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur entirely within character speech."
+    },
+    {
+      "quote_id": "q01042",
+      "person_signal": "unclear",
+      "note": "The sentence is clipped before its narrative structure becomes diagnostic."
+    },
+    {
+      "quote_id": "q01043",
+      "person_signal": "unclear",
+      "note": "The non-finite fragment is too incomplete to identify narrative person."
+    },
+    {
+      "quote_id": "q01044",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms belong to direct advice spoken by a character."
+    },
+    {
+      "quote_id": "q01045",
+      "person_signal": "non_base",
+      "note": "The first-person prediction is dialogue; the brief third-person speech attribution is insufficient to establish base person."
+    },
+    {
+      "quote_id": "q01046",
+      "person_signal": "non_base",
+      "note": "The passage is an exchange of direct speech, so its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01047",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection about the world contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01048",
+      "person_signal": "third",
+      "note": "After a local quotation, the sustained passage externally narrates the Bear, Greely, the government, and Healy across time without a participating narrator."
+    },
+    {
+      "quote_id": "q01049",
+      "person_signal": "unmarked",
+      "note": "The clipped historical summary contains no person-diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01050",
+      "person_signal": "non_base",
+      "note": "The first-person implications occur in quoted speech; the short speech beat does not establish base person."
+    },
+    {
+      "quote_id": "q01051",
+      "person_signal": "non_base",
+      "note": "The questions and second-person address are Cidaq's local speech or thought, not controlling narration."
+    },
+    {
+      "quote_id": "q01052",
+      "person_signal": "first",
+      "note": "This isolated writing-moment reflection directly exposes the authorial narrator as I outside marked character speech."
+    },
+    {
+      "quote_id": "q01053",
+      "person_signal": "unmarked",
+      "note": "The historical scene describes sailors externally but does not independently reveal whether a participating narrator frames it."
+    },
+    {
+      "quote_id": "q01054",
+      "person_signal": "unmarked",
+      "note": "Named-character action and motivation in one sentence are compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q01055",
+      "person_signal": "unmarked",
+      "note": "The clipped base narration includes embedded sailor speech but no diagnostic reference to the narrator."
+    },
+    {
+      "quote_id": "q01056",
+      "person_signal": "unmarked",
+      "note": "External description of Zhdanko and his shame is suggestive but lacks enough local context to prove narrator nonparticipation."
+    },
+    {
+      "quote_id": "q01057",
+      "person_signal": "unmarked",
+      "note": "The summary names Zhdanko in third person but does not alone establish the controlling narrator's person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://dokumen.pub/james-a-michener-a-critical-companion-1996-0313295387.html",
+      "title": "James A. Michener: A Critical Companion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly structural analysis states that Alaska dispenses with a framework story and presents its characters and episodes through an anonymous omniscient narrator."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.ca/books/114041/alaska-by-james-a-michener/9780375761423/excerpt",
+      "title": "Excerpt from Alaska",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained opening externally narrates Alaska's geological formation and future development without a participating character-narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-alaska2/style.html",
+      "title": "James A. Michener Writing Styles in Alaska",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly identifies the novel as third person and says it avoids using a character as narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"James A. Michener Alaska novel excerpt first chapter\" and opened the Penguin Random House authorized excerpt.",
+    "Searched \"Alaska James Michener point of view narrator third person\" and opened the BookRags whole-book point-of-view discussion.",
+    "Searched for \"James A. Michener Alaska novel epistolary diary frame narrative\" and \"multiple narrators alternating point of view\"; no credible source indicated sustained first-person or second-person sections.",
+    "Searched for scholarly chapter-structure analysis and opened James A. Michener: A Critical Companion, which identifies an anonymous omniscient narrator and explicitly says the novel has no framework story.",
+    "Searched the exact q01052 wording and variants; results reproduced the Goodreads quotation but did not supply its surrounding page context.",
+    "Checked Google Books and Open Library records and previews; they verified the work and chapter structure but did not provide additional diagnostic interior prose."
+  ],
+  "person_note": "The controlling narration is anonymous and omniscient third person across the novel's historical episodes. The long q01048 passage independently demonstrates sustained external narration, while the publisher's opening and a scholarly whole-book structural analysis agree. q01052 is a genuine but isolated first-person authorial writing-moment intrusion; because the structural source explicitly identifies an anonymous omniscient base narrator and no framework or sustained first-person section, that aside does not make the novel alternating. Universal we in q01037 and first- or second-person character speech are nondiagnostic. The main residual uncertainty is the exact local placement of q01052, but no researched source describes an alternate first-person narrative strand.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_025",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:26:19.337337+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "309e729ac987248fd532da922f863868ca616df867c722590cc42f89ceca83e7"
+  }
+}

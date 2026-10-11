@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1949:5756",
+  "quotes": [
+    {
+      "quote_id": "q00025",
+      "person_signal": "non_base",
+      "note": "Gnomic saying; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "third",
+      "note": "Sustained third-person rendering of Frankie's fall and awareness exposes nonparticipating narration."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns are not narratorial."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "First-person dialogue with only a brief third-person speech tag, insufficient to identify base narration."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "unmarked",
+      "note": "Narratorial continuation of Frankie's intoxicated fantasy, but this isolated sentence contains no person-diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "Character speech about drugs, not base narration."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "unmarked",
+      "note": "Extended narratorial description of the query room, but no participating or nonparticipating narrator is grammatically exposed in the quotation."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the third-person speech beats alone do not establish narrator participation."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "unmarked",
+      "note": "Scene-setting description without a person-diagnostic narrating position."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "non_base",
+      "note": "General aphorism, not story-specific evidence of narrator person."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "Generalized social commentary using an abstract representative 'he'; it does not independently establish the narrator's participation."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Paratext quoting Nelson Algren, not the novel's base narration."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "non_base",
+      "note": "Paratextual Fitzgerald epigraph, not base narration."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "third",
+      "note": "Third-person action and access to Frankie's perception expose nonparticipating limited narration."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic address, not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "non_base",
+      "note": "Character dialogue with a brief named-character speech beat; it does not independently establish base person."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "third",
+      "note": "Sustained third-person narration of Frankie's perception and recognition identifies a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "non_base",
+      "note": "First-person pronoun occurs inside Frankie's speech."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "Extended first-person character speech addressed to the captain, not narration."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "unmarked",
+      "note": "Atmospheric scene-setting narration contains no person-diagnostic reference to the narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ssml.org/wp-content/uploads/2016/03/Midamerica_XVIII_1991.pdf",
+      "title": "Algren's Outcasts",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly analysis treats the narrator as distinct from Frankie, Bednar, Sophie, and the other characters and examines third-person narration and focalization across the novel, including late interior passages."
+    },
+    {
+      "url": "https://newrepublic.com/article/85462/tnr-film-classic-the-man-golden-arm-1956",
+      "title": "TNR Film Classic: The Man With the Golden Arm",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review reproduces the third-person opening about Captain Bednar and explicitly characterizes the novel's narrating presence as an unseen narrator."
+    },
+    {
+      "url": "https://americareads.blogspot.com/2006/10/pg-69-man-with-golden-arm.html",
+      "title": "Pg. 69: The Man With the Golden Arm",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An interior scene narrates Frankie, Sophie, a sergeant, and bystanders externally in third person, corroborating the Goodreads passages beyond the opening."
+    },
+    {
+      "url": "https://doczz.net/doc/6776363/the-man-with-the-golden-arm",
+      "title": "The Man with the Golden Arm",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A sustained transcription shows continuous third-person base narration through Parts One and Two while focalization moves among Bednar, Frankie, Sophie, Sparrow, and others. First person is confined to speech and closing documentary or poetic material."
+    },
+    {
+      "url": "https://academiaurso.wordpress.com/wp-content/uploads/2016/09/gotham-writers-workshop-writing-fiction.pdf",
+      "title": "Writing Fiction: The Practical Guide from New York's Acclaimed Creative Writing School",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The craft guide explicitly identifies a narrator telling readers about Frankie and Sparrow, then reproduces the opening's third-person character description."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Man with the Golden Arm\" Nelson Algren excerpt, first chapter, and read an extract; opened the New Republic opening, the page-69 interior excerpt, publisher pages, and a sustained transcription.",
+    "Searched the verified title with point of view, narrator, third person, third-person, and omniscient; found the MidAmerica scholarly analysis and the Writing Fiction craft discussion.",
+    "Searched the title with epistolary, diary, letters, frame narrative, multiple narrators, and alternating point of view; found no credible evidence of sustained first- or second-person base sections.",
+    "Checked Seven Stories Press and Google Books publisher records; they verified the work and edition but supplied synopsis or introductory material rather than diagnostic novel narration.",
+    "Checked Open Library and Internet Archive discovery records; borrowing metadata verified the 1949 Doubleday edition, but accessible search results did not expose a usable sustained excerpt.",
+    "Inspected the transcription at the opening, the Part Two boundary, multiple interior locations, and the ending; the base narration remains third person, while the final coroner transcript and first-plural epitaph are local codas rather than alternate base narration."
+  ],
+  "person_note": "The controlling narrator is a nonparticipating third-person voice that shifts focalization among Frankie, Captain Bednar, Sophie, Sparrow, and other characters. Diagnostic Goodreads passages q00026, q00038, and q00041 independently agree with the scholarly whole-book discussion and web passages from the opening, page 69, both parts, and the ending. First-person forms in the quote set are dialogue or paratext. The closing witness transcript and first-plural epitaph are documentary and poetic codas, not sustained first-person base sections. No credible evidence of alternating narration was found; the only minor limitation is the absence of an explicit whole-book POV statement from the publisher itself.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_007",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:35:09.685231+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1d7bdd147efde9171b143a3f328a7c612760b5577726b9aef896e0dbd6acd4f8"
+  }
+}

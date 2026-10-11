@@ -1,0 +1,449 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:1132",
+  "quotes": [
+    {
+      "quote_id": "q00795",
+      "person_signal": "non_base",
+      "note": "Quoted dialogue; the brief speech tag does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00796",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect narration about Teresa, but the short named-character sentence alone does not establish base person."
+    },
+    {
+      "quote_id": "q00797",
+      "person_signal": "non_base",
+      "note": "First-person conversational statement assigned to dialogue, not the base narrator."
+    },
+    {
+      "quote_id": "q00798",
+      "person_signal": "non_base",
+      "note": "Universal rhetorical question in a gnomic quote, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00799",
+      "person_signal": "third",
+      "note": "Sustained narration externally identifies a mother and son as she and he while reporting her feeling."
+    },
+    {
+      "quote_id": "q00800",
+      "person_signal": "non_base",
+      "note": "The visible I belongs to Franny's explicitly tagged thought; it is not a participating narrator."
+    },
+    {
+      "quote_id": "q00801",
+      "person_signal": "non_base",
+      "note": "Fix's quoted speech is local dialogue."
+    },
+    {
+      "quote_id": "q00802",
+      "person_signal": "non_base",
+      "note": "Aphoristic joke rather than base narration."
+    },
+    {
+      "quote_id": "q00803",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization without a participating narrator or sufficiently developed third-person scene."
+    },
+    {
+      "quote_id": "q00804",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; the named speech beats alone do not establish base person."
+    },
+    {
+      "quote_id": "q00805",
+      "person_signal": "unmarked",
+      "note": "Brief free-indirect statement about he is compatible with third-person narration but is not diagnostic alone."
+    },
+    {
+      "quote_id": "q00806",
+      "person_signal": "unmarked",
+      "note": "Single sentence about a named character's mother does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q00807",
+      "person_signal": "non_base",
+      "note": "Franny's first-person possessives occur in quoted speech."
+    },
+    {
+      "quote_id": "q00808",
+      "person_signal": "unmarked",
+      "note": "Short narratorial fragment has no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00809",
+      "person_signal": "unmarked",
+      "note": "Truncated third-person reflection does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00810",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to a quoted exchange."
+    },
+    {
+      "quote_id": "q00811",
+      "person_signal": "unmarked",
+      "note": "Brief she/he sentence does not by itself distinguish third-person base narration from a larger frame."
+    },
+    {
+      "quote_id": "q00812",
+      "person_signal": "third",
+      "note": "Extended external narration uses she, he, and her while rendering a character's evaluative thought."
+    },
+    {
+      "quote_id": "q00813",
+      "person_signal": "non_base",
+      "note": "The I statement is conversational speech, not base narration."
+    },
+    {
+      "quote_id": "q00814",
+      "person_signal": "non_base",
+      "note": "Conversational advice uses generic/addressee you rather than sustained protagonist-address narration."
+    },
+    {
+      "quote_id": "q00815",
+      "person_signal": "unmarked",
+      "note": "A single sentence using they and her is insufficient to establish base person."
+    },
+    {
+      "quote_id": "q00816",
+      "person_signal": "non_base",
+      "note": "Long first-person account is character speech."
+    },
+    {
+      "quote_id": "q00817",
+      "person_signal": "third",
+      "note": "Narration names Teresa externally and reports what she silently wondered."
+    },
+    {
+      "quote_id": "q00818",
+      "person_signal": "non_base",
+      "note": "Isolated line of dialogue."
+    },
+    {
+      "quote_id": "q00819",
+      "person_signal": "unmarked",
+      "note": "Single sentence about Franny's perception is compatible with third-person narration but not diagnostic alone."
+    },
+    {
+      "quote_id": "q00820",
+      "person_signal": "unclear",
+      "note": "The excerpt breaks off after a possessive, leaving its local structure incomplete."
+    },
+    {
+      "quote_id": "q00821",
+      "person_signal": "third",
+      "note": "Sustained scene and remembered thought identify Franny and the children externally without a participating narrator."
+    },
+    {
+      "quote_id": "q00822",
+      "person_signal": "unmarked",
+      "note": "Single summary sentence about Franny and Leo does not independently prove narrator person."
+    },
+    {
+      "quote_id": "q00823",
+      "person_signal": "non_base",
+      "note": "Clipped present-tense gnomic generalization."
+    },
+    {
+      "quote_id": "q00824",
+      "person_signal": "unclear",
+      "note": "The excerpt ends abruptly at a new name, so its local boundaries are unresolved."
+    },
+    {
+      "quote_id": "q00825",
+      "person_signal": "unmarked",
+      "note": "Two brief third-person sentences lack enough context to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q00826",
+      "person_signal": "third",
+      "note": "Sustained narration follows Franny externally while entering her memories and private understanding."
+    },
+    {
+      "quote_id": "q00827",
+      "person_signal": "non_base",
+      "note": "Gnomic moral statement; its generic subject does not establish narrator person."
+    },
+    {
+      "quote_id": "q00828",
+      "person_signal": "unmarked",
+      "note": "Single named-character event sentence is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00829",
+      "person_signal": "unmarked",
+      "note": "Brief he/father judgment does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00830",
+      "person_signal": "unmarked",
+      "note": "Single she sentence is insufficient person evidence."
+    },
+    {
+      "quote_id": "q00831",
+      "person_signal": "non_base",
+      "note": "Instructional you and I occur in direct address within dialogue."
+    },
+    {
+      "quote_id": "q00832",
+      "person_signal": "third",
+      "note": "Extended narration reports Bert's habitual claims and then corrects them from a nonparticipating position."
+    },
+    {
+      "quote_id": "q00833",
+      "person_signal": "unclear",
+      "note": "Mid-sentence fragment lacks enough local structure for responsible person attribution."
+    },
+    {
+      "quote_id": "q00834",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to a marked dialogue exchange."
+    },
+    {
+      "quote_id": "q00835",
+      "person_signal": "third",
+      "note": "Sustained panoramic scene narration externally describes Beverly and numerous party guests."
+    },
+    {
+      "quote_id": "q00836",
+      "person_signal": "non_base",
+      "note": "The I account is quoted speech; Fod\u00e9's brief action beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00837",
+      "person_signal": "non_base",
+      "note": "You and your occur in direct advice about the listener's mother."
+    },
+    {
+      "quote_id": "q00838",
+      "person_signal": "third",
+      "note": "Sustained narration names Teresa, reports her mental activity, and renders her remembered childhood externally."
+    },
+    {
+      "quote_id": "q00839",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows the boys and their perceptions of the fire."
+    },
+    {
+      "quote_id": "q00840",
+      "person_signal": "non_base",
+      "note": "Gnomic claim elsewhere attributed to Fix's speech."
+    },
+    {
+      "quote_id": "q00841",
+      "person_signal": "unmarked",
+      "note": "Single they sentence does not independently establish base person."
+    },
+    {
+      "quote_id": "q00842",
+      "person_signal": "unclear",
+      "note": "The passage begins in medias res and breaks at the opening of dialogue."
+    },
+    {
+      "quote_id": "q00843",
+      "person_signal": "third",
+      "note": "Extended scene externally narrates the women and baby, including the baby's apparent state."
+    },
+    {
+      "quote_id": "q00844",
+      "person_signal": "unmarked",
+      "note": "Single descriptive sentence about two sisters is not sufficient person evidence."
+    },
+    {
+      "quote_id": "q00845",
+      "person_signal": "unclear",
+      "note": "Free-indirect questions are clipped by an unfinished final word, obscuring the local boundary."
+    },
+    {
+      "quote_id": "q00846",
+      "person_signal": "unclear",
+      "note": "The excerpt breaks off after After and is too incomplete for person attribution."
+    },
+    {
+      "quote_id": "q00847",
+      "person_signal": "third",
+      "note": "Sustained retrospective summary narrates the six children's repeated summers externally."
+    },
+    {
+      "quote_id": "q00848",
+      "person_signal": "third",
+      "note": "The narrator makes an external collective claim about the six children and their shared attitude."
+    },
+    {
+      "quote_id": "q00849",
+      "person_signal": "non_base",
+      "note": "Gnomic statement is explicitly attributed to Fix in dialogue."
+    },
+    {
+      "quote_id": "q00850",
+      "person_signal": "third",
+      "note": "Sustained narration follows an externally identified she through sensation, imagination, and free-indirect questions."
+    },
+    {
+      "quote_id": "q00851",
+      "person_signal": "unmarked",
+      "note": "Brief he/her relationship statement is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00852",
+      "person_signal": "unmarked",
+      "note": "Two short he/them action sentences provide too little context to identify base person."
+    },
+    {
+      "quote_id": "q00853",
+      "person_signal": "third",
+      "note": "The narration distinguishes Teresa's former belief from an external corrective description of her husband."
+    },
+    {
+      "quote_id": "q00854",
+      "person_signal": "third",
+      "note": "Extended narration names Teresa and Bert and summarizes her changing private feelings across time."
+    },
+    {
+      "quote_id": "q00855",
+      "person_signal": "non_base",
+      "note": "Generic modal joke in the gnomic bucket."
+    },
+    {
+      "quote_id": "q00856",
+      "person_signal": "unmarked",
+      "note": "Single named-character sentence does not establish narrator person."
+    },
+    {
+      "quote_id": "q00857",
+      "person_signal": "unclear",
+      "note": "The quote begins mid-sentence and supplies no resolved antecedent for they."
+    },
+    {
+      "quote_id": "q00858",
+      "person_signal": "unclear",
+      "note": "Truncated clause with only a possessive pronoun cannot identify the narrator."
+    },
+    {
+      "quote_id": "q00859",
+      "person_signal": "unmarked",
+      "note": "Single they sentence is compatible with third person but insufficient alone."
+    },
+    {
+      "quote_id": "q00860",
+      "person_signal": "non_base",
+      "note": "Foreign-language translated material is paratextual leakage, not evidence for the English base narration."
+    },
+    {
+      "quote_id": "q00861",
+      "person_signal": "unclear",
+      "note": "Both ends are truncated, leaving the antecedent and narrative context unresolved."
+    },
+    {
+      "quote_id": "q00862",
+      "person_signal": "unclear",
+      "note": "Mid-sentence fragment provides too little context for person attribution."
+    },
+    {
+      "quote_id": "q00863",
+      "person_signal": "non_base",
+      "note": "Extended first-person recollection is character speech."
+    },
+    {
+      "quote_id": "q00864",
+      "person_signal": "non_base",
+      "note": "Foreign-language translated paratextual leakage rather than the English base narration."
+    },
+    {
+      "quote_id": "q00865",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally identifies Albie, Beverly, and the children and describes repeated actions."
+    },
+    {
+      "quote_id": "q00866",
+      "person_signal": "unclear",
+      "note": "Severely truncated fragment lacks a recoverable local narrative frame."
+    },
+    {
+      "quote_id": "q00867",
+      "person_signal": "third",
+      "note": "A complete third-person scene narrates Franny's room, action, and judgment before a brief spoken greeting."
+    },
+    {
+      "quote_id": "q00868",
+      "person_signal": "non_base",
+      "note": "First-person statement is dialogue; the short speech beat does not independently identify base person."
+    },
+    {
+      "quote_id": "q00869",
+      "person_signal": "unmarked",
+      "note": "Single she sentence with interior information is compatible with third person but not sufficient alone."
+    },
+    {
+      "quote_id": "q00870",
+      "person_signal": "unmarked",
+      "note": "Complete conditional reflection uses she/her but lacks enough context to identify the controlling narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/3458/commonwealth",
+      "title": "Excerpt from Commonwealth by Ann Patchett",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained excerpt reprinted courtesy of Harper narrates the Cousins children externally as they and individually as he or she while moving among their thoughts."
+    },
+    {
+      "url": "https://www.startribune.com/excerpt-from-ann-patchett-s-novel-commonwealth/397016311",
+      "title": "Excerpt from Ann Patchett's novel 'Commonwealth'",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Another Harper-authorized portion of the children's episode sustains external third-person scene narration around Caroline, Cal, Franny, and Albie."
+    },
+    {
+      "url": "https://www.barnesandnoble.com/blog/poured-over-double-shot-ann-patchett-and-jimin-han/",
+      "title": "Poured Over Double Shot: Ann Patchett and Jimin Han",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "In a craft interview, Patchett places Commonwealth in the period when she used omniscient third person, contrasting it with the first-person novels The Dutch House and Tom Lake that followed."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-commonwealth/styles.html",
+      "title": "Ann Patchett Writing Styles in Commonwealth",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly says an omniscient narrator remains constant throughout while focal attention rotates among Franny, Albie, Fix, and other family members."
+    },
+    {
+      "url": "https://www.irishtimes.com/culture/books/commonwealth-review-a-great-novel-about-small-moments-1.2789775",
+      "title": "Commonwealth review: a great novel about small moments",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review describes movement through multiple character perspectives under an unobtrusive authorial voice and illustrates it with third-person passages centered on Beverly and Albie."
+    }
+  ],
+  "search_log": [
+    "Searched \"Ann Patchett Commonwealth excerpt first chapter publisher\" and opened the Harper-authorized BookBrowse and Star Tribune excerpts.",
+    "Searched \"Commonwealth Ann Patchett point of view third person narrator\" and \"Commonwealth omniscient narrator Patchett\"; opened the BookRags whole-book point-of-view analysis.",
+    "Searched reviews for \"Commonwealth Ann Patchett review third-person narration multiple perspectives\" and opened the Irish Times, Los Angeles Times, Guardian, and TIME discussions; the Irish Times provided usable structural corroboration, while the others were mainly descriptive or used narrator terminology loosely.",
+    "Searched for author commentary on first versus third person and opened the Barnes & Noble Poured Over transcript, where Patchett contextualizes Commonwealth within her omniscient-third work before returning to first person.",
+    "Opened Google Books and Bloomsbury catalog/product material, but their synopsis language did not directly establish narrative person and was not used as evidence.",
+    "Targeted searches for scholarly or university analysis produced unrelated works or weaker commentary and yielded no stronger book-specific structural source."
+  ],
+  "person_note": "The Goodreads material repeatedly presents sustained external narration moving through Franny, Teresa, Beverly, Albie, the children, and other family members' thoughts. Its first-person examples are dialogue or explicitly tagged character thought, and its second-person examples are direct advice or generic address. Authorized interior excerpts independently reproduce the same third-person method, while Patchett's craft discussion and a whole-book POV analysis identify the broader omniscient-third structure. The novel shifts focal characters and time periods, not grammatical narrative person, so those shifts do not warrant ALTERNATING. The principal limitation is that the authorized excerpts cover interior portions rather than every chapter, but the whole-book structural sources and broad quote sample remove material uncertainty.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.257459+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f875e6f79d9569337cc5c2d7d029f16de3b6713a8b4dd714ab66dfa10712016a"
+  }
+}

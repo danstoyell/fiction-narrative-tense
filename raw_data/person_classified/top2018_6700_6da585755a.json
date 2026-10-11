@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:6700",
+  "quotes": [
+    {
+      "quote_id": "q03036",
+      "person_signal": "non_base",
+      "note": "Direct character speech, including an embedded quotation; it does not expose base narration."
+    },
+    {
+      "quote_id": "q03037",
+      "person_signal": "first",
+      "note": "Participating narrator reflects on her own happiness and memory using \u201cI,\u201d \u201cme,\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q03038",
+      "person_signal": "non_base",
+      "note": "General explanation of gaze detection, with no story-specific narrator."
+    },
+    {
+      "quote_id": "q03039",
+      "person_signal": "non_base",
+      "note": "Attributed aphorism rather than base narrative."
+    },
+    {
+      "quote_id": "q03040",
+      "person_signal": "first",
+      "note": "Participating narrator describes her fear, anger, and marriage in first person."
+    },
+    {
+      "quote_id": "q03041",
+      "person_signal": "first",
+      "note": "Participating narrator observes the other woman and describes her own actions using \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q03042",
+      "person_signal": "first",
+      "note": "Participating narrator explicitly recounts \u201cmy marriage\u201d and \u201cmy truth.\u201d"
+    },
+    {
+      "quote_id": "q03043",
+      "person_signal": "non_base",
+      "note": "General imperative advice; \u201cyou\u201d is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03044",
+      "person_signal": "first",
+      "note": "Participating narrator identifies the woman as \u201cmy aunt\u201d and refers to what \u201cI have ever seen.\u201d"
+    },
+    {
+      "quote_id": "q03045",
+      "person_signal": "first",
+      "note": "Participating narrator recounts her own feelings and conduct during her marriage."
+    },
+    {
+      "quote_id": "q03046",
+      "person_signal": "non_base",
+      "note": "General definition of a cognitive phenomenon; generic \u201cyou\u201d is nondiagnostic."
+    },
+    {
+      "quote_id": "q03047",
+      "person_signal": "first",
+      "note": "First-person retrospective narration presents the narrator\u2019s pain, thoughts, and prior actions."
+    },
+    {
+      "quote_id": "q03048",
+      "person_signal": "non_base",
+      "note": "Timeless aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q03049",
+      "person_signal": "non_base",
+      "note": "Direct character speech without an external narration beat."
+    },
+    {
+      "quote_id": "q03050",
+      "person_signal": "first",
+      "note": "Participating narrator reports immediate actions and acquired knowledge using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03051",
+      "person_signal": "first",
+      "note": "Participating narrator reflects on her husband\u2019s treatment of her and her present understanding."
+    },
+    {
+      "quote_id": "q03052",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks enough context to distinguish speech, thought, or narration."
+    },
+    {
+      "quote_id": "q03053",
+      "person_signal": "first",
+      "note": "Participating narrator describes her surroundings and interior state with first-person possessives."
+    },
+    {
+      "quote_id": "q03054",
+      "person_signal": "first",
+      "note": "The narrator compares herself with her mother using \u201cI\u201d; the closing generic \u201cyou\u201d does not change the signal."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250897886/thewifebetweenus/",
+      "title": "The Wife Between Us | Macmillan Publishers",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized publisher excerpt presents Chapter One as sustained third-person narration centered on Nellie."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-wife-between-us/styles.html",
+      "title": "Greer Hendricks and Sarah Pekkanen Writing Styles in The Wife Between Us",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural point-of-view analysis states that the novel is mostly Vanessa\u2019s first-person narration, while Part One switches between Vanessa in first person and Nellie in third person."
+    },
+    {
+      "url": "https://www.supersummary.com/the-wife-between-us/summary/",
+      "title": "The Wife Between Us Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The three-part structural summary says Part One alternates Vanessa\u2019s first-person narration with Nellie\u2019s third-person account and identifies later sections as Vanessa\u2019s narrative."
+    },
+    {
+      "url": "https://tashamelina.wordpress.com/2018/01/14/the-wife-between-us-greer-hendricks-sarah-pekkanen/2/",
+      "title": "The Wife Between Us, Greer Hendricks & Sarah Pekkanen",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The detailed review says Part One alternates third-person Nellie chapters with first-person Vanessa chapters, then explains that later chapters continue from Vanessa\u2019s viewpoint."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Wife Between Us Greer Hendricks Sarah Pekkanen excerpt first chapter publisher\u201d and opened the Macmillan authorized excerpt.",
+    "Searched \u201cThe Wife Between Us point of view first person third person alternating narration\u201d and opened explicit structural discussions from BookRags and SuperSummary.",
+    "Searched \u201cThe Wife Between Us review alternating perspectives Vanessa Nellie first person third person\u201d and opened a detailed corroborating review.",
+    "Searched the authors\u2019 site for an excerpt; the useful authorized prose was instead found on the publisher\u2019s Macmillan page."
+  ],
+  "person_note": "The quotes repeatedly expose Vanessa\u2019s participating first-person base narration, while the authorized Chapter One excerpt independently shows sustained third-person narration of Nellie. Multiple commercial whole-book structural sources describe the deliberate design: Part One alternates Vanessa\u2019s first-person chapters with Nellie\u2019s third-person chapters, even though the later twist reveals that they are the same woman at different times; subsequent narration is predominantly first person. Because both persons govern sustained sections rather than appearing only in speech or embedded material, the correct label is ALTERNATING. Confidence is medium because the whole-book structural sources are Tier C and the authorized excerpt covers only the opening.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_065",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T21:46:34.018771+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ff4e6d82c54da84002479d0d3dc217b7a0031b5b0ab0a7b4e084b89ba2b48b5a"
+  }
+}

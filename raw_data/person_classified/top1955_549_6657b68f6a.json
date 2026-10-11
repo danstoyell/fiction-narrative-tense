@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1955:549",
+  "quotes": [
+    {
+      "quote_id": "q00890",
+      "person_signal": "non_base",
+      "note": "Paratext attributing a maxim to Auntie Mame; it does not expose the controlling narrator."
+    },
+    {
+      "quote_id": "q00891",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without story-specific narration."
+    },
+    {
+      "quote_id": "q00892",
+      "person_signal": "non_base",
+      "note": "A character's first-person speech; the pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00893",
+      "person_signal": "unmarked",
+      "note": "Possible base narration describing a venue, but it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00894",
+      "person_signal": "non_base",
+      "note": "Auntie Mame's first-person dialogue; the external speech tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00895",
+      "person_signal": "first",
+      "note": "Outside the quoted dialogue, the participating narrator says that I immediately wrote down six words, directly exposing first-person base narration."
+    },
+    {
+      "quote_id": "q00896",
+      "person_signal": "unmarked",
+      "note": "Extended base description of Mother Burnside as she, but a first-person narrator can describe another character this way; no narrator reference appears locally."
+    },
+    {
+      "quote_id": "q00897",
+      "person_signal": "non_base",
+      "note": "Paratextual commentary about Mame rather than the novel's base narration."
+    },
+    {
+      "quote_id": "q00898",
+      "person_signal": "non_base",
+      "note": "Gnomic Italian statement without story-specific narration."
+    },
+    {
+      "quote_id": "q00899",
+      "person_signal": "non_base",
+      "note": "Clipped character dialogue whose pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00900",
+      "person_signal": "unmarked",
+      "note": "Possible base narration about Auntie Mame, but the third-person subject alone does not establish narrator person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cincinnatistate.ecampus.com/auntie-mame-irreverent-escapade-reprint/bk/9780767908191",
+      "title": "Auntie Mame An Irreverent Escapade",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The licensed Chapter One excerpt supplied with the Crown edition opens with the participating narrator discussing his own day as I and my, then recounts his childhood as I; it establishes first-person narration in the opening and ensuing flashback."
+    },
+    {
+      "url": "https://iris.unitn.it/retrieve/a530deb9-632f-434b-b4ec-7e9a6f883bc4/12-12-17_XXI_AISNA_144dpi_75%25.pdf",
+      "title": "Laughing the Cold War Away with Auntie Mame",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Alessandro Clericuzio's scholarly structural analysis states that the story is told from Patrick's point of view and identifies Patrick as the narrator; its quotations from the novel repeatedly show his participating I, we, and my narration."
+    },
+    {
+      "url": "https://www.goodspeed.org/uploads/Shows/Past%20Shows/MAME/MAME%20TIG.pdf",
+      "title": "MAME Teacher's Instructional Guide: From Page to Stage",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The educational guide reproduces original-book pages 16\u201317, where Patrick narrates Mame's actions toward me and concludes that I knew I was safe, corroborating first-person narration early in the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \"Auntie Mame\" Patrick Dennis excerpt first chapter narrator; opened the eCampus licensed Chapter One excerpt and Google Books record.",
+    "Searched \"Auntie Mame\" \"first-person\" narrator Patrick Dennis and \"Auntie Mame\" \"Patrick's point of view\" novel; opened the University of Trento scholarly paper identifying Patrick's narrating viewpoint.",
+    "Searched \"Auntie Mame\" Patrick Dennis \"I was\" excerpt; opened the Goodspeed guide reproducing original-book prose from pages 16\u201317.",
+    "Searched \"Auntie Mame\" alternating narration frame narrative; results about a frame chiefly concerned the sequel Around the World with Auntie Mame, and no credible source indicated person-alternating sections in the 1955 novel.",
+    "Checked Google Books and review results for whole-book structure; they identify Patrick as the fictional or adult retrospective narrator but add weaker corroboration than the authorized excerpt and scholarly analysis."
+  ],
+  "person_note": "The controlling narrator is Patrick, who participates in the events and retrospectively recounts his life with Auntie Mame in the first person. Quote q00895 independently exposes this base voice through the narratorial clause I immediately wrote down, while the authorized opening excerpt and Tier B scholarly analysis agree. Third-person descriptions of Mame, Mother Burnside, and other subjects are descriptions made by Patrick, not evidence of a separate third-person narrator; first-person dialogue spoken by Mame is local speech. No credible research found sustained narration in another person. The principal coverage limitation is that the Tier A prose is from the opening, but the whole-book scholarly account resolves that limitation and supports high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_009",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:27:42.152859+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cbffcc4fade23694b6d1b536ce3ce073bc8d20ea81444da24e7f3d3cc4cd6043"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:5597",
+  "quotes": [
+    {
+      "quote_id": "q01059",
+      "person_signal": "third",
+      "note": "Sustained external scene narration tracks the prisoners and Mars in third person; the first-person sentence is local free-indirect thought."
+    },
+    {
+      "quote_id": "q01060",
+      "person_signal": "third",
+      "note": "Sustained third-person narration follows Decker's waking, movements, perceptions, and physical state."
+    },
+    {
+      "quote_id": "q01061",
+      "person_signal": "third",
+      "note": "Third-person narration describes Mars and reports his private association of the uniform marking with a snake's rattle."
+    },
+    {
+      "quote_id": "q01062",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; the brief third-person speech beats do not independently establish narrative person."
+    },
+    {
+      "quote_id": "q01063",
+      "person_signal": "unmarked",
+      "note": "The excerpt uses an unanchored 'him/he' while describing memory and emotion; without its antecedent or broader frame, it does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q01064",
+      "person_signal": "unmarked",
+      "note": "A single action by an unnamed he is compatible with either first- or third-person base narration."
+    },
+    {
+      "quote_id": "q01065",
+      "person_signal": "non_base",
+      "note": "Truncated character speech does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01066",
+      "person_signal": "non_base",
+      "note": "The first-person language belongs to a character speaking to Jamison."
+    },
+    {
+      "quote_id": "q01067",
+      "person_signal": "non_base",
+      "note": "A universal aphorism contains no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01068",
+      "person_signal": "non_base",
+      "note": "The I and you forms occur in sustained character address, not base narration."
+    },
+    {
+      "quote_id": "q01069",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to a speaker addressing Hugh."
+    },
+    {
+      "quote_id": "q01070",
+      "person_signal": "non_base",
+      "note": "Quoted speech is followed by a short attribution that does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01071",
+      "person_signal": "unmarked",
+      "note": "Narratorial prison-world exposition contains no participating narrator or story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q01072",
+      "person_signal": "unclear",
+      "note": "The snippet is truncated mid-sentence and provides insufficient local structure for attribution."
+    },
+    {
+      "quote_id": "q01073",
+      "person_signal": "unmarked",
+      "note": "Possible base exposition about human social behavior contains no diagnostic narrative-person marking."
+    },
+    {
+      "quote_id": "q01074",
+      "person_signal": "unmarked",
+      "note": "The isolated he refers to a character but, without broader local context, does not by itself identify the narrator."
+    },
+    {
+      "quote_id": "q01075",
+      "person_signal": "non_base",
+      "note": "The first-person possessive occurs in colloquial character speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://es.everand.com/book/830620832/La-ultima-milla-Amos-Decker-2",
+      "title": "La \u00faltima milla (Amos Decker 2) \u2014 book preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Everand's commercial subscription preview identifies the 584-page Ediciones B ebook and supplies sustained translated prose through Chapter 3, consistently narrating Mars and then Decker in third person while confining first-person forms to speech or represented thought."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/the-last-mile/9781455586486/",
+      "title": "The Last Mile by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The publisher page verifies the English work, author, ISBN, series, and principal characters, but its synopsis does not establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Last Mile\" \"David Baldacci\" excerpt, first chapter, official excerpt, and publisher-page combinations.",
+    "Searched \"The Last Mile\" with point of view, third person, narrator, narrative, multiple narrators, and alternating point of view; no credible source explicitly describing a different or alternating person was found.",
+    "Opened the Hachette Book Group title page; it verified the work but supplied only synopsis-level prose.",
+    "Opened the Everand Spanish-edition preview; its sustained opening and continuation into Chapter 2 showed third-person narration centered on Melvin Mars.",
+    "Checked Google Books for the Pan Macmillan edition; the page reported that no preview was available.",
+    "Reviewed Kirkus, Publishers Weekly, Bookreporter, and Washington Independent reviews; they corroborated the characters and novel-wide focus but did not explicitly identify grammatical narrative person.",
+    "Exact-phrase searches for several Goodreads passages found the Goodreads quote page and non-authoritative reproductions; the latter were not used as evidence.",
+    "Independent audit reopened the Everand listing and verified that it identifies the Spanish ebook's publisher, ISBN, and subscription preview; the accessible prose reaches Chapter 3. The source remains Tier A as a commercial licensed ebook preview, but its opening-only scope does not support high confidence by itself."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Melvin Mars, Amos Decker, and other characters in third person, with access to their perceptions and thoughts. Multiple interior quotations agree with Everand's sustained, publisher-identified Spanish ebook preview through Chapter 3; apparent first- and second-person forms are dialogue, represented thought, or aphorism. THIRD is retained, but confidence is medium because the sole diagnostic web route is a translated opening and Hachette's English page provides only nondiagnostic synopsis. q01063 was reduced to unmarked because its isolated 'him/he' does not preserve an antecedent. Independent audit: verified Everand's commercial edition metadata and expanded opening coverage, retained Tier A, and calibrated confidence consistently with prior opening-only Baldacci cases.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_057",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:00:30.735463+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5715f1d4cdf1d71481810848f95af4f4339d8189e08a691edd3dcbf1dfbef12d"
+  }
+}

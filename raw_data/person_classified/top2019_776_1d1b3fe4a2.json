@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:776",
+  "quotes": [
+    {
+      "quote_id": "q03716",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no narrator-identifying pronoun."
+    },
+    {
+      "quote_id": "q03717",
+      "person_signal": "non_base",
+      "note": "Universal second-person rule, not sustained narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q03718",
+      "person_signal": "non_base",
+      "note": "Quoted proverb rather than base narration."
+    },
+    {
+      "quote_id": "q03719",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows a group as they survey the block, with no participating narrator frame."
+    },
+    {
+      "quote_id": "q03720",
+      "person_signal": "unmarked",
+      "note": "Character-colored fragment about eating and coffee does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q03722",
+      "person_signal": "unmarked",
+      "note": "Clipped single action with a third-person subject is insufficient to establish narrator person."
+    },
+    {
+      "quote_id": "q03723",
+      "person_signal": "third",
+      "note": "Extended external narration repeatedly identifies Reacher and the other men in the third person."
+    },
+    {
+      "quote_id": "q03721",
+      "person_signal": "non_base",
+      "note": "Entirely a two-speaker exchange; its pronouns belong to speech."
+    },
+    {
+      "quote_id": "q03724",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in character speech, not controlling narration."
+    },
+    {
+      "quote_id": "q03725",
+      "person_signal": "unclear",
+      "note": "Both boundaries are clipped, preventing reliable separation of apparent threat speech from surrounding text."
+    },
+    {
+      "quote_id": "q03726",
+      "person_signal": "unmarked",
+      "note": "You can bet is a rhetorical construction, not sustained second-person narration; the remaining inference does not expose narrator person."
+    },
+    {
+      "quote_id": "q03727",
+      "person_signal": "unmarked",
+      "note": "A single externally described third-person subject is not enough by itself to establish the narrator's participation status."
+    },
+    {
+      "quote_id": "q03728",
+      "person_signal": "unmarked",
+      "note": "Specific action and inferred motives are visible, but the passage alone does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q03729",
+      "person_signal": "unmarked",
+      "note": "Speculation about the driver is compatible with free-indirect thought but does not independently expose narrator person."
+    },
+    {
+      "quote_id": "q03730",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the brief third-person speech tags do not independently identify the controlling narrator."
+    },
+    {
+      "quote_id": "q03731",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally names Reacher and recounts his actions alongside the injured man."
+    },
+    {
+      "quote_id": "q03732",
+      "person_signal": "third",
+      "note": "Extended external narration reports the Albanian man's thought and movements without a participating narrator frame."
+    },
+    {
+      "quote_id": "q03733",
+      "person_signal": "unmarked",
+      "note": "One sentence about the man's movement is insufficient on its own to establish narrator person."
+    },
+    {
+      "quote_id": "q03734",
+      "person_signal": "unmarked",
+      "note": "The brief passage names Reacher in third person but lacks enough local context to establish the controlling narrating position alone."
+    },
+    {
+      "quote_id": "q03735",
+      "person_signal": "non_base",
+      "note": "Quotation-marked speech only."
+    },
+    {
+      "quote_id": "q03736",
+      "person_signal": "third",
+      "note": "Multi-character scene narration externally describes both the man and Reacher, including Reacher's gaze."
+    },
+    {
+      "quote_id": "q03737",
+      "person_signal": "third",
+      "note": "Sustained narration repeatedly presents Reacher and the other man externally; the visible I occurs only inside Reacher's speech."
+    },
+    {
+      "quote_id": "q03738",
+      "person_signal": "third",
+      "note": "Extended narration focalizes Reacher while consistently referring to him and his ancestry in the third person."
+    },
+    {
+      "quote_id": "q03739",
+      "person_signal": "third",
+      "note": "Outside the short quoted question, the narration calls Reacher he and explains his motive and the other men's reactions externally."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/blue-moon-9780857503633/extracts/2153-blue-moon",
+      "title": "Extract | Blue Moon by Lee Child",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized Penguin extract sustains third-person narration across the opening gang scene and the subsequent Reacher bus scene."
+    },
+    {
+      "url": "https://www.autocrit.com/whats-the-score-blue-moon/",
+      "title": "What's the Score? \u2013 Blue Moon",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A manuscript-level point-of-view consistency analysis explicitly identifies the story as third person and reports no obvious POV inconsistencies."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blue_Moon_(Child_novel)",
+      "title": "Blue Moon (Child novel)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The work-level entry explicitly states that the novel is written in the third person."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lee_Child",
+      "title": "Lee Child",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The series bibliography distinguishes the Reacher novels by perspective and lists Blue Moon as third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Lee Child Blue Moon excerpt chapter one publisher\" and opened authorized Penguin extracts.",
+    "Searched \"Blue Moon Lee Child point of view third person narrator\" and targeted exact third-person phrasing.",
+    "Searched \"Blue Moon Lee Child narrative perspective point of view review\" and opened AutoCrit's manuscript-level POV analysis.",
+    "Checked Google Books previews for Blue Moon; accessible pages supplied catalog and synopsis material rather than a sustained usable interior excerpt.",
+    "Tried the Penguin Random House library and Bookreporter excerpt pages; the former returned an internal fetch error and the latter timed out.",
+    "Searched an exact interior quotation from quotes.csv; no additional accessible authorized interior source was returned."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Reacher and other characters in the third person. Numerous interior Goodreads passages sustain that position, while the authorized opening independently uses third-person narration and whole-book sources explicitly confirm the perspective. First-person forms in q03724 and q03737 are character speech, and the visible you forms are dialogue or generic rhetoric rather than second-person base narration. No source or passage indicates sustained first- or second-person sections; the opening-only limitation of the publisher extract is resolved by the distributed interior quotes and whole-book POV analyses.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.262842+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "383ac55ab141abda53b3a2f36af2c6a5cf20438584d22434e0673785b1e7b15b"
+  }
+}

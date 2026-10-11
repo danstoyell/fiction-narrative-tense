@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:WIN|Harlan Coben",
+  "quotes": [
+    {
+      "quote_id": "q06542",
+      "person_signal": "non_base",
+      "note": "Gnomic relationship advice; universal you does not identify the base narrator."
+    },
+    {
+      "quote_id": "q06543",
+      "person_signal": "first",
+      "note": "The narrator identifies the story-specific subject as \u201cmy father\u201d; surrounding you is generalized address."
+    },
+    {
+      "quote_id": "q06544",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q06545",
+      "person_signal": "non_base",
+      "note": "General reflection on memory; inclusive we is universal rather than story-specific narration."
+    },
+    {
+      "quote_id": "q06546",
+      "person_signal": "non_base",
+      "note": "Essayistic address to humanity and the reader; we and you are universal, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q06547",
+      "person_signal": "first",
+      "note": "Although predominantly dialogue, the outside narration includes \u201cI ask,\u201d \u201cI worry,\u201d and \u201cI still don\u2019t get it,\u201d exposing Win\u2019s participating narration."
+    },
+    {
+      "quote_id": "q06548",
+      "person_signal": "first",
+      "note": "Sustained self-characterization uses narratorial I, my, and we to describe Win\u2019s conduct."
+    },
+    {
+      "quote_id": "q06549",
+      "person_signal": "unmarked",
+      "note": "Possible descriptive base narration, but the clipped passage contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q06550",
+      "person_signal": "first",
+      "note": "Outside the embedded press-conference quotation, the narrator comments as \u201cI\u201d and relates himself to the story-world judgment."
+    },
+    {
+      "quote_id": "q06551",
+      "person_signal": "first",
+      "note": "The narrator\u2019s references to \u201cmy father\u201d and lessons conveyed \u201cto me\u201d diagnostically show participating narration."
+    },
+    {
+      "quote_id": "q06552",
+      "person_signal": "first",
+      "note": "Extended narratorial self-description repeatedly uses I and me."
+    },
+    {
+      "quote_id": "q06553",
+      "person_signal": "non_base",
+      "note": "Standalone aphoristic commentary without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q06554",
+      "person_signal": "non_base",
+      "note": "Universal reflection on fulfillment rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q06555",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the outside speech beats \u201cI tell him\u201d identify Win as the participating narrator."
+    },
+    {
+      "quote_id": "q06556",
+      "person_signal": "non_base",
+      "note": "General aphorism about loyalty; pronouns occur inside generalized examples."
+    },
+    {
+      "quote_id": "q06557",
+      "person_signal": "non_base",
+      "note": "Universal advice and direct address, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q06558",
+      "person_signal": "non_base",
+      "note": "Web context attributes this clipped statement to Kathleen; it is a local character voice, suggesting an upstream event-bucket boundary issue rather than another base narrator."
+    },
+    {
+      "quote_id": "q06559",
+      "person_signal": "non_base",
+      "note": "Standalone anaphoric aphorism with no diagnostic base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.harlancoben.com/wp-content/uploads/2020/10/WIN_excerpt_v2.pdf",
+      "title": "WIN excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author-hosted twenty-page preview sustains first-person scene narration by Windsor Horne Lockwood III throughout Chapter 1."
+    },
+    {
+      "url": "https://bookmarks.reviews/reviews/all/win/",
+      "title": "All Book Marks reviews for Win by Harlan Coben",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Multiple professional reviews independently describe the novel as told in first person from Win\u2019s point of view and as narrated by Win."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-win-a-novel/styles.html",
+      "title": "Harlan Coben Writing Styles in Win: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The book-wide study guide explicitly identifies the protagonist Win as the narrative\u2019s first-person narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cHarlan Coben WIN 2021 excerpt first chapter publisher\u201d and opened the official author-hosted excerpt.",
+    "Searched \u201cHarlan Coben WIN novel first person narrator point of view\u201d and opened explicit whole-book POV descriptions and professional-review evidence.",
+    "Searched the author site for a WIN/Windsor Horne Lockwood III excerpt; the author page linked to a twenty-page Chapter 1 preview.",
+    "Searched for multiple narrators, third-person sections, epistolary structure, frames, and alternating POV; found no credible indication that WIN changes base person.",
+    "Searched the exact \u201cwild buckaroo ride at a rodeo\u201d quotation; secondary chapter context attributes it to Kathleen, indicating clipped local speech rather than Win\u2019s narration.",
+    "Google Books and publisher catalog results supplied synopsis or inaccessible-preview material only and were not used as person evidence."
+  ],
+  "person_note": "Win is the participating first-person narrator. Numerous input passages independently expose his narratorial I/my voice, including narration beats embedded in dialogue-heavy quotations. The author-hosted opening sustains the same voice, while multiple whole-book descriptions explicitly say the novel is narrated in first person by Win; no credible source indicates alternating base sections. The Kathleen quotation is local character speech with lost boundaries, not a second controlling narrator. The only limitation is that the authorized prose source covers the opening, but the book-wide structural sources and interior Goodreads passages resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_077",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:48:07.774022+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f7e78a11da96af76b6a09fb2ba8d1594d3732351e60e4398464b8412ad08fd28"
+  }
+}

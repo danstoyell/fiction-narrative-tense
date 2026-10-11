@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:4310",
+  "quotes": [
+    {
+      "quote_id": "q00981",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; its first- and second-person pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00982",
+      "person_signal": "unclear",
+      "note": "The quotation boundary and speaker context are absent."
+    },
+    {
+      "quote_id": "q00983",
+      "person_signal": "unclear",
+      "note": "An exclamation with no recoverable speaker or narratorial context."
+    },
+    {
+      "quote_id": "q00984",
+      "person_signal": "unclear",
+      "note": "Likely speech or exposition, but the missing context prevents attribution."
+    },
+    {
+      "quote_id": "q00985",
+      "person_signal": "non_base",
+      "note": "Direct dialogue addressed to another character."
+    },
+    {
+      "quote_id": "q00986",
+      "person_signal": "non_base",
+      "note": "Gnomic prediction rather than story narration."
+    },
+    {
+      "quote_id": "q00987",
+      "person_signal": "non_base",
+      "note": "Generalized philosophical statement using universal you."
+    },
+    {
+      "quote_id": "q00988",
+      "person_signal": "non_base",
+      "note": "Person-neutral aphorism."
+    },
+    {
+      "quote_id": "q00989",
+      "person_signal": "non_base",
+      "note": "Person-neutral aphorism."
+    },
+    {
+      "quote_id": "q00990",
+      "person_signal": "non_base",
+      "note": "Gnomic statement, not a narrated story scene."
+    },
+    {
+      "quote_id": "q00991",
+      "person_signal": "non_base",
+      "note": "First-person authorial or embedded commentary, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q00992",
+      "person_signal": "third",
+      "note": "External he-reference combined with narratorial access to what the character knew supports third-person narration."
+    },
+    {
+      "quote_id": "q00993",
+      "person_signal": "non_base",
+      "note": "Isolated first-person thought or speech within the verified third-person novel."
+    },
+    {
+      "quote_id": "q00994",
+      "person_signal": "non_base",
+      "note": "Direct dialogue using generic you."
+    },
+    {
+      "quote_id": "q00995",
+      "person_signal": "unmarked",
+      "note": "Generic you expresses a maxim and does not establish sustained second-person narration."
+    },
+    {
+      "quote_id": "q00996",
+      "person_signal": "non_base",
+      "note": "Explicitly introduces a quotation from Alston Chase rather than base narration."
+    },
+    {
+      "quote_id": "q00997",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic exposition, not diagnostic narrative."
+    },
+    {
+      "quote_id": "q00998",
+      "person_signal": "non_base",
+      "note": "Quoted speech with an external speech tag."
+    },
+    {
+      "quote_id": "q00999",
+      "person_signal": "non_base",
+      "note": "Fragment from the book's supplementary discussion of eugenics, not the fictional base narrative."
+    },
+    {
+      "quote_id": "q01000",
+      "person_signal": "non_base",
+      "note": "Supplementary historical argument rather than story narration."
+    },
+    {
+      "quote_id": "q01001",
+      "person_signal": "non_base",
+      "note": "Supplementary historical commentary rather than story narration."
+    },
+    {
+      "quote_id": "q01002",
+      "person_signal": "non_base",
+      "note": "Isolated first-person expository voice belonging to authorial or embedded commentary."
+    },
+    {
+      "quote_id": "q01003",
+      "person_signal": "non_base",
+      "note": "Expository attribution containing an embedded Chesterton quotation."
+    },
+    {
+      "quote_id": "q01004",
+      "person_signal": "non_base",
+      "note": "Clipped factual argument from supplementary or embedded exposition."
+    },
+    {
+      "quote_id": "q01005",
+      "person_signal": "non_base",
+      "note": "Gnomic scientific argument, not a narrated scene."
+    },
+    {
+      "quote_id": "q01006",
+      "person_signal": "non_base",
+      "note": "First-person line from Crichton's separately delivered media commentary, not the fictional narrator."
+    },
+    {
+      "quote_id": "q01007",
+      "person_signal": "non_base",
+      "note": "Direct first-person lecture or dialogue."
+    },
+    {
+      "quote_id": "q01008",
+      "person_signal": "non_base",
+      "note": "Direct or represented instruction using generic you."
+    },
+    {
+      "quote_id": "q01009",
+      "person_signal": "non_base",
+      "note": "Person-neutral aphoristic assertion."
+    },
+    {
+      "quote_id": "q01010",
+      "person_signal": "non_base",
+      "note": "Exchange of direct dialogue."
+    },
+    {
+      "quote_id": "q01011",
+      "person_signal": "unclear",
+      "note": "Clipped first-person passage lacks a visible speaker boundary, though it likely belongs to a character lecture."
+    },
+    {
+      "quote_id": "q01012",
+      "person_signal": "non_base",
+      "note": "General proposition using inclusive we, not participating narration."
+    },
+    {
+      "quote_id": "q01013",
+      "person_signal": "non_base",
+      "note": "Direct dialogue using generic you."
+    },
+    {
+      "quote_id": "q01014",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph by Mark Twain."
+    },
+    {
+      "quote_id": "q01015",
+      "person_signal": "non_base",
+      "note": "Fragment of displayed slogan or sign text."
+    },
+    {
+      "quote_id": "q01016",
+      "person_signal": "non_base",
+      "note": "Direct address in dialogue."
+    },
+    {
+      "quote_id": "q01017",
+      "person_signal": "non_base",
+      "note": "Gnomic political argument, locally delivered rather than base narration."
+    },
+    {
+      "quote_id": "q01018",
+      "person_signal": "unclear",
+      "note": "The clipped passage lacks its speaker and opening boundary."
+    },
+    {
+      "quote_id": "q01019",
+      "person_signal": "non_base",
+      "note": "First-person argument belongs to Professor Hoffman's extended character lecture."
+    },
+    {
+      "quote_id": "q01020",
+      "person_signal": "unmarked",
+      "note": "Hypothetical generic you does not cast a story protagonist as second person."
+    },
+    {
+      "quote_id": "q01021",
+      "person_signal": "non_base",
+      "note": "First-person dialogue explicitly attributed to Hoffman."
+    },
+    {
+      "quote_id": "q01022",
+      "person_signal": "non_base",
+      "note": "Direct speech explicitly attributed to Henley."
+    },
+    {
+      "quote_id": "q01023",
+      "person_signal": "non_base",
+      "note": "Continuation of Hoffman's local lecture, not first-person base narration."
+    },
+    {
+      "quote_id": "q01024",
+      "person_signal": "non_base",
+      "note": "Direct first-person dialogue."
+    },
+    {
+      "quote_id": "q01025",
+      "person_signal": "unclear",
+      "note": "Severely clipped second-person material lacks recoverable local structure."
+    },
+    {
+      "quote_id": "q01026",
+      "person_signal": "unclear",
+      "note": "Nominal fragment with no narratorial or speaker context."
+    },
+    {
+      "quote_id": "q01027",
+      "person_signal": "non_base",
+      "note": "Gnomic claim rather than scene narration."
+    },
+    {
+      "quote_id": "q01028",
+      "person_signal": "non_base",
+      "note": "Expository generalization, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q01029",
+      "person_signal": "non_base",
+      "note": "Gnomic media commentary."
+    },
+    {
+      "quote_id": "q01030",
+      "person_signal": "non_base",
+      "note": "Generalized argument using inclusive us, not participating narration."
+    },
+    {
+      "quote_id": "q01031",
+      "person_signal": "non_base",
+      "note": "Extended analogy and exhortation, not story narration."
+    },
+    {
+      "quote_id": "q01032",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address with universal you."
+    },
+    {
+      "quote_id": "q01033",
+      "person_signal": "non_base",
+      "note": "Crichton's first-person speech or supplementary essay, independently found outside the fictional narrative."
+    },
+    {
+      "quote_id": "q01034",
+      "person_signal": "non_base",
+      "note": "Direct first-person speech."
+    },
+    {
+      "quote_id": "q01035",
+      "person_signal": "non_base",
+      "note": "Person-neutral maxim."
+    },
+    {
+      "quote_id": "q01036",
+      "person_signal": "non_base",
+      "note": "Dialogue explicitly attributed to Balder."
+    },
+    {
+      "quote_id": "q01037",
+      "person_signal": "non_base",
+      "note": "Fragment from Appendix I's historical discussion of politicized science."
+    },
+    {
+      "quote_id": "q01038",
+      "person_signal": "non_base",
+      "note": "Person-neutral scientific assertion."
+    },
+    {
+      "quote_id": "q01039",
+      "person_signal": "non_base",
+      "note": "Direct second-person instruction in dialogue."
+    },
+    {
+      "quote_id": "q01040",
+      "person_signal": "non_base",
+      "note": "Direct dialogue using repeated you."
+    },
+    {
+      "quote_id": "q01041",
+      "person_signal": "third",
+      "note": "The narrator names Evans externally and contrasts his visible action with his perception, diagnostic of third-person narration."
+    },
+    {
+      "quote_id": "q01042",
+      "person_signal": "non_base",
+      "note": "Direct dialogue addressed to another character."
+    },
+    {
+      "quote_id": "q01043",
+      "person_signal": "non_base",
+      "note": "Direct first-person dialogue."
+    },
+    {
+      "quote_id": "q01044",
+      "person_signal": "non_base",
+      "note": "Direct question addressed to Ted."
+    },
+    {
+      "quote_id": "q01045",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Ted."
+    },
+    {
+      "quote_id": "q01046",
+      "person_signal": "non_base",
+      "note": "Web context identifies this claim as part of Kenner's Yellowstone argument, not base narration."
+    },
+    {
+      "quote_id": "q01047",
+      "person_signal": "non_base",
+      "note": "Direct speech explicitly attributed to Kenner."
+    },
+    {
+      "quote_id": "q01048",
+      "person_signal": "unmarked",
+      "note": "Fragmentary he-narration is compatible with third person but is too short to establish narrator participation."
+    },
+    {
+      "quote_id": "q01049",
+      "person_signal": "non_base",
+      "note": "Person-neutral maxim."
+    },
+    {
+      "quote_id": "q01050",
+      "person_signal": "non_base",
+      "note": "Gnomic legal explanation rather than story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://michaelcrichton.com/works/state-of-fear/",
+      "title": "State of Fear - Michael Crichton",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author's official site supplies three excerpts from distinct portions of the novel. Their narration refers to Morton, Drake, and Evans externally as he or by name and reports their thoughts and perceptions without a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-state-of-fear/style.html",
+      "title": "Michael Crichton Writing Styles in State of Fear",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view section explicitly describes the novel as third-person omniscient and says that, apart from dialogue, it uses an omniscient voice."
+    },
+    {
+      "url": "https://www.gradesaver.com/state-of-fear/study-guide/literary-elements",
+      "title": "State of Fear Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The narrator-and-point-of-view section identifies an unnamed third-person omniscient narrator."
+    },
+    {
+      "url": "https://michaelcrichton.com/works/state-of-fear-authors-message/",
+      "title": "State of Fear - Author's Message",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The official site labels the first-person material as an Author's Message originally published in the book, establishing that this supplementary voice is not an alternating fictional narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"Michael Crichton State of Fear excerpt chapter 1\" and opened the authorized excerpts on the author's official site.",
+    "Searched \"State of Fear Michael Crichton point of view third person narrator\" and opened explicit whole-book descriptions from BookRags and GradeSaver.",
+    "Searched Google Books and the author's domain for previews; no useful accessible Google Books passage appeared, while the official author page supplied three sustained passages.",
+    "Searched \"State of Fear multiple narrators\", \"alternating point of view\", and \"epistolary\"; results produced no evidence of sustained narration in another person and included collisions with Menan du Plessis's unrelated A State of Fear.",
+    "Searched exact first-person and historical snippets. Results placed the eugenics passages in Appendix I, identified the long fear discussion as Professor Hoffman's dialogue, and located other first-person selections in Crichton's speeches or the book's Author's Message."
+  ],
+  "person_note": "The controlling fictional narration is third person. Authorized excerpts from several interior locations narrate Morton, Drake, and Evans externally and enter character perceptions; q00992 and q01041 show the same pattern. The many apparent first-person counterexamples are dialogue, Professor Hoffman's extended lecture, the separately labeled Author's Message, appendices, or reprinted Crichton speeches, so they do not create alternating base narration. The quote sample is unusually fragmentary and supplement-heavy, but multiple official prose passages and two explicit whole-book POV descriptions agree, with no credible evidence of another sustained narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_040",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T21:50:41.368302+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "679b3850d2ac94f7543bc6eb58c75aca9e069985541df76ec8a89bc3df623dc1"
+  }
+}

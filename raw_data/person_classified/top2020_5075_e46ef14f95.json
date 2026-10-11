@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:5075",
+  "quotes": [
+    {
+      "quote_id": "q04762",
+      "person_signal": "non_base",
+      "note": "A dog-philosophy generalization with no participating narrator; it is nondiagnostic gnomic or free-indirect material."
+    },
+    {
+      "quote_id": "q04763",
+      "person_signal": "unmarked",
+      "note": "Possible base exposition about Edgar and his father, but the reported universal 'you' belongs to the father's saying and does not identify the narrator."
+    },
+    {
+      "quote_id": "q04764",
+      "person_signal": "unmarked",
+      "note": "Third-person family exposition is compatible with several narrator configurations and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q04765",
+      "person_signal": "third",
+      "note": "The external attribution 'Aldred thought' presents a character's consciousness through third-person base narration."
+    },
+    {
+      "quote_id": "q04766",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim rather than sustained story-specific narration of a protagonist as 'you'."
+    },
+    {
+      "quote_id": "q04767",
+      "person_signal": "non_base",
+      "note": "Predominantly direct speech; the brief external speech beat is too limited to identify the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q04768",
+      "person_signal": "unmarked",
+      "note": "Clipped free-indirect reflection about 'him and Sunni' is consistent with third-person narration but lacks enough context to be independently diagnostic."
+    },
+    {
+      "quote_id": "q04769",
+      "person_signal": "third",
+      "note": "Two sentences externally narrate Aldred's circumstances and willingness, exposing third-person character-centered narration."
+    },
+    {
+      "quote_id": "q04770",
+      "person_signal": "non_base",
+      "note": "Direct speech with a speech tag; the addressed 'you' is not base narration."
+    },
+    {
+      "quote_id": "q04771",
+      "person_signal": "unmarked",
+      "note": "Possible base scene narration, but names and external actions alone do not conclusively establish narrator participation; the ending is also clipped."
+    },
+    {
+      "quote_id": "q04772",
+      "person_signal": "unmarked",
+      "note": "Story-world political exposition contains no diagnostic narrator self-reference or sustained protagonist address."
+    },
+    {
+      "quote_id": "q04773",
+      "person_signal": "non_base",
+      "note": "Sustained first- and second-person direct address by a character, not the controlling narrator."
+    },
+    {
+      "quote_id": "q04774",
+      "person_signal": "non_base",
+      "note": "Predominantly quoted character introduction; the brief third-person action beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q04775",
+      "person_signal": "third",
+      "note": "Sustained external access to Count Hubert's pride, cherished heritage, and gratification identifies third-person character-centered narration."
+    },
+    {
+      "quote_id": "q04776",
+      "person_signal": "unmarked",
+      "note": "Technical description of an arch lacks narrator-person evidence."
+    },
+    {
+      "quote_id": "q04777",
+      "person_signal": "unmarked",
+      "note": "Story-world currency exposition does not expose the narrator's participation or grammatical person."
+    },
+    {
+      "quote_id": "q04778",
+      "person_signal": "unmarked",
+      "note": "The base-narrative action and speech tag use Eadbald's name, but that alone does not establish whether a narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q04779",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition about Britons contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q04780",
+      "person_signal": "unmarked",
+      "note": "An expository list of quarter days contains no narrator-person evidence."
+    },
+    {
+      "quote_id": "q04781",
+      "person_signal": "third",
+      "note": "The external tag 'she reflected' presents a character's thought from a third-person narrating position."
+    },
+    {
+      "quote_id": "q04782",
+      "person_signal": "non_base",
+      "note": "First-person forms occur entirely within a tagged two-speaker exchange."
+    },
+    {
+      "quote_id": "q04783",
+      "person_signal": "third",
+      "note": "The passage externally narrates Ragna's discomfort and knowledge, providing clear third-person limited narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780451478016",
+      "title": "The Evening and the Morning | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates Edgar externally as 'he' while directly reporting his perceptions, uncertainty, and thoughts, establishing third-person limited narration in the opening."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-evening-and-the-morning/styles.html",
+      "title": "Ken Follett Writing Styles in The Evening and the Morning",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly states that the novel is written in third person through a series of limited perspectives, chiefly Aldred, Edgar, Ragna, and Wynstan."
+    },
+    {
+      "url": "https://www.chanfry.com/reviews/books/follett-ken/evening-morning/",
+      "title": "Review: The Evening And The Morning, by Ken Follett",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review corroborates the whole-book structure of shifting viewpoint sections centered mostly on Edgar, Aldred, and Ragna, with additional character perspectives, but does not explicitly name the grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Ken Follett The Evening and the Morning official excerpt chapter\" and opened the Penguin Random House publisher excerpt.",
+    "Searched \"The Evening and the Morning Ken Follett point of view third person narrator\" and opened the BookRags point-of-view analysis.",
+    "Searched site:ken-follett.com \"The Evening and the Morning\" excerpt; the author page identified a first-chapter feature but its embedded video did not provide searchable prose.",
+    "Searched site:penguinrandomhouse.com \"The Evening and the Morning\" excerpt and verified the publisher's sustained Chapter 1 text.",
+    "Searched exact-title combinations with \"third person\", \"third-person\", and \"point of view\"; results corroborated multiple character perspectives, while an Apple Books hit was only a customer review and was not used as substantive evidence.",
+    "Opened a Bookreporter excerpt result, but the page fetch timed out; its duplicate opening material was unnecessary because the publisher excerpt was available."
+  ],
+  "person_note": "The controlling narration is third person, primarily shifting among limited character perspectives. The authorized opening follows Edgar externally and enters his perceptions and thoughts, while interior Goodreads quotations similarly present Aldred, Hubert, and Ragna's consciousness through external third-person narration. First- and second-person forms in the quote set occur in dialogue, reported sayings, or generic maxims rather than sustained base narration. The whole-book POV description explicitly confirms third person and explains the viewpoint shifts; no credible evidence indicates sustained first- or second-person sections. The publisher excerpt covers only the opening, but the independent whole-book description and distributed interior quote evidence remove the main scope uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_072",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T12:58:44.006197+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ad6822c340272f27df215bec729bc9785026ec4a28782a8466f1db8005ef3e1a"
+  }
+}

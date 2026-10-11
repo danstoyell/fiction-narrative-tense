@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1984:6462",
+  "quotes": [
+    {
+      "quote_id": "q01011",
+      "person_signal": "third",
+      "note": "Sustained external narration reports the character's actions and inner distress without a participating narrator."
+    },
+    {
+      "quote_id": "q01012",
+      "person_signal": "third",
+      "note": "Extended narration identifies Jack externally while presenting his memories, perceptions, and emotional response."
+    },
+    {
+      "quote_id": "q01013",
+      "person_signal": "unmarked",
+      "note": "The clipped fragment about an unidentified 'he' lacks enough context to establish the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q01014",
+      "person_signal": "non_base",
+      "note": "Generic aphoristic 'you' is not sustained address to a story protagonist."
+    },
+    {
+      "quote_id": "q01015",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unidentified character's perception is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q01016",
+      "person_signal": "unmarked",
+      "note": "Impersonal scene description contains no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q01017",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to 'he' does not by itself establish the controlling narrator's person."
+    },
+    {
+      "quote_id": "q01018",
+      "person_signal": "non_base",
+      "note": "Character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01019",
+      "person_signal": "third",
+      "note": "Sustained external narration names Sloat and Phil Sawyer while disclosing Sloat's retrospective thoughts."
+    },
+    {
+      "quote_id": "q01020",
+      "person_signal": "non_base",
+      "note": "Aphoristic commentary is not a diagnostic narrative scene."
+    },
+    {
+      "quote_id": "q01021",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person subject has insufficient local context to identify narrator participation."
+    },
+    {
+      "quote_id": "q01022",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition contains no person-marked narrator or sufficiently contextualized character reference."
+    },
+    {
+      "quote_id": "q01023",
+      "person_signal": "unmarked",
+      "note": "Impersonal event description does not reveal the narrator's person."
+    },
+    {
+      "quote_id": "q01024",
+      "person_signal": "unmarked",
+      "note": "Story-specific reflection may represent free-indirect thought, but its pronoun-free form does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q01025",
+      "person_signal": "non_base",
+      "note": "The visible second-person forms occur entirely in character speech addressed to Jack."
+    },
+    {
+      "quote_id": "q01026",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narrator identifies Jack and Speedy externally and directly reports Jack's knowledge."
+    },
+    {
+      "quote_id": "q01027",
+      "person_signal": "third",
+      "note": "Two sentences sustain external access to an unidentified character's private difficulties, consistent with the book's third-person narration."
+    },
+    {
+      "quote_id": "q01028",
+      "person_signal": "non_base",
+      "note": "Generalizing statements about mortality are gnomic rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q01029",
+      "person_signal": "third",
+      "note": "The intrusive teller addresses the reader as 'you' and calls itself 'I' but remains outside the story, reporting the characters as 'they'; this is nonparticipating narration, not first-person participation."
+    },
+    {
+      "quote_id": "q01030",
+      "person_signal": "non_base",
+      "note": "First-person language appears only in a character's plea."
+    },
+    {
+      "quote_id": "q01031",
+      "person_signal": "unmarked",
+      "note": "The isolated references to 'his father' do not establish whether the unshown narrator participates in the story."
+    },
+    {
+      "quote_id": "q01032",
+      "person_signal": "non_base",
+      "note": "The first-person wording is embedded graffiti; the surrounding frame is not independently diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/es/libros-de-fantasia/33191-libro-el-talisman-9788490325445/fragmento",
+      "title": "El Talism\u00e1n \u2014 fragmento",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Penguin's sustained authorized Spanish-language extract covers early chapters and consistently narrates Jack externally while entering his perceptions and thoughts."
+    },
+    {
+      "url": "https://media.s-bol.com/JgX2jgLvnZBl/original.pdf",
+      "title": "The Talisman \u2014 publisher-formatted preview",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The English preview supplies roughly the first seventy story pages, sustaining external Jack-focused narration and reporting his thoughts without a participating story narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-talisman/style.html",
+      "title": "Stephen King Writing Styles in The Talisman",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies an omniscient third-person narrative voice focused mainly on Jack, with occasional focal shifts to Morgan Sloat and Sunlight Gardener."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Talisman\" Stephen King Peter Straub excerpt, first chapter, narrator, and point of view.",
+    "Searched targeted combinations for \"third person,\" \"omniscient third-person,\" alternating narration, frame narrative, and narrator participation.",
+    "Opened and reviewed the Penguin authorized extract, the English publisher-formatted preview PDF, and the BookRags point-of-view discussion.",
+    "Checked Google Books metadata and contents, but its accessible page did not provide usable narrative prose; a Riverside Public Library excerpt returned an unsupported-content error when opened.",
+    "Located a scholarly thesis discussing focal shifts and an all-knowing narrator, but the repository PDF timed out or returned access denial, so it was not used as evidence."
+  ],
+  "person_note": "The diagnostic quotes repeatedly show a nonparticipating narrator presenting Jack's and Sloat's actions, memories, and inner states. Two sustained authorized excerpts independently exhibit the same third-person pattern, and the whole-book point-of-view description explicitly confirms it while explaining the limited shifts among characters. The narratorial 'I' and reader-directed 'you' in q01029 are an intrusive outside teller's address, not participation as a story character; dialogue, gnomic 'you,' and graffiti are likewise local material. No evidence indicates sustained first- or second-person story sections. The remaining uncertainty is limited to the exact degree of omniscience, which does not affect the THIRD classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_023",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T20:04:07.650456+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8592c2a1416d68444cf0586cc56a088ed5e9b8e91899bd6c1c14c2002f2f146c"
+  }
+}

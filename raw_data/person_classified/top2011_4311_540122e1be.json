@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:4311",
+  "quotes": [
+    {
+      "quote_id": "q01706",
+      "person_signal": "non_base",
+      "note": "General maxim with generic second person; it does not identify a story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q01707",
+      "person_signal": "non_base",
+      "note": "Quoted character speech; its first- and second-person pronouns do not expose the base narrator."
+    },
+    {
+      "quote_id": "q01708",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the inclusive 'we' is generic and the remainder does not identify narrator participation."
+    },
+    {
+      "quote_id": "q01709",
+      "person_signal": "unmarked",
+      "note": "Impersonal reflective narration without a participating narrator or a sufficiently developed external character perspective."
+    },
+    {
+      "quote_id": "q01710",
+      "person_signal": "unmarked",
+      "note": "The base voice may report what 'he used to say,' but 'we' belongs to the reported saying and the brief external reference alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q01711",
+      "person_signal": "non_base",
+      "note": "Quoted character speech rather than base narration."
+    },
+    {
+      "quote_id": "q01712",
+      "person_signal": "non_base",
+      "note": "First-person language occurs inside quoted character speech and is not narratorial."
+    },
+    {
+      "quote_id": "q01713",
+      "person_signal": "non_base",
+      "note": "Quoted aphoristic speech using impersonal 'one'; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01714",
+      "person_signal": "non_base",
+      "note": "A universal gnomic statement whose 'we' is generic, not evidence of narrator participation."
+    },
+    {
+      "quote_id": "q01715",
+      "person_signal": "unmarked",
+      "note": "The sentence presents a woman's understanding as 'she,' but this isolated reference lacks enough context by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01716",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q01717",
+      "person_signal": "non_base",
+      "note": "Impersonal gnomic statement rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01718",
+      "person_signal": "third",
+      "note": "Sustained narration names Marina externally and describes her inherited background, development, and desire without a participating narrator."
+    },
+    {
+      "quote_id": "q01719",
+      "person_signal": "unmarked",
+      "note": "Environmental description contains no narrator participation or developed external character reference."
+    },
+    {
+      "quote_id": "q01720",
+      "person_signal": "unclear",
+      "note": "The leading ellipsis and isolated 'her' leave the local structure and narratorial attribution too clipped to diagnose."
+    },
+    {
+      "quote_id": "q01721",
+      "person_signal": "third",
+      "note": "Extended close narration renders a woman's memories and perceptions through external 'she/her,' consistent with nonparticipating third-person narration."
+    },
+    {
+      "quote_id": "q01722",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur entirely within quoted instructional speech."
+    },
+    {
+      "quote_id": "q01723",
+      "person_signal": "non_base",
+      "note": "The many uses of 'you' are direct address within dialogue, not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q01724",
+      "person_signal": "non_base",
+      "note": "Quoted speech discussing a story; it does not expose the novel's base narrator."
+    },
+    {
+      "quote_id": "q01725",
+      "person_signal": "unmarked",
+      "note": "The brief external 'her' reference is compatible with several narrating situations and is insufficient alone."
+    },
+    {
+      "quote_id": "q01726",
+      "person_signal": "non_base",
+      "note": "A long first-person recollection enclosed in dialogue; it is a character's local speech, not a first-person base section."
+    },
+    {
+      "quote_id": "q01727",
+      "person_signal": "non_base",
+      "note": "Expository gnomic material with generic 'you,' not story-specific narration."
+    },
+    {
+      "quote_id": "q01728",
+      "person_signal": "unmarked",
+      "note": "A fragmentary list of possibilities about 'he' does not by itself establish narrator participation."
+    },
+    {
+      "quote_id": "q01729",
+      "person_signal": "unmarked",
+      "note": "Close figurative description uses 'her,' but this single sentence does not independently establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q01730",
+      "person_signal": "third",
+      "note": "Sustained prose names Marina externally, narrates her action, and supplies her learned habitual knowledge from a nonparticipating close-third position."
+    },
+    {
+      "quote_id": "q01731",
+      "person_signal": "unmarked",
+      "note": "Most of the passage is Dr. Swenson's first-person dialogue; the closing external speech beat is possible base narration but too brief alone to diagnose its person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.vpm.org/npr-news/2011-05-31/excerpt-state-of-wonder/",
+      "title": "Excerpt: \u2018State of Wonder\u2019",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "An excerpt credited to Ann Patchett and reproduced by permission of Harper presents Chapter One through sustained external references to Marina and access to her perceptions and thoughts; the first-person letter is explicitly embedded within that third-person scene."
+    },
+    {
+      "url": "https://chapter16.org/book-excerpt-ann-patchetts-state-of-wonder/",
+      "title": "Book Excerpt: Ann Patchett's State of Wonder",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This authorized interior excerpt, published by Humanities Tennessee and used with permission, sustains external 'Marina/she' narration while rendering Marina's sensations, thoughts, and unspoken intention."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-state-of-wonder/style.html",
+      "title": "Ann Patchett Writing Styles in State of Wonder",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly describes the novel as limited third person focused on Marina Singh's thoughts and actions."
+    },
+    {
+      "url": "https://www.sfgate.com/books/article/review-state-of-wonder-by-ann-patchett-2368592.php",
+      "title": "Review: 'State of Wonder,' by Ann Patchett",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The San Francisco Chronicle review explicitly refers to the book's third-person narrator and discusses that narrator's treatment of Mr. Fox and Marina's consciousness."
+    }
+  ],
+  "search_log": [
+    "Searched \"State of Wonder\" \"Ann Patchett\" excerpt and opened the VPM/NPR Chapter One excerpt credited to the author and reproduced by permission of Harper.",
+    "Searched for authorized interior prose and opened Humanities Tennessee's Chapter 16 excerpt, which supplies sustained close-third narration well beyond the opening.",
+    "Searched \"State of Wonder\" third person, point of view, and narrator; opened BookRags' explicit whole-book point-of-view description and the San Francisco Chronicle review's explicit reference to the third-person narrator.",
+    "Searched \"State of Wonder\" with first person, multiple narrators, and alternating point of view; results produced no credible claim of sustained first-person, second-person, or alternating base narration.",
+    "Google Books and publisher-oriented searches mainly returned catalog description or inaccessible preview material, so those discovery-only results were not used as person evidence."
+  ],
+  "person_note": "The controlling narration is close third person centered on Marina Singh. Goodreads provides several diagnostic passages that name or refer to Marina externally while rendering her background, perception, and learned knowledge, and authorized excerpts independently show the same structure in Chapter One and an interior Amazon scene. A whole-book POV guide explicitly calls the novel limited third person, and a contemporary review independently refers to its third-person narrator. First-person and second-person forms in the quote set belong to dialogue, generic maxims, or reported language; the authorized opening likewise embeds Dr. Swenson's first-person letter inside an otherwise third-person scene. No credible evidence of sustained narration in another person was found. The main limitation is that many popularity-selected quotes are aphorisms or dialogue, but the diagnostic quotes and separated authorized excerpts strongly agree.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_050",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T03:17:09.385891+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d3c9427884078847a1d8e071dfcdaeca9b1ce0dd4801f39665227f108a827026"
+  }
+}

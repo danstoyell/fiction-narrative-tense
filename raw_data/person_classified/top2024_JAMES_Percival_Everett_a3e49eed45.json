@@ -1,0 +1,383 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:JAMES|Percival Everett",
+  "quotes": [
+    {
+      "quote_id": "q08556",
+      "person_signal": "first",
+      "note": "Jim narrates his own realization using \u201cme\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08557",
+      "person_signal": "non_base",
+      "note": "Universal gnomic advice; \u201cyou\u201d is not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q08558",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q08559",
+      "person_signal": "first",
+      "note": "Jim recounts what he saw and how his literacy frightened another character."
+    },
+    {
+      "quote_id": "q08560",
+      "person_signal": "first",
+      "note": "Participating narrator describes his own hatred and constrained agency."
+    },
+    {
+      "quote_id": "q08561",
+      "person_signal": "non_base",
+      "note": "Sentence belongs to Jim\u2019s locally embedded notebook composition, not the surrounding base narration."
+    },
+    {
+      "quote_id": "q08562",
+      "person_signal": "non_base",
+      "note": "Character speech; its first-person pronouns do not establish narrative person."
+    },
+    {
+      "quote_id": "q08563",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question with generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q08564",
+      "person_signal": "non_base",
+      "note": "Gnomic dialect statement without diagnostic base narration."
+    },
+    {
+      "quote_id": "q08565",
+      "person_signal": "non_base",
+      "note": "Abstract gnomic reflection without an exposed narrator."
+    },
+    {
+      "quote_id": "q08566",
+      "person_signal": "first",
+      "note": "Jim narrates his own actions, feelings, and developing anger as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08567",
+      "person_signal": "first",
+      "note": "The narration beat \u201cI paused\u201d exposes the participating narrator outside the quoted speech."
+    },
+    {
+      "quote_id": "q08568",
+      "person_signal": "non_base",
+      "note": "Direct character speech rather than narratorial evidence."
+    },
+    {
+      "quote_id": "q08569",
+      "person_signal": "first",
+      "note": "Jim reflects on marks he is making and on his own meaning using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08570",
+      "person_signal": "first",
+      "note": "Participating narrator recounts his thoughts about abolition and war."
+    },
+    {
+      "quote_id": "q08571",
+      "person_signal": "first",
+      "note": "Although dialogue-heavy, the outside beat \u201cI asked\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q08572",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in Jim\u2019s locally embedded self-written declaration."
+    },
+    {
+      "quote_id": "q08573",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; \u201cwe\u201d belongs to the speaker\u2019s utterance."
+    },
+    {
+      "quote_id": "q08574",
+      "person_signal": "first",
+      "note": "Jim explicitly recounts his continuing choice of the word \u201cenemy.\u201d"
+    },
+    {
+      "quote_id": "q08575",
+      "person_signal": "first",
+      "note": "Participating narrator reports what he saw and realized."
+    },
+    {
+      "quote_id": "q08576",
+      "person_signal": "non_base",
+      "note": "Direct character speech, including generic address, is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q08577",
+      "person_signal": "first",
+      "note": "Jim narrates his own interpretation with \u201cI imagined.\u201d"
+    },
+    {
+      "quote_id": "q08578",
+      "person_signal": "non_base",
+      "note": "Dialogue and a bare third-person speech beat do not identify the base narrator."
+    },
+    {
+      "quote_id": "q08579",
+      "person_signal": "non_base",
+      "note": "This declaration is local character speech; the event bucket appears to omit its dialogue context."
+    },
+    {
+      "quote_id": "q08580",
+      "person_signal": "first",
+      "note": "Jim narrates his own fatigue and judgment of other men."
+    },
+    {
+      "quote_id": "q08581",
+      "person_signal": "non_base",
+      "note": "Direct speech with a conversational \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q08582",
+      "person_signal": "first",
+      "note": "Jim narrates knowledge he gave another character and his own motive for doing so."
+    },
+    {
+      "quote_id": "q08583",
+      "person_signal": "first",
+      "note": "Dialogue is framed by the narratorial beat \u201cI said,\u201d exposing Jim as participating narrator."
+    },
+    {
+      "quote_id": "q08584",
+      "person_signal": "first",
+      "note": "Jim recounts his suspicion about his own survival."
+    },
+    {
+      "quote_id": "q08585",
+      "person_signal": "first",
+      "note": "Participating narrator describes his apathy and self-questioning."
+    },
+    {
+      "quote_id": "q08586",
+      "person_signal": "first",
+      "note": "Jim recounts his own recent racial passing using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08587",
+      "person_signal": "non_base",
+      "note": "Dialogue plus a third-person speech beat does not diagnose the narrator."
+    },
+    {
+      "quote_id": "q08588",
+      "person_signal": "first",
+      "note": "Despite extensive dialogue, repeated outside action beats use \u201cI\u201d for the participating narrator."
+    },
+    {
+      "quote_id": "q08589",
+      "person_signal": "first",
+      "note": "The clipped passage retains the narrator\u2019s explicit judgment through \u201cmy thinking.\u201d"
+    },
+    {
+      "quote_id": "q08590",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative without a story-specific narrated \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q08591",
+      "person_signal": "first",
+      "note": "Jim narrates his own reading experience and understanding of fiction."
+    },
+    {
+      "quote_id": "q08592",
+      "person_signal": "non_base",
+      "note": "Direct character speech rather than base narration."
+    },
+    {
+      "quote_id": "q08593",
+      "person_signal": "first",
+      "note": "The dialogue contains the external attribution \u201cI said,\u201d identifying the participating narrator."
+    },
+    {
+      "quote_id": "q08594",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur entirely within direct speech."
+    },
+    {
+      "quote_id": "q08595",
+      "person_signal": "first",
+      "note": "The dialogue is framed by Jim\u2019s narratorial attribution \u201cI said.\u201d"
+    },
+    {
+      "quote_id": "q08596",
+      "person_signal": "first",
+      "note": "The outside beats \u201clooked at me\u201d and \u201cI said\u201d expose Jim\u2019s participating narration."
+    },
+    {
+      "quote_id": "q08597",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but this isolated statement does not grammatically expose narrator participation."
+    },
+    {
+      "quote_id": "q08598",
+      "person_signal": "first",
+      "note": "Jim narrates his intention to reconstruct his story in his notebook."
+    },
+    {
+      "quote_id": "q08599",
+      "person_signal": "first",
+      "note": "Jim describes his own fear and anger, then includes himself among enslaved people as \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q08600",
+      "person_signal": "first",
+      "note": "The narrator refers to his own possible guilt and choice through \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08601",
+      "person_signal": "first",
+      "note": "Though dialogue-heavy, repeated narration beats such as \u201cI said\u201d and \u201cI asked\u201d identify Jim as narrator."
+    },
+    {
+      "quote_id": "q08602",
+      "person_signal": "non_base",
+      "note": "Clipped direct dialogue without a diagnostic narratorial beat."
+    },
+    {
+      "quote_id": "q08603",
+      "person_signal": "first",
+      "note": "The narrator explicitly characterizes the setting as \u201cmy hell.\u201d"
+    },
+    {
+      "quote_id": "q08604",
+      "person_signal": "first",
+      "note": "Despite initial clipping, \u201cmy circumstance\u201d belongs to Jim\u2019s narratorial reflection on his reading."
+    },
+    {
+      "quote_id": "q08605",
+      "person_signal": "first",
+      "note": "Jim narrates why he wrote and calls the narrative his own story."
+    },
+    {
+      "quote_id": "q08606",
+      "person_signal": "first",
+      "note": "The participating narrator describes the raccoon relative to \u201cme\u201d and joins it in \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q08607",
+      "person_signal": "first",
+      "note": "The clipped passage still contains the narratorial attribution \u201cI thought.\u201d"
+    },
+    {
+      "quote_id": "q08608",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q08609",
+      "person_signal": "first",
+      "note": "Jim states his continuing intentions and emotional stance as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08610",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08611",
+      "person_signal": "first",
+      "note": "The outside dialogue attribution \u201cI asked\u201d identifies Jim as participating narrator."
+    },
+    {
+      "quote_id": "q08612",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; its \u201cyou\u201d refers to Jim within speech rather than narrating him in second person."
+    },
+    {
+      "quote_id": "q08613",
+      "person_signal": "first",
+      "note": "Jim narrates a shared action as \u201cwe\u201d and his own subsequent suspicion."
+    },
+    {
+      "quote_id": "q08614",
+      "person_signal": "first",
+      "note": "Participating narrator describes his own pain, movement, and threatened existence."
+    },
+    {
+      "quote_id": "q08615",
+      "person_signal": "non_base",
+      "note": "Direct dialogue and generic references to people do not identify narrative person."
+    },
+    {
+      "quote_id": "q08616",
+      "person_signal": "unclear",
+      "note": "A clipped nonfinite list containing \u201cme\u201d lacks enough syntax to resolve whether it is base narration."
+    },
+    {
+      "quote_id": "q08617",
+      "person_signal": "first",
+      "note": "The narrator includes himself among enslaved people through \u201cMost of us.\u201d"
+    },
+    {
+      "quote_id": "q08618",
+      "person_signal": "first",
+      "note": "The narratorial attribution \u201cI asked\u201d identifies the participating narrator outside the dialogue."
+    },
+    {
+      "quote_id": "q08619",
+      "person_signal": "non_base",
+      "note": "Dialogue contains a universal \u201cwe,\u201d while the third-person beat alone is not diagnostic."
+    },
+    {
+      "quote_id": "q08620",
+      "person_signal": "first",
+      "note": "Jim directly narrates his self-questioning and goal of freeing his family."
+    },
+    {
+      "quote_id": "q08621",
+      "person_signal": "first",
+      "note": "The external attribution \u201cI said\u201d exposes Jim as participating narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.cbsnews.com/news/book-excerpt-james-by-percival-everett/",
+      "title": "Book excerpt: \"James\" by Percival Everett",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained excerpt published with Doubleday\u2019s permission opens in Jim\u2019s first-person voice and distinguishes his narration from surrounding dialogue."
+    },
+    {
+      "url": "https://www.nybooks.com/articles/2024/07/18/a-story-of-his-own-james-percival-everett/",
+      "title": "A Story of His Own",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This detailed review explicitly identifies James as the first-person narrator and follows that narrating position through opening and later episodes across the novel."
+    },
+    {
+      "url": "https://images.penguinrandomhouse.com/promo_image/9780385550369_10459.pdf",
+      "title": "James Reading Group Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Penguin Random House\u2019s guide repeatedly calls the voice \u201cJim\u2019s narration\u201d and frames Jim as the narrator of his own story across the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cPercival Everett James novel excerpt first chapter publisher,\u201d \u201cJames Percival Everett first person narrator point of view review,\u201d and narrator/interview variants.",
+    "Searched Penguin Random House domains for an authorized excerpt and reading guide; opened the official reading guide and publisher product page.",
+    "Opened the CBS excerpt and verified that it is a sustained opening passage reproduced by permission of Doubleday.",
+    "Opened the New York Review of Books review and verified its explicit identification of James as the first-person narrator across its discussion of the novel.",
+    "Searched exact quotations to distinguish base narration from local speech or Jim\u2019s embedded notebook writing; search results clarified the notebook context of \u201cWith my pencil, I wrote myself into being.\u201d",
+    "A Penguin Random House Germany excerpt PDF and a Taylor & Francis scholarly article appeared in search results but could not be opened successfully, so neither was used as evidence."
+  ],
+  "person_note": "The controlling narrator is Jim/James, a participant who tells his own story in the first person. Numerous Goodreads passages from varied interior situations independently expose sustained \u201cI\u201d and \u201cwe\u201d narration, while dialogue-only aphorisms and Jim\u2019s locally embedded notebook declaration were not allowed to vote mechanically. The authorized opening excerpt confirms the same voice, and the whole-book NYRB analysis plus the publisher\u2019s guide identify Jim as narrator without indicating any sustained change of person. The isolated \u201cI am James\u201d declaration is treated as speech, not separate narration. No credible evidence of alternating or second-/third-person base sections was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_086",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:18:49.070054+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3e1607dab95fee071f9684b9e6f87e361f452a1db2d50e001191cf481ae017ef"
+  }
+}

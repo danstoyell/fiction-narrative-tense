@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:156",
+  "quotes": [
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first-person and generic second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "third",
+      "note": "Base narration externally recounts an aliased character\u2019s calculation and action in third person."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "unmarked",
+      "note": "A contextless he-subject performing actions is too brief to establish the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech, not narration."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "third",
+      "note": "Third-person narration identifies Martha, renders her focalized questions, and refers to her as she."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; the short third-person speech beats are not independently diagnostic."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "Contains a public speech and Charlie\u2019s explicitly attributed first-person thought, both local character voices."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "unmarked",
+      "note": "A brief free-indirect or aphoristic statement with no established narrator position."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "third",
+      "note": "Third-person narration reports Martha\u2019s action and her private wish without a participating narrator."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "non_base",
+      "note": "Character speech paraphrasing Nietzsche; it does not expose base narration."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "third",
+      "note": "Extended external description of a male character and Roger White\u2019s arrival belongs to third-person scene narration."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "unmarked",
+      "note": "The you is generic within a leader\u2019s maxim; the fragment does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "First person occurs inside an embedded philosophical or historical quotation; the closing sentence is part of that local account."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "non_base",
+      "note": "Embedded speech attributed to Zeus, not the novel\u2019s base narrator."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "third",
+      "note": "An external narrator frames the character\u2019s realization as he; the you appears only inside his internal rule."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "third",
+      "note": "Third-person narration reports a woman\u2019s private attraction and what she had never disclosed."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "unclear",
+      "note": "Standalone first-person sentence lacks quotation boundaries or attribution; strong contextual evidence suggests local speech or thought, but the clip cannot prove it."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "unclear",
+      "note": "The passage ends with a clipped You; the preceding generic observation does not establish second-person narration."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Martha as she climbs, returns, and becomes aware of watching eyes."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "unmarked",
+      "note": "His identifies a character, while you is only a generic simile; neither alone proves narrator person."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "unmarked",
+      "note": "A single sentence about how the room struck Peepgass is compatible with third person but too brief to be diagnostic alone."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781429960694/amaninfull/",
+      "title": "A Man in Full | Macmillan",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s sustained Chapter 1 excerpt narrates Roger White externally as he while freely entering his thoughts; no participating narrator frames the scene."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/437/a-man-in-full",
+      "title": "Excerpt from A Man In Full by Tom Wolfe",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The authorized Chapter 2 excerpt, published with copyright-holder permission, sustains third-person narration through Raymond Peepgass and Charlie Croker, including Peepgass\u2019s interior monologue."
+    },
+    {
+      "url": "https://happyantipodean.blogspot.com/2019/12/book-review-man-in-full-tom-wolfe-1998.html",
+      "title": "Book review: A Man in Full, Tom Wolfe (1998)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A full-book review explains that chapters and sections shift focalization among Charlie, Peepgass, Conrad, Roger, and other characters, corroborating multiple third-person focal characters rather than participating narrators."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/audiobook-reviews/tom-wolfe/a-man-in-full/",
+      "title": "A Man in Full by Tom Wolfe | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The unabridged-audiobook review distinguishes the authorial narrative voice from the characters and says it remains audible even during their interior monologues."
+    }
+  ],
+  "search_log": [
+    "Searched \"A Man in Full\" \"Tom Wolfe\" excerpt, first chapter, and Google Books; opened the Macmillan publisher excerpt and the authorized BookBrowse Chapter 2 excerpt.",
+    "Searched \"A Man in Full\" with point of view, narrator, third person, omniscient narrator, free indirect, and focalization; opened the Happy Antipodean structural review and Kirkus audiobook review.",
+    "Searched for alternating narration, multiple narrators, epistolary form, diary, and frame-narrative evidence; found focalization shifts among characters but no sustained first- or second-person base sections.",
+    "Searched exact text from the ambiguous first-person q00025 and clipped neighboring passages; no source resolving its local quotation or thought boundaries was found.",
+    "Reviewed EBSCO, SuperSummary, publisher copy, reviews, and search snippets; plot-summary grammar and sources lacking direct person evidence were not treated as dispositive."
+  ],
+  "person_note": "The controlling narration is third person with shifting focalization among Roger White, Charlie Croker, Martha Croker, Raymond Peepgass, Conrad Hensley, and others. Multiple Goodreads event passages independently show this external narrating position, and both the publisher\u2019s opening and an authorized interior chapter sustain the same technique. First-person material in the quotes belongs to dialogue, attributed thought, or embedded Stoic discourse; generic you passages are not second-person narration. The only material uncertainty is the missing local boundary around q00025, but it does not outweigh the consistent book-level evidence, and no sustained alternate-person section was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.228258+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "bf1a733d7aad66e831a037156a3d441e64bd216f4b6d574d451c561ea339c35f"
+  }
+}

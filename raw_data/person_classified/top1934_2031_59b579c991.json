@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1934:2031",
+  "quotes": [
+    {
+      "quote_id": "q00043",
+      "person_signal": "third",
+      "note": "Sustained external narration renders Chips's memories and thoughts as 'him' and 'he'; the reflective questions are free indirect discourse."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "third",
+      "note": "External narration reports what Chips pondered and presents his reflection through third-person focalization."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "third",
+      "note": "Cartwright's speech is embedded, while the surrounding narrator independently comments on it and continues the third-person ending."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "third",
+      "note": "The opening generic 'you' is not protagonist-address; the sustained scene narrates Chips externally as 'he'."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "A universal maxim with no story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "third",
+      "note": "Sustained external exposition evaluates Chips's professional decline and conduct as 'he'."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "non_base",
+      "note": "The first-person pronouns belong to Chips's deathbed speech, not the base narrator."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "unmarked",
+      "note": "A brief metaphor about 'his life' is compatible with third-person narration but is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence names Chips and uses no participating or external narratorial marker sufficient by itself."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "unmarked",
+      "note": "A short sentence about Chips's guests does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "unmarked",
+      "note": "This clipped descriptive phrase contains no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection about aging is gnomic, not sustained narration of a story-specific 'you'."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "third",
+      "note": "The scene narrates Chips externally as 'he'; the closing 'you' addresses remembered boys within his free-direct thought."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "third",
+      "note": "Sustained external narration and free-indirect access to Chips's attitudes establish third-person focalization."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "First-person language occurs throughout an address delivered by Chips to pupils."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "unmarked",
+      "note": "A single statement about 'he' is too brief to establish the controlling narrator's participation."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "non_base",
+      "note": "The substantial first- and second-person material is Katherine's attributed dialogue; the speech tag alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "third",
+      "note": "Extended free-indirect reflection is explicitly framed around Chips and Ralston by a nonparticipating third-person narrator; generic 'you' is not second-person base narration."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "third",
+      "note": "The narrator externally reports Chips's actions and awareness around embedded speeches and pupil dialogue."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "unmarked",
+      "note": "A clipped subordinate fragment about 'he' lacks enough context to identify the narrator."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "unmarked",
+      "note": "The brief story-specific reflection concerns 'his' experience but does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "third",
+      "note": "Sustained external narration presents Chips's feeling and projected decisions through 'he'."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "third",
+      "note": "Extended scene narration treats Katherine and Chips externally and embeds Chips's thought within third-person narration."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "third",
+      "note": "After embedded speech, an external narrator corrects the speaker and supplies facts about Chips's marriage."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "third",
+      "note": "A sequence of externally narrated actions and preferences consistently presents Chips as 'he'."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "third",
+      "note": "The outer narrator recounts later events involving Colley and Chips; Chips's first-person words are embedded speech."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "non_base",
+      "note": "Publication-history paratext about Hilton's commission, not narration from the novella."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "non_base",
+      "note": "Publication-history paratext, not part of the story's base narration."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator recounts the anecdote and its reception; first person appears only in Chips's attributed reply."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.net.au/ebooks05/0500111h.html",
+      "title": "Goodbye Mr Chips by James Hilton",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete 18-chapter digital-library text consistently narrates Chips externally as 'he' from the opening through his death and aftermath, while entering his memories through free-indirect thought; first-person passages are attributed speech or thought, not an alternating base narrator."
+    },
+    {
+      "url": "https://www.supersummary.com/goodbye-mr-chips/summary/",
+      "title": "Goodbye Mr Chips Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies the novel's narration as third-person limited omniscient and says it remains with Mr. Chips's thoughts and memories."
+    },
+    {
+      "url": "https://foxedquarterly.com/james-hilton-good-bye-mr-chips-literary-review/",
+      "title": "James Hilton | Good-bye Mr Chips | Slightly Foxed literary review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The literary review describes the novella as a bird's-eye view of Chips's whole career organized through his retrospection and reproduces third-person rendering of his views, corroborating the book-wide Chips-centered narrative structure."
+    }
+  ],
+  "search_log": [
+    "Searched \"Good-bye, Mr. Chips\" \"James Hilton\" with excerpt, first-chapter, narrator, point-of-view, third-person, epistolary, frame, multiple-narrator, and alternating-narration terms.",
+    "Opened and inspected the complete Project Gutenberg Australia text at the opening, multiple interior chapter transitions, and Chapter 18; no sustained first- or second-person base section was found.",
+    "Opened SuperSummary's study guide, which explicitly describes third-person limited omniscient narration across the novel.",
+    "Opened the Slightly Foxed literary review for its whole-career structural description and corroborating passage.",
+    "Checked Open Library records and the 1934 Little, Brown edition listing; these verified the work and exposed only a short opening excerpt, so they were not relied upon for whole-book person.",
+    "Checked Hachette UK's publisher page; it advertised an excerpt but exposed only catalog copy in the accessible page, so its synopsis grammar was not treated as person evidence.",
+    "Targeted scholarly and publisher searches produced no stronger accessible structural analysis; irrelevant film, classroom-note, and snippet results were discarded."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and consistently refers to Mr. Chips in the third person while closely focalizing his memories, judgments, and free-indirect thoughts. The Goodreads quotations repeatedly exhibit that structure, and the complete web text confirms it from Chapter 1 through the final chapter without a change of base person. Apparent first person belongs to dialogue or quoted thought, while generic or locally addressed 'you' passages are gnomic reflection, free indirect discourse, or character address rather than second-person narration. The full-text evidence and explicit whole-book POV description agree; no material uncertainty or alternating frame remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_001",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:04:12.326467+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6f2892fe65c8a9298139f1c8f783651563abb05a028443d75b029f88d6f72599"
+  }
+}

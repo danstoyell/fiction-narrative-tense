@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:3349",
+  "quotes": [
+    {
+      "quote_id": "q03620",
+      "person_signal": "non_base",
+      "note": "A first-person-plural statement in character speech; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03621",
+      "person_signal": "unmarked",
+      "note": "The repeated generic 'you' describes perception generally, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q03622",
+      "person_signal": "third",
+      "note": "Past narration externally frames a male character's realization and renders his thoughts in free indirect style."
+    },
+    {
+      "quote_id": "q03623",
+      "person_signal": "non_base",
+      "note": "A two-turn spoken exchange does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q03624",
+      "person_signal": "non_base",
+      "note": "Olive's generic 'you' occurs in quoted speech; the brief attribution is not sufficient by itself."
+    },
+    {
+      "quote_id": "q03625",
+      "person_signal": "non_base",
+      "note": "Vocative address to Olive and first-person declarations mark character speech."
+    },
+    {
+      "quote_id": "q03626",
+      "person_signal": "non_base",
+      "note": "Web context identifies this first-person statement as something Olive writes, making it an embedded local voice."
+    },
+    {
+      "quote_id": "q03627",
+      "person_signal": "unmarked",
+      "note": "The clipped free-indirect question contains no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q03628",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a male character's fear, perceptions, and self-understanding as 'he'."
+    },
+    {
+      "quote_id": "q03629",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'her' is compatible with multiple narratorial arrangements."
+    },
+    {
+      "quote_id": "q03630",
+      "person_signal": "third",
+      "note": "Sustained external narration renders an aging woman's reflection on her life as 'she' and 'her'."
+    },
+    {
+      "quote_id": "q03631",
+      "person_signal": "non_base",
+      "note": "The visible first-person statement belongs to dialogue."
+    },
+    {
+      "quote_id": "q03632",
+      "person_signal": "third",
+      "note": "External narration repeatedly attributes thoughts, memories, and silence to Olive."
+    },
+    {
+      "quote_id": "q03633",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur inside a quoted exchange."
+    },
+    {
+      "quote_id": "q03634",
+      "person_signal": "unmarked",
+      "note": "This isolated statement about a son and mother does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q03635",
+      "person_signal": "non_base",
+      "note": "Deictic and argumentative language marks character speech."
+    },
+    {
+      "quote_id": "q03636",
+      "person_signal": "third",
+      "note": "The narratorial frame presents Cindy's future memory and Olive's actions externally; Olive's quoted words are local speech."
+    },
+    {
+      "quote_id": "q03637",
+      "person_signal": "non_base",
+      "note": "A universal gnomic assertion does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q03638",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly an unmarked spoken exchange; the brief action beat is not controlling evidence."
+    },
+    {
+      "quote_id": "q03639",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms are confined to dialogue between Jack and Olive."
+    },
+    {
+      "quote_id": "q03640",
+      "person_signal": "third",
+      "note": "Extended external summary describes a woman's family situation and contrasts it with other families."
+    },
+    {
+      "quote_id": "q03641",
+      "person_signal": "unmarked",
+      "note": "The metaphorical summary contains no participant narrator or sustained character reference."
+    },
+    {
+      "quote_id": "q03642",
+      "person_signal": "non_base",
+      "note": "This is a character's spoken recollection containing additional quoted classroom speech."
+    },
+    {
+      "quote_id": "q03643",
+      "person_signal": "non_base",
+      "note": "Generic 'you' appears in a universal maxim, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03644",
+      "person_signal": "third",
+      "note": "External scene narration reports Betty's weeping and Olive's thought and speech."
+    },
+    {
+      "quote_id": "q03645",
+      "person_signal": "non_base",
+      "note": "The vocative 'Cindy' identifies direct character speech."
+    },
+    {
+      "quote_id": "q03646",
+      "person_signal": "third",
+      "note": "The narrator externally identifies Jack by name and describes his inability to understand his situation."
+    },
+    {
+      "quote_id": "q03647",
+      "person_signal": "third",
+      "note": "Sustained narration enters Bob's feelings and projections while referring to him as 'he'."
+    },
+    {
+      "quote_id": "q03648",
+      "person_signal": "third",
+      "note": "External narration follows a woman's thoughts about Henry, Jack, Christopher, luck, and love."
+    },
+    {
+      "quote_id": "q03649",
+      "person_signal": "third",
+      "note": "The framing narration reports Olive's realization, Betty's history, Olive's actions, and feelings; the quotation is embedded dialogue."
+    },
+    {
+      "quote_id": "q03650",
+      "person_signal": "non_base",
+      "note": "The first-person confession is character speech, not base narration."
+    },
+    {
+      "quote_id": "q03651",
+      "person_signal": "third",
+      "note": "Sustained external narration attributes memories, hurt, and an embedded thought to Kayley."
+    },
+    {
+      "quote_id": "q03652",
+      "person_signal": "unmarked",
+      "note": "The fragment refers to 'him' but lacks enough local framing to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03653",
+      "person_signal": "unmarked",
+      "note": "This descriptive fragment about 'she' and her son does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q03654",
+      "person_signal": "third",
+      "note": "A sustained external frame narrates Cindy's actions, wishes, and feelings around embedded text messages."
+    },
+    {
+      "quote_id": "q03655",
+      "person_signal": "third",
+      "note": "External narration names Olive and reports her fatigue, restraint, and hypothetical willingness to listen."
+    },
+    {
+      "quote_id": "q03656",
+      "person_signal": "third",
+      "note": "The narrator externally attributes Olive's realization and recurring knowledge to her."
+    },
+    {
+      "quote_id": "q03657",
+      "person_signal": "third",
+      "note": "External narration describes what a female character would have written and summarizes her subject."
+    },
+    {
+      "quote_id": "q03658",
+      "person_signal": "unclear",
+      "note": "The short clipped construction could be speech or free indirect thought, and its local status cannot be resolved."
+    },
+    {
+      "quote_id": "q03659",
+      "person_signal": "unclear",
+      "note": "The lowercase clipped fragment contains 'us,' but missing boundaries prevent determining whether it is base narration or embedded discourse."
+    },
+    {
+      "quote_id": "q03660",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Olive's actions, perceptions, thoughts, and eventual spoken words."
+    },
+    {
+      "quote_id": "q03661",
+      "person_signal": "third",
+      "note": "External narration attributes recurring political thoughts and an embedded remark to a female character."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/you-know-who-back-elizabeth-strouts-new-novel-ioli/",
+      "title": "You-Know-Who Is Back in Elizabeth Strout\u2019s New Novel, Olive, Again",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This author interview and structural profile explicitly states that Olive, Again is entirely in third person while using multiple characters' points of view across thirteen linked stories."
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/tra-rgfe/assets/2436/OliveAgain_first_chapter.pdf",
+      "title": "Olive, Again \u2014 First Chapter: Arrested",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained typeset first-chapter extract narrates Jack Kennison externally as 'he' while entering his thoughts throughout the section."
+    },
+    {
+      "url": "https://www.oprahdaily.com/entertainment/books/a29690149/olive-again-elizabeth-strout-excerpt/",
+      "title": "Read An Exclusive Excerpt from Olive, Again By Elizabeth Strout\u2014Oprah's Latest Book Club Pick",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The authorized excerpt from 'The Poet' sustains third-person narration around Olive's actions, perceptions, and thoughts, corroborating the person beyond the opening story."
+    },
+    {
+      "url": "https://www.gradesaver.com/olive-again/study-guide/literary-elements",
+      "title": "Olive, Again Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies a third-person narrator and explains that Olive-focalized stories are told from her perspective."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-olive-again/styles.html",
+      "title": "Elizabeth Strout Writing Styles in Olive, Again",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide describes a consistent third-person narrator who communicates the thoughts of one or two focal characters in each chapter despite changing perspectives."
+    }
+  ],
+  "search_log": [
+    "Searched: site:penguinrandomhouse.com/books Olive Again Elizabeth Strout excerpt.",
+    "Searched: \"Olive, Again\" \"Read an excerpt\" and opened the Oprah Daily excerpt from the named story \"The Poet.\"",
+    "Searched: \"Olive, Again\" \"third person\" narration; opened the Kirkus author profile, GradeSaver literary-elements page, and BookRags style analysis.",
+    "Searched: \"Olive, Again\" point of view narrator stories, including terms for multiple narrators and alternating point of view.",
+    "Opened and inspected the 21-page first-chapter PDF for \"Arrested\"; it sustains third-person narration centered on Jack.",
+    "Opened the Penguin Random House title page; its synopsis verified the work and multi-character linked-story structure but was not treated as direct person evidence.",
+    "No opened source indicated a sustained first- or second-person base section; first-person material encountered was dialogue, writing, or other embedded character language."
+  ],
+  "person_note": "The book's controlling narration is third person across linked stories with changing focal characters, including Olive, Jack, Bob, Kayley, and Cindy. Numerous Goodreads passages independently show sustained external narration combined with close access to those characters' thoughts. The opening chapter and the interior story \"The Poet\" provide Tier A corroboration, while Kirkus explicitly describes the entire book as third person. First-person quotations are speech or embedded writing; notably, Kirkus identifies q03626's wording as something Olive writes. Generic 'you' passages are maxims or generalized perception rather than second-person narrative. The only residual uncertainty concerns the local boundaries of two clipped quotes, not the whole-book structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_067",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T04:56:52.144752+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cfd6211db63cada7a236b61eaeb467bfbd02ee4045bc9b31af08c1fd728d6041"
+  }
+}

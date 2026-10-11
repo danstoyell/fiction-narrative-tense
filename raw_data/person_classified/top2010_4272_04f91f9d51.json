@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:4272",
+  "quotes": [
+    {
+      "quote_id": "q01647",
+      "person_signal": "third",
+      "note": "Sustained external narration reports the chipmunk's aging, memories, and changing understanding without a participating narrator."
+    },
+    {
+      "quote_id": "q01648",
+      "person_signal": "non_base",
+      "note": "Clipped character speech; its pronouns do not expose the narrator."
+    },
+    {
+      "quote_id": "q01649",
+      "person_signal": "third",
+      "note": "Extended external narration describes the mouse, her pet snake, and her motives from a nonparticipating position."
+    },
+    {
+      "quote_id": "q01650",
+      "person_signal": "non_base",
+      "note": "An isolated character utterance from the owl story; first-person possession alone does not establish narrative person."
+    },
+    {
+      "quote_id": "q01651",
+      "person_signal": "non_base",
+      "note": "Generalized gnomic statement rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01652",
+      "person_signal": "unmarked",
+      "note": "The sentence reports a character's irritation but is too brief to distinguish third-person base narration from narration framed by a participant."
+    },
+    {
+      "quote_id": "q01653",
+      "person_signal": "third",
+      "note": "Sustained external narration follows the performer's actions and audience response without introducing a participating narrator."
+    },
+    {
+      "quote_id": "q01654",
+      "person_signal": "non_base",
+      "note": "Direct character speech, not narratorial discourse."
+    },
+    {
+      "quote_id": "q01655",
+      "person_signal": "unmarked",
+      "note": "A single sentence about the cat's reaction does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01656",
+      "person_signal": "non_base",
+      "note": "Dialogue with a speech beat; the speakers' person usage is not narrator evidence."
+    },
+    {
+      "quote_id": "q01657",
+      "person_signal": "first",
+      "note": "The narrating animal participates in the scene, hearing the voices and explaining events to the hippo as 'I'."
+    },
+    {
+      "quote_id": "q01658",
+      "person_signal": "non_base",
+      "note": "Conversational direct address about mice, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01659",
+      "person_signal": "first",
+      "note": "A sustained participating owl narrator recounts sleeping, flying, bereavement, observations, and thoughts as 'I'."
+    },
+    {
+      "quote_id": "q01660",
+      "person_signal": "first",
+      "note": "The setter who is a character in the named story narrates his wife and his own judgment as 'I'."
+    },
+    {
+      "quote_id": "q01661",
+      "person_signal": "third",
+      "note": "External scene narration surrounds the stork's dialogue and tracks both mother and child without a participating narrator."
+    },
+    {
+      "quote_id": "q01662",
+      "person_signal": "non_base",
+      "note": "Clipped first-person character speech without narratorial context."
+    },
+    {
+      "quote_id": "q01663",
+      "person_signal": "unmarked",
+      "note": "Brief external-looking narration about the mouse and another character is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01664",
+      "person_signal": "unmarked",
+      "note": "The direct speech is non-diagnostic, while the short external framing beat is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q01665",
+      "person_signal": "non_base",
+      "note": "Direct first-person speech, not demonstrated base narration."
+    },
+    {
+      "quote_id": "q01666",
+      "person_signal": "non_base",
+      "note": "Direct character speech with no narrator evidence."
+    },
+    {
+      "quote_id": "q01667",
+      "person_signal": "unmarked",
+      "note": "This bare sentence naming the squirrel and chipmunk does not alone distinguish third-person narration from a participant's account."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.thecrimson.com/article/2010/10/5/squirrel-chipmunk-bunny-bear/",
+      "title": "Sedaris Satirizes Nutty Animals in \u2018Squirrel\u2019",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review explicitly states that the collection's stories are narrated in either first or third person and illustrates both modes with the first-person owl and third-person chipmunk passages."
+    },
+    {
+      "url": "https://www.vpm.org/npr-news/2010-09-21/excerpt-squirrel-seeks-chipmunk/",
+      "title": "Excerpt: \u2018Squirrel Seeks Chipmunk\u2019",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "A permissioned Little, Brown excerpt of 'The Cat and the Baboon' sustains external third-person narration across the complete displayed story passage."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2010/nov/27/squirrel-chipmunk-david-sedaris-review",
+      "title": "Squirrel Seeks Chipmunk: A Wicked Bestiary by David Sedaris \u2013 review",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The review identifies the owl as the narrator of 'The Grieving Owl' and discusses what that narrating owl knows, corroborating the first-person Goodreads passages."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-sedaris/squirrel-seeks-chipmunk/9780316131278/?lens=little-brown",
+      "title": "Squirrel Seeks Chipmunk: A Modest Bestiary",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher identifies the work as an illustrated collection of distinct animal-themed stories, useful structural context but not itself an explicit statement of narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Squirrel Seeks Chipmunk\" \"David Sedaris\" excerpt publisher; opened the permissioned VPM/NPR excerpt and Hachette publisher page.",
+    "Searched: \"Squirrel Seeks Chipmunk\" point of view narrator first person third person stories; opened the Harvard Crimson review explicitly describing first- and third-person stories.",
+    "Searched: \"Squirrel Seeks Chipmunk\" \"The Grieving Owl\" excerpt and exact text \"Leeches are singing in my asshole\"; the exact-text result was only an unverified Goodreads quote page, while the Guardian review supplied usable narrator evidence.",
+    "Searched: \"I attribute my wife's language\" \"The Faithful Setter\" and Google Books preview queries; no accessible authorized interior excerpt for that story was found.",
+    "Opened Los Angeles Times and Google Books pages for structural corroboration; they established a short-story collection but did not explicitly classify narrative person."
+  ],
+  "person_note": "This is a prose collection whose autonomous stories use different controlling persons, so it is ALTERNATING rather than a multiple-narrator FIRST book. The permissioned 'Cat and Baboon' excerpt and several Goodreads passages show sustained nonparticipating third-person narration, while the owl and setter passages show participating first-person narrators in other named stories. The Harvard Crimson describes the collection as containing both first- and third-person stories and quotes examples of both, while the Guardian independently identifies the owl as narrator of 'The Grieving Owl.' Dialogue and isolated first-person utterances were not promoted to narrator evidence. Confidence is med because the authorized Tier A prose establishes only a named third-person story; the whole-collection alternation and first-person component are supported by diagnostic Goodreads passages and Tier C newspaper reviews, and the Crimson's chipmunk example overlaps a sampled quote rather than providing wholly independent prose evidence. Audit: independent review retained ALTERNATING, corrected the Crimson from Tier B to Tier C, and downgraded confidence from high to med to reflect source tier and coverage.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_049",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T20:06:56.510022+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "718b63ddb09be72350c0bb5685f6df7366a9a464a0343570cc55394a51b36bcb"
+  }
+}

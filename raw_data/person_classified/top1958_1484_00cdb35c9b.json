@@ -1,0 +1,408 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1958:1484",
+  "quotes": [
+    {
+      "quote_id": "q00632",
+      "person_signal": "non_base",
+      "note": "First-person character speech; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00633",
+      "person_signal": "unmarked",
+      "note": "A brief direct thought with an external 'he thought' tag; too little narratorial context to establish person independently."
+    },
+    {
+      "quote_id": "q00634",
+      "person_signal": "third",
+      "note": "Sustained external narration describes the lovers as 'they' without a participating narrator."
+    },
+    {
+      "quote_id": "q00635",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with generic 'you' and a local 'me,' not diagnostic story narration."
+    },
+    {
+      "quote_id": "q00636",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion rather than base narrative."
+    },
+    {
+      "quote_id": "q00637",
+      "person_signal": "non_base",
+      "note": "First-person character speech addressed to another character."
+    },
+    {
+      "quote_id": "q00638",
+      "person_signal": "non_base",
+      "note": "Local first-person character observation, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00639",
+      "person_signal": "non_base",
+      "note": "Gnomic exposition using inclusive 'we,' not participating story narration."
+    },
+    {
+      "quote_id": "q00640",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with generic second person."
+    },
+    {
+      "quote_id": "q00641",
+      "person_signal": "non_base",
+      "note": "Character speech addressing a story-specific 'you'; it is not second-person base narration."
+    },
+    {
+      "quote_id": "q00642",
+      "person_signal": "non_base",
+      "note": "Direct advice within character speech."
+    },
+    {
+      "quote_id": "q00643",
+      "person_signal": "non_base",
+      "note": "Character speech containing first- and second-person pronouns."
+    },
+    {
+      "quote_id": "q00644",
+      "person_signal": "non_base",
+      "note": "Explicit first-person declaration in dialogue."
+    },
+    {
+      "quote_id": "q00645",
+      "person_signal": "non_base",
+      "note": "Gnomic, impersonal reflection rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00646",
+      "person_signal": "unmarked",
+      "note": "The repeated 'you' is generalized or free-indirect rhetoric, not a protagonist sustained as second person."
+    },
+    {
+      "quote_id": "q00647",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'she' is compatible with either first- or third-person narration."
+    },
+    {
+      "quote_id": "q00648",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00649",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about art and beauty."
+    },
+    {
+      "quote_id": "q00650",
+      "person_signal": "non_base",
+      "note": "Extended first-person speech addressed to another character."
+    },
+    {
+      "quote_id": "q00651",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim rather than story narration."
+    },
+    {
+      "quote_id": "q00652",
+      "person_signal": "non_base",
+      "note": "General historical-philosophical exposition, not diagnostic of narrator participation."
+    },
+    {
+      "quote_id": "q00653",
+      "person_signal": "third",
+      "note": "External narration describes the lovers and their thoughts in sustained third person."
+    },
+    {
+      "quote_id": "q00654",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than a second-person narrative scene."
+    },
+    {
+      "quote_id": "q00655",
+      "person_signal": "non_base",
+      "note": "General maxim using inclusive 'we,' not participating narration."
+    },
+    {
+      "quote_id": "q00656",
+      "person_signal": "unmarked",
+      "note": "A short reference to 'him' does not independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q00657",
+      "person_signal": "unmarked",
+      "note": "Brief externally tagged realization, but insufficient local context to identify the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q00658",
+      "person_signal": "non_base",
+      "note": "Gnomic advice with generic 'you' and 'our.'"
+    },
+    {
+      "quote_id": "q00659",
+      "person_signal": "unmarked",
+      "note": "Possible base exposition, but no participating or externally narrated character identifies person."
+    },
+    {
+      "quote_id": "q00660",
+      "person_signal": "non_base",
+      "note": "Dialogue explicitly attributed to Larissa Fyodorovna."
+    },
+    {
+      "quote_id": "q00661",
+      "person_signal": "non_base",
+      "note": "Extended philosophical character speech."
+    },
+    {
+      "quote_id": "q00662",
+      "person_signal": "non_base",
+      "note": "Character speech using generic or addressee-oriented 'you.'"
+    },
+    {
+      "quote_id": "q00663",
+      "person_signal": "unmarked",
+      "note": "A brief third-person statement followed by a general maxim; insufficient context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q00664",
+      "person_signal": "non_base",
+      "note": "Gnomic literary commentary using inclusive 'us.'"
+    },
+    {
+      "quote_id": "q00665",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement rather than narrative."
+    },
+    {
+      "quote_id": "q00666",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization."
+    },
+    {
+      "quote_id": "q00667",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'she' does not distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q00668",
+      "person_signal": "non_base",
+      "note": "Extended first-person character address, not base narration."
+    },
+    {
+      "quote_id": "q00669",
+      "person_signal": "third",
+      "note": "Sustained external narration calls the lovers 'they' and interprets their experience."
+    },
+    {
+      "quote_id": "q00670",
+      "person_signal": "non_base",
+      "note": "Character speech combines first person with an addressed 'you.'"
+    },
+    {
+      "quote_id": "q00671",
+      "person_signal": "non_base",
+      "note": "Local first-person political speech or reflection, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00672",
+      "person_signal": "third",
+      "note": "Sustained narration names Yurii, repeatedly calls him 'he,' and enters his perceptions from outside."
+    },
+    {
+      "quote_id": "q00673",
+      "person_signal": "unmarked",
+      "note": "Scene description contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00674",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison of science and art."
+    },
+    {
+      "quote_id": "q00675",
+      "person_signal": "unmarked",
+      "note": "Descriptive base prose without a participating or externally designated character."
+    },
+    {
+      "quote_id": "q00676",
+      "person_signal": "unmarked",
+      "note": "Two brief sentences about 'she' do not alone establish the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q00677",
+      "person_signal": "non_base",
+      "note": "Verse-like gnomic material with 'we,' not base prose narration."
+    },
+    {
+      "quote_id": "q00678",
+      "person_signal": "non_base",
+      "note": "Gnomic political assertion."
+    },
+    {
+      "quote_id": "q00679",
+      "person_signal": "non_base",
+      "note": "Aphoristic exclamation using impersonal 'one.'"
+    },
+    {
+      "quote_id": "q00680",
+      "person_signal": "non_base",
+      "note": "Local first-person apostrophe to 'you,' consistent with embedded speech, thought, or poetry rather than base narration."
+    },
+    {
+      "quote_id": "q00681",
+      "person_signal": "unmarked",
+      "note": "A single external reference to 'they' is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00682",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment rather than narrative."
+    },
+    {
+      "quote_id": "q00683",
+      "person_signal": "non_base",
+      "note": "General moral reflection about a hypothetical 'he.'"
+    },
+    {
+      "quote_id": "q00684",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with generic 'your' and 'he.'"
+    },
+    {
+      "quote_id": "q00685",
+      "person_signal": "third",
+      "note": "Extended external scene narration refers to the central pair as 'their' and comments on their isolated life without a participating frame."
+    },
+    {
+      "quote_id": "q00686",
+      "person_signal": "unmarked",
+      "note": "Atmospheric scene description contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00687",
+      "person_signal": "non_base",
+      "note": "Local first-person political speech or reflection, not the base narrator."
+    },
+    {
+      "quote_id": "q00688",
+      "person_signal": "unmarked",
+      "note": "The present-tense 'you' is generic scenic address, not sustained narration of a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00689",
+      "person_signal": "non_base",
+      "note": "Character speech addressing captors as 'you.'"
+    },
+    {
+      "quote_id": "q00690",
+      "person_signal": "non_base",
+      "note": "First-person character speech addressed to another character."
+    },
+    {
+      "quote_id": "q00691",
+      "person_signal": "non_base",
+      "note": "Autobiographical first-person speech by a female character, not controlling narration."
+    },
+    {
+      "quote_id": "q00692",
+      "person_signal": "third",
+      "note": "A long passage externally follows Yury's creative process as 'he' and reports his inner experience."
+    },
+    {
+      "quote_id": "q00693",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'her' is compatible with multiple base persons."
+    },
+    {
+      "quote_id": "q00694",
+      "person_signal": "unmarked",
+      "note": "One externally framed sentence about 'they' and 'he' is too locally limited to establish person independently."
+    },
+    {
+      "quote_id": "q00695",
+      "person_signal": "unmarked",
+      "note": "Scene description has no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00696",
+      "person_signal": "non_base",
+      "note": "Gnomic analogy about folk song using inclusive 'us.'"
+    },
+    {
+      "quote_id": "q00697",
+      "person_signal": "third",
+      "note": "Sustained external narration follows 'he,' enters his feelings, and anticipates his actions; generic 'you' appears only inside similes."
+    },
+    {
+      "quote_id": "q00698",
+      "person_signal": "non_base",
+      "note": "Aphorism rather than narrative."
+    },
+    {
+      "quote_id": "q00699",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'he' does not independently prove the controlling narrator's person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780307379962",
+      "title": "Doctor Zhivago - Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's authorized Part One excerpt sustains external third-person narration of Yura and other characters, including access to Yura's memories and feelings."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/370288484_Pojmatzhivoe_Antropomorfismer_i_Boris_Pasternaks_Doktor_Zhivago_Meddelelser_1996_No_76_Slavisk-baltisk_institutt_Universitetet_i_Oslo",
+      "title": "Pojmat' zhivoe: Antropomorfismer i Boris Pasternaks Doktor Zhivago",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This University of Oslo scholarly study explicitly identifies the prose as third-person, distinguishes it from Zhivago's attributed poems, and explains that the form permits movement among the large cast."
+    },
+    {
+      "url": "https://vestnik.tspu.ru/en/archive.html?article_id=4827&issue=11&year=2014",
+      "title": "The Metaphor in the Narrative Structure (Based on B. Pasternak's Novel Doctor Zhivago)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The peer-reviewed narratological study describes the novel's narrator as impersonal and its indirect narration as shifting among characters' viewpoints, supporting a nonparticipating controlling narrator."
+    },
+    {
+      "url": "https://www.coursehero.com/lit/Dr-Zhivago/",
+      "title": "Dr. Zhivago Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened study-guide overview explicitly states that the novel is narrated from a third-person omniscient point of view."
+    },
+    {
+      "url": "https://warinotherwords.exeter.ac.uk/items/show/10",
+      "title": "\u0414\u043e\u043a\u0442\u043e\u0440 \u0416\u0438\u0432\u0430\u0433\u043e \u00b7 War in Other Words",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The University of Exeter collection provides a cited interior extract from page 107 that externally narrates Gordon and villagers in third person, corroborating the opening and Goodreads passages."
+    }
+  ],
+  "search_log": [
+    "Searched \"Doctor Zhivago Boris Pasternak excerpt publisher third person narrator\" and opened the Penguin Random House authorized excerpt and the NPR/VPM excerpt.",
+    "Searched \"Doctor Zhivago narrative point of view third person omniscient scholarly\" and opened scholarly narratological sources from Tomsk State Pedagogical University, the University of Oslo/ResearchGate, and Slavic Review.",
+    "Searched exact phrases \"Doctor Zhivago\" \"third-person narrator\" and \"Doctor Zhivago\" \"third person narration\"; opened Course Hero's explicit whole-book description and the University of Pittsburgh dissertation result, whose preview was inaccessible.",
+    "Searched publisher, Google Books, Internet Archive, and library/repository routes; Google Books previews were non-English or limited, and no usable Internet Archive edition surfaced, while Penguin Random House and the University of Exeter supplied usable prose.",
+    "Checked for frame, diary, epistolary, multiple-narrator, and alternating-person complications; scholarly evidence instead distinguishes the third-person prose narrative from the concluding poems attributed to Zhivago."
+  ],
+  "person_note": "The controlling prose narrator is nonparticipating and third-person, moving among Yury, Lara, and other characters and sometimes entering their consciousness. Multiple sustained Goodreads event passages independently show that pattern, while the authorized opening and scholarly whole-book analyses corroborate it. First- and second-person material in the quote set is dialogue, gnomic address, free-indirect/generalized 'you,' or local embedded expression. Scholarly evidence specifically distinguishes the prose portions, which are about Yury in third person, from the concluding poems attributed to Yury; those poems do not create an alternating base prose narration. No credible contrary structural evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_010",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:39:15.261880+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d6cdf96d9f18ffbf7c68a9aa9c7a2c32d28916b181b5b2fdbf0ce3c5def33bfe"
+  }
+}

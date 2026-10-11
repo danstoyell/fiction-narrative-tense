@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:2728",
+  "quotes": [
+    {
+      "quote_id": "q01500",
+      "person_signal": "non_base",
+      "note": "Universal aphorism without diagnostic base-narrator participation."
+    },
+    {
+      "quote_id": "q01501",
+      "person_signal": "non_base",
+      "note": "Gnomic we/you addresses people generally, not a story protagonist."
+    },
+    {
+      "quote_id": "q01502",
+      "person_signal": "unmarked",
+      "note": "Generalized you occurs within parental reflection, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01503",
+      "person_signal": "unmarked",
+      "note": "Free-indirect reflection about specific characters lacks a diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q01504",
+      "person_signal": "third",
+      "note": "Sustained external narration names Mia and Pearl while entering Mia's thoughts."
+    },
+    {
+      "quote_id": "q01505",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms belong to Mia's dialogue."
+    },
+    {
+      "quote_id": "q01506",
+      "person_signal": "third",
+      "note": "Sustained she-narration presents a character's history and private reflection externally."
+    },
+    {
+      "quote_id": "q01507",
+      "person_signal": "unmarked",
+      "note": "Narratorial framing and rhetorical questions do not independently identify person."
+    },
+    {
+      "quote_id": "q01508",
+      "person_signal": "non_base",
+      "note": "You occurs in Mia's direct speech."
+    },
+    {
+      "quote_id": "q01509",
+      "person_signal": "non_base",
+      "note": "Second-person accusations are direct speech; the brief beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q01510",
+      "person_signal": "non_base",
+      "note": "The first-person statement is character speech, not base narration."
+    },
+    {
+      "quote_id": "q01511",
+      "person_signal": "non_base",
+      "note": "Dedication is paratext rather than narrative."
+    },
+    {
+      "quote_id": "q01512",
+      "person_signal": "non_base",
+      "note": "First-person phrasing belongs to an implied conversational utterance."
+    },
+    {
+      "quote_id": "q01513",
+      "person_signal": "unmarked",
+      "note": "Generalized you expresses free-indirect reasoning, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01514",
+      "person_signal": "unmarked",
+      "note": "A short she-centered observation alone cannot exclude a participating narrator."
+    },
+    {
+      "quote_id": "q01515",
+      "person_signal": "non_base",
+      "note": "I and you occur in a direct-address speech act."
+    },
+    {
+      "quote_id": "q01516",
+      "person_signal": "non_base",
+      "note": "The pronouns occur in dialogue attributed to Moody."
+    },
+    {
+      "quote_id": "q01517",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence reports a character's knowledge but provides limited narratorial context."
+    },
+    {
+      "quote_id": "q01518",
+      "person_signal": "unmarked",
+      "note": "A single sentence about his life is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q01519",
+      "person_signal": "third",
+      "note": "External he-narration enters the character's feelings; generalized you is free-indirect, not second-person base narration."
+    },
+    {
+      "quote_id": "q01520",
+      "person_signal": "non_base",
+      "note": "The passage is spoken reflection marked by conversational address."
+    },
+    {
+      "quote_id": "q01521",
+      "person_signal": "unmarked",
+      "note": "The brief she-centered observation is compatible with more than one base-narrator person."
+    },
+    {
+      "quote_id": "q01522",
+      "person_signal": "non_base",
+      "note": "The statement is dialogue attributed to Lexie."
+    },
+    {
+      "quote_id": "q01523",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a character's perceptions, reading, and relationship with Warren."
+    },
+    {
+      "quote_id": "q01524",
+      "person_signal": "third",
+      "note": "Extended third-person exposition moves through the focal character's past and judgments."
+    },
+    {
+      "quote_id": "q01525",
+      "person_signal": "unmarked",
+      "note": "The isolated she-centered reaction lacks enough context to establish narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.hachette.co.nz/downloads/Little-Fires-Everywhere--extract.pdf",
+      "title": "Little Fires Everywhere \u2014 Extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized 21-page extract sustains external third-person narration across Mrs. Richardson, Lexie, Moody, Mia, and Pearl, including access to several characters' thoughts."
+    },
+    {
+      "url": "https://www.harvardmagazine.com/2017/09/celeste-ng-little-fires-everywhere",
+      "title": "In \u201cLittle Fires Everywhere,\u201d a Custody Battle Ignites the Comfortable Suburbs",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes the novel's omniscient perspective and its movement among multiple character viewpoints."
+    },
+    {
+      "url": "https://time.com/5800174/little-fires-everywhere-hulu-review/",
+      "title": "Hulu's Little Fires Everywhere Doesn't Live Up to the Book",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "TIME explicitly characterizes the novel's narration as third person and notes that it distributes attention among many characters."
+    }
+  ],
+  "search_log": [
+    "Searched: site:penguinrandomhouse.com/books \"Little Fires Everywhere\" excerpt Celeste Ng.",
+    "Searched: \"Little Fires Everywhere\" \"third person\" narrator point of view.",
+    "Searched: \"Little Fires Everywhere\" excerpt chapter Celeste Ng.",
+    "Searched: Celeste Ng Little Fires Everywhere narrative point of view multiple perspectives.",
+    "Opened and reviewed the authorized Hachette extract, Harvard Magazine's whole-book description, and TIME's comparison of the novel and adaptation.",
+    "Penguin Random House Canada's excerpt page was located, but the accessible rendering did not expose sustained prose; it was not relied upon."
+  ],
+  "person_note": "The authorized opening extract uses sustained third-person narration and shifts focal attention among several characters without introducing a participating narrator. Interior Goodreads passages independently show the same external narration and access to characters' private thoughts. First-person forms occur in dialogue, while generalized you passages are aphoristic or free-indirect rather than sustained second-person narration. Two credible whole-book descriptions explicitly corroborate third-person omniscient or multi-viewpoint narration. No evidence indicates a sustained first- or second-person base section; the opening-only scope of the authorized extract is mitigated by the interior quotes and whole-book sources.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_060",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:40:01.153461+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "255fa5ce06c8493415f1a6957bb11c2b2a92d7af6a79babca177ad959321a9a3"
+  }
+}

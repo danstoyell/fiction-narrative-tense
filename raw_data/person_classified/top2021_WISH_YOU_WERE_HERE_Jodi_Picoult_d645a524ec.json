@@ -1,0 +1,366 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:WISH YOU WERE HERE|Jodi Picoult",
+  "quotes": [
+    {
+      "quote_id": "q05927",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using generic second person; it does not identify the story narrator."
+    },
+    {
+      "quote_id": "q05928",
+      "person_signal": "first",
+      "note": "The outside speech tag \u201cI say quietly\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q05929",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement with generic second person, not story-specific narration."
+    },
+    {
+      "quote_id": "q05930",
+      "person_signal": "first",
+      "note": "The narratorial clause \u201cas if I haven\u2019t spoken\u201d identifies a participating first-person observer."
+    },
+    {
+      "quote_id": "q05931",
+      "person_signal": "non_base",
+      "note": "Generalized reflection whose second person is universal rather than story-specific."
+    },
+    {
+      "quote_id": "q05932",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you statement, not evidence of second-person narration."
+    },
+    {
+      "quote_id": "q05933",
+      "person_signal": "non_base",
+      "note": "General reflection about grief without a diagnostic base-narrator marker."
+    },
+    {
+      "quote_id": "q05934",
+      "person_signal": "first",
+      "note": "\u201cI learned\u201d and the narrator\u2019s relationship history establish participating first-person recollection."
+    },
+    {
+      "quote_id": "q05935",
+      "person_signal": "non_base",
+      "note": "Externally attributed epigraph rather than the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q05936",
+      "person_signal": "non_base",
+      "note": "General maxim using generic second person."
+    },
+    {
+      "quote_id": "q05937",
+      "person_signal": "first",
+      "note": "\u201cI\u2019m wondering\u201d anchors the reflection in the participating narrator\u2019s present experience."
+    },
+    {
+      "quote_id": "q05938",
+      "person_signal": "first",
+      "note": "The narrator refers to what happened to \u201cme\u201d and what \u201cI\u201d learned."
+    },
+    {
+      "quote_id": "q05939",
+      "person_signal": "first",
+      "note": "The parenthetical \u201cI realize\u201d explicitly identifies the reflecting narrator."
+    },
+    {
+      "quote_id": "q05940",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment with generic second person."
+    },
+    {
+      "quote_id": "q05941",
+      "person_signal": "first",
+      "note": "\u201cI learned\u201d marks a specific first-person story experience."
+    },
+    {
+      "quote_id": "q05942",
+      "person_signal": "unmarked",
+      "note": "Narratorial exposition and generalized you/we language do not independently identify the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q05943",
+      "person_signal": "first",
+      "note": "The outside dialogue tag \u201cI ask Finn\u201d and \u201cme\u201d identify the participating narrator."
+    },
+    {
+      "quote_id": "q05944",
+      "person_signal": "non_base",
+      "note": "Collective inspirational generalization, not a specific narrated scene."
+    },
+    {
+      "quote_id": "q05945",
+      "person_signal": "non_base",
+      "note": "Gabriel\u2019s speech and its attribution do not establish the base narrator\u2019s person."
+    },
+    {
+      "quote_id": "q05946",
+      "person_signal": "non_base",
+      "note": "Generic-you maxim rather than sustained second-person story narration."
+    },
+    {
+      "quote_id": "q05947",
+      "person_signal": "non_base",
+      "note": "Rayanne\u2019s direct speech is a local character voice."
+    },
+    {
+      "quote_id": "q05948",
+      "person_signal": "non_base",
+      "note": "Extended gnomic advice uses universal you and quoted self-questions."
+    },
+    {
+      "quote_id": "q05949",
+      "person_signal": "first",
+      "note": "\u201cMy father\u2019s\u201d identifies the narrator as a participant in this specific scene."
+    },
+    {
+      "quote_id": "q05950",
+      "person_signal": "non_base",
+      "note": "Truncated general pandemic reflection lacks diagnostic base-narrator evidence."
+    },
+    {
+      "quote_id": "q05951",
+      "person_signal": "non_base",
+      "note": "Generic-you aphorism, not second-person narration."
+    },
+    {
+      "quote_id": "q05952",
+      "person_signal": "first",
+      "note": "The situated narrator states \u201cI don\u2019t know,\u201d within a collective pandemic experience."
+    },
+    {
+      "quote_id": "q05953",
+      "person_signal": "non_base",
+      "note": "General reflection using generic second person."
+    },
+    {
+      "quote_id": "q05954",
+      "person_signal": "non_base",
+      "note": "Generalized maxim without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05955",
+      "person_signal": "non_base",
+      "note": "Advice addressed to a generic you; \u201cI promise\u201d belongs to the gnomic address, not a demonstrated story scene."
+    },
+    {
+      "quote_id": "q05956",
+      "person_signal": "non_base",
+      "note": "Universal-you aphorism rather than story-specific second person."
+    },
+    {
+      "quote_id": "q05957",
+      "person_signal": "non_base",
+      "note": "Generic advice does not identify the base narrator."
+    },
+    {
+      "quote_id": "q05958",
+      "person_signal": "non_base",
+      "note": "Generalized perspective statement with generic you."
+    },
+    {
+      "quote_id": "q05959",
+      "person_signal": "non_base",
+      "note": "Direct conversational speech with no outside narratorial text."
+    },
+    {
+      "quote_id": "q05960",
+      "person_signal": "non_base",
+      "note": "A character\u2019s speculative speech and bare third-person action tag do not diagnose base narration."
+    },
+    {
+      "quote_id": "q05961",
+      "person_signal": "non_base",
+      "note": "Aphoristic generic-you statement."
+    },
+    {
+      "quote_id": "q05962",
+      "person_signal": "non_base",
+      "note": "Generalized first-person-plural reflection, not a specific narrated event."
+    },
+    {
+      "quote_id": "q05963",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d and \u201cmyself\u201d describe the participating narrator\u2019s self-observation."
+    },
+    {
+      "quote_id": "q05964",
+      "person_signal": "first",
+      "note": "\u201cMy eyes\u201d and \u201cI don\u2019t\u201d expose the narrator\u2019s immediate physical experience."
+    },
+    {
+      "quote_id": "q05965",
+      "person_signal": "first",
+      "note": "The thought tag \u201cI think\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q05966",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no story-specific narrator marker."
+    },
+    {
+      "quote_id": "q05967",
+      "person_signal": "first",
+      "note": "\u201cI also know\u201d anchors the reflection in the narrator\u2019s lived experience."
+    },
+    {
+      "quote_id": "q05968",
+      "person_signal": "first",
+      "note": "The realization tag \u201cI realize\u201d explicitly marks first-person narration."
+    },
+    {
+      "quote_id": "q05969",
+      "person_signal": "first",
+      "note": "Story-world pandemic exposition repeatedly includes the narrator in \u201cus\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q05970",
+      "person_signal": "non_base",
+      "note": "Rhetorical generic-you questions are gnomic rather than second-person narration."
+    },
+    {
+      "quote_id": "q05971",
+      "person_signal": "non_base",
+      "note": "Generic-you rhetorical question, not a narrated scene."
+    },
+    {
+      "quote_id": "q05972",
+      "person_signal": "first",
+      "note": "\u201cI look,\u201d \u201cI stand,\u201d and the narrator\u2019s immediate surroundings establish participating narration."
+    },
+    {
+      "quote_id": "q05973",
+      "person_signal": "unclear",
+      "note": "The truncated fragment supplies no recoverable narratorial structure."
+    },
+    {
+      "quote_id": "q05974",
+      "person_signal": "non_base",
+      "note": "Generalized observation without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05975",
+      "person_signal": "first",
+      "note": "\u201cHere is what I\u2019ve learned\u201d identifies the narrator\u2019s retrospective first-person voice."
+    },
+    {
+      "quote_id": "q05976",
+      "person_signal": "first",
+      "note": "\u201cI have been wrong\u201d expresses the participating narrator\u2019s present conclusion."
+    },
+    {
+      "quote_id": "q05977",
+      "person_signal": "non_base",
+      "note": "General contrast between tourists and locals lacks person evidence."
+    },
+    {
+      "quote_id": "q05978",
+      "person_signal": "first",
+      "note": "The outside tag \u201cI argue\u201d shows that the narrator participates in the conversation."
+    },
+    {
+      "quote_id": "q05979",
+      "person_signal": "first",
+      "note": "\u201cI suppose\u201d marks the participating narrator\u2019s observation."
+    },
+    {
+      "quote_id": "q05980",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d and \u201cme\u201d recount the narrator\u2019s relationships with her parents."
+    },
+    {
+      "quote_id": "q05981",
+      "person_signal": "non_base",
+      "note": "Conversational exchange with no outside narration."
+    },
+    {
+      "quote_id": "q05982",
+      "person_signal": "first",
+      "note": "\u201cWhen I touched his hand\u201d places the narrator inside the observed event."
+    },
+    {
+      "quote_id": "q05983",
+      "person_signal": "non_base",
+      "note": "A direct spoken confession with no external narratorial text."
+    },
+    {
+      "quote_id": "q05984",
+      "person_signal": "first",
+      "note": "The retrospective timeline explicitly centers \u201cI,\u201d extending first-person evidence to the later story."
+    },
+    {
+      "quote_id": "q05985",
+      "person_signal": "first",
+      "note": "The narrator repeatedly uses \u201cI\u201d and \u201cmyself\u201d in an ongoing self-assessment."
+    },
+    {
+      "quote_id": "q05986",
+      "person_signal": "first",
+      "note": "\u201cWe both know\u201d and the anticipated untangling include the narrator as a relationship participant."
+    },
+    {
+      "quote_id": "q05987",
+      "person_signal": "non_base",
+      "note": "Direct speech plus a bare third-person action beat does not establish the controlling narrator\u2019s person."
+    },
+    {
+      "quote_id": "q05988",
+      "person_signal": "first",
+      "note": "\u201cMy own mother and father\u201d and \u201cI\u201d identify the narrator as a story participant."
+    },
+    {
+      "quote_id": "q05989",
+      "person_signal": "non_base",
+      "note": "Generalized reflection about bereavement without diagnostic narrator-person evidence."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jodipicoult.com/wish-you-were-here.html",
+      "title": "Jodi Picoult \u00b7 Wish You Were Here (2021)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author\u2019s authorized sustained opening excerpt narrates Diana\u2019s actions, perceptions, memories, and relationship with Finn as \u201cI.\u201d"
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/articles/wish-you-were-here-excerpt/",
+      "title": "An Excerpt from Wish You Were Here",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher\u2019s sustained excerpt independently presents Diana as the participating first-person narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-wish-you-were-here/styles.html",
+      "title": "Jodi Picoult Writing Styles in Wish You Were Here",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly identifies Diana as the primary narrator and says that both Diana and Finn\u2019s occasional Part 1 emails use first person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cWish You Were Here Jodi Picoult official excerpt first chapter\u201d; opened the author and Penguin Random House excerpts.",
+    "Searched \u201cWish You Were Here Jodi Picoult point of view first person narrator Diana\u201d; opened the BookRags point-of-view study-guide material.",
+    "Searched \u201cWish You Were Here Jodi Picoult excerpt Diana I\u201d; opened ReadingGroupGuides, which reproduced first-person material extending into Diana\u2019s arrival on Isabela but was not needed as independent evidence.",
+    "Searched \u201cWish You Were Here Jodi Picoult multiple narrators narrative perspective\u201d; results about Picoult\u2019s other novels and generic multiple-POV recommendations were irrelevant dead ends."
+  ],
+  "person_note": "The controlling narrator is Diana, who narrates as a participating \u201cI.\u201d Numerous event passages independently expose that voice across immediate scenes, memories, pandemic experiences, family relationships, and the later three-year retrospective, so the quote evidence is not confined to isolated speech or an embedded document. The authorized author and publisher excerpts corroborate the first-person opening, while the whole-book study guide identifies Diana as primary and explains that Finn contributes only sporadic first-person emails in Part 1. Those emails add another first-person voice but do not create alternation between grammatical persons; under the methodology, multiple first-person narrators remain FIRST. Generic \u201cyou\u201d aphorisms, dialogue, and bare third-person speech beats are local or nondiagnostic. No credible contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_077",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:48:07.774525+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ce74ad6dcfa9e27c6bc7578598222e859530b9f59b09bb42f72eb5167d690e27"
+  }
+}

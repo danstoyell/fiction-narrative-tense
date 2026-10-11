@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:2746",
+  "quotes": [
+    {
+      "quote_id": "q00054",
+      "person_signal": "non_base",
+      "note": "A universal maxim uses generic \u201che\u201d and \u201cyou\u201d; it does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "non_base",
+      "note": "The first- and second-person language is character dialogue; the brief speech attribution is not diagnostic."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "third",
+      "note": "Panoramic historical exposition is delivered by a narrator outside the narrated era and action."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "The pronouns occur within collective character speech."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "third",
+      "note": "Sustained external scene narration frames a character\u2019s discovery, reaction, speech, and flight."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "unclear",
+      "note": "The fragment begins inside a quotation with its opening boundary missing, making the relation between speech, thought, and surrounding narration uncertain."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "third",
+      "note": "External narration frames several speakers and supplies broad knowledge of rumors circulating through London."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "unmarked",
+      "note": "The sentence reports Charles I\u2019s belief in the third person, but by itself does not exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "third",
+      "note": "The narrator surveys a publication, Susan\u2019s local protest, and consequences extending across generations from outside the story."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "unmarked",
+      "note": "This factual description of ownership contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "unmarked",
+      "note": "The broad historical generalization does not establish whether the narrator participates in the story."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "non_base",
+      "note": "The person-marked language belongs to the old man\u2019s speech; the intervening explanation is not person-diagnostic."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "non_base",
+      "note": "This is an impersonal proverb rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "third",
+      "note": "Sustained free-indirect narration presents a woman as \u201cshe\u201d while entering her memories, perceptions, and questions without a participating frame narrator."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both ends, so its local narratorial structure cannot be established responsibly."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "third",
+      "note": "An external historical narrator surveys a character\u2019s final year and explains the creation and function of a public institution."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "non_base",
+      "note": "The person-marked wording is Meredith\u2019s direct speech; the speech beat alone is not diagnostic."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "third",
+      "note": "External scene narration inventories the travelers and introduces John Harvard by name and background."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780345455680",
+      "title": "London | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized 54 BC excerpt sustains external third-person narration, identifies Segovax as \u201che,\u201d and enters his knowledge, feelings, and intentions without a participating narrator."
+    },
+    {
+      "url": "https://virtualo.pl/ebook/londyn-i361222/",
+      "title": "Ebook Londyn, Edward Rutherfurd - Virtualo.pl",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This licensed Polish-language excerpt from the interior Saxon narrative sustains third-person narration across Elfgiva, Offa, and Cerdic, including access to multiple characters\u2019 thoughts; it supplies independent interior corroboration beyond the English opening."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cEdward Rutherfurd London novel excerpt first chapter,\u201d \u201cLondon Edward Rutherfurd point of view third person narrator,\u201d and Google Books/excerpt variants.",
+    "Opened the Penguin Random House publisher and retail pages; the retail page exposed the authorized 54 BC prose excerpt, while the main product page offered a sample control and whole-book description.",
+    "Searched for interior passages using \u201cLondinium Edward Rutherfurd excerpt\u201d and located a licensed Virtualo Polish excerpt containing sustained Saxon-era narration across several focal characters.",
+    "Searched targeted combinations with \u201comniscient,\u201d \u201cthird-person,\u201d \u201cnarrator,\u201d and \u201cpoint of view\u201d; results were mostly generic, irrelevant, or structural reviews rather than explicit whole-book POV analysis. The archived New York Times first-chapter page was blocked by robots.txt."
+  ],
+  "person_note": "The Goodreads excerpts repeatedly show a nonparticipating historical narrator moving across eras, scenes, and characters, with broad temporal knowledge and access to characters\u2019 inner lives. The official English opening and a licensed interior translation independently exhibit the same third-person method. First- and second-person forms in the quotes are dialogue or generic maxims, not autonomous narrative sections. No credible evidence of sustained first- or second-person base narration was found. The main limitation is the absence of an explicit whole-book POV statement, but the agreement of two Tier A passages from different sections with numerous quotes from widely separated historical episodes supports THIRD at high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_030",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:44:53.650134+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "70c021aa828d708b93d0d6bf3fe4dc32fe8dbe57a2429c5904dea1f43089c5b9"
+  }
+}

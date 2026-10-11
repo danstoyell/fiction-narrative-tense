@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1995:5413",
+  "quotes": [
+    {
+      "quote_id": "q03421",
+      "person_signal": "non_base",
+      "note": "Character speech using I and you; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q03422",
+      "person_signal": "unmarked",
+      "note": "Brief third-person reflection about two characters, without enough context to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q03423",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Annie; the pronouns belong to a character."
+    },
+    {
+      "quote_id": "q03424",
+      "person_signal": "third",
+      "note": "Sustained authorial history ranges across prehistoric horses, humans, and whisperers from a nonparticipating narrating position; generic you is not second-person story narration."
+    },
+    {
+      "quote_id": "q03425",
+      "person_signal": "non_base",
+      "note": "Unattributed gnomic statement with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q03426",
+      "person_signal": "non_base",
+      "note": "Character speech; its generalized address does not identify the base narration."
+    },
+    {
+      "quote_id": "q03427",
+      "person_signal": "unmarked",
+      "note": "A short third-person representation of a woman's belief, but too little context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03428",
+      "person_signal": "unmarked",
+      "note": "Bare third-person reference without sufficient narratorial context."
+    },
+    {
+      "quote_id": "q03429",
+      "person_signal": "non_base",
+      "note": "Direct character speech using generalized it; nondiagnostic of narrative person."
+    },
+    {
+      "quote_id": "q03430",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Grace's actions, perceptions, thoughts, and surroundings without a participating narrator."
+    },
+    {
+      "quote_id": "q03431",
+      "person_signal": "unmarked",
+      "note": "The dialogue is non-base, while the short third-person speech beat alone is insufficient to establish the book-level narrator."
+    },
+    {
+      "quote_id": "q03432",
+      "person_signal": "unmarked",
+      "note": "A single third-person sentence focalized through Annie; insufficient by itself to exclude participating narration."
+    },
+    {
+      "quote_id": "q03433",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person plural us is universal rather than a participating narrator."
+    },
+    {
+      "quote_id": "q03434",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both ends, preventing reliable attribution or structural interpretation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.nicholasevans.com/books/the-horse-whisperer/excerpt/",
+      "title": "The Horse Whisperer \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized, permission-cleared opening sustains third-person narration across Grace, Judith, Wayne, and the horses, including access to several characters' perceptions and thoughts; it contains no participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-horse-whisperer/styles.html",
+      "title": "Nicholas Evans Writing Styles in The Horse Whisperer",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel's narrator as third-person omniscient and describes its access to the actions, thoughts, and emotions of multiple main characters."
+    },
+    {
+      "url": "https://www.nicholasevans.com/about-nicholas-evans/faq/",
+      "title": "Nicholas Evans \u2014 FAQ",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Evans describes telling the book through the viewpoints of its main characters and entering their inner lives. This confirms the multi-character structure but does not, by itself, specify grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Horse Whisperer\" Nicholas Evans excerpt and opened the authorized excerpt on the author's site.",
+    "Searched \"The Horse Whisperer\" Nicholas Evans point of view, narrator, third person, and alternating point of view; opened the author's FAQ and BookRags point-of-view analysis.",
+    "Searched publisher and library routes, including Penguin Random House, Hachette, and Google Books; their accessible pages supplied catalog or promotional material rather than additional diagnostic prose.",
+    "Searched for interior passages using \"For almost a minute they stood there\" and chapter-specific queries; a journal search result referenced pages 221\u2013222, but its PDF was blocked by a browser challenge and was not used as evidence.",
+    "Searched the horse-history passage beginning \"It was in America that horses first roamed\" to check for an embedded document; results mainly reproduced the novel quotation or the film screenplay and did not establish contrary first- or second-person narration."
+  ],
+  "person_note": "The controlling narration is third person. The long Goodreads opening scene is diagnostic and matches the authorized excerpt, which moves among Grace, Judith, and Wayne while narrating their perceptions and thoughts externally. The historical horse passage likewise presents a nonparticipating authorial voice; its generic you does not create second-person narration. Shorter third-person quotations were conservatively left unmarked, and all first-person language occurs in dialogue or gnomic material. The whole-book point-of-view description explicitly corroborates third-person omniscience, while Evans's account of using several main-character viewpoints is consistent with shifting third-person focalization rather than alternating grammatical persons. No credible contrary person structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_028",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:20:06.209669+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e4c9316deaf3dc7c42a694d91d8c5000fd74348c29166f56e24489fabd36cf24"
+  }
+}

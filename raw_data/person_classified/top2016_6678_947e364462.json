@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:6678",
+  "quotes": [
+    {
+      "quote_id": "q00687",
+      "person_signal": "non_base",
+      "note": "A general aphorism, possibly continuing dialogue, with no diagnostic base-narrator voice."
+    },
+    {
+      "quote_id": "q00688",
+      "person_signal": "non_base",
+      "note": "Pippin's first-person speech; the pronouns belong to a character, not the base narrator."
+    },
+    {
+      "quote_id": "q00689",
+      "person_signal": "third",
+      "note": "Sustained external narration describes several characters and Geismar's emotional response without a participating narrator."
+    },
+    {
+      "quote_id": "q00690",
+      "person_signal": "non_base",
+      "note": "The first-person plural occurs in character speech rather than base narration."
+    },
+    {
+      "quote_id": "q00691",
+      "person_signal": "third",
+      "note": "Extended external narration names Lacy and reports her private contentment and preferences."
+    },
+    {
+      "quote_id": "q00692",
+      "person_signal": "third",
+      "note": "In continuity with the preceding Lacy passage, the external narrator reports her attitude toward society's presumption."
+    },
+    {
+      "quote_id": "q00693",
+      "person_signal": "non_base",
+      "note": "A character's assertion about Omar, identified upstream as dialogue, does not expose the narrator."
+    },
+    {
+      "quote_id": "q00694",
+      "person_signal": "non_base",
+      "note": "A rhetorical question from speech or an embedded complaint, not base narration."
+    },
+    {
+      "quote_id": "q00695",
+      "person_signal": "third",
+      "note": "Sustained external scene description identifies and characterizes the driver as he."
+    },
+    {
+      "quote_id": "q00696",
+      "person_signal": "non_base",
+      "note": "Generalized rhetoric embedded in quoted judicial language is not the base voice."
+    },
+    {
+      "quote_id": "q00697",
+      "person_signal": "non_base",
+      "note": "Second-person congratulatory speech and 'Cheers!' are direct address, not second-person narration."
+    },
+    {
+      "quote_id": "q00698",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'She' may be base narration but is too short by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q00699",
+      "person_signal": "third",
+      "note": "Extended external exposition moves from Junior Mace's condition to corrections experts and Florida policy without a participating narrator."
+    },
+    {
+      "quote_id": "q00700",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in a character's sustained explanation and questions."
+    },
+    {
+      "quote_id": "q00701",
+      "person_signal": "unmarked",
+      "note": "A brief backstory sentence about Duncan contains no diagnostic narrator reference and could locally be spoken exposition."
+    },
+    {
+      "quote_id": "q00702",
+      "person_signal": "unclear",
+      "note": "The fragment ends before its narrative structure can be established."
+    },
+    {
+      "quote_id": "q00703",
+      "person_signal": "unclear",
+      "note": "Both ends are clipped, leaving the identities and local narration-versus-speech boundary unresolved."
+    },
+    {
+      "quote_id": "q00704",
+      "person_signal": "unmarked",
+      "note": "The summary concerns unnamed lawyers and investigators as 'they' but does not independently expose the narrator's participation."
+    },
+    {
+      "quote_id": "q00705",
+      "person_signal": "unmarked",
+      "note": "Setting exposition contains no participating narrator or sustained character reference."
+    },
+    {
+      "quote_id": "q00706",
+      "person_signal": "third",
+      "note": "Sustained external courtroom narration follows the judge and Claudia, including Claudia's apparent physical wavering."
+    },
+    {
+      "quote_id": "q00707",
+      "person_signal": "non_base",
+      "note": "The first-person account of keeping distance is a character's speech."
+    },
+    {
+      "quote_id": "q00708",
+      "person_signal": "third",
+      "note": "External narration contrasts Vonn and Claudia and reports Claudia's fading appetite and anticipated travel."
+    },
+    {
+      "quote_id": "q00709",
+      "person_signal": "non_base",
+      "note": "First-person self-description and second-person questions belong to a character addressing another character."
+    },
+    {
+      "quote_id": "q00710",
+      "person_signal": "non_base",
+      "note": "Repeated 'you' forms are direct address within dialogue, not controlling second-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.cbsnews.com/news/excerpt-john-grishams-the-whistler/",
+      "title": "Excerpt: John Grisham\u2019s \u201cThe Whistler\u201d",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Doubleday Chapter 1 excerpt sustains external narration of Lacy, Hugo, and Myers, including their perceptions and attitudes."
+    },
+    {
+      "url": "https://ew.com/article/2016/10/18/john-grisham-whistler-chapter-2/",
+      "title": "John Grisham's The Whistler Chapter 2",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "This exclusive prepublication Chapter 2 excerpt continues sustained third-person narration across Lacy, Hugo, and Myers; first-person passages are clearly delimited dialogue."
+    },
+    {
+      "url": "https://ew.com/article/2016/10/19/john-grisham-whistler-chapter-3/",
+      "title": "John Grisham's The Whistler Chapter 3",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The complete Chapter 3 excerpt uses external third-person narration and moves among several characters' circumstances and thoughts."
+    },
+    {
+      "url": "https://ew.com/article/2016/10/20/john-grisham-whistler-chapter-4/",
+      "title": "John Grisham's 'The Whistler' Chapter 4",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The Chapter 4 excerpt maintains third-person narration through historical exposition and Lacy's private reactions."
+    },
+    {
+      "url": "https://ew.com/article/2016/10/21/john-grisham-whistler-chapter-5/",
+      "title": "John Grisham's 'The Whistler' Chapter 5",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The Chapter 5 excerpt continues external narration around Lacy, Hugo, and Junior Mace; Mace's first-person account remains quoted speech."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-whistler/styles.html",
+      "title": "John Grisham Writing Styles in The Whistler",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the entire novel as using an omniscient third-person narrator and a linear timeline."
+    }
+  ],
+  "search_log": [
+    "Searched: \"John Grisham The Whistler excerpt first chapter publisher\"; opened the CBS/Doubleday Chapter 1 excerpt and Penguin Random House title page.",
+    "Searched: \"The Whistler John Grisham point of view third person narrator\"; opened the BookRags whole-book point-of-view description.",
+    "Searched: \"site:books.google.com The Whistler John Grisham excerpt\"; no accessible diagnostic Google Books passage was returned.",
+    "Searched: \"The Whistler Grisham alternating point of view multiple narrators\"; found no credible evidence of sustained narration in another grammatical person.",
+    "Opened the promotional The Whistler excerpt hub and its Entertainment Weekly Chapters 2-5 links; the excerpts consistently use third-person base narration."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly present Lacy, Hugo, Claudia, Geismar, and other characters from a nonparticipating external position. Their agreement with five sustained authorized or exclusive opening-chapter excerpts establishes third-person base narration, while the whole-book study guide explicitly corroborates that structure. First- and second-person forms in the quote set are confined to dialogue, rhetoric, or direct address and therefore do not create an alternating strand. The main limitation is that the primary excerpts cover Chapters 1-5 rather than the entire novel, but the dispersed Goodreads scenes and explicit whole-book description supply independent coverage, with no credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_058",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:12:40.964915+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1fad05b9c79ccfc78c427b4a94ce70575f75817a5abcbe25a47d94563cbb807f"
+  }
+}

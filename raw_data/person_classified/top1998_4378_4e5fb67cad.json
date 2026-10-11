@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:4378",
+  "quotes": [
+    {
+      "quote_id": "q00085",
+      "person_signal": "non_base",
+      "note": "General maxim with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00086",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the outside speech beat does not establish the narrator."
+    },
+    {
+      "quote_id": "q00087",
+      "person_signal": "non_base",
+      "note": "Character speech or direct address, not base narration."
+    },
+    {
+      "quote_id": "q00088",
+      "person_signal": "unclear",
+      "note": "Quotation boundaries are absent, so speech versus unanchored narration remains unresolved."
+    },
+    {
+      "quote_id": "q00089",
+      "person_signal": "unmarked",
+      "note": "A single sentence representing an unnamed character as she is insufficient by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00090",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q00091",
+      "person_signal": "non_base",
+      "note": "Dialogue pronouns identify speakers, not the base narrator."
+    },
+    {
+      "quote_id": "q00092",
+      "person_signal": "non_base",
+      "note": "Character exchange; you and us occur inside speech."
+    },
+    {
+      "quote_id": "q00093",
+      "person_signal": "unmarked",
+      "note": "Generic you expresses a general observation rather than sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00094",
+      "person_signal": "non_base",
+      "note": "General proposition without narrator participation evidence."
+    },
+    {
+      "quote_id": "q00095",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in character dialogue."
+    },
+    {
+      "quote_id": "q00096",
+      "person_signal": "non_base",
+      "note": "Character speech containing generalized observations."
+    },
+    {
+      "quote_id": "q00097",
+      "person_signal": "non_base",
+      "note": "You occurs in dialogue or generalized direct address, not base narration."
+    },
+    {
+      "quote_id": "q00098",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement without person evidence."
+    },
+    {
+      "quote_id": "q00099",
+      "person_signal": "non_base",
+      "note": "Gnomic generic you is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00100",
+      "person_signal": "unmarked",
+      "note": "Narratorial or free-indirect fragment, but it contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q00101",
+      "person_signal": "non_base",
+      "note": "All person markers occur within an extended speech."
+    },
+    {
+      "quote_id": "q00102",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to character speech."
+    },
+    {
+      "quote_id": "q00103",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00104",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narration refers to both focal characters externally by name and third-person pronoun."
+    },
+    {
+      "quote_id": "q00105",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical statement; me does not expose a participating story narrator."
+    },
+    {
+      "quote_id": "q00106",
+      "person_signal": "third",
+      "note": "Close base narration renders the focal character's conditional thought consistently as she rather than as a participating I."
+    },
+    {
+      "quote_id": "q00107",
+      "person_signal": "third",
+      "note": "Sustained close narration names Vix externally, projects her future, and reports her private vow in third person."
+    },
+    {
+      "quote_id": "q00108",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur in character speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://judyblume.com/judy-blume-books/adult-books/summer-sisters-prologue/",
+      "title": "Summer Sisters: Read the Prologue \u2013 Judy Blume on the Web",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized prologue sustains external narration of Victoria and Caitlin, including Victoria's private thoughts, in third person."
+    },
+    {
+      "url": "https://www.supersummary.com/summer-sisters/major-character-analysis/",
+      "title": "Summer Sisters Character Analysis | SuperSummary",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly describes an omniscient third-person narrator centered mostly on Vix that regularly cuts to other characters' perspectives."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-summer-sisters/styles.html",
+      "title": "Judy Blume Writing Styles in Summer Sisters",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis explicitly identifies Vix's majority narration as third person and describes the interspersed material as shifts of third-person viewpoint."
+    },
+    {
+      "url": "https://cannonballread.com/2022/07/summer-sisters-1998-drmllz/",
+      "title": "Summer Sisters (1998) by Judy Blume \u2013 Cannonball Read",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The review describes the secondary-character glimpses and reproduces an interior example in which Abby's private thoughts are rendered as she, corroborating shifting third-person focalization."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2006/3/1/tome-raider-summer-sisters-in-her/",
+      "title": "Tome Raider: Summer Sisters | The Harvard Crimson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "This review ambiguously calls the interspersed viewpoints 'first person perspectives,' but describes them as inner monologues; more precise structural sources and the available prose show third-person grammar."
+    }
+  ],
+  "search_log": [
+    "Searched \"Judy Blume Summer Sisters excerpt first chapter official\" and opened the authorized prologue on Judy Blume's site and the permissioned BookBrowse reproduction.",
+    "Searched \"Summer Sisters Judy Blume point of view third person narrator\" and opened the BookRags whole-book point-of-view analysis.",
+    "Searched \"Summer Sisters first person perspectives\" and \"Summer Sisters third-person narrator\" to investigate whether the secondary-character sections change grammatical person.",
+    "Opened SuperSummary's character analysis, which explicitly identifies an omniscient third-person narrator that cuts among characters.",
+    "Opened an interior-passage review at Cannonball Read; its quoted secondary-character passage remains in third person.",
+    "The Harvard Crimson's ambiguous phrase \"first person perspectives\" prompted follow-up searches; explicit grammatical descriptions and available prose indicate it refers loosely to access to characters' perspectives, not sustained first-person narration.",
+    "Google Books and Open Library/Internet Archive previews were checked, but their searchable previews did not expose a usable sustained authorized interior excerpt."
+  ],
+  "person_note": "The base narration is third person, primarily close to Vix but with brief shifts into other characters' perspectives. The diagnostic Goodreads passages q00104, q00106, and q00107 agree with the authorized third-person prologue and whole-book structural descriptions. Dialogue, maxims, and generic you statements do not alter the narrator classification. One review loosely described the inserted viewpoints as \"first person perspectives,\" but the more precise analyses identify a third-person narrator throughout, and an available secondary-character passage also uses third-person grammar. The main remaining limitation is the absence of a sustained authorized interior excerpt, mitigated by the independent interior quotes and multiple whole-book descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_032",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:56:42.751113+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fb331e7f08bffdf0012b701cef1ee35ed5d1c5daefabcefa563dd1410969b234"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:6406",
+  "quotes": [
+    {
+      "quote_id": "q01652",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection; no story-specific you protagonist."
+    },
+    {
+      "quote_id": "q01653",
+      "person_signal": "unmarked",
+      "note": "Collective experience is described, but the clipped they passage does not establish narrator participation."
+    },
+    {
+      "quote_id": "q01654",
+      "person_signal": "third",
+      "note": "Sustained external narration accesses Almondine's memories and perceptions; generic you occurs within reflection."
+    },
+    {
+      "quote_id": "q01655",
+      "person_signal": "non_base",
+      "note": "Character conversation; brief speech tags do not establish narrative person."
+    },
+    {
+      "quote_id": "q01656",
+      "person_signal": "unmarked",
+      "note": "Generalized you reflection with a brief reference to Almondine; insufficient local context to identify the narrator."
+    },
+    {
+      "quote_id": "q01657",
+      "person_signal": "non_base",
+      "note": "Trudy's speech addresses Edgar; the pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q01658",
+      "person_signal": "non_base",
+      "note": "Descriptive fragment in gnomic material; no diagnostic narrator."
+    },
+    {
+      "quote_id": "q01659",
+      "person_signal": "non_base",
+      "note": "A character addresses another person and describes himself; not base narration."
+    },
+    {
+      "quote_id": "q01660",
+      "person_signal": "non_base",
+      "note": "First-person reminiscence explicitly framed by he said."
+    },
+    {
+      "quote_id": "q01661",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q01662",
+      "person_signal": "non_base",
+      "note": "Conversation includes recollected speech; I and we belong to speakers."
+    },
+    {
+      "quote_id": "q01663",
+      "person_signal": "third",
+      "note": "Sustained scene follows Edgar's actions and private hopes through an external narrator; self-address is marked as thought."
+    },
+    {
+      "quote_id": "q01664",
+      "person_signal": "non_base",
+      "note": "Signed and spoken conversation, with first-person statements belonging to the woman."
+    },
+    {
+      "quote_id": "q01665",
+      "person_signal": "non_base",
+      "note": "Question and first-person answer are character dialogue."
+    },
+    {
+      "quote_id": "q01666",
+      "person_signal": "non_base",
+      "note": "Conversational reassurance; personal pronouns belong to speech."
+    },
+    {
+      "quote_id": "q01667",
+      "person_signal": "unmarked",
+      "note": "A single statement about him does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01668",
+      "person_signal": "third",
+      "note": "External narration tracks his private uncertainty and the development of his feelings across several sentences."
+    },
+    {
+      "quote_id": "q01669",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection on death; your does not establish sustained second-person narration."
+    },
+    {
+      "quote_id": "q01670",
+      "person_signal": "third",
+      "note": "Narration conveys a character's expectations and explicitly identifies what had never occurred to him."
+    },
+    {
+      "quote_id": "q01671",
+      "person_signal": "unmarked",
+      "note": "Dialogue with brief external action beats; the beats alone do not identify narrator participation."
+    },
+    {
+      "quote_id": "q01672",
+      "person_signal": "third",
+      "note": "Sustained Almondine section narrates her sensations, expectations, and behavior in third person."
+    },
+    {
+      "quote_id": "q01673",
+      "person_signal": "non_base",
+      "note": "The excerpts match character speech in q01664 and q01657, resolving the stripped attribution without changing the upstream bucket."
+    },
+    {
+      "quote_id": "q01674",
+      "person_signal": "third",
+      "note": "Narration accesses his unarticulated feelings and knowledge, with generalized reflections embedded in that perspective."
+    },
+    {
+      "quote_id": "q01675",
+      "person_signal": "third",
+      "note": "Narrator projects the memories and feelings of multiple human and canine characters, indicating an external position."
+    },
+    {
+      "quote_id": "q01676",
+      "person_signal": "third",
+      "note": "Extended Almondine focalization narrates her memories and grief externally while also discussing Trudy and Edgar."
+    },
+    {
+      "quote_id": "q01677",
+      "person_signal": "third",
+      "note": "External attribution of his feelings and imagined choices frames the general reflections."
+    },
+    {
+      "quote_id": "q01678",
+      "person_signal": "unclear",
+      "note": "Clipped first-person recollection lacks speech boundaries or attribution. Targeted searches did not recover its surrounding context; possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01679",
+      "person_signal": "third",
+      "note": "Scene narration frames the man's speech and accesses Edgar's private uncertainty about his meaning."
+    },
+    {
+      "quote_id": "q01680",
+      "person_signal": "third",
+      "note": "Sustained narration accesses the mother's expectations and thoughts about Edgar from an external position."
+    },
+    {
+      "quote_id": "q01681",
+      "person_signal": "non_base",
+      "note": "Commentary about writing and reading novels does not identify the story's base narrator."
+    },
+    {
+      "quote_id": "q01682",
+      "person_signal": "third",
+      "note": "Scene is focalized through Edgar's private interpretation of Henry while both remain externally narrated characters."
+    },
+    {
+      "quote_id": "q01683",
+      "person_signal": "unmarked",
+      "note": "Explanation of kennel rules contains no diagnostic narrative-person marker."
+    },
+    {
+      "quote_id": "q01684",
+      "person_signal": "third",
+      "note": "Narration presents Almondine's inward relationship to Edgar, corroborated by the scholarly discussion of this passage."
+    },
+    {
+      "quote_id": "q01685",
+      "person_signal": "third",
+      "note": "The narrator explicitly frames Edgar's suppositions, with his father's terminology embedded locally."
+    },
+    {
+      "quote_id": "q01686",
+      "person_signal": "non_base",
+      "note": "Bibliographic or acknowledgment fragment."
+    },
+    {
+      "quote_id": "q01687",
+      "person_signal": "unmarked",
+      "note": "Clipped abstract thought with no identifiable thinker or narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/2128/page_number/6/the-story-of-edgar-sawtelle",
+      "title": "The Story of Edgar Sawtelle \u2014 authorized excerpt, page 6",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-permission excerpt sustains external narration of family history and Edgar's imagined reconstruction of Schultz's life. Supports the opening portion, not independently the whole book."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-story-of-edgar-sawtelle/style.html",
+      "title": "David Wroblewski Writing Styles in The Story of Edgar Sawtelle",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies third-person omniscient narration throughout, with perspectives shifting among Edgar, Trudy, Claude, and Almondine."
+    },
+    {
+      "url": "https://ir.canterbury.ac.nz/bitstreams/77e00e87-e68e-46c6-aaf3-b75f38b3456e/download",
+      "title": "A Canine-Centric Critique of Selected Dog Narratives",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Scholarly discussion of Almondine's focalization, especially printed pages 42 and 107\u2013108, reproduces third-person passages from early and late in the novel. Supports interpreting canine perspective as focalization rather than first-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched David Wroblewski Story Edgar Sawtelle excerpt; opened the publisher-permission BookBrowse excerpt and the author's book page.",
+    "Searched \"The Story of Edgar Sawtelle\" \"third person\" and \"The Story of Edgar Sawtelle\" \"narrator\" \"third\"; opened BookRags' explicit whole-book point-of-view description.",
+    "Searched \"The Story of Edgar Sawtelle\" \"point of view\" chapters and \"Sawtelle\" \"first-person\" narration; found shifting human and canine focalization, with no supported autonomous first-person sections.",
+    "Opened the University of Canterbury scholarly thesis and inspected its Almondine passages and structural discussion; a search within the PDF for third-person returned no exact match.",
+    "Searched \"Edgar Sawtelle\" \"from the look on his face\", \"Edgar Sawtelle\" \"lucky ones\" Henry, \"Sawtelle\" \"And from the look\", and \"Sawtelle\" \"one of the lucky ones\". Found the same isolated Goodreads quotation but no surrounding attribution for q01678."
+  ],
+  "person_note": "A nonparticipating third-person narrator moves among human and canine perspectives. Sustained Goodreads scenes agree with the authorized excerpt, scholarly discussion of Almondine's sections, and explicit whole-book description. Dialogue and generic you reflections do not establish other base persons; q01673 is identifiable speech through matching input passages. The remaining uncertainty is the precise local attribution of q01678, which remains unclear rather than being promoted to first-person base narration. No credible evidence establishes sustained mixed-person sections.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_047",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T17:32:46.270217+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8fc2d574b9c519e6eeaf3bbfb885c9a3f7e2a399f49917ee38d24cff5b1aa426"
+  }
+}

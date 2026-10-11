@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:4918",
+  "quotes": [
+    {
+      "quote_id": "q01020",
+      "person_signal": "non_base",
+      "note": "General maxim with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01021",
+      "person_signal": "non_base",
+      "note": "Character dialogue; its claims and pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01022",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; the brief third-person action beats do not independently establish the controlling narration."
+    },
+    {
+      "quote_id": "q01023",
+      "person_signal": "non_base",
+      "note": "Character speech rather than base narration."
+    },
+    {
+      "quote_id": "q01024",
+      "person_signal": "non_base",
+      "note": "General historical maxim without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01025",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison with no story-specific person evidence."
+    },
+    {
+      "quote_id": "q01026",
+      "person_signal": "non_base",
+      "note": "General maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01027",
+      "person_signal": "non_base",
+      "note": "Generic 'you' in a maxim, not sustained second-person narration of a protagonist."
+    },
+    {
+      "quote_id": "q01028",
+      "person_signal": "non_base",
+      "note": "Character dialogue and abstract reflection."
+    },
+    {
+      "quote_id": "q01029",
+      "person_signal": "non_base",
+      "note": "Character speech rather than controlling narration."
+    },
+    {
+      "quote_id": "q01030",
+      "person_signal": "non_base",
+      "note": "Questions addressed within dialogue; 'you' is not base second-person narration."
+    },
+    {
+      "quote_id": "q01031",
+      "person_signal": "unclear",
+      "note": "The first-person statement lacks attribution, so speech, thought, and narration cannot be distinguished locally."
+    },
+    {
+      "quote_id": "q01032",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic person evidence."
+    },
+    {
+      "quote_id": "q01033",
+      "person_signal": "unmarked",
+      "note": "The third-person thought tag is suggestive, but this isolated sentence is too brief to establish the controlling narratorial position."
+    },
+    {
+      "quote_id": "q01034",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside an explicit threat spoken by a character."
+    },
+    {
+      "quote_id": "q01035",
+      "person_signal": "non_base",
+      "note": "General observation about faith rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01036",
+      "person_signal": "non_base",
+      "note": "Expository character dialogue; third-person references concern its subject matter, not the narrator."
+    },
+    {
+      "quote_id": "q01037",
+      "person_signal": "non_base",
+      "note": "Opened contextual evidence restores 'Teabing said,' showing this is dialogue; the event bucket appears to be an upstream clipping issue."
+    },
+    {
+      "quote_id": "q01038",
+      "person_signal": "third",
+      "note": "Sustained narration externally names Langdon, summarizes his past, and renders his outlook without a participating narrator frame."
+    },
+    {
+      "quote_id": "q01039",
+      "person_signal": "non_base",
+      "note": "Conversation between characters, not base narration."
+    },
+    {
+      "quote_id": "q01040",
+      "person_signal": "non_base",
+      "note": "Gnomic 'we' is generic and does not expose a participating narrator."
+    },
+    {
+      "quote_id": "q01041",
+      "person_signal": "unmarked",
+      "note": "Reporting that Robert wondered is compatible with third-person narration, but the isolated sentence lacks enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01042",
+      "person_signal": "unclear",
+      "note": "An unattributed exclamation with unresolved speech or thought boundaries."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://danbrown.com/books/novels/the-da-vinci-code/",
+      "title": "The Da Vinci Code | Novels | Robert Langdon (2) | Dan Brown Official Website",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The authorized excerpt presents extended Chapters 3 and 6 scenes through external references to Langdon and other characters, including access to their thoughts, with no participating narrator."
+    },
+    {
+      "url": "https://www.pala.ac.uk/uploads/2/5/1/0/25105678/vanderbom2009.pdf",
+      "title": "Point of View in The Da Vinci Code",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly stylistic study samples the beginning, middle, ending, and epilogue and classifies the novel as Category B Reflector, explicitly defined as third-person narrative; shifts among Langdon and other focalizers remain within that person."
+    },
+    {
+      "url": "https://www.scirp.org/pdf/als_2020050915184772.pdf",
+      "title": "The Narrative Characteristics of The Da Vinci Code",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The narratological analysis describes the novel's controlling narrator as omniscient, extradiegetic, heterodiegetic, and absent as a character from the story."
+    },
+    {
+      "url": "https://www.bethinking.org/jesus/jesus-followers-fabricated-the-stories-and-sayings-of-jesus",
+      "title": "Jesus' followers fabricated the stories and sayings of Jesus",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The opened passage identifies q01037 as Teabing's speech in a discussion with Sophie, so its apparent narration is local dialogue evidence only."
+    }
+  ],
+  "search_log": [
+    "Searched site:danbrown.com and site:penguinrandomhouse.com for The Da Vinci Code excerpts; opened the authorized Dan Brown excerpt, while the Penguin Random House page exposed a sample control but not usable prose.",
+    "Searched \"The Da Vinci Code\" with \"point of view,\" \"third person,\" \"narrator,\" and scholarly terms; opened PALA and Advances in Literary Study analyses that explicitly describe third-person, nonparticipating narration.",
+    "Searched for epistolary, frame-narrative, multiple-narrator, and alternating first-/third-person structures; results described changing focal characters within third person and produced no credible evidence of alternating grammatical person.",
+    "Searched exact text from q01031, q01033, q01037, and q01041; q01031 remained unattributed, while opened context for q01037 restored the Teabing speech tag.",
+    "The Cambridge Companion excerpt located for q01037 timed out when opened, so it was not relied upon; an accessible opened source independently supplied the same dialogue attribution."
+  ],
+  "person_note": "The diagnostic Goodreads passage q01038 agrees with an authorized multi-chapter excerpt and two scholarly structural analyses: the base narrator is a nonparticipating third-person narrator who moves among characters and renders their consciousness. Changes of focalizer do not constitute changes of narrative person. Dialogue, generic maxims, and character thoughts\u2014including locally first-person direct thoughts\u2014are embedded material rather than autonomous first-person sections. The only residual uncertainty is the local attribution of q01031, which is too isolated to affect the well-supported whole-book classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_038",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:33:33.841576+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "671da43a63ef1e32f1b8d64427b95b88d064002ad12a780907c727cc0808cdfa"
+  }
+}

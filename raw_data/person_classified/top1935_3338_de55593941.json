@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1935:3338",
+  "quotes": [
+    {
+      "quote_id": "q00161",
+      "person_signal": "non_base",
+      "note": "Gnomic seasonal generalization; it does not expose a story narrator."
+    },
+    {
+      "quote_id": "q00162",
+      "person_signal": "third",
+      "note": "Sustained external narration renders the character's reading and private distress as he/him without a participating frame narrator."
+    },
+    {
+      "quote_id": "q00163",
+      "person_signal": "unmarked",
+      "note": "Narratorial landscape description contains no story-specific person evidence."
+    },
+    {
+      "quote_id": "q00164",
+      "person_signal": "non_base",
+      "note": "Gnomic description of a generic traveller, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00165",
+      "person_signal": "unmarked",
+      "note": "In context this is a universalizing first-person-plural proem following a scene narrated as they; its we does not establish a participating character-narrator."
+    },
+    {
+      "quote_id": "q00166",
+      "person_signal": "unmarked",
+      "note": "Historical exposition has no narrator-participation marker; the dangling final word is clipped but does not obscure that result."
+    },
+    {
+      "quote_id": "q00167",
+      "person_signal": "third",
+      "note": "Sustained narration presents Eugene's memory of his father's corpse through he/his without a participating frame narrator."
+    },
+    {
+      "quote_id": "q00168",
+      "person_signal": "unmarked",
+      "note": "Commentary about a memory supplies no diagnostic narrator person."
+    },
+    {
+      "quote_id": "q00169",
+      "person_signal": "non_base",
+      "note": "Universal rhetorical questions in a gnomic passage do not identify a participating narrator."
+    },
+    {
+      "quote_id": "q00170",
+      "person_signal": "unmarked",
+      "note": "The surrounding passage universalizes Eugene's journey as that of a generic traveller, so him alone is not diagnostic third-person evidence."
+    },
+    {
+      "quote_id": "q00171",
+      "person_signal": "non_base",
+      "note": "A universal aphoristic fragment, not narrative-person evidence."
+    },
+    {
+      "quote_id": "q00172",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical questions use inclusive us but do not narrate participation in the story."
+    },
+    {
+      "quote_id": "q00173",
+      "person_signal": "unmarked",
+      "note": "Expository description uses generic one and his rather than identifying the controlling narrator."
+    },
+    {
+      "quote_id": "q00174",
+      "person_signal": "unmarked",
+      "note": "Universal us/our and the personification of Fury are rhetorical, not evidence that a character narrates the story."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.biz/books/Of-Time-and-the-River/Thomas-Wolfe/9780684867854",
+      "title": "Of Time and the River | Book by Thomas Wolfe | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter One excerpt externally introduces four people and continues through the Gant family's actions, perceptions, and dialogue in third person."
+    },
+    {
+      "url": "https://gutenberg.net.au/ebooks03/0301021h.html",
+      "title": "Of Time and the River \u2014 Project Gutenberg Australia full text",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete archival text permits checks across the opening, middle chapters, and late interior: story scenes consistently narrate Eugene and other characters as he, she, or they, while first-person singular/plural passages function as lyrical or universalizing authorial interjections."
+    },
+    {
+      "url": "https://digital.library.unt.edu/ark:/67531/metadc5143/m2/1/high_res_d/thesis.pdf",
+      "title": "Murky Impressions of Postmodernism: Eugene Gant and Shakespearean Intertext in Thomas Wolfe's Look Homeward, Angel and Of Time and the River",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This University of North Texas English thesis explicitly discusses Wolfe's third-person narrative, says both Gant novels are fashioned throughout from Eugene's point of view, and treats occasional blended or difficult-to-place voices as shifts within that narrative design."
+    }
+  ],
+  "search_log": [
+    "Searched: Thomas Wolfe \"Of Time and the River\" full text excerpt Eugene Gant narrator; \"Of Time and the River\" \"third person\" narrator; \"Of Time and the River\" point of view narration; and site:archive.org \"Of Time and the River\" Thomas Wolfe.",
+    "Opened and inspected the official Simon & Schuster Chapter One excerpt, then opened the Project Gutenberg Australia full text and searched exact quote phrases plus opening, middle, and late-book passages.",
+    "Searched targeted combinations of the title with \"third person omniscient narration,\" \"first person,\" \"third person,\" \"narrator,\" and \"narrative voice\" to test for alternating-person structure.",
+    "Opened the University of North Texas thesis and inspected its discussion of third-person narration, Eugene's point of view, and blended authorial voice in Of Time and the River.",
+    "A Wolfe Journal article indexed as \"Of Time and the Rhetoric\" explicitly described third-person omniscient narration and first-person-plural proems, but its page returned a challenge when opened, so it was not used as cited evidence. Generic plot summaries were nondiagnostic, and an eNotes result titled \"Of Time and the River\" concerned an unrelated review of I Was Amelia Earhart."
+  ],
+  "person_note": "The controlling story narration is third person: the diagnostic quotes and sustained web text render Eugene and other characters externally while also entering their thoughts. Wolfe frequently shifts into lyrical proems, apostrophes, and universal I/we language; q00165 is one such first-person-plural expansion immediately following narration of Eugene and Starwick as they. The full text and scholarly analysis treat these passages as authorial or universalizing interjections within the third-person design, not an autonomous first-person storyline, so they do not warrant ALTERNATING. The only residual complication is the stylistic blending of authorial voice with Eugene's consciousness, but no credible source found a participating character-narrator or sustained alternate narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_002",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:17:37.131017+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "37a45933ffa4509a0f513e62118b18318bc8741c5f597d2c4a27f704c802ce0d"
+  }
+}

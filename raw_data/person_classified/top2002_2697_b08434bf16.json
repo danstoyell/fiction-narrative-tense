@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:2697",
+  "quotes": [
+    {
+      "quote_id": "q00717",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; it does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00718",
+      "person_signal": "non_base",
+      "note": "General philosophical maxim, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00719",
+      "person_signal": "non_base",
+      "note": "A first-person preface to an extended gnomic discussion; insufficient to establish the base voice locally."
+    },
+    {
+      "quote_id": "q00720",
+      "person_signal": "non_base",
+      "note": "Personified philosophical reflection rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00721",
+      "person_signal": "non_base",
+      "note": "Universal reflection using generic second person."
+    },
+    {
+      "quote_id": "q00722",
+      "person_signal": "non_base",
+      "note": "Collective civic maxim; 'we' is generic rather than story narration."
+    },
+    {
+      "quote_id": "q00723",
+      "person_signal": "non_base",
+      "note": "General advice using generic second person."
+    },
+    {
+      "quote_id": "q00724",
+      "person_signal": "first",
+      "note": "Pi narrates his continuing memories and feelings with repeated 'I' and 'me'."
+    },
+    {
+      "quote_id": "q00725",
+      "person_signal": "non_base",
+      "note": "Direct speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00726",
+      "person_signal": "non_base",
+      "note": "General advice using generic 'you'."
+    },
+    {
+      "quote_id": "q00727",
+      "person_signal": "non_base",
+      "note": "Universal reflection on bereavement, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00728",
+      "person_signal": "non_base",
+      "note": "Gnomic religious assertion despite its local 'I'."
+    },
+    {
+      "quote_id": "q00729",
+      "person_signal": "non_base",
+      "note": "Direct speech and a general reflection, not base-person evidence."
+    },
+    {
+      "quote_id": "q00730",
+      "person_signal": "first",
+      "note": "The participating survivor recounts losing hope using 'I'."
+    },
+    {
+      "quote_id": "q00731",
+      "person_signal": "non_base",
+      "note": "General observation about living things."
+    },
+    {
+      "quote_id": "q00732",
+      "person_signal": "non_base",
+      "note": "General religious and ethical commentary."
+    },
+    {
+      "quote_id": "q00733",
+      "person_signal": "non_base",
+      "note": "Aphoristic reflection; the incidental 'I suppose' is not used as base evidence."
+    },
+    {
+      "quote_id": "q00734",
+      "person_signal": "non_base",
+      "note": "Rhetorical religious maxim."
+    },
+    {
+      "quote_id": "q00735",
+      "person_signal": "non_base",
+      "note": "General comparison among religions."
+    },
+    {
+      "quote_id": "q00736",
+      "person_signal": "non_base",
+      "note": "General maxim about life."
+    },
+    {
+      "quote_id": "q00737",
+      "person_signal": "first",
+      "note": "Pi explicitly narrates his own knowledge and comparison using 'I'."
+    },
+    {
+      "quote_id": "q00738",
+      "person_signal": "non_base",
+      "note": "Direct speech about fiction."
+    },
+    {
+      "quote_id": "q00739",
+      "person_signal": "non_base",
+      "note": "Religious maxim without narratorial person evidence."
+    },
+    {
+      "quote_id": "q00740",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement."
+    },
+    {
+      "quote_id": "q00741",
+      "person_signal": "first",
+      "note": "The base narrator recounts his own near-surrender; the quoted inner voice is locally embedded."
+    },
+    {
+      "quote_id": "q00742",
+      "person_signal": "non_base",
+      "note": "Direct speech; first and second persons belong to the speaker-addressee exchange."
+    },
+    {
+      "quote_id": "q00743",
+      "person_signal": "first",
+      "note": "The castaway narrates his own survival decisions with 'I' and 'me'."
+    },
+    {
+      "quote_id": "q00744",
+      "person_signal": "non_base",
+      "note": "Generalized survivor maxim using generic 'you'."
+    },
+    {
+      "quote_id": "q00745",
+      "person_signal": "unmarked",
+      "note": "Possible base commentary about 'these people,' but it contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00746",
+      "person_signal": "non_base",
+      "note": "General rhetorical question."
+    },
+    {
+      "quote_id": "q00747",
+      "person_signal": "first",
+      "note": "The narrator states his own past wish using 'my' and 'I'."
+    },
+    {
+      "quote_id": "q00748",
+      "person_signal": "non_base",
+      "note": "General reflection on migration."
+    },
+    {
+      "quote_id": "q00749",
+      "person_signal": "non_base",
+      "note": "Direct speech about Canada."
+    },
+    {
+      "quote_id": "q00750",
+      "person_signal": "first",
+      "note": "Pi recounts divine aid during his own suffering using 'me' and 'my'."
+    },
+    {
+      "quote_id": "q00751",
+      "person_signal": "first",
+      "note": "The narrator identifies the limited view as his own through 'I' and 'I've'."
+    },
+    {
+      "quote_id": "q00752",
+      "person_signal": "non_base",
+      "note": "General philosophical questions using inclusive 'we'."
+    },
+    {
+      "quote_id": "q00753",
+      "person_signal": "non_base",
+      "note": "General characterization of scientists."
+    },
+    {
+      "quote_id": "q00754",
+      "person_signal": "first",
+      "note": "Pi recounts his own continuing religious preoccupation with repeated 'I' and 'my'."
+    },
+    {
+      "quote_id": "q00755",
+      "person_signal": "first",
+      "note": "Extended narration of Pi's actions, despair, and faith; quoted exclamations are embedded within his first-person account."
+    },
+    {
+      "quote_id": "q00756",
+      "person_signal": "first",
+      "note": "The narrator explicitly describes the many bad nights of his own life."
+    },
+    {
+      "quote_id": "q00757",
+      "person_signal": "non_base",
+      "note": "Generic professional saying; collective 'we' does not establish story narration."
+    },
+    {
+      "quote_id": "q00758",
+      "person_signal": "unmarked",
+      "note": "Possible base description of lifeboat life, but no participating-narrator marker appears."
+    },
+    {
+      "quote_id": "q00759",
+      "person_signal": "first",
+      "note": "The narrator directly identifies the suffering and its effect as his own."
+    },
+    {
+      "quote_id": "q00760",
+      "person_signal": "non_base",
+      "note": "Direct address within dialogue, not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q00761",
+      "person_signal": "non_base",
+      "note": "General maxim about adaptation and killing."
+    },
+    {
+      "quote_id": "q00762",
+      "person_signal": "first",
+      "note": "Pi recounts being carried and thrown overboard with repeated 'I' and 'me'."
+    },
+    {
+      "quote_id": "q00763",
+      "person_signal": "first",
+      "note": "The narrator explicitly refers to his own feelings."
+    },
+    {
+      "quote_id": "q00764",
+      "person_signal": "non_base",
+      "note": "General observation about nature."
+    },
+    {
+      "quote_id": "q00765",
+      "person_signal": "non_base",
+      "note": "Gnomic speculation containing imagined deathbed speech, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00766",
+      "person_signal": "non_base",
+      "note": "Universal survival observation using generic second person."
+    },
+    {
+      "quote_id": "q00767",
+      "person_signal": "first",
+      "note": "The participating narrator recounts a family-zoo memory through 'we'."
+    },
+    {
+      "quote_id": "q00768",
+      "person_signal": "non_base",
+      "note": "General religious metaphor."
+    },
+    {
+      "quote_id": "q00769",
+      "person_signal": "first",
+      "note": "Pi narrates his discovery of his own will to live; generalized 'we' follows that explicit self-identification."
+    },
+    {
+      "quote_id": "q00770",
+      "person_signal": "non_base",
+      "note": "Clipped religious maxim."
+    },
+    {
+      "quote_id": "q00771",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first and second persons belong to the local speaker and addressee."
+    },
+    {
+      "quote_id": "q00772",
+      "person_signal": "first",
+      "note": "Pi recounts his reaction to Christianity using 'me' and 'I'; imagined dialogue is embedded."
+    },
+    {
+      "quote_id": "q00773",
+      "person_signal": "non_base",
+      "note": "General reflection on migration."
+    },
+    {
+      "quote_id": "q00774",
+      "person_signal": "non_base",
+      "note": "General zoological observation."
+    },
+    {
+      "quote_id": "q00775",
+      "person_signal": "first",
+      "note": "The narrator directly identifies the gratitude as his own."
+    },
+    {
+      "quote_id": "q00776",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement about wonder."
+    },
+    {
+      "quote_id": "q00777",
+      "person_signal": "non_base",
+      "note": "Universal reflection using generic 'you'."
+    },
+    {
+      "quote_id": "q00778",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement."
+    },
+    {
+      "quote_id": "q00779",
+      "person_signal": "first",
+      "note": "The narrator explicitly describes exploring something in his own memory."
+    },
+    {
+      "quote_id": "q00780",
+      "person_signal": "non_base",
+      "note": "Gnomic religious reflection despite its incidental first-person formulation."
+    },
+    {
+      "quote_id": "q00781",
+      "person_signal": "non_base",
+      "note": "General definition of a house."
+    },
+    {
+      "quote_id": "q00782",
+      "person_signal": "non_base",
+      "note": "General metaphysical reflection."
+    },
+    {
+      "quote_id": "q00783",
+      "person_signal": "first",
+      "note": "The narrator recounts his own weeping and survival; the corrupted placeholder does not erase the first-person frame."
+    },
+    {
+      "quote_id": "q00784",
+      "person_signal": "first",
+      "note": "The narratorial speech tag 'he used to tell me' identifies the narrator as a participant outside the embedded saying."
+    },
+    {
+      "quote_id": "q00785",
+      "person_signal": "non_base",
+      "note": "General aphoristic reflection on shock."
+    },
+    {
+      "quote_id": "q00786",
+      "person_signal": "unmarked",
+      "note": "A bare impersonal comparison that does not identify the narrator."
+    },
+    {
+      "quote_id": "q00787",
+      "person_signal": "non_base",
+      "note": "Extended gnomic discussion of fear; generic 'you' is not second-person story narration."
+    },
+    {
+      "quote_id": "q00788",
+      "person_signal": "first",
+      "note": "Outside Gandhi's brief quotation, Pi states his own desire with 'I'."
+    },
+    {
+      "quote_id": "q00789",
+      "person_signal": "non_base",
+      "note": "General maxim using generic second person."
+    },
+    {
+      "quote_id": "q00790",
+      "person_signal": "unmarked",
+      "note": "Scenic description alone does not distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q00791",
+      "person_signal": "non_base",
+      "note": "General reflection using generic 'your'."
+    },
+    {
+      "quote_id": "q00792",
+      "person_signal": "non_base",
+      "note": "General claim about progress; inclusive pronouns are not story-person evidence."
+    },
+    {
+      "quote_id": "q00793",
+      "person_signal": "non_base",
+      "note": "Paratextual quotation with an appended author/page attribution."
+    },
+    {
+      "quote_id": "q00794",
+      "person_signal": "non_base",
+      "note": "Hyperbolic general observation using generic 'you'; incidental 'my' is not used as base evidence."
+    },
+    {
+      "quote_id": "q00795",
+      "person_signal": "first",
+      "note": "Pi recounts perceiving and accepting his own suffering with repeated 'I' and 'my'."
+    },
+    {
+      "quote_id": "q00796",
+      "person_signal": "non_base",
+      "note": "General religious comparison."
+    },
+    {
+      "quote_id": "q00797",
+      "person_signal": "non_base",
+      "note": "General zoological observation."
+    },
+    {
+      "quote_id": "q00798",
+      "person_signal": "non_base",
+      "note": "Interview dialogue; speaker and addressee pronouns do not identify an independent base narrator."
+    },
+    {
+      "quote_id": "q00799",
+      "person_signal": "first",
+      "note": "The narrator recounts his own bodily and emotional condition with repeated 'I' and 'my'."
+    },
+    {
+      "quote_id": "q00800",
+      "person_signal": "first",
+      "note": "Despite an appended page note, 'I survived' is explicit retrospective narration by the participant."
+    },
+    {
+      "quote_id": "q00801",
+      "person_signal": "non_base",
+      "note": "General ethical maxim."
+    },
+    {
+      "quote_id": "q00802",
+      "person_signal": "non_base",
+      "note": "General statement about religion."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1113/page_number/1/life-of-pi",
+      "title": "Excerpt from Life of Pi by Yann Martel",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained Chapter 1 excerpt, published with the copyright holder's permission, has Pi narrating his life and studies throughout as 'I' and 'my'."
+    },
+    {
+      "url": "https://cscanada.net/index.php/sll/article/view/9526",
+      "title": "First-person Narration in Life of Pi",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly structural analysis identifies homodiegetic first-person narration at both levels: Pi narrates the embedded shipwreck story, while a first-person mask narrator supplies the frame and verification."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/life-pi",
+      "title": "Life of Pi",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The literary reference entry states that Pi is the first-person narrator of much of the novel and describes the work as combining first-person accounts by Pi and the Author with local interview transcripts."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Life of Pi\" \"Yann Martel\" official excerpt, first chapter, and \"My suffering left me\"; opened the permission-published BookBrowse Chapter 1 excerpt and the Penguin Random House Canada title page.",
+    "Searched: \"Life of Pi\" point of view, first-person narrator, frame narrative, and homodiegetic; opened Junfang Xu's scholarly article and its full-text record.",
+    "Searched for whole-book structural corroboration concerning multiple narrators and interview transcripts; opened the Encyclopedia.com literary reference entry.",
+    "Checked Yann Martel's official book page and the Penguin Random House Canada page; they verified the work but their accessible descriptive copy did not itself establish narrative person, so they were not used as person evidence."
+  ],
+  "person_note": "The event quotes repeatedly expose Pi as a participating 'I' recounting his childhood, religion, shipwreck, and survival. The authorized opening excerpt independently confirms that voice, while scholarly whole-book analysis resolves the frame: the occasional Author/mask narrator is also first person, so the presence of two narrators does not make the novel ALTERNATING under this methodology. Dialogue and interview-transcript excerpts are local speech, and generic 'you' in maxims is not second-person narration. No credible contrary person evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_037",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:23:52.104745+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "592b0305dd68cc88adfd6c2c9bd2c6a4122865f48a238b66b7064b30c112ebcb"
+  }
+}

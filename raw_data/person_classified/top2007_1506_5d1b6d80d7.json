@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:1506",
+  "quotes": [
+    {
+      "quote_id": "q01350",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization with no participating narrator or sufficiently sustained third-person context."
+    },
+    {
+      "quote_id": "q01351",
+      "person_signal": "non_base",
+      "note": "Dialogue containing a first-person maxim; the speaker's pronoun does not identify base narration."
+    },
+    {
+      "quote_id": "q01352",
+      "person_signal": "first",
+      "note": "Story-specific event narration exposes a participating narrator through repeated I references, with no affirmative marker of speech."
+    },
+    {
+      "quote_id": "q01353",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph rather than the novel's base narration."
+    },
+    {
+      "quote_id": "q01354",
+      "person_signal": "unclear",
+      "note": "The clipped opening and lost local context prevent reliable attribution to narration rather than speech or thought."
+    },
+    {
+      "quote_id": "q01355",
+      "person_signal": "non_base",
+      "note": "The upstream dialogue classification makes its first-person grammar nondiagnostic for base narration."
+    },
+    {
+      "quote_id": "q01356",
+      "person_signal": "unclear",
+      "note": "Truncated fragment with no recoverable narrator or quotation boundary."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/double-cross/excerpt",
+      "title": "Double Cross by James Patterson | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The sustained excerpt alternates third-person chapters about Kyle Craig and Yousef Qasim with Alex Cross's first-person Chapter 3, then returns to third person in Chapter 4."
+    },
+    {
+      "url": "https://discover.hubpages.com/literature/Double-Cross-James-Patterson",
+      "title": "Double Cross - James Patterson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A reader's whole-book review explicitly states that Alex's sections are first person and all other sections are third person, and discusses the repeated switches."
+    }
+  ],
+  "search_log": [
+    "Searched \"James Patterson Double Cross 2007 excerpt first chapter\" and opened the sustained Bookreporter excerpt.",
+    "Searched \"Double Cross James Patterson first person narrator\" and \"Double Cross James Patterson point of view Alex Cross third person\" for explicit structural descriptions.",
+    "Opened the author/publisher title page at https://www.jamespatterson.com/titles/james-patterson/double-cross/9780316026109/; it verified the work and edition but did not describe narrative person.",
+    "Opened the HubPages whole-book review and confirmed its explicit first-person/third-person structure statement.",
+    "Searched exact quote fragments including \"Anyone who says they know what I'll do next\" and \"The taxi was a V-6\"; results did not provide enough surrounding text to override the supplied quote buckets."
+  ],
+  "person_note": "The book sustains different narrative persons: Alex Cross narrates his chapters as a participating first-person I, while chapters centered on the antagonists use nonparticipating third-person narration. The diagnostic Goodreads material exposes the first-person route but provides no secure third-person passage; dialogue and clipped fragments were not promoted to base evidence. The Tier A opening excerpt directly demonstrates multiple chapter-length switches, and the whole-book Tier C review says the pattern continues throughout. Because support for the complete structure rests on one opening excerpt plus one weaker whole-book source, rather than two independent Tier A/B sources or quote support for both persons, confidence is medium rather than high.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.242780+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "be4beb25ea8f2d63ee554b687b021f533fa28ee886b4601a1385406df4740f4a"
+  }
+}

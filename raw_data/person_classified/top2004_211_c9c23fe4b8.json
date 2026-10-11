@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:211",
+  "quotes": [
+    {
+      "quote_id": "q00187",
+      "person_signal": "non_base",
+      "note": "Aphoristic gnomic statement with no diagnostic base-narrator pronoun."
+    },
+    {
+      "quote_id": "q00188",
+      "person_signal": "non_base",
+      "note": "General maxim about two kinds of people; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q00189",
+      "person_signal": "non_base",
+      "note": "Gnomic analogy whose second-person references are universal, not sustained narration of a protagonist."
+    },
+    {
+      "quote_id": "q00190",
+      "person_signal": "non_base",
+      "note": "Direct speech; the visible first- and second-person pronouns belong to a speaking character."
+    },
+    {
+      "quote_id": "q00191",
+      "person_signal": "unmarked",
+      "note": "The bare third-person subject can occur within either first- or third-person narration and does not identify the narrator."
+    },
+    {
+      "quote_id": "q00192",
+      "person_signal": "non_base",
+      "note": "Direct speech containing an embedded legend; its pronouns and dialect do not identify base narration."
+    },
+    {
+      "quote_id": "q00193",
+      "person_signal": "unmarked",
+      "note": "This clipped impersonal sentence may be base narration but contains no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q00194",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation; generic 'you' is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00195",
+      "person_signal": "non_base",
+      "note": "A general maxim with universal 'you,' not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00196",
+      "person_signal": "first",
+      "note": "The participating narrator recounts a shared activity as 'We were playing' and then explains the game."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://bingebooks.com/book/a-salty-piece-of-land",
+      "title": "A Salty Piece of Land by Jimmy Buffett",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained retail excerpt covering Chapter 1 and most of Chapter 2 identifies Tully Mars and consistently has him narrate his experiences as 'I' and 'we.'"
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-a-salty-piece-of-land/style.html",
+      "title": "Jimmy Buffett Writing Styles in A Salty Piece of Land",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis explicitly says the novel uses first-person narration throughout, principally by Tully, with occasional first-person letters from Willie Singer."
+    },
+    {
+      "url": "https://www.thesoapboxers.com/2009/08/29/a-salty-piece-of-land/",
+      "title": "A Salty Piece of Land",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review identifies Tully as the book's narrator and describes Willie Singer's adventures as first-person material conveyed through long letters; the reviewer used an abridged audiobook, so this is corroborative rather than primary evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"A Salty Piece of Land\" Jimmy Buffett excerpt, first chapter, and Google Books; Google Books exposed catalog copy and contents but not diagnostic prose, while BingeBooks provided a sustained excerpt of Chapters 1\u20132.",
+    "Searched \"A Salty Piece of Land\" with first person, first-person narrative, narrator, Tully Mars narrator, and point of view; opened the BookRags POV analysis and the SoapBoxers review.",
+    "Searched official Hachette, Little Brown, and Jimmy Buffett domains; the Hachette and author pages verified the work and Tully-centered premise but did not explicitly describe narrative person.",
+    "Checked for epistolary, frame, multiple-narrator, and alternating-person complications; the only reported shift is to Willie Singer's first-person letters, not to a different grammatical person."
+  ],
+  "person_note": "Tully Mars is the controlling participating first-person narrator. The authorized opening excerpt sustains his 'I' narration across two chapters, the Goodreads event quote q00196 independently exposes participating 'we' narration, and whole-book descriptions explicitly confirm first person throughout. Willie Singer occasionally narrates through first-person letters, but multiple first-person voices still classify as FIRST rather than ALTERNATING. The apparent 'you' passages are dialogue or universal maxims, and the isolated 'he' sentence is compatible with Tully describing another character. Direct authorized prose coverage is concentrated near the opening, but the explicit whole-book structural evidence resolves that remaining scope limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.238104+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e3707a5f3f16b40845953b54301251ec906a185e9bff15e0a49e986ecf5b18c3"
+  }
+}

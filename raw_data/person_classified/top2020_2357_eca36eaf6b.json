@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:2357",
+  "quotes": [
+    {
+      "quote_id": "q04517",
+      "person_signal": "non_base",
+      "note": "Gnomic proverb with no story-specific narrator signal."
+    },
+    {
+      "quote_id": "q04518",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization; no participating or external narrator is identified."
+    },
+    {
+      "quote_id": "q04519",
+      "person_signal": "non_base",
+      "note": "Universal reflection whose inclusive 'we' does not establish base narration."
+    },
+    {
+      "quote_id": "q04520",
+      "person_signal": "non_base",
+      "note": "The tag 'he thought' marks the first-person sentences as a character's direct thought."
+    },
+    {
+      "quote_id": "q04521",
+      "person_signal": "non_base",
+      "note": "Continuation of the character thought introduced in q04520, not base narration."
+    },
+    {
+      "quote_id": "q04522",
+      "person_signal": "non_base",
+      "note": "Tagged speech by Mr. Harrigan."
+    },
+    {
+      "quote_id": "q04523",
+      "person_signal": "non_base",
+      "note": "Direct address to 'kiddo' identifies local speech, not the base narrator."
+    },
+    {
+      "quote_id": "q04524",
+      "person_signal": "non_base",
+      "note": "Direct-address question, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q04525",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no diagnostic narrative context."
+    },
+    {
+      "quote_id": "q04526",
+      "person_signal": "first",
+      "note": "Retrospective 'My grandmother' and 'I've always thought' expose a participating narrator."
+    },
+    {
+      "quote_id": "q04527",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; generic 'you' is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04528",
+      "person_signal": "non_base",
+      "note": "Embedded Whitman quotation rather than base narration."
+    },
+    {
+      "quote_id": "q04529",
+      "person_signal": "non_base",
+      "note": "Generic second-person generalization, not story-specific narration."
+    },
+    {
+      "quote_id": "q04530",
+      "person_signal": "unmarked",
+      "note": "Possible narrative exposition, but it contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q04531",
+      "person_signal": "non_base",
+      "note": "Thematic assertion without a diagnostic base-narrator signal."
+    },
+    {
+      "quote_id": "q04532",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization using generic 'you.'"
+    },
+    {
+      "quote_id": "q04533",
+      "person_signal": "non_base",
+      "note": "Vocative and advice to Craig identify direct speech."
+    },
+    {
+      "quote_id": "q04534",
+      "person_signal": "first",
+      "note": "'I suppose' occurs in retrospective narration about Mr. Harrigan and exposes the participating narrator."
+    },
+    {
+      "quote_id": "q04535",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; 'I think' alone does not establish controlling narration here."
+    },
+    {
+      "quote_id": "q04536",
+      "person_signal": "non_base",
+      "note": "General reflection on phones rather than a story-specific narrated event."
+    },
+    {
+      "quote_id": "q04537",
+      "person_signal": "non_base",
+      "note": "The tag 'she thinks' marks the passage as a character's local thought."
+    },
+    {
+      "quote_id": "q04538",
+      "person_signal": "first",
+      "note": "Age-anchored retrospective 'even at thirteen I had my doubts' diagnostically identifies a participating narrator."
+    },
+    {
+      "quote_id": "q04539",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q04540",
+      "person_signal": "first",
+      "note": "'That was the theme I saw' is retrospective participating narration surrounding an embedded quotation."
+    },
+    {
+      "quote_id": "q04541",
+      "person_signal": "third",
+      "note": "Sustained external narration presents the focal character as 'her' and 'she' across several sentences."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookrags.com/studyguide-if-it-bleeds/styles.html",
+      "title": "Stephen King Writing Styles in If It Bleeds",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural point-of-view analysis explicitly identifies 'Mr. Harrigan's Phone' as first-person narration and 'Rat' plus the opening act of 'The Life of Chuck' as third-person narration, establishing sustained sections in different persons across the collection."
+    },
+    {
+      "url": "https://www.lrb.co.uk/the-paper/v42/n17/j.-robert-lennon/what-brand-is-your-printer",
+      "title": "What brand is your printer? Stephen King's Latest",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The London Review of Books explicitly states that 'Mr Harrigan's Phone' is told in the first person."
+    },
+    {
+      "url": "https://www.simonandschuster.com/books/If-It-Bleeds/Stephen-King/9781982137984",
+      "title": "If It Bleeds | Book by Stephen King | Official Publisher Page",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The official publisher page verifies that the volume comprises four distinct novellas\u2014'Mr. Harrigan's Phone,' 'The Life of Chuck,' 'If It Bleeds,' and 'Rat'\u2014but does not explicitly describe their narrative persons."
+    }
+  ],
+  "search_log": [
+    "Searched official Stephen King and Simon & Schuster pages for an authorized excerpt and verified the work's four-novella structure; no usable sustained prose excerpt was available on the opened official pages.",
+    "Searched \"If It Bleeds\" Stephen King point of view, first person, third person, narrator, and alternating narration; opened the BookRags whole-book point-of-view analysis.",
+    "Searched individual novella titles with first-person and third-person terms; opened the London Review of Books review explicitly identifying the first-person narration of 'Mr Harrigan's Phone.'",
+    "Searched Hachette, Google Books, and Internet Archive combinations for authorized or library excerpts; results did not yield an accessible sustained excerpt suitable for stronger passage evidence."
+  ],
+  "person_note": "The volume is a collection whose autonomous novellas use more than one controlling narrative person. The Goodreads evidence independently shows sustained retrospective first-person narration in the Craig material (q04526, q04534, q04538, q04540) and sustained third-person narration in q04541. A Tier C whole-book structural guide confirms that 'Mr. Harrigan's Phone' is first person while 'Rat' and material in 'The Life of Chuck' are third person. First-person language in q04520-q04521 is only tagged character thought, and other first- or second-person aphorisms and speech are local rather than additional base strands. Confidence is medium because the whole-book structural evidence is commercial rather than scholarly or authorized.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_070",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:55:33.175801+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "50ffc1bb62dd7b668326fafecd19936e629ac1bd3f2682e4a2db7dfd13c7945e"
+  }
+}

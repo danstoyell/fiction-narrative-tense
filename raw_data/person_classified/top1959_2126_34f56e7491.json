@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1959:2126",
+  "quotes": [
+    {
+      "quote_id": "q01008",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; third-person nouns do not identify the story's narrator."
+    },
+    {
+      "quote_id": "q01009",
+      "person_signal": "non_base",
+      "note": "Character speech, so its third-person wording is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q01010",
+      "person_signal": "non_base",
+      "note": "Gnomic moral statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q01011",
+      "person_signal": "non_base",
+      "note": "Direct speech; first-person plural belongs to the speaker."
+    },
+    {
+      "quote_id": "q01012",
+      "person_signal": "unmarked",
+      "note": "Base narration surrounding embedded quotations, but it contains no diagnostic reference to the narrator."
+    },
+    {
+      "quote_id": "q01013",
+      "person_signal": "unmarked",
+      "note": "The ebook context shows this is narratorial address, despite the dialogue bucket; its generalized you addresses prospective settlers rather than a second-person protagonist."
+    },
+    {
+      "quote_id": "q01014",
+      "person_signal": "unmarked",
+      "note": "Clipped base commentary with a reader-directed imperative, not a diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q01015",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about writing, without story-specific narration."
+    },
+    {
+      "quote_id": "q01016",
+      "person_signal": "non_base",
+      "note": "Quoted speech; the character's I is not the narrator."
+    },
+    {
+      "quote_id": "q01017",
+      "person_signal": "non_base",
+      "note": "Quoted maxim using generic you, not base narration."
+    },
+    {
+      "quote_id": "q01018",
+      "person_signal": "non_base",
+      "note": "Quoted generalization rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01019",
+      "person_signal": "non_base",
+      "note": "Dialogue containing a joke; its pronouns belong to the joke's speakers."
+    },
+    {
+      "quote_id": "q01020",
+      "person_signal": "non_base",
+      "note": "Character speech; repeated I does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01021",
+      "person_signal": "non_base",
+      "note": "Character speech framed as a general legal principle."
+    },
+    {
+      "quote_id": "q01022",
+      "person_signal": "unmarked",
+      "note": "Brief passive event narration supplies no narrator-participation evidence."
+    },
+    {
+      "quote_id": "q01023",
+      "person_signal": "unmarked",
+      "note": "Sustained base narration describes Kamejiro and his companions externally, but the whole-book evidence identifies the teller as participating Hoxworth Hale; third-person character reference therefore does not prove a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01024",
+      "person_signal": "non_base",
+      "note": "Quoted retrospective speech; our belongs to the speaker."
+    },
+    {
+      "quote_id": "q01025",
+      "person_signal": "non_base",
+      "note": "Dialogue using generic you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01026",
+      "person_signal": "unmarked",
+      "note": "Base narration contains embedded dialogue but no diagnostic self-reference by the narrator."
+    },
+    {
+      "quote_id": "q01027",
+      "person_signal": "unmarked",
+      "note": "Fragmentary event statement without narrator-person evidence."
+    },
+    {
+      "quote_id": "q01028",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than story narration."
+    },
+    {
+      "quote_id": "q01029",
+      "person_signal": "unmarked",
+      "note": "Narration about she alone does not establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q01030",
+      "person_signal": "non_base",
+      "note": "Gnomic legal generalization without diagnostic narration."
+    },
+    {
+      "quote_id": "q01031",
+      "person_signal": "non_base",
+      "note": "Direct speech; you belongs to Whip's utterance."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/769511921/Hawaii-A-Novel",
+      "title": "Hawaii: A Novel \u2014 ebook preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The sustained opening initially presents geological and human events externally but twice exposes the teller as I, including retrospective reference to what he previously narrated; this establishes a personal controlling voice locally."
+    },
+    {
+      "url": "https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/113/files/2010/10/PERRIN.pdf",
+      "title": "The Second-Greatest Stories Ever Told: Middlebrow Epic",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Tom Perrin's scholarly structural analysis traces increasingly personal intrusions across the novel and explains that the ending reveals the narrator as story participant Hoxworth Hale."
+    },
+    {
+      "url": "https://escholarship.org/content/qt0qv8s75c/qt0qv8s75c_noSplash_cb644a296006deed240b84ac6c538988.pdf?t=nrksgv",
+      "title": "Figuring Futures: Early Asian American Mixed-Race Literature",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Melissa Eriko Poulsen's UC Santa Cruz literature dissertation identifies Hoxworth Hale as Hawaii's narrator while analyzing the novel's complete Golden Men structure."
+    },
+    {
+      "url": "https://www.supersummary.com/hawaii/part-6-summary/",
+      "title": "Hawaii Part 6 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The Part 6 analysis explicitly states that the conclusion reveals Hoxworth Hale to have narrated the entire book and discusses him speaking as narrator."
+    },
+    {
+      "url": "https://www.enotes.com/topics/hawaii/in-depth",
+      "title": "Hawaii Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The style analysis independently identifies Hoxworth Hale, a character within the novel, as its narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"James Michener Hawaii novel point of view third person narrator\" and related point-of-view queries; BookRags described both first- and third-person surface presentation but also indicated that one personal storyteller is disclosed at the end.",
+    "Searched \"James A. Michener Hawaii excerpt chapter text\" and opened the Everand ebook preview; the sustained opening contains explicit narratorial I passages amid extensive external narration.",
+    "Opened the Google Books record for Hawaii; it verified the work and section structure but its accessible catalog page did not provide diagnostic prose.",
+    "Searched exact combinations of \"Hoxworth Hale\" with narrator and \"I, Hoxworth Hale\"; this located Perrin's whole-book narratological discussion, Poulsen's UC dissertation, and explicit concluding-section analyses from SuperSummary and eNotes.",
+    "Checked general summaries and review snippets, but excluded plot-summary grammar, reader-review assertions, and inaccessible previews as proof of narrative person."
+  ],
+  "person_note": "The controlling teller is Hoxworth Hale, a character who participates in the novel and is explicitly revealed at the end as narrator of the entire book. Much of the prose, including the long Kamejiro quotation, uses omniscient-looking third-person presentation, but the authorized opening already contains the teller's I, and scholarly whole-book analysis traces further personal intrusions before Hale's identification. Under the task's participation-based definition, these are modes used by one first-person narrator, not sustained autonomous sections controlled by different narrators, so FIRST is preferable to ALTERNATING. The main residual peculiarity is Hale's implausibly broad access to events long before his lifetime, but that affects narratorial reliability and convention rather than his disclosed participation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_011",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T11:25:56.161055+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "62b0ff02444d389d664b8dfb8ce8f1579f0f0a0c11eee4764b718499b4deb38c"
+  }
+}

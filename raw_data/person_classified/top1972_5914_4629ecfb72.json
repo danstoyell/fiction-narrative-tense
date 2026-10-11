@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1972:5914",
+  "quotes": [
+    {
+      "quote_id": "q01862",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01863",
+      "person_signal": "non_base",
+      "note": "Gnomic narratorial aside using impersonal constructions, not a diagnostic person marker."
+    },
+    {
+      "quote_id": "q01864",
+      "person_signal": "non_base",
+      "note": "Clipped character speech; its pronouns cannot identify the base narrator."
+    },
+    {
+      "quote_id": "q01865",
+      "person_signal": "non_base",
+      "note": "Extended character speech, including quoted collective self-reference, rather than base narration."
+    },
+    {
+      "quote_id": "q01866",
+      "person_signal": "non_base",
+      "note": "General moral commentary rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01867",
+      "person_signal": "non_base",
+      "note": "Web context places this historical exposition in the foreword, outside the story's base narration."
+    },
+    {
+      "quote_id": "q01868",
+      "person_signal": "non_base",
+      "note": "Historical exposition about the SS, associated with the prefatory material rather than a participating narrator."
+    },
+    {
+      "quote_id": "q01869",
+      "person_signal": "non_base",
+      "note": "A character's question and collective first-person speech do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01870",
+      "person_signal": "non_base",
+      "note": "The authorized sample locates this sentence in the foreword, so it is paratext rather than base-story narration."
+    },
+    {
+      "quote_id": "q01871",
+      "person_signal": "non_base",
+      "note": "First-person character testimony or embedded diary material, not the controlling narrative voice."
+    },
+    {
+      "quote_id": "q01872",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the clipped context and impersonal 'one' do not establish narrator participation."
+    },
+    {
+      "quote_id": "q01873",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; the external attribution 'said Miller' alone is insufficient to diagnose narrative person."
+    },
+    {
+      "quote_id": "q01874",
+      "person_signal": "unclear",
+      "note": "The fragment begins mid-sentence and is too severely clipped for responsible local attribution."
+    },
+    {
+      "quote_id": "q01875",
+      "person_signal": "non_base",
+      "note": "Gnomic closing commentary about how lives continue, without diagnostic base-narrator person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://pocketbook.de/en/downloadable/download/sample/sample_id/5747531/?bookId=MTQ0MzQzNTM%3D",
+      "title": "The Odessa File \u2014 ebook sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained retail ebook sample presents Chapter One through a nonparticipating narrator, repeatedly narrating Peter Miller as 'he' while also reporting his thoughts; first-person material is confined to the author's note and character speech."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/09dfccc1-b76c-4507-a18b-e3bf76769356",
+      "title": "Review for The Odessa File by Frederick Forsyth",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reviewer explicitly describes the novel's third-person perspective and its repeated cuts from Miller to his enemies and their plans."
+    },
+    {
+      "url": "https://libcat.ru/knigi/detektivy-i-trillery/triller/160359-57-frederick-forsyth-the-odessa-file.html",
+      "title": "Frederick Forsyth \u2014 The Odessa File, page 57",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained late interior passage narrates Klaus Winzer externally as 'he' across his wartime and postwar history, corroborating that third-person narration continues beyond the opening."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/312291/the-odessa-file-by-frederick-forsyth/",
+      "title": "The Odessa File by Frederick Forsyth",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher's description establishes that Tauber's diary is a document Peter Miller reads, supporting treatment of diary-like first-person material as embedded rather than an alternating base narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Odessa File\" Frederick Forsyth excerpt, first chapter, and Google Books; located a sustained ebook sample and several unauthorized transcriptions.",
+    "Searched \"The Odessa File\" third person, point of view, narrator, omniscient narrator, and narrative technique; found one explicit whole-book third-person description but no scholarly source devoted specifically to grammatical person.",
+    "Opened the PocketBook ebook sample and inspected the foreword and sustained Chapter One narration.",
+    "Opened a late interior transcription and verified continued third-person narration around Klaus Winzer.",
+    "Opened the StoryGraph review and verified its explicit statement that the third-person perspective cuts to Miller's enemies.",
+    "Checked Penguin Random House and Penguin publisher pages; their summaries were useful for identifying Tauber's diary as embedded material but summary grammar was not treated as POV evidence.",
+    "Followed WorldCat to an Internet Archive/Open Library edition, but the scan was access-restricted and yielded no additional readable prose evidence."
+  ],
+  "person_note": "The story proper is controlled by a nonparticipating third-person narrator: the authorized opening narrates Peter Miller externally while accessing his thoughts, an interior passage does the same for Klaus Winzer, and a whole-book review explicitly describes third-person cross-cutting to the antagonists. First-person language in the quotes belongs to dialogue, testimony, an embedded diary, or the author's paratext and therefore does not create an alternating base structure. Confidence is medium because the input quotes are mostly gnomic, prefatory, dialogic, or clipped, and the strongest authorized prose source covers only the opening rather than the entire book.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_017",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T02:07:14.975989+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e6aa0328c07fda6d42943a8def5ee695b41d86a7ea78f0def088ada113013ccb"
+  }
+}

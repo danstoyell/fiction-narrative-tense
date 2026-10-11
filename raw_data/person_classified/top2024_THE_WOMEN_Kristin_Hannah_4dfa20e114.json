@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:THE WOMEN|Kristin Hannah",
+  "quotes": [
+    {
+      "quote_id": "q08530",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but generic \u201cyou\u201d and the statement about women do not identify the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q08531",
+      "person_signal": "third",
+      "note": "Final-chapter narration refers externally to \u201cthe women\u201d and \u201ctheir story\u201d; \u201cWe were there\u201d is the women\u2019s embedded assertion, not a first-person narrator switch."
+    },
+    {
+      "quote_id": "q08532",
+      "person_signal": "non_base",
+      "note": "This isolated first-person collective reflection is incompatible with the independently verified third-person novel-wide narration and does not expose the controlling narrator."
+    },
+    {
+      "quote_id": "q08533",
+      "person_signal": "unmarked",
+      "note": "Free-indirect or aphoristic base text with generic \u201cyou\u201d; it does not identify narrative person."
+    },
+    {
+      "quote_id": "q08534",
+      "person_signal": "non_base",
+      "note": "A general gnomic statement; \u201cwe\u201d is universal rather than diagnostic participating narration."
+    },
+    {
+      "quote_id": "q08535",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial generalization, but it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q08536",
+      "person_signal": "non_base",
+      "note": "The first- and third-person pronouns occur in character speech; the brief external beat alone is insufficient."
+    },
+    {
+      "quote_id": "q08537",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person plural meaning people generally, not the controlling narrator."
+    },
+    {
+      "quote_id": "q08538",
+      "person_signal": "unmarked",
+      "note": "Aphoristic free-indirect reflection without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q08539",
+      "person_signal": "non_base",
+      "note": "Direct address to Frances in character speech, not second-person base narration."
+    },
+    {
+      "quote_id": "q08540",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q08541",
+      "person_signal": "unmarked",
+      "note": "Story-anchored reflection with generic \u201cthose who\u201d; it does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q08542",
+      "person_signal": "unmarked",
+      "note": "Free-indirect reflection containing no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q08543",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cpeople\u201d and \u201cthey\u201d occur in a reflection, while the narrator remains unexposed."
+    },
+    {
+      "quote_id": "q08544",
+      "person_signal": "third",
+      "note": "Iterative narration presents a woman externally as \u201cshe\u201d and reports her learning without a participating-narrator frame."
+    },
+    {
+      "quote_id": "q08545",
+      "person_signal": "unmarked",
+      "note": "The thought tag and generic \u201cyou\u201d suggest free-indirect discourse, but this single sentence is not independently decisive."
+    },
+    {
+      "quote_id": "q08546",
+      "person_signal": "non_base",
+      "note": "Vocative address to Frankie identifies character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08547",
+      "person_signal": "unmarked",
+      "note": "A single externally described \u201cshe\u201d is compatible with more than one narratorial frame and is insufficient alone."
+    },
+    {
+      "quote_id": "q08548",
+      "person_signal": "third",
+      "note": "Sustained close-third narration presents the focal character externally as \u201cshe\u201d and moves into her perceptions without a participating narrator."
+    },
+    {
+      "quote_id": "q08549",
+      "person_signal": "third",
+      "note": "Sustained scene summary repeatedly presents Frankie as \u201cshe\u201d while narrating her actions, vigilance, and internal condition externally."
+    },
+    {
+      "quote_id": "q08550",
+      "person_signal": "unmarked",
+      "note": "A single close-third-looking sentence about \u201che\u201d and \u201cher\u201d does not by itself exclude a participating narrator."
+    },
+    {
+      "quote_id": "q08551",
+      "person_signal": "unmarked",
+      "note": "Aphoristic free-indirect reflection with no explicit narrator participation."
+    },
+    {
+      "quote_id": "q08552",
+      "person_signal": "non_base",
+      "note": "Vocative and imperative language identify direct character speech."
+    },
+    {
+      "quote_id": "q08553",
+      "person_signal": "unmarked",
+      "note": "The repeated \u201cyou\u201d is generic within a grief-focused free-indirect question, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08554",
+      "person_signal": "non_base",
+      "note": "Group-specific first-person plural occurs in character speech rather than base narration."
+    },
+    {
+      "quote_id": "q08555",
+      "person_signal": "unmarked",
+      "note": "The sentence frames an embedded Walter Cronkite quotation, but its surrounding narration does not expose narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://kristinhannah.com/books/the-women/excerpt/",
+      "title": "Excerpt \u2013 Kristin Hannah",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author\u2019s authorized Vietnam-arrival excerpt sustains external narration of Frankie as \u201cshe\u201d while rendering her perceptions and thoughts in close third person."
+    },
+    {
+      "url": "https://www.panmacmillan.com/blogs/fiction/the-women-kristin-hannah-extract",
+      "title": "An extract from The Women by Kristin Hannah",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s substantial interior extract sustains third-person-limited narration centered on Frankie through action, memory, and interior response."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-women-by-kristin-hannah/excerpt",
+      "title": "The Women by Kristin Hannah | Excerpt | Bookreporter.com",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The copyrighted opening excerpt repeatedly narrates Frankie externally as \u201cshe\u201d while closely presenting her thoughts and perceptions."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-women-a-novel/styles.html",
+      "title": "Hannah, Kristin Writing Styles in The Women: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel as third-person limited, says it follows Frankie, and states that the whole novel remains in her perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cKristin Hannah The Women official excerpt first chapter Frankie\u201d and found the author, publisher, and Bookreporter excerpts.",
+    "Searched \u201cThe Women Kristin Hannah point of view third person narrator\u201d and opened the explicit BookRags whole-book POV description.",
+    "Searched \u201cThe Women Kristin Hannah excerpt Frankie She\u201d and compared sustained opening and interior passages.",
+    "Searched the exact first-person quotation \u201cWe were the last believers, my generation\u201d to test for a first-person section; results reproduced the isolated quotation but provided no evidence of sustained first-person base narration.",
+    "Searched the exact ending \u201cThe women had a story to tell\u201d and \u201cWe were there\u201d; chapter summaries situated it at the third-person ending as Frankie\u2019s thought, not a narrator-person change.",
+    "Searched for prologue, epilogue, frame, and alternating narration evidence; no credible source indicated sustained narration in another grammatical person."
+  ],
+  "person_note": "The controlling narration is close third person limited through Frankie McGrath. Several Goodreads passages expose that structure, especially the sustained external treatment of Frankie in q08548\u2013q08549, and two independent Tier A interior extracts reproduce it at length. The opening excerpt agrees, while an explicit whole-book source says the entire novel follows Frankie in third person. First-person plurals in dialogue and gnomic statements are local, and the final \u201cWe were there\u201d is an embedded collective assertion within third-person narration. The isolated q08532 first-person reflection cannot outweigh the novel-wide structural evidence and is treated as non-base material rather than an autonomous first-person section. No credible evidence of alternating narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_088",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:35:33.727049+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fe51ebff4428f2fabcecf1223a9780135006f01cecd5739a418dd23c0b57ea77"
+  }
+}

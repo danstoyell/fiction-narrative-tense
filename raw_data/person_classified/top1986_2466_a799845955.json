@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1986:2466",
+  "quotes": [
+    {
+      "quote_id": "q02855",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural aphorism; it does not identify a participating narrator."
+    },
+    {
+      "quote_id": "q02856",
+      "person_signal": "non_base",
+      "note": "Paratextual verse rather than base narration."
+    },
+    {
+      "quote_id": "q02857",
+      "person_signal": "non_base",
+      "note": "Character speech/general reflection; its pronouns are not narratorial evidence."
+    },
+    {
+      "quote_id": "q02858",
+      "person_signal": "unmarked",
+      "note": "A short third-person attribution frames Eddie's direct thought, but it is insufficient by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02859",
+      "person_signal": "third",
+      "note": "Extended external narration describes a female character's actions and inward attachment without a participating narrator."
+    },
+    {
+      "quote_id": "q02860",
+      "person_signal": "non_base",
+      "note": "Imperative character speech or direct address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02861",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to the Losers; the second person is local dialogue."
+    },
+    {
+      "quote_id": "q02862",
+      "person_signal": "non_base",
+      "note": "Generalized-you aphorism, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02863",
+      "person_signal": "non_base",
+      "note": "Dialogue/general observation without a narratorial frame."
+    },
+    {
+      "quote_id": "q02864",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to other characters."
+    },
+    {
+      "quote_id": "q02865",
+      "person_signal": "third",
+      "note": "Sustained external narration names Ben, explains his mental state, and compares hypothetical conditions without a participating narrator."
+    },
+    {
+      "quote_id": "q02866",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates George, Pennywise, and Dave Gardener; embedded dialogue and second-person threats do not alter the third-person base."
+    },
+    {
+      "quote_id": "q02867",
+      "person_signal": "non_base",
+      "note": "Quoted rhyme or recitation, not base narration."
+    },
+    {
+      "quote_id": "q02868",
+      "person_signal": "non_base",
+      "note": "An extended hypothetical speech/thought passage; the local 'he would have told them' frame does not make its first and second persons diagnostic."
+    },
+    {
+      "quote_id": "q02869",
+      "person_signal": "non_base",
+      "note": "Generalized-you maxim rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02870",
+      "person_signal": "non_base",
+      "note": "Gnomic reformulation using generalized you, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q02871",
+      "person_signal": "non_base",
+      "note": "Eddie's direct thought contains 'I'; the brief third-person thought attribution is local and nondiagnostic."
+    },
+    {
+      "quote_id": "q02872",
+      "person_signal": "non_base",
+      "note": "The Turtle speaks as 'I' in dialogue; this is not a controlling narrator."
+    },
+    {
+      "quote_id": "q02873",
+      "person_signal": "third",
+      "note": "Richie's free-indirect reflection and generalized 'you' are explicitly framed by the external beat 'Richie thought.'"
+    },
+    {
+      "quote_id": "q02874",
+      "person_signal": "non_base",
+      "note": "Gnomic generalized-you statement, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02875",
+      "person_signal": "non_base",
+      "note": "Universal reflection addressed as 'you'; it does not cast a story protagonist as you."
+    },
+    {
+      "quote_id": "q02876",
+      "person_signal": "non_base",
+      "note": "Character speech using generalized you."
+    },
+    {
+      "quote_id": "q02877",
+      "person_signal": "non_base",
+      "note": "Gnomic generalized-you statement rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02878",
+      "person_signal": "non_base",
+      "note": "Richie's direct thought is a local embedded voice, not base narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.coursehero.com/lit/It/",
+      "title": "It Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The opened study guide explicitly describes the main narration as third-person omniscient and five historical interludes as first-person writing by Mike Hanlon."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/it/derry-the-first-interlude",
+      "title": "It: Derry: The First Interlude Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The opened analysis identifies five interludes as Mike Hanlon's diary-like notes and states that these sections are narrated in first person."
+    },
+    {
+      "url": "https://www.washingtonpost.com/news/act-four/wp/2017/09/07/in-film-it-tosses-out-the-most-powerful-part-of-stephen-kings-novel/",
+      "title": "In film, \u2018It\u2019 tosses out the most powerful part of Stephen King\u2019s novel",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The opened review describes the recurring interludes as told from Mike Hanlon's first-person perspective and quotes his diary voice; it is component evidence, not independent whole-book ALTERNATING evidence."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Stephen King IT novel point of view third person first person interludes Mike Hanlon\" and related narrator/structure queries.",
+    "Opened the Course Hero whole-book study guide, which explicitly distinguishes third-person omniscient main narration from five first-person interludes.",
+    "Opened LitCharts' First Interlude analysis and The Washington Post's structural review to verify that Mike's interludes are sustained first-person sections.",
+    "Searched university and scholarly-repository results concerning IT's narrative structure; a Nottingham thesis result discussed the five-part/interlude structure, but its PDF could not be opened reliably enough to use as a second Tier A/B ALTERNATING source.",
+    "Opened Simon & Schuster's official book page; it verified the work and edition but provided no diagnostic excerpt or point-of-view description.",
+    "No second opened Tier A/B source independently supporting the exact ALTERNATING label was found, so component first-person evidence was not counted toward high confidence."
+  ],
+  "person_note": "The quote sample independently exposes sustained third-person narration in several event passages but contains no diagnostic excerpt from Mike Hanlon's first-person interludes. Opened web evidence resolves the structure: the main story is third-person omniscient, while five recurring, substantial interludes consist of Mike's first-person historical notes. Those sections use different base persons and therefore require ALTERNATING rather than THIRD; dialogue, direct thought, generalized-you aphorisms, and the Turtle's speech remain local material. Confidence is medium because only one opened whole-book source explicitly supports ALTERNATING and the remaining sources establish only the first-person component; the required two Tier A/B exact-label sources for high confidence are absent.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_024",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T15:39:25.053893+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a2d31d19ec67d8989403a1a0b35fb1cbbc5d74bcd5a6ec1ff61e3f009e146e90"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1985:2361",
+  "quotes": [
+    {
+      "quote_id": "q02713",
+      "person_signal": "non_base",
+      "note": "First-person wording is Tracy's explicitly attributed direct thought, not base narration."
+    },
+    {
+      "quote_id": "q02714",
+      "person_signal": "third",
+      "note": "The authorized opening identifies \u201cshe\u201d as Doris Whitney and continues with sustained external third-person narration."
+    },
+    {
+      "quote_id": "q02715",
+      "person_signal": "non_base",
+      "note": "Quoted speech; its first- and second-person pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q02716",
+      "person_signal": "third",
+      "note": "The external narration identifies Tracy and attributes the quoted thought to her, exposing a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02717",
+      "person_signal": "non_base",
+      "note": "Gnomic advice with generic \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02718",
+      "person_signal": "unmarked",
+      "note": "A bare \u201cshe\u201d and reported judgment are compatible with either first- or third-person framing in a larger context."
+    },
+    {
+      "quote_id": "q02719",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not narration."
+    },
+    {
+      "quote_id": "q02720",
+      "person_signal": "unclear",
+      "note": "The subject and preceding context are clipped, preventing reliable local attribution."
+    },
+    {
+      "quote_id": "q02721",
+      "person_signal": "third",
+      "note": "Sustained external description of Tracy culminates in an explicitly attributed direct thought."
+    },
+    {
+      "quote_id": "q02722",
+      "person_signal": "third",
+      "note": "The thought itself is local character discourse, while the outside attribution \u201cTracy Whitney thought\u201d exposes third-person base narration."
+    },
+    {
+      "quote_id": "q02723",
+      "person_signal": "non_base",
+      "note": "Dialogue and speech attributions do not, in this short passage alone, establish the controlling narrator's participation."
+    },
+    {
+      "quote_id": "q02724",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Tracy, Charles, and his wife, with Tracy's first-person thought explicitly embedded and attributed."
+    },
+    {
+      "quote_id": "q02725",
+      "person_signal": "non_base",
+      "note": "Clipped character speech; \u201cyou\u201d addresses another character rather than serving as base narration."
+    },
+    {
+      "quote_id": "q02726",
+      "person_signal": "non_base",
+      "note": "Gnomic factual exposition contains no diagnostic narrator-person signal."
+    },
+    {
+      "quote_id": "q02727",
+      "person_signal": "non_base",
+      "note": "Character speech with generic third-person reference, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://litres.com/book/sidney-sheldon/if-tomorrow-comes-39785177/read/",
+      "title": "Read online \u00abIf Tomorrow Comes\u00bb, Sidney Sheldon \u2013 Litres",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Licensed HarperCollins ebook extract supplies sustained Chapters One and Two prose: Doris and Tracy are narrated externally as she/her, while first-person sentences are marked as their thoughts or dialogue."
+    },
+    {
+      "url": "https://snoopingbee.wordpress.com/2020/02/06/book-review-if-tomorrow-comes-by-sidney-sheldon/",
+      "title": "Book Review: If Tomorrow Comes by Sidney Sheldon",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reviewer explicitly describes the novel as alternating between third-person limited and omniscient viewpoints; both are third person under this methodology."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-if-tomorrow-comes/style.html",
+      "title": "Sidney Sheldon Writing Styles in If Tomorrow Comes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide distinguishes the binding external narrator from shifts into Tracy's thoughts. This describes focalization changes, not sustained first-person base sections."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cIf Tomorrow Comes\u201d Sidney Sheldon excerpt/first chapter and opened the licensed Litres/HarperCollins ebook extract.",
+    "Searched \u201cIf Tomorrow Comes\u201d Sidney Sheldon point of view, third person, omniscient, and narrator; opened the SnoopingBee review and BookRags point-of-view discussion.",
+    "Searched Internet Archive and Google Books; the search produced no usable sustained preview beyond Google Books index terms.",
+    "Checked additional educational and thesis-hosted excerpts for interior corroboration; they showed third-person prose but were not needed as stronger cited evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, with limited/omniscient focalization shifts. Multiple interior quote passages externally describe Tracy and tag her thoughts, independently matching the licensed third-person opening. Apparent first-person material is dialogue or direct thought embedded within that narration. BookRags' language about shifts to Tracy is therefore treated as focalization rather than grammatical-person alternation; no source shows autonomous first-person sections. The authorized prose source covers only the opening, but the whole-book POV description and dispersed quote evidence remove the main scope uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_023",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T20:04:07.650846+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a05a9b9b5f4bb098757a277a54415f8149f59a2e5a2b9fbc9c5f566cd579338f"
+  }
+}

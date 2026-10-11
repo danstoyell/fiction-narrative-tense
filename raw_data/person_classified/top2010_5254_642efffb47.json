@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:5254",
+  "quotes": [
+    {
+      "quote_id": "q02035",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; generic pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q02036",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02037",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02038",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02039",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02040",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech."
+    },
+    {
+      "quote_id": "q02041",
+      "person_signal": "unmarked",
+      "note": "Brief third-person reference lacks enough context to establish the base narrator."
+    },
+    {
+      "quote_id": "q02042",
+      "person_signal": "non_base",
+      "note": "Gnomic exclamation without diagnostic narration."
+    },
+    {
+      "quote_id": "q02043",
+      "person_signal": "unmarked",
+      "note": "Generalized statement with no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q02044",
+      "person_signal": "non_base",
+      "note": "First-person language occurs inside a message or speech, not base narration."
+    },
+    {
+      "quote_id": "q02045",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02046",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Salander's actions and private reflection in third person."
+    },
+    {
+      "quote_id": "q02047",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02048",
+      "person_signal": "unmarked",
+      "note": "A single third-person thought report is locally compatible with more than one narrator configuration."
+    },
+    {
+      "quote_id": "q02049",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization."
+    },
+    {
+      "quote_id": "q02050",
+      "person_signal": "third",
+      "note": "Multi-sentence narration externally names Salander and reports her realization."
+    },
+    {
+      "quote_id": "q02051",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02052",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02053",
+      "person_signal": "non_base",
+      "note": "Generic second-person language in speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02054",
+      "person_signal": "unclear",
+      "note": "Clipped or corrupted quotation boundaries obscure whether the opening words are narration or speech."
+    },
+    {
+      "quote_id": "q02055",
+      "person_signal": "non_base",
+      "note": "Historical introductory material rather than narration of the story action."
+    },
+    {
+      "quote_id": "q02056",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; first- and second-person pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q02057",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02058",
+      "person_signal": "third",
+      "note": "External narration describes a woman's reactions; the final 'you' is free-indirect rendering of a patronizing attitude."
+    },
+    {
+      "quote_id": "q02059",
+      "person_signal": "non_base",
+      "note": "Historical introductory material about women soldiers, not the story's base narration."
+    },
+    {
+      "quote_id": "q02060",
+      "person_signal": "third",
+      "note": "Extended external narration moves through a woman's knowledge and assessment of Salander's male friend."
+    },
+    {
+      "quote_id": "q02061",
+      "person_signal": "third",
+      "note": "After dialogue, the narration externally describes Salander's look, judgment, and decision."
+    },
+    {
+      "quote_id": "q02062",
+      "person_signal": "unmarked",
+      "note": "Impersonal summary does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02063",
+      "person_signal": "third",
+      "note": "Several sentences externally narrate a woman's decision, feelings, and actions toward a man."
+    },
+    {
+      "quote_id": "q02064",
+      "person_signal": "unmarked",
+      "note": "Single sentence about Faste is insufficient by itself to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q02065",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02066",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02067",
+      "person_signal": "third",
+      "note": "Sustained third-person narration renders Salander's perspective and mutual knowledge without a participating narrator."
+    },
+    {
+      "quote_id": "q02068",
+      "person_signal": "unmarked",
+      "note": "Generalized narration contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q02069",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02070",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed dialogue from Lisbeth Salander."
+    },
+    {
+      "quote_id": "q02071",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02072",
+      "person_signal": "third",
+      "note": "Extended external narration reports Blomkvist's observations, assumptions, and thoughts about Salander."
+    },
+    {
+      "quote_id": "q02073",
+      "person_signal": "non_base",
+      "note": "Historical essay-like material about Amazons, not narration of the novel's story events."
+    },
+    {
+      "quote_id": "q02074",
+      "person_signal": "non_base",
+      "note": "Gnomic use of 'we' refers universally and is not participating narration."
+    },
+    {
+      "quote_id": "q02075",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange with an attributed speech beat."
+    },
+    {
+      "quote_id": "q02076",
+      "person_signal": "unmarked",
+      "note": "Brief externally phrased event lacks enough local context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q02077",
+      "person_signal": "third",
+      "note": "External narration describes Salander's assessment and mental activity across several sentences."
+    },
+    {
+      "quote_id": "q02078",
+      "person_signal": "unmarked",
+      "note": "A single generalized description of an organization does not securely establish narrator person."
+    },
+    {
+      "quote_id": "q02079",
+      "person_signal": "non_base",
+      "note": "First-person language is contained within attributed dialogue."
+    },
+    {
+      "quote_id": "q02080",
+      "person_signal": "non_base",
+      "note": "Gnomic political statement, not story narration."
+    },
+    {
+      "quote_id": "q02081",
+      "person_signal": "third",
+      "note": "Free-indirect summary and external narration describe a woman's wishes and return to rational thought."
+    },
+    {
+      "quote_id": "q02082",
+      "person_signal": "third",
+      "note": "External narration identifies Berger and describes her physical and emotional response."
+    },
+    {
+      "quote_id": "q02083",
+      "person_signal": "non_base",
+      "note": "First- and second-person language occurs in direct speech."
+    },
+    {
+      "quote_id": "q02084",
+      "person_signal": "non_base",
+      "note": "Gnomic political assertion rather than story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.vpm.org/npr-news/2010-05-21/excerpt-the-girl-who-kicked-the-hornets-nest/",
+      "title": "Excerpt: \u2018The Girl Who Kicked the Hornet\u2019s Nest\u2019",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained Knopf-authorized Chapter 1 excerpt narrates Jonasson and Blomkvist externally in third person while reporting their perceptions and thoughts."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-girl-who-kicked-the-hornets-nest/style.html",
+      "title": "Stieg Larsson Writing Styles in The Girl Who Kicked the Hornet's Nest",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel's point of view as third-person omniscient and explains that it presents multiple characters' perspectives."
+    },
+    {
+      "url": "https://patricksherriff.com/2019/10/28/the-girl-who-played-with-fire-and-the-girl-who-kicked-the-hornets-nest-by-stein-larrson/",
+      "title": "The Girl who Played with Fire and The Girl who Kicked the Hornet\u2019s Nest by Stieg Larsson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A review of the two sequels explicitly describes their style as third-person omniscient, including movement among different characters' minds and subplots."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Girl Who Kicked the Hornet's Nest\" Stieg Larsson excerpt chapter; opened and evaluated the VPM/NPR authorized Chapter 1 excerpt.",
+    "Searched: \"The Girl Who Kicked the Hornet's Nest\" point of view third person narrator; opened the BookRags point-of-view discussion.",
+    "Searched publisher, Publishers Weekly, and Google Books combinations; Publishers Weekly results concerned audiobook performance, and no usable Google Books preview was available.",
+    "Searched the title with \"multiple narrators\", epistolary, diary, and \"frame narrative\"; results did not identify sustained first- or second-person sections, and several uses of 'narrator' referred only to audiobook performers.",
+    "Searched the exact title with \"third person omniscient\" excluding BookRags; opened Patrick Sherriff's review as corroborating whole-book evidence."
+  ],
+  "person_note": "The controlling narration is third person. Numerous interior quote passages externally narrate Salander, Blomkvist, Berger, Faste, and other characters while rendering their private thoughts, matching the authorized opening excerpt and two explicit whole-book POV descriptions. First- and second-person forms in the quotes are dialogue, messages, gnomic statements, or free-indirect wording rather than autonomous base-narrative sections. Historical passages about women warriors are local introductory material rather than a competing narrator. The authorized prose source is limited to the opening, but the varied interior quote evidence and independent whole-book descriptions remove the principal scope uncertainty, and no credible evidence of person alternation was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_049",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T20:06:56.510334+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3a8a6b2540d4fba26d859994e668cfaf09dee934b283b21c85080a7629c24ca6"
+  }
+}

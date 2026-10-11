@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:4204",
+  "quotes": [
+    {
+      "quote_id": "q02116",
+      "person_signal": "non_base",
+      "note": "General aphorism; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q02117",
+      "person_signal": "non_base",
+      "note": "The fuller Goodreads passage frames these first-person words as what his mother would say, making them imagined character speech rather than base narration."
+    },
+    {
+      "quote_id": "q02118",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first-person pronouns identify the speaker, not the narrator."
+    },
+    {
+      "quote_id": "q02119",
+      "person_signal": "non_base",
+      "note": "General religious maxim using inclusive we, not participating story narration."
+    },
+    {
+      "quote_id": "q02120",
+      "person_signal": "non_base",
+      "note": "Devotional speech voiced as God addressing humanity; it is not base narration."
+    },
+    {
+      "quote_id": "q02121",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased sentence about he is compatible with either first- or third-person framing and lacks enough context to decide alone."
+    },
+    {
+      "quote_id": "q02122",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02123",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed speech by Father Tim."
+    },
+    {
+      "quote_id": "q02124",
+      "person_signal": "non_base",
+      "note": "Attributed Borges quotation in paratext."
+    },
+    {
+      "quote_id": "q02125",
+      "person_signal": "non_base",
+      "note": "Attributed George Bernard Shaw quotation in paratext."
+    },
+    {
+      "quote_id": "q02126",
+      "person_signal": "non_base",
+      "note": "Direct first-person address within character speech."
+    },
+    {
+      "quote_id": "q02127",
+      "person_signal": "third",
+      "note": "A sustained scene combines dialogue with external narration of he, Sammy, and the group, with no participating narrator framing the action."
+    },
+    {
+      "quote_id": "q02128",
+      "person_signal": "non_base",
+      "note": "General devotional counsel; its first person belongs to a local speaker rather than the base narrator."
+    },
+    {
+      "quote_id": "q02129",
+      "person_signal": "unmarked",
+      "note": "The brief reflection concerns an unnamed he; without its surrounding scene it does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q02130",
+      "person_signal": "unmarked",
+      "note": "Possible base narration surrounds an embedded Victor Hugo quotation, but the isolated he sentence is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02131",
+      "person_signal": "non_base",
+      "note": "Quoted verse is explicitly spoken aloud by a character."
+    },
+    {
+      "quote_id": "q02132",
+      "person_signal": "non_base",
+      "note": "Sustained first-person testimony is a local character voice; authorized and structural evidence establishes third-person base narration."
+    },
+    {
+      "quote_id": "q02133",
+      "person_signal": "non_base",
+      "note": "General religious maxim rather than story narration."
+    },
+    {
+      "quote_id": "q02134",
+      "person_signal": "non_base",
+      "note": "An attributed Roethke quotation spoken by a character."
+    },
+    {
+      "quote_id": "q02135",
+      "person_signal": "non_base",
+      "note": "The first-person phrase occurs within dialogue built around an Emerson quotation, not in the base narrative voice."
+    },
+    {
+      "quote_id": "q02136",
+      "person_signal": "non_base",
+      "note": "A character's prayer, not base narration."
+    },
+    {
+      "quote_id": "q02137",
+      "person_signal": "unclear",
+      "note": "The sentence fragment has no narrator or attribution context."
+    },
+    {
+      "quote_id": "q02138",
+      "person_signal": "unmarked",
+      "note": "The sentence presents a male character's view of books, but this isolated he and generic you wording does not by itself identify narrator participation."
+    },
+    {
+      "quote_id": "q02139",
+      "person_signal": "non_base",
+      "note": "Liturgical prayer spoken in first-person plural, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780553544541",
+      "title": "Somewhere Safe with Somebody Good - Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's long authorized excerpt begins Chapter One and sustains external he/she narration centered on Father Tim, including access to his thoughts, without a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-somewhere-safe-with-somebody-good/styles.html",
+      "title": "Jan Karon Writing Styles in Somewhere Safe With Somebody Good",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies third-person narration, primarily through Timothy with occasional shifts to Hope, Esther Cunningham, and Coot."
+    }
+  ],
+  "search_log": [
+    "Searched \"Somewhere Safe with Somebody Good\" Jan Karon excerpt and publisher-domain variants; found and opened a sustained Penguin Random House excerpt.",
+    "Searched \"Somewhere Safe with Somebody Good\" with third person, point of view, and narrator; opened BookRags' explicit whole-book POV analysis.",
+    "Searched exact text from the apparent first-person and third-person quotes; the expanded Goodreads passage resolved q02117 as imagined speech by a character's mother, while no contrary first-person or alternating structure was found.",
+    "Checked Penguin Random House's main title page and library-marketing editions; the main page confirmed the work and sample availability, while the library-marketing page exposed the readable prose excerpt."
+  ],
+  "person_note": "The controlling narration is third person. The input's clearest scene quote narrates several characters externally, and the authorized publisher excerpt independently sustains third-person narration centered on Father Tim. The whole-book POV description confirms third person with shifts among several character perspectives, which are changes in focalization rather than changes of grammatical person. First-person material in the quote set consists of dialogue, prayer, devotional counsel, testimony, or imagined speech; notably, fuller context places q02117 inside the remembered words of the protagonist's mother. The remaining uncertainty is limited to the exact local speakers of some clipped first-person quotations and does not undermine the independently documented base structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_054",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T19:50:07.454138+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "701c8df54454da97b07bc69816047471919868fc0c91032d0489f3bbb2c105fc"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:2096",
+  "quotes": [
+    {
+      "quote_id": "q01404",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01405",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within direct character speech."
+    },
+    {
+      "quote_id": "q01406",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no diagnostic base-narrator position."
+    },
+    {
+      "quote_id": "q01407",
+      "person_signal": "unmarked",
+      "note": "The generic 'you' addresses an indefinite reader rather than a story-specific protagonist."
+    },
+    {
+      "quote_id": "q01408",
+      "person_signal": "non_base",
+      "note": "Quoted address to Mischa; first-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q01409",
+      "person_signal": "non_base",
+      "note": "Direct advice addressed to Hannibal does not expose the narrator."
+    },
+    {
+      "quote_id": "q01410",
+      "person_signal": "third",
+      "note": "Sustained external description of Hannibal's inaccessible memories establishes nonparticipating narration; 'you' is generic reader address."
+    },
+    {
+      "quote_id": "q01411",
+      "person_signal": "unmarked",
+      "note": "The short description of Hannibal uses third-person forms but lacks enough local context to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q01412",
+      "person_signal": "third",
+      "note": "Two linked sentences externally narrate Hannibal's inner state, sleep, and dreams without a participating frame."
+    },
+    {
+      "quote_id": "q01413",
+      "person_signal": "unmarked",
+      "note": "A single third-person characterization of Hannibal is insufficient on its own to establish narrative person."
+    },
+    {
+      "quote_id": "q01414",
+      "person_signal": "non_base",
+      "note": "Attributed verse functioning as paratext, not the novel's base narration."
+    },
+    {
+      "quote_id": "q01415",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Hannibal's actions and expectations in third person."
+    },
+    {
+      "quote_id": "q01416",
+      "person_signal": "third",
+      "note": "Several sentences sustain external narration of Svenka, his father, and another character."
+    },
+    {
+      "quote_id": "q01417",
+      "person_signal": "non_base",
+      "note": "Character speech predominates, while the brief external action beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01418",
+      "person_signal": "unmarked",
+      "note": "This single sentence about the Lecter family is compatible with third-person narration but is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01419",
+      "person_signal": "unmarked",
+      "note": "Impersonal setting description contains no person marker."
+    },
+    {
+      "quote_id": "q01420",
+      "person_signal": "unmarked",
+      "note": "The descriptive fragment contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01421",
+      "person_signal": "third",
+      "note": "The multi-clause sequence sustains external narration of a character's actions and the prisoners' response."
+    },
+    {
+      "quote_id": "q01422",
+      "person_signal": "unclear",
+      "note": "Clipping removes the subject and surrounding narrative frame."
+    },
+    {
+      "quote_id": "q01423",
+      "person_signal": "unclear",
+      "note": "The truncated passage may contain free-indirect thought, but its boundaries and context are missing."
+    },
+    {
+      "quote_id": "q01424",
+      "person_signal": "non_base",
+      "note": "Injected travel-service copy is unrelated to the novel."
+    },
+    {
+      "quote_id": "q01425",
+      "person_signal": "non_base",
+      "note": "Injected travel-service copy is unrelated to the novel."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://media.public.gr/Books-PDF/9780434014088-0219990.pdf",
+      "title": "Excerpt from HANNIBAL RISING by Thomas Harris",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Copyright-identified four-page extract includes the Prologue and Chapter 6. Chapter 6 sustains external third-person narration across Hannibal, his family, and the soldiers. The Prologue's brief inclusive 'we/us' casts narrator and reader as outside investigators, not story participants."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/lifestyle/2007/02/08/a-monster-in-the-making/77a7a165-3107-4613-a52b-64c6208adcbf/",
+      "title": "A Monster in the Making",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Whole-book review notes shifts of tense and point of view but does not identify a change in grammatical narrative person; the remark is compatible with shifting focalization within third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched 'Hannibal Rising Thomas Harris excerpt first chapter' and publisher/retailer variants; opened a copyright-identified extract containing the Prologue and Chapter 6.",
+    "Searched 'Hannibal Rising third-person novel', 'third person omniscient', 'narrator point of view', and 'narrative perspective'; no credible source explicitly established a different grammatical narrative person.",
+    "Searched Google Books, Open Library, and Internet Archive. Google Books supplied metadata and synopsis rather than accessible sustained prose; Open Library exposed only the first sentence, so neither was used as diagnostic evidence.",
+    "Opened Guardian and Washington Post reviews. The Guardian item was a parody condensation rather than novel text; the Washington Post's reference to point-of-view shifts was retained only as nondiagnostic structural context."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Hannibal and other characters externally. Multiple Goodreads passages sustain that position, and the authorized extract independently demonstrates it in both the Prologue and Chapter 6. The Prologue's 'let us' and 'we' invite the reader into an extradiegetic reconstruction and do not create a participating first-person story strand; generic 'you' likewise does not establish second person. Dialogue, verse, and injected travel copy are non-base material, while short isolated third-person sentences were conservatively left unmarked. The main limitation is that the web extract samples named sections rather than the entire novel, but the dispersed quote evidence corroborates it and no credible evidence indicates sustained narration in another person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_043",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-04T05:41:04.509427+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b61700a371ed659d0e6da77f614cef35fa9e3b71bd98e0b439ddcf42bc6422e8"
+  }
+}

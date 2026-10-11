@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:1636",
+  "quotes": [
+    {
+      "quote_id": "q01790",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside explicitly tagged character speech and do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01791",
+      "person_signal": "unclear",
+      "note": "The isolated first-person aphorism has no attribution or quotation boundary, so its local voice cannot be resolved."
+    },
+    {
+      "quote_id": "q01792",
+      "person_signal": "unmarked",
+      "note": "This narratorial generalization contains no participating narrator and, by itself, does not establish narrative person."
+    },
+    {
+      "quote_id": "q01793",
+      "person_signal": "non_base",
+      "note": "The response-like wording is character speech rather than controlling narration."
+    },
+    {
+      "quote_id": "q01794",
+      "person_signal": "non_base",
+      "note": "This conversational first-person quip is character speech, not base narration."
+    },
+    {
+      "quote_id": "q01795",
+      "person_signal": "non_base",
+      "note": "The first-person language is entirely within a tagged dialogue exchange."
+    },
+    {
+      "quote_id": "q01796",
+      "person_signal": "non_base",
+      "note": "All visible first- and second-person pronouns belong to a multi-speaker conversation."
+    },
+    {
+      "quote_id": "q01797",
+      "person_signal": "unmarked",
+      "note": "Exposition about takeoff speed is compatible with base narration but contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01798",
+      "person_signal": "non_base",
+      "note": "The passage is chiefly speech; the brief third-person action beat is too limited to establish narrative person independently."
+    },
+    {
+      "quote_id": "q01799",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms are spoken, while the short external dialogue beat is insufficient on its own to diagnose the narrator."
+    },
+    {
+      "quote_id": "q01800",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly dialogue; its brief named-character beats do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q01801",
+      "person_signal": "third",
+      "note": "The base narration refers externally to a focal character as he while reporting his immediate knowledge, consistent with the book's established third-person mode."
+    },
+    {
+      "quote_id": "q01802",
+      "person_signal": "third",
+      "note": "Across an extended scene, narratorial beats repeatedly describe Robie, Reel, and Claire externally between their speeches."
+    },
+    {
+      "quote_id": "q01803",
+      "person_signal": "third",
+      "note": "Sustained scene beats narrate several characters by name and third-person pronouns without a participating narrator."
+    },
+    {
+      "quote_id": "q01804",
+      "person_signal": "non_base",
+      "note": "You is direct character address in dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01805",
+      "person_signal": "non_base",
+      "note": "The first-person opinion and direct-address you belong to a local character voice, not the third-person base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://libcat.ru/knigi/detektivy-i-trillery/triller/30107-devid-baldachchi-end-game.html",
+      "title": "\u0414\u044d\u0432\u0438\u0434 \u0411\u0430\u043b\u0434\u0430\u0447\u0447\u0438 - End Game",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The opened text of chapter 1 sustains external narration of Will Robie as he, including access to his knowledge and perceptions; isolated first-person lines are presented as his thoughts."
+    },
+    {
+      "url": "https://libcat.ru/knigi/detektivy-i-trillery/triller/30107-2-devid-baldachchi-end-game.html",
+      "title": "\u0414\u044d\u0432\u0438\u0434 \u0411\u0430\u043b\u0434\u0430\u0447\u0447\u0438 - End Game, page 2",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Continuation through chapters 1 and 2 maintains third-person narration of Robie and explicitly distinguishes occasional first-person internal thought from the surrounding base voice."
+    },
+    {
+      "url": "https://www.larsemmerichbooks.com/thriller-novels-comparing-end-game-david-baldacci-with-lars-emmerichs-burn/",
+      "title": "Thriller Novels: Comparing End Game \u2013 David Baldacci with Lars Emmerich\u2019s Burn",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The article explicitly describes Baldacci's End Game as using a third-person point of view."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/end-game/9781455586639/?lens=grand-central-publishing",
+      "title": "End Game by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher page verifies the work, edition, characters, and novel-length prose eligibility, but its synopsis grammar is not treated as narrative-person evidence."
+    },
+    {
+      "url": "https://play.google.com/store/books/details/David_Baldacci_End_Game?id=pdQpDgAAQBAJ",
+      "title": "End Game by David Baldacci - Books on Google Play",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The authorized ebook listing confirms a publisher-supplied free sample exists, but the opened web page exposed only catalog copy rather than sample prose."
+    }
+  ],
+  "search_log": [
+    "Searched \"End Game David Baldacci excerpt chapter 1 publisher\", \"first chapter\", and author/publisher-site variants; the Hachette and Pan Macmillan pages supplied synopsis material but no readable excerpt.",
+    "Searched \"End Game David Baldacci point of view third person narration\" and \"narrator\"; found and opened an explicit whole-book third-person description on Lars Emmerich's thriller site.",
+    "Searched exact opening lines and \"End Game David Baldacci read sample ebook\"; opened sustained chapter 1 and chapter 2 text showing third-person narration with clearly local first-person thoughts.",
+    "Checked Google Books, Google Play, Apple Books, Open Library, and the separately issued First Six Chapters preview; Google Books returned a 403 when opened, while the other accessible catalog pages did not expose diagnostic prose.",
+    "Searched exact interior quote fragments including \"He instantly knew what Patti had done\", \"Vee-one meant the aircraft\", and \"Both Robie and Reel tensed\"; no additional authoritative passage source was found."
+  ],
+  "person_note": "The controlling narration is third person: sustained web prose externally narrates Robie while entering his knowledge and perceptions, and an explicit secondary description identifies the novel's point of view as third person. The Goodreads evidence independently corroborates this through extended scene beats that narrate Robie, Reel, Claire, and others externally. Numerous I and you forms are dialogue, aphorism, or local internal thought rather than autonomous first- or second-person sections. No evidence of a sustained person alternation was found. Confidence is medium because the readable prose source and explicit POV description are Tier C rather than authorized Tier A or structural Tier B evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_059",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:26:17.986526+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ecd06958cfd15dd8020caeecd645df24518497bd66c7bffce25477b73cda2b39"
+  }
+}

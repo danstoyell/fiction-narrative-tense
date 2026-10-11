@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:3738",
+  "quotes": [
+    {
+      "quote_id": "q00975",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic maxim; generic you does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00976",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00977",
+      "person_signal": "non_base",
+      "note": "Gnomic observation; third-person nouns do not establish narrator participation."
+    },
+    {
+      "quote_id": "q00978",
+      "person_signal": "unmarked",
+      "note": "Character speech is nondiagnostic, and the brief Greer speech beat does not establish narrative person."
+    },
+    {
+      "quote_id": "q00979",
+      "person_signal": "non_base",
+      "note": "Generic-you maxim rather than sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00980",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial observation, but its generic references do not identify narrator participation."
+    },
+    {
+      "quote_id": "q00981",
+      "person_signal": "non_base",
+      "note": "Standalone generic-you maxim, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00982",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison of generic human types; no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00983",
+      "person_signal": "non_base",
+      "note": "Standalone aphoristic statement without person evidence."
+    },
+    {
+      "quote_id": "q00984",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; no participating or externally situated narrator is exposed."
+    },
+    {
+      "quote_id": "q00985",
+      "person_signal": "non_base",
+      "note": "Standalone maxim about men, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00986",
+      "person_signal": "non_base",
+      "note": "Generic you in a universal reflection does not constitute second-person story narration."
+    },
+    {
+      "quote_id": "q00987",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00988",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00989",
+      "person_signal": "third",
+      "note": "Sustained external narration enters Nikolay II's assumptions and renders his rhetorical thoughts in free-indirect style."
+    },
+    {
+      "quote_id": "q00990",
+      "person_signal": "unmarked",
+      "note": "Clipped sentence with an unresolved third-person antecedent; alone it does not establish the narrator's position."
+    },
+    {
+      "quote_id": "q00991",
+      "person_signal": "third",
+      "note": "Extended external account of a male character's thoughts and circumstances establishes third-person focalized narration."
+    },
+    {
+      "quote_id": "q00992",
+      "person_signal": "third",
+      "note": "External narration reports Andropov's decision and supplies future knowledge unavailable to him, clearly exposing a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00993",
+      "person_signal": "third",
+      "note": "The authorized prologue context identifies the focal character as Jack Ryan and confirms this as third-person base narration."
+    },
+    {
+      "quote_id": "q00994",
+      "person_signal": "unmarked",
+      "note": "Mostly dialogue; the brief Murray action beat is possible base narration but is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00995",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person recollection with no antecedent or sufficient local context to establish narrative position."
+    },
+    {
+      "quote_id": "q00996",
+      "person_signal": "unmarked",
+      "note": "The story-specific recollection is possible base narration, but the isolated he and generic quoted you are insufficient to diagnose person."
+    },
+    {
+      "quote_id": "q00997",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic reflection, likely locally focalized thought, and not reliable base-person evidence."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://tomclancy.com/images/tomclancy/site/contents/red_rabbit_clancy.pdf",
+      "title": "Red Rabbit \u2014 Prologue: The Back Garden",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized 19-page excerpt sustains third-person narration while moving among Jack Ryan, Zaitzev, Ed and Mary Pat Foley, and Yuriy Andropov, including access to their thoughts."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/red-rabbit/excerpt",
+      "title": "Red Rabbit by Tom Clancy | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-permission excerpt reproduces the prologue's sustained third-person narration; it corroborates the authorized text but is not an independent passage."
+    },
+    {
+      "url": "https://sobrief.com/books/red-rabbit",
+      "title": "Red Rabbit by Tom Clancy | Summary, Audio, Analysis, FAQ",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Whole-book analysis explicitly describes an omniscient third-person narrator shifting among characters in London, Moscow, Rome, and Washington."
+    }
+  ],
+  "search_log": [
+    "Searched \"Red Rabbit\" \"Tom Clancy\" excerpt, first chapter, and read an extract; found and opened the authorized Tom Clancy-site PDF and the publisher-permission Bookreporter reproduction.",
+    "Searched \"Red Rabbit\" \"Tom Clancy\" point of view, third person, narrator, and omniscient; found and opened SoBrief's explicit whole-book description. Many other results concerned Alex Grecian's different novel with the same title and were discarded.",
+    "Opened the Penguin Random House title page and Google Books editions to verify the work; their synopsis and limited-preview metadata did not directly establish narrative person.",
+    "Searched Internet Archive/full-preview variants; no accessible whole-book primary text was found."
+  ],
+  "person_note": "The diagnostic quotes show third-person focalized narration around several characters, with q00992 additionally revealing an external narrator's future knowledge. The authorized prologue independently sustains the same form across multiple focal characters, and the whole-book analysis explicitly confirms omniscient third-person perspective shifts. First-person forms occur only in dialogue, while visible you forms are generic maxims, speech, or locally quoted thought; there is no evidence of sustained first- or second-person base sections. The main limitation is that the primary web text covers only the opening, but the interior-style quote evidence and whole-book structural description agree without credible conflict.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_038",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:33:33.839280+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dad28ae7742c6bc2ad9429ff2585d1a2994dda37e01197462088bd57cd4e3b55"
+  }
+}

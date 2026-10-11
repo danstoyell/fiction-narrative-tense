@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:4507",
+  "quotes": [
+    {
+      "quote_id": "q00418",
+      "person_signal": "first",
+      "note": "The narratorial recipient 'me' identifies a participating narrator; the subsequent generic 'you' conveys reported advice."
+    },
+    {
+      "quote_id": "q00419",
+      "person_signal": "first",
+      "note": "The narrator describes her own actions and membership in the Women's Murder Club."
+    },
+    {
+      "quote_id": "q00420",
+      "person_signal": "unmarked",
+      "note": "A brief description of 'he' does not establish narrator participation; generic 'you' is not second-person narration."
+    },
+    {
+      "quote_id": "q00421",
+      "person_signal": "first",
+      "note": "The outside speech attribution 'I said' identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00422",
+      "person_signal": "unmarked",
+      "note": "The club's assembly and the ensuing question do not identify narrative person."
+    },
+    {
+      "quote_id": "q00423",
+      "person_signal": "non_base",
+      "note": "The caller's threats are dialogue; the attribution does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00424",
+      "person_signal": "first",
+      "note": "The narrator reports her own lack of acquaintance with the body on Claire's table."
+    },
+    {
+      "quote_id": "q00425",
+      "person_signal": "first",
+      "note": "The outside speech beat describes the narrator speaking and starting down the stairs."
+    },
+    {
+      "quote_id": "q00426",
+      "person_signal": "non_base",
+      "note": "A dialogue exchange; first-person pronouns belong to a speaker."
+    },
+    {
+      "quote_id": "q00427",
+      "person_signal": "first",
+      "note": "The narrator recalls her own shooting alongside Jacobi, establishing participation."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/the-6th-target/excerpt",
+      "title": "The 6th Target \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The copyright-attributed excerpt contains sustained third-person narration centered on Fred Brinkley in prologue chapters 1\u20132, followed by Lindsay Boxer's sustained first-person narration in Part One, chapter 3. These are autonomous narrative sections, not embedded speech or documents."
+    },
+    {
+      "url": "https://www.jamespatterson.com/titles/james-patterson/the-6th-target/9780316005166/",
+      "title": "The 6th Target by James Patterson & Maxine Paetro",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author site's catalog page verifies authorship and the 2007 publication. Its synopsis does not establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched 'James Patterson The 6th Target excerpt' and 'The 6th Target first third person narration'.",
+    "Opened the Bookreporter excerpt and inspected prologue chapters 1\u20132 and Part One, chapter 3.",
+    "Opened the author's catalog page to verify the work; it provided no diagnostic narration evidence.",
+    "Searched '\"The 6th Target\" \"point of view\"' and '\"The 6th Target\" \"third person\" \"first\"'. Results did not establish a second strong source supporting ALTERNATING; results about The Target and 7th Heaven concern different books."
+  ],
+  "person_note": "The quotes establish Lindsay Boxer's participating first-person narration but do not independently establish alternation. The authorized excerpt demonstrates separate, sustained third-person Brinkley chapters and a first-person Boxer chapter, supporting ALTERNATING. Dialogue pronouns and generic 'you' do not add narrative persons. Confidence is med because only one Tier A/B source supports ALTERNATING and direct web coverage is limited to the opening sections; the exact two-source threshold for high confidence is unmet.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_045",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T13:26:01.525792+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7fd8e3915d80575abf17d02f2f0cadb12f6fe61458e1e7231438f711b6cd62e6"
+  }
+}

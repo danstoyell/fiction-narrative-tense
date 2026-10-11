@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1952:1594",
+  "quotes": [
+    {
+      "quote_id": "q00791",
+      "person_signal": "non_base",
+      "note": "Character speech; its second-person address does not identify the narrator."
+    },
+    {
+      "quote_id": "q00792",
+      "person_signal": "non_base",
+      "note": "Gnomic statement, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00793",
+      "person_signal": "non_base",
+      "note": "Character speech; the speaking I is not the base narrator."
+    },
+    {
+      "quote_id": "q00794",
+      "person_signal": "non_base",
+      "note": "Character discussion of timshel, not base narration."
+    },
+    {
+      "quote_id": "q00795",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, context identifies this as the narrator's sustained Chapter 13 declaration using I."
+    },
+    {
+      "quote_id": "q00796",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00797",
+      "person_signal": "first",
+      "note": "The Chapter 34 narrator explicitly states his belief as I; this is not character speech."
+    },
+    {
+      "quote_id": "q00798",
+      "person_signal": "non_base",
+      "note": "Samuel's direct address to Adam, not narrator evidence."
+    },
+    {
+      "quote_id": "q00799",
+      "person_signal": "non_base",
+      "note": "Embedded character speech about truth."
+    },
+    {
+      "quote_id": "q00800",
+      "person_signal": "non_base",
+      "note": "Samuel's voiced thought, not base narration."
+    },
+    {
+      "quote_id": "q00801",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q00802",
+      "person_signal": "first",
+      "note": "Part of the Chapter 34 narrator's first-person meditation on death and conduct."
+    },
+    {
+      "quote_id": "q00803",
+      "person_signal": "non_base",
+      "note": "Full-text context shows this first-person passage is Adam speaking to Samuel."
+    },
+    {
+      "quote_id": "q00804",
+      "person_signal": "non_base",
+      "note": "Character speech with generic you."
+    },
+    {
+      "quote_id": "q00805",
+      "person_signal": "unmarked",
+      "note": "Base narratorial commentary in Chapter 13, but its inclusive we does not establish participation by itself."
+    },
+    {
+      "quote_id": "q00806",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00807",
+      "person_signal": "non_base",
+      "note": "Lee's speech about the human soul."
+    },
+    {
+      "quote_id": "q00808",
+      "person_signal": "first",
+      "note": "The Chapter 34 narrator uses me within a sustained authorial section."
+    },
+    {
+      "quote_id": "q00809",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00810",
+      "person_signal": "non_base",
+      "note": "Samuel's speech, as confirmed by surrounding dialogue."
+    },
+    {
+      "quote_id": "q00811",
+      "person_signal": "non_base",
+      "note": "Gnomic material without diagnostic person."
+    },
+    {
+      "quote_id": "q00812",
+      "person_signal": "non_base",
+      "note": "Character speech using generic you."
+    },
+    {
+      "quote_id": "q00813",
+      "person_signal": "unmarked",
+      "note": "Aphoristic continuation of the opening narration; the excerpt itself does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00814",
+      "person_signal": "unmarked",
+      "note": "Base narratorial bridge about Adam's routine, but no diagnostic narrator pronoun appears."
+    },
+    {
+      "quote_id": "q00815",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without person evidence."
+    },
+    {
+      "quote_id": "q00816",
+      "person_signal": "unmarked",
+      "note": "Base authorial exposition in Chapter 13; universal our does not alone identify a participating narrator."
+    },
+    {
+      "quote_id": "q00817",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q00818",
+      "person_signal": "unmarked",
+      "note": "Base narratorial discussion introducing Cathy, but this clipped portion lacks a diagnostic narratorial I."
+    },
+    {
+      "quote_id": "q00819",
+      "person_signal": "non_base",
+      "note": "Character question using you, not second-person narration."
+    },
+    {
+      "quote_id": "q00820",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without narrative-person evidence."
+    },
+    {
+      "quote_id": "q00821",
+      "person_signal": "unmarked",
+      "note": "Base narratorial exposition about time; generic you is not story-specific second person."
+    },
+    {
+      "quote_id": "q00822",
+      "person_signal": "first",
+      "note": "The Chapter 13 authorial narrator says I guess within a sustained first-person meditation."
+    },
+    {
+      "quote_id": "q00823",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00824",
+      "person_signal": "non_base",
+      "note": "Explicit Abra-Cal dialogue."
+    },
+    {
+      "quote_id": "q00825",
+      "person_signal": "non_base",
+      "note": "Lee's speech in the Cain-and-Abel discussion."
+    },
+    {
+      "quote_id": "q00826",
+      "person_signal": "non_base",
+      "note": "Lee directly admonishes Cal; not base narration."
+    },
+    {
+      "quote_id": "q00827",
+      "person_signal": "non_base",
+      "note": "A character's first-person reflection, routed as dialogue."
+    },
+    {
+      "quote_id": "q00828",
+      "person_signal": "non_base",
+      "note": "Character speech about storytelling, not narrator evidence."
+    },
+    {
+      "quote_id": "q00829",
+      "person_signal": "unmarked",
+      "note": "Continuation of the opening narration; generic you is aphoristic, not second-person story narration."
+    },
+    {
+      "quote_id": "q00830",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic person."
+    },
+    {
+      "quote_id": "q00831",
+      "person_signal": "non_base",
+      "note": "Lee's remembered speech about lying."
+    },
+    {
+      "quote_id": "q00832",
+      "person_signal": "non_base",
+      "note": "Samuel's speech about the Irish."
+    },
+    {
+      "quote_id": "q00833",
+      "person_signal": "non_base",
+      "note": "Gnomic historical comparison without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00834",
+      "person_signal": "non_base",
+      "note": "Cyrus's extended speech to Adam."
+    },
+    {
+      "quote_id": "q00835",
+      "person_signal": "non_base",
+      "note": "Character advice, not base narration."
+    },
+    {
+      "quote_id": "q00836",
+      "person_signal": "unmarked",
+      "note": "A single he-clause does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00837",
+      "person_signal": "non_base",
+      "note": "Extended Samuel-Adam dialogue with only attribution beats outside speech."
+    },
+    {
+      "quote_id": "q00838",
+      "person_signal": "non_base",
+      "note": "Character speech in the Cain-and-Abel discussion."
+    },
+    {
+      "quote_id": "q00839",
+      "person_signal": "third",
+      "note": "Sustained external narration of Cathy, including her knowledge and habitual actions."
+    },
+    {
+      "quote_id": "q00840",
+      "person_signal": "non_base",
+      "note": "Character directly addresses another as you."
+    },
+    {
+      "quote_id": "q00841",
+      "person_signal": "non_base",
+      "note": "Character advice using you, not second-person narration."
+    },
+    {
+      "quote_id": "q00842",
+      "person_signal": "non_base",
+      "note": "Character speech about soldiers and killing."
+    },
+    {
+      "quote_id": "q00843",
+      "person_signal": "non_base",
+      "note": "Character speech with universal you."
+    },
+    {
+      "quote_id": "q00844",
+      "person_signal": "third",
+      "note": "Sustained external account of Tom's life, actions, mind, joy, and sorrow."
+    },
+    {
+      "quote_id": "q00845",
+      "person_signal": "non_base",
+      "note": "Dialogue among Samuel and Adam; first and second persons belong to speakers."
+    },
+    {
+      "quote_id": "q00846",
+      "person_signal": "non_base",
+      "note": "Character speech directing another person."
+    },
+    {
+      "quote_id": "q00847",
+      "person_signal": "first",
+      "note": "Authorized opening confirms this is the participating narrator recalling his Salinas childhood."
+    },
+    {
+      "quote_id": "q00848",
+      "person_signal": "unmarked",
+      "note": "A bare he-sentence is insufficient to identify narration as third person."
+    },
+    {
+      "quote_id": "q00849",
+      "person_signal": "unmarked",
+      "note": "Descriptive base narration with no diagnostic narrator or protagonist person."
+    },
+    {
+      "quote_id": "q00850",
+      "person_signal": "non_base",
+      "note": "Gnomic material about storytelling, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00851",
+      "person_signal": "non_base",
+      "note": "Lee's inclusive speech to Cal about American inheritance."
+    },
+    {
+      "quote_id": "q00852",
+      "person_signal": "third",
+      "note": "External narration describes Charles and accesses what he did not know about himself."
+    },
+    {
+      "quote_id": "q00853",
+      "person_signal": "non_base",
+      "note": "Samuel explicitly addresses Adam while describing his memories."
+    },
+    {
+      "quote_id": "q00854",
+      "person_signal": "non_base",
+      "note": "Character speech in a conversation with Cal."
+    },
+    {
+      "quote_id": "q00855",
+      "person_signal": "third",
+      "note": "Sustained external comparison of Samuel's and Tom's relationships to books."
+    },
+    {
+      "quote_id": "q00856",
+      "person_signal": "non_base",
+      "note": "Character speech explaining timshel."
+    },
+    {
+      "quote_id": "q00857",
+      "person_signal": "third",
+      "note": "External narration enters the unnamed woman's private mental life."
+    },
+    {
+      "quote_id": "q00858",
+      "person_signal": "unmarked",
+      "note": "Base narratorial commentary about Cathy's sexuality, but no diagnostic narrator person appears."
+    },
+    {
+      "quote_id": "q00859",
+      "person_signal": "non_base",
+      "note": "Lee's speech during the Cain-and-Abel discussion."
+    },
+    {
+      "quote_id": "q00860",
+      "person_signal": "non_base",
+      "note": "Samuel's directly attributed speech."
+    },
+    {
+      "quote_id": "q00861",
+      "person_signal": "first",
+      "note": "The early authorial narrator says I think while bridging settlement history to Adam Trask."
+    },
+    {
+      "quote_id": "q00862",
+      "person_signal": "non_base",
+      "note": "Gnomic procedural reflection without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00863",
+      "person_signal": "first",
+      "note": "The Chapter 34 narrator recounts deaths he remembers and an event he witnessed aboard ship."
+    },
+    {
+      "quote_id": "q00864",
+      "person_signal": "non_base",
+      "note": "Gnomic question using universal you."
+    },
+    {
+      "quote_id": "q00865",
+      "person_signal": "first",
+      "note": "The narrator's first-person definition of story and lie directly precedes third-person Cathy narration."
+    },
+    {
+      "quote_id": "q00866",
+      "person_signal": "non_base",
+      "note": "Dedication letter signed John; paratext rather than the novel's base narration."
+    },
+    {
+      "quote_id": "q00867",
+      "person_signal": "non_base",
+      "note": "Local rendering of Lee's thought, not the controlling narratorial I."
+    },
+    {
+      "quote_id": "q00868",
+      "person_signal": "unmarked",
+      "note": "A clipped bracketed he-sentence is insufficient to establish third-person narration."
+    },
+    {
+      "quote_id": "q00869",
+      "person_signal": "non_base",
+      "note": "A character's explicitly attributed prayer."
+    },
+    {
+      "quote_id": "q00870",
+      "person_signal": "non_base",
+      "note": "Character speech about choice."
+    },
+    {
+      "quote_id": "q00871",
+      "person_signal": "non_base",
+      "note": "Samuel's first-person speech during the naming conversation."
+    },
+    {
+      "quote_id": "q00872",
+      "person_signal": "unmarked",
+      "note": "Base narratorial generalization introducing Will's private pain, but this excerpt does not identify narrator person."
+    },
+    {
+      "quote_id": "q00873",
+      "person_signal": "non_base",
+      "note": "Lee's direct speech about being needed."
+    },
+    {
+      "quote_id": "q00874",
+      "person_signal": "non_base",
+      "note": "Samuel's directly voiced reflection."
+    },
+    {
+      "quote_id": "q00875",
+      "person_signal": "non_base",
+      "note": "Character speech using I and direct address."
+    },
+    {
+      "quote_id": "q00876",
+      "person_signal": "unmarked",
+      "note": "Landscape narration contains no diagnostic narrator or protagonist person."
+    },
+    {
+      "quote_id": "q00877",
+      "person_signal": "non_base",
+      "note": "Lee's local reflection, presented as gnomic material."
+    },
+    {
+      "quote_id": "q00878",
+      "person_signal": "non_base",
+      "note": "Samuel's extended speech to Lee, with Lee's reply."
+    },
+    {
+      "quote_id": "q00879",
+      "person_signal": "unmarked",
+      "note": "A bare they-sentence does not establish third-person base narration."
+    },
+    {
+      "quote_id": "q00880",
+      "person_signal": "non_base",
+      "note": "Character speech about ending an association."
+    },
+    {
+      "quote_id": "q00881",
+      "person_signal": "non_base",
+      "note": "Explicit dialogue about timshel."
+    },
+    {
+      "quote_id": "q00882",
+      "person_signal": "non_base",
+      "note": "Lee's inclusive speech to Cal."
+    },
+    {
+      "quote_id": "q00883",
+      "person_signal": "third",
+      "note": "Sustained external scene narration of two characters, including what neither knew."
+    },
+    {
+      "quote_id": "q00884",
+      "person_signal": "non_base",
+      "note": "Explicit dialogue between a girl and Lee."
+    },
+    {
+      "quote_id": "q00885",
+      "person_signal": "unmarked",
+      "note": "Narratorial historical commentary; generic you is not sustained second-person narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9781440631320",
+      "title": "East of Eden \u2014 Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized Chapter 1 excerpt repeatedly uses the narrator's autobiographical I to recall his Salinas Valley childhood."
+    },
+    {
+      "url": "https://journals.ku.edu/amsj/article/download/2624/2583",
+      "title": "\u201ca great black book\u201d: East of Eden and Gunn\u2019s New Family Physician",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Robert DeMott's scholarly article explicitly describes Steinbeck's modulation of first- and third-person points of view and his entry into his ancestral story."
+    },
+    {
+      "url": "https://muldermedia.com/thesis/",
+      "title": "The Reader\u2019s Story: The Original East of Eden as a Postmodern \u201cFictory\u201d",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Steven Mulder's Ohio University MA thesis analyzes third-person narration repeatedly disrupted by a participating first-person I and documents the narrator appearing both as I and externally as John."
+    },
+    {
+      "url": "https://www.supersummary.com/east-of-eden/summary/",
+      "title": "East of Eden Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural overview states that most of the novel is third-person while the narrator has separate first-person philosophical and historical sections."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/eastofeden/facts/",
+      "title": "East of Eden: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The point-of-view description identifies third-person storytelling across multiple characters together with frequent first-person authorial intrusions."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cEast of Eden John Steinbeck narrator first person third person alternating point of view scholarly.\u201d",
+    "Searched for scholarly narrative analysis using \u201cEast of Eden narrative technique first person narrator Hamilton family scholarly PDF\u201d and opened the DeMott article and Mulder thesis.",
+    "Searched for and opened an authorized Penguin Random House Chapter 1 excerpt.",
+    "Searched \u201cEast of Eden narrator switches first person third person\u201d and opened whole-book POV descriptions from SuperSummary and SparkNotes.",
+    "Performed targeted exact-phrase searches and full-text context checks for apparent first-person passages, distinguishing narrator sections in Chapters 13 and 34 from speech by Adam, Samuel, and Lee.",
+    "Searched for epistolary, diary, frame, and multiple-narrator descriptions; found no evidence that the novel's person changes are merely a subordinate document or autonomous embedded tale."
+  ],
+  "person_note": "The novel combines sustained third-person family-saga narration with recurring first-person autobiographical and authorial sections spoken by a narrator who belongs to the Hamilton family history. The authorized opening verifies the memoir-like I, while quote passages about Cathy, Tom, Charles, and other characters expose substantial third-person narration; scholarly whole-book analysis explicitly describes these modulations. Apparent contrary first-person quotes such as q00803 are character speech, while q00795, q00797, q00822, q00847, q00861, q00863, and q00865 belong to the narrator despite several upstream dialogue or gnomic buckets. The only conceptual uncertainty is whether this is described as one hybrid narrator or two grammatical modes; under the project rule that sustained base sections in different persons are ALTERNATING, the structure resolves to ALTERNATING.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_008",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:12:56.490683+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "74e75db74774eaa2e74bce9f09ec3fc5ccd83d7aeefc35bacc8cc7d5dbbb456a"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1989:1079",
+  "quotes": [
+    {
+      "quote_id": "q02992",
+      "person_signal": "non_base",
+      "note": "General maxim with no story-specific narrator or character viewpoint."
+    },
+    {
+      "quote_id": "q02993",
+      "person_signal": "unmarked",
+      "note": "A thought is attributed to Moore, but this single named-character sentence does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q02994",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02995",
+      "person_signal": "third",
+      "note": "Sustained narration follows Ryan externally while reporting his perceptions, background, and beliefs, with no participating narrator."
+    },
+    {
+      "quote_id": "q02996",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02997",
+      "person_signal": "non_base",
+      "note": "General political observation with no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q02998",
+      "person_signal": "third",
+      "note": "External biographical narration summarizes Chavez's history and his subjective valuation of the Army."
+    },
+    {
+      "quote_id": "q02999",
+      "person_signal": "third",
+      "note": "An external narrator describes the President's predicament and adds an authorial generalization about presidents."
+    },
+    {
+      "quote_id": "q03000",
+      "person_signal": "unmarked",
+      "note": "Briefly summarizes Wegener's repeated advice, but the isolated named-character reference is not independently diagnostic."
+    },
+    {
+      "quote_id": "q03001",
+      "person_signal": "third",
+      "note": "External scene narration shifts into the unnamed character's attitude toward bugles without a participating narrator."
+    },
+    {
+      "quote_id": "q03002",
+      "person_signal": "third",
+      "note": "Several sentences narrate the crew and their ship externally, including the crew's collective pride."
+    },
+    {
+      "quote_id": "q03003",
+      "person_signal": "non_base",
+      "note": "The dialogue bucket and colloquial phrasing indicate local speech or thought rather than base narration."
+    },
+    {
+      "quote_id": "q03004",
+      "person_signal": "third",
+      "note": "External narration follows a soldier and explicitly reports motives he does not formulate to himself."
+    },
+    {
+      "quote_id": "q03005",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with no story-specific person evidence."
+    },
+    {
+      "quote_id": "q03006",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about love and beauty, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03007",
+      "person_signal": "third",
+      "note": "The character is narrated externally and the narrator reports the phrase entering his mind."
+    },
+    {
+      "quote_id": "q03008",
+      "person_signal": "unmarked",
+      "note": "The isolated external reference to Ryan is compatible with third person but does not alone exclude a participating narrator."
+    },
+    {
+      "quote_id": "q03009",
+      "person_signal": "unmarked",
+      "note": "The short statement about Chavez's sense of home lacks enough local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q03010",
+      "person_signal": "unmarked",
+      "note": "The second-person possessive occurs in a generic idiom, not sustained narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q03011",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its I and you forms do not identify the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780451489821",
+      "title": "Clear and Present Danger - Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized publisher excerpt sustains third-person narration across separate scenes centered on Cutter, Ramun, Chavez, and weapons technicians, repeatedly reporting characters' thoughts without a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-clear-and-present-danger/style.html",
+      "title": "Tom Clancy Writing Styles in Clear and Present Danger",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book-level point-of-view analysis explicitly describes changing scene focalization as generally third person attached to each character, with third-person omniscient biographical sketches."
+    }
+  ],
+  "search_log": [
+    "Searched \"Clear and Present Danger\" Tom Clancy excerpt and first chapter; found and opened the Penguin Random House title page and its library-marketing publisher excerpt.",
+    "Searched \"Clear and Present Danger\" with third person, narrator, point of view, omniscient, and alternating-narration terms; opened BookRags' whole-book POV discussion and found no credible claim of first-, second-, or alternating-person base narration.",
+    "Searched Google Books and Archive.org for previews; a Google Books listing surfaced but its page returned HTTP 403 when opened, and no usable Archive.org text was found.",
+    "Reviewed an informal WordPress review that called the novel third-person, but omitted it from evidence because the publisher excerpt and dedicated POV analysis were stronger."
+  ],
+  "person_note": "The diagnostic quotes repeatedly move among Ryan, Chavez, the President, and other characters in external third-person narration, often with access to their thoughts. First- and second-person forms occur only in dialogue, maxims, or generic idioms. The authorized opening excerpt independently shows the same multi-character third-person method, and the whole-book POV source explicitly confirms that the scene changes remain third person. No evidence indicated sustained first- or second-person base sections; the only limitation is that the Tier A prose source covers the opening rather than the entire novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_025",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:26:19.338857+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fbee3d3c3d7a85575d991d2dd42ebe1d60c55a73d8f40a8142b1c637bdebd55b"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1975:2769",
+  "quotes": [
+    {
+      "quote_id": "q02139",
+      "person_signal": "third",
+      "note": "Sustained close narration presents Theresa\u2019s discomfort and evaluative thoughts as she/her, with no participating narrator."
+    },
+    {
+      "quote_id": "q02140",
+      "person_signal": "third",
+      "note": "Extended third-person narration gives direct access to Theresa\u2019s private feelings about her body and others\u2019 perceptions."
+    },
+    {
+      "quote_id": "q02141",
+      "person_signal": "non_base",
+      "note": "The Goodreads text includes a reader\u2019s preface, quoted speech, and only a brief outside beat; it is not reliable base-person evidence."
+    },
+    {
+      "quote_id": "q02142",
+      "person_signal": "third",
+      "note": "Sustained third-person narration follows Theresa\u2019s wondering, attempted recollection, and realization without a participating narrator."
+    },
+    {
+      "quote_id": "q02143",
+      "person_signal": "non_base",
+      "note": "This is Gary White\u2019s first-person police confession from the novel\u2019s explicitly named embedded opening transcript."
+    },
+    {
+      "quote_id": "q02144",
+      "person_signal": "non_base",
+      "note": "Susan\u2019s first-person account is direct speech; the short third-person introduction does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q02145",
+      "person_signal": "third",
+      "note": "A sustained scene narrates Theresa\u2019s sensations, sleep, awakening, recognition, panic, and actions in close third person."
+    },
+    {
+      "quote_id": "q02146",
+      "person_signal": "third",
+      "note": "Close third-person narration reports Theresa\u2019s sexual feeling, attribution, desire, and attention across several sentences."
+    },
+    {
+      "quote_id": "q02147",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence describes he and her but is too short to exclude an unmentioned participating narrator by itself."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/235411516/Looking-for-Mr-Goodbar",
+      "title": "Looking for Mr. Goodbar by Judith Rossner \u2014 ebook preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed ebook preview separates a named opening section, \u201cTHE CONFESSION,\u201d containing brief authorial I-comments and Gary\u2019s first-person transcript, from the ensuing sustained third-person account of Theresa\u2019s childhood."
+    },
+    {
+      "url": "https://amst.fullerton.edu/_resources/pdfs/Final%20AP%202019%20PMG%20PRESS.pdf",
+      "title": "Looking for Mr. Goodbar: Reading a Cautionary Tale in Historical Context \u2014 Bahar Tahamtani",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly close reading identifies the opening as a fictional report and confession, says Rossner spends only twelve pages on White, and states that the remaining 260 pages detail Theresa\u2019s story; this resolves the first-person opening as local material rather than an alternating base strand."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/ilooking-mr-goodbari-40-years-later/",
+      "title": "Looking for Mr. Goodbar, 40 Years Later",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Kirkus independently describes the confession as the novel\u2019s opening and distinguishes it from the narrative that follows about Theresa, corroborating the embedded status of the first-person confession."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cLooking for Mr. Goodbar Judith Rossner excerpt,\u201d \u201cfirst chapter,\u201d \u201cpoint of view,\u201d \u201cthird person,\u201d \u201cnarrator,\u201d and \u201cnarrative voice.\u201d",
+    "Opened and inspected the Everand ebook preview, including the named confession, its authorial framing, Gary\u2019s transcript, and the transition into Theresa\u2019s third-person childhood narrative.",
+    "Opened and inspected Bahar Tahamtani\u2019s scholarly whole-book structural analysis in The American Papers, including its twelve-page-versus-260-page account of the novel\u2019s sections.",
+    "Checked Simon & Schuster, Google Books, Open Library, EBSCO, Kirkus, and The New Yorker; publisher and library catalog pages verified the edition but offered little explicit person evidence, while Kirkus corroborated the confession-versus-following-narrative structure.",
+    "Targeted searches for epistolary, diary, frame narrative, multiple narrators, and alternating point of view found no evidence of sustained first- or second-person base sections beyond the localized opening confession and brief authorial framing."
+  ],
+  "person_note": "The controlling story is close third-person narration centered on Theresa Dunn, as shown repeatedly by the event quotations and by the main narrative beginning in the authorized preview. The apparent contrary first-person material is confined to the named opening confession: Gary\u2019s speech is an embedded police transcript, while the authorial \u201cI\u201d briefly comments on transcription and interpretation without participating in Theresa\u2019s story. Scholarly structural analysis confirms that this opening occupies about twelve pages and that the remaining 260 pages detail Theresa\u2019s life. Those localized voices therefore do not constitute alternating base narration. The only material limitation is that the authorized prose preview covers the opening rather than the entire novel, but the interior quotations and whole-book scholarly analysis independently close that gap.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_018",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T05:55:49.959809+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "91c4ac7c6c2bdad0e4da695c3070e567c03d1bb12d7ea0289e36bd92dca92df9"
+  }
+}

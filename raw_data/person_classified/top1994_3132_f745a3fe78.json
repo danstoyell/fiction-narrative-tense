@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1994:3132",
+  "quotes": [
+    {
+      "quote_id": "q03405",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic 'you'; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q03406",
+      "person_signal": "non_base",
+      "note": "Collective aphorism; 'our' is generic rather than participating event narration."
+    },
+    {
+      "quote_id": "q03407",
+      "person_signal": "non_base",
+      "note": "Aphoristic generic-you statement, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03408",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion without diagnostic base-narrator evidence."
+    },
+    {
+      "quote_id": "q03409",
+      "person_signal": "non_base",
+      "note": "Quoted tribal speech; its pronouns belong to local dialogue, not the base narrator."
+    },
+    {
+      "quote_id": "q03410",
+      "person_signal": "non_base",
+      "note": "Gnomic exposition about the spider's lesson; it does not expose narrative person."
+    },
+    {
+      "quote_id": "q03411",
+      "person_signal": "first",
+      "note": "The full-text context shows this is continuous narration by Marlo ('I remember... I also did...'), despite the upstream dialogue bucket."
+    },
+    {
+      "quote_id": "q03412",
+      "person_signal": "non_base",
+      "note": "Direct speech using 'we' and addressing the protagonist as 'you'; these are character pronouns."
+    },
+    {
+      "quote_id": "q03413",
+      "person_signal": "first",
+      "note": "Full-text ending context confirms this is Marlo's retrospective base narration, despite the dialogue bucket and clipped ending."
+    },
+    {
+      "quote_id": "q03414",
+      "person_signal": "first",
+      "note": "Participating narrator recounts what she was told, interpreted, and said using 'me' and 'I'."
+    },
+    {
+      "quote_id": "q03415",
+      "person_signal": "unmarked",
+      "note": "The first-person words are an embedded serenity prayer; the following chapter heading and scene sentence do not independently identify person."
+    },
+    {
+      "quote_id": "q03416",
+      "person_signal": "non_base",
+      "note": "Gnomic analogy rather than event narration."
+    },
+    {
+      "quote_id": "q03417",
+      "person_signal": "non_base",
+      "note": "Generic-you prophecy presented as aphoristic material, not second-person base narration."
+    },
+    {
+      "quote_id": "q03418",
+      "person_signal": "first",
+      "note": "The participating narrator explicitly reflects on 'my life' and what 'I had made' and 'I could do.'"
+    },
+    {
+      "quote_id": "q03419",
+      "person_signal": "unmarked",
+      "note": "A statement about 'they' is compatible with a participating first-person narrator and is not diagnostic by itself."
+    },
+    {
+      "quote_id": "q03420",
+      "person_signal": "non_base",
+      "note": "Turkish gnomic statement about innovations entering collective life; it is not narrative-person evidence."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://dspace.cuni.cz/bitstream/handle/20.500.11956/66730/DPTX_2014_1_11410_0_415183_0_158608.pdf?isAllowed=y&sequence=1",
+      "title": "Writing Australia: The Motif of Journey through the Prism of Cultural Anthropology",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This Charles University thesis explicitly describes Mutant Message Down Under as first-person narration and identifies Marlo as author, main character, and teller of her own journey."
+    },
+    {
+      "url": "https://www.bookrags.com/lessonplan/mutant-message-down-under/characters.html",
+      "title": "Mutant Message Down Under Character Descriptions",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide identifies Marlo Morgan as both the book's author and narrator and describes her as the participating central character."
+    },
+    {
+      "url": "https://www.lcuq.com/wp-content/uploads/2019/02/EN_BW_MUTANT_MESSAGE_DOWN_UNDER.pdf",
+      "title": "Mutant Message Down Under \u2014 Marlo Morgan (1994 text)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A searchable full-text reproduction shows sustained first-person narration by Marlo in the opening, interior chapters, and final chapter; its unaffiliated hosting limits the tier."
+    }
+  ],
+  "search_log": [
+    "Searched \"Mutant Message Down Under\" \"Marlo Morgan\" excerpt, first chapter, and PDF; opened Google Books and a searchable 1994 full-text reproduction.",
+    "Searched \"Mutant Message Down Under\" \"first person\", \"first person narrative\", narrator, point of view, and narrative voice; opened the Charles University thesis explicitly describing first-person narration.",
+    "Opened BookRags' character guide, which identifies Marlo Morgan as the author-narrator and participating protagonist.",
+    "Searched HarperCollins, Internet Archive, Open Library, and Google Books; available publisher/library pages were catalog records, synopses, or limited previews rather than diagnostic sustained prose.",
+    "Checked the searchable text at the opening, multiple interior passages, the quoted Goodreads passages, and the final chapter; found sustained first-person narration and no sustained contrary base-person section."
+  ],
+  "person_note": "The controlling narrator is Marlo, who participates in the story and recounts her Australian journey as 'I.' Diagnostic Goodreads event passages agree with a Tier B structural analysis and whole-book web text. Full-text context also shows that q03411 and q03413 are base narration misbucketed upstream as dialogue. Character speech, generic aphorisms, and the embedded serenity prayer do not create second- or third-person strands; the separate 'I, Burnam Burnam' endorsement is paratext rather than an alternating narrative section. The only minor provenance caveat is that the searchable full text is hosted by an unaffiliated site, but the scholarly analysis and quote evidence independently corroborate FIRST.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_028",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:20:06.208711+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7e0b8a51cc13020eae96244713518abac1f93cfbf41416a7445cee04fc9289f4"
+  }
+}

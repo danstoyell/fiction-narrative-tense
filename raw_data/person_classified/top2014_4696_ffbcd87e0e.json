@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:4696",
+  "quotes": [
+    {
+      "quote_id": "q02241",
+      "person_signal": "non_base",
+      "note": "General aphorism with no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02242",
+      "person_signal": "unmarked",
+      "note": "Possible base narration describes the day but contains no narrator-participation marker."
+    },
+    {
+      "quote_id": "q02243",
+      "person_signal": "unmarked",
+      "note": "Addie directly addresses Ava within the constitutive oral narration; \u201cyou\u201d names the narratee, not a second-person protagonist."
+    },
+    {
+      "quote_id": "q02244",
+      "person_signal": "non_base",
+      "note": "Generalized advice using universal \u201cyou\u201d; it does not identify narrative person."
+    },
+    {
+      "quote_id": "q02245",
+      "person_signal": "first",
+      "note": "Addie uses \u201cI\u201d while framing and answering the question organizing her autobiographical account."
+    },
+    {
+      "quote_id": "q02246",
+      "person_signal": "unmarked",
+      "note": "Direct address to Ava within Addie\u2019s oral narration, without an explicit first-person marker."
+    },
+    {
+      "quote_id": "q02247",
+      "person_signal": "first",
+      "note": "Participating narrator Addie reflects on her own life using \u201cme\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02248",
+      "person_signal": "first",
+      "note": "Addie\u2019s outer narration uses \u201cI\u201d; the embedded self-address as \u201cyou\u201d does not change the base person."
+    },
+    {
+      "quote_id": "q02249",
+      "person_signal": "unmarked",
+      "note": "The base-narrative speech beat identifies another woman as \u201cshe,\u201d while the quoted \u201cyou\u201d is embedded dialogue."
+    },
+    {
+      "quote_id": "q02250",
+      "person_signal": "non_base",
+      "note": "A generalized observation about parenthood uses universal \u201cyou\u201d and is not diagnostic of base person."
+    },
+    {
+      "quote_id": "q02251",
+      "person_signal": "non_base",
+      "note": "Standalone proverb with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q02252",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about artists with no narrator-participation evidence."
+    },
+    {
+      "quote_id": "q02253",
+      "person_signal": "first",
+      "note": "Addie explicitly reflects on her younger self using \u201cI\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q02254",
+      "person_signal": "non_base",
+      "note": "General rhetorical question using universal \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02255",
+      "person_signal": "first",
+      "note": "Within the book\u2019s constitutive oral monologue, Addie identifies herself with \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02256",
+      "person_signal": "non_base",
+      "note": "General teaching advice uses universal \u201cyou\u201d and does not establish narrative person."
+    },
+    {
+      "quote_id": "q02257",
+      "person_signal": "first",
+      "note": "The narrating Addie belongs to the class described as \u201cus\u201d and \u201courselves\u201d; the teacher\u2019s quoted speech is locally embedded."
+    },
+    {
+      "quote_id": "q02258",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough context and quotation boundaries for attribution."
+    },
+    {
+      "quote_id": "q02259",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical question in speech, with no diagnostic base-narrator reference."
+    },
+    {
+      "quote_id": "q02260",
+      "person_signal": "unmarked",
+      "note": "Addie describes Betty in third-person terms, which is compatible with first-person narration and does not independently identify person."
+    },
+    {
+      "quote_id": "q02261",
+      "person_signal": "non_base",
+      "note": "A sequence of local discussion questions about Romeo and Juliet does not expose the base narrator."
+    },
+    {
+      "quote_id": "q02262",
+      "person_signal": "unclear",
+      "note": "Although \u201cme\u201d appears, the clipped fragment lacks boundaries needed to determine whether it is base narration or embedded speech."
+    },
+    {
+      "quote_id": "q02263",
+      "person_signal": "first",
+      "note": "Addie narrates her own perceptions and relationship using repeated \u201cI,\u201d \u201cmyself,\u201d \u201cwe,\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02264",
+      "person_signal": "unclear",
+      "note": "The clipped fragment has insufficient context to identify the narrator\u2019s person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/The-Boston-Girl/Anita-Diamant/9781439199350",
+      "title": "The Boston Girl | Book by Anita Diamant | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher\u2019s sustained opening excerpt presents Addie speaking as \u201cI\u201d to Ava, establishes the tape-recorded interview frame, and transitions directly into Addie\u2019s autobiographical account."
+    },
+    {
+      "url": "https://www.bostonglobe.com/arts/books/2014/11/29/excerpt-from-the-boston-girl-anita-diamant/lADPSmcx5vYpAMz32pknuN/story.html",
+      "title": "Excerpt from \u2018The Boston Girl\u2019 by Anita Diamant",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "A sustained interior excerpt has Addie recounting her childhood consistently as \u201cI\u201d and \u201cwe,\u201d corroborating first-person narration beyond the initial interview setup."
+    },
+    {
+      "url": "https://anitadiamant.com/books/the-boston-girl/",
+      "title": "The Boston Girl | Anita Diamant",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The author\u2019s official overview states that eighty-five-year-old Addie tells her life story to her granddaughter and identifies Addie as the voice through which the novel is told."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9781442380363",
+      "title": "The Boston Girl by Anita Diamant",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly describes the complete story as an oral history framed in the 1980s, with Addie describing her own coming of age to her granddaughter."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/anita-diamant/the-boston-girl/?page=2",
+      "title": "THE BOSTON GIRL | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Kirkus identifies Addie as the woman telling her granddaughter about her life and describes the ensuing decades as \u201cAddie\u2019s narrative,\u201d with no alternating-person structure."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Boston Girl\" \"Anita Diamant\" excerpt, first chapter, and official publisher sources.",
+    "Searched: \"The Boston Girl\" narrator, first person, point of view, oral history, interview frame, and alternating narration.",
+    "Opened and reviewed the Simon & Schuster publisher excerpt, Anita Diamant\u2019s official book page, a Boston Globe interior excerpt, Publishers Weekly reviews, Kirkus, and an explicit BookRags point-of-view description.",
+    "The Chatelaine authorized excerpt appeared in search results but returned a payment-required error when opened, so it was not used as evidence; no credible source indicated sustained second- or third-person sections."
+  ],
+  "person_note": "Addie Baum is the participating first-person narrator, delivering her life story as a recorded oral monologue to her granddaughter Ava. The diagnostic Goodreads passages repeatedly expose Addie as \u201cI\u201d or \u201cwe,\u201d while authorized opening and interior excerpts independently show the same voice and credible whole-book descriptions identify the oral-history structure. Direct uses of \u201cyou\u201d address Ava, quote another speaker, or express general maxims; third-person descriptions concern people within Addie\u2019s story and do not establish an external narrator. No credible evidence of alternating base-person sections was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_054",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T19:50:07.454476+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "af79962a6d0e425c0de9b6410490c26e18af0969ccaacfdeaf966ae7d1ec045c"
+  }
+}

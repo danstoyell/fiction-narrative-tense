@@ -1,0 +1,393 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:6166",
+  "quotes": [
+    {
+      "quote_id": "q01859",
+      "person_signal": "first",
+      "note": "Joe's participating narration uses I and me."
+    },
+    {
+      "quote_id": "q01860",
+      "person_signal": "first",
+      "note": "The participating narrator describes his own action and thought as I."
+    },
+    {
+      "quote_id": "q01861",
+      "person_signal": "non_base",
+      "note": "Character speech; its we and you do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01862",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; generic we is not story-specific narration."
+    },
+    {
+      "quote_id": "q01863",
+      "person_signal": "first",
+      "note": "Participating retrospective narration uses we and our."
+    },
+    {
+      "quote_id": "q01864",
+      "person_signal": "non_base",
+      "note": "Father Travis's dialogue, including direct address, is not base narration."
+    },
+    {
+      "quote_id": "q01865",
+      "person_signal": "non_base",
+      "note": "Father Travis's continued speech uses generic you."
+    },
+    {
+      "quote_id": "q01866",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about language does not expose the story narrator."
+    },
+    {
+      "quote_id": "q01867",
+      "person_signal": "non_base",
+      "note": "Quoted speech with a third-person speech beat is locally nondiagnostic."
+    },
+    {
+      "quote_id": "q01868",
+      "person_signal": "unclear",
+      "note": "The fragment lacks enough context or narration to attribute person."
+    },
+    {
+      "quote_id": "q01869",
+      "person_signal": "unmarked",
+      "note": "A third-person subject alone does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01870",
+      "person_signal": "first",
+      "note": "The framing phrase my father exposes Joe's participating narration; the latter clause is his father's speech."
+    },
+    {
+      "quote_id": "q01871",
+      "person_signal": "non_base",
+      "note": "The first-person phrase occurs in character speech."
+    },
+    {
+      "quote_id": "q01872",
+      "person_signal": "unclear",
+      "note": "The first-person fragments appear locally voiced, but lost boundaries prevent secure attribution."
+    },
+    {
+      "quote_id": "q01873",
+      "person_signal": "unmarked",
+      "note": "Third-person characters are described without identifying the narrating position."
+    },
+    {
+      "quote_id": "q01874",
+      "person_signal": "first",
+      "note": "Joe retrospectively narrates his childhood and future self as I."
+    },
+    {
+      "quote_id": "q01875",
+      "person_signal": "first",
+      "note": "Joe participates in the scene and narrates his glance and observations as I."
+    },
+    {
+      "quote_id": "q01876",
+      "person_signal": "non_base",
+      "note": "Geraldine directly addresses Joe in dialogue; you is not second-person narration."
+    },
+    {
+      "quote_id": "q01877",
+      "person_signal": "unmarked",
+      "note": "The third-person report does not independently reveal whether its narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q01878",
+      "person_signal": "first",
+      "note": "Joe narrates his parents' return and his own perceptions as I."
+    },
+    {
+      "quote_id": "q01879",
+      "person_signal": "non_base",
+      "note": "A character's direct address contains I and you but is not base narration."
+    },
+    {
+      "quote_id": "q01880",
+      "person_signal": "first",
+      "note": "The participating narrator states what I knew and what we sought."
+    },
+    {
+      "quote_id": "q01881",
+      "person_signal": "unmarked",
+      "note": "Historical exposition lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01882",
+      "person_signal": "unmarked",
+      "note": "Third-person historical exposition does not by itself establish narrative person."
+    },
+    {
+      "quote_id": "q01883",
+      "person_signal": "first",
+      "note": "Joe calls the family practice our ritual and identifies my parents."
+    },
+    {
+      "quote_id": "q01884",
+      "person_signal": "unmarked",
+      "note": "A bare third-person description is compatible with first-person narration."
+    },
+    {
+      "quote_id": "q01885",
+      "person_signal": "first",
+      "note": "Adult Joe explicitly contrasts what I understood then and now and describes my family."
+    },
+    {
+      "quote_id": "q01886",
+      "person_signal": "first",
+      "note": "Joe's description of my father includes his own remembered experience as I."
+    },
+    {
+      "quote_id": "q01887",
+      "person_signal": "first",
+      "note": "Joe narrates his past awareness and present reflection as I."
+    },
+    {
+      "quote_id": "q01888",
+      "person_signal": "first",
+      "note": "The narratorial frame identifies my father within Joe's retrospective account."
+    },
+    {
+      "quote_id": "q01889",
+      "person_signal": "first",
+      "note": "Joe identifies himself by name and recounts his childhood entirely as I."
+    },
+    {
+      "quote_id": "q01890",
+      "person_signal": "first",
+      "note": "Joe narrates his friendships, memories, and present connection to Cappy as I."
+    },
+    {
+      "quote_id": "q01891",
+      "person_signal": "first",
+      "note": "Joe participates in and perceptually narrates the shooting scene as I and me."
+    },
+    {
+      "quote_id": "q01892",
+      "person_signal": "non_base",
+      "note": "An impersonal gnomic statement does not expose base person."
+    },
+    {
+      "quote_id": "q01893",
+      "person_signal": "unmarked",
+      "note": "Generic you occurs inside an otherwise nondiagnostic description, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01894",
+      "person_signal": "unmarked",
+      "note": "Third-person description alone does not identify narrator participation."
+    },
+    {
+      "quote_id": "q01895",
+      "person_signal": "unmarked",
+      "note": "You and your are generic rather than references to a story-specific protagonist."
+    },
+    {
+      "quote_id": "q01896",
+      "person_signal": "non_base",
+      "note": "Biblical paratext is not the novel's base narration."
+    },
+    {
+      "quote_id": "q01897",
+      "person_signal": "first",
+      "note": "Joe narrates his actions and questions as I around embedded dialogue."
+    },
+    {
+      "quote_id": "q01898",
+      "person_signal": "non_base",
+      "note": "The first-person account is character speech, followed by a speech beat."
+    },
+    {
+      "quote_id": "q01899",
+      "person_signal": "first",
+      "note": "Joe identifies his own fear and expectation as I."
+    },
+    {
+      "quote_id": "q01900",
+      "person_signal": "first",
+      "note": "Adult Joe retrospectively evaluates the scene with I see now and repeated we."
+    },
+    {
+      "quote_id": "q01901",
+      "person_signal": "first",
+      "note": "Joe includes himself in the participating group through we and our."
+    },
+    {
+      "quote_id": "q01902",
+      "person_signal": "unmarked",
+      "note": "A single third-person sentence cannot establish a third-person base narrator."
+    },
+    {
+      "quote_id": "q01903",
+      "person_signal": "non_base",
+      "note": "Statistical paratext is outside the prose narration."
+    },
+    {
+      "quote_id": "q01904",
+      "person_signal": "non_base",
+      "note": "Gnomic legal commentary does not identify the narrator."
+    },
+    {
+      "quote_id": "q01905",
+      "person_signal": "non_base",
+      "note": "This is Bazil's explanation to Joe; its we is local character speech."
+    },
+    {
+      "quote_id": "q01906",
+      "person_signal": "non_base",
+      "note": "The first-person plural belongs to tribal judge Bazil's embedded speech."
+    },
+    {
+      "quote_id": "q01907",
+      "person_signal": "unclear",
+      "note": "The clipped continuation of Bazil's legal explanation ends with a stray I, obscuring boundaries."
+    },
+    {
+      "quote_id": "q01908",
+      "person_signal": "non_base",
+      "note": "This legal-history statement continues Bazil's explanation rather than Joe's base narration."
+    },
+    {
+      "quote_id": "q01909",
+      "person_signal": "non_base",
+      "note": "Gnomic advice uses generic you, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q01910",
+      "person_signal": "unmarked",
+      "note": "General description of the Larks does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q01911",
+      "person_signal": "first",
+      "note": "The participating retrospective narrator explicitly says I've read."
+    },
+    {
+      "quote_id": "q01912",
+      "person_signal": "unclear",
+      "note": "The excerpt is truncated and its you is discourse address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01913",
+      "person_signal": "unmarked",
+      "note": "A generalized third-person observation does not expose the narrator."
+    },
+    {
+      "quote_id": "q01914",
+      "person_signal": "first",
+      "note": "The possessive my father identifies Joe as the participating narrator."
+    },
+    {
+      "quote_id": "q01915",
+      "person_signal": "non_base",
+      "note": "This is Linda's embedded first-person life account, not Joe's controlling narrative voice."
+    },
+    {
+      "quote_id": "q01916",
+      "person_signal": "first",
+      "note": "Joe recalls a shared family moment using I, me, and we."
+    },
+    {
+      "quote_id": "q01917",
+      "person_signal": "unmarked",
+      "note": "The impersonal passage contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01918",
+      "person_signal": "first",
+      "note": "Joe narrates his own escalating deception as I and me."
+    },
+    {
+      "quote_id": "q01919",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about generosity does not expose base narration."
+    },
+    {
+      "quote_id": "q01920",
+      "person_signal": "unmarked",
+      "note": "Historical or legendary exposition lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01921",
+      "person_signal": "first",
+      "note": "Joe narrates his own physical action and thought as I and me."
+    },
+    {
+      "quote_id": "q01922",
+      "person_signal": "first",
+      "note": "Outside the opening speech, Joe narrates his reply, discomfort, and movement as I."
+    },
+    {
+      "quote_id": "q01923",
+      "person_signal": "unmarked",
+      "note": "A third-person physical description alone is nondiagnostic."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ictnews.org/archive/excerpt-from-national-book-award-winner-the-round-house/",
+      "title": "Excerpt From National Book Award Winner The Round House by Louise Erdrich",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reprinted courtesy of Harper shows Joe narrating family events as I, me, my, and we."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/2757/the-round-house",
+      "title": "The Round House Excerpt: Read free excerpt of The Round House by Louise Erdrich",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized Chapter One excerpt begins with Joe describing my parents' house and my father in sustained first-person narration."
+    },
+    {
+      "url": "https://cpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/0/310/files/2017/02/The-Round-House-Teaching-Guide-x5a2iq.pdf",
+      "title": "Big Questions for Round House Readers",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A University of Oregon teaching guide states that the story is narrated through Joe's voice and experience twenty years after the events."
+    },
+    {
+      "url": "https://septentrio.uit.no/index.php/nordlit/article/download/4273/4088/15604",
+      "title": "Louise Erdrich's The Round House: Restorative Justice in a Coming of Age Thriller",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Scholarly analysis identifies Joe as the adult narrator, distinguishes his thirteen-year-old self, and treats other voiced stories as embedded narrations."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2013/may/18/round-house-louise-erdrich-review",
+      "title": "The Round House by Louise Erdrich \u2013 review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review identifies Joe as the novel's narrator, says the book is limited by his understanding, and specifies that adult Joe narrates retrospectively."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Round House\" \"Louise Erdrich\" excerpt narrator first person Joe Coutts.",
+    "Searched HarperCollins and publisher-excerpt combinations; no usable Harper title page surfaced, but two opened excerpts explicitly state that the text was reprinted courtesy of Harper.",
+    "Searched: \"The Round House\" point of view first person narrator review; opened the Guardian's whole-book discussion.",
+    "Searched: \"The Round House\" Joe narrates novel first person scholarly; opened University of Oregon teaching material and a Nordlit scholarly article.",
+    "Ran targeted searches for quoted passages involving tribal judges, Zelia, Linda's birth parents, and the third-person passage beginning \"This so gnawed at him\"; these clarified Bazil's legal speech, while the Zelia fragment remained unattributed."
+  ],
+  "person_note": "The quote set repeatedly exposes Joe Coutts as a participating first-person narrator, including explicit retrospective contrasts between his younger and adult selves. Authorized opening prose independently confirms sustained first-person narration, while university and scholarly whole-book sources identify adult Joe as the controlling retrospective narrator and distinguish other characters' stories as embedded voices. Linda's first-person account and Bazil's legal explanation are therefore local material, not changes to a different grammatical-person base; in any event, Linda also speaks in first person. No credible source indicates sustained second- or third-person base sections. The only remaining uncertainty concerns attribution of a few clipped or boundary-stripped individual quotes, which does not affect the high-confidence FIRST classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_051",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T04:13:50.005727+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0da0b8b5461fe45cb66e45e23da198099f154de3b5b2af543c68af1f3cea7f69"
+  }
+}

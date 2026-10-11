@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:1940",
+  "quotes": [
+    {
+      "quote_id": "q00044",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; universal you and we do not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "non_base",
+      "note": "Aphorism without story-specific narration."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but a single third-person possessive does not establish narrator person."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "unmarked",
+      "note": "Brief characterization with she; insufficient local context to identify the narrator."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "non_base",
+      "note": "General reflection using inclusive we, not participating story narration."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "non_base",
+      "note": "General maxim whose me and your express a hypothetical marital promise."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor without person evidence."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "non_base",
+      "note": "Universal advice; you is not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "unmarked",
+      "note": "Narratorial metaphor, but it contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "unmarked",
+      "note": "The clipped reference to him and he concerns a character and does not alone establish narrator person."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment without diagnostic narration."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "non_base",
+      "note": "Direct character speech; us does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "non_base",
+      "note": "Direct character speech about another man."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about family and faith."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "unmarked",
+      "note": "Brief narration about Junior, but the proper name and third-person construction alone are insufficient."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "third",
+      "note": "Sustained scene narration treats Agnes externally while disclosing her memories, needs, and anticipated emotional response."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "unclear",
+      "note": "The sentence is truncated before its structure can establish narrator person."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "non_base",
+      "note": "Mangled quotation boundaries still reveal an exchange of direct speech, not base narration."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "unmarked",
+      "note": "A brief external characterization of Nolly; the named subject alone is not diagnostic."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "unmarked",
+      "note": "Possible external narration about Barty and the girls, but one sentence supplies too little context."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "third",
+      "note": "Sustained external narration names Barty, follows his actions, and conveys his enchantment without a participating narrator."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "unclear",
+      "note": "A clipped subordinate fragment cannot establish its narratorial context."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic assertion rather than story-specific person evidence."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "third",
+      "note": "The dialogue is embedded in sustained third-person scene narration describing Jacob, Edom, and Barty from outside."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "non_base",
+      "note": "Direct character speech; universal they and you are nondiagnostic."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "unmarked",
+      "note": "Atmospheric base narration with no character or narrator-person marker."
+    },
+    {
+      "quote_id": "q00072",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence with its subject missing, leaving the local structure unresolved."
+    },
+    {
+      "quote_id": "q00073",
+      "person_signal": "non_base",
+      "note": "Direct theological speech using inclusive we."
+    },
+    {
+      "quote_id": "q00074",
+      "person_signal": "unmarked",
+      "note": "Brief narrator characterization of Sheena; a named third-person subject alone is insufficient."
+    },
+    {
+      "quote_id": "q00075",
+      "person_signal": "non_base",
+      "note": "Direct speech containing universal you and we."
+    },
+    {
+      "quote_id": "q00076",
+      "person_signal": "non_base",
+      "note": "Quoted speech with a short attribution; its you is universal and not base narration."
+    },
+    {
+      "quote_id": "q00077",
+      "person_signal": "third",
+      "note": "Extended dialogue is framed by third-person narration that reports Tom's surprise and prior knowledge and Agnes's mental engagement."
+    },
+    {
+      "quote_id": "q00078",
+      "person_signal": "non_base",
+      "note": "Imperative aphorism using universal you."
+    },
+    {
+      "quote_id": "q00079",
+      "person_signal": "non_base",
+      "note": "General maxim without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00080",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial reflection, but universal you does not indicate second-person narration."
+    },
+    {
+      "quote_id": "q00081",
+      "person_signal": "third",
+      "note": "Third-person scene narration depicts a group externally; the authorized excerpt confirms this sentence belongs to the base narrative."
+    },
+    {
+      "quote_id": "q00082",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary directly addressing a universal reader, not a story protagonist."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.deankoontz.com/from-the-corner-of-his-eye-chapter-excerpt/",
+      "title": "FROM THE CORNER OF HIS EYE Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's site presents a Bantam-authorized excerpt spanning Chapters One through Three. It consistently narrates Barty, Agnes, Joey, Junior, and Naomi externally as he or she while entering several characters' thoughts; its isolated generic you is aphoristic rather than sustained second-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"From the Corner of His Eye\" Dean Koontz with excerpt, first chapter, point of view, narrator, first person, and third person terms.",
+    "Opened the authorized excerpt on Dean Koontz's site; it contains Chapters One through Three and sustained third-person narration across multiple focal characters.",
+    "Checked Google Books and Open Library previews; their accessible pages supplied metadata, synopsis, and isolated snippets rather than additional sustained diagnostic prose.",
+    "Opened Kirkus book and audiobook reviews; they describe the full novel's intertwined strands, large cast, and performed audiobook narrator but do not explicitly identify grammatical narrative person, so they were not treated as direct person evidence.",
+    "Ran targeted searches for epistolary, diary, frame narrative, multiple narrators, and alternating point of view; no credible evidence of sustained first- or second-person sections was found.",
+    "An unauthorized free-novel result exposed interior prose but was not used as evidence; the supplied interior Goodreads passages already provide independent corroboration."
+  ],
+  "person_note": "The base narration is third person with shifting focalization among a large cast, not alternating grammatical person. Interior quotes q00060, q00066, q00069, q00077, and q00081 provide sustained external narration and access to characters' perceptions or knowledge; shorter he, she, and named-character quotations remain unmarked rather than being counted mechanically. First-, second-, and plural-person forms in the gnomic and dialogue quotations are universal reflections or character speech. The Bantam-authorized opening independently shows the same third-person method across three chapters and several focal characters. Web coverage is strongest for the opening rather than the entire book, but the diagnostic interior quotations corroborate it and no frame, diary, epistolary structure, or sustained contrary-person section was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_035",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:55:19.385413+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "38cbcb5b4513265d20b8ee829fac1a3740c6e2b708302b4d57fb833998909fcd"
+  }
+}

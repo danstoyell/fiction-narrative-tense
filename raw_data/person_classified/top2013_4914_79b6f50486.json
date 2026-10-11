@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:4914",
+  "quotes": [
+    {
+      "quote_id": "q02089",
+      "person_signal": "unclear",
+      "note": "The story-specific \u201cyou\u201d occurs in an unattributed question whose speech-versus-narration boundary cannot be resolved."
+    },
+    {
+      "quote_id": "q02090",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about the dead; it does not expose the base narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q02091",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect or narratorial reflection, but it contains no locally decisive marker of narrator participation."
+    },
+    {
+      "quote_id": "q02092",
+      "person_signal": "non_base",
+      "note": "Generic gnomic use of \u201cyou,\u201d not sustained second-person narration of a protagonist."
+    },
+    {
+      "quote_id": "q02093",
+      "person_signal": "non_base",
+      "note": "A person-neutral maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02094",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first- and second-person pronouns belong to a character."
+    },
+    {
+      "quote_id": "q02095",
+      "person_signal": "unmarked",
+      "note": "The sentence presents an unnamed character\u2019s cognition as \u201che,\u201d but this isolated third-person reference does not by itself identify the controlling narrator."
+    },
+    {
+      "quote_id": "q02096",
+      "person_signal": "unmarked",
+      "note": "Strike is named externally, but the short descriptive fragment alone is insufficient to establish narrator participation."
+    },
+    {
+      "quote_id": "q02097",
+      "person_signal": "unmarked",
+      "note": "A focalized observation using \u201chis,\u201d without enough local context to rule out a participating narrator."
+    },
+    {
+      "quote_id": "q02098",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor about fame; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q02099",
+      "person_signal": "non_base",
+      "note": "Direct speech; \u201cyou\u201d identifies the addressee, not the base narrative person."
+    },
+    {
+      "quote_id": "q02100",
+      "person_signal": "non_base",
+      "note": "Direct speech dominates, and the minimal \u201che said\u201d beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02101",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial generalization, but impersonal \u201coneself\u201d does not identify the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02102",
+      "person_signal": "unmarked",
+      "note": "An isolated description of \u201cshe\u201d is compatible with either first- or third-person framing outside the excerpt."
+    },
+    {
+      "quote_id": "q02103",
+      "person_signal": "third",
+      "note": "After character speech, sustained narration identifies Strike externally as \u201che,\u201d attributes his thought, and renders his private focalized reflection."
+    },
+    {
+      "quote_id": "q02104",
+      "person_signal": "unmarked",
+      "note": "The passage concerns an absent \u201cshe\u201d; without a visible framing narrator, that alone is not diagnostic."
+    },
+    {
+      "quote_id": "q02105",
+      "person_signal": "unmarked",
+      "note": "The focalized contrast describes a man as \u201che,\u201d but this single sentence does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02106",
+      "person_signal": "unmarked",
+      "note": "The phrase \u201cin his experience\u201d is third-person focalization, but the isolated sentence lacks enough framing context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q02107",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narration names Strike, attributes his private thought, and refers to him as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q02108",
+      "person_signal": "unmarked",
+      "note": "Person-neutral personification of competing mental impulses; no narrator pronoun or participation is visible."
+    },
+    {
+      "quote_id": "q02109",
+      "person_signal": "unmarked",
+      "note": "The relationship is described as \u201cthey,\u201d but the excerpt does not expose whether the narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q02110",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech; its repeated \u201cyou\u201d is not second-person base narration."
+    },
+    {
+      "quote_id": "q02111",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Strike as \u201che/him\u201d and directly presents his hope and perception without a participating frame."
+    },
+    {
+      "quote_id": "q02112",
+      "person_signal": "non_base",
+      "note": "Rhetorical gnomic question about soldiers rather than diagnostic event narration."
+    },
+    {
+      "quote_id": "q02113",
+      "person_signal": "unmarked",
+      "note": "Free-indirect exclamation and evaluation contain no explicit marker of narrator participation."
+    },
+    {
+      "quote_id": "q02114",
+      "person_signal": "third",
+      "note": "A sustained scene repeatedly names Strike and narrates his actions, perceptions, comparison, and anticipated pain externally as \u201che/him.\u201d"
+    },
+    {
+      "quote_id": "q02115",
+      "person_signal": "unmarked",
+      "note": "Brief metaphor about an unnamed \u201chim\u201d; insufficient local context to determine the narrator\u2019s person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://robert-galbraith.com/app/uploads/2020/08/Stories_TCC_Book_extract.pdf",
+      "title": "The Cuckoo\u2019s Calling \u2014 Book Extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The official Robert Galbraith site\u2019s sustained ten-page extract narrates Robin and Strike externally, shifting focalization between them while consistently retaining third-person narration."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2013/jul/16/jk-rowling-cuckoos-calling-robert-galbraith-extract",
+      "title": "Extract: The Cuckoo's Calling by Robert Galbraith",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The published opening prologue uses nonparticipating third-person narration for the death scene and ensuing press reaction."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/365196672_five_-_The_Cultural_Criminology_of_The_Cuckoo's_Calling",
+      "title": "The Cultural Criminology of The Cuckoo\u2019s Calling",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Rafe McGregor\u2019s published scholarly book chapter analyzes the novel\u2019s complete structure and explicitly identifies its narration as third person, mostly focalized through Strike and occasionally Robin."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-cuckoos-calling/styles.html",
+      "title": "Robert Galbraith Writing Styles in The Cuckoo's Calling",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide\u2019s point-of-view section explicitly describes the whole novel as third-person narration following the thoughts and actions of Strike and Robin."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Cuckoo's Calling Robert Galbraith official excerpt first chapter,\u201d locating the Hachette/official Robert Galbraith extract and the Guardian opening extract.",
+    "Searched \u201cThe Cuckoo's Calling point of view third person narrator\u201d and opened the BookRags point-of-view analysis.",
+    "Searched the official Robert Galbraith domain for an extract; the book page and anniversary feature were largely promotional, while the linked ten-page PDF supplied sustained prose evidence.",
+    "Searched \u201cThe Cuckoo's Calling third-person review,\u201d \u201cpoint of view Strike Robin,\u201d and \u201comniscient narration\u201d; opened McGregor\u2019s scholarly chapter, which explicitly addresses the whole novel\u2019s third-person structure.",
+    "Targeted searches for epistolary, diary, frame-narrative, multiple-narrator, and alternating-person descriptions found no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly render Strike externally and disclose his thoughts in third person, especially q02103, q02107, q02111, and q02114. Many shorter event quotations were conservatively left unmarked because a bare name or third-person pronoun cannot alone establish the controlling narrator. First- and second-person forms elsewhere are dialogue, gnomic address, or unresolved quotation material. Independent Tier A extracts show third-person narration across the prologue and opening chapters, including shifts between Robin and Strike, while the Tier B whole-book analysis explicitly confirms third person throughout. No evidence supports sustained first- or second-person base sections; the only material limitation is that the authorized prose excerpts cover the opening rather than every part of the novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_053",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T10:25:43.742238+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c194b33485e941bf86f00abd7157e47aa470532465c4d230ef58d44cf61e225c"
+  }
+}

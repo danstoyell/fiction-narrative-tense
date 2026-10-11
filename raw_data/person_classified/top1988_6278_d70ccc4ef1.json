@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1988:6278",
+  "quotes": [
+    {
+      "quote_id": "q02929",
+      "person_signal": "unmarked",
+      "note": "Third-person subject and belief are visible, but the isolated sentence does not rule out a participating narrator."
+    },
+    {
+      "quote_id": "q02930",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02931",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a woman's memory, realization, and resulting emotional state without a participating narrator."
+    },
+    {
+      "quote_id": "q02932",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism using generic you."
+    },
+    {
+      "quote_id": "q02933",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q02934",
+      "person_signal": "third",
+      "note": "Sustained narration names Antonia externally and describes her actions and emotional progress."
+    },
+    {
+      "quote_id": "q02935",
+      "person_signal": "non_base",
+      "note": "Paratext explicitly quoted from Elizabeth von Arnim's separate book."
+    },
+    {
+      "quote_id": "q02936",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02937",
+      "person_signal": "unmarked",
+      "note": "The sentence contains third-person reference and generic you, but too little context to establish narrator participation."
+    },
+    {
+      "quote_id": "q02938",
+      "person_signal": "unmarked",
+      "note": "A single externally described action does not by itself distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q02939",
+      "person_signal": "third",
+      "note": "Sustained external narration summarizes a woman's past experience, habits, and preferences."
+    },
+    {
+      "quote_id": "q02940",
+      "person_signal": "third",
+      "note": "A sustained paragraph externally names Penelope and moves through her circumstances, memories, and perceptions."
+    },
+    {
+      "quote_id": "q02941",
+      "person_signal": "unmarked",
+      "note": "Brief third-person reflection lacks enough local context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02942",
+      "person_signal": "third",
+      "note": "The first-person sentence is explicitly attributed as her private promise within sustained third-person narration."
+    },
+    {
+      "quote_id": "q02943",
+      "person_signal": "unmarked",
+      "note": "Brief fragmentary reflection about an unnamed she is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02944",
+      "person_signal": "unmarked",
+      "note": "Single externally described action is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q02945",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q02946",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic assertion."
+    },
+    {
+      "quote_id": "q02947",
+      "person_signal": "non_base",
+      "note": "Direct character speech or monologue, not base narration."
+    },
+    {
+      "quote_id": "q02948",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02949",
+      "person_signal": "unmarked",
+      "note": "A short externally described action and perception do not independently establish narrator person."
+    },
+    {
+      "quote_id": "q02950",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism."
+    },
+    {
+      "quote_id": "q02951",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a woman's awareness and interpretation of events."
+    },
+    {
+      "quote_id": "q02952",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q02953",
+      "person_signal": "unmarked",
+      "note": "An isolated thought attributed to an unnamed her is compatible with more than one narratorial frame."
+    },
+    {
+      "quote_id": "q02954",
+      "person_signal": "unmarked",
+      "note": "Clipped simile lacks the character subject and contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02955",
+      "person_signal": "third",
+      "note": "Sustained scene and retrospective narration treats Penelope and the other characters externally."
+    },
+    {
+      "quote_id": "q02956",
+      "person_signal": "unmarked",
+      "note": "Brief characterization of Mrs. Plackett does not alone exclude a participating narrator."
+    },
+    {
+      "quote_id": "q02957",
+      "person_signal": "non_base",
+      "note": "Bracketed paratextual quotation rather than securely contextualized base narration."
+    },
+    {
+      "quote_id": "q02958",
+      "person_signal": "non_base",
+      "note": "Generic wartime maxim using one."
+    },
+    {
+      "quote_id": "q02959",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic passage using generic you."
+    },
+    {
+      "quote_id": "q02960",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism."
+    },
+    {
+      "quote_id": "q02961",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally names Olivia and reports both her gratitude and sadness."
+    },
+    {
+      "quote_id": "q02962",
+      "person_signal": "unmarked",
+      "note": "Clipped reflective fragment lacks enough framing to identify narrator person."
+    },
+    {
+      "quote_id": "q02963",
+      "person_signal": "non_base",
+      "note": "Clipped direct character speech."
+    },
+    {
+      "quote_id": "q02964",
+      "person_signal": "non_base",
+      "note": "Direct rhetorical question in character speech."
+    },
+    {
+      "quote_id": "q02965",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q02966",
+      "person_signal": "non_base",
+      "note": "First-person character speech or quoted communication, not base narration."
+    },
+    {
+      "quote_id": "q02967",
+      "person_signal": "third",
+      "note": "The first-person maxim is explicitly framed as her private speech by the third-person beat 'she told herself'."
+    },
+    {
+      "quote_id": "q02968",
+      "person_signal": "non_base",
+      "note": "Direct character speech addressing another character."
+    },
+    {
+      "quote_id": "q02969",
+      "person_signal": "unmarked",
+      "note": "The quote is mostly dialogue; its brief she-action beat is possible base narration but not independently diagnostic."
+    },
+    {
+      "quote_id": "q02970",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q02971",
+      "person_signal": "unmarked",
+      "note": "Brief they-action narration surrounds dialogue but does not independently establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q02972",
+      "person_signal": "third",
+      "note": "After a speech fragment, sustained scene narration follows Penelope externally through actions, travel, and perception."
+    },
+    {
+      "quote_id": "q02973",
+      "person_signal": "non_base",
+      "note": "Clipped exchange between characters."
+    },
+    {
+      "quote_id": "q02974",
+      "person_signal": "unmarked",
+      "note": "Single externally described action is too brief to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q02975",
+      "person_signal": "non_base",
+      "note": "Paratextual verse quotation."
+    },
+    {
+      "quote_id": "q02976",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism."
+    },
+    {
+      "quote_id": "q02977",
+      "person_signal": "non_base",
+      "note": "Direct dialogue between characters."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9780312961329/Seekers-Pilcher-Rosamunde-0312961324/plp",
+      "title": "The Shell Seekers - Pilcher, Rosamunde: 9780312961329",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "A sustained Chapter 1 excerpt, reproduced by permission of St. Martin's Press, narrates Nancy externally as she and by name while entering her thoughts; no participating narrator frames the scene."
+    },
+    {
+      "url": "https://www.supersummary.com/the-shell-seekers/important-quotes/",
+      "title": "The Shell Seekers Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Attributed passages spanning the Prologue and Chapters 1 through 16 consistently place thoughts and occasional first-person self-talk inside third-person narration of Penelope, Nancy, Olivia, Noel, and others."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-shell-seekers/style.html",
+      "title": "Rosamunde Pilcher Writing Styles in The Shell Seekers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis says perspective shifts among several characters, with Penelope receiving most coverage. Read alongside the excerpts, these are changes of third-person focal character rather than changes of narrator person."
+    },
+    {
+      "url": "https://de.wikipedia.org/wiki/Die_Muschelsucher_(Roman)",
+      "title": "Die Muschelsucher (Roman) \u2013 Erz\u00e4hlweise",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The structural overview explicitly describes an authorial narrator following four central figures through their thoughts and actions and identifies the chapters as character-centered perspectives."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Shell Seekers\" Rosamunde Pilcher with excerpt, first chapter, point of view, narrator, first person, third person, epistolary, frame narrative, and alternating-point-of-view terms.",
+    "Opened the publisher-authorized St. Martin's Press Chapter 1 excerpt reproduced by AbeBooks; it provided sustained third-person prose.",
+    "Opened BookRags' point-of-view analysis and SuperSummary's attributed passages spanning the Prologue through Chapter 16 to distinguish changing focalization from changing grammatical person.",
+    "Opened Google Books; its accessible page supplied edition metadata and the character-named contents but little sustained prose, so it was not used as person evidence.",
+    "Searched Macmillan and St. Martin's Press domains. The official Macmillan book page contained synopsis material only, and the dedicated excerpt page returned a 403 when opened; neither was used as narration evidence.",
+    "Searched scholarly repositories and found articles devoted to the novel, but the accessible abstracts did not explicitly establish narrator person; targeted searches for exact third-person terminology produced no stronger accessible scholarly statement.",
+    "Opened the German work overview's Erz\u00e4hlweise section, which explicitly described the authorial narrator and character-centered perspective structure; no credible source indicated sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator with shifting focalization. Goodreads event passages repeatedly narrate Penelope, Antonia, Olivia, Mrs. Plackett, and other characters externally while reporting their thoughts, and web passages show the same construction from the opening through the final chapter. The viewpoint changes described online therefore do not warrant ALTERNATING: the focal character changes, but the narrating person remains third. Visible I forms occur in dialogue, paratext, or explicitly attributed private thought, especially q02942 and q02967, rather than in participating base narration. Complete contiguous online coverage of every chapter was unavailable, but the authorized excerpt, chapter-spanning attributed passages, structural descriptions, and supplied quotations agree without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_025",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:26:19.338449+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "689fb3f43361be7846d2a0486757425ad5b515d0c64b1eac6c66e6fe2784e593"
+  }
+}

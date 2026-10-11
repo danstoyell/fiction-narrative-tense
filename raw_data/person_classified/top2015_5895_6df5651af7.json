@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2015:5895",
+  "quotes": [
+    {
+      "quote_id": "q03343",
+      "person_signal": "first",
+      "note": "The novel's opening frame narrator refers to her own long life as I; authorized excerpt context confirms base narration."
+    },
+    {
+      "quote_id": "q03344",
+      "person_signal": "first",
+      "note": "The participating frame narrator recounts the women's wartime experience as us and we."
+    },
+    {
+      "quote_id": "q03345",
+      "person_signal": "non_base",
+      "note": "A general maxim about love and hate does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03346",
+      "person_signal": "first",
+      "note": "The frame narrator directly describes her former and current desires as I."
+    },
+    {
+      "quote_id": "q03347",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the aphoristic fragment contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q03348",
+      "person_signal": "first",
+      "note": "The frame narrator states personal knowledge and experience as I and us."
+    },
+    {
+      "quote_id": "q03349",
+      "person_signal": "first",
+      "note": "The frame narrator explicitly describes herself looking backward."
+    },
+    {
+      "quote_id": "q03350",
+      "person_signal": "first",
+      "note": "The frame narrator contrasts her own generation with young people using I and we."
+    },
+    {
+      "quote_id": "q03351",
+      "person_signal": "first",
+      "note": "The participating narrator identifies herself as a mother."
+    },
+    {
+      "quote_id": "q03352",
+      "person_signal": "non_base",
+      "note": "Universal gnomic statement; generic you does not establish second-person narration."
+    },
+    {
+      "quote_id": "q03353",
+      "person_signal": "non_base",
+      "note": "Character speech reported within dialogue; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q03354",
+      "person_signal": "non_base",
+      "note": "Direct speech with an external speech tag; you is character address, not base narration."
+    },
+    {
+      "quote_id": "q03355",
+      "person_signal": "unclear",
+      "note": "The clipped, unattributed address could be dialogue or another local voice."
+    },
+    {
+      "quote_id": "q03356",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about fatherhood contains no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q03357",
+      "person_signal": "unmarked",
+      "note": "Possible third-person scene narration, but this isolated sentence does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q03358",
+      "person_signal": "unmarked",
+      "note": "The sentence presents a woman's desire in third-person grammar, but local context is too short to prove narrator participation."
+    },
+    {
+      "quote_id": "q03359",
+      "person_signal": "first",
+      "note": "The participating frame narrator identifies her generation and its shared wartime conduct."
+    },
+    {
+      "quote_id": "q03360",
+      "person_signal": "first",
+      "note": "The frame narrator recounts her own memory of Paris as I."
+    },
+    {
+      "quote_id": "q03361",
+      "person_signal": "unmarked",
+      "note": "A bare third-person statement about fatigue is insufficient to identify the narrator."
+    },
+    {
+      "quote_id": "q03362",
+      "person_signal": "unmarked",
+      "note": "A third-person character description alone does not establish narrator person."
+    },
+    {
+      "quote_id": "q03363",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment about paternal love is nondiagnostic."
+    },
+    {
+      "quote_id": "q03364",
+      "person_signal": "first",
+      "note": "The event-classified speaker characterizes her own conduct as I."
+    },
+    {
+      "quote_id": "q03365",
+      "person_signal": "first",
+      "note": "Despite a clipped opening, I and my memories expose participating narration."
+    },
+    {
+      "quote_id": "q03366",
+      "person_signal": "unmarked",
+      "note": "Possible wartime narration, but they alone does not distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q03367",
+      "person_signal": "non_base",
+      "note": "Imperative character speech uses generic or addressed you, not second-person base narration."
+    },
+    {
+      "quote_id": "q03368",
+      "person_signal": "third",
+      "note": "Sustained external narration presents her unspoken wish and emotional state in third person."
+    },
+    {
+      "quote_id": "q03369",
+      "person_signal": "third",
+      "note": "Sustained scene narration names Vianne, accesses her reasoning, and narrates her actions externally."
+    },
+    {
+      "quote_id": "q03370",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside direct character speech."
+    },
+    {
+      "quote_id": "q03371",
+      "person_signal": "first",
+      "note": "The event-classified voice directly recounts her own love as I."
+    },
+    {
+      "quote_id": "q03372",
+      "person_signal": "third",
+      "note": "An extended passage externally narrates a woman's knowledge, possibilities, and resolve as she."
+    },
+    {
+      "quote_id": "q03373",
+      "person_signal": "unmarked",
+      "note": "A single third-person realization is compatible with more than one surrounding narrator configuration."
+    },
+    {
+      "quote_id": "q03374",
+      "person_signal": "non_base",
+      "note": "A general maxim classified as gnomic; we is not securely the base narrator."
+    },
+    {
+      "quote_id": "q03375",
+      "person_signal": "unmarked",
+      "note": "The impersonal statement about memories does not identify narrator person."
+    },
+    {
+      "quote_id": "q03376",
+      "person_signal": "non_base",
+      "note": "General pedagogical maxim with no story-specific narrator."
+    },
+    {
+      "quote_id": "q03377",
+      "person_signal": "unmarked",
+      "note": "The rhetorical question may be free-indirect thought, but contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q03378",
+      "person_signal": "unmarked",
+      "note": "Third-person counterfactual thought in one sentence is insufficient by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03379",
+      "person_signal": "first",
+      "note": "The frame narrator refers to her age and her own past; the authorized opening supplies the attribution."
+    },
+    {
+      "quote_id": "q03380",
+      "person_signal": "unmarked",
+      "note": "A brief statement about her could occur under either a participating or nonparticipating narrator."
+    },
+    {
+      "quote_id": "q03381",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about heartbreak is narratively nondiagnostic."
+    },
+    {
+      "quote_id": "q03382",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph rather than the novel's base narration."
+    },
+    {
+      "quote_id": "q03383",
+      "person_signal": "first",
+      "note": "The frame narrator describes what she sees in her son's face using I and my."
+    },
+    {
+      "quote_id": "q03384",
+      "person_signal": "first",
+      "note": "Although bucketed as dialogue, the outside speech beat I say and its narratorial gloss expose first-person frame narration."
+    },
+    {
+      "quote_id": "q03385",
+      "person_signal": "non_base",
+      "note": "Unattributed direct speech; I belongs to a speaking character."
+    },
+    {
+      "quote_id": "q03386",
+      "person_signal": "non_base",
+      "note": "Attributed historical epigraph, not base narration."
+    },
+    {
+      "quote_id": "q03387",
+      "person_signal": "third",
+      "note": "Outside the quoted declarations, the passage uses third-person speech beats and narratorial commentary on the couple."
+    },
+    {
+      "quote_id": "q03388",
+      "person_signal": "first",
+      "note": "Sustained frame narration identifies the speaker's son and her protective actions through I and mine."
+    },
+    {
+      "quote_id": "q03389",
+      "person_signal": "non_base",
+      "note": "Direct character address; you is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03390",
+      "person_signal": "first",
+      "note": "The frame narrator describes a man kissing her cheeks; the quoted I is local speech, but my is base narration."
+    },
+    {
+      "quote_id": "q03391",
+      "person_signal": "third",
+      "note": "Sustained external narration summarizes her crying, experiences, and knowledge in third person."
+    },
+    {
+      "quote_id": "q03392",
+      "person_signal": "third",
+      "note": "Extended scene narration externally presents her speech, memories, expectations, and grief as she."
+    },
+    {
+      "quote_id": "q03393",
+      "person_signal": "unmarked",
+      "note": "The rhetorical thought refers to she but is too brief to establish narrator participation."
+    },
+    {
+      "quote_id": "q03394",
+      "person_signal": "non_base",
+      "note": "First-person language occurs within direct dialogue."
+    },
+    {
+      "quote_id": "q03395",
+      "person_signal": "first",
+      "note": "The event-classified voice reflects on the ongoing war using I and inclusive we."
+    },
+    {
+      "quote_id": "q03396",
+      "person_signal": "non_base",
+      "note": "Direct speech contains no evidence about the surrounding narrator."
+    },
+    {
+      "quote_id": "q03397",
+      "person_signal": "unmarked",
+      "note": "Third-person description includes a parenthetical general address, but neither establishes narrator participation."
+    },
+    {
+      "quote_id": "q03398",
+      "person_signal": "first",
+      "note": "Sustained present-day frame narration uses we and I around locally quoted speech."
+    },
+    {
+      "quote_id": "q03399",
+      "person_signal": "unmarked",
+      "note": "A single sentence about their kiss does not establish the narrator's relation to the story."
+    },
+    {
+      "quote_id": "q03400",
+      "person_signal": "unmarked",
+      "note": "The sentence describes she and Vianne, but the brief context cannot exclude a participating observer."
+    },
+    {
+      "quote_id": "q03401",
+      "person_signal": "third",
+      "note": "Several linked sentences externally narrate Isabelle's recurring actions and life pattern."
+    },
+    {
+      "quote_id": "q03402",
+      "person_signal": "unmarked",
+      "note": "One sentence of third-person fear is insufficient to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03403",
+      "person_signal": "unmarked",
+      "note": "A brief statement about Sophie does not diagnostically identify narrator person."
+    },
+    {
+      "quote_id": "q03404",
+      "person_signal": "unmarked",
+      "note": "The apparent I occurs in a figurative message attributed to a smile, not in the narrator's voice."
+    },
+    {
+      "quote_id": "q03405",
+      "person_signal": "non_base",
+      "note": "Primarily direct dialogue; brief third-person speech beats do not establish the base narrator."
+    },
+    {
+      "quote_id": "q03406",
+      "person_signal": "non_base",
+      "note": "Gnomic observation about love is nondiagnostic."
+    },
+    {
+      "quote_id": "q03407",
+      "person_signal": "non_base",
+      "note": "Direct character speech; I and you do not identify base narration."
+    },
+    {
+      "quote_id": "q03408",
+      "person_signal": "third",
+      "note": "A sustained passage externally narrates her disappointment, self-questioning, and generalized expectation that people leave."
+    },
+    {
+      "quote_id": "q03409",
+      "person_signal": "unmarked",
+      "note": "Impersonal evaluative sentence with no narrator reference."
+    },
+    {
+      "quote_id": "q03410",
+      "person_signal": "unmarked",
+      "note": "The sentence reports his perception of her, but the limited context does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q03411",
+      "person_signal": "unmarked",
+      "note": "Historical action by women is narrated without a diagnostic indication of narrator participation."
+    },
+    {
+      "quote_id": "q03412",
+      "person_signal": "unmarked",
+      "note": "Generalized third-person statement does not identify the narrator."
+    },
+    {
+      "quote_id": "q03413",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased identity change is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q03414",
+      "person_signal": "unmarked",
+      "note": "They and the summary of lost time do not rule out a participating narrator."
+    },
+    {
+      "quote_id": "q03415",
+      "person_signal": "non_base",
+      "note": "The first-person plural claim appears in direct dialogue; the speech beat alone is too brief."
+    },
+    {
+      "quote_id": "q03416",
+      "person_signal": "non_base",
+      "note": "Dialogue and generic interpretation of nightingales do not identify the narrator."
+    },
+    {
+      "quote_id": "q03417",
+      "person_signal": "unmarked",
+      "note": "A brief third-person wish does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03418",
+      "person_signal": "unmarked",
+      "note": "Third-person character assessment in a short fragment is not diagnostic."
+    },
+    {
+      "quote_id": "q03419",
+      "person_signal": "third",
+      "note": "Sustained external narration enters her sensations and realization while maintaining she."
+    },
+    {
+      "quote_id": "q03420",
+      "person_signal": "non_base",
+      "note": "Character speech addressing you is not second-person base narration."
+    },
+    {
+      "quote_id": "q03421",
+      "person_signal": "third",
+      "note": "The passage explicitly attributes a direct thought to she and continues with third-person limited sensory detail."
+    },
+    {
+      "quote_id": "q03422",
+      "person_signal": "unmarked",
+      "note": "A short third-person assessment of a man does not establish whether the surrounding narrator participates."
+    },
+    {
+      "quote_id": "q03423",
+      "person_signal": "unmarked",
+      "note": "The brief description of what her garden gave her is not independently diagnostic."
+    },
+    {
+      "quote_id": "q03424",
+      "person_signal": "unmarked",
+      "note": "Fragmented summary of her nighttime longing lacks enough context to establish narrator person."
+    },
+    {
+      "quote_id": "q03425",
+      "person_signal": "first",
+      "note": "The participating frame narrator asks how she can begin her account while using I."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9780312577223/thenightingale/",
+      "title": "The Nightingale \u2014 Read Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The publisher's authorized excerpt presents Chapter One as sustained first-person narration in 1995, then begins Chapter Two in sustained third-person narration focused on Vianne in 1939."
+    },
+    {
+      "url": "https://kristinhannah.com/books/the-nightingale/excerpt/",
+      "title": "The Nightingale \u2014 Excerpt \u2014 Kristin Hannah",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's site supplies a sustained first-person opening frame in which the elderly narrator describes her own life, son, illness, and wartime memories."
+    },
+    {
+      "url": "https://ojs.library.dal.ca/dfs/article/download/8037/6890",
+      "title": "Book Reviews \u2014 Dalhousie French Studies 111",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The scholarly review explicitly states that the novel begins with first-person narration, continues in third person during the occupation, and is intermittently interrupted by the first-person narrator through the end."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-nightingale/styles.html",
+      "title": "Kristin Hannah Writing Styles in The Nightingale",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The point-of-view analysis identifies first-person 1995 chapters and says the majority of the wartime story is third-person omniscient."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Nightingale\" \"Kristin Hannah\" excerpt publisher first chapter; opened the author and Macmillan authorized excerpts.",
+    "Searched: \"The Nightingale\" \"Kristin Hannah\" point of view third person present day first person framing narrator; opened explicit whole-book structural analyses.",
+    "Searched: \"The Nightingale\" \"Kristin Hannah\" alternating narration first person third person and site:edu variants; opened the Dalhousie French Studies review.",
+    "Searched author, publisher, scholarly, study-guide, and review results for epistolary form, frame narrative, narrator, and alternating point of view.",
+    "Rejected Wikipedia, search snippets, retailer synopsis grammar, Reddit discussions, and inaccessible or duplicative previews as primary evidence."
+  ],
+  "person_note": "The novel sustains two base-narration persons: an elderly participating narrator tells the 1995 frame in first person, while the much longer World War II narrative is told externally in third person through Vianne and Isabelle. The authorized publisher excerpt directly displays the chapter-level switch, and a scholarly whole-book review confirms that first-person frame chapters intermittently interrupt the third-person wartime narrative through the end. The quote set independently contains repeated first-person frame passages and sustained third-person interior scenes. First-person dialogue, epigraphs, maxims, and figurative embedded uses were not promoted to separate narration. No credible contrary structural evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_055",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T03:31:40.507074+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "85ae846dd29e750d174ba150765fa5e366c0c6e647be4700683ffbf897ca4cea"
+  }
+}

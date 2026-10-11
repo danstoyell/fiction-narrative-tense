@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:THE STRANGER IN THE LIFEBOAT|Mitch Albom",
+  "quotes": [
+    {
+      "quote_id": "q05681",
+      "person_signal": "first",
+      "note": "Although speech dominates, the narratorial beat \u201cI rasped\u201d identifies participating narrator Benjamin; the other first-person language is dialogue."
+    },
+    {
+      "quote_id": "q05682",
+      "person_signal": "unmarked",
+      "note": "Dialogue is nondiagnostic, and the brief third-person action beat about the Lord does not establish the controlling narrator\u2019s person."
+    },
+    {
+      "quote_id": "q05683",
+      "person_signal": "first",
+      "note": "Story-specific reflection uses \u201cwe\u201d and \u201courselves,\u201d exposing the participating lifeboat narrator."
+    },
+    {
+      "quote_id": "q05684",
+      "person_signal": "non_base",
+      "note": "Quoted direct address to the inspector is character speech, not base narration."
+    },
+    {
+      "quote_id": "q05685",
+      "person_signal": "non_base",
+      "note": "This impersonal aphorism is gnomic and does not identify a narrator."
+    },
+    {
+      "quote_id": "q05686",
+      "person_signal": "non_base",
+      "note": "Quoted explanatory speech is not evidence of base-narration person."
+    },
+    {
+      "quote_id": "q05687",
+      "person_signal": "first",
+      "note": "The narrator explicitly describes a personal, continuing perception with \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q05688",
+      "person_signal": "non_base",
+      "note": "The generalized \u201cwe\u201d belongs to an aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q05689",
+      "person_signal": "non_base",
+      "note": "The generalized \u201cyou\u201d is gnomic address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q05690",
+      "person_signal": "non_base",
+      "note": "This is a question-and-answer exchange without an identifying narratorial beat."
+    },
+    {
+      "quote_id": "q05691",
+      "person_signal": "first",
+      "note": "The participating narrator retrospectively recounts what \u201cI\u201d considered and experienced."
+    },
+    {
+      "quote_id": "q05692",
+      "person_signal": "non_base",
+      "note": "Rhetorical generalization about human anticipation does not identify the base narrator."
+    },
+    {
+      "quote_id": "q05693",
+      "person_signal": "non_base",
+      "note": "Essayistic, generalized uses of \u201cwe\u201d concern collective storytelling rather than a participating story narrator."
+    },
+    {
+      "quote_id": "q05694",
+      "person_signal": "non_base",
+      "note": "This standalone aphorism uses universal \u201cyou\u201d and is not story-specific narration."
+    },
+    {
+      "quote_id": "q05695",
+      "person_signal": "unmarked",
+      "note": "The quoted speech is non-base, while the minimal third-person speech tag alone cannot establish third-person narration."
+    },
+    {
+      "quote_id": "q05696",
+      "person_signal": "first",
+      "note": "The speech is local, but \u201cI said\u201d and \u201cI actually laughed\u201d are narratorial beats identifying Benjamin as a participating narrator."
+    },
+    {
+      "quote_id": "q05697",
+      "person_signal": "unclear",
+      "note": "Missing attribution leaves unresolved whether the imperative is speech or aphoristic address."
+    },
+    {
+      "quote_id": "q05698",
+      "person_signal": "unclear",
+      "note": "The clipped imperative is probably character speech, but absent quotation boundaries prevent firm attribution."
+    },
+    {
+      "quote_id": "q05699",
+      "person_signal": "first",
+      "note": "The participating narrator recounts a specific past event using \u201cmost of us\u201d and \u201cwe huddled.\u201d"
+    },
+    {
+      "quote_id": "q05700",
+      "person_signal": "non_base",
+      "note": "The exchange consists of character speech and contains no diagnostic narratorial text."
+    },
+    {
+      "quote_id": "q05701",
+      "person_signal": "non_base",
+      "note": "This timeless personification of misery is gnomic rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q05702",
+      "person_signal": "non_base",
+      "note": "The passage is quoted direct-address speech and does not reveal the base narrator\u2019s person."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://katiecouric.com/entertainment/mitch-albom-new-book-excerpt-stranger-lifeboat/",
+      "title": "Read an Excerpt From Mitch Albom's New Book, 'The Stranger in the Lifeboat'",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The sustained excerpt visibly switches from Benji\u2019s first-person Sea narration to third-person Land narration centered on Inspector LeFleur, then returns to a first-person Sea section."
+    },
+    {
+      "url": "https://www.washingtonpost.com/entertainment/books/mitch-albom-stranger-lifeboat-book-review/2021/11/01/6d6da60c-3b12-11ec-8ee9-4f14a26749d1_story.html",
+      "title": "Mitch Albom serves up another helping of superficial spirituality",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review identifies Benji as the notebook narrator, states that alternate chapters follow LeFleur, and notes additional interrupting television-news sections."
+    },
+    {
+      "url": "https://annals.yonsei.ac.kr/news/articleView.html?idxno=10867",
+      "title": "The Stranger in the Lifeboat",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review explicitly describes three alternating narratives: Benji\u2019s notebook, LeFleur\u2019s point of view, and news reports."
+    },
+    {
+      "url": "https://www.supersummary.com/the-stranger-in-the-lifeboat/chapters-1-3-summary/",
+      "title": "The Stranger in the Lifeboat Chapters 1-3 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The chapter analysis separately tracks recurring Sea, Land, and News sections, identifying Benji as the participating notebook narrator and LeFleur as the subject of the land strand."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Stranger in the Lifeboat Mitch Albom alternating first third person narration review\u201d and opened the Washington Post review.",
+    "Searched for title-and-author excerpts, first chapters, Benji\u2019s notebook, and Inspector LeFleur; opened the KCM excerpt and verified first-person Sea and third-person Land prose on the page.",
+    "Searched exact phrases \u201calternate chapters\u201d and \u201cthree alternating narratives\u201d; opened the Yonsei Annals structural review and SuperSummary chapter analysis.",
+    "Searched HarperCollins, Google Books, Mitch Albom\u2019s site, Publishers Weekly, epistolary, narrator, and point-of-view combinations; no additional accessible sustained publisher excerpt or second Tier A/B whole-structure source was found. The author-site reading-guide PDF was nondiagnostic."
+  ],
+  "person_note": "The quotes repeatedly establish Benji\u2019s participating first-person notebook voice but do not expose the separate Land strand. Live evidence resolves the structure: sustained Sea sections use Benji\u2019s first person, while sustained Land sections narrate Inspector LeFleur in third person, with News interludes also woven through the novel. These are recurring base sections rather than isolated embedded speech, so the book is ALTERNATING. Confidence is medium because only one Tier A source supports ALTERNATING and the quote evidence supports only its first-person component; the required two exact-match Tier A/B sources for high confidence are not present.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_077",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:48:07.772838+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "706aa04ea8724d9cc05c24aa7581f080419e90d1df0a5f6eed84d6f285cea002"
+  }
+}

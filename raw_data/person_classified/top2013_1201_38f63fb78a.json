@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:1201",
+  "quotes": [
+    {
+      "quote_id": "q00769",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; the inclusive \u201cwe\u201d does not identify the story\u2019s base narrator."
+    },
+    {
+      "quote_id": "q00770",
+      "person_signal": "non_base",
+      "note": "Marcus Sunday\u2019s philosophical assertion within his lecture, not base-narrator self-reference."
+    },
+    {
+      "quote_id": "q00771",
+      "person_signal": "first",
+      "note": "Sustained participating narration by Alex Cross as \u201cI,\u201d describing his actions, perceptions, and grief."
+    },
+    {
+      "quote_id": "q00772",
+      "person_signal": "first",
+      "note": "A participating narrator describes what \u201cI\u201d saw and did in a sustained scene."
+    },
+    {
+      "quote_id": "q00773",
+      "person_signal": "unmarked",
+      "note": "Philosophical exposition lacks a participating narrator or sufficiently specific external scene context."
+    },
+    {
+      "quote_id": "q00774",
+      "person_signal": "third",
+      "note": "Story-specific narration externally describes the writer, Marcus Sunday, as \u201che\u201d within the sustained antagonist strand."
+    },
+    {
+      "quote_id": "q00775",
+      "person_signal": "third",
+      "note": "Continuation of the antagonist strand externally summarizes the writer\u2019s experience."
+    },
+    {
+      "quote_id": "q00776",
+      "person_signal": "unclear",
+      "note": "Clipped noun phrase contains no recoverable narrating position."
+    },
+    {
+      "quote_id": "q00777",
+      "person_signal": "unclear",
+      "note": "The first-person possessive may belong to narration, but the severe clipping prevents responsible attribution."
+    },
+    {
+      "quote_id": "q00778",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the brief attribution does not diagnose the base narrator."
+    },
+    {
+      "quote_id": "q00779",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Sunday and Acadia, including their actions, perceptions, and thoughts."
+    },
+    {
+      "quote_id": "q00780",
+      "person_signal": "unclear",
+      "note": "Both ends are clipped, the opening subject is missing, and the remaining named subjects do not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00781",
+      "person_signal": "unclear",
+      "note": "Incomplete fragment supplies no diagnostic narratorial context."
+    },
+    {
+      "quote_id": "q00782",
+      "person_signal": "non_base",
+      "note": "Unattributed character speech; its pronouns do not identify the base narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780099550150/9780099550150-sample.pdf",
+      "title": "Cross My Heart \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "Authorized publisher sample spans the prologue and multiple early chapters, alternating Alex Cross\u2019s participating first-person narration with sustained third-person chapters following Marcus Sunday and other characters."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/cross-my-heart/excerpt",
+      "title": "Cross My Heart by James Patterson \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "Copyrighted sustained excerpt shows a first-person Alex prologue, third-person Marcus Sunday in Chapter 1, first-person Alex in Chapter 2, and continued switches between the two persons through later excerpted chapters."
+    },
+    {
+      "url": "https://www.forensicpsychologyonline.com/alex-cross-forensic-psychologist/",
+      "title": "A Profile of Detective Alex Cross, Forensic Psychologist",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "ALTERNATING",
+      "note": "Explicitly describes the Alex Cross series convention as first-person narration by Alex with switches to third person for villains and other characters; it identifies Cross My Heart as the then-forthcoming series entry."
+    },
+    {
+      "url": "https://www.audiofilemagazine.com/reviews/read/85460/cross-my-heart-by-james-patterson-read-by-michael-boatman-tom-wopat/",
+      "title": "Cross My Heart by James Patterson \u2014 Audiobook Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The unabridged-audiobook review confirms separate sustained Alex Cross and homicidal-antagonist strands, performed by different readers, but audio casting alone does not establish grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJames Patterson Cross My Heart 2013 excerpt chapter Alex Cross\u201d and exact opening phrases; found the Penguin publisher sample and the sustained Bookreporter excerpt.",
+    "Searched \u201cCross My Heart James Patterson first person,\u201d \u201cthird person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201calternating narration\u201d; found an explicit description of the Alex Cross series\u2019 first-person/third-person switching convention.",
+    "Opened the author/Hachette title pages and the Google Play free-preview listing; they verified the work and preview availability but their synopsis text was nondiagnostic for narrative person.",
+    "Opened the Bookreporter excerpt URL repeatedly; direct fetching timed out, while the live search index exposed the sustained chapter text. The oversized Penguin PDF likewise exceeded the page parser, but its publisher-hosted sample and indexed metadata were verified.",
+    "Opened AudioFile\u2019s review of the complete unabridged audiobook; it corroborated distinct Alex and antagonist strands but was treated as nondiagnostic for grammatical person."
+  ],
+  "person_note": "The book sustains two base-narration modes: Alex Cross narrates his own chapters in first person, while Marcus Sunday and other non-Alex scenes are narrated in third person. The first-person passages are therefore not embedded documents or isolated thoughts, and the third-person passages are full antagonist chapters rather than brief external references inside Alex\u2019s narration. The input quotes independently expose both modes, and the authorized opening excerpts reproduce the same chapter-level switching. The main limitation is that the strongest prose sources cover the opening rather than every chapter, but the interior quote evidence and explicit series-level description corroborate the continuing structure, with no credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.252481+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f38e5afc9e6dd89a9e00a7d6689754049d9162935f2b958267f4f20c88b8cada"
+  }
+}

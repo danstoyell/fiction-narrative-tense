@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:1818",
+  "quotes": [
+    {
+      "quote_id": "q02419",
+      "person_signal": "third",
+      "note": "Web-confirmed surrounding passage is external historical narration of Viserys and the ensuing civil war by the nonparticipating chronicler."
+    },
+    {
+      "quote_id": "q02420",
+      "person_signal": "non_base",
+      "note": "Character speech; the brief third-person attribution does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q02421",
+      "person_signal": "non_base",
+      "note": "First-person threat spoken by a character, not controlling narration."
+    },
+    {
+      "quote_id": "q02422",
+      "person_signal": "non_base",
+      "note": "Declamatory character speech using my and we."
+    },
+    {
+      "quote_id": "q02423",
+      "person_signal": "non_base",
+      "note": "General aphorism without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q02424",
+      "person_signal": "non_base",
+      "note": "General moral observation rather than story narration."
+    },
+    {
+      "quote_id": "q02425",
+      "person_signal": "non_base",
+      "note": "Character speech addressing a specific hearer as you."
+    },
+    {
+      "quote_id": "q02426",
+      "person_signal": "non_base",
+      "note": "Prediction or maxim, possibly dialogue, with no base-narrator evidence."
+    },
+    {
+      "quote_id": "q02427",
+      "person_signal": "non_base",
+      "note": "Direct address by a character; we and you belong to the local speaker-hearer relation."
+    },
+    {
+      "quote_id": "q02428",
+      "person_signal": "third",
+      "note": "The chronicler evaluates Jaehaerys externally; the hortatory address does not make the narrator a participant in the history."
+    },
+    {
+      "quote_id": "q02429",
+      "person_signal": "non_base",
+      "note": "Maxim and imperative, plausibly character speech, not diagnostic narration."
+    },
+    {
+      "quote_id": "q02430",
+      "person_signal": "non_base",
+      "note": "A multi-speaker exchange; first- and second-person pronouns belong to the characters."
+    },
+    {
+      "quote_id": "q02431",
+      "person_signal": "third",
+      "note": "Sustained retrospective historical summary delivered without a participating narrator."
+    },
+    {
+      "quote_id": "q02432",
+      "person_signal": "non_base",
+      "note": "The stance marker I fear belongs to a local speaker in dialogue."
+    },
+    {
+      "quote_id": "q02433",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech with a third-person attribution."
+    },
+    {
+      "quote_id": "q02434",
+      "person_signal": "non_base",
+      "note": "Two-character exchange; I, you, and we are spoken pronouns."
+    },
+    {
+      "quote_id": "q02435",
+      "person_signal": "non_base",
+      "note": "Deictic toast or declaration spoken at a particular story moment."
+    },
+    {
+      "quote_id": "q02436",
+      "person_signal": "non_base",
+      "note": "First-person lament by a bereaved character, not the chronicler's base narration."
+    },
+    {
+      "quote_id": "q02437",
+      "person_signal": "non_base",
+      "note": "First-person eyewitness recollection embedded in the chronicle; my brother cannot be the much later historian's participation in these events."
+    },
+    {
+      "quote_id": "q02438",
+      "person_signal": "non_base",
+      "note": "Rhaenyra's quoted demand, introduced by a speech tag."
+    },
+    {
+      "quote_id": "q02439",
+      "person_signal": "non_base",
+      "note": "General proverb without story-specific narratorial person."
+    },
+    {
+      "quote_id": "q02440",
+      "person_signal": "non_base",
+      "note": "Entirely a two-speaker exchange."
+    },
+    {
+      "quote_id": "q02441",
+      "person_signal": "third",
+      "note": "The base chronicler describes the man externally before inserting the man's first-person saying."
+    },
+    {
+      "quote_id": "q02442",
+      "person_signal": "non_base",
+      "note": "Direct address between royal brothers; you, we, and I are character speech."
+    },
+    {
+      "quote_id": "q02443",
+      "person_signal": "non_base",
+      "note": "Extended character speech and reply; the short reporting beat only organizes the exchange."
+    },
+    {
+      "quote_id": "q02444",
+      "person_signal": "non_base",
+      "note": "Generalizing rhetorical question without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q02445",
+      "person_signal": "non_base",
+      "note": "Mushroom's first-person jest, an attributed source voice rather than the controlling chronicler."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://georgerrmartin.com/notablog/2018/09/27/a-fire-blood-excerpt-just-for-you/",
+      "title": "A FIRE & BLOOD Excerpt just for YOU!",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Martin identifies Archmaester Gyldayn as the book's perspective, and the long authorized interior excerpt sustains external third-person historical narration. Its first-person material is explicitly contained in dialogue and Alysanne's quoted letter."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/556963/fire-and-blood-hbo-tie-in-edition-by-george-r-r-martin/9781524796297/",
+      "title": "Fire & Blood (HBO Tie-in Edition)",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The publisher describes the entire work as a Targaryen chronicle related by a learned maester and notes that Gyldayn writes centuries after the events, establishing an external, nonparticipating historical narrator."
+    },
+    {
+      "url": "https://www.vanityfair.com/hollywood/2018/11/fire-and-blood-spoilers-game-of-thrones-easter-eggs-daenerys-dragon-eggs-tyrion-targaryen",
+      "title": "Fire & Blood: 6 Game of Thrones Easter Eggs from George R.R. Martin\u2019s New Book",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This review explicitly reports that the book has one narrator, Archmaester Gyldayn, whose retrospective historical account is distinct from the participating POV-character structure of the main novels."
+    },
+    {
+      "url": "https://bookanalysis.com/george-r-r-martin/fire-and-blood/",
+      "title": "About Fire and Blood by George R. R. Martin",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The literary overview names Gyldayn as narrator and explicitly classifies the book's point of view as third person."
+    }
+  ],
+  "search_log": [
+    "Searched site:georgerrmartin.com for \"Fire and Blood\" excerpt and Gyldayn; opened Martin's authorized 2018 excerpt and verified sustained interior third-person chronicle prose.",
+    "Searched Penguin Random House for the title and opened the publisher page; it describes the whole work as a chronicle related by a maester writing centuries after the events.",
+    "Searched \"Fire and Blood narrator Archmaester Gyldayn point of view\" and \"Fire & Blood first person third person narration Gyldayn\"; opened Vanity Fair, The Guardian, and Book Analysis descriptions, which consistently identify Gyldayn's retrospective historical narration, with Book Analysis explicitly saying third person.",
+    "Ran exact-quotation searches for \"Then the storm broke, and the dragons danced,\" \"Let no man think that the fire of the Targaryens,\" and \"The next morning the sea was calm again\" to test whether apparent first person was base narration; results corroborated the first two as chronicler narration, while the last appeared only in quote reposts and was reconciled structurally as embedded eyewitness speech.",
+    "Search results from fan wikis, Reddit, quote-image sites, Goodreads, and inaccessible or unauthorized previews were treated as discovery or dead ends and not used as controlling evidence."
+  ],
+  "person_note": "Fire & Blood is framed as Archmaester Gyldayn's retrospective history. He narrates Targaryen figures and events externally and did not participate in the centuries-earlier action, so the controlling person is THIRD under the participation-based definition. The sampled event passages agree with that chronicler position. Numerous I, we, and you forms occur in dialogue, reported testimony, sayings, and source documents; q02437's my brother recollection is necessarily an embedded eyewitness voice, not Gyldayn, and does not create a sustained first-person base section. The authorized excerpt likewise embeds a first-person letter inside continuous third-person history. No credible source indicates alternating base-person sections; the remaining uncertainty is limited to missing quotation boundaries in isolated popular quotes, not the whole-book structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_063",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T20:22:24.464649+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2d5da8fbe658cbc31f0a69b85d66f244ccf909f771a6c521787f9f7b14096d29"
+  }
+}

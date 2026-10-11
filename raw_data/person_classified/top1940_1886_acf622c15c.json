@@ -1,0 +1,418 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1940:1886",
+  "quotes": [
+    {
+      "quote_id": "q00421",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00422",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not narratorial self-reference."
+    },
+    {
+      "quote_id": "q00423",
+      "person_signal": "non_base",
+      "note": "Robert Jordan's local direct thought near the ending, not participating base narration."
+    },
+    {
+      "quote_id": "q00424",
+      "person_signal": "non_base",
+      "note": "First-person interior monologue belonging to Robert Jordan."
+    },
+    {
+      "quote_id": "q00425",
+      "person_signal": "non_base",
+      "note": "Quoted verse or song rather than base narration."
+    },
+    {
+      "quote_id": "q00426",
+      "person_signal": "third",
+      "note": "Sustained third-person narration reports a character's situation and response."
+    },
+    {
+      "quote_id": "q00427",
+      "person_signal": "non_base",
+      "note": "Universal gnomic question; 'we' is generic."
+    },
+    {
+      "quote_id": "q00428",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison, not story narration."
+    },
+    {
+      "quote_id": "q00429",
+      "person_signal": "third",
+      "note": "Sustained third-person narration enters a character's perceptions without a participating narrator."
+    },
+    {
+      "quote_id": "q00430",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange."
+    },
+    {
+      "quote_id": "q00431",
+      "person_signal": "non_base",
+      "note": "Second-person self-address in local thought or speech, not base second-person narration."
+    },
+    {
+      "quote_id": "q00432",
+      "person_signal": "non_base",
+      "note": "General maxim rather than narratorial scene evidence."
+    },
+    {
+      "quote_id": "q00433",
+      "person_signal": "unmarked",
+      "note": "An isolated third-person assertion does not by itself establish the narrator's participation."
+    },
+    {
+      "quote_id": "q00434",
+      "person_signal": "non_base",
+      "note": "Direct speech."
+    },
+    {
+      "quote_id": "q00435",
+      "person_signal": "non_base",
+      "note": "Imperative gnomic statement, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00436",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person speculation, not securely base narration."
+    },
+    {
+      "quote_id": "q00437",
+      "person_signal": "non_base",
+      "note": "First-person declaration in dialogue."
+    },
+    {
+      "quote_id": "q00438",
+      "person_signal": "third",
+      "note": "Extended third-person narration represents a character's experience and sensation."
+    },
+    {
+      "quote_id": "q00439",
+      "person_signal": "non_base",
+      "note": "Questions spoken by a character."
+    },
+    {
+      "quote_id": "q00440",
+      "person_signal": "non_base",
+      "note": "Robert Jordan's local first-person and second-person interior monologue."
+    },
+    {
+      "quote_id": "q00441",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed self-address: 'he said to himself.'"
+    },
+    {
+      "quote_id": "q00442",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00443",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about time."
+    },
+    {
+      "quote_id": "q00444",
+      "person_signal": "non_base",
+      "note": "Direct speech using archaic second-person address."
+    },
+    {
+      "quote_id": "q00445",
+      "person_signal": "non_base",
+      "note": "Gnomic character commentary, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00446",
+      "person_signal": "non_base",
+      "note": "Speech explicitly attributed to Anselmo."
+    },
+    {
+      "quote_id": "q00447",
+      "person_signal": "non_base",
+      "note": "Character address in dialogue."
+    },
+    {
+      "quote_id": "q00448",
+      "person_signal": "non_base",
+      "note": "Extended second-person self-address representing Robert Jordan's thoughts, not a narratorial 'you' protagonist."
+    },
+    {
+      "quote_id": "q00449",
+      "person_signal": "non_base",
+      "note": "First-person dialogue."
+    },
+    {
+      "quote_id": "q00450",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00451",
+      "person_signal": "third",
+      "note": "Sustained third-person narration reports a character's changing attitude."
+    },
+    {
+      "quote_id": "q00452",
+      "person_signal": "non_base",
+      "note": "Direct speech."
+    },
+    {
+      "quote_id": "q00453",
+      "person_signal": "non_base",
+      "note": "Dialogue with an attribution beat."
+    },
+    {
+      "quote_id": "q00454",
+      "person_signal": "non_base",
+      "note": "Dialogue explicitly attributed to a woman."
+    },
+    {
+      "quote_id": "q00455",
+      "person_signal": "third",
+      "note": "After brief speech, an external third-person beat sustains narration of the character's bodily experience."
+    },
+    {
+      "quote_id": "q00456",
+      "person_signal": "non_base",
+      "note": "First-person character reflection presented as dialogue."
+    },
+    {
+      "quote_id": "q00457",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary."
+    },
+    {
+      "quote_id": "q00458",
+      "person_signal": "third",
+      "note": "Substantial third-person narration frames a clearly marked passage of Robert Jordan's direct thought."
+    },
+    {
+      "quote_id": "q00459",
+      "person_signal": "non_base",
+      "note": "Extended character speech."
+    },
+    {
+      "quote_id": "q00460",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'he' is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q00461",
+      "person_signal": "non_base",
+      "note": "An embedded anecdote told in dialogue."
+    },
+    {
+      "quote_id": "q00462",
+      "person_signal": "non_base",
+      "note": "Direct speech."
+    },
+    {
+      "quote_id": "q00463",
+      "person_signal": "third",
+      "note": "Third-person sensory narration frames Robert Jordan's subsequent first- and second-person thoughts."
+    },
+    {
+      "quote_id": "q00464",
+      "person_signal": "non_base",
+      "note": "First-person thought explicitly attributed to a character."
+    },
+    {
+      "quote_id": "q00465",
+      "person_signal": "non_base",
+      "note": "Clipped first-person interior reflection, not narratorial self-reference."
+    },
+    {
+      "quote_id": "q00466",
+      "person_signal": "unclear",
+      "note": "The incomplete, ungrammatical clipping prevents reliable attribution."
+    },
+    {
+      "quote_id": "q00467",
+      "person_signal": "non_base",
+      "note": "Gnomic linguistic commentary."
+    },
+    {
+      "quote_id": "q00468",
+      "person_signal": "non_base",
+      "note": "Direct character address."
+    },
+    {
+      "quote_id": "q00469",
+      "person_signal": "non_base",
+      "note": "First-person direct thought explicitly attributed to Anselmo."
+    },
+    {
+      "quote_id": "q00470",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed to Ingl\u00e9s."
+    },
+    {
+      "quote_id": "q00471",
+      "person_signal": "non_base",
+      "note": "First-person declaration in dialogue."
+    },
+    {
+      "quote_id": "q00472",
+      "person_signal": "non_base",
+      "note": "Character speech using generic or addressed 'you.'"
+    },
+    {
+      "quote_id": "q00473",
+      "person_signal": "third",
+      "note": "Substantial third-person scene narration frames dialogue and Robert Jordan's remembered reactions."
+    },
+    {
+      "quote_id": "q00474",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment."
+    },
+    {
+      "quote_id": "q00475",
+      "person_signal": "third",
+      "note": "Sustained third-person narration presents a character's obligations and mental state."
+    },
+    {
+      "quote_id": "q00476",
+      "person_signal": "non_base",
+      "note": "First-person character thought or speech, not controlling narration."
+    },
+    {
+      "quote_id": "q00477",
+      "person_signal": "third",
+      "note": "Extended third-person narration relates the focal character to a generalized comparison."
+    },
+    {
+      "quote_id": "q00478",
+      "person_signal": "third",
+      "note": "Sustained external narration repeatedly identifies Robert Jordan as 'he' across an active scene."
+    },
+    {
+      "quote_id": "q00479",
+      "person_signal": "third",
+      "note": "Third-person narration applies a general description to the focal character's experience."
+    },
+    {
+      "quote_id": "q00480",
+      "person_signal": "non_base",
+      "note": "Character speech with addressed and generic pronouns."
+    },
+    {
+      "quote_id": "q00481",
+      "person_signal": "unmarked",
+      "note": "A brief report about 'he' is compatible with both participating and nonparticipating narration in isolation."
+    },
+    {
+      "quote_id": "q00482",
+      "person_signal": "non_base",
+      "note": "Second-person self-address within Robert Jordan's interior monologue, not controlling second-person narration."
+    },
+    {
+      "quote_id": "q00483",
+      "person_signal": "non_base",
+      "note": "First-person dialogue."
+    },
+    {
+      "quote_id": "q00484",
+      "person_signal": "non_base",
+      "note": "Dialogue with speech attributions."
+    },
+    {
+      "quote_id": "q00485",
+      "person_signal": "non_base",
+      "note": "First-person dialogue."
+    },
+    {
+      "quote_id": "q00486",
+      "person_signal": "non_base",
+      "note": "Extended dialogue."
+    },
+    {
+      "quote_id": "q00487",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks reliable speech or narration boundaries."
+    },
+    {
+      "quote_id": "q00488",
+      "person_signal": "unmarked",
+      "note": "The impersonal statement contains no diagnostic narrator-person marking."
+    },
+    {
+      "quote_id": "q00489",
+      "person_signal": "third",
+      "note": "Second-person inner reflection resolves into third-person framing of Robert Jordan's perceptions and thoughts."
+    },
+    {
+      "quote_id": "q00490",
+      "person_signal": "third",
+      "note": "Third-person framing identifies the following 'you' clauses as a character's self-directed thought."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.net/books/For-Whom-the-Bell-Tolls/Ernest-Hemingway/9780684803357",
+      "title": "For Whom the Bell Tolls | Book by Ernest Hemingway | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Scribner's authorized Chapter One excerpt sustains external past-tense narration of Robert Jordan and the old man as 'he,' independently corroborating the quote evidence."
+    },
+    {
+      "url": "https://www.artofmanliness.com/culture/books/podcast-922-for-whom-the-bell-tolls/",
+      "title": "For Whom the Bell Tolls: Themes, Techniques, and Analysis",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Hemingway scholar Mark Cirino explicitly identifies a third-person, omniscient narrator and explains that the narration can leave Jordan to follow El Sordo and Andr\u00e9s."
+    },
+    {
+      "url": "https://artswarandpeace.univ-paris-diderot.fr/2023/03/27/that-was-thinking-in-spanish-translated-style-and-interlingual-strangeness-in-hemingway/",
+      "title": "\u201cThat Was Thinking in Spanish\u201d: Translated Style and Interlingual Strangeness in Hemingway",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly essay states that the book is narrated in third person and explains that its narration often blends with Robert Jordan's inner thoughts, resolving apparent first-person passages as interior monologue."
+    },
+    {
+      "url": "https://oyc.yale.edu/american-studies/amst-246/lecture-17",
+      "title": "AMST 246 - Lecture 17 - Hemingway's For Whom the Bell Tolls, Part II",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The Yale lecture explicitly identifies an apparent narrative 'you' as Robert Jordan addressing himself and notes the passage's switch back to third person."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/belltolls/facts/",
+      "title": "For Whom The Bell Tolls: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies an anonymous third-person narrator, usually restricted to Robert Jordan's perceptions but occasionally commenting on other action."
+    }
+  ],
+  "search_log": [
+    "Searched: \"For Whom the Bell Tolls\" Hemingway point of view third person narrator; located explicit whole-book descriptions and the official publisher excerpt.",
+    "Searched: \"For Whom the Bell Tolls\" Hemingway excerpt first chapter publisher; opened and inspected Scribner/Simon & Schuster's Chapter One excerpt.",
+    "Searched: \"For Whom the Bell Tolls\" narrative technique free indirect discourse second person scholarly; opened University of Costa Rica, University of Paris, and Yale materials to distinguish character thought from base narration.",
+    "Searched: site:edu \"For Whom the Bell Tolls\" \"third-person narrator\" and related scholarly queries; useful corroboration came from Yale, Boston University, and university-hosted research, while several PDF previews were inaccessible or redundant.",
+    "Searched exact first-person quotations including \"The world is a fine place and worth fighting for\" and \"How little we know of what there is to know\"; results associated them with Robert Jordan's reflections rather than a participating narrator."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. Multiple substantial quotes narrate Robert Jordan externally as 'he,' while the authorized opening and several structural sources independently confirm a third-person narrator that can move among characters. The conspicuous first- and second-person event excerpts are local direct thought or self-address by Robert Jordan or Anselmo; Yale and the scholarly style analysis specifically document this movement between Jordan's self-directed 'you' and third-person framing. Dialogue, maxims, and verse likewise do not alter the base person. No source indicates sustained first- or second-person base sections, so these local voice changes do not warrant ALTERNATING. The remaining uncertainty is limited to attribution of a few clipped quotes, not the book-level classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_003",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:31:00.745784+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ceb05add7d3597d55e29ca9acd269113bde2fa081b308c75a1af587caeef1f30"
+  }
+}

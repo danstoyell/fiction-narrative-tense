@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:6093",
+  "quotes": [
+    {
+      "quote_id": "q02595",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person statement; it does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02596",
+      "person_signal": "non_base",
+      "note": "Universal advice using generic \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02597",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q02598",
+      "person_signal": "unclear",
+      "note": "Clipped fragment provides no recoverable narratorial context."
+    },
+    {
+      "quote_id": "q02599",
+      "person_signal": "first",
+      "note": "Malcolm\u2019s participating narration explicitly describes his own guilt and mistake as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02600",
+      "person_signal": "non_base",
+      "note": "General factual observation using inclusive \u201cwe,\u201d not a narrated story event."
+    },
+    {
+      "quote_id": "q02601",
+      "person_signal": "unmarked",
+      "note": "A bare third-person character description does not independently establish the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02602",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration by Malcolm about leaving his son and entering prison."
+    },
+    {
+      "quote_id": "q02603",
+      "person_signal": "non_base",
+      "note": "General legal commentary rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02604",
+      "person_signal": "first",
+      "note": "The participating narrator locates another character\u2019s office relative to \u201cmy condo.\u201d"
+    },
+    {
+      "quote_id": "q02605",
+      "person_signal": "first",
+      "note": "Sustained prison narration anchored by the participating narrator\u2019s \u201chere\u201d and knowledge of fellow inmates."
+    },
+    {
+      "quote_id": "q02606",
+      "person_signal": "first",
+      "note": "Malcolm narrates his own disbarment and conviction using repeated first-person forms."
+    },
+    {
+      "quote_id": "q02607",
+      "person_signal": "first",
+      "note": "Explicit opening identification of the participating narrator as a lawyer in prison."
+    },
+    {
+      "quote_id": "q02608",
+      "person_signal": "non_base",
+      "note": "Clipped character dialogue and speech beat, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q02609",
+      "person_signal": "first",
+      "note": "Participating narrator describes his current outlook as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02610",
+      "person_signal": "unclear",
+      "note": "Clipping destroys the sentence and its local voice boundaries."
+    },
+    {
+      "quote_id": "q02611",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Quinn\u2019s cousin and FBI agents outside Malcolm\u2019s direct participation."
+    },
+    {
+      "quote_id": "q02612",
+      "person_signal": "unmarked",
+      "note": "Isolated historical statement contains no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q02613",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Vanessa\u2019s actions and perceptions without a participating narrator."
+    },
+    {
+      "quote_id": "q02614",
+      "person_signal": "third",
+      "note": "External narration describes an unnamed man\u2019s history and internal valuation in third person."
+    },
+    {
+      "quote_id": "q02615",
+      "person_signal": "unmarked",
+      "note": "Clipped explanatory description of a story-world group does not identify the narrator."
+    },
+    {
+      "quote_id": "q02616",
+      "person_signal": "unmarked",
+      "note": "Clipped technical exposition contains no diagnostic person marking."
+    },
+    {
+      "quote_id": "q02617",
+      "person_signal": "non_base",
+      "note": "Live research identifies this as a passage from The Pelican Brief that Goodreads misattributes to The Racketeer; it is not this book\u2019s base narration."
+    },
+    {
+      "quote_id": "q02618",
+      "person_signal": "first",
+      "note": "Extended participating narration follows Malcolm\u2019s hotel activities, suspicions, and choices as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02619",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02620",
+      "person_signal": "unclear",
+      "note": "Clipped quotation boundary leaves unresolved whether \u201cI cannot\u201d is narration or adjacent speech."
+    },
+    {
+      "quote_id": "q02621",
+      "person_signal": "non_base",
+      "note": "General commentary on the federal prison system is gnomic rather than diagnostic narrative action."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://getd.libs.uga.edu/pdfs/morgan_stephen_p_201305_ma.pdf",
+      "title": "Book DNA: Validating How Successful Mystery Literature Is",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "University of Georgia scholarly analysis classifies The Racketeer as mixing first-person narration for its hero with third-person narration for secondary characters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-racketeer/style.html",
+      "title": "John Grisham Writing Styles in The Racketeer",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The point-of-view analysis identifies Malcolm as the mostly first-person narrator and explicitly says other parts are told in third person for scenes he cannot witness."
+    },
+    {
+      "url": "https://www.sleuthsayers.org/2012/12/old-dogs-and-new-tricks.html",
+      "title": "Old Dogs and New Tricks",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A crime writer\u2019s contemporaneous discussion explicitly observes that some chapters are first person and others third person."
+    },
+    {
+      "url": "https://www.supersummary.com/the-racketeer/chapters-1-10-summary/",
+      "title": "The Racketeer Chapters 1-10 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The chapter guide identifies Malcolm as narrator and documents his first-person narration across the opening chapters; its scope does not cover the later third-person sections."
+    },
+    {
+      "url": "https://moodle.gybon.cz/pluginfile.php/21718/mod_resource/content/1/level%205%20-%20The%20Pelican%20Brief%20%20.pdf",
+      "title": "The Pelican Brief",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The opened text contains q02617\u2019s Virgin Islands passage in The Pelican Brief, demonstrating contamination in the Goodreads attribution rather than contrary evidence about The Racketeer."
+    }
+  ],
+  "search_log": [
+    "Searched publisher and author domains for \u201cThe Racketeer\u201d excerpts and samples; Penguin Random House verified the work and offered a Look Inside interface, but the accessible page did not expose sustained sample prose.",
+    "Searched \u201cThe Racketeer\u201d with point of view, first person, third person, narrator, and alternating-narration terms; found explicit whole-book descriptions from a scholarly thesis, BookRags, and SleuthSayers.",
+    "Opened the University of Georgia thesis URLs after discovery; the web reader returned retrieval errors, but the indexed university PDF text explicitly reports mixed first- and third-person perspectives throughout the analyzed novel.",
+    "Opened BookRags, SleuthSayers, and SuperSummary pages to verify that their statements concerned narrative perspective rather than synopsis grammar.",
+    "Searched the distinctive wording of q02617; opened both its unverified Goodreads attribution and a text of The Pelican Brief containing the passage, confirming that this quote belongs to another Grisham novel."
+  ],
+  "person_note": "The book sustains Malcolm Bannister\u2019s participating first-person narration but also uses autonomous third-person chapters or scenes for events outside his viewpoint. The input independently contains extensive first-person passages and several sustained third-person passages, while scholarly and explicit whole-book web sources describe the same mixed structure; under the methodology this requires ALTERNATING, even though first person predominates. The apparent additional third-person passage q02617 is excluded because research shows it was imported from The Pelican Brief. The precise chapter-by-chapter distribution was not fully enumerated, but no credible source disputes the sustained first/third alternation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_051",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T04:13:50.005239+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "62cd2693ea2802a4f70112199d3cea8603e9281fc953c7930d3e4fc3add3035f"
+  }
+}

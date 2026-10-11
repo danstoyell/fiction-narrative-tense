@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1962:1715",
+  "quotes": [
+    {
+      "quote_id": "q00753",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about humanity; the generic \u201cwe\u201d does not identify a participating story narrator."
+    },
+    {
+      "quote_id": "q00754",
+      "person_signal": "unmarked",
+      "note": "Expository base narration, but it contains no narrator-participation marker and is not independently diagnostic of person."
+    },
+    {
+      "quote_id": "q00755",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial or free-indirect exposition without enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q00756",
+      "person_signal": "unmarked",
+      "note": "A contextless expository fragment with no diagnostic first-, second-, or third-person narrating position."
+    },
+    {
+      "quote_id": "q00757",
+      "person_signal": "third",
+      "note": "Sustained external appraisal of a group as \u201cthey,\u201d \u201cno one,\u201d and \u201ceveryone\u201d is consistent with the novel\u2019s nonparticipating omniscient narrator."
+    },
+    {
+      "quote_id": "q00758",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00759",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, the full-text context attributes this passage to Colonel Cascio\u2019s speech, so \u201cwe\u201d is not base narration."
+    },
+    {
+      "quote_id": "q00760",
+      "person_signal": "non_base",
+      "note": "Direct speech with a third-person attribution beat; the bare speech tag is insufficient to establish narrative person."
+    },
+    {
+      "quote_id": "q00761",
+      "person_signal": "non_base",
+      "note": "Direct character address; the clipped trailing \u201cShe\u201d does not supply a diagnostic base-narration passage."
+    },
+    {
+      "quote_id": "q00762",
+      "person_signal": "non_base",
+      "note": "Direct address to \u201cgentlemen\u201d within character speech."
+    },
+    {
+      "quote_id": "q00763",
+      "person_signal": "unmarked",
+      "note": "An embedded instruction is followed by neutral framing prose, but neither portion identifies narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/387516506/Fail-Safe",
+      "title": "Fail-Safe by Eugene Burdick, Harvey Wheeler (Ebook)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed sustained preview externally narrates Buck\u2019s actions and thoughts, then shifts to Bogan and other characters in Chapter 2 while retaining third-person narration."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-fail-safe/style.html",
+      "title": "Eugene Burdick Writing Styles in Fail Safe",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies an omniscient viewpoint that enters many characters\u2019 thoughts and often changes focal character by chapter."
+    },
+    {
+      "url": "https://www.enotes.com/topics/fail-safe/critical-essays",
+      "title": "Fail-Safe Critical Essays",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The narrative-techniques section independently describes an omniscient viewpoint used to reveal the backgrounds and motivations of multiple characters."
+    },
+    {
+      "url": "https://www.rulit.me/books/fail-safe-read-272407-7.html",
+      "title": "Fail-Safe \u2014 Eugene Burdick \u2014 online text, page 7",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "An unattributed transcription was used only to resolve quote boundaries: q00759 is Colonel Cascio\u2019s dialogue, followed by external third-person narration, rather than a first-person base-narrator passage."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cFail-Safe Eugene Burdick Harvey Wheeler excerpt novel\u201d and \u201cfirst chapter\u201d; located the sustained Everand preview and a Google Books edition page.",
+    "Searched \u201cFail-Safe Burdick Wheeler third person narrator,\u201d \u201cpoint of view,\u201d and \u201comniscient narrator\u201d; located explicit whole-book analyses from BookRags and eNotes.",
+    "Searched for epistolary, diary, frame-narrative, multiple-narrator, and alternating-person descriptions; found no credible evidence of sustained first- or second-person base sections.",
+    "Searched exact quote text including \u201cWe have never gone to Condition Red\u201d; the online transcription showed it inside Colonel Cascio\u2019s speech, revealing a likely upstream event-bucket issue.",
+    "Searched for David Seed\u2019s scholarly analysis and authorized publisher material; references to the article and a Google Books catalog page were found, but no accessible additional passage explicitly addressing narrative person."
+  ],
+  "person_note": "The novel uses an external third-person omniscient narrator with shifting focalization among an ensemble; changes in viewpoint do not change grammatical person. The sustained licensed opening and two independent whole-book analyses agree, while q00757 supplies quote-level corroboration. Apparent first-person evidence is local: q00753 uses a generic human \u201cwe,\u201d and q00759 is Colonel Cascio\u2019s dialogue despite its event bucket. No evidence supports sustained first-, second-, or alternating-person base narration; the main residual limitation is that most supplied event quotations are too context-poor to be independently diagnostic.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_012",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:31:19.474257+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d456ef0448712e72fb8b03ffe37b99ee56a913359c10b6ae93cbdf129e78e7b8"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:535",
+  "quotes": [
+    {
+      "quote_id": "q01303",
+      "person_signal": "non_base",
+      "note": "Generic aphorism using universal 'you'; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q01304",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a participating or external narrating position."
+    },
+    {
+      "quote_id": "q01305",
+      "person_signal": "non_base",
+      "note": "General relationship advice; 'you' addresses couples generically rather than a protagonist."
+    },
+    {
+      "quote_id": "q01306",
+      "person_signal": "non_base",
+      "note": "Generic advice using universal 'your'; not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01307",
+      "person_signal": "non_base",
+      "note": "Character speech with first- and second-person pronouns but no narrating beat."
+    },
+    {
+      "quote_id": "q01308",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical questions that do not expose narrative person."
+    },
+    {
+      "quote_id": "q01309",
+      "person_signal": "third",
+      "note": "External narration attributes story-specific knowledge to 'he,' consistent with limited third-person narration."
+    },
+    {
+      "quote_id": "q01310",
+      "person_signal": "non_base",
+      "note": "A generic proverb; 'you' is universal rather than story-specific."
+    },
+    {
+      "quote_id": "q01311",
+      "person_signal": "non_base",
+      "note": "Variant of a gnomic rhetorical question and not evidence of base narration."
+    },
+    {
+      "quote_id": "q01312",
+      "person_signal": "third",
+      "note": "Sustained external narration presents the focal character's beliefs and preferences as 'he.'"
+    },
+    {
+      "quote_id": "q01313",
+      "person_signal": "non_base",
+      "note": "Direct relationship advice spoken to another character; its 'you' forms are dialogue."
+    },
+    {
+      "quote_id": "q01314",
+      "person_signal": "non_base",
+      "note": "First-person declaration inside character speech, with no narrating beat."
+    },
+    {
+      "quote_id": "q01315",
+      "person_signal": "third",
+      "note": "The narrator names Jeremy, reports his thoughts and knowledge externally, and uses 'you' only inside his generalized formulation."
+    },
+    {
+      "quote_id": "q01316",
+      "person_signal": "third",
+      "note": "External narration names Jeremy and attributes reasoning to him, exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q01317",
+      "person_signal": "unclear",
+      "note": "The clipped fragment begins with 'he' and ends mid-phrase, leaving too little local structure for a diagnostic signal."
+    },
+    {
+      "quote_id": "q01318",
+      "person_signal": "unmarked",
+      "note": "Possible scene description, but the nonhuman subject and absent narrator reference do not independently establish person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-11.2005.10-at-first-sight.pdf",
+      "title": "At First Sight \u2014 Official PDF Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized 18-page excerpt sustains external narration of Jeremy as 'he' while repeatedly entering his memories, perceptions, and thoughts across the prologue and following section."
+    },
+    {
+      "url": "https://www.bookey.app/book/at-first-sight/quote",
+      "title": "Best Quotes from At First Sight with Page Numbers",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Chapter-labeled passages from chapters 6\u20138 continue to narrate Jeremy externally as 'he' and report his thoughts, corroborating third person beyond the opening."
+    },
+    {
+      "url": "https://www.teenink.com/reviews/book_reviews/article/64839/At-First-Sight-by-Nicholas-Sparks",
+      "title": "At First Sight by Nicholas Sparks | Teen Ink",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An anonymous whole-book review explicitly describes the story as written in third person; used only as weak corroboration because the attribution and plot description are unreliable."
+    }
+  ],
+  "search_log": [
+    "Searched \"Nicholas Sparks At First Sight excerpt chapter one\" and \"At First Sight Nicholas Sparks read excerpt publisher\"; found and opened the official Nicholas Sparks PDF excerpt.",
+    "Searched \"At First Sight Nicholas Sparks point of view third person narrator\", \"third person\", \"third-person\", and \"narration point of view\"; found an explicit but anonymous Teen Ink description.",
+    "Searched for Google Books and opened its preview and chapter links; bibliographic data and contents were accessible, but the selected preview pages supplied no diagnostic prose.",
+    "Searched exact interior phrases including \"there was always a but\", \"Jeremy figured it was called faith\", and \"He didn't believe in a God who sifted through prayers\"; Goodreads confirmed attribution, while Bookey supplied chapter-labeled interior third-person passages.",
+    "Opened the Nicholas Sparks work page, Hachette/Little, Brown listing, and Publishers Weekly review; they verified the work and plot but their synopsis grammar was not treated as narrator evidence.",
+    "Searched for epistolary, diary, frame, multiple-narrator, and alternating-POV indications; found no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling narration is third person, chiefly focalized through Jeremy: several event quotes externally name or pronominalize him while reporting his cognition, and the authorized sustained opening does the same. Chapter-labeled interior passages indicate that this pattern continues beyond the opening, while a whole-book review explicitly calls the novel third person. First- and second-person forms in the supplied quotations occur only in dialogue or generic maxims, not autonomous narrative sections. The strongest web excerpt covers only the opening, but independent interior quote evidence corroborates it; no alternating structure was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.239672+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0431e0da21e423ce5c21345d75d2eaac71d986631da8118b43b1c1c68de10b36"
+  }
+}

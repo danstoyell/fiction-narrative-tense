@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:2118",
+  "quotes": [
+    {
+      "quote_id": "q00375",
+      "person_signal": "non_base",
+      "note": "A gnomic statement, attributed elsewhere to character speech, does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00376",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00377",
+      "person_signal": "non_base",
+      "note": "Direct character speech presenting an aphorism."
+    },
+    {
+      "quote_id": "q00378",
+      "person_signal": "non_base",
+      "note": "Dumbledore's speech; the brief third-person speech beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00379",
+      "person_signal": "non_base",
+      "note": "Character dialogue with a short speech beat, not controlling narration."
+    },
+    {
+      "quote_id": "q00380",
+      "person_signal": "non_base",
+      "note": "Gnomic material without diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00381",
+      "person_signal": "non_base",
+      "note": "An exchange among characters; first- and second-person pronouns belong to speech."
+    },
+    {
+      "quote_id": "q00382",
+      "person_signal": "non_base",
+      "note": "Dumbledore's first-person speech; the attribution does not make it base narration."
+    },
+    {
+      "quote_id": "q00383",
+      "person_signal": "non_base",
+      "note": "A generic-you aphorism, possibly misbucketed upstream, rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00384",
+      "person_signal": "non_base",
+      "note": "Direct speech plus a short third-person attribution that is insufficient by itself."
+    },
+    {
+      "quote_id": "q00385",
+      "person_signal": "non_base",
+      "note": "Hermione's first-person dialogue, not a participating narrator."
+    },
+    {
+      "quote_id": "q00386",
+      "person_signal": "non_base",
+      "note": "Direct character speech; no diagnostic outside narration is retained."
+    },
+    {
+      "quote_id": "q00387",
+      "person_signal": "non_base",
+      "note": "Dialogue with character speech beats; visible pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q00388",
+      "person_signal": "non_base",
+      "note": "Dialogue among Harry and Hermione; brief external beats do not independently establish the narrator."
+    },
+    {
+      "quote_id": "q00389",
+      "person_signal": "non_base",
+      "note": "Character speech presenting an aphoristic claim."
+    },
+    {
+      "quote_id": "q00390",
+      "person_signal": "non_base",
+      "note": "Extended second-person address within Dumbledore's speech to Harry, not second-person base narration."
+    },
+    {
+      "quote_id": "q00391",
+      "person_signal": "third",
+      "note": "Sustained external narration names Harry, describes his actions and unavailable knowledge, and frames quoted speech without a participating narrator; generic 'you would expect' is reader address."
+    },
+    {
+      "quote_id": "q00392",
+      "person_signal": "non_base",
+      "note": "Character speech using generic and addressed pronouns."
+    },
+    {
+      "quote_id": "q00393",
+      "person_signal": "non_base",
+      "note": "A dialogue exchange; its short third-person attributions are local speech beats."
+    },
+    {
+      "quote_id": "q00394",
+      "person_signal": "non_base",
+      "note": "An embedded Hogwarts song, not the controlling narrative voice."
+    },
+    {
+      "quote_id": "q00395",
+      "person_signal": "unmarked",
+      "note": "Possible base scene narration, but this short external description alone does not conclusively exclude an unexpressed participating narrator."
+    },
+    {
+      "quote_id": "q00396",
+      "person_signal": "non_base",
+      "note": "Dialogue with speech attributions, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00397",
+      "person_signal": "non_base",
+      "note": "Embedded verse or inscription addressed to a visitor, not second-person base narration."
+    },
+    {
+      "quote_id": "q00398",
+      "person_signal": "non_base",
+      "note": "Snape's first-person speech to a student."
+    },
+    {
+      "quote_id": "q00399",
+      "person_signal": "non_base",
+      "note": "Character dialogue with local third-person speech beats."
+    },
+    {
+      "quote_id": "q00400",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narrator refers to Harry as 'Harry' and 'he' while reporting his private thought, diagnostically exposing third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bloomsbury.com/diagonalley/index.html",
+      "title": "Exploring Jim Kay's illustrations of Diagon Alley",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Bloomsbury's authorized interior extract from the same work under its UK title sustains external narration of Hagrid and Harry and reports Harry's perceptions and wishes in third person."
+    },
+    {
+      "url": "https://www.diva-portal.org/smash/get/diva2:1427221/FULLTEXT01.pdf",
+      "title": "Bringing Harry Potter to Sweden: The Harry Potter Septology Illuminated by Its Swedish Translation",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A Stockholm University literary thesis identifies the novels' principal mode as third-person limited through Harry and specifically explains that Stone's opening shifts to an all-knowing authority rather than to a participating first-person narrator."
+    },
+    {
+      "url": "https://dde.manuu.edu.in/sites/default/files/DDE/DDE-SelfLearnmaterial/Proposed-SLM/4-Year-UG-BA/3rd-Sem/English/DSC-3-English.pdf",
+      "title": "DSC-3 English: Elements of the Novel",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "University instructional analysis explicitly states that Sorcerer's Stone has a third-person narrator who is not part of the story, usually follows Harry's perspective, and sometimes becomes omniscient."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/harrypotter/facts/",
+      "title": "Harry Potter and the Sorcerer's Stone: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book-specific guide explicitly describes a detached third-person observer uninvolved in the action, mostly close to Harry while shifting focalization to Mr. Dursley in the opening."
+    }
+  ],
+  "search_log": [
+    "Searched: site:scholastic.com \"Harry Potter and the Sorcerer's Stone\" excerpt chapter one; found an official Scholastic chapter-excerpt PDF, but opening it returned an internal access error, so it was not used as evidence.",
+    "Searched: site:bloomsbury.com \"Harry Potter and the Philosopher's Stone\" extract; opened Bloomsbury's authorized Diagon Alley interior extract.",
+    "Searched: \"Harry Potter and the Sorcerer's Stone\" \"third person\" point of view narrator and Harry Potter Sorcerer's Stone narrator third-person limited scholarly; opened the explicit SparkNotes and university course-material results.",
+    "Searched: \"Escape and Consolation\" \"Narrative Voice\" Harry Potter PDF and site:.edu Harry Potter narrative voice \"third person limited\" Philosopher's Stone; an Atlantis PDF result was inaccessible when opened, so it was not used.",
+    "Searched for academic Harry Potter narrative-perspective analyses; opened the Stockholm University thesis and verified its discussion of third-person narration and the first Stone chapter.",
+    "Searched for epistolary, frame-narrative, multiple-narrator, and alternating-POV indications; found no credible evidence of sustained first- or second-person base sections in this novel."
+  ],
+  "person_note": "The diagnostic Goodreads passages q00391 and q00400 expose a nonparticipating narrator describing Harry externally and reporting knowledge or thoughts in third person. The remaining sample is overwhelmingly dialogue, aphorism, song, or inscription and therefore does not compete with the base voice. Bloomsbury's authorized interior extract independently shows the same third-person mode, while two academic sources and a book-specific reference describe the whole-book structure as third person, primarily focalized through Harry with an opening focalization shift. Those shifts are variations within third-person narration, not person alternation. The main limitation is the dialogue-heavy quote sample, but the combined quote, authorized-excerpt, and structural evidence leaves no credible conflict.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.229639+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2740d8d2d055bbffc7a4a0a34534a5e2208c0c32805f831f3b35ba694496d4bc"
+  }
+}

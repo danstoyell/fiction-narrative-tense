@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:293",
+  "quotes": [
+    {
+      "quote_id": "q00074",
+      "person_signal": "non_base",
+      "note": "Direct speech; the generic second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00075",
+      "person_signal": "non_base",
+      "note": "Direct speech containing generic and interpersonal pronouns, not base narration."
+    },
+    {
+      "quote_id": "q00076",
+      "person_signal": "non_base",
+      "note": "Gnomic observation with no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q00077",
+      "person_signal": "non_base",
+      "note": "Gnomic material; generic 'you' is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00078",
+      "person_signal": "unmarked",
+      "note": "Brief third-person character reference and free-indirect fragments are insufficient alone to establish narrator participation."
+    },
+    {
+      "quote_id": "q00079",
+      "person_signal": "non_base",
+      "note": "Gnomic political aside rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00080",
+      "person_signal": "non_base",
+      "note": "General maxim about homes, without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q00081",
+      "person_signal": "third",
+      "note": "Sustained scene narration refers externally to Jack while reporting his memories, judgment, and decision; generic 'you' is an embedded maxim."
+    },
+    {
+      "quote_id": "q00082",
+      "person_signal": "third",
+      "note": "External narration describes her unseen action and his movement, establishing a nonparticipating narratorial position."
+    },
+    {
+      "quote_id": "q00083",
+      "person_signal": "third",
+      "note": "Sustained narration presents Jack externally while conveying his social judgments and private opinion."
+    },
+    {
+      "quote_id": "q00084",
+      "person_signal": "unmarked",
+      "note": "A clipped free-indirect passage about an unnamed 'he'; locally compatible with third person but too incomplete to be diagnostic."
+    },
+    {
+      "quote_id": "q00085",
+      "person_signal": "unmarked",
+      "note": "Short free-indirect fragment about 'he' lacks enough surrounding narration to identify the base narrator independently."
+    },
+    {
+      "quote_id": "q00086",
+      "person_signal": "unmarked",
+      "note": "Luther is presented in third-person grammar, but the short clipped passage alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00087",
+      "person_signal": "non_base",
+      "note": "Predominantly direct speech; the clipped speech beats do not provide reliable base-narrator evidence."
+    },
+    {
+      "quote_id": "q00088",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; the dangling quotation boundary does not yield diagnostic base narration."
+    },
+    {
+      "quote_id": "q00089",
+      "person_signal": "third",
+      "note": "A chapter opening narrates Dan Kirksen's actions externally in sustained third person."
+    },
+    {
+      "quote_id": "q00090",
+      "person_signal": "unmarked",
+      "note": "Clipped predicate fragment with only an object pronoun and no recoverable narrating position."
+    },
+    {
+      "quote_id": "q00091",
+      "person_signal": "unmarked",
+      "note": "Short clipped third-person sentence does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q00092",
+      "person_signal": "unmarked",
+      "note": "Fragment about a third party lacks sufficient local context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q00093",
+      "person_signal": "unclear",
+      "note": "Truncated non-finite fragment has no recoverable narrator or quotation structure."
+    },
+    {
+      "quote_id": "q00094",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech and speech attribution do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00095",
+      "person_signal": "unmarked",
+      "note": "Brief external action passage is compatible with third person but lacks enough local context to be independently diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9780446519960/Absolute-Power-David-Baldacci-0446519960/plp",
+      "title": "Absolute Power - Baldacci, David: 9780446519960 - AbeBooks",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The permission-reprinted Chapter One excerpt sustains third-person narration about Luther Whitney and accesses his plans and history; its scope is limited to the opening."
+    },
+    {
+      "url": "https://sobrief.com/books/absolute-power",
+      "title": "Absolute Power by David Baldacci | Summary, Audio, Analysis, FAQ",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly describes the novel as third-person omniscient and explains that focal attention shifts among Luther, Jack, Kate, Frank, Russell, and the Secret Service agents."
+    },
+    {
+      "url": "https://app.thestorygraph.com/book_reviews/1b223cee-f1af-403c-997f-ef2e2cccf23d?page=5&sort=highest_rated",
+      "title": "Reviews - Absolute Power | The StoryGraph",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reader review explicitly says much of the story is told in third person from Jack Graham's perspective; useful corroboration but not an authoritative structural source."
+    }
+  ],
+  "search_log": [
+    "Searched \"Absolute Power\" \"David Baldacci\" excerpt, first chapter, and ISBN variants; opened the AbeBooks permission-reprinted Chapter One and checked Google Books/Open Library previews.",
+    "Searched \"Absolute Power\" David Baldacci third person, point of view, narrator, and omniscient; opened SoBrief and The StoryGraph's explicit POV descriptions.",
+    "Searched publisher and author domains, including Hachette/Grand Central, Pan Macmillan, and davidbaldacci.com; publisher/author pages verified the work but did not provide diagnostic narrator evidence, while direct Hachette sample URLs were inaccessible.",
+    "Searched for epistolary, diary, frame narrative, multiple narrators, alternating narration, and epilogue evidence; found no credible indication of sustained first- or second-person base sections.",
+    "Opened additional online prose pages and an Open Library record during discovery; unauthorized or catalog-only material was not relied upon as strong evidence."
+  ],
+  "person_note": "The diagnostic quotes show a nonparticipating narrator moving through third-person scenes centered on Jack, Kate, Dan, and other characters; dialogue and generic 'you' statements are local or gnomic, not second-person narration. The authorized opening independently uses sustained third person, and the whole-book web description identifies omniscient narration with shifting character focus rather than changes of grammatical person. No first-person base section or frame was found. Confidence is medium because the Tier A source covers only the opening and the whole-book structural sources are weaker.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.225211+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1bfc0fba067f5d22ab8bbe2ee084a2d8b23466a65af247470a08c02cac98cf6b"
+  }
+}

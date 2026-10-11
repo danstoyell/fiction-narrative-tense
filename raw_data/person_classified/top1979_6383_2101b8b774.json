@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1979:6383",
+  "quotes": [
+    {
+      "quote_id": "q00812",
+      "person_signal": "non_base",
+      "note": "Targeted context identifies this as Larry's dialogue, not narration."
+    },
+    {
+      "quote_id": "q00813",
+      "person_signal": "non_base",
+      "note": "Gnomic speech uses first-person imperatives but does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00814",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00815",
+      "person_signal": "non_base",
+      "note": "Targeted context places this in Flagg's local interior thought in the coda."
+    },
+    {
+      "quote_id": "q00816",
+      "person_signal": "non_base",
+      "note": "General aphorism with no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q00817",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q00818",
+      "person_signal": "non_base",
+      "note": "General maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00819",
+      "person_signal": "unclear",
+      "note": "First-person prayer wording is clipped and lacks reliable speaker or narration boundaries."
+    },
+    {
+      "quote_id": "q00820",
+      "person_signal": "non_base",
+      "note": "Targeted context identifies Joe/Leo speaking about Harold."
+    },
+    {
+      "quote_id": "q00821",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' in possible free-indirect narration is not sustained second person."
+    },
+    {
+      "quote_id": "q00822",
+      "person_signal": "unmarked",
+      "note": "Aphoristic event-related statement contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00823",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, not base second-person narration."
+    },
+    {
+      "quote_id": "q00824",
+      "person_signal": "non_base",
+      "note": "Gnomic 'we' refers generally to people rather than a participating narrator."
+    },
+    {
+      "quote_id": "q00825",
+      "person_signal": "unmarked",
+      "note": "Possible narration or free-indirect reflection without diagnostic person."
+    },
+    {
+      "quote_id": "q00826",
+      "person_signal": "non_base",
+      "note": "Gnomic claim with no story-specific narrator signal."
+    },
+    {
+      "quote_id": "q00827",
+      "person_signal": "unmarked",
+      "note": "Third-person character reference followed by generic 'you' does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00828",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic analogy rather than story narration."
+    },
+    {
+      "quote_id": "q00829",
+      "person_signal": "non_base",
+      "note": "General aphorism with no diagnostic base voice."
+    },
+    {
+      "quote_id": "q00830",
+      "person_signal": "non_base",
+      "note": "General social commentary, not a scene exposing narrator participation."
+    },
+    {
+      "quote_id": "q00831",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' and general human commentary do not constitute sustained second-person narration."
+    },
+    {
+      "quote_id": "q00832",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00833",
+      "person_signal": "non_base",
+      "note": "Generic second-person gnomic statement."
+    },
+    {
+      "quote_id": "q00834",
+      "person_signal": "third",
+      "note": "External narration surveys the destruction and its victims without a participating narrator."
+    },
+    {
+      "quote_id": "q00835",
+      "person_signal": "unmarked",
+      "note": "Scenic description contains no character or narrator reference sufficient to establish person."
+    },
+    {
+      "quote_id": "q00836",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q00837",
+      "person_signal": "non_base",
+      "note": "Direct character speech addressing another character."
+    },
+    {
+      "quote_id": "q00838",
+      "person_signal": "non_base",
+      "note": "Generic aphorism rather than base narration."
+    },
+    {
+      "quote_id": "q00839",
+      "person_signal": "non_base",
+      "note": "Direct character speech with rhetorical questions."
+    },
+    {
+      "quote_id": "q00840",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Nick."
+    },
+    {
+      "quote_id": "q00841",
+      "person_signal": "non_base",
+      "note": "Targeted context shows this is Glen Bateman speaking to Stu."
+    },
+    {
+      "quote_id": "q00842",
+      "person_signal": "non_base",
+      "note": "Direct character speech using generic 'you.'"
+    },
+    {
+      "quote_id": "q00843",
+      "person_signal": "third",
+      "note": "An external, evaluative narrator characterizes a male character through an extended third-person metaphor."
+    },
+    {
+      "quote_id": "q00844",
+      "person_signal": "unmarked",
+      "note": "Anaphoric 'he' in an isolated declaration is compatible with third person but insufficient by itself."
+    },
+    {
+      "quote_id": "q00845",
+      "person_signal": "unmarked",
+      "note": "Scenic description does not independently expose narrator participation."
+    },
+    {
+      "quote_id": "q00846",
+      "person_signal": "non_base",
+      "note": "Targeted context identifies this as Dayna Jurgens's explicitly marked direct thought."
+    },
+    {
+      "quote_id": "q00847",
+      "person_signal": "non_base",
+      "note": "Abstract gnomic argument rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q00848",
+      "person_signal": "non_base",
+      "note": "Gnomic personification of ages."
+    },
+    {
+      "quote_id": "q00849",
+      "person_signal": "non_base",
+      "note": "General religious claim without a base-narrator signal."
+    },
+    {
+      "quote_id": "q00850",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech addressed to another character."
+    },
+    {
+      "quote_id": "q00851",
+      "person_signal": "third",
+      "note": "The external narrator reports a male character's inward hope in third person."
+    },
+    {
+      "quote_id": "q00852",
+      "person_signal": "non_base",
+      "note": "Gnomic material derived from a character's discussion of dreams."
+    },
+    {
+      "quote_id": "q00853",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Larry."
+    },
+    {
+      "quote_id": "q00854",
+      "person_signal": "unclear",
+      "note": "Lowercase clipped fragment lacks enough surrounding syntax to resolve its narrative status responsibly."
+    },
+    {
+      "quote_id": "q00855",
+      "person_signal": "non_base",
+      "note": "Song lyric or quoted refrain, not base narration."
+    },
+    {
+      "quote_id": "q00856",
+      "person_signal": "non_base",
+      "note": "Gnomic religious aphorism."
+    },
+    {
+      "quote_id": "q00857",
+      "person_signal": "non_base",
+      "note": "Generic second-person analogy rather than sustained story-specific narration."
+    },
+    {
+      "quote_id": "q00858",
+      "person_signal": "non_base",
+      "note": "Targeted context shows this first-person reflection occurs inside a dying woman's quoted speech."
+    },
+    {
+      "quote_id": "q00859",
+      "person_signal": "third",
+      "note": "External narration presents a female character's attitude in third person; the Moses exchange is locally embedded."
+    },
+    {
+      "quote_id": "q00860",
+      "person_signal": "non_base",
+      "note": "General aphorism with generic second person."
+    },
+    {
+      "quote_id": "q00861",
+      "person_signal": "non_base",
+      "note": "Direct shouted speech addressed to Bobby Terry."
+    },
+    {
+      "quote_id": "q00862",
+      "person_signal": "non_base",
+      "note": "Direct dialogue addressed to Frannie."
+    },
+    {
+      "quote_id": "q00863",
+      "person_signal": "non_base",
+      "note": "General observation about humanity, not diagnostic narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780307947307",
+      "title": "The Stand - Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized sustained Chapter 1 excerpt narrates Stu Redman, Hap, and the other characters externally in third person while moving through their knowledge and thoughts; no participating narrator frames the scene."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-stand/styles.html",
+      "title": "Writing Styles in The Stand",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view study explicitly describes a nonparticipating third-person omniscient narrator and explains that limited first-person material, including Frannie's diary, is local rather than controlling narration."
+    },
+    {
+      "url": "https://www.supersummary.com/the-stand/summary/",
+      "title": "The Stand Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The whole-book overview explicitly says King uses limited third-person narration across more than a dozen character viewpoints."
+    },
+    {
+      "url": "https://www.avclub.com/the-stand-stephen-king-adaptations-doomed-to-fail",
+      "title": "The Stand is Stephen King's most unadaptable work",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The critical discussion attributes the novel's access to its many characters' interiority to King's third-person omniscient narrator."
+    },
+    {
+      "url": "https://stephenking.com/works/novel/stand.html",
+      "title": "Stephen King | The Stand",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author's official work page verified the novel and original Doubleday publication but does not explicitly identify narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Stephen King The Stand third person omniscient narrator point of view scholarly\" and opened relevant results.",
+    "Searched for authorized excerpts with \"The Stand Stephen King excerpt publisher chapter one\"; opened and inspected Penguin Random House's complete Chapter 1 excerpt.",
+    "Searched \"The Stand third-person\", \"The Stand omniscient narrator\", and \"The Stand point of view third person\"; opened BookRags and SuperSummary's explicit whole-book POV descriptions and the A.V. Club critical discussion.",
+    "Opened Stephen King's official work page to verify title, author, original publisher, and edition history; it was nondiagnostic for person.",
+    "Opened the Oxford Academic article \"Translating Stephen King's The Stand to Quality TV\"; it analyzed adaptation structure but did not directly establish the novel's grammatical narrative person.",
+    "Opened the USF thesis landing page \"Standing Up With The King\"; its downloadable text was inaccessible and the available abstract did not establish narrator person.",
+    "Targeted exact-phrase searches established that q00812 and q00841 are dialogue, q00820 is Joe/Leo's speech, q00846 is Dayna's direct thought, q00858 is quoted deathbed speech, and q00815 is Flagg's local interior thought.",
+    "Searches also found unauthorized full-text copies; they were used only to resolve local quotation boundaries and were not treated as classification evidence."
+  ],
+  "person_note": "The controlling narration is nonparticipating third person, moving among many characters' perspectives. The Goodreads evidence includes clear external narration at q00834, q00843, q00851, and q00859, while its visible first-person passages resolve as dialogue or direct thought rather than an autonomous first-person narrative strand. The authorized publisher excerpt independently demonstrates sustained third-person narration, and multiple whole-book sources explicitly describe the same structure while treating diary material as local. The principal limitation is that the publisher excerpt is from the Complete and Uncut edition and covers only the opening, but the whole-book structural descriptions and supplied quotes provide interior and ending corroboration, with no evidence that the original abridged edition changed the controlling person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_020",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T07:03:25.197750+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4a944e5091b59e5368341838c983f944512d47f2f36ee5463df3e48bcef33069"
+  }
+}

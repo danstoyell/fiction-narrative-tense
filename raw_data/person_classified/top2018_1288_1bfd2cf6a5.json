@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:1288",
+  "quotes": [
+    {
+      "quote_id": "q03078",
+      "person_signal": "non_base",
+      "note": "A general maxim with no story-specific narrator or event; it does not identify base person."
+    },
+    {
+      "quote_id": "q03079",
+      "person_signal": "third",
+      "note": "Sustained narration names Ballard as \u201cshe\u201d and externally presents what she knew, felt, and wondered."
+    },
+    {
+      "quote_id": "q03080",
+      "person_signal": "non_base",
+      "note": "Direct joke dialogue; its \u201cyou\u201d does not belong to the base narrator."
+    },
+    {
+      "quote_id": "q03081",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts Bosch\u2019s actions, habitual practice, and motivating belief as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q03082",
+      "person_signal": "non_base",
+      "note": "Character dialogue with attribution tags; first- and second-person pronouns occur only in speech."
+    },
+    {
+      "quote_id": "q03083",
+      "person_signal": "third",
+      "note": "Third-person narration gives sustained access to Bosch\u2019s guilt, regret, and thoughts about his daughter."
+    },
+    {
+      "quote_id": "q03084",
+      "person_signal": "unmarked",
+      "note": "The clipped exposition refers to King as \u201che,\u201d but a named third-person subject alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q03085",
+      "person_signal": "third",
+      "note": "Extended external exposition narrates departmental actions and Ballard\u2019s reassignment without a participating narrator."
+    },
+    {
+      "quote_id": "q03086",
+      "person_signal": "non_base",
+      "note": "Direct address to Harry in character speech; \u201cwe\u201d and \u201cyou\u201d are not narratorial."
+    },
+    {
+      "quote_id": "q03087",
+      "person_signal": "third",
+      "note": "Sustained focalized narration presents Bosch\u2019s judgment and reasoning as \u201che\u201d without a participating narrator."
+    },
+    {
+      "quote_id": "q03088",
+      "person_signal": "third",
+      "note": "A sustained scene narrates the characters externally as \u201che,\u201d \u201cher,\u201d and \u201chis,\u201d with access to his sensation."
+    },
+    {
+      "quote_id": "q03089",
+      "person_signal": "unclear",
+      "note": "The severely clipped fragments do not preserve enough local structure to identify the base narrator."
+    },
+    {
+      "quote_id": "q03090",
+      "person_signal": "non_base",
+      "note": "Predominantly radio dialogue; the isolated \u201cShe keyed the mic\u201d beat is insufficient to establish narrative person."
+    },
+    {
+      "quote_id": "q03091",
+      "person_signal": "third",
+      "note": "Extended scene narration follows Ballard\u2019s actions and knowledge externally as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q03092",
+      "person_signal": "unmarked",
+      "note": "Clipped forensic description contains no diagnostic narratorial pronoun or participating narrator."
+    },
+    {
+      "quote_id": "q03093",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; its \u201cwe\u201d and \u201cI\u201d belong to speaking characters."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.michaelconnelly.com/writing/dark-sacred-night/dark-sacred-night-excerpt/",
+      "title": "Dark Sacred Night Excerpt - Michael Connelly",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized opening spans labeled Ballard and Bosch sections through chapter 5; both use sustained third-person narration and external access to the focal character\u2019s thoughts."
+    },
+    {
+      "url": "https://www.michaelconnelly.com/writing/dark-sacred-night/ballard-and-bosch/",
+      "title": "Ballard and Bosch - Michael Connelly",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Connelly explains that the novel alternates sections between Ballard\u2019s and Bosch\u2019s points of view. This establishes whole-book focalization structure but does not itself specify grammatical person."
+    },
+    {
+      "url": "https://www.bookpleasures.com/websitepublisher/articles/8863/1/Dark-Sacred-Night-Reviewed-By-Wally-Wood-of-Bookpleasurescom/Page1.html",
+      "title": "Dark Sacred Night Reviewed By Wally Wood of Bookpleasures.com",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly identifies limited third-person narration and says the book switches only between Ballard and Bosch viewpoints."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMichael Connelly Dark Sacred Night excerpt Bosch Ballard publisher\u201d and opened the sustained excerpt on the author\u2019s official site.",
+    "Searched \u201cDark Sacred Night Michael Connelly point of view third person\u201d and \u201cDark Sacred Night third-person Connelly\u201d for explicit whole-book descriptions.",
+    "Searched \u201cDark Sacred Night first chapter excerpt\u201d; the official excerpt supplied opening chapters for both labeled focal-character sections.",
+    "Searched \u201cDark Sacred Night alternating perspectives Bosch Ballard review\u201d and opened Connelly\u2019s structural essay plus reviews describing the section changes.",
+    "Opened Hachette\u2019s title page, but its accessible content was synopsis rather than diagnostic prose; Google Books likewise surfaced catalog copy only.",
+    "Rejected the BookRags result because its page inconsistently identified the work as \u201cAnd the Dark Sacred Night,\u201d creating a title-resolution concern."
+  ],
+  "person_note": "The base narration is third person. Multiple quotes give sustained external narration and interior access for Ballard or Bosch, while dialogue and the gnomic maxim are nondiagnostic. The official excerpt independently demonstrates third-person narration in both labeled focal-character strands, and Connelly confirms that those strands alternate across the book. That alternation changes viewpoint character, not grammatical person, so it does not warrant ALTERNATING. The main limitation is that the authorized prose is an opening excerpt rather than the complete novel, but the interior Goodreads passages and explicit whole-book review corroborate the same structure without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.261747+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "63723eb23784234a45a01000f097534ddaf4b34942983738f5399e882a17eb82"
+  }
+}

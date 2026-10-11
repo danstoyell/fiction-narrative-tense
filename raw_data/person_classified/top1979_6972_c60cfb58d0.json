@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1979:6972",
+  "quotes": [
+    {
+      "quote_id": "q00864",
+      "person_signal": "unmarked",
+      "note": "Reports a male character's belief, but a single third-person referent does not establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q00865",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation using generic you; it does not cast a story-specific protagonist as you."
+    },
+    {
+      "quote_id": "q00866",
+      "person_signal": "non_base",
+      "note": "Universal maxim with generic you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00867",
+      "person_signal": "unmarked",
+      "note": "Brief external characterization with his/he is compatible with either first- or third-person base narration."
+    },
+    {
+      "quote_id": "q00868",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its you does not identify the narrator."
+    },
+    {
+      "quote_id": "q00869",
+      "person_signal": "unmarked",
+      "note": "Generalized description of Jews as they contains no diagnostic narrator-person framing."
+    },
+    {
+      "quote_id": "q00870",
+      "person_signal": "unmarked",
+      "note": "Short narratorial simile has no person-marking subject."
+    },
+    {
+      "quote_id": "q00871",
+      "person_signal": "third",
+      "note": "Extended scene narration focalizes a character externally as he while describing several other characters, exposing local third-person narration."
+    },
+    {
+      "quote_id": "q00872",
+      "person_signal": "unclear",
+      "note": "Clipped non-finite fragment lacks enough context to identify narration or person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ken-follett.com/wp-content/uploads/2020/08/Triple.pdf",
+      "title": "Triple \u2014 Chapter One excerpt",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The authorized 28-page English excerpt sustains external third-person narration through Chapter One, focalizing Towfik and later Borg; first-person forms occur only in speech or represented thought."
+    },
+    {
+      "url": "https://www.penguinlibros.com/ec/novela-negra/24703-ebook-triple-9788490329443/fragmento",
+      "title": "Triple \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized Spanish extract presents the prologue and Cortone/Dickstein scenes in sustained third person, independently corroborating the English Chapter One excerpt."
+    },
+    {
+      "url": "https://www.saveourenvironment.ca/Characters_Emotion_and_Viewpoint_Nancy_Kress.pdf",
+      "title": "Characters, Emotion & Viewpoint \u2014 Nancy Kress",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The published craft analysis explicitly identifies a scene from Triple as third person and describes the novel's many-person, many-place design as multiple third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Ken Follett Triple 1979 excerpt first chapter\", \"Triple Ken Follett read excerpt\", and Google Books/Open Library preview variants; opened the Ken Follett Chapter One PDF, Penguin extract, Google Books, and Open Library.",
+    "Searched \"Triple\" \"Ken Follett\" \"third person\" plus narrator and point-of-view variants; opened Nancy Kress's structural discussion and an explicit StoryGraph reader description.",
+    "Searched \"Triple\" Ken Follett multiple narrators epistolary and frame/alternating variants; found no credible indication of sustained first- or second-person sections or epistolary alternation.",
+    "Google Books section links and Open Library were discovery or bibliographic dead ends: they exposed contents and first-sentence metadata but no useful interior prose."
+  ],
+  "person_note": "The controlling narration is multiple third person: the authorized excerpts externally narrate and focalize Towfik, Borg, Cortone, and Dickstein, while Nancy Kress's whole-book structural discussion explicitly characterizes Triple as multiple third person. The extended Goodreads scene agrees; shorter he/they quotations remain unmarked because third-person subjects alone cannot prove narrator participation. Generic you maxims and direct speech are non-base. No credible evidence of a sustained first-person frame, second-person strand, or person alternation was found. Although the authorized prose samples do not cover the entire novel, the whole-book structural source resolves that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_021",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T07:21:42.163486+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9f0c7ce3a5648995ca4484b7f4c62b1acf7eac140c3d350fb2cccc6bec022b41"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2015:234",
+  "quotes": [
+    {
+      "quote_id": "q02400",
+      "person_signal": "non_base",
+      "note": "Abby's quoted speech; the third-person speech tag alone is not diagnostic."
+    },
+    {
+      "quote_id": "q02401",
+      "person_signal": "non_base",
+      "note": "Red's directly attributed speech."
+    },
+    {
+      "quote_id": "q02402",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection, but the clipped antecedents do not expose narrator participation or person."
+    },
+    {
+      "quote_id": "q02403",
+      "person_signal": "non_base",
+      "note": "Character speech using generic we."
+    },
+    {
+      "quote_id": "q02404",
+      "person_signal": "non_base",
+      "note": "Expanded source context identifies this as Reverend Alban's funeral sermon, not base narration."
+    },
+    {
+      "quote_id": "q02405",
+      "person_signal": "non_base",
+      "note": "Character speech using generic you."
+    },
+    {
+      "quote_id": "q02406",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic you and we."
+    },
+    {
+      "quote_id": "q02407",
+      "person_signal": "non_base",
+      "note": "Gnomic or quoted maxim; generic you is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02408",
+      "person_signal": "unmarked",
+      "note": "Base narratorial generalization using universal you, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q02409",
+      "person_signal": "third",
+      "note": "Sustained external reference to a woman plus access to her assumptions and self-perception exposes third-person narration; the dialogue bucket appears inconsistent."
+    },
+    {
+      "quote_id": "q02410",
+      "person_signal": "non_base",
+      "note": "Red's speech; the brief third-person attribution is insufficient by itself."
+    },
+    {
+      "quote_id": "q02411",
+      "person_signal": "third",
+      "note": "Narration refers to the focal character as she while rendering her private feeling; the dialogue bucket appears inconsistent."
+    },
+    {
+      "quote_id": "q02412",
+      "person_signal": "unmarked",
+      "note": "Generic-you reflection about parental worry, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q02413",
+      "person_signal": "third",
+      "note": "Despite the gnomic bucket, the passage tracks Abby as her and renders her free-indirect reflections in third person."
+    },
+    {
+      "quote_id": "q02414",
+      "person_signal": "non_base",
+      "note": "Expanded quotation context attributes this statement directly to Abby."
+    },
+    {
+      "quote_id": "q02415",
+      "person_signal": "third",
+      "note": "Sustained narration refers to the focal woman as she and reports her private memories and reassessment."
+    },
+    {
+      "quote_id": "q02416",
+      "person_signal": "non_base",
+      "note": "Publisher reader-guide context shows this is Anne Tyler answering an interview question, not novel narration."
+    },
+    {
+      "quote_id": "q02417",
+      "person_signal": "unmarked",
+      "note": "Scene description contains no participating narrator and no sufficiently diagnostic character reference by itself."
+    },
+    {
+      "quote_id": "q02418",
+      "person_signal": "third",
+      "note": "Sustained narration names Abby and Red externally while entering Abby's memories and feelings."
+    },
+    {
+      "quote_id": "q02419",
+      "person_signal": "third",
+      "note": "An external narrator characterizes the Whitshanks collectively and comments on their family behavior."
+    },
+    {
+      "quote_id": "q02420",
+      "person_signal": "unmarked",
+      "note": "Generalized narratorial observation about parents; it does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q02421",
+      "person_signal": "non_base",
+      "note": "Gnomic exclamation with generic people and you."
+    },
+    {
+      "quote_id": "q02422",
+      "person_signal": "non_base",
+      "note": "Directly attributed speech by Abby."
+    },
+    {
+      "quote_id": "q02423",
+      "person_signal": "non_base",
+      "note": "Gnomic restatement of a character's maxim; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q02424",
+      "person_signal": "non_base",
+      "note": "Dialogue between family members."
+    },
+    {
+      "quote_id": "q02425",
+      "person_signal": "unmarked",
+      "note": "A single sentence about him is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q02426",
+      "person_signal": "non_base",
+      "note": "Directly attributed speech by Red."
+    },
+    {
+      "quote_id": "q02427",
+      "person_signal": "non_base",
+      "note": "Character dialogue using generic they."
+    },
+    {
+      "quote_id": "q02428",
+      "person_signal": "non_base",
+      "note": "Reported speech explicitly attributed to Red."
+    },
+    {
+      "quote_id": "q02429",
+      "person_signal": "third",
+      "note": "The narration describes his action and renders his inward reflection without a participating narrator."
+    },
+    {
+      "quote_id": "q02430",
+      "person_signal": "unmarked",
+      "note": "A single externally described character is insufficient on its own to establish base person."
+    },
+    {
+      "quote_id": "q02431",
+      "person_signal": "non_base",
+      "note": "Authorized excerpt context identifies this as Amanda speaking to Denny."
+    },
+    {
+      "quote_id": "q02432",
+      "person_signal": "non_base",
+      "note": "Directly attributed dialogue by Amanda."
+    },
+    {
+      "quote_id": "q02433",
+      "person_signal": "non_base",
+      "note": "Dialogue between Red and Abby."
+    },
+    {
+      "quote_id": "q02434",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Mrs. Angel and Atta and describes their actions."
+    },
+    {
+      "quote_id": "q02435",
+      "person_signal": "unclear",
+      "note": "The clipped first-person vow has no attribution or recoverable boundary establishing speech versus narration."
+    },
+    {
+      "quote_id": "q02436",
+      "person_signal": "non_base",
+      "note": "Directly attributed dialogue by Amanda."
+    },
+    {
+      "quote_id": "q02437",
+      "person_signal": "non_base",
+      "note": "A lyric from Chattanooga Choo Choo, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02438",
+      "person_signal": "non_base",
+      "note": "Imagined or implied character speech embedded in narration."
+    },
+    {
+      "quote_id": "q02439",
+      "person_signal": "unmarked",
+      "note": "A syntactically clipped passage mixes a third-person antecedent with generic you in a descriptive comparison."
+    },
+    {
+      "quote_id": "q02440",
+      "person_signal": "unclear",
+      "note": "The truncated fragment contains no recoverable person evidence."
+    },
+    {
+      "quote_id": "q02441",
+      "person_signal": "non_base",
+      "note": "Publisher reader-guide context shows this is Anne Tyler discussing her writing routine in an interview."
+    },
+    {
+      "quote_id": "q02442",
+      "person_signal": "third",
+      "note": "A sustained scene externally names Red, recounts his memories, and follows the neighborhood children as they."
+    },
+    {
+      "quote_id": "q02443",
+      "person_signal": "non_base",
+      "note": "Character speech with a generic rhetorical question."
+    },
+    {
+      "quote_id": "q02444",
+      "person_signal": "third",
+      "note": "Third-person narration enters his prior intention and her emotional response."
+    },
+    {
+      "quote_id": "q02445",
+      "person_signal": "non_base",
+      "note": "The witch's dialogue is embedded character speech."
+    },
+    {
+      "quote_id": "q02446",
+      "person_signal": "non_base",
+      "note": "Gnomic repetition of a character's statement; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q02447",
+      "person_signal": "third",
+      "note": "External narration refers to Abby as her and her children as they while reporting their collective judgment."
+    },
+    {
+      "quote_id": "q02448",
+      "person_signal": "third",
+      "note": "Sustained external scene description refers to Abby and Red as she, he, and the two of them."
+    },
+    {
+      "quote_id": "q02449",
+      "person_signal": "non_base",
+      "note": "Truncated but explicitly attributed dialogue by Abby."
+    },
+    {
+      "quote_id": "q02450",
+      "person_signal": "third",
+      "note": "Sustained narration explicitly attributes thought to Abby while referring to her in third person."
+    },
+    {
+      "quote_id": "q02451",
+      "person_signal": "unmarked",
+      "note": "The short, clipped clause reports a guess but provides too little context to establish the controlling narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780099598480/9780099598480-sample.pdf",
+      "title": "A Spool of Blue Thread \u2014 Penguin sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained sample narrates Red, Abby, Denny, and other family members as he, she, and they, enters their perceptions, and frames dialogue through a nonparticipating third-person narrator."
+    },
+    {
+      "url": "https://www.theskinny.co.uk/books/book-reviews/a-spool-of-blue-thread-by-anne-tyler",
+      "title": "A Spool of Blue Thread by Anne Tyler",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly calls the novel's voice Tyler's third-person narrative and discusses its closeness to Abby's voice."
+    },
+    {
+      "url": "https://www.spectator.com.au/2017/10/how-to-be-good/",
+      "title": "How to be good",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This reputable review explicitly describes A Spool of Blue Thread as using a simple third-person perspective across three Whitshank generations."
+    },
+    {
+      "url": "https://library.utah.gov/wp-content/uploads/Book-Buzz-A-Spool-of-Blue-Thread-Readers-Guide.pdf",
+      "title": "A Spool of Blue Thread Reader's Guide",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The library-hosted publisher guide places q02416 and q02441 inside an author interview, establishing that those first-person passages are paratext rather than novel narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"A Spool of Blue Thread\" Anne Tyler with excerpt, first chapter, and publisher-domain terms; found the Penguin publisher sample and a BBC-hosted first-chapter PDF containing duplicate opening material.",
+    "Searched the title with \"third person,\" \"third-person narrative,\" \"point of view,\" narrator, omniscient, and narrative perspective; found explicit whole-book descriptions in The Skinny and The Spectator.",
+    "Searched exact suspicious first-person quotations; the Utah State Library reader guide identified q02416 and q02441 as Anne Tyler interview answers.",
+    "Opened expanded Goodreads quotation contexts to resolve local voices: q02404 is Reverend Alban's sermon, q02414 is Abby's dialogue, and q02431 is Amanda's speech to Denny; these local first-person uses were not treated as base narration.",
+    "Google Books did not surface a usable preview of this title. Harvard Crimson discussed multiple viewpoints without specifying grammatical person, and BookRags conflated characters' first-person speech with viewpoint, so neither was used as person evidence."
+  ],
+  "person_note": "The controlling voice is nonparticipating third person with shifting focalization among Whitshank family members. Numerous quotes independently expose that structure through third-person references combined with access to Abby's and other characters' memories or thoughts, while the publisher sample demonstrates the same narration across a sustained opening. Two whole-book reviews explicitly confirm third person. Apparent first- and second-person counterexamples resolve as dialogue, a funeral sermon, author-interview paratext, lyrics, or generic-you reflection; no evidence indicates sustained first- or second-person base sections. The authorized prose source covers only the opening, but its agreement with varied interior quotations and multiple explicit whole-book sources supports high confidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.254653+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8bb3ebb8c9984bf18508022e6e22e317dd3836ad5ad4ee32eee6bdf03fbba234"
+  }
+}

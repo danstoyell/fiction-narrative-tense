@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:5666",
+  "quotes": [
+    {
+      "quote_id": "q00559",
+      "person_signal": "non_base",
+      "note": "Gnomic workplace maxim; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00560",
+      "person_signal": "first",
+      "note": "The participating narrator describes his own attempt as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00561",
+      "person_signal": "first",
+      "note": "Outside the quoted conversation, the speech beat \u201cShe asked me\u201d exposes a participating narrator."
+    },
+    {
+      "quote_id": "q00562",
+      "person_signal": "first",
+      "note": "The narrator describes his own emotional situation as \u201cI\u201d; the later \u201cyou\u201d is generic address."
+    },
+    {
+      "quote_id": "q00563",
+      "person_signal": "non_base",
+      "note": "Pronouns occur entirely within character dialogue."
+    },
+    {
+      "quote_id": "q00564",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial commentary, but third-person references to other people do not identify the narrator."
+    },
+    {
+      "quote_id": "q00565",
+      "person_signal": "first",
+      "note": "The narrator participates in the scene as \u201cwe,\u201d \u201cme,\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00566",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary assigned upstream to the gnomic bucket; no reliable base-person evidence."
+    },
+    {
+      "quote_id": "q00567",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q00568",
+      "person_signal": "non_base",
+      "note": "Standalone maxim using generic \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00569",
+      "person_signal": "non_base",
+      "note": "Standalone imperative maxim; \u201cyou\u201d is generic rather than story-specific."
+    },
+    {
+      "quote_id": "q00570",
+      "person_signal": "first",
+      "note": "The narrator refers to his own recollection and opinion as \u201cI\u201d and \u201cmine.\u201d"
+    },
+    {
+      "quote_id": "q00571",
+      "person_signal": "third",
+      "note": "The narration externally names Khalil while reporting what he remembered, matching the novel\u2019s third-person Khalil chapters."
+    },
+    {
+      "quote_id": "q00572",
+      "person_signal": "unmarked",
+      "note": "The \u201cyou\u201d is generic, and references to CIA personnel as \u201cthey\u201d do not identify the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00573",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00574",
+      "person_signal": "non_base",
+      "note": "The passage is primarily quoted speech; the bare beat \u201che informed\u201d is insufficient to establish base person."
+    },
+    {
+      "quote_id": "q00575",
+      "person_signal": "first",
+      "note": "Extended participating narration repeatedly uses \u201cI\u201d and \u201cme\u201d and explicitly identifies the narrator as John Corey."
+    },
+    {
+      "quote_id": "q00576",
+      "person_signal": "non_base",
+      "note": "An embedded joke presented entirely as dialogue."
+    },
+    {
+      "quote_id": "q00577",
+      "person_signal": "non_base",
+      "note": "Character speech using generic \u201cyou,\u201d not base narration."
+    },
+    {
+      "quote_id": "q00578",
+      "person_signal": "unclear",
+      "note": "Clipped descriptive fragment with no recoverable narrator-person evidence."
+    },
+    {
+      "quote_id": "q00579",
+      "person_signal": "unclear",
+      "note": "Clipped descriptive fragment with no recoverable narrator-person evidence."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nelsondemille.net/books/the-lions-game/chapter-one/",
+      "title": "The Lion\u2019s Game \u2014 Chapter One | Nelson DeMille",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized full opening chapter identifies John Corey and sustains his participating first-person narration throughout."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780446520652",
+      "title": "The Lion's Game by Nelson DeMille",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Publishers Weekly explicitly describes third-person chapters detailing Khalil\u2019s mission as alternating with Corey\u2019s first-person narration."
+    },
+    {
+      "url": "https://nelsondemille.net/wp-content/uploads/2017/04/Book-Club-Guide-The-Lions-Game.pdf",
+      "title": "Book Club Guide \u2014 The Lion\u2019s Game | Nelson DeMille",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The official guide independently confirms that chapters alternate between John Corey\u2019s and Asad Khalil\u2019s perspectives, though it does not itself specify their grammatical persons."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Lion's Game Nelson DeMille excerpt first chapter\u201d and opened the authorized Chapter One on the author\u2019s site.",
+    "Searched the author and publisher domains for excerpts; the author site supplied the opening, while Hachette results largely concerned the sequel The Lion.",
+    "Searched \u201cThe Lion's Game first person narrator third person\u201d and targeted review variants; opened the Publishers Weekly review explicitly identifying alternating first-person Corey and third-person Khalil chapters.",
+    "Opened the official Nelson DeMille book-club guide, which confirms chapter-level alternation between Corey\u2019s and Khalil\u2019s perspectives.",
+    "Checked Google Books and retailer/catalog pages; their accessible views supplied metadata or synopsis rather than sufficient interior prose and were not used as person evidence."
+  ],
+  "person_note": "The book sustains two base narrative modes: John Corey narrates participating chapters in first person, while separate Asad Khalil chapters use third-person narration. The quotes independently expose both modes\u2014especially the extended Corey narration in q00575 and the third-person, mind-access Khalil passage in q00571\u2014and Publishers Weekly explicitly confirms that these chapter types alternate. Dialogue, maxims, generic \u201cyou,\u201d and clipped fragments were not promoted to base-person evidence. The authorized excerpt covers only the first-person opening, but the whole-book structural review resolves its limited scope; no credible contrary evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_034",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:38:30.957800+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b0d32df6c6565f32850c3eb4888b9267a4d48c43443c25af553270f49f47945c"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:2311",
+  "quotes": [
+    {
+      "quote_id": "q01226",
+      "person_signal": "third",
+      "note": "Sustained external narration refers to Charlotte as \u201cshe\u201d while reporting her perceptions and pain; this is third-person internal focalization."
+    },
+    {
+      "quote_id": "q01227",
+      "person_signal": "non_base",
+      "note": "A character\u2019s direct speech, including the quoted first-person declaration, does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01228",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Charlotte; its first- and second-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q01229",
+      "person_signal": "third",
+      "note": "Sustained narration presents Charlotte externally as \u201cshe\u201d while rendering her questions and feelings through third-person focalization."
+    },
+    {
+      "quote_id": "q01230",
+      "person_signal": "unmarked",
+      "note": "A single narratorial sentence about \u201cthey\u201d is compatible with third-person narration but is too context-poor to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q01231",
+      "person_signal": "non_base",
+      "note": "The passage is chiefly Laurie\u2019s direct speech; the short third-person speech beats are insufficient to diagnose the base narrator independently."
+    },
+    {
+      "quote_id": "q01232",
+      "person_signal": "third",
+      "note": "A sustained scene narrates Hoyt and Charlotte externally and gives access to Charlotte\u2019s sensations and question without making the narrator a participant."
+    },
+    {
+      "quote_id": "q01233",
+      "person_signal": "non_base",
+      "note": "Clipped direct dialogue whose \u201cwe,\u201d \u201cyou,\u201d and \u201cI\u201d belong to speaking characters, not the base narrator."
+    },
+    {
+      "quote_id": "q01234",
+      "person_signal": "unclear",
+      "note": "The fragment is too severely clipped to recover its quotation boundaries or narratorial context."
+    },
+    {
+      "quote_id": "q01235",
+      "person_signal": "third",
+      "note": "Sustained external scene narration repeatedly identifies Charlotte as \u201cshe\u201d and Hoyt as \u201che,\u201d with no participating narrator."
+    },
+    {
+      "quote_id": "q01236",
+      "person_signal": "third",
+      "note": "The narrator externally calls Charlotte \u201cshe\u201d while reporting her prior thoughts and present perception, establishing third-person internal focalization."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9780374706111/iamcharlottesimmons/",
+      "title": "I Am Charlotte Simmons",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized prologue is sustained third-person narration centered on Hoyt, including external reference to him and access to his thoughts."
+    },
+    {
+      "url": "https://citeseerx.ist.psu.edu/document?doi=5ca2f2581a96ad702778ad2d0aec7c75c3e7d4ef&repid=rep1&type=pdf",
+      "title": "The Return of Omniscience in Contemporary Fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Paul Dawson\u2019s scholarly narratological analysis treats the novel\u2019s controlling voice as an omniscient, heterodiegetic narrator and describes its ethnographic distance and explanatory commentary throughout the book."
+    },
+    {
+      "url": "https://observer.com/2004/11/you-know-what-tom-wolfe-book-is-lots-of-fun/",
+      "title": "You Know What? Tom Wolfe Book Is Lots Of Fun",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly identifies a close third-person point of view that shifts among characters across the novel."
+    },
+    {
+      "url": "https://www.nybooks.com/articles/2025/04/24/an-unsentimental-education-i-am-charlotte-simmons-tom-wolfe/",
+      "title": "An Unsentimental Education",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Merve Emre analyzes Wolfe\u2019s free-indirect method as rendering characters\u2019 first-person thoughts within third-person narration and discusses its use for Charlotte and several other characters across the novel."
+    },
+    {
+      "url": "https://www.cienotes.com/wp-content/uploads/2020/01/AQA-77122B-WRE-JUN17.pdf",
+      "title": "A-level English Literature A Examiner Report, Paper 2B, June 2017",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The examiner report explicitly distinguishes Wolfe\u2019s third-person narrative stance from the focalization of an arrival-at-university extract through Charlotte."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cI Am Charlotte Simmons Tom Wolfe excerpt first chapter\u201d and opened Macmillan\u2019s authorized prologue; Google Books supplied bibliographic and contents data but no additional diagnostic prose was used.",
+    "Searched the title with \u201cthird person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201cclose third-person\u201d; opened the Observer review and AQA examiner report, both of which explicitly identify third-person narration.",
+    "Searched scholarly sources on narration and focalization; located Paul Dawson\u2019s Narrative article analyzing the novel\u2019s omniscient heterodiegetic narrator throughout the book. The CiteSeer PDF timed out on a subsequent open attempt, but its indexed article text and publication metadata were available in the live search results.",
+    "Searched for alternating narrators, multiple narrators, first-person narration, second-person narration, epistolary form, and frame narrative; found no evidence of sustained base sections in another person. BookRags assertions and Goodreads review prose were treated as lower-value corroboration and omitted from the evidence list.",
+    "Opened the New York Review of Books essay, which explains that apparent first-person thought is free indirect discourse embedded in third-person narration and traces that technique across multiple characters."
+  ],
+  "person_note": "The quote set repeatedly shows a nonparticipating narrator rendering Charlotte\u2019s actions, sensations, and thoughts in third person. Web evidence independently identifies the same structure: an omniscient or close-third narrator whose focalization shifts among Charlotte, Hoyt, and other characters. First-person forms such as \u201cI am Charlotte Simmons\u201d are character speech, thought, or a recurring mantra, while conversational or generic \u201cyou\u201d is not sustained second-person protagonist narration. The authorized excerpt covers only the opening, but whole-book scholarly and critical analyses resolve that scope limitation; no credible evidence of alternating base-person sections was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.239203+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6a1cef8f85a94d2a6e14a9ca0a4199e6ed68d7e764353870d8b25d14ebba107c"
+  }
+}

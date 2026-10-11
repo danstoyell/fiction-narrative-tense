@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2015:2000",
+  "quotes": [
+    {
+      "quote_id": "q03497",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q03498",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Jean Louise; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q03499",
+      "person_signal": "non_base",
+      "note": "Direct advice to Jean Louise within dialogue."
+    },
+    {
+      "quote_id": "q03500",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about history and humanity, not diagnostic narration."
+    },
+    {
+      "quote_id": "q03501",
+      "person_signal": "non_base",
+      "note": "Character speech; first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q03502",
+      "person_signal": "non_base",
+      "note": "General maxim without story-specific narratorial person."
+    },
+    {
+      "quote_id": "q03503",
+      "person_signal": "third",
+      "note": "External narration describes Jean Louise as she and explicitly frames her ensuing words with 'she thought.'"
+    },
+    {
+      "quote_id": "q03504",
+      "person_signal": "non_base",
+      "note": "Gnomic conditional, not a story-specific narrating position."
+    },
+    {
+      "quote_id": "q03505",
+      "person_signal": "non_base",
+      "note": "Contiguous chapter context identifies this first-person passage as Jean Louise's unquoted interior monologue within third-person narration."
+    },
+    {
+      "quote_id": "q03506",
+      "person_signal": "non_base",
+      "note": "Jean Louise's direct speech to Atticus; I, you, and they belong to the conversation."
+    },
+    {
+      "quote_id": "q03507",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person-plural statement, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03508",
+      "person_signal": "non_base",
+      "note": "Direct imperative speech."
+    },
+    {
+      "quote_id": "q03509",
+      "person_signal": "non_base",
+      "note": "Isolated first-person gnomic material does not establish a controlling narrator."
+    },
+    {
+      "quote_id": "q03510",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Jean Louise."
+    },
+    {
+      "quote_id": "q03511",
+      "person_signal": "non_base",
+      "note": "Exact-passage context shows these questions and I-statements are Jean Louise's extended interior monologue."
+    },
+    {
+      "quote_id": "q03512",
+      "person_signal": "non_base",
+      "note": "Local first-person character voice, continuing Jean Louise's reflection rather than exposing the base narrator."
+    },
+    {
+      "quote_id": "q03513",
+      "person_signal": "non_base",
+      "note": "Contiguous context places this I-statement inside Jean Louise's extended interior monologue at the Coffee."
+    },
+    {
+      "quote_id": "q03514",
+      "person_signal": "non_base",
+      "note": "Direct character speech about Jean Louise."
+    },
+    {
+      "quote_id": "q03515",
+      "person_signal": "non_base",
+      "note": "Direct speech between characters; you and I are conversational."
+    },
+    {
+      "quote_id": "q03516",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical description of a bigot, not narrative-person evidence."
+    },
+    {
+      "quote_id": "q03517",
+      "person_signal": "non_base",
+      "note": "Character speech using an analogy and conversational we."
+    },
+    {
+      "quote_id": "q03518",
+      "person_signal": "non_base",
+      "note": "Brief direct speech; first and second person belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q03519",
+      "person_signal": "unmarked",
+      "note": "Almost entirely dialogue; the brief 'Dr. Finch smiled' beat has only a named subject and cannot by itself establish narrator person."
+    },
+    {
+      "quote_id": "q03520",
+      "person_signal": "third",
+      "note": "Sustained external narration repeatedly calls Jean Louise she and reports what she never realized or knew."
+    },
+    {
+      "quote_id": "q03521",
+      "person_signal": "non_base",
+      "note": "Personified speech attributed to old buildings, not the controlling narrator."
+    },
+    {
+      "quote_id": "q03522",
+      "person_signal": "third",
+      "note": "Repeated scene-level narration outside the quoted dialogue follows Jean Louise as she went, looked, and saw, with no participating narrator."
+    },
+    {
+      "quote_id": "q03523",
+      "person_signal": "non_base",
+      "note": "Direct character speech addressed to Jean Louise."
+    },
+    {
+      "quote_id": "q03524",
+      "person_signal": "non_base",
+      "note": "Sermon speech quoting Isaiah; its first-person language is embedded scripture."
+    },
+    {
+      "quote_id": "q03525",
+      "person_signal": "third",
+      "note": "Sustained external account describes Jean Louise as she/her and imagines her possible marital future without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/go-set-a-watchman-9781784752460/extracts/582-extract-from-go-set-a-watchman",
+      "title": "Extract | Go Set a Watchman by Harper Lee - Penguin Books Australia",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-hosted sustained opening narrates Jean Louise externally as she and embeds her remembered first-person words as character thought."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/go-set-a-watchman/literary-devices/",
+      "title": "Go Set a Watchman: Other Literary Devices | SparkNotes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies an anonymous third-person narrator focused on Jean Louise and explains that free-indirect thought and flashbacks do not change the base person."
+    },
+    {
+      "url": "https://torchbearer.utk.edu/2015/07/literature-law-and-atticus-finch/",
+      "title": "Literature, Law, and Atticus Finch \u2013 Torchbearer",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "University of Tennessee faculty commentary states that the story is told in third person but can read like first person because Jean Louise's perspective is so close."
+    },
+    {
+      "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=csu1606410740885098&disposition=inline",
+      "title": "Harper Lee\u2019s Pink Penitentiary: To Kill a Mockingbird, Go Set a Watchman and Feminism",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Cleveland State MA thesis describes the surrounding narration as third person while noting local first-person shifts; it does not identify sustained autonomous first-person narrator sections."
+    },
+    {
+      "url": "https://time.com/3954581/go-set-a-watchman-review/",
+      "title": "Go Set a Watchman Review: Atticus Finch's Racism Makes Us Grow Up",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Full-book review describes the narrative as a third-person voice close to Jean Louise's thoughts."
+    },
+    {
+      "url": "https://www.supersummary.com/go-set-a-watchman/part-1-chapters-1-3/",
+      "title": "Go Set A Watchman Part 1, Chapters 1-3 Summary & Analysis | SuperSummary",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "Calls Part 1's surface narration inconsistent and notes apparent first- or second-person slips within third-person narration, but supplies no sustained alternate narrator section."
+    }
+  ],
+  "search_log": [
+    "Searched \"Go Set a Watchman\" \"Harper Lee\" excerpt, first chapter, and read an extract; opened Penguin's authorized excerpt, while the PBS chapter page returned 403.",
+    "Searched \"Go Set a Watchman\" point of view, third person, narrator, and narrated by; opened SparkNotes, TIME, University of Tennessee, and SMU discussions explicitly describing third-person narration.",
+    "Searched exact text from the I-passages, including \"I need a watchman,\" \"Why doesn't their flesh creep,\" and \"I was taught never to take advantage\"; contiguous chapter material and chapter analysis place them in Jean Louise's interior monologue.",
+    "Searched site:edu and scholarly sources for \"Go Set a Watchman\" plus third-person narrative; opened the Cleveland State thesis and University of Phoenix literary essay. The Taylor & Francis article PDF returned 403.",
+    "Searched \"Go Set a Watchman\" alternating point of view, multiple narrators, first-person sections, interior monologue, frame narrative, and epistolary; found no evidence of sustained alternate-person base sections.",
+    "Followed up on claims of first- or second-person 'slips'; SparkNotes and UTK explain the effect as close focalization/free-indirect or interior discourse, while the diagnostic passages remain framed by third-person narration."
+  ],
+  "person_note": "The controlling narrator is anonymous and nonparticipating, using close third person centered on Jean Louise. Quotes q03503, q03520, q03522, and q03525 expose that external position, while the apparent first-person event passages q03505, q03511, and q03513 are Jean Louise's unquoted interior monologue in contiguous third-person scenes. Dialogue, scripture, and gnomic I/we material are likewise local rather than base narration. Some secondary analyses call the abrupt interior passages person 'slips,' but neither the excerpts nor structural sources identify sustained first- or second-person sections, so they do not warrant ALTERNATING. The only remaining uncertainty is the stylistic boundary between direct interior monologue and free-indirect discourse, not the controlling narrative person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.255352+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0ed5eaac6d453a74a99039929afabbeb0bf172b2cb8bc56d31bb6d8d69ff6fd9"
+  }
+}

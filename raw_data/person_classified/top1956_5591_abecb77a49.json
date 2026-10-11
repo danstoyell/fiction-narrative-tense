@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1956:5591",
+  "quotes": [
+    {
+      "quote_id": "q00933",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00934",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, this is third-person narratorial reporting of a character's private reflection; the bucket may be an upstream error."
+    },
+    {
+      "quote_id": "q00935",
+      "person_signal": "non_base",
+      "note": "A cleric's first-person funeral remarks are character speech, not base narration."
+    },
+    {
+      "quote_id": "q00936",
+      "person_signal": "third",
+      "note": "After a brief spoken line, sustained external narration identifies Adam and Skeffington in the third person and depicts Skeffington's death."
+    },
+    {
+      "quote_id": "q00937",
+      "person_signal": "third",
+      "note": "Sustained scene narration reports a character's impulse, several characters' perceptions, and Skeffington's actions from a nonparticipating third-person position."
+    },
+    {
+      "quote_id": "q00938",
+      "person_signal": "third",
+      "note": "Extended third-person narration presents the focal character's memories, deductions, and uncertainty without a participating narrator."
+    },
+    {
+      "quote_id": "q00939",
+      "person_signal": "third",
+      "note": "Third-person narration reports the focal character's controlled emotion and knowledge of Ditto."
+    },
+    {
+      "quote_id": "q00940",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Adam; its pronouns are not narratorial evidence."
+    },
+    {
+      "quote_id": "q00941",
+      "person_signal": "non_base",
+      "note": "A character recounts an embedded anecdote in speech."
+    },
+    {
+      "quote_id": "q00942",
+      "person_signal": "non_base",
+      "note": "First-person campaign speech containing an embedded anecdote, not base narration."
+    },
+    {
+      "quote_id": "q00943",
+      "person_signal": "non_base",
+      "note": "Rhetorical campaign speech; first-person plural language belongs to the speaker."
+    },
+    {
+      "quote_id": "q00944",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and the minimal speech attributions do not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00945",
+      "person_signal": "non_base",
+      "note": "Character speech; first-person plural references describe the speaker's political side."
+    },
+    {
+      "quote_id": "q00946",
+      "person_signal": "non_base",
+      "note": "Dialogue with brief third-person speech beats, which do not by themselves exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00947",
+      "person_signal": "non_base",
+      "note": "Dialogue and a minimal attribution; the visible pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q00948",
+      "person_signal": "non_base",
+      "note": "Character dialogue with short third-person attributions that are insufficient on their own to identify base person."
+    },
+    {
+      "quote_id": "q00949",
+      "person_signal": "non_base",
+      "note": "Character speech offering political advice."
+    },
+    {
+      "quote_id": "q00950",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short Skeffington attribution does not independently diagnose narrator participation."
+    },
+    {
+      "quote_id": "q00951",
+      "person_signal": "non_base",
+      "note": "Remembered character speech introduced by a brief attribution, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00952",
+      "person_signal": "unmarked",
+      "note": "This appears to be base narration, but the named group and comic aside do not alone establish narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q00953",
+      "person_signal": "non_base",
+      "note": "First-person political commentary spoken by a character."
+    },
+    {
+      "quote_id": "q00954",
+      "person_signal": "third",
+      "note": "Third-person base narration reports Skeffington's campaigning and ironic reflection without a participating narrator."
+    },
+    {
+      "quote_id": "q00955",
+      "person_signal": "non_base",
+      "note": "Character speech; the third-person plural references concern political opponents."
+    },
+    {
+      "quote_id": "q00956",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech with a minimal attribution; the 'I' belongs to the character."
+    },
+    {
+      "quote_id": "q00957",
+      "person_signal": "non_base",
+      "note": "A character's spoken, first-person recollection containing an embedded political anecdote."
+    },
+    {
+      "quote_id": "q00958",
+      "person_signal": "non_base",
+      "note": "Character speech about Charlie's political career."
+    },
+    {
+      "quote_id": "q00959",
+      "person_signal": "non_base",
+      "note": "Dialogue; the visible first- and second-person forms belong to speakers."
+    },
+    {
+      "quote_id": "q00960",
+      "person_signal": "non_base",
+      "note": "Direct speech with attribution, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00961",
+      "person_signal": "non_base",
+      "note": "Direct character speech with a minimal attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.ebsco.com/research-starters/history/last-hurrah-edwin-oconnor/",
+      "title": "The Last Hurrah by Edwin O'Connor | History | Research Starters | EBSCO Research",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The authored reference article explicitly says the campaign story is told in the third person, describes all four parts, and explains that the narration is most often focalized through Adam."
+    },
+    {
+      "url": "https://www.enotes.com/topics/last-hurrah/characters",
+      "title": "The Last Hurrah Characters - eNotes.com",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened character analysis explicitly describes a third-person narrative largely presented through Adam's perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Last Hurrah\" \"Edwin O'Connor\" with excerpt, first-chapter, point-of-view, third-person, narrator, and Internet Archive terms.",
+    "Opened the EBSCO Research Starter and found an explicit whole-book third-person description plus the four-part structure and Adam focalization.",
+    "Opened the eNotes character analysis and found an independent explicit description of third-person narration through Adam's perspective.",
+    "Checked the University of Chicago Press book page; its publisher description was useful for title verification but did not explicitly identify grammatical person.",
+    "Checked Google Books and Open Library previews; the accessible pages supplied bibliographic or catalog information but no usable sustained prose excerpt.",
+    "A third-party full-text page surfaced in search, but it was not relied upon because its authorization and provenance were unclear.",
+    "Targeted searches for epistolary, frame, multiple-narrator, and alternating-POV structure found no credible evidence of sustained narration in another person."
+  ],
+  "person_note": "The diagnostic event passages repeatedly use sustained third-person scene narration and disclose the thoughts or perceptions of Skeffington and Adam without introducing a participating narrator. The many first-person forms occur in speeches, conversations, or embedded anecdotes and therefore do not conflict. EBSCO's whole-book structural account explicitly confirms third-person narration, usually focalized through Adam, and eNotes independently corroborates it. No credible source indicates a first-person frame or sustained alternation; the main limitation is that no authorized sustained excerpt was accessible, but the strong quote evidence and Tier B structural description independently agree.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_010",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:39:15.259366+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f2ef60e52d1bf39f720bf2d3408853896e112e6bbd617924aeb12277fbd47823"
+  }
+}

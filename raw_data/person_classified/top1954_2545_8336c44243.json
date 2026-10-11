@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1954:2545",
+  "quotes": [
+    {
+      "quote_id": "q00534",
+      "person_signal": "unclear",
+      "note": "An isolated first-person statement lacks speech or thought boundaries, so its local speaker cannot be established."
+    },
+    {
+      "quote_id": "q00535",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person religious language does not expose the novel's controlling narrator."
+    },
+    {
+      "quote_id": "q00536",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a male character's thoughts and circumstances in the third person."
+    },
+    {
+      "quote_id": "q00537",
+      "person_signal": "third",
+      "note": "The licensed opening supplies the surrounding third-person narration and identifies this as Katherine's free-indirect reflection."
+    },
+    {
+      "quote_id": "q00538",
+      "person_signal": "non_base",
+      "note": "This is dialogue between characters; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00539",
+      "person_signal": "unmarked",
+      "note": "The thought tag uses 'he,' but this short local thought attribution alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00540",
+      "person_signal": "third",
+      "note": "The first-person clause is explicitly Katherine's thought, while the surrounding narration refers to her externally as 'she.'"
+    },
+    {
+      "quote_id": "q00541",
+      "person_signal": "unclear",
+      "note": "The clipped first-person verse lacks an anchor establishing whether it is recited, quoted, or otherwise embedded."
+    },
+    {
+      "quote_id": "q00542",
+      "person_signal": "unmarked",
+      "note": "The sentence contrasts 'he' and 'she' but is too brief to establish the controlling narrating position by itself."
+    },
+    {
+      "quote_id": "q00543",
+      "person_signal": "non_base",
+      "note": "The Duke's first-person declaration is direct speech."
+    },
+    {
+      "quote_id": "q00544",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs inside character dialogue."
+    },
+    {
+      "quote_id": "q00545",
+      "person_signal": "non_base",
+      "note": "The story-specific 'you' is direct address in dialogue, not second-person base narration."
+    },
+    {
+      "quote_id": "q00546",
+      "person_signal": "non_base",
+      "note": "This gnomic fragment is locally voiced material and is nondiagnostic of the narrator."
+    },
+    {
+      "quote_id": "q00547",
+      "person_signal": "non_base",
+      "note": "Alice Perrers's first-person assertion is direct speech; the short speech tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00548",
+      "person_signal": "third",
+      "note": "External scene narration reports the couple's actions and Katherine's words in the third person."
+    },
+    {
+      "quote_id": "q00549",
+      "person_signal": "non_base",
+      "note": "The first-person statement is Richard's direct speech."
+    },
+    {
+      "quote_id": "q00550",
+      "person_signal": "third",
+      "note": "A sustained sequence externally narrates Alice's arrival and actions without a participating narrator."
+    },
+    {
+      "quote_id": "q00551",
+      "person_signal": "non_base",
+      "note": "This first-person devotional utterance is dialogue or quoted religious language, not base narration."
+    },
+    {
+      "quote_id": "q00552",
+      "person_signal": "non_base",
+      "note": "Collective religious maxims in a gnomic passage do not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00553",
+      "person_signal": "non_base",
+      "note": "The first-person devotional wording is gnomic or quoted testimony rather than controlling narration."
+    },
+    {
+      "quote_id": "q00554",
+      "person_signal": "non_base",
+      "note": "This universal religious maxim is nondiagnostic of narrative person."
+    },
+    {
+      "quote_id": "q00555",
+      "person_signal": "non_base",
+      "note": "The isolated 'me' belongs to a character's devotional speech or direct thought within the structurally third-person novel."
+    },
+    {
+      "quote_id": "q00556",
+      "person_signal": "non_base",
+      "note": "This aphoristic reflection is gnomic and contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00557",
+      "person_signal": "unmarked",
+      "note": "The only 'I' is inside a quoted divine promise; the surrounding possible narration does not identify its own person."
+    },
+    {
+      "quote_id": "q00558",
+      "person_signal": "unclear",
+      "note": "The quote is a sentence fragment with its subject and surrounding narratorial context clipped away."
+    },
+    {
+      "quote_id": "q00559",
+      "person_signal": "non_base",
+      "note": "Given the established third-person structure, this isolated first-person wording is local direct thought or speech rather than base narration."
+    },
+    {
+      "quote_id": "q00560",
+      "person_signal": "unmarked",
+      "note": "Free-indirect rhetorical questions about 'she' are compatible with third-person narration but are too brief to prove it alone."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.perlego.com/book/3185614/katherine-pdf",
+      "title": "Katherine by Anya Seton",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed Harper Paperbacks ebook preview provides a sustained first-chapter passage narrated externally as Katherine, Long Will, and others; first-person wording is explicitly tagged as character thought or speech."
+    },
+    {
+      "url": "https://herstorynovels.com/katherine-by-anya-seton/",
+      "title": "Katherine, by Anya Seton",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes an omniscient point of view that enters the minds of Katherine, the Duke, his wife, the Chaucers, and minor characters across the novel."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-katherine/style.html",
+      "title": "Anya Seton Writing Styles in Katherine",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide's point-of-view section describes the story as told by an omniscient external narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"Anya Seton Katherine novel excerpt first chapter\" and opened the licensed Perlego/Harper Paperbacks preview; Google Books and Open Library were also checked for edition and preview leads.",
+    "Searched \"Katherine Anya Seton third person narrator point of view\" and opened explicit whole-book descriptions from HerStory Novels and BookRags.",
+    "Searched \"Katherine Anya Seton alternating narrator\" and related narrator queries; no credible evidence of sustained first- or second-person sections was found.",
+    "Searched exact text from the isolated first-person quotes, including \"It was He and His love that held me\" and \"What a weary time it took to learn\"; results did not restore their local boundaries beyond the Goodreads quotation list."
+  ],
+  "person_note": "The controlling narrator is third-person omniscient. Multiple quote passages externally narrate characters and their thoughts, while the authorized opening independently demonstrates the same technique and explicitly embeds first-person direct thoughts within third-person narration. Whole-book descriptions corroborate that the narrator moves among several characters' minds rather than alternating grammatical persons. The isolated first-person devotional, lyrical, and reflective fragments are therefore local speech, quotation, or direct thought, not autonomous first-person sections. The main residual uncertainty is the exact speaker or boundary of a few clipped fragments, not the book-level narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_009",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:27:42.152390+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5a4e9801b53c2933015158a465f6e01b78117a182d7cfb0d80c6073e9cfaee02"
+  }
+}

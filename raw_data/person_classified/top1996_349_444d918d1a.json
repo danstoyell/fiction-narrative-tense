@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:349",
+  "quotes": [
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "The enclosing quotation marks identify this first-person passage as character speech, not the controlling narration."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, the outside speech beat and thought attribution narrate the woman externally as \u201cshe,\u201d exposing third-person base narration."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "non_base",
+      "note": "This standalone aphorism is gnomic material and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first- and second-person pronouns do not identify the base narration."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "Direct character speech using generic address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "unmarked",
+      "note": "Narratorial commentary about reporters uses generic \u201cyour,\u201d but does not cast a story protagonist as \u201cyou\u201d or independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "unmarked",
+      "note": "The generic \u201cyou\u201d describes the experience of dealing with reporters and is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "third",
+      "note": "Sustained base narration names Jennifer externally, reports her disagreement and interests, and renders her thoughts in third person."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "third",
+      "note": "The narrator describes Jennifer as \u201cshe\u201d while presenting her goals and assumptions, clearly exposing third-person narration."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "non_base",
+      "note": "Marder\u2019s first-person statement is direct dialogue; the short attribution alone is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "non_base",
+      "note": "Direct character speech; \u201cwe\u201d is spoken by a character rather than a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.randomhousebooks.com/books/33487/",
+      "title": "Airframe | Random House Publishing Group",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s sustained Chapter 3 excerpt narrates Daniel Greene\u2019s actions, perceptions, and thoughts externally in third person."
+    },
+    {
+      "url": "https://michaelcrichton.com/works/airframe/",
+      "title": "Airframe - Michael Crichton",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The author\u2019s official site presents excerpts from separate passages that narrate Emily and other characters externally, including access to Emily\u2019s perceptions and physical state."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-airframe/style.html",
+      "title": "Michael Crichton Writing Styles in Airframe",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel as third person and explains that focalization shifts among Casey Singleton, Jennifer Malone, and minor characters without changing grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMichael Crichton Airframe excerpt first chapter\u201d and opened the Random House/Penguin publisher excerpt and the official Michael Crichton passages.",
+    "Searched \u201cAirframe Michael Crichton point of view third person narrator\u201d and opened BookRags\u2019 whole-book point-of-view discussion.",
+    "Searched Google Books, publisher, author, PDF, and sample-preview variants; Google Books supplied metadata but no additional usable sustained prose, while unauthorized scans were excluded.",
+    "Ran targeted searches for \u201cCasey thought,\u201d \u201cJennifer disagreed,\u201d and the exact q00043 wording; the exact-quote result reproduced the quotation without narrative context and was not used as person evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, with focalization moving among Casey, Jennifer, Emily, Daniel Greene, and other characters. Quotes q00050 and q00051 independently expose sustained third-person narration, while authorized excerpts show the same mode in early and separate passages; the whole-book source explicitly confirms that these focal shifts remain third person. The first-person q00043 passage and the other I/we/you examples are local speech or generic address, not autonomous first- or second-person narrative sections. No credible evidence of alternating grammatical person was found; the only minor uncertainty is the omitted speaker context for q00043, which does not affect the book-level result because its quotation boundaries mark it as speech.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.225663+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "82be4ea22d9af275f5093a8d78ad905adf40f9c24f63e193f1fe0caeee02360c"
+  }
+}

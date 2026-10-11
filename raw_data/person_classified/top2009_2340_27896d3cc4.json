@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:2340",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "Alex's first-person pledge is direct speech, not narratorial evidence."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "This clipped imperative is character speech and does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "unmarked",
+      "note": "The narratorial aside contains no participating narrator or sustained external character narration."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "first",
+      "note": "Although clipped, the event narration's \u201cme\u201d identifies the participating narrator as the person being greeted."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the surrounding speech beats use narratorial \u201cI\u201d and \u201cmy,\u201d exposing participating first-person narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780099514596/9780099514596-sample.pdf",
+      "title": "I, Alex Cross \u2014 Penguin sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The authorized publisher sample sustains third-person narration in the prologue, switches to Alex's first-person narration in Chapters 1\u20134, and returns to third person for Gabriel Reese in Chapter 5."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/i-alex-cross/excerpt",
+      "title": "I, Alex Cross by James Patterson \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "This excerpt, reprinted with Vision's permission, independently displays the same opening structure: third-person prologue sections, first-person Alex chapters, and a sustained third-person Gabriel Reese chapter."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cI, Alex Cross\u201d James Patterson excerpt, first chapter, publisher sample, and author-site combinations.",
+    "Searched the exact title with \u201cfirst person,\u201d \u201cthird-person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201calternating perspectives.\u201d",
+    "Opened the Penguin publisher sample and verified third-person prologue material, first-person Chapter 1, and third-person Chapter 5.",
+    "Opened the Bookreporter excerpt and verified that it reproduces the prologue through Chapter 7 with permission from Vision.",
+    "Checked Google Books, Publishers Weekly, Bookreporter's review, and AudioFile; these confirmed the edition or plot but did not explicitly establish whole-book narrative person.",
+    "A general Alex Cross series description reported the usual first-person/third-person pattern, but it was not relied upon as book-specific structural evidence."
+  ],
+  "person_note": "The quotes diagnostically corroborate Alex Cross's participating first-person narration, while the authorized opening excerpts show sustained third-person sections both before and among Alex's first-person chapters. Those autonomous third-person sections are base narrative rather than speech, thought, or embedded documents, so the correct label is ALTERNATING. Confidence is medium because the two strong web sources reproduce substantially the same opening material, the Goodreads quotes expose only the first-person strand, and no independent whole-book structural analysis was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.246262+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b3787df2d3125187dc4ecd2fad092e1d6e342350156eca23ad41c768eb6a6ecd"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:1718",
+  "quotes": [
+    {
+      "quote_id": "q05085",
+      "person_signal": "first",
+      "note": "Participating narrator uses \u201cmy\u201d and \u201cI\u201d in retrospective narration about his relationship with a woman."
+    },
+    {
+      "quote_id": "q05086",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition contains no narrator-participation marker and is compatible with either first- or third-person narration."
+    },
+    {
+      "quote_id": "q05087",
+      "person_signal": "first",
+      "note": "Participating narrator recounts his own decision using repeated narratorial \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05088",
+      "person_signal": "unmarked",
+      "note": "Brief setting exposition identifies no narrating person."
+    },
+    {
+      "quote_id": "q05089",
+      "person_signal": "non_base",
+      "note": "Gnomic universal \u201cyour\u201d is generic address, not sustained second-person narration of a protagonist."
+    },
+    {
+      "quote_id": "q05090",
+      "person_signal": "non_base",
+      "note": "Direct-address question is dialogue and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q05091",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI noted\u201d reports the participating narrator\u2019s perception of a specific answer."
+    },
+    {
+      "quote_id": "q05092",
+      "person_signal": "first",
+      "note": "Although clipped, \u201creminding myself\u201d exposes the participating narrator during a story-specific moment."
+    },
+    {
+      "quote_id": "q05093",
+      "person_signal": "non_base",
+      "note": "Universal reflection about everybody and somebody is gnomic rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q05094",
+      "person_signal": "unclear",
+      "note": "Severe truncation removes the clause boundaries and narrator context needed for person attribution."
+    },
+    {
+      "quote_id": "q05095",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement about ruleless institutions is gnomic and may also be clipped from speech."
+    },
+    {
+      "quote_id": "q05096",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment has no narrator or finite narrative clause."
+    },
+    {
+      "quote_id": "q05097",
+      "person_signal": "first",
+      "note": "The dialogue itself is nondiagnostic, but the external speech tag \u201cI said\u201d exposes first-person base narration."
+    },
+    {
+      "quote_id": "q05098",
+      "person_signal": "third",
+      "note": "Sustained external narration follows an antagonist as \u201che,\u201d reports his observation and concern, and is not framed by a participating narrator."
+    },
+    {
+      "quote_id": "q05099",
+      "person_signal": "non_base",
+      "note": "General explanatory statement about the DRD4 gene is gnomic and potentially spoken."
+    },
+    {
+      "quote_id": "q05100",
+      "person_signal": "unclear",
+      "note": "The truncated mixture of definition and story fragment lacks recoverable quotation and narration boundaries."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.michaelconnelly.com/writing/fair-warning/fair-warning-excerpt/",
+      "title": "Fair Warning Excerpt - Michael Connelly",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author\u2019s authorized three-chapter excerpt sustains Jack McEvoy\u2019s participating first-person narration throughout the opening."
+    },
+    {
+      "url": "https://jhsiess.com/2020/06/03/book-review-fair-warning/",
+      "title": "Book Review: Fair Warning",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Detailed structural review of the complete novel explicitly distinguishes Jack\u2019s first-person investigation from third-person sections following Hammond and the Shrike; this account is independently corroborated by other explicit reviews."
+    },
+    {
+      "url": "https://realfreeflowingwords.blog/2020/09/03/fair-warning-book-review-commentary-on-dna-testing/",
+      "title": "Fair Warning book review + Commentary on DNA Testing",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Completed-book review explicitly reports first-person McEvoy narration plus third-person POVs for the serial killer and another plot-critical character."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fair_Warning_(Connelly_novel)",
+      "title": "Fair Warning (Connelly novel)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Explicit overview states that McEvoy\u2019s first-person narrative periodically switches to third person for Hammond and the Shrike, and also notes two news-article chapters."
+    },
+    {
+      "url": "https://www.paulgitsham.com/recommended/fair-warning/",
+      "title": "Fair Warning (Jack McEvoy 3)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Author-reviewer describes the novel as primarily first person, corroborating that McEvoy\u2019s strand controls most of the book without excluding the documented third-person sections."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMichael Connelly Fair Warning excerpt first chapter Jack McEvoy publisher\u201d and opened the authorized author-site and AARP excerpts.",
+    "Searched \u201cFair Warning Michael Connelly point of view first person third person chapters\u201d and \u201calternating narration review narrator.\u201d",
+    "Searched exact text from q05098, including \u201cHe had noticed that Hammond was becoming more animated\u201d and \u201cYour operation is magnificent\u201d \u201cDRD4 samples\u201d; results confirmed quote provenance but did not yield an authorized interior excerpt.",
+    "Searched \u201cFair Warning occasionally third-person McEvoy\u201d and targeted reviews describing Hammond and the Shrike; opened explicit whole-book structural accounts.",
+    "Checked Hachette, Google Books, library, audiobook, interview, epistolary, frame-narrative, and multiple-narrator results; publisher/catalog pages verified the work but generally did not state grammatical person, while audiobook sources only indirectly corroborated a separate Shrike strand."
+  ],
+  "person_note": "The book alternates sustained narrative persons: Jack McEvoy narrates the principal investigation as a participating first-person narrator, while autonomous antagonist sections use third-person narration for Hammond and the Shrike. The Goodreads evidence independently contains both unmistakable first-person base narration and a sustained third-person Hammond scene, matching the authorized opening and several Tier C whole-book structural descriptions. Gnomic \u201cyou,\u201d dialogue, and clipped fragments do not create additional narrative persons. Confidence is medium because the authorized prose excerpt covers only the first-person opening and the whole-book structural sources are Tier C.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_070",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:55:33.175381+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2a6e3b7073f8b052a48cf374259e26bd90759b8364efb2f19aa75b7c6b9868f8"
+  }
+}

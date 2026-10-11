@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:THE FIVE-STAR WEEKEND|Elin Hilderbrand",
+  "quotes": [
+    {
+      "quote_id": "q08103",
+      "person_signal": "non_base",
+      "note": "Quoted character speech; the second-person wording and speech tag do not identify the base narrator."
+    },
+    {
+      "quote_id": "q08104",
+      "person_signal": "unmarked",
+      "note": "A clipped menu description with only a third-person possessive reference; it does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q08105",
+      "person_signal": "non_base",
+      "note": "Brooke's first-person-plural recollection and universal second-person observation are local speech, not base narration; the event bucket is a possible upstream issue."
+    },
+    {
+      "quote_id": "q08106",
+      "person_signal": "non_base",
+      "note": "A first-person statement followed by universal second person, but the gnomic quotation does not expose the novel's base narrator."
+    },
+    {
+      "quote_id": "q08107",
+      "person_signal": "unmarked",
+      "note": "The cognition tag is compatible with third-person narration, but this short reference to 'she' is not independently diagnostic."
+    },
+    {
+      "quote_id": "q08108",
+      "person_signal": "unmarked",
+      "note": "The truncated third-person characterization lacks enough framing to identify the narrator's participation."
+    },
+    {
+      "quote_id": "q08109",
+      "person_signal": "non_base",
+      "note": "The isolated first-person reflection is local direct thought or speech within the established third-person body, not a sustained base section."
+    },
+    {
+      "quote_id": "q08110",
+      "person_signal": "non_base",
+      "note": "Gnomic and free-indirect material associated with Dru-Ann; its universal 'you' does not constitute second-person narration."
+    },
+    {
+      "quote_id": "q08111",
+      "person_signal": "non_base",
+      "note": "Explicitly tagged direct thought ('she thinks'); the first-person sentence is Hollis's local thought, not base narration."
+    },
+    {
+      "quote_id": "q08112",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Hollis's actions in third person without a participating narrator."
+    },
+    {
+      "quote_id": "q08113",
+      "person_signal": "unmarked",
+      "note": "A brief third-person report of Ethan's state is compatible with the book's base narration but is not independently conclusive."
+    },
+    {
+      "quote_id": "q08114",
+      "person_signal": "non_base",
+      "note": "A generalizing aphorism about people, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q08115",
+      "person_signal": "unmarked",
+      "note": "The short third-person cognition report is compatible with third-person narration but does not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q08116",
+      "person_signal": "third",
+      "note": "A continuous two-sentence scene narrates a woman's actions and response externally in third person."
+    },
+    {
+      "quote_id": "q08117",
+      "person_signal": "non_base",
+      "note": "Colloquial first-person character speech, not narratorial discourse."
+    },
+    {
+      "quote_id": "q08118",
+      "person_signal": "non_base",
+      "note": "Quotation-marked dialogue with an external speech tag; neither pronoun pattern identifies the base narrator."
+    },
+    {
+      "quote_id": "q08119",
+      "person_signal": "non_base",
+      "note": "First-person speech directly addressing another character, not base narration."
+    },
+    {
+      "quote_id": "q08120",
+      "person_signal": "non_base",
+      "note": "First-person confessional speech with direct address to a listener, not the controlling narrator."
+    },
+    {
+      "quote_id": "q08121",
+      "person_signal": "non_base",
+      "note": "Second-person direct address in character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08122",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Hollis's actions, perceptions, and motives in third person."
+    },
+    {
+      "quote_id": "q08123",
+      "person_signal": "non_base",
+      "note": "Second-person accusation and first-person declaration in emotionally marked character speech."
+    },
+    {
+      "quote_id": "q08124",
+      "person_signal": "non_base",
+      "note": "Brooke's first-person confession in an interview or conversation, not an autonomous narratorial section."
+    },
+    {
+      "quote_id": "q08125",
+      "person_signal": "unmarked",
+      "note": "A brief parenthetical cognition report about Dru-Ann is compatible with third-person narration but too short to diagnose person independently."
+    },
+    {
+      "quote_id": "q08126",
+      "person_signal": "non_base",
+      "note": "Quotation-marked dialogue attributed to Dru-Ann, Caroline, and Dylan, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookofthemonth.com/all-hardcovers/the-five-star-weekend-1431",
+      "title": "The Five-Star Weekend by Elin Hilderbrand \u2014 Read a sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The sustained authorized opening sample shows the 'Nantucket' prologue narrated by a participating collective voice using 'we,' 'us,' and 'our.'"
+    },
+    {
+      "url": "https://www.supersummary.com/the-five-star-weekend/prologue-chapter-10-summary/",
+      "title": "The Five-Star Weekend Prologue\u2013Chapter 10 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The structural analysis identifies a change at Chapter 1 to a third-person narrator after the prologue; its chapter summaries also document shifting third-person focal characters."
+    },
+    {
+      "url": "https://www.supersummary.com/the-five-star-weekend/chapter-41-epilogue-summary/",
+      "title": "The Five-Star Weekend Chapter 41\u2013Epilogue Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The guide states that the epilogue briefly returns to the plural first-person voice of the Nantucket locals, confirming a first-person frame around the third-person chapters."
+    },
+    {
+      "url": "https://www.peacocktv.com/blog/five-star-weekend-show-book-differences-bekah-brunstetter-interview",
+      "title": "Is The Five Star Weekend Series Different Than the Book? The Show's Creator Explains",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Peacock's adaptation article explicitly describes the novel as third person with shifts among character viewpoints; this accurately characterizes the main body but compresses the first-person prologue and epilogue."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-five-star-weekend/study-guide/literary-elements",
+      "title": "The Five-Star Weekend Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly lists third-person point of view, corroborating the person of the novel's main chapters while not distinguishing the collective frame."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Five-Star Weekend\" Elin Hilderbrand excerpt and first chapter; found and opened the sustained Book of the Month prologue sample.",
+    "Searched \"The Five-Star Weekend\" third person, point of view, and narrator; opened Peacock, SuperSummary, GradeSaver, and BookRags results.",
+    "Searched the prologue's opening language and \"Switching to a third-person narrator\" to verify the transition from the collective 'we' to Chapter 1's third-person narration.",
+    "Searched for prologue, epilogue, first-person plural, and the Nantucket 'we'; opened SuperSummary's ending analysis confirming the epilogue's return to plural first person.",
+    "Opened the official Hachette title page, but its publisher synopsis was nondiagnostic for narrative person.",
+    "The Santa Barbara Public Library OverDrive excerpt result produced an internal-access error and was not used as evidence.",
+    "Targeted searches for ambiguous first-person Goodreads quotations showed that Brooke's insecurity passage is character material rather than a separate first-person narratorial strand."
+  ],
+  "person_note": "The 51 numbered chapters constitute the sustained base narration and use third person while shifting among Hollis and other focal characters. A communal first-person-plural voice appears only in the prologue and epilogue; those brief bookends are framing exceptions rather than a co-controlling base strand. Sustained Goodreads scenes and whole-book descriptions support THIRD. Confidence is medium because the authorized excerpt emphasizes the frame and the whole-book structural descriptions are Tier C.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_083",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:32:21.533390+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0a50002fc93d670a7a93ea73526bddbee0d5fe0ea34636c25a0b6f27240a1523"
+  }
+}

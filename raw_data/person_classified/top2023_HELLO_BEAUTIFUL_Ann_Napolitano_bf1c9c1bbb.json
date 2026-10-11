@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:HELLO BEAUTIFUL|Ann Napolitano",
+  "quotes": [
+    {
+      "quote_id": "q07951",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed she does not independently distinguish third-person narration from a participating narrator describing her."
+    },
+    {
+      "quote_id": "q07952",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first- and second-person pronouns identify the speaker and addressee, not the base narrator."
+    },
+    {
+      "quote_id": "q07953",
+      "person_signal": "non_base",
+      "note": "Kent's quoted speech dominates; the short speech tag does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q07954",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained story-specific narration of a protagonist."
+    },
+    {
+      "quote_id": "q07955",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech; we and you belong to the local speaker."
+    },
+    {
+      "quote_id": "q07956",
+      "person_signal": "non_base",
+      "note": "Context research identifies this as one of Arash's recited proverbs, so its I is not the base narrator."
+    },
+    {
+      "quote_id": "q07957",
+      "person_signal": "unmarked",
+      "note": "The external she wondered framing is compatible with third person but is too brief to establish a nonparticipating narrator by itself."
+    },
+    {
+      "quote_id": "q07958",
+      "person_signal": "third",
+      "note": "Sustained close narration presents Sylvie externally while reporting her reading, thoughts, and response without a participating narrator."
+    },
+    {
+      "quote_id": "q07959",
+      "person_signal": "non_base",
+      "note": "Context research places this first-person sentence inside Emeline's dialogue with Julia; the upstream event bucket reflects lost quotation context."
+    },
+    {
+      "quote_id": "q07960",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base, while the brief external action beats contain only bare third-person character references and are not independently diagnostic."
+    },
+    {
+      "quote_id": "q07961",
+      "person_signal": "unmarked",
+      "note": "The clipped quote omits the recovered framing, 'It occurred to him, for the first time'; this is William's locally framed thought, but the fragment alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q07962",
+      "person_signal": "non_base",
+      "note": "A quoted therapy exchange; I and you belong to William and the doctor, and the short tags are not diagnostic."
+    },
+    {
+      "quote_id": "q07963",
+      "person_signal": "third",
+      "note": "A sustained close-third passage presents Sylvie externally and renders her remembered expectations and feelings."
+    },
+    {
+      "quote_id": "q07964",
+      "person_signal": "non_base",
+      "note": "Carrie's quoted speech dominates; the short third-person frame does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q07965",
+      "person_signal": "non_base",
+      "note": "Direct address to William in character speech."
+    },
+    {
+      "quote_id": "q07966",
+      "person_signal": "non_base",
+      "note": "Conversational direct address using you and I, not second- or first-person base narration."
+    },
+    {
+      "quote_id": "q07967",
+      "person_signal": "third",
+      "note": "Several linked sentences sustain external she narration while rendering the focal character's embodied perceptions and family identification."
+    },
+    {
+      "quote_id": "q07968",
+      "person_signal": "non_base",
+      "note": "First-person character speech with only a local action beat."
+    },
+    {
+      "quote_id": "q07969",
+      "person_signal": "non_base",
+      "note": "Although clipped, the rhetorical question and I feel construction are recognizably local conversational speech, not controlling narration."
+    },
+    {
+      "quote_id": "q07970",
+      "person_signal": "unmarked",
+      "note": "A single statement about William does not by itself identify whether the narrator participates."
+    },
+    {
+      "quote_id": "q07971",
+      "person_signal": "unmarked",
+      "note": "One close-focalized sentence about Julia is compatible with third person but not independently conclusive."
+    },
+    {
+      "quote_id": "q07972",
+      "person_signal": "third",
+      "note": "Sustained external narration contrasts Julia and Sylvie and reports Sylvie's continuing internal aim."
+    },
+    {
+      "quote_id": "q07973",
+      "person_signal": "unmarked",
+      "note": "The sentence focalizes Sylvie in third person, but one named-character sentence does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q07974",
+      "person_signal": "unmarked",
+      "note": "A single they sentence supplies no sustained context capable of identifying the narrator."
+    },
+    {
+      "quote_id": "q07975",
+      "person_signal": "unmarked",
+      "note": "The isolated she passage is close-focalized but does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q07976",
+      "person_signal": "third",
+      "note": "Multiple linked sentences externally name Julia while narrating her realization, identity, and felt response in sustained close third person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241628263/9780241628263-sample.pdf",
+      "title": "Hello Beautiful by Ann Napolitano \u2014 publisher sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized 40-page Penguin sample sustains third-person narration around William and then Julia, including access to their thoughts; no participating narrator frames the prose."
+    },
+    {
+      "url": "https://www.gradesaver.com/hello-beautiful/study-guide/literary-elements",
+      "title": "Hello Beautiful Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies an anonymous third-person narrator for the novel."
+    },
+    {
+      "url": "https://avikinginla.com/tag/antti-tuomainen/",
+      "title": "Hello Beautiful by Ann Napolitano review \u2014 A Viking in LA",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reviewer explicitly reports that chapters rotate among character perspectives while remaining in third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Hello Beautiful\" \"Ann Napolitano\" excerpt publisher; found the Penguin Random House title page and an authorized Penguin UK 40-page sample.",
+    "Searched \"Hello Beautiful\" \"third person\", \"point of view\", \"narrator\", and \"multiple perspectives\"; found explicit whole-book descriptions from GradeSaver and a completed-reader review.",
+    "Opened the publisher sample and inspected its sustained opening prose, including the transition from William's to Julia's focalization.",
+    "Opened the GradeSaver and A Viking in LA pages and verified that their statements referred to the novel's narration rather than synopsis grammar.",
+    "Searched BookRags and review sources for structural corroboration; BookRags confirmed rotating perspectives among William, Sylvie, Julia, and Alice but did not explicitly name grammatical person, so it was not treated as direct person support.",
+    "Ran exact-phrase context searches for q07956, q07959, and q07961; these resolved the apparent first-person material as a recited proverb and Emeline's dialogue, and restored William's omitted third-person thought frame.",
+    "Targeted searches of Kirkus and BookBrowse did not yield accessible explicit narration-person evidence; no credible source described sustained first- or second-person sections."
+  ],
+  "person_note": "The controlling narration is close third person with rotating focalization among several characters, not an alternation of grammatical person. Goodreads excerpts repeatedly provide sustained third-person access to Sylvie, Julia, and other characters, and this agrees independently with the authorized opening sample and explicit whole-book descriptions. The apparent first-person exception in q07959 is Emeline's dialogue, while q07956 is a proverb characters recite; neither is a first-person narrative section. Some isolated or clipped quotes remain locally nondiagnostic, but there is no credible evidence of sustained first- or second-person base narration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.272193+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5017c134adea61863b9191f56b3b179d3f21da86f5b870949b43f505184a1f15"
+  }
+}

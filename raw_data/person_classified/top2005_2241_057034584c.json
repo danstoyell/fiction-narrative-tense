@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:2241",
+  "quotes": [
+    {
+      "quote_id": "q00241",
+      "person_signal": "third",
+      "note": "Narratorial reporting and access to Nora's prior reading sustain third-person reference outside dialogue; research identifies this as Nora's third-person strand."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/honeymoon/excerpt",
+      "title": "Honeymoon by James Patterson and Howard Roughan | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained excerpt reprinted with the publisher's permission narrates Nora externally in third person throughout the opening chapter."
+    },
+    {
+      "url": "https://jamesreasoner.blogspot.com/2005/09/honeymoonpatterson-roughan.html",
+      "title": "Honeymoon/Patterson & Roughan",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The full-book review explicitly identifies a mixture of first- and third-person narration; its structural observation is corroborated by multiple independent explicit reviews."
+    },
+    {
+      "url": "https://www.alwayswithabook.com/2010/11/review-honeymoon-by-james-patterson.html",
+      "title": "Review: Honeymoon by James Patterson",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Explicitly states that O'Hara's sections are first person and Nora's sections switch to third person, corroborating the whole-book mixed-person structure."
+    },
+    {
+      "url": "https://thebooksheread.wordpress.com/2015/01/14/james-patterson-and-howard-roughan-honeymoon/",
+      "title": "James Patterson and Howard Roughan, \u201cHoneymoon\u201d",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Independently reports that Nora's passages are third person while O'Hara's are first person, completing multiple-source Tier B structural evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Honeymoon\" \"James Patterson\" \"Howard Roughan\" excerpt and opened the permission-authorized Bookreporter opening.",
+    "Searched \"Honeymoon\" Patterson Roughan first person, third person, narrator, point of view, and alternating narration.",
+    "Opened explicit whole-book discussions from Rough Edges, Always With a Book, and The Book She Read; all converge on first-person O'Hara sections and third-person Nora sections.",
+    "Checked Google Books, the author/publisher page, Hachette audiobook metadata, Barnes & Noble, and library/OverDrive results; previews or metadata there did not independently expose the complete person structure.",
+    "Found no credible source describing the novel as uniformly first or uniformly third person."
+  ],
+  "person_note": "The novel has sustained narration in two persons: Nora Sinclair's sections use third person, while FBI agent John O'Hara narrates his sections in first person. The supplied quote belongs to Nora's third-person strand and agrees with the authorized opening. Multiple independent whole-book structural descriptions establish the O'Hara first-person strand and the recurring switch, so isolated speech or thought is not driving the ALTERNATING label. No credible structural conflict was found; the main coverage limitation is that the supplied quote samples only Nora's strand.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.240202+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "32300defdd2457b7b6576ca1b8275fffaba1b5c93e09e6ce4104266ee7d9ba04"
+  }
+}

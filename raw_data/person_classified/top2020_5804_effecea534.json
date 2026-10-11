@@ -1,0 +1,455 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:5804",
+  "quotes": [
+    {
+      "quote_id": "q04965",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person aphorism; it does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q04966",
+      "person_signal": "unmarked",
+      "note": "The brief third-person thought attribution is compatible with, but does not alone establish, third-person base narration."
+    },
+    {
+      "quote_id": "q04967",
+      "person_signal": "non_base",
+      "note": "Standalone rhetorical maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q04968",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; its inclusive pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q04969",
+      "person_signal": "non_base",
+      "note": "Universal second-person advice, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04970",
+      "person_signal": "non_base",
+      "note": "Aphoristic we-statement rather than participating narration."
+    },
+    {
+      "quote_id": "q04971",
+      "person_signal": "non_base",
+      "note": "Standalone historical aphorism with no narratorial frame."
+    },
+    {
+      "quote_id": "q04972",
+      "person_signal": "non_base",
+      "note": "Extended gnomic reflection; its generic she and we do not establish narrative person."
+    },
+    {
+      "quote_id": "q04973",
+      "person_signal": "non_base",
+      "note": "Standalone generalization without narrative-person evidence."
+    },
+    {
+      "quote_id": "q04974",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical address rather than sustained second-person storytelling."
+    },
+    {
+      "quote_id": "q04975",
+      "person_signal": "third",
+      "note": "Sustained external narration places Cromwell as he in Whitehall; the you-passages are focalized rhetorical thought."
+    },
+    {
+      "quote_id": "q04976",
+      "person_signal": "unmarked",
+      "note": "A short focalized description of a prince whose third-person subject alone is not decisive."
+    },
+    {
+      "quote_id": "q04977",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narratorial position."
+    },
+    {
+      "quote_id": "q04978",
+      "person_signal": "third",
+      "note": "Sustained narration externally presents Cromwell as he; the generic you-sentence remains within his focalized reflection."
+    },
+    {
+      "quote_id": "q04979",
+      "person_signal": "third",
+      "note": "Extended external account of Henry and Cromwell\u2019s focalized counsel supports third-person narration."
+    },
+    {
+      "quote_id": "q04980",
+      "person_signal": "unmarked",
+      "note": "Brief statement about Henry and Cromwell lacks enough local context to identify narrator participation."
+    },
+    {
+      "quote_id": "q04981",
+      "person_signal": "unmarked",
+      "note": "A short he-thinks attribution surrounds embedded remembered advice but is not independently decisive."
+    },
+    {
+      "quote_id": "q04982",
+      "person_signal": "non_base",
+      "note": "First-person wording is Cromwell\u2019s free-direct inner thought, not a participating base narrator."
+    },
+    {
+      "quote_id": "q04983",
+      "person_signal": "unmarked",
+      "note": "Single third-person sentence about the focal character is insufficient by itself."
+    },
+    {
+      "quote_id": "q04984",
+      "person_signal": "non_base",
+      "note": "Reported speech and quoted sayings dominate; their pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q04985",
+      "person_signal": "non_base",
+      "note": "Gnomic conditional statement without story-specific narration."
+    },
+    {
+      "quote_id": "q04986",
+      "person_signal": "non_base",
+      "note": "Direct first-person speech with no external narration beat."
+    },
+    {
+      "quote_id": "q04987",
+      "person_signal": "non_base",
+      "note": "First-person sentence is a localized Cromwell thought in the novel\u2019s close third-person focalization."
+    },
+    {
+      "quote_id": "q04988",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q04989",
+      "person_signal": "third",
+      "note": "Sustained execution-scene narration externally tracks Cromwell and the witnesses; us is a local inclusive aside."
+    },
+    {
+      "quote_id": "q04990",
+      "person_signal": "non_base",
+      "note": "Generic advice about kings, not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q04991",
+      "person_signal": "non_base",
+      "note": "Gnomic historical aside without narrator-participation evidence."
+    },
+    {
+      "quote_id": "q04992",
+      "person_signal": "third",
+      "note": "The scene externally narrates Rafe and Cromwell and explicitly attributes Cromwell\u2019s interior reflection as he thinks."
+    },
+    {
+      "quote_id": "q04993",
+      "person_signal": "third",
+      "note": "Substantial scene narration presents the participants externally around embedded dialogue."
+    },
+    {
+      "quote_id": "q04994",
+      "person_signal": "non_base",
+      "note": "General we-aphorism does not establish a participating narrator."
+    },
+    {
+      "quote_id": "q04995",
+      "person_signal": "non_base",
+      "note": "The sustained you is Cromwell\u2019s focalized self-address and recollection, not the book\u2019s controlling narrative person."
+    },
+    {
+      "quote_id": "q04996",
+      "person_signal": "non_base",
+      "note": "The first-person passage is explicitly introduced as Cromwell\u2019s thought and is therefore local inner speech."
+    },
+    {
+      "quote_id": "q04997",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; brief action and speech tags do not provide diagnostic narrator evidence."
+    },
+    {
+      "quote_id": "q04998",
+      "person_signal": "unmarked",
+      "note": "Brief third-person statement about the focal character is insufficient alone."
+    },
+    {
+      "quote_id": "q04999",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q05000",
+      "person_signal": "non_base",
+      "note": "Aphoristic second-person phrasing does not identify the base narrator."
+    },
+    {
+      "quote_id": "q05001",
+      "person_signal": "non_base",
+      "note": "Universal second-person proposition, not controlling second-person narration."
+    },
+    {
+      "quote_id": "q05002",
+      "person_signal": "non_base",
+      "note": "Gnomic personification and generic you are nondiagnostic."
+    },
+    {
+      "quote_id": "q05003",
+      "person_signal": "unmarked",
+      "note": "A short sentence about his emotional state does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q05004",
+      "person_signal": "unmarked",
+      "note": "Character-focused description of Henry contains no explicit evidence about whether the narrator participates."
+    },
+    {
+      "quote_id": "q05005",
+      "person_signal": "non_base",
+      "note": "First-person pronoun occurs inside attributed speech."
+    },
+    {
+      "quote_id": "q05006",
+      "person_signal": "non_base",
+      "note": "Extended speech and reported address dominate; we belongs to Cromwell\u2019s address to the king."
+    },
+    {
+      "quote_id": "q05007",
+      "person_signal": "non_base",
+      "note": "Conversational first- and second-person pronouns are inside dialogue."
+    },
+    {
+      "quote_id": "q05008",
+      "person_signal": "non_base",
+      "note": "First-person sentence is localized free-direct thought from Cromwell, not base narration."
+    },
+    {
+      "quote_id": "q05009",
+      "person_signal": "third",
+      "note": "The family situation is externally framed and the interior reflection is explicitly attributed as he thinks."
+    },
+    {
+      "quote_id": "q05010",
+      "person_signal": "non_base",
+      "note": "Story-specific first person represents Cromwell\u2019s local inner voice within close third-person narration."
+    },
+    {
+      "quote_id": "q05011",
+      "person_signal": "third",
+      "note": "Sustained exposition externally identifies and characterizes Thomas Cromwell as a story-world figure."
+    },
+    {
+      "quote_id": "q05012",
+      "person_signal": "unclear",
+      "note": "The clipped descriptive fragment contains no recoverable narratorial frame."
+    },
+    {
+      "quote_id": "q05013",
+      "person_signal": "non_base",
+      "note": "Dialogue, quoted verse, and speech beats dominate; visible first person belongs to speakers."
+    },
+    {
+      "quote_id": "q05014",
+      "person_signal": "non_base",
+      "note": "Rafe\u2019s extended speech supplies the first-person plural forms."
+    },
+    {
+      "quote_id": "q05015",
+      "person_signal": "non_base",
+      "note": "Standalone metaphorical aphorism without narrator evidence."
+    },
+    {
+      "quote_id": "q05016",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition identifies no narrator or focal protagonist by person."
+    },
+    {
+      "quote_id": "q05017",
+      "person_signal": "non_base",
+      "note": "The first-person lament is Cromwell\u2019s localized inner thought, not a first-person base narrator."
+    },
+    {
+      "quote_id": "q05018",
+      "person_signal": "third",
+      "note": "Externally presented he-sentences track Cromwell; the final you is a focalized rhetorical aside."
+    },
+    {
+      "quote_id": "q05019",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical question rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q05020",
+      "person_signal": "third",
+      "note": "Extended Antwerp backstory repeatedly presents Cromwell externally as he, with focalized generic you-passages."
+    },
+    {
+      "quote_id": "q05021",
+      "person_signal": "third",
+      "note": "Sustained external characterization presents Henry as he; the generic your is an aphoristic aside."
+    },
+    {
+      "quote_id": "q05022",
+      "person_signal": "unmarked",
+      "note": "Brief external description of Henry is compatible with third person but not independently decisive."
+    },
+    {
+      "quote_id": "q05023",
+      "person_signal": "third",
+      "note": "The corpse\u2019s movement is narrated externally before a clearly attributed spoken exchange."
+    },
+    {
+      "quote_id": "q05024",
+      "person_signal": "third",
+      "note": "The execution is reported across several externally narrated sentences about Anne."
+    },
+    {
+      "quote_id": "q05025",
+      "person_signal": "third",
+      "note": "The passage externally distinguishes Cromwell as he and the woman as she; generic you is focalized commentary."
+    },
+    {
+      "quote_id": "q05026",
+      "person_signal": "non_base",
+      "note": "Extended universal second-person meditation, explicitly gnomic rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q05027",
+      "person_signal": "unclear",
+      "note": "Clipping and missing attribution leave unresolved whether this second-person reflection is speech or thought."
+    },
+    {
+      "quote_id": "q05028",
+      "person_signal": "non_base",
+      "note": "The passage is framed as Cromwell\u2019s earlier address to Cranmer and includes quoted royal speech."
+    },
+    {
+      "quote_id": "q05029",
+      "person_signal": "unclear",
+      "note": "Unattributed verse contains first person but its speaker and relation to the narrative remain unresolved."
+    },
+    {
+      "quote_id": "q05030",
+      "person_signal": "non_base",
+      "note": "Aphoristic generalization without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q05031",
+      "person_signal": "non_base",
+      "note": "Standalone proverbial line rather than narrative."
+    },
+    {
+      "quote_id": "q05032",
+      "person_signal": "non_base",
+      "note": "Gnomic observation with no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q05033",
+      "person_signal": "non_base",
+      "note": "Direct speech dominates; third-person tags are too brief to establish narrative person."
+    },
+    {
+      "quote_id": "q05034",
+      "person_signal": "third",
+      "note": "Sustained narration externally presents Cromwell\u2019s activities, comparison, and intentions as he."
+    },
+    {
+      "quote_id": "q05035",
+      "person_signal": "unmarked",
+      "note": "Story-world generalization about the faithful does not identify narrator participation."
+    },
+    {
+      "quote_id": "q05036",
+      "person_signal": "unmarked",
+      "note": "The story-specific referent is called his, but the passage alone does not expose the narrator\u2019s status."
+    },
+    {
+      "quote_id": "q05037",
+      "person_signal": "non_base",
+      "note": "First-person and hypothetical forms occur in Jane\u2019s attributed speech."
+    },
+    {
+      "quote_id": "q05038",
+      "person_signal": "third",
+      "note": "A sustained episode externally introduces Dalyvell and narrates his imprisonment and claims."
+    },
+    {
+      "quote_id": "q05039",
+      "person_signal": "non_base",
+      "note": "Dialogue controls the passage; brief external action beats are nondiagnostic."
+    },
+    {
+      "quote_id": "q05040",
+      "person_signal": "non_base",
+      "note": "Norfolk\u2019s attributed speech contains the second-person form."
+    },
+    {
+      "quote_id": "q05041",
+      "person_signal": "unmarked",
+      "note": "Story-specific exposition gives no direct evidence of narrator participation."
+    },
+    {
+      "quote_id": "q05042",
+      "person_signal": "non_base",
+      "note": "Standalone proverb rather than base narration."
+    },
+    {
+      "quote_id": "q05043",
+      "person_signal": "non_base",
+      "note": "First-person forms occur entirely in Norfolk\u2019s attributed speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9780805096606/themirrorthelight/",
+      "title": "The Mirror & the Light",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s sustained authorized opening repeatedly presents Cromwell externally as he and he, Cromwell; it also explicitly tags a first-person sentence as his thought, demonstrating the novel\u2019s close third-person technique."
+    },
+    {
+      "url": "https://caponeu.ffzg.unizg.hr/cdp/novels/the-wolf-hall-trilogy",
+      "title": "The Wolf Hall Trilogy",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This EU-funded literary-research project describes the trilogy, including The Mirror and the Light, as told entirely through Cromwell\u2019s point of view in a strictly focalized third-person perspective."
+    },
+    {
+      "url": "https://mg.co.za/article/2020-03-04-review-the-mirror-the-light-or-the-fall-of-thomas-cromwell/",
+      "title": "Review: \u2018The Mirror & the Light\u2019 or, the fall of Thomas Cromwell",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly says Cromwell is written in intimate third person and explains that Mantel uses he, Cromwell rather than a first-person I narrator."
+    },
+    {
+      "url": "https://www.theringer.com/2020/03/19/books/hilary-mantel-thomas-cromwell-the-mirror-and-the-light",
+      "title": "History Is Written by Hilary Mantel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The technical discussion identifies the Cromwell books\u2019 method as third-person free-indirect narration and explains that the trilogy adheres closely to Cromwell\u2019s perspective while referring to him as he."
+    }
+  ],
+  "search_log": [
+    "Searched for publisher and authorized extracts using: site:us.macmillan.com \"The Mirror and the Light\" excerpt Hilary Mantel; opened the Henry Holt/Macmillan book page and read its sustained opening extract.",
+    "Searched for explicit structure and person descriptions using: \"The Mirror and the Light\" \"third person\" Hilary Mantel narration; opened the Mail & Guardian review and The Ringer\u2019s technical analysis.",
+    "Searched scholarly and research sources using: site:cambridge.org \"The Mirror and the Light\" narration third person and \"Bodily Abounds\" \"The Mirror and the Light\" Cixousian third-person; the Cambridge result centered on tense, while the full PMC page encountered a browser check.",
+    "Opened the accessible CAPONEU Wolf Hall Trilogy research entry, which explicitly covers the trilogy\u2019s whole-book third-person focalization.",
+    "Searched for epistolary, diary, frame, multiple-narrator, and alternating-POV descriptions; found no credible evidence of sustained base narration in another person."
+  ],
+  "person_note": "The controlling narration is close, present-tense third person, focalized almost entirely through Thomas Cromwell. Numerous sustained quotes externally present Cromwell and other characters as he, she, or by name, agreeing with the authorized opening and the whole-trilogy structural analysis. The isolated story-specific I-passages and several you-passages are free-direct thought, self-address, remembered speech, or focalized generalization; the publisher excerpt itself demonstrates this technique by following a first-person sentence with he thinks. Dialogue and gnomic pronouns likewise do not alter the base person. No researched source indicates sustained first- or second-person chapters, a frame, or alternating narration. The only minor uncertainty is attribution of a few clipped standalone thoughts, but it does not affect the strongly corroborated third-person classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_072",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T12:58:44.008361+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "81c5b6bb0bc09f60483431593a4444b174ac2286198a541fc4d29597b911db36"
+  }
+}

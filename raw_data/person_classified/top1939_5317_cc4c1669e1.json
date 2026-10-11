@@ -1,0 +1,520 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1939:5317",
+  "quotes": [
+    {
+      "quote_id": "q00250",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; no diagnostic base-narrator voice."
+    },
+    {
+      "quote_id": "q00251",
+      "person_signal": "non_base",
+      "note": "Gnomic historical assertion, not story narration."
+    },
+    {
+      "quote_id": "q00252",
+      "person_signal": "unmarked",
+      "note": "A brief sentence about a female character could occur under either first- or third-person narration."
+    },
+    {
+      "quote_id": "q00253",
+      "person_signal": "unmarked",
+      "note": "Collective authorial imagery contains no participating narrator, but the clipped sentence alone does not establish person."
+    },
+    {
+      "quote_id": "q00254",
+      "person_signal": "non_base",
+      "note": "Gnomic contrast between rhetorical \u201cI\u201d and \u201cwe,\u201d not narrator participation."
+    },
+    {
+      "quote_id": "q00255",
+      "person_signal": "non_base",
+      "note": "Character speech; its second-person pronouns do not expose the base narrator."
+    },
+    {
+      "quote_id": "q00256",
+      "person_signal": "unmarked",
+      "note": "Brief figurative narration without a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00257",
+      "person_signal": "non_base",
+      "note": "Character speech; the first-person plural is local."
+    },
+    {
+      "quote_id": "q00258",
+      "person_signal": "non_base",
+      "note": "Gnomic definition of humanity, not narrative-person evidence."
+    },
+    {
+      "quote_id": "q00259",
+      "person_signal": "non_base",
+      "note": "Character speech; visible pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00260",
+      "person_signal": "third",
+      "note": "Sustained external scene-setting describes the landscape without a participating narrator."
+    },
+    {
+      "quote_id": "q00261",
+      "person_signal": "non_base",
+      "note": "Dramatized dialogue among tenant men and bank representatives; local pronouns are not the base narrator."
+    },
+    {
+      "quote_id": "q00262",
+      "person_signal": "third",
+      "note": "Sustained external narration repeatedly describes Ma and enters her knowledge and practiced responses."
+    },
+    {
+      "quote_id": "q00263",
+      "person_signal": "third",
+      "note": "A sustained interchapter surveys families and social change externally; quoted \u201cI/we\u201d formulas and direct address are rhetorical voices within that narration."
+    },
+    {
+      "quote_id": "q00264",
+      "person_signal": "non_base",
+      "note": "Character speech and generalized advice, not base narration."
+    },
+    {
+      "quote_id": "q00265",
+      "person_signal": "non_base",
+      "note": "Ma\u2019s marked speech; its collective pronouns are local."
+    },
+    {
+      "quote_id": "q00266",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address about humanity, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00267",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, the dialectal first-person sentence is evidently clipped character speech, a probable upstream bucket issue."
+    },
+    {
+      "quote_id": "q00268",
+      "person_signal": "non_base",
+      "note": "Tom\u2019s sustained speech; repeated \u201cI\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00269",
+      "person_signal": "non_base",
+      "note": "Character speech describing the bank metaphor."
+    },
+    {
+      "quote_id": "q00270",
+      "person_signal": "non_base",
+      "note": "Character speech/direct address, not second-person narration."
+    },
+    {
+      "quote_id": "q00271",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about humanity."
+    },
+    {
+      "quote_id": "q00272",
+      "person_signal": "unmarked",
+      "note": "A short sentence about a female character is not sufficient to determine narrator participation."
+    },
+    {
+      "quote_id": "q00273",
+      "person_signal": "non_base",
+      "note": "Character speech; generalized \u201cyou\u201d is nondiagnostic."
+    },
+    {
+      "quote_id": "q00274",
+      "person_signal": "third",
+      "note": "Sustained external narration surveys multiple owners, their motives, and their mental states before quoting them."
+    },
+    {
+      "quote_id": "q00275",
+      "person_signal": "non_base",
+      "note": "A character\u2019s extended generalizing speech, not base narration."
+    },
+    {
+      "quote_id": "q00276",
+      "person_signal": "non_base",
+      "note": "Gnomic authorial lament rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00277",
+      "person_signal": "non_base",
+      "note": "Predominantly quoted character speech with only a short speech tag."
+    },
+    {
+      "quote_id": "q00278",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cyou,\u201d \u201cwe,\u201d and \u201cus\u201d belong to the speaker."
+    },
+    {
+      "quote_id": "q00279",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address about humanity, not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00280",
+      "person_signal": "non_base",
+      "note": "Dialogue between Ma and Tom; collective first person is local speech."
+    },
+    {
+      "quote_id": "q00281",
+      "person_signal": "non_base",
+      "note": "Paratextual author statement, not narration in the novel."
+    },
+    {
+      "quote_id": "q00282",
+      "person_signal": "non_base",
+      "note": "Character speech presenting a general philosophy."
+    },
+    {
+      "quote_id": "q00283",
+      "person_signal": "unmarked",
+      "note": "A single sentence about a male character does not by itself establish third-person base narration."
+    },
+    {
+      "quote_id": "q00284",
+      "person_signal": "non_base",
+      "note": "Paratextual biblical quotation, not the novel\u2019s narrator."
+    },
+    {
+      "quote_id": "q00285",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed Tom Joad speech; repeated \u201cI\u201d is local."
+    },
+    {
+      "quote_id": "q00286",
+      "person_signal": "unmarked",
+      "note": "Brief external-looking sentence, but no narrator participation is exposed."
+    },
+    {
+      "quote_id": "q00287",
+      "person_signal": "third",
+      "note": "Sustained omniscient narration surveys the women and men collectively and reports their fear, anger, and relief."
+    },
+    {
+      "quote_id": "q00288",
+      "person_signal": "non_base",
+      "note": "Character speech/direct address."
+    },
+    {
+      "quote_id": "q00289",
+      "person_signal": "non_base",
+      "note": "Character speech; generalized \u201cyou\u201d is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00290",
+      "person_signal": "third",
+      "note": "Long external passage follows tractors and a driver, repeatedly entering the driver\u2019s perceptions and attitudes without a participating narrator."
+    },
+    {
+      "quote_id": "q00291",
+      "person_signal": "non_base",
+      "note": "Gnomic socioeconomic statement."
+    },
+    {
+      "quote_id": "q00292",
+      "person_signal": "non_base",
+      "note": "Tom\u2019s marked dialogue; first person and direct address belong to him."
+    },
+    {
+      "quote_id": "q00293",
+      "person_signal": "unmarked",
+      "note": "Brief description of clouds without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00294",
+      "person_signal": "unmarked",
+      "note": "A single assertion about companies\u2019 knowledge is insufficient alone to establish base person."
+    },
+    {
+      "quote_id": "q00295",
+      "person_signal": "unmarked",
+      "note": "Generalized collective narration lacks a diagnostic narrator reference in this short excerpt."
+    },
+    {
+      "quote_id": "q00296",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about the land."
+    },
+    {
+      "quote_id": "q00297",
+      "person_signal": "unmarked",
+      "note": "This appears to mix an authorial collective \u201cour\u201d with external commentary despite its dialogue bucket; the collective identification does not make the narrator a participating character."
+    },
+    {
+      "quote_id": "q00298",
+      "person_signal": "third",
+      "note": "Sustained omniscient interchapter narration surveys many migrant families and their shared emotions and social organization."
+    },
+    {
+      "quote_id": "q00299",
+      "person_signal": "non_base",
+      "note": "Character speech; second person is local address."
+    },
+    {
+      "quote_id": "q00300",
+      "person_signal": "non_base",
+      "note": "Paratextual first-person author statement, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q00301",
+      "person_signal": "non_base",
+      "note": "Paratextual statement by Steinbeck about his intended effect on readers."
+    },
+    {
+      "quote_id": "q00302",
+      "person_signal": "non_base",
+      "note": "Character speech with repeated local second-person address."
+    },
+    {
+      "quote_id": "q00303",
+      "person_signal": "third",
+      "note": "Sustained external narration describes businessmen collectively and reveals their anxieties, self-deception, and private knowledge."
+    },
+    {
+      "quote_id": "q00304",
+      "person_signal": "unmarked",
+      "note": "Short generalized sentence about women and children; person remains unexposed."
+    },
+    {
+      "quote_id": "q00305",
+      "person_signal": "third",
+      "note": "Several external action sentences narrate a man handling the box before introducing his speech."
+    },
+    {
+      "quote_id": "q00306",
+      "person_signal": "non_base",
+      "note": "Character speech/general maxim."
+    },
+    {
+      "quote_id": "q00307",
+      "person_signal": "non_base",
+      "note": "A character\u2019s extended first-person speech."
+    },
+    {
+      "quote_id": "q00308",
+      "person_signal": "non_base",
+      "note": "Gnomic definition of humanity."
+    },
+    {
+      "quote_id": "q00309",
+      "person_signal": "third",
+      "note": "Substantial external scene narration tracks Connie, Rose of Sharon, Casy, the firelight, and the gathered people around embedded dialogue."
+    },
+    {
+      "quote_id": "q00310",
+      "person_signal": "non_base",
+      "note": "Character speech; first-person plural is local."
+    },
+    {
+      "quote_id": "q00311",
+      "person_signal": "non_base",
+      "note": "Character speech containing an embedded anecdote."
+    },
+    {
+      "quote_id": "q00312",
+      "person_signal": "non_base",
+      "note": "Character speech/general observation."
+    },
+    {
+      "quote_id": "q00313",
+      "person_signal": "non_base",
+      "note": "A character\u2019s first-person speech about sin."
+    },
+    {
+      "quote_id": "q00314",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue and a character-told family anecdote; brief speech tags do not supply sustained base narration."
+    },
+    {
+      "quote_id": "q00315",
+      "person_signal": "non_base",
+      "note": "Character speech recounting an anecdote; first person belongs to the speaker."
+    },
+    {
+      "quote_id": "q00316",
+      "person_signal": "unmarked",
+      "note": "A short sentence about a female character cannot determine narrator participation."
+    },
+    {
+      "quote_id": "q00317",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address with quoted \u201cI/we\u201d formulas, not first- or second-person story narration."
+    },
+    {
+      "quote_id": "q00318",
+      "person_signal": "non_base",
+      "note": "Character speech with local first- and second-person pronouns."
+    },
+    {
+      "quote_id": "q00319",
+      "person_signal": "non_base",
+      "note": "Casy\u2019s explicitly marked first-person speech, not base narration."
+    },
+    {
+      "quote_id": "q00320",
+      "person_signal": "non_base",
+      "note": "Character speech and generalized direct address."
+    },
+    {
+      "quote_id": "q00321",
+      "person_signal": "third",
+      "note": "Sustained external narration follows unnamed men\u2019s actions and possible injuries from outside the story."
+    },
+    {
+      "quote_id": "q00322",
+      "person_signal": "non_base",
+      "note": "Character speech addressing another person."
+    },
+    {
+      "quote_id": "q00323",
+      "person_signal": "unmarked",
+      "note": "The short description of one male character, though externally phrased, is insufficient alone to establish narrator person."
+    },
+    {
+      "quote_id": "q00324",
+      "person_signal": "third",
+      "note": "Extended external scene narration repeatedly identifies the one-eyed man and Tom, describes actions and tears, and frames their dialogue."
+    },
+    {
+      "quote_id": "q00325",
+      "person_signal": "unmarked",
+      "note": "A single sentence about a male character\u2019s perception does not independently establish base person."
+    },
+    {
+      "quote_id": "q00326",
+      "person_signal": "non_base",
+      "note": "Character speech with generalized \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00327",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed Muley speech; repeated \u201cyou\u201d is generic address."
+    },
+    {
+      "quote_id": "q00328",
+      "person_signal": "non_base",
+      "note": "Steinbeck\u2019s paratextual writing journal, not a narrator in the novel."
+    },
+    {
+      "quote_id": "q00329",
+      "person_signal": "non_base",
+      "note": "Character speech; first person is local."
+    },
+    {
+      "quote_id": "q00330",
+      "person_signal": "non_base",
+      "note": "Character speech; first person is local."
+    },
+    {
+      "quote_id": "q00331",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cwe\u2019re men\u201d is local collective identification."
+    },
+    {
+      "quote_id": "q00332",
+      "person_signal": "non_base",
+      "note": "Dramatized tenant speech; first-person plural does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00333",
+      "person_signal": "non_base",
+      "note": "Character speech/general maxim."
+    },
+    {
+      "quote_id": "q00334",
+      "person_signal": "non_base",
+      "note": "Character speech directly addressing another person."
+    },
+    {
+      "quote_id": "q00335",
+      "person_signal": "non_base",
+      "note": "A character-told embedded anecdote, not base narration."
+    },
+    {
+      "quote_id": "q00336",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about humanity and land."
+    },
+    {
+      "quote_id": "q00337",
+      "person_signal": "non_base",
+      "note": "Dialogue containing an embedded story and local first-person remarks."
+    },
+    {
+      "quote_id": "q00338",
+      "person_signal": "unmarked",
+      "note": "Brief generalized statement, with dialectal wording, does not securely expose narrator participation."
+    },
+    {
+      "quote_id": "q00339",
+      "person_signal": "non_base",
+      "note": "Paratextual note about the book\u2019s language, not novel narration."
+    },
+    {
+      "quote_id": "q00340",
+      "person_signal": "non_base",
+      "note": "Dialogue between tenant and representative; first-person pronouns are local speech."
+    },
+    {
+      "quote_id": "q00341",
+      "person_signal": "third",
+      "note": "Sustained external historical narration surveys Americans and Mexicans, their actions, desires, and relative power."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.arts.gov/sites/default/files/Steinbeck_TG2014.pdf",
+      "title": "The Big Read: The Grapes of Wrath \u2014 Lesson Three, Narrative and Point of View",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The National Endowment for the Arts guide explicitly identifies the novel\u2019s narrator as a limited-omniscient third-person voice and explains that the narration alternates in focus between the Joads and migrants collectively."
+    },
+    {
+      "url": "https://iu.pressbooks.pub/prosefiction/chapter/chapter-5-narration/",
+      "title": "Narration \u2014 Prose Fiction: An Introduction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An academic narratology textbook gives The Grapes of Wrath as an example of third-person fiction told by a narrator who does not participate in the story."
+    },
+    {
+      "url": "https://steinbeck.stanford.edu/multi",
+      "title": "The Grapes of Wrath as a Multigenre, Multivocal Text",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The Steinbeck Institute describes the interchapters as heteroglossic mixtures of narrator, authorial, folk, professional, and dialogic voices. This supports treating local first-person social voices as embedded discourse rather than automatically as a new base narrator."
+    },
+    {
+      "url": "https://www.utupub.fi/server/api/core/bitstreams/40588a08-d9a5-4e3c-8862-488d404f6fbd/content",
+      "title": "Place in John Steinbeck\u2019s The Grapes of Wrath and The Red Pony",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "This University of Turku thesis calls Chapter 7 first-person and Chapter 25 third-person, but also explains the contrast as changing focalization through figures such as the car salesman. It is relevant contrary terminology, though it does not establish a continuing first-person narrator alongside the external narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Grapes of Wrath John Steinbeck point of view third person narrator alternating intercalary chapters scholarly\u201d; found and opened the NEA guide, Indiana University Pressbooks narratology text, Steinbeck Institute lesson, and University of Turku thesis.",
+    "Searched \u201cThe Grapes of Wrath official excerpt first chapter Penguin\u201d and opened Penguin Random House and Penguin pages; the available publisher material was chiefly catalog copy and a scholarly introduction rather than a sustained excerpt of the novel, so it was not used as direct person evidence.",
+    "Searched \u201cThe Grapes of Wrath narrative point of view third person academic\u201d and \u201cThe Grapes of Wrath full text chapter 1 archive.org\u201d; inaccessible or unauthorized full-text copies were not used as evidence.",
+    "Followed up with \u201cGrapes of Wrath chapter 7 first person narrator used car salesman scholarly\u201d and related Chapter 7 searches to test for alternating narration; results consistently described the passage as a used-car-salesman monologue or salesman focalization within an interchapter.",
+    "Searched the exact \u201cOur people are good people\u201d passage to check q00297; surrounding text shows an interchapter moving among unattributed dialogue, collective authorial phrasing, and external narration, not a stable participating first-person narrator."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly show a nonparticipating, externally positioned narrator with broad access to individual and collective mental states. First-person material in the sample is overwhelmingly character dialogue, quoted collective formulas, rhetorical identification, or Steinbeck\u2019s paratextual working journal. The novel\u2019s interchapters do vary voice and genre: most notably, Chapter 7 sustains a used-car-salesman monologue, and one scholarly source calls that a first-person change. The Steinbeck Institute\u2019s account of heteroglossia and the chapter\u2019s dramatized salesman focalization make that local social voice better treated as embedded discourse than as an autonomous controlling narrator. Both the NEA guide and an academic narratology textbook explicitly classify the whole novel\u2019s narrator as third-person and nonparticipating. The main residual uncertainty is terminological treatment of Chapter 7, but the controlling base narration remains THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_003",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:31:00.745357+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6ca32d489149f485e591284e3603c42da8456cdef94ba993140e8c38cc75bea6"
+  }
+}

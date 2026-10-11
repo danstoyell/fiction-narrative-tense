@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1937:3337",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "Character speech; the general claim contains no base-narrator signal."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns occur in character dialogue."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "unmarked",
+      "note": "Impersonal base narration, but this isolated description does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Character speech and generic commentary, not base narration."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but a single third-person subject is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "The generic 'you' occurs in character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "non_base",
+      "note": "First-person forms belong to a speaking character."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "'We' and 'you' occur in character dialogue."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "non_base",
+      "note": "Lennie's first-person speech does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "Gnomic, apparently extratextual material rather than the novella's controlling narration."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "non_base",
+      "note": "Candy's first-person dialogue is a local character voice."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "non_base",
+      "note": "First-person plural character speech, not narratorial participation."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "The passage is chiefly dialogue; its brief third-person speech beat is not sufficient by itself."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "Character dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "First-person forms occur inside dialogue; the brief speech beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "George's first-person speech is a character voice."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "unmarked",
+      "note": "External scenic description is compatible with third-person narration but lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "Crooks's first-person account occurs wholly in dialogue."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "A character's first-person question, not base narration."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "The first-person plural claim is dialogue; the short attribution alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally tracks Crooks and Curley's wife around their dialogue without a participating narrator."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "unmarked",
+      "note": "Base scenic narration is visible, but the animal description alone does not conclusively identify narrator person."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "Embedded character speech, including another person's reported speech."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "unmarked",
+      "note": "Impersonal setting description contains no diagnostic narrator pronoun or participation."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in character dialogue."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "third",
+      "note": "Extended external narration follows several characters' movements and reactions across a complete scene."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.fadedpage.com/books/20210154/html.php",
+      "title": "Of Mice and Men \u2014 Distributed Proofreaders Canada eBook",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete legally posted Canadian public-domain text consistently uses an external narrator across the opening, interior, and ending; first-person forms are confined to character speech."
+    },
+    {
+      "url": "https://digilib.k.utb.cz/bitstream/handle/10563/37225/andr%C3%BDskov%C3%A1_2016_dp.pdf?sequence=1",
+      "title": "The Great Depression in John Steinbeck\u2019s Of Mice and Men",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This university thesis analyzes the novella's six-chapter structure and explicitly identifies its narrator as third-person omniscient and nonjudgmental."
+    },
+    {
+      "url": "https://cris.brighton.ac.uk/ws/files/31914317/THESIS_Complete_FV_post_VIVA_11_Jan.pdf",
+      "title": "Enablers of and barriers to reading in Key Stage 3 English: a participatory case study using Reader Response to explore reader interaction with fiction",
+      "tier": "B",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The doctoral thesis closely analyzes the first five paragraphs and identifies third-person address and an onlooker-like, filmic narrational style; its scope is limited to the opening."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/mice-and-men",
+      "title": "Of Mice and Men",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The critical overview describes the novel's point of view as generally objective, not aligned with one character, and explicitly third-person."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/micemen/point-of-view/",
+      "title": "Of Mice and Men: Point of View",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The dedicated point-of-view analysis explicitly classifies the novella as omniscient third-person and notes its objective descriptions of spaces without characters present."
+    }
+  ],
+  "search_log": [
+    "Searched \"site:penguinrandomhouse.com Of Mice and Men John Steinbeck excerpt\" and related publisher-excerpt queries; the Hachette edition page displayed a Read Excerpt label but exposed no excerpt text.",
+    "Searched \"Of Mice and Men point of view third person narrator scholarly\" and \"Of Mice and Men narrator third person omniscient literary analysis\"; opened the explicit SparkNotes and Encyclopedia.com analyses.",
+    "Searched university and academic domains for \"Of Mice and Men\" with \"third-person narrator\" and opened the TBU bachelor thesis and University of Brighton doctoral thesis.",
+    "Opened and inspected the Distributed Proofreaders Canada full text at the opening, multiple interior locations, and the ending; narration remained external and third-person throughout.",
+    "Targeted searches for JSTOR and Google Books discussions produced no more directly usable whole-book person evidence than the opened full text and university analyses."
+  ],
+  "person_note": "The Goodreads evidence contains many first-person, plural, and generic second-person forms, but all occur in character dialogue and therefore do not identify the base narrator. Quotes q00021 and q00026 independently show sustained external scene narration, while shorter event descriptions remain conservatively unmarked. The complete web text and academic structural analysis agree that the controlling narrator is nonparticipating and third-person, with no first-person frame or sustained alternate-person section. Sources differ only over the subtype\u2014objective versus omniscient\u2014which does not affect the THIRD classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_002",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:17:37.131673+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4e87e1474f612e5cd0f3a6ec05b6969eba64d4aff84cab9a8a760a0838580909"
+  }
+}

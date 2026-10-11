@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:1196",
+  "quotes": [
+    {
+      "quote_id": "q01385",
+      "person_signal": "non_base",
+      "note": "Gnomic proverb with no story-specific narrator."
+    },
+    {
+      "quote_id": "q01386",
+      "person_signal": "first",
+      "note": "The first-person possessive \u201cmy\u201d in the event passage exposes a participating voice, though the isolated quip provides limited context."
+    },
+    {
+      "quote_id": "q01387",
+      "person_signal": "non_base",
+      "note": "Direct speech; its first-person language does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01388",
+      "person_signal": "non_base",
+      "note": "Direct speech with no external narration beat."
+    },
+    {
+      "quote_id": "q01389",
+      "person_signal": "non_base",
+      "note": "Direct question in character speech; \u201cwe\u201d is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q01390",
+      "person_signal": "unmarked",
+      "note": "Possible event narration about \u201chis\u201d needs and traits, but it does not establish whether the narrator participates."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/cross/excerpt",
+      "title": "Cross by James Patterson | Excerpt | Bookreporter.com",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Publisher-authorized Chapter 1 excerpt contains sustained first-person narration by Alex Cross, repeatedly using \u201cI,\u201d \u201cme,\u201d and \u201cmy\u201d; it establishes only the opening strand."
+    },
+    {
+      "url": "https://pdfroom.com/books/alex-cross-12-cross/or5W1xpKgqD",
+      "title": "Alex Cross 12 \u2014 Cross",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Displayed text switches directly from Alex\u2019s sustained first-person Chapter 1 to third-person Chapters 2\u20135 following Michael Sullivan and other characters. The passage is diagnostic, but the host is not an authorized publisher or library source."
+    },
+    {
+      "url": "https://sobrief.com/books/cross",
+      "title": "Cross by James Patterson | Summary, Audio, Analysis, FAQ",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Book-specific structural analysis explicitly describes frequent shifts between Alex Cross\u2019s first-person perspective and Michael Sullivan\u2019s third-person viewpoint."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2009/feb/06/digested-read",
+      "title": "Cross by James Patterson | Books | The Guardian",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The book-specific digested review represents Alex\u2019s strand in first person and the Butcher\u2019s sustained scenes in third person, corroborating the alternation across the novel."
+    },
+    {
+      "url": "https://openrepository.aut.ac.nz/bitstreams/49d4e7bf-ab27-4e96-a0d8-88fd31e1413c/download",
+      "title": "Give Them What They Want / Corporate Truth \u2014 Karl Fleet, Auckland University of Technology",
+      "tier": "B",
+      "scope": "unknown",
+      "supports": "ALTERNATING",
+      "note": "A university thesis identifies the Alex Cross series convention of first-person chapters for Alex and third-person chapters for antagonists. It is strong structural corroboration but does not analyze Cross individually."
+    },
+    {
+      "url": "https://www.audiofilemagazine.com/reviews/read/28201/alex-cross-by-james-patterson-read-by-peter-fernandez-jay-o-sanders/",
+      "title": "ALEX CROSS by James Patterson | Audiobook Review | AudioFile Magazine",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review confirms separate, sustained Alex Cross and Michael Sullivan narrative strands in the unabridged 2006 book but does not specify their grammatical persons."
+    }
+  ],
+  "search_log": [
+    "Searched for \u201cCross\u201d by James Patterson with excerpt, first chapter, and Chapter 1/Chapter 2 terms; opened the publisher-authorized Bookreporter excerpt and a displayed multi-chapter text.",
+    "Searched the verified title with point of view, first person, third person, narrator, multiple narrators, and alternating perspective terms.",
+    "Searched specifically for Alex Cross and Michael Sullivan or the Butcher with narration and chapter-switching terms; opened the SoBrief book-specific analysis and the Guardian digested review.",
+    "Searched publisher, author, Google Books, Open Library, WorldCat, Publishers Weekly, Kirkus, and audiobook sources; publisher and library pages verified the work, while AudioFile confirmed two sustained character strands without naming grammatical person.",
+    "Searched for epistolary, diary, frame-narrative, and embedded-story structures; found no indication that either narrative mode is merely a subordinate document or frame.",
+    "Opened the Auckland University of Technology thesis section discussing the first-person/third-person structure of the Alex Cross series."
+  ],
+  "person_note": "Cross sustains two base-narrative modes: Alex Cross narrates his chapters in first person, while separate chapters follow Michael Sullivan and other characters in third person. The authorized opening and q01386 support the first-person strand; the input quotes do not sample a diagnostic Sullivan passage, but the displayed consecutive chapters and multiple structural sources establish the third-person strand. Dialogue and gnomic quotations were not promoted to narrator evidence. Confidence is medium because the only Tier A source covers the opening, the Tier B source discusses the series rather than this book specifically, and the exact book-level third-person evidence comes from Tier C sources; therefore the evidence does not justify high confidence under the two-strong-source rule for an ALTERNATING label lacking full quote support.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.241510+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "935efcffebd573d24463542428af1db6eacf80ec409a936f05b777bb3e73fdb8"
+  }
+}

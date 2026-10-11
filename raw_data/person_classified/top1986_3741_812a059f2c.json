@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1986:3741",
+  "quotes": [
+    {
+      "quote_id": "q02728",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs entirely in character speech and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02729",
+      "person_signal": "third",
+      "note": "External battlefield narration contrasts the Americans' anticipated claim with the actual aircraft losses, exposing a nonparticipating narrating position."
+    },
+    {
+      "quote_id": "q02730",
+      "person_signal": "non_base",
+      "note": "The passage is character speech followed by an informal reader annotation, not base narration."
+    },
+    {
+      "quote_id": "q02731",
+      "person_signal": "non_base",
+      "note": "Questions addressed to another character are dialogue, so their pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q02732",
+      "person_signal": "unmarked",
+      "note": "Although speech tags and a closing action beat are base narration, the proper name and third-person subjects alone do not establish narrator participation."
+    },
+    {
+      "quote_id": "q02733",
+      "person_signal": "unmarked",
+      "note": "Publisher context confirms that Tolkaze's action is outside the preceding speech, but this single named-character action is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02734",
+      "person_signal": "non_base",
+      "note": "This context-free maxim is gnomic material and does not expose the base narrator."
+    },
+    {
+      "quote_id": "q02735",
+      "person_signal": "third",
+      "note": "The passage sustains third-person limited narration about the general, his division, and the expectations governing his situation without a participating-narrator frame."
+    },
+    {
+      "quote_id": "q02736",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator describes the character as he/his and reports his private wondering."
+    },
+    {
+      "quote_id": "q02737",
+      "person_signal": "non_base",
+      "note": "The clipped gnomic fragment contains no diagnostic base narration."
+    },
+    {
+      "quote_id": "q02738",
+      "person_signal": "unmarked",
+      "note": "The plural third-person subjects and deictic language reflect a group's perspective but do not independently identify the narrator."
+    },
+    {
+      "quote_id": "q02739",
+      "person_signal": "non_base",
+      "note": "The first-person statements occur in dialogue."
+    },
+    {
+      "quote_id": "q02740",
+      "person_signal": "unmarked",
+      "note": "This impersonal historical statement contains no participating narrator or sustained character narration."
+    },
+    {
+      "quote_id": "q02741",
+      "person_signal": "non_base",
+      "note": "The first-person forms occur within dialogue and an embedded quotation."
+    },
+    {
+      "quote_id": "q02742",
+      "person_signal": "unmarked",
+      "note": "The institutional subject and ship pronoun do not independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q02743",
+      "person_signal": "unmarked",
+      "note": "The impersonal evaluative comparison is possible authorial narration but has no diagnostic person marking."
+    },
+    {
+      "quote_id": "q02744",
+      "person_signal": "unmarked",
+      "note": "This strategic-location description contains only named places and ships, which is insufficient by itself to identify narrator participation."
+    },
+    {
+      "quote_id": "q02745",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a gnomic technical assertion, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02746",
+      "person_signal": "unmarked",
+      "note": "The institutional observation about the Navy and Marines is possible base commentary but contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02747",
+      "person_signal": "non_base",
+      "note": "Targeted full-text context places this sentence inside Alekseyev's dialogue; the upstream event bucket appears mistaken, and ours is not narrator participation."
+    },
+    {
+      "quote_id": "q02748",
+      "person_signal": "third",
+      "note": "This sustained interior scene externally calls the focal figure the General, accesses his consciousness and tactical reasoning, and then shifts to Morris under a new scene heading."
+    },
+    {
+      "quote_id": "q02749",
+      "person_signal": "third",
+      "note": "Sustained narration follows Toland as he/him, reports his perceptions and private wondering, and cross-cuts externally to another theater."
+    },
+    {
+      "quote_id": "q02750",
+      "person_signal": "non_base",
+      "note": "The context-free probabilistic maxim is gnomic rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q02751",
+      "person_signal": "unmarked",
+      "note": "The passage is primarily dialogue; its brief third-person speech tag does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q02752",
+      "person_signal": "unmarked",
+      "note": "The isolated description of his service ribbon lacks enough context to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q02753",
+      "person_signal": "non_base",
+      "note": "The first-person form occurs entirely in character speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9781101002346",
+      "title": "Red Storm Rising - Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized publisher excerpt presents the opening through sustained external narration of Tolkaze and other characters, then shifts to an Air Force scene without a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-red-storm-rising/style.html",
+      "title": "Tom Clancy Writing Styles in Red Storm Rising",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This Gale-derived structural study guide explicitly identifies the story as third person and explains that its largely omniscient narration rotates among limited character perspectives."
+    },
+    {
+      "url": "https://nathangoldwag.wordpress.com/2026/02/12/book-review-red-storm-rising/",
+      "title": "BOOK REVIEW: Red Storm Rising",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An independent review explicitly describes the novel as moving routinely among multiple third-person-limited viewpoints, with occasional omniscient narration."
+    },
+    {
+      "url": "https://alexdiaz-granados.com/2020/08/07/audiobook-review-red-storm-rising-2013-bolinda-audio-edition/",
+      "title": "Audiobook Review: Red Storm Rising (2013 Bolinda Audio Edition)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reviewer familiar with the print novel and unabridged audiobook distinguishes its omniscient narrator from the multinational characters' spoken lines."
+    },
+    {
+      "url": "https://readerslibrary.org/wp-content/uploads/Red-Storm-Rising.pdf",
+      "title": "Red Storm Rising full-text PDF (Readers' Library)",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "Used only for targeted boundary checking: surrounding text establishes that q02747 is Alekseyev's speech rather than base narration; the unattributed copy was not relied on for the book-level label."
+    }
+  ],
+  "search_log": [
+    "Searched \"Red Storm Rising\" Tom Clancy excerpt first chapter and opened the sustained Penguin Random House publisher excerpt.",
+    "Searched \"Red Storm Rising\" \"third person\" narration and \"Red Storm Rising\" point of view narrator; opened the BookRags/Gale style analysis and explicit independent reviews.",
+    "Searched \"Red Storm Rising\" \"third-person limited\", \"third-person omniscient\", and narrative structure multiple points of view; results consistently described rotating third-person viewpoints.",
+    "Searched \"Red Storm Rising\" epistolary diary frame narrative, alternating narration multiple narrators, first person narrator, and second person narration; found no credible evidence of sustained base sections in another grammatical person.",
+    "Searched exact quote strings to resolve local structure; full-text context showed q02747 is dialogue and confirmed that several quoted first-person forms are local speech.",
+    "Opened Google Books, the author site, and general publisher descriptions, but did not use their synopsis grammar because they do not explicitly establish narrative person."
+  ],
+  "person_note": "The controlling narration is third person, rotating among numerous limited focal characters and sometimes widening into omniscient strategic commentary. The sustained interior passages q02748 and q02749, together with q02729, q02735, and q02736, expose that external narrating position. First-person and second-person forms in the sample are confined to speech, embedded quotation, or generic statements; notably, research shows that q02747 is dialogue despite its upstream event bucket. The authorized opening and whole-book structural descriptions independently agree, and targeted searches found no epistolary frame or sustained first- or second-person section. The publisher excerpt alone covers only the opening, but the interior quote evidence and multiple whole-book descriptions remove the principal scope uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_024",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T15:39:25.055182+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b465a7b222fceb8f7aa6aa316ba84fdb34e77f46b239e3596f3878c35d7c77aa"
+  }
+}

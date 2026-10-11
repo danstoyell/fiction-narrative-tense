@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1931:5304",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "Character dialogue attributed to Wang Lung; its third-person references do not identify the narrator."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "Authorial paratext rather than the novel's base narration."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "non_base",
+      "note": "Character speech about land and family, not narratorial discourse."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without story-specific narratorial person evidence."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "third",
+      "note": "Sustained external narration describes the woman, child, and her consciousness without a participating narrator."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "third",
+      "note": "Narratorial commentary frames and externally describes Wang Lung's funeral procession and Pear Blossom."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator reports Wang Lung's actions, memories, and thoughts in sustained third person."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "General social maxim rather than base story narration."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence about a woman's heart is compatible with third person but does not alone exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside Wang Lung's dialogue."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "unclear",
+      "note": "Malformed quotation boundaries combine apparent dialogue with a clipped narratorial sentence, preventing clean local attribution."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Wang Lung's perception and reaction without a participating narrator."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not base narration."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "third",
+      "note": "Extended scene narration externally presents Wang Lung and O-lan while reporting Wang Lung's perceptions and private reaction."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unspecified 'he' does not independently establish the narrator's participation status."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "unmarked",
+      "note": "The bare named-character statement is compatible with both first- and third-person framing."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "third",
+      "note": "The nonparticipating narrator reports Wang Lung's private regret and memory in sustained third person."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "Character dialogue contrasting wife and slave status."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "third",
+      "note": "Sustained narration externally follows Wang Lung's listening and summarizes what the other men imagine."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence about 'him' lacks enough local context to identify narrator participation."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "non_base",
+      "note": "A vendor's direct sales cry, not base narration."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in character dialogue."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "unclear",
+      "note": "A clipped speech beat lacks the surrounding speaker and narrative context needed for diagnosis."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "Extended first-person speech describing a character's intended return."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator summarizes the sons' naming and explains the names' significance."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "non_base",
+      "note": "First-person references occur within a character's speech about poverty and revolt."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "third",
+      "note": "Sustained external narration summarizes Wang Lung's aging and reports his thought as something he said to himself."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://archive.org/stream/goodearth00buck_1/goodearth00buck_1_djvu.txt",
+      "title": "Full text of The good earth \u2014 Internet Archive/UCLA Library",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The library scan of an authorized edition supplies the complete novel. Its opening, interior chapters, and ending consistently use nonparticipating third-person narration, chiefly following Wang Lung; first-person forms occur locally in speech or thought."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/goodearth/literary-devices/",
+      "title": "The Good Earth: Other Literary Devices",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies a detached third-person narrator and says the novel is written almost exclusively from Wang Lung's point of view."
+    },
+    {
+      "url": "https://www.tpet.com/content/NovelUnitsSamples/GoodEarth-NUT-sample.pdf",
+      "title": "The Good Earth Novel Units sample: Background Information",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The teaching guide explicitly identifies the point of view as third-person omniscient and describes the continuous chapter 1\u201334 structure."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Good Earth\" \"Pearl S. Buck\" excerpt and first-chapter combinations; Google Books offered only limited-preview metadata, while Open Library led to a complete UCLA Library scan at Internet Archive.",
+    "Opened and sampled the Internet Archive full text at the opening, middle, late interior, and ending; all sampled sections sustained third-person narration.",
+    "Searched \"The Good Earth\" third person, narrator, and point of view; opened explicit descriptions from SparkNotes and the Novel Units teaching guide.",
+    "Searched the title with epistolary, diary, frame narrative, multiple narrators, and alternating point-of-view terms; found no credible evidence of a first-person frame or sustained change of grammatical person.",
+    "Checked the official Simon & Schuster page; it verified the work and overall story but supplied no narratorial excerpt or explicit POV description, so it was not used as person evidence."
+  ],
+  "person_note": "The diagnostic quotes repeatedly show a nonparticipating narrator externally presenting Wang Lung and other characters while entering or summarizing their thoughts. The complete library text independently sustains that pattern from the opening through the ending, and explicit reference sources agree. Apparent first-person material in the quotes is dialogue, authorial paratext, or locally represented thought rather than an alternate base narrator. Sources differ over whether the third-person technique is limited, omniscient, or multiple, but that subtype disagreement does not affect the controlling THIRD label; no material uncertainty about grammatical person remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_001",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:04:12.324380+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "25a42ec32be9092abbc45f11a47f28a8fec4afe8a10922cfb4bd14588bfd1235"
+  }
+}

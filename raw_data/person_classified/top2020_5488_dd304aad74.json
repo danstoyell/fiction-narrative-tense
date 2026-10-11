@@ -1,0 +1,450 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:5488",
+  "quotes": [
+    {
+      "quote_id": "q05222",
+      "person_signal": "third",
+      "note": "Focalized narration refers to the experiencing character as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q05223",
+      "person_signal": "non_base",
+      "note": "Gnomic question without a story-specific narrator."
+    },
+    {
+      "quote_id": "q05224",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q05225",
+      "person_signal": "non_base",
+      "note": "\u201cI remember you\u201d is a locally quoted utterance, not first-person base narration."
+    },
+    {
+      "quote_id": "q05226",
+      "person_signal": "unmarked",
+      "note": "Mostly speech; the brief third-person tags do not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q05227",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q05228",
+      "person_signal": "non_base",
+      "note": "Gnomic meditation rather than person-marked scene narration."
+    },
+    {
+      "quote_id": "q05229",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection, not sustained narration of a story protagonist."
+    },
+    {
+      "quote_id": "q05230",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism."
+    },
+    {
+      "quote_id": "q05231",
+      "person_signal": "non_base",
+      "note": "Character speech; the minimal speech tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q05232",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q05233",
+      "person_signal": "non_base",
+      "note": "Stylized generic-address and thought montage, not sustained base narration."
+    },
+    {
+      "quote_id": "q05234",
+      "person_signal": "non_base",
+      "note": "Recollected dialogue; first-person wording belongs to the speaking character."
+    },
+    {
+      "quote_id": "q05235",
+      "person_signal": "third",
+      "note": "The narrator identifies a character as \u201cshe\u201d and explicitly frames her private thought; \u201cyou\u201d is generic within that thought."
+    },
+    {
+      "quote_id": "q05236",
+      "person_signal": "non_base",
+      "note": "Primarily dialogue; its pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q05237",
+      "person_signal": "unmarked",
+      "note": "A brief metaphor about \u201chis\u201d heart is compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q05238",
+      "person_signal": "non_base",
+      "note": "Generic second-person gnomic address."
+    },
+    {
+      "quote_id": "q05239",
+      "person_signal": "third",
+      "note": "Close narration renders a female character\u2019s private fear while referring to her as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q05240",
+      "person_signal": "non_base",
+      "note": "Gnomic fragments without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05241",
+      "person_signal": "third",
+      "note": "Narration refers to the focal character as \u201che\u201d while directly framing his private self-talk and exhaustion."
+    },
+    {
+      "quote_id": "q05242",
+      "person_signal": "non_base",
+      "note": "Warning delivered as character speech or embedded lore."
+    },
+    {
+      "quote_id": "q05243",
+      "person_signal": "non_base",
+      "note": "Quoted speech; \u201cyou\u201d is conversational and generic."
+    },
+    {
+      "quote_id": "q05244",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally presents both characters and one character\u2019s questions before dialogue."
+    },
+    {
+      "quote_id": "q05245",
+      "person_signal": "non_base",
+      "note": "First-person declaration is character speech."
+    },
+    {
+      "quote_id": "q05246",
+      "person_signal": "non_base",
+      "note": "First-person threat is character speech."
+    },
+    {
+      "quote_id": "q05247",
+      "person_signal": "non_base",
+      "note": "The sustained first-person passage is a character\u2019s local account about photography, not the controlling narration."
+    },
+    {
+      "quote_id": "q05248",
+      "person_signal": "third",
+      "note": "Close narration names Adeline and presents her private decision and preferences as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q05249",
+      "person_signal": "non_base",
+      "note": "Seasonal reflection uses generic \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q05250",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic observation."
+    },
+    {
+      "quote_id": "q05251",
+      "person_signal": "unmarked",
+      "note": "Fragment about \u201cshe\u201d is too brief to independently establish the narrating position."
+    },
+    {
+      "quote_id": "q05252",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q05253",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q05254",
+      "person_signal": "non_base",
+      "note": "Direct advice spoken by a character."
+    },
+    {
+      "quote_id": "q05255",
+      "person_signal": "third",
+      "note": "Extended close narration refers to Henry as \u201che\u201d while reporting his experience and simultaneous emotions."
+    },
+    {
+      "quote_id": "q05256",
+      "person_signal": "third",
+      "note": "Narration describes a male character\u2019s internal sensitivity and emotional experience as \u201chim.\u201d"
+    },
+    {
+      "quote_id": "q05257",
+      "person_signal": "non_base",
+      "note": "Spoken-address framing, not base second-person narration."
+    },
+    {
+      "quote_id": "q05258",
+      "person_signal": "non_base",
+      "note": "First-person declaration is character speech."
+    },
+    {
+      "quote_id": "q05259",
+      "person_signal": "unmarked",
+      "note": "Repeated dialogue with brief third-person tags; the tags alone do not identify narrator participation."
+    },
+    {
+      "quote_id": "q05260",
+      "person_signal": "non_base",
+      "note": "Gnomic poetic fragments."
+    },
+    {
+      "quote_id": "q05261",
+      "person_signal": "non_base",
+      "note": "Character speech with a minimal attribution."
+    },
+    {
+      "quote_id": "q05262",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without person-marked narration."
+    },
+    {
+      "quote_id": "q05263",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q05264",
+      "person_signal": "non_base",
+      "note": "Extended dialogue; first- and second-person pronouns belong to the characters."
+    },
+    {
+      "quote_id": "q05265",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question."
+    },
+    {
+      "quote_id": "q05266",
+      "person_signal": "non_base",
+      "note": "Gnomic observation about art and ideas."
+    },
+    {
+      "quote_id": "q05267",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q05268",
+      "person_signal": "third",
+      "note": "Sustained close narration presents Addie\u2019s private despair and renewed desire to live while referring to her as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q05269",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism."
+    },
+    {
+      "quote_id": "q05270",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q05271",
+      "person_signal": "third",
+      "note": "Extended scene and free-indirect narration refer to Addie as \u201cshe\u201d and expose her memories and private despair."
+    },
+    {
+      "quote_id": "q05272",
+      "person_signal": "unmarked",
+      "note": "A single statement about \u201cshe\u201d is insufficient by itself to identify narrator participation."
+    },
+    {
+      "quote_id": "q05273",
+      "person_signal": "third",
+      "note": "Close narration reports both characters\u2019 condition and the female focal character\u2019s private knowledge."
+    },
+    {
+      "quote_id": "q05274",
+      "person_signal": "non_base",
+      "note": "First- and second-person language belongs to Luc\u2019s speech."
+    },
+    {
+      "quote_id": "q05275",
+      "person_signal": "unmarked",
+      "note": "Free-indirect reflection lacks a character or narrator pronoun that independently identifies person."
+    },
+    {
+      "quote_id": "q05276",
+      "person_signal": "unmarked",
+      "note": "A bare statement about \u201cshe\u201d does not alone establish the controlling narrator."
+    },
+    {
+      "quote_id": "q05277",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question."
+    },
+    {
+      "quote_id": "q05278",
+      "person_signal": "third",
+      "note": "Sustained close narration alternates external references to the girl and Henry with access to Henry\u2019s private knowledge and feeling."
+    },
+    {
+      "quote_id": "q05279",
+      "person_signal": "unmarked",
+      "note": "Brief historical recollection about Estelle does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q05280",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic observation."
+    },
+    {
+      "quote_id": "q05281",
+      "person_signal": "third",
+      "note": "Narratorial prose outside the dialogue names Addie and renders her private doubts while referring to her as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q05282",
+      "person_signal": "third",
+      "note": "The passage ultimately distinguishes the focal character as \u201cher\u201d; its \u201cyou\u201d is generic reflection, not second-person base narration."
+    },
+    {
+      "quote_id": "q05283",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q05284",
+      "person_signal": "third",
+      "note": "After opening speech, sustained scene narration externally presents Addie and the shadow as \u201cshe\u201d and \u201che.\u201d"
+    },
+    {
+      "quote_id": "q05285",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection."
+    },
+    {
+      "quote_id": "q05286",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q05287",
+      "person_signal": "non_base",
+      "note": "Gnomic meditation on memories and thoughts."
+    },
+    {
+      "quote_id": "q05288",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection on silence."
+    },
+    {
+      "quote_id": "q05289",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q05290",
+      "person_signal": "third",
+      "note": "Close narration repeatedly refers to Addie as \u201cshe\u201d while rendering her private uncertainty."
+    },
+    {
+      "quote_id": "q05291",
+      "person_signal": "unmarked",
+      "note": "Single figurative sentence about Adeline does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q05292",
+      "person_signal": "third",
+      "note": "Extended close narration names Adeline and repeatedly presents her feelings, perceptions, and hopes as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q05293",
+      "person_signal": "unmarked",
+      "note": "Brief mythic comparison using \u201cthey\u201d and \u201cshe\u201d is compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q05294",
+      "person_signal": "non_base",
+      "note": "First-person wording belongs to dialogue; the short speech tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q05295",
+      "person_signal": "third",
+      "note": "Narration refers to the focal character as \u201che\u201d and explicitly reports his private decision about good-byes."
+    },
+    {
+      "quote_id": "q05296",
+      "person_signal": "third",
+      "note": "Sustained narration presents Addie\u2019s future plan and intentions while referring to her as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q05297",
+      "person_signal": "third",
+      "note": "Close narration reports a male focal character\u2019s bodily metaphor and private feeling as \u201chis\u201d and \u201che.\u201d"
+    },
+    {
+      "quote_id": "q05298",
+      "person_signal": "third",
+      "note": "Close narration refers to the female focal character as \u201cshe\u201d and reports her longing and compromise."
+    },
+    {
+      "quote_id": "q05299",
+      "person_signal": "third",
+      "note": "Narration repeatedly frames Addie\u2019s private wondering while referring to her and Luc as \u201cshe\u201d and \u201cthey.\u201d"
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://reactormag.com/v-e-schwab-reads-an-excerpt-from-the-invisible-life-of-addie-larue/",
+      "title": "V.E. Schwab Reads an Excerpt From The Invisible Life of Addie LaRue",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized Tor/Reactor text of the complete first chapter sustains third-person present-tense narration around Addie, including access to her thoughts; local first-person lines are explicitly speech or remembered voice."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-invisible-life-of-addie-larue/styles.html",
+      "title": "V. E. Schwab Writing Styles in The Invisible Life of Addie LaRue",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened point-of-view analysis explicitly identifies a consistent third-person-limited narrator whose focalization shifts by chapter between Addie and Henry."
+    },
+    {
+      "url": "https://sites.owu.edu/tropology/2022/11/05/the-invisible-life-of-addie-larue/",
+      "title": "The Invisible Life of Addie LaRue \u2013 Tropology: The ENG 250 Blog",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Academic course analysis states that the story is narrated in third person and focalized through Addie or Henry depending on the chapter, and analyzes the narrator\u2019s changing distance from Addie."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/the-invisible-life-of-addie-larue",
+      "title": "The Invisible Life of Addie LaRue Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The opened guide\u2019s key-facts section explicitly lists the novel\u2019s point of view as third person."
+    }
+  ],
+  "search_log": [
+    "Searched official-author and publisher combinations for \u201cThe Invisible Life of Addie LaRue\u201d with \u201cexcerpt,\u201d \u201cfirst chapter,\u201d and \u201cread an extract\u201d; opened Tor/Reactor\u2019s authorized first-chapter text.",
+    "Searched the verified title with \u201cpoint of view,\u201d \u201cthird person,\u201d \u201cnarrator,\u201d and \u201cthird-person present\u201d; opened the BookRags, Ohio Wesleyan ENG 250, and LitCharts analyses.",
+    "Searched for \u201cepistolary,\u201d \u201cframe narrative,\u201d \u201cmultiple narrators,\u201d and \u201calternating point of view\u201d; found focalization shifts between Addie and Henry, but no sustained change away from third-person base narration.",
+    "Opened the Macmillan title page; it verified the work and publisher but supplied synopsis rather than diagnostic person evidence, so it was not included as supporting evidence.",
+    "Ran targeted searches for the apparent first-person photography passage and spoken-address material; results did not establish either as an autonomous first- or second-person base section."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person, chiefly close-limited through Addie and, in other chapters, Henry. Numerous event quotations render those characters\u2019 private thoughts while naming them as she/he, and the authorized first chapter shows the same sustained structure. Whole-book structural sources explicitly confirm that focalization alternates between Addie and Henry while narrative person remains third. Apparent first person in q05225 and q05247 is local character language, as are the many dialogue quotations; generic \u201cyou\u201d in aphorisms is not story-specific second-person narration. No credible evidence of a sustained first- or second-person base section remained.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_072",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T12:58:44.007635+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dba3e79d1a1e04615d48ff67a280d20408d6ae70f0c036e09aa685f9cfe19cc8"
+  }
+}

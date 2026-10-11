@@ -1,0 +1,450 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:BABEL|R.F. Kuang",
+  "quotes": [
+    {
+      "quote_id": "q07490",
+      "person_signal": "non_base",
+      "note": "Character speech uses I and you; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q07491",
+      "person_signal": "third",
+      "note": "Past-tense narration names Robin and reports his perception from outside the story."
+    },
+    {
+      "quote_id": "q07492",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary uses collective us and our, not a participating story narrator."
+    },
+    {
+      "quote_id": "q07493",
+      "person_signal": "non_base",
+      "note": "Gnomic questions and collective us do not identify the base narrator."
+    },
+    {
+      "quote_id": "q07494",
+      "person_signal": "non_base",
+      "note": "Character speech with a brief attribution beat is not diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q07495",
+      "person_signal": "non_base",
+      "note": "Quoted commands dominate; the short he-whispered attribution is nondiagnostic."
+    },
+    {
+      "quote_id": "q07496",
+      "person_signal": "non_base",
+      "note": "Dialogue between Ramy and Victoire does not identify the narrator."
+    },
+    {
+      "quote_id": "q07497",
+      "person_signal": "non_base",
+      "note": "Story-specific you occurs inside direct address to Robin, not second-person narration."
+    },
+    {
+      "quote_id": "q07498",
+      "person_signal": "unmarked",
+      "note": "Possible base narration refers only to his chest without enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q07499",
+      "person_signal": "non_base",
+      "note": "Anthony's direct speech is not narrator evidence."
+    },
+    {
+      "quote_id": "q07500",
+      "person_signal": "non_base",
+      "note": "Generic you appears in gnomic advice rather than sustained second-person storytelling."
+    },
+    {
+      "quote_id": "q07501",
+      "person_signal": "non_base",
+      "note": "Expository character speech addresses listeners as you."
+    },
+    {
+      "quote_id": "q07502",
+      "person_signal": "third",
+      "note": "The passage attributes thought to he and sustains free-indirect reflection without a participating narrator."
+    },
+    {
+      "quote_id": "q07503",
+      "person_signal": "third",
+      "note": "Third-person narration enters her realization; the embedded generic you is not the protagonist's narrative designation."
+    },
+    {
+      "quote_id": "q07504",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in character speech."
+    },
+    {
+      "quote_id": "q07505",
+      "person_signal": "third",
+      "note": "The narrator names Robin, reports several characters' reactions, and summarizes what would later bother him."
+    },
+    {
+      "quote_id": "q07506",
+      "person_signal": "non_base",
+      "note": "The first-person plural statement is dialogue."
+    },
+    {
+      "quote_id": "q07507",
+      "person_signal": "third",
+      "note": "External narration follows his memory and emotional response in sustained close third person."
+    },
+    {
+      "quote_id": "q07508",
+      "person_signal": "non_base",
+      "note": "An isolated gnomic assertion has no diagnostic narrator."
+    },
+    {
+      "quote_id": "q07509",
+      "person_signal": "non_base",
+      "note": "General commentary about words and history is nondiagnostic."
+    },
+    {
+      "quote_id": "q07510",
+      "person_signal": "unmarked",
+      "note": "A short attributed thought using he is locally compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q07511",
+      "person_signal": "non_base",
+      "note": "We occurs inside exhortative character speech."
+    },
+    {
+      "quote_id": "q07512",
+      "person_signal": "unmarked",
+      "note": "The impersonal statement and unidentified they do not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q07513",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a gnomic observation."
+    },
+    {
+      "quote_id": "q07514",
+      "person_signal": "non_base",
+      "note": "Repeated I statements belong to a speaking character, as the attribution confirms."
+    },
+    {
+      "quote_id": "q07515",
+      "person_signal": "non_base",
+      "note": "Collective we and us occur in dialogue."
+    },
+    {
+      "quote_id": "q07516",
+      "person_signal": "non_base",
+      "note": "The aphoristic discussion of power contains no diagnostic narrator."
+    },
+    {
+      "quote_id": "q07517",
+      "person_signal": "non_base",
+      "note": "We and you are used by a character addressing Letty."
+    },
+    {
+      "quote_id": "q07518",
+      "person_signal": "non_base",
+      "note": "The many instances of we and you are sustained direct speech, not base narration."
+    },
+    {
+      "quote_id": "q07519",
+      "person_signal": "third",
+      "note": "The narrator names Robin as he and supplies a retrospective account extending into future years."
+    },
+    {
+      "quote_id": "q07520",
+      "person_signal": "non_base",
+      "note": "Griffin's speech directly addresses another character as you."
+    },
+    {
+      "quote_id": "q07521",
+      "person_signal": "non_base",
+      "note": "Cathy's attributed speech does not expose the narrator."
+    },
+    {
+      "quote_id": "q07522",
+      "person_signal": "non_base",
+      "note": "Ramy directly addresses Letty as you."
+    },
+    {
+      "quote_id": "q07523",
+      "person_signal": "unmarked",
+      "note": "This impersonal temporal reflection lacks a narrator or diagnostic character reference."
+    },
+    {
+      "quote_id": "q07524",
+      "person_signal": "third",
+      "note": "Sustained external narration reports his memories, experiences, and judgments."
+    },
+    {
+      "quote_id": "q07525",
+      "person_signal": "non_base",
+      "note": "Generic he and you occur inside an instructional speech about poets and translators."
+    },
+    {
+      "quote_id": "q07526",
+      "person_signal": "unmarked",
+      "note": "The unidentified they and externally described reaction suggest narration but do not independently establish its person."
+    },
+    {
+      "quote_id": "q07527",
+      "person_signal": "third",
+      "note": "A sustained scene names Robin and Ramy while repeatedly reporting Robin's thoughts, sensations, and uncertainty from outside."
+    },
+    {
+      "quote_id": "q07528",
+      "person_signal": "non_base",
+      "note": "I and you occur in a character's argument."
+    },
+    {
+      "quote_id": "q07529",
+      "person_signal": "non_base",
+      "note": "The gnomic fragment has no person evidence."
+    },
+    {
+      "quote_id": "q07530",
+      "person_signal": "non_base",
+      "note": "The aphorism about language and empire is nondiagnostic."
+    },
+    {
+      "quote_id": "q07531",
+      "person_signal": "unmarked",
+      "note": "A bare group reference as they does not establish the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q07532",
+      "person_signal": "non_base",
+      "note": "You, your, we, and our occur in direct speech; brief speech beats do not change its evidentiary status."
+    },
+    {
+      "quote_id": "q07533",
+      "person_signal": "non_base",
+      "note": "Griffin's direct address supplies the visible pronouns."
+    },
+    {
+      "quote_id": "q07534",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates, while the short outside beats describing him beside Robin are insufficient by themselves to establish person."
+    },
+    {
+      "quote_id": "q07535",
+      "person_signal": "non_base",
+      "note": "First-person singular and plural pronouns belong to a speaking character."
+    },
+    {
+      "quote_id": "q07536",
+      "person_signal": "unmarked",
+      "note": "Impersonal exposition may be base narration but does not reveal whether its narrator participates."
+    },
+    {
+      "quote_id": "q07537",
+      "person_signal": "non_base",
+      "note": "The gnomic academic observation has no diagnostic narrator."
+    },
+    {
+      "quote_id": "q07538",
+      "person_signal": "non_base",
+      "note": "Repeated you directly addresses Birdie within dialogue."
+    },
+    {
+      "quote_id": "q07539",
+      "person_signal": "unmarked",
+      "note": "The isolated his and he reference lacks enough local context to prove a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q07540",
+      "person_signal": "third",
+      "note": "Sustained third-person sentences report his conflicting feelings and desires through close narration."
+    },
+    {
+      "quote_id": "q07541",
+      "person_signal": "non_base",
+      "note": "The brief maxim is gnomic rather than narrative."
+    },
+    {
+      "quote_id": "q07542",
+      "person_signal": "third",
+      "note": "A sustained external summary reports the group's circumstances, fears, privileges, and desires."
+    },
+    {
+      "quote_id": "q07543",
+      "person_signal": "non_base",
+      "note": "Ramy's attributed joke is dialogue."
+    },
+    {
+      "quote_id": "q07544",
+      "person_signal": "non_base",
+      "note": "The rhetorical aphorism about empire is nondiagnostic."
+    },
+    {
+      "quote_id": "q07545",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a gnomic observation."
+    },
+    {
+      "quote_id": "q07546",
+      "person_signal": "non_base",
+      "note": "Generic you in an aphoristic account of anger is not second-person story narration."
+    },
+    {
+      "quote_id": "q07547",
+      "person_signal": "non_base",
+      "note": "This is an attributed Frantz Fanon epigraph, not the novel's base voice."
+    },
+    {
+      "quote_id": "q07548",
+      "person_signal": "third",
+      "note": "The narrator names Robin and repeatedly reports the content of his wondering from outside."
+    },
+    {
+      "quote_id": "q07549",
+      "person_signal": "unmarked",
+      "note": "The impersonal sentence may be narratorial commentary but does not identify narrative person."
+    },
+    {
+      "quote_id": "q07550",
+      "person_signal": "third",
+      "note": "Robin's thought is explicitly attributed and surrounded by external third-person description of the remembered scene."
+    },
+    {
+      "quote_id": "q07551",
+      "person_signal": "unmarked",
+      "note": "The clipped abstract reflection contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q07552",
+      "person_signal": "third",
+      "note": "External narration identifies Victoire and Anthony, reports prior actions and attempted comprehension, and frames their dialogue."
+    },
+    {
+      "quote_id": "q07553",
+      "person_signal": "non_base",
+      "note": "The statement about books is gnomic."
+    },
+    {
+      "quote_id": "q07554",
+      "person_signal": "non_base",
+      "note": "Generic you occurs in a maxim."
+    },
+    {
+      "quote_id": "q07555",
+      "person_signal": "non_base",
+      "note": "The general assertion about languages contains no narrator evidence."
+    },
+    {
+      "quote_id": "q07556",
+      "person_signal": "non_base",
+      "note": "The etymological gloss is gnomic or explanatory rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q07557",
+      "person_signal": "unmarked",
+      "note": "Impersonal exposition about Britain does not reveal whether the narrator participates."
+    },
+    {
+      "quote_id": "q07558",
+      "person_signal": "third",
+      "note": "External summary describes the group's developing relationship and supplies knowledge extending beyond the immediate moment."
+    },
+    {
+      "quote_id": "q07559",
+      "person_signal": "non_base",
+      "note": "The rhetorical questions and assertions form character speech."
+    },
+    {
+      "quote_id": "q07560",
+      "person_signal": "non_base",
+      "note": "The poet-translator aphorism is nondiagnostic."
+    },
+    {
+      "quote_id": "q07561",
+      "person_signal": "non_base",
+      "note": "You, we, and ourselves occur in a lecturer's direct questions."
+    },
+    {
+      "quote_id": "q07562",
+      "person_signal": "third",
+      "note": "The passage names Robin, reports his mental image and realization, and then attributes his whispered speech."
+    },
+    {
+      "quote_id": "q07563",
+      "person_signal": "non_base",
+      "note": "The Charles V quotation is paratext, not base narration."
+    },
+    {
+      "quote_id": "q07564",
+      "person_signal": "non_base",
+      "note": "The attributed-style maxim about empire is gnomic."
+    },
+    {
+      "quote_id": "q07565",
+      "person_signal": "non_base",
+      "note": "You is direct address within dialogue."
+    },
+    {
+      "quote_id": "q07566",
+      "person_signal": "third",
+      "note": "Extended close narration uses he and his while rendering the focal character's identity conflict and inner state."
+    },
+    {
+      "quote_id": "q07567",
+      "person_signal": "non_base",
+      "note": "The abstract meditation on victory is gnomic and contains no participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://run.unl.pt/bitstream/10362/181463/1/Mestrado_Ana_Carolina_Amaral_Ribeiro.pdf",
+      "title": "How Slender, How Fragile, the Foundations of an Empire: The Neo-Victorian British Empire of R. F. Kuang's Babel",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly dissertation explicitly describes two narrators: a third-person limited perspective following Robin throughout his journey and an outside footnote voice."
+    },
+    {
+      "url": "https://digitaldefoe.org/2024/05/27/%E7%BF%BB%E8%AF%91-r-f-kuangs-babel-jonathan-swift-and-sideways-reading/",
+      "title": "\u7ffb\u8bd1: R.F. Kuang's Babel, Jonathan Swift, and Sideways Reading",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly structural analysis describes the novel's narration as third person, varying between distant historical narration and free indirect access to Robin, with separate footnotes."
+    },
+    {
+      "url": "https://www.the-orb.org/post/the-violence-of-language",
+      "title": "The Violence of Language",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Oxford Review of Books explicitly identifies Robin-limited third-person narration and an omniscient footnote voice."
+    },
+    {
+      "url": "https://www.goodreads.com/interviews/show/1570.R_F_Kuang?order=d&page=1",
+      "title": "Author R.F. Kuang Talks Magic and What's Lost in Translation",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Kuang directly distinguishes the Robin-focalized main text from a later-positioned omniscient footnote narrator; the interview clarifies the dual-voice structure but does not itself name the main text's grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched: Babel R.F. Kuang official excerpt first chapter; Babel R.F. Kuang third person narration point of view; Babel R.F. Kuang narrator third-person limited; and site:harpercollins.com Babel R.F. Kuang excerpt.",
+    "Searched targeted variants for Chapter One text, the HarperCollins product page, Google Books preview ISBN 9780063021440, and the Goodreads author interview.",
+    "Opened the HarperCollins product page and Google Books preview; they verified the work but exposed no sustained accessible prose useful for person classification.",
+    "Opened a Penguin-hosted sample returned by search, determined that it was an unrelated Bea Fitzgerald book, and discarded it.",
+    "Opened and checked the Goodreads author interview, the Oxford Review of Books analysis, the Digital Defoe article, and the NOVA University Lisbon dissertation for explicit narrator and point-of-view evidence."
+  ],
+  "person_note": "The diagnostic event quotations repeatedly present Robin and other characters through sustained third-person scene narration, retrospective summary, and free-indirect access to thought. First-person and story-specific second-person pronouns in the quote set occur in dialogue, gnomic statements, or paratext rather than controlling narration. Scholarly whole-book analysis explicitly confirms a third-person limited main narrative following Robin and a separate omniscient footnote voice; that nonparticipating footnote narrator does not create an alternation into first or second person. The author interview corroborates the two-voice structure, though it uses narrator and point of view somewhat loosely. The main remaining limitation is that no accessible Tier A sustained authorized excerpt was found, but the numerous interior quotations and Tier B structural evidence independently converge on THIRD.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.269513+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5e5f2f67365ea35ebf6a1f5985abfdbd313b728be7a3b54e28853e1aa86b182f"
+  }
+}

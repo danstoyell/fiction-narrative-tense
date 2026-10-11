@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:4710",
+  "quotes": [
+    {
+      "quote_id": "q05069",
+      "person_signal": "non_base",
+      "note": "Political analogy/gnomic statement; first-person plural refers collectively to Americans, not a participating narrator."
+    },
+    {
+      "quote_id": "q05070",
+      "person_signal": "non_base",
+      "note": "Two-speaker dialogue; first-person plural and other pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q05071",
+      "person_signal": "non_base",
+      "note": "Direct address to Wilde within dialogue, not second-person base narration."
+    },
+    {
+      "quote_id": "q05072",
+      "person_signal": "non_base",
+      "note": "General maxim about extremists; it does not expose the narrator's participation."
+    },
+    {
+      "quote_id": "q05073",
+      "person_signal": "non_base",
+      "note": "Abstract generalization about humanity rather than character-level narration."
+    },
+    {
+      "quote_id": "q05074",
+      "person_signal": "non_base",
+      "note": "Generic aphoristic 'you,' not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q05075",
+      "person_signal": "third",
+      "note": "Narration refers to Hester as 'she' and reports her realization without introducing a participating narrator."
+    },
+    {
+      "quote_id": "q05076",
+      "person_signal": "non_base",
+      "note": "Universal observation about memory; generic 'you' is nondiagnostic."
+    },
+    {
+      "quote_id": "q05077",
+      "person_signal": "non_base",
+      "note": "Predominantly direct dialogue; the brief speech tag does not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q05078",
+      "person_signal": "third",
+      "note": "Externally refers to the focal character as 'he' while reporting his bodily feeling, exposing third-person narration."
+    },
+    {
+      "quote_id": "q05079",
+      "person_signal": "non_base",
+      "note": "Parenting generalization using generic 'you'; the clipped reference to 'her' does not establish narrative person."
+    },
+    {
+      "quote_id": "q05080",
+      "person_signal": "non_base",
+      "note": "The first-person plural question is Wilde's free-indirect thought, not a participating narrator's voice."
+    },
+    {
+      "quote_id": "q05081",
+      "person_signal": "non_base",
+      "note": "Imperative aphorism with no story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q05082",
+      "person_signal": "non_base",
+      "note": "Fragmentary general reaction rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q05083",
+      "person_signal": "unmarked",
+      "note": "A single third-person-plural subject is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q05084",
+      "person_signal": "unmarked",
+      "note": "The truncated clause names Hester but supplies too little context to identify the narrator's participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/the-boy-from-the-woods-9781787462977/extracts/2223-the-boy-from-the-woods",
+      "title": "Extract | The Boy from the Woods by Harlan Coben",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-authorized opening narrates Naomi, Matthew, and Hester externally in sustained third person, including access to Matthew's and Hester's thoughts."
+    },
+    {
+      "url": "https://crimereads.com/excerpt-the-boy-from-the-woods/",
+      "title": "The Boy From the Woods \u2014 By Harlan Coben",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Extended excerpt reprinted with Grand Central Publishing's permission narrates Matthew externally as 'he' and presents his memories, knowledge, and perceptions in third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-boy-from-the-woods/styles.html",
+      "title": "Harlan Coben Writing Styles in The Boy From the Woods",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies a third-person narrator and says narration shifts its focus among Wilde, Matthew, and Hester."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Harlan Coben The Boy from the Woods\" official excerpt; opened the Penguin Books Australia authorized extract.",
+    "Searched: \"The Boy from the Woods\" point of view third person narrator; opened the BookRags point-of-view analysis.",
+    "Searched: \"The Boy from the Woods\" excerpt Grand Central Publishing; opened the CrimeReads authorized interior excerpt.",
+    "Checked the Google Books record and Penguin sample-PDF result for identity and preview availability; the catalog description was not used as person evidence.",
+    "Targeted results disclosed no sustained first-person, second-person, epistolary, frame, or alternating-person structure."
+  ],
+  "person_note": "The diagnostic Goodreads passages place Hester and Wilde under external third-person narration, while first- and second-person forms elsewhere occur in dialogue, free-indirect thought, or generic aphorisms. An authorized opening and a separate authorized interior excerpt independently sustain third-person narration, and the whole-book point-of-view guide explicitly describes a third-person narrator whose focus moves among Wilde, Matthew, and Hester. No credible evidence indicates sustained narration in another person; the main limitation is that the authorized prose sources are excerpts rather than the complete novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_072",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T12:58:44.005162+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cb8d9cf6beb7db16d50dd167a7a75c3c7306ba54ab38991b93b16b800adffcb3"
+  }
+}

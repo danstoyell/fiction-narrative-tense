@@ -1,0 +1,31 @@
+sample_order,sample_id,year,title,pilot_label,pilot_confidence,gold_label,gold_confidence,evidence_tier,outcome,primary_source_url
+1,top1949:5756,1949,THE MAN WITH THE GOLDEN ARM,INSUFFICIENT,,THIRD,med,C,ABSTAIN,https://johnpauljaramillo.com/2013/08/21/the-man-with-the-golden-arm/
+2,top1997:5778,1997,THE MATARESE COUNTDOWN,INSUFFICIENT,,UNRESOLVED,low,D,UNSCORABLE,https://books.google.com/books/about/The_Matarese_Countdown.html?id=51eUukT50dYC
+3,top2020:1356,2020,DEAR EDWARD,THIRD,high,THIRD,high,B,MATCH,https://www.wlrn.org/npr-breaking-news/2020-01-16/kingdomtide-and-dear-edward-2-new-novels-take-on-a-singular-situation
+4,top1981:2921,1981,MASQUERADE,INSUFFICIENT,,THIRD,med,C,ABSTAIN,https://www.the-independent.com/news/uk/home-news/golden-hare-kit-williams-masquerade-auction-b2872047.html
+5,top2001:5621,2001,THE LAST TIME THEY MET,FIRST,med,THIRD,high,A,MISMATCH,https://www.readinggroupguides.com/reviews/the-last-time-they-met-a-novel/excerpt
+6,top2007:257,2007,A THOUSAND SPLENDID SUNS,THIRD,high,THIRD,high,B,MATCH,https://www.ilkogretim-online.org/index.php/pub/article/view/4887
+7,top1950:4758,1950,THE CARDINAL,INSUFFICIENT,,THIRD,high,A,ABSTAIN,https://www.basicincome.com/bp/thecardinal.htm
+8,top1932:2450,1932,INVITATION TO THE WALTZ,FIRST,med,THIRD,med,B,MISMATCH,https://kclpure.kcl.ac.uk/portal/files/2930814/DX215343.pdf
+9,top1984:2718,1984,LINCOLN,THIRD,high,THIRD,high,B,MATCH,https://www.washingtonpost.com/archive/entertainment/books/1984/06/10/gore-vidals-lincoln-log/afc1f337-4215-4400-904d-6f050adea69a/
+10,top1998:156,1998,A MAN IN FULL,THIRD,high,THIRD,high,B,MATCH,https://www.researchgate.net/publication/303336467_The_Last_of_the_Naturalist_Writers_A_Discussion_on_the_Naturalistic_nature_of_Tom_Wolfe%27s_A_Man_In_Full_and_Back_to_Blood
+11,top2021:GOLDEN GIRL|Elin Hilderbrand,2021,GOLDEN GIRL,UNCLEAR,,THIRD,high,B,ABSTAIN,https://www.supersummary.com/golden-girl/chapters-1-10-summary/
+12,top2001:182,2001,A PAINTED HOUSE,FIRST,high,FIRST,high,A,MATCH,https://www.hachette.com.au/john-grisham/a-painted-house
+13,top1954:6168,1954,THE ROYAL BOX,INSUFFICIENT,,UNRESOLVED,,D,UNSCORABLE,https://www.kirkusreviews.com/book-reviews/a/frances-parkinson-keyes-2/the-royal-box/
+14,top1944:50,1944,A BELL FOR ADANO,INSUFFICIENT,,THIRD,high,A,ABSTAIN,https://oregonnews.uoregon.edu/lccn/2025240345/1945-03-22/ed-1/seq-2.pdf
+15,top2002:1936,2002,FROM A BUICK 8,FIRST,med,FIRST,high,B,MATCH,https://www.hachette.co.uk/titles/stephen-king-3/from-a-buick-8/9781444708110/
+16,top2021:THE WISH|Nicholas Sparks,2021,THE WISH,ALTERNATING,med,ALTERNATING,high,A,MATCH,https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-23.2021.09-the-wish.pdf
+17,top1992:2060,1992,GRIFFIN & SABINE,INSUFFICIENT,,FIRST,high,B,ABSTAIN,https://www.researchgate.net/publication/327600795_An_Open_Letter_to_Nick_Bantock_OR_Letters_andas_Ephemeral_Desire_Transposition_and_Transpoetic_Possibility_within_Epistolary_Form_A_Critical_Approach_to_Contemporary_Letter_Narratives_in_Anglophone_Fi
+18,top2025:SAY YOU'LL REMEMBER ME|Abby Jimenez,2025,SAY YOU'LL REMEMBER ME,FIRST,high,FIRST,med,C,MATCH,https://www.yourswithlove.co.uk/blog/article/read-an-extract-from-say-you-ll-remember-me-by-abby-jimenez
+19,top1972:6743,1972,THE WORD,INSUFFICIENT,,UNRESOLVED,,D,UNSCORABLE,https://scalar.usc.edu/works/gospel-thrillers/media/1972-the-word
+20,top2009:4576,2009,THE ASSOCIATE,INSUFFICIENT,,THIRD,high,A,ABSTAIN,https://static.booktopia.com.au/pdf/9781846050923-1.pdf
+21,top1996:6178,1996,THE RUNAWAY JURY,INSUFFICIENT,,THIRD,high,B,ABSTAIN,https://www.supersummary.com/the-runaway-jury/important-quotes/
+22,top1978:1664,1978,EVERGREEN,INSUFFICIENT,,UNRESOLVED,low,D,UNSCORABLE,https://openlibrary.org/books/OL7517575M/Evergreen
+23,top2025:STRANGERS IN TIME|David Baldacci,2025,STRANGERS IN TIME,INSUFFICIENT,,THIRD,high,A,ABSTAIN,https://www.davidbaldacci.com/articles/strangers-in-time-excerpt/
+24,top2020:4710,2020,THE BOY FROM THE WOODS,INSUFFICIENT,,THIRD,high,A,ABSTAIN,https://www.penguin.com.au/books/the-boy-from-the-woods-9781787462977/extracts/2223-the-boy-from-the-woods
+25,top2023:I WILL FIND YOU|Harlan Coben,2023,I WILL FIND YOU,FIRST,med,FIRST,high,A,MATCH,https://www.penguin.com.au/books/i-will-find-you-9781804965412/extracts/2916-i-will-find-you
+26,top1954:2811,1954,LOVE IS ETERNAL,INSUFFICIENT,,UNRESOLVED,low,D,UNSCORABLE,https://books.google.com/books/about/Love_is_Eternal.html?id=aVEOAAAAIAAJ
+27,top2008:1017,2008,CHASING HARRY WINSTON,THIRD,med,THIRD,high,A,MATCH,https://www.laurenweisberger.com/books/chasing-harry-winston/1st-chapter/
+28,top1956:5591,1956,THE LAST HURRAH,THIRD,high,THIRD,high,B,MATCH,https://www.ebsco.com/research-starters/history/last-hurrah-edwin-oconnor
+29,top2019:5342,2019,THE GUARDIANS,FIRST,high,FIRST,high,B,MATCH,https://www.bookrags.com/studyguide-the-guardians-a-novel/styles.html
+30,top2016:6757,2016,THE WRONG SIDE OF GOODBYE,THIRD,high,THIRD,high,A,MATCH,https://www.michaelconnelly.com/writing/the-wrong-side-of-goodbye/the-wrong-side-of-goodbye-excerpt/

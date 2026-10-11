@@ -1,0 +1,454 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:INTERMEZZO|Sally Rooney",
+  "quotes": [
+    {
+      "quote_id": "q08831",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person generalization; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08832",
+      "person_signal": "non_base",
+      "note": "Gnomic questions without a story-specific narrator or addressee."
+    },
+    {
+      "quote_id": "q08833",
+      "person_signal": "third",
+      "note": "The first-person words are Ivan's direct thought, explicitly framed by third-person 'he thinks' narration."
+    },
+    {
+      "quote_id": "q08834",
+      "person_signal": "third",
+      "note": "Third-person narration frames an extended first-person thought attributed to 'he.'"
+    },
+    {
+      "quote_id": "q08835",
+      "person_signal": "non_base",
+      "note": "Character speech; its first-person language is not narratorial."
+    },
+    {
+      "quote_id": "q08836",
+      "person_signal": "third",
+      "note": "Sustained external narration focalized through Ivan as 'he' and 'him.'"
+    },
+    {
+      "quote_id": "q08837",
+      "person_signal": "third",
+      "note": "The character's proposition is explicitly framed by third-person 'he thinks.'"
+    },
+    {
+      "quote_id": "q08838",
+      "person_signal": "non_base",
+      "note": "Gnomic use of generic 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08839",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q08840",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question without a story-specific narrator or addressee."
+    },
+    {
+      "quote_id": "q08841",
+      "person_signal": "non_base",
+      "note": "First and second person occur entirely in character speech."
+    },
+    {
+      "quote_id": "q08842",
+      "person_signal": "non_base",
+      "note": "Dialogue pronouns are local; the short speech tag alone is not sufficient person evidence."
+    },
+    {
+      "quote_id": "q08843",
+      "person_signal": "third",
+      "note": "External narration describes both speakers' actions as 'she' and 'he' around their dialogue."
+    },
+    {
+      "quote_id": "q08844",
+      "person_signal": "non_base",
+      "note": "Character speech rather than base narration."
+    },
+    {
+      "quote_id": "q08845",
+      "person_signal": "third",
+      "note": "Free-indirect scene narration presents a male focal character externally as 'his' and 'him.'"
+    },
+    {
+      "quote_id": "q08846",
+      "person_signal": "unmarked",
+      "note": "Free-indirect, generic 'you' phrasing lacks enough local framing to establish narrative person."
+    },
+    {
+      "quote_id": "q08847",
+      "person_signal": "third",
+      "note": "The reflection is explicitly attributed through 'she thinks.'"
+    },
+    {
+      "quote_id": "q08848",
+      "person_signal": "third",
+      "note": "Sustained narration presents Margaret externally as 'she' while conveying her experience."
+    },
+    {
+      "quote_id": "q08849",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to quoted speech."
+    },
+    {
+      "quote_id": "q08850",
+      "person_signal": "unmarked",
+      "note": "Fragmentary free-indirect reflection does not locally identify the narrator's person."
+    },
+    {
+      "quote_id": "q08851",
+      "person_signal": "unmarked",
+      "note": "Rhetorical reflection contains no diagnostic narrator or focal-character framing."
+    },
+    {
+      "quote_id": "q08852",
+      "person_signal": "unmarked",
+      "note": "The theological reflection does not locally expose the base narrator's person."
+    },
+    {
+      "quote_id": "q08853",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q08854",
+      "person_signal": "third",
+      "note": "The reflection is explicitly embedded in third-person narration with 'he thinks.'"
+    },
+    {
+      "quote_id": "q08855",
+      "person_signal": "third",
+      "note": "Extended close narration presents the focal character and Margaret as 'he' and 'her.'"
+    },
+    {
+      "quote_id": "q08856",
+      "person_signal": "third",
+      "note": "Close narration repeatedly presents the focal character as 'he' and 'himself.'"
+    },
+    {
+      "quote_id": "q08857",
+      "person_signal": "third",
+      "note": "Sustained access to a character's desires is narrated externally as 'he.'"
+    },
+    {
+      "quote_id": "q08858",
+      "person_signal": "unmarked",
+      "note": "Unattributed rhetorical thought lacks local evidence of the base narrator's person."
+    },
+    {
+      "quote_id": "q08859",
+      "person_signal": "unmarked",
+      "note": "A clipped comparison about Ivan and his brother is not enough by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q08860",
+      "person_signal": "unmarked",
+      "note": "Abstract rhetorical questions contain no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q08861",
+      "person_signal": "third",
+      "note": "Sustained narration renders Ivan's experience externally through 'he,' 'him,' and 'her.'"
+    },
+    {
+      "quote_id": "q08862",
+      "person_signal": "third",
+      "note": "The thought is explicitly attributed to a female character with 'she thinks.'"
+    },
+    {
+      "quote_id": "q08863",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in an extended conversation."
+    },
+    {
+      "quote_id": "q08864",
+      "person_signal": "third",
+      "note": "Scene narration presents the focal character externally as 'he' and 'him.'"
+    },
+    {
+      "quote_id": "q08865",
+      "person_signal": "third",
+      "note": "Narration describes the focal character's action and feeling as 'he' and 'himself.'"
+    },
+    {
+      "quote_id": "q08866",
+      "person_signal": "third",
+      "note": "The proposition is framed as a male character's thought and remembered speech."
+    },
+    {
+      "quote_id": "q08867",
+      "person_signal": "third",
+      "note": "Close narration describes a male focal character externally as 'he' and 'him.'"
+    },
+    {
+      "quote_id": "q08868",
+      "person_signal": "non_base",
+      "note": "First and generic second person occur within dialogue."
+    },
+    {
+      "quote_id": "q08869",
+      "person_signal": "unmarked",
+      "note": "Atmospheric fragment with no diagnostic narrator or focal character."
+    },
+    {
+      "quote_id": "q08870",
+      "person_signal": "third",
+      "note": "Past-tense close narration presents the focal character externally as 'he,' 'him,' and 'himself.'"
+    },
+    {
+      "quote_id": "q08871",
+      "person_signal": "third",
+      "note": "Free-indirect narration culminates in an external reference to the focal character as 'she.'"
+    },
+    {
+      "quote_id": "q08872",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q08873",
+      "person_signal": "third",
+      "note": "The passage shifts through characters' concerns while explicitly framing the focalizer as 'her.'"
+    },
+    {
+      "quote_id": "q08874",
+      "person_signal": "third",
+      "note": "Extended free-indirect narration treats Margaret and her mental conflict externally."
+    },
+    {
+      "quote_id": "q08875",
+      "person_signal": "third",
+      "note": "Close narration presents the focal character externally as 'she.'"
+    },
+    {
+      "quote_id": "q08876",
+      "person_signal": "non_base",
+      "note": "Gnomic fragments do not identify a participating narrator."
+    },
+    {
+      "quote_id": "q08877",
+      "person_signal": "non_base",
+      "note": "First-person declaration occurs in dialogue."
+    },
+    {
+      "quote_id": "q08878",
+      "person_signal": "third",
+      "note": "Clipped free-indirect questions are anchored by the external reference 'she.'"
+    },
+    {
+      "quote_id": "q08879",
+      "person_signal": "third",
+      "note": "The apparent self-address 'you' is local free-indirect thought, while the passage identifies the focal character externally as 'herself' and 'she.'"
+    },
+    {
+      "quote_id": "q08880",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' appears in a fragmentary reflection without enough local framing to determine base person."
+    },
+    {
+      "quote_id": "q08881",
+      "person_signal": "unmarked",
+      "note": "A brief fragment naming Peter and 'he' is insufficient alone to establish narrator participation."
+    },
+    {
+      "quote_id": "q08882",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to an extended character speech."
+    },
+    {
+      "quote_id": "q08883",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur entirely in dialogue."
+    },
+    {
+      "quote_id": "q08884",
+      "person_signal": "non_base",
+      "note": "First-person account and second-person address are character speech."
+    },
+    {
+      "quote_id": "q08885",
+      "person_signal": "third",
+      "note": "Sustained scene narration renders a male character's embodied response as 'him' and 'he.'"
+    },
+    {
+      "quote_id": "q08886",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur in direct speech."
+    },
+    {
+      "quote_id": "q08887",
+      "person_signal": "third",
+      "note": "The opening first-person sentences are a character's direct thought; surrounding narration presents him and his father in third person."
+    },
+    {
+      "quote_id": "q08888",
+      "person_signal": "third",
+      "note": "Sustained external narration analyzes Nuala and her family, explicitly attributing the view to Anna."
+    },
+    {
+      "quote_id": "q08889",
+      "person_signal": "third",
+      "note": "Scene narration presents both characters externally as 'they.'"
+    },
+    {
+      "quote_id": "q08890",
+      "person_signal": "third",
+      "note": "Extended narratorial characterization presents Peter externally as 'he' and 'him.'"
+    },
+    {
+      "quote_id": "q08891",
+      "person_signal": "non_base",
+      "note": "Gnomic proposition without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q08892",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' appears in an unattributed reflection, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q08893",
+      "person_signal": "third",
+      "note": "Close narration presents the focal character externally as 'he' and 'his.'"
+    },
+    {
+      "quote_id": "q08894",
+      "person_signal": "third",
+      "note": "Sustained narration names Margaret and describes her perception through 'she' and 'her.'"
+    },
+    {
+      "quote_id": "q08895",
+      "person_signal": "third",
+      "note": "Past-tense narration presents both characters externally as 'he' and 'she.'"
+    },
+    {
+      "quote_id": "q08896",
+      "person_signal": "third",
+      "note": "Close narration refers to the focal character externally as 'he.'"
+    },
+    {
+      "quote_id": "q08897",
+      "person_signal": "third",
+      "note": "Narration names Margaret and attributes knowledge and self-questioning to 'her' and 'herself.'"
+    },
+    {
+      "quote_id": "q08898",
+      "person_signal": "third",
+      "note": "Extended free-indirect narration presents Ivan externally as 'his,' 'he,' and by name."
+    },
+    {
+      "quote_id": "q08899",
+      "person_signal": "third",
+      "note": "The reflection is explicitly framed by 'he thinks' and 'he supposes.'"
+    },
+    {
+      "quote_id": "q08900",
+      "person_signal": "third",
+      "note": "Sustained past-tense free-indirect narration presents the focal character as 'he' and 'his.'"
+    },
+    {
+      "quote_id": "q08901",
+      "person_signal": "non_base",
+      "note": "Gnomic generic 'you' does not indicate second-person base narration."
+    },
+    {
+      "quote_id": "q08902",
+      "person_signal": "third",
+      "note": "Free-indirect fragments are anchored by external references to the focal character as 'his' and 'he.'"
+    },
+    {
+      "quote_id": "q08903",
+      "person_signal": "unmarked",
+      "note": "Clipped free-indirect fragment with only a possessive 'her' provides limited local person evidence."
+    },
+    {
+      "quote_id": "q08904",
+      "person_signal": "unmarked",
+      "note": "Fragmentary reflection about an unspecified woman does not clearly expose the narrating position."
+    },
+    {
+      "quote_id": "q08905",
+      "person_signal": "third",
+      "note": "Although dominated by dialogue, the surrounding narration consistently frames the speakers as 'he' and 'she.'"
+    },
+    {
+      "quote_id": "q08906",
+      "person_signal": "third",
+      "note": "Third-person scene narration and speech tags frame the first-person confession as dialogue."
+    },
+    {
+      "quote_id": "q08907",
+      "person_signal": "non_base",
+      "note": "Second-person accusations and first-person response occur in character speech."
+    },
+    {
+      "quote_id": "q08908",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur entirely in dialogue."
+    },
+    {
+      "quote_id": "q08909",
+      "person_signal": "third",
+      "note": "Third-person narration frames quoted or remembered sexual utterances as part of a male character's consciousness."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.newyorker.com/magazine/2024/07/08/opening-theory-fiction-sally-rooney",
+      "title": "\u201cOpening Theory,\u201d by Sally Rooney",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized extract drawn from Intermezzo sustains third-person narration through both Ivan and Margaret, including close access to their thoughts."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2024/sep/22/intermezzo-by-sally-rooney-review-is-there-a-better-writer-at-work-right-now",
+      "title": "Intermezzo by Sally Rooney review \u2013 is there a better writer at work right now?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes the novel as switching among third-person interior monologues from Ivan, Margaret, and Peter."
+    },
+    {
+      "url": "https://apnews.com/article/sally-rooney-intermezzo-book-review-7bd20450504ea13131f770a4bac9d33b",
+      "title": "Book Review: Sally Rooney\u2019s latest novel \u2018Intermezzo\u2019 examines unacknowledged grief",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "AP explicitly identifies Rooney's close third-person voice and explains that the novel alternates among character perspectives."
+    },
+    {
+      "url": "https://www.theatlantic.com/books/archive/2024/09/sally-rooney-new-novel-intermezzo/679926/",
+      "title": "The Rooneyverse Comes of Age",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Atlantic describes the book as close third person with chapters alternating between Peter and Ivan."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cSally Rooney Intermezzo official excerpt publisher\u201d and located the authorized New Yorker extract drawn from the novel.",
+    "Searched \u201cIntermezzo Sally Rooney point of view third person narration review\u201d and opened explicit structural descriptions from The Guardian, AP, and The Atlantic.",
+    "Searched \u201cIntermezzo Sally Rooney excerpt Peter Ivan third person\u201d and \u201cIntermezzo Rooney narrative style third person alternating perspectives\u201d to check for sustained first- or second-person sections; none were reported by credible sources.",
+    "Searched FSG, Penguin Random House, New Yorker, and Google Books domains for publisher or preview material; Google Books reported no preview, while the New Yorker supplied the usable authorized extract."
+  ],
+  "person_note": "The quote set repeatedly shows close third-person and free-indirect narration through Ivan, Peter, Margaret, and other characters. Apparent first-person passages are dialogue or direct thought framed by forms such as \u201che thinks,\u201d while generic or self-addressed \u201cyou\u201d passages are gnomic or local free-indirect language rather than a sustained second-person narrator. The authorized extract independently demonstrates third-person narration across Ivan and Margaret, and several credible whole-book reviews explicitly describe close third person with alternating focal perspectives. Alternation of focal character and prose style does not constitute alternation of grammatical narrative person. No credible evidence of sustained first- or second-person base sections was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_086",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:18:49.069075+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2437fd8b1d3fe0af4829f2c559ef0f5b82473fa27024aed58136e73ebe912e14"
+  }
+}

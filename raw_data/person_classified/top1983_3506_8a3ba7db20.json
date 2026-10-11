@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1983:3506",
+  "quotes": [
+    {
+      "quote_id": "q00929",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary without a story-participating narrator."
+    },
+    {
+      "quote_id": "q00930",
+      "person_signal": "non_base",
+      "note": "Aphorism; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00931",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection about cats within Louis's focalization; no narrator participation is exposed."
+    },
+    {
+      "quote_id": "q00932",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00933",
+      "person_signal": "non_base",
+      "note": "Context confirms this is Jud's speech, despite the event bucket."
+    },
+    {
+      "quote_id": "q00934",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' in a third-person passage, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00935",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim without diagnostic narration."
+    },
+    {
+      "quote_id": "q00936",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00937",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without narrator-person evidence."
+    },
+    {
+      "quote_id": "q00938",
+      "person_signal": "non_base",
+      "note": "Context confirms Louis says this while explaining faith and death to Ellie; its first person belongs to dialogue."
+    },
+    {
+      "quote_id": "q00939",
+      "person_signal": "non_base",
+      "note": "Ellie's direct speech."
+    },
+    {
+      "quote_id": "q00940",
+      "person_signal": "non_base",
+      "note": "Gnomic interpretation rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00941",
+      "person_signal": "non_base",
+      "note": "A local reflective maxim associated with Louis's consciousness, not narrator participation."
+    },
+    {
+      "quote_id": "q00942",
+      "person_signal": "non_base",
+      "note": "Context identifies this aphorism as Jud's dialogue."
+    },
+    {
+      "quote_id": "q00943",
+      "person_signal": "non_base",
+      "note": "Context confirms this is Jud's direct speech, despite the event bucket."
+    },
+    {
+      "quote_id": "q00944",
+      "person_signal": "third",
+      "note": "Sustained scene narration calls Louis 'he,' describes Ellie externally, and reports Louis's beliefs without a participating narrator."
+    },
+    {
+      "quote_id": "q00945",
+      "person_signal": "non_base",
+      "note": "Context confirms this is spoken by Louis during an argument with Rachel."
+    },
+    {
+      "quote_id": "q00946",
+      "person_signal": "non_base",
+      "note": "Context places these images inside the quoted reply of a character's mother, despite the event bucket."
+    },
+    {
+      "quote_id": "q00947",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00948",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person plural generalization, not a participating narrator."
+    },
+    {
+      "quote_id": "q00949",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00950",
+      "person_signal": "non_base",
+      "note": "The first-person phrase is Louis's local reflection/free-direct thought, not a participating base narrator."
+    },
+    {
+      "quote_id": "q00951",
+      "person_signal": "unmarked",
+      "note": "Possible base-narrative reflection using generic 'you'; it does not independently identify person."
+    },
+    {
+      "quote_id": "q00952",
+      "person_signal": "unmarked",
+      "note": "Scenic description without a narrator or character pronoun; the clipped passage alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q00953",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.net/books/Pet-Sematary/Stephen-King/9780743412285",
+      "title": "Pet Sematary | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter One excerpt sustains third-person narration of Louis and the Creed family, including access to Louis's thoughts, with no participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-pet-sematary/style.html",
+      "title": "Stephen King Writing Styles in Pet Sematary",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies primarily third-person limited narration through Louis and explains that focalization also shifts to Jud, Rachel, and other characters."
+    },
+    {
+      "url": "https://www.supersummary.com/pet-sematary/summary/",
+      "title": "Pet Sematary Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly says the novel is written in third person, mostly limited to Louis, while noting interior access to Rachel and Jud in Part Two."
+    },
+    {
+      "url": "https://bookanalysis.com/stephen-king/pet-sematary/",
+      "title": "Pet Sematary by Stephen King - Book Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book-level key facts explicitly classify the point of view as third-person limited."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Pet Sematary Stephen King excerpt publisher first chapter\" and opened the Simon & Schuster authorized Chapter One excerpt.",
+    "Searched for \"Pet Sematary point of view\", \"third person\", \"narrator\", and \"narrative perspective\"; opened the BookRags, SuperSummary, and Book Analysis discussions rather than relying on snippets.",
+    "Searched specifically for alternating narration, multiple narrators, epistolary structure, and first-person narration; results consistently described shifts among Louis, Rachel, and Jud as third-person focalization rather than changes of grammatical person.",
+    "Ran exact-phrase searches and inspected surrounding text for ambiguous quotes; this established that q00933, q00938, q00942, q00943, q00945, and q00946 are speech or embedded material, while q00950 is Louis's local reflection.",
+    "Google Books supplied plot/catalog material but no useful sustained prose in the opened page; the Hachette page exposed promotional copy rather than its advertised extract, so neither was used as person evidence.",
+    "Targeted follow-up found two student theses casually labeling the narration first person, but neither performed a narratological analysis and both claims are directly contradicted by the authorized excerpt and multiple whole-book POV guides; they were treated as terminology or classification errors rather than usable contrary evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates the novel in third person, primarily through Louis while sometimes shifting focalization to Rachel, Jud, and others. Quote q00944 independently demonstrates this arrangement, and the authorized opening plus three explicit whole-book sources corroborate it. Apparent first-person material is local: q00938 and q00945 are Louis's speech, q00950 is his thought, and other first-person or second-person forms are dialogue or generic maxims. The focalization shifts therefore do not warrant ALTERNATING. The only residual issue is erroneous first-person terminology in two tangential student theses, outweighed by direct primary text and consistent structural evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_022",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T19:46:26.754543+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "be41b49723df3413dde245c88ab92d21d98ff2df8daa9688fbb0980ca15382f3"
+  }
+}

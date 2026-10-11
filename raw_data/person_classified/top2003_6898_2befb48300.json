@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:6898",
+  "quotes": [
+    {
+      "quote_id": "q00012",
+      "person_signal": "first",
+      "note": "Stephanie's base narration uses \u201cI,\u201d \u201cI'm,\u201d and self-description outside dialogue."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "first",
+      "note": "Despite faulty spacing, the narratorial speech tag \u201cI said\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "first",
+      "note": "The narrator reports checking her own messages as \u201cI\u201d and identifies Joe and Ranger's messages."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "Direct dialogue with an extratextual speaker attribution; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "first",
+      "note": "Extended scene narration repeatedly uses \u201cI\u201d and \u201cmy\u201d for Stephanie outside the quoted speech."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "unmarked",
+      "note": "The action frame and dialogue contain no narratorial self-reference; Morelli's spoken \u201cI\u201d is non-diagnostic."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "first",
+      "note": "The narratorial tag \u201cI said\u201d exposes Stephanie's participating base voice."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "first",
+      "note": "Outside dialogue, the narrator says \u201cI felt\u201d and \u201cI knew,\u201d clearly exposing participating narration."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "A dialogue-only exchange with an extratextual character attribution."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "non_base",
+      "note": "Generic gnomic advice uses universal \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "Valerie's direct speech and the appended attribution are local dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "first",
+      "note": "The narratorial tag \u201cI told Tank\u201d identifies the participating narrator outside Tank's speech."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "unmarked",
+      "note": "This narratorial description of Ranger contains no reference that identifies the narrator's person."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "non_base",
+      "note": "Grandma's direct speech and a simple attribution do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "first",
+      "note": "The narratorial tag \u201cI asked Morelli\u201d identifies Stephanie as the participating narrator."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Dialogue and Lula's attribution contain no diagnostic base-narrator language."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "unmarked",
+      "note": "A bare third-person description of a male character is compatible with first-person narration and is not diagnostic."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "unclear",
+      "note": "Corrupted quotation boundaries and an apparent added \u201cStephanie said\u201d attribution prevent reliable use of the local wording."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "Mrs. Apusenja's direct speech is not base narration."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "The aphoristic statement contains no diagnostic story narration."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "unmarked",
+      "note": "The scene describes other characters externally, while idiomatic \u201cWe're talking\u201d does not establish narrator participation or sustained second person."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "first",
+      "note": "The narrator's \u201cmy mother warned me\u201d and subsequent personal recollection clearly expose participating narration."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "first",
+      "note": "The narratorial tag \u201cI said\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "non_base",
+      "note": "An unattributed dialogue fragment whose first-person pronouns cannot be assigned to the base narrator."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Morelli's direct speech is local dialogue; the third-person speech tag does not establish a third-person narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://evanovich.com/to-the-nines-excerpt/",
+      "title": "To the Nines Excerpt \u2013 Janet Evanovich, #1 NYT Bestselling Author",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's official, sustained Chapter One excerpt names Stephanie Plum and repeatedly narrates her actions, perceptions, and history with \u201cI,\u201d \u201cme,\u201d and \u201cmy\u201d outside dialogue."
+    },
+    {
+      "url": "https://abooksellerblog.blogspot.com/2015/09/",
+      "title": "To the Nines - Stephanie Plum Has More Than Nine Lives",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The book-specific review explicitly states that To the Nines is written in first person from Stephanie's point of view."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cTo the Nines Janet Evanovich excerpt first chapter\u201d and publisher/Google Books variants; found and opened the author's official Chapter One excerpt.",
+    "Opened the Google Books record, but its accessible landing page supplied catalog and synopsis material rather than usable narrative prose.",
+    "Searched \u201cTo the Nines\u201d with \u201cfirst person,\u201d \u201cpoint of view,\u201d and \u201cnarrator\u201d; opened an explicit whole-book first-person description and corroborating series-level discussions.",
+    "Searched \u201cTo the Nines\u201d with \u201calternating narrator,\u201d \u201cmultiple narrators,\u201d \u201cepistolary,\u201d \u201cdiary,\u201d and \u201cframe narrative\u201d; found no credible evidence of a different sustained narrative person or framing structure.",
+    "Opened the Macmillan title page and Publishers Weekly-related material; these confirmed the work and Stephanie-centered story but added no stronger whole-book person evidence than the cited sources."
+  ],
+  "person_note": "The controlling narrator is Stephanie Plum. Numerous interior quote passages independently expose her \u201cI\u201d/\u201cmy\u201d narration, and the authorized Chapter One excerpt sustains the same voice; a book-specific review also explicitly describes the whole novel as first person from Stephanie's point of view. Third-person references merely describe other characters within Stephanie's account. Dialogue pronouns are local, and q00029's malformed attribution is clipping noise rather than evidence of another narrative strand. Targeted research found no alternating or framed narration. The Tier A source covers only the opening, but the interior quote evidence and whole-book description resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_039",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T20:53:26.969314+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "022288e086b73d598bea00e9316fac8ddc171da1a6ab7663cde071eb5843d182"
+  }
+}

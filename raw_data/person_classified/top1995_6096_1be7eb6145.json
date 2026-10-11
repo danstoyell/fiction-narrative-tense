@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1995:6096",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative with generic 'you'; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "first",
+      "note": "The participating narrator describes his own circumstances and emotions as 'I.'"
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "first",
+      "note": "The narrator uses 'I' to assess his knowledge after attending law school."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Direct prayer or speech rather than evidence of the controlling narration."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "Generalized observation without a narrating participant."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about law students; its generalized 'we' is not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "first",
+      "note": "The narrator participates in the scene through 'we' as the coffee arrives."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "first",
+      "note": "The narrator identifies the character as 'my client' and states his own decision."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "General maxim about lawyers, not story-specific narration."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "first",
+      "note": "The participating narrator moves from collective 'we' to personal 'I' reflection."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "first",
+      "note": "The narrator describes his motivation and identifies Donny Ray as his client."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "Aphoristic comparison rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "first",
+      "note": "The narrator reports what 'I' did or did not hear during a past event."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "first",
+      "note": "The narrator participates directly, describing his own entrance into the law school."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "first",
+      "note": "Sustained scene narration includes the narrator's personal judgment, 'I doubt.'"
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "first",
+      "note": "The narrator describes his perceptions, actions, and shared law-school experience as 'I' and 'we.'"
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "unmarked",
+      "note": "The framing clause may be base narration, but generic 'you' and quoted advice do not establish its person."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion about affluence rather than story narration."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "first",
+      "note": "Despite a clipped opening, the narrator explicitly voices his own uncertainty as 'I.'"
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "unmarked",
+      "note": "The outer narration describes Deck, while the colon introduces his local ethical rules; neither identifies the base narrator's person."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "first",
+      "note": "The narrator explicitly marks his own inference with 'I'm sure.'"
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "first",
+      "note": "The narrator recounts his shared law-school experience and personal condition through 'we' and 'I.'"
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "first",
+      "note": "The narrator reflects on what he may do in his own future using repeated 'I.'"
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "unclear",
+      "note": "The clipped fragment has no recoverable narrator or surrounding structure."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/the-rainmaker/",
+      "title": "The Rainmaker by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's official site supplies an authorized Chapter One excerpt narrated by a participating 'I' discussing his father and decision to become a lawyer."
+    },
+    {
+      "url": "https://www.bookrags.com/shortguide-rainmaker/techniques.html",
+      "title": "Writing Techniques in The Rainmaker",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This structural study-guide entry, credited to Gale, explicitly identifies a first-person narrator, associates the voice with Rudy, and describes the novel's present-tense narration."
+    },
+    {
+      "url": "https://www.enotes.com/topics/rainmaker/in-depth",
+      "title": "The Rainmaker Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The analysis explicitly describes the novel's first-person narrative, identifies Rudy Baylor as narrator, and discusses the trial and other plot stages as presented through Rudy's narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Rainmaker John Grisham first person narrator Rudy Baylor point of view\" and opened explicit narrative analyses.",
+    "Searched \"The Rainmaker John Grisham excerpt chapter one Rudy Baylor\" and opened the authorized excerpt on John Grisham's official site.",
+    "Searched \"site:jgrisham.com The Rainmaker excerpt\" and verified that the official excerpt is limited to Chapter One.",
+    "Searched \"The Rainmaker John Grisham Google Books preview narrator\"; the Google Books result was a limited-preview catalog page and did not independently establish narrative person.",
+    "Searched \"site:penguinrandomhouse.com/books The Rainmaker John Grisham excerpt\"; the publisher product page offered catalog copy and a sample control but no additional crawlable interior person evidence.",
+    "Searched \"The Rainmaker first person narrator Grisham Gale\" and opened the Gale-credited BookRags structural discussion.",
+    "Searched \"The Rainmaker Rudy first-person narrative\" and opened the eNotes whole-book analysis.",
+    "A Christian Science Monitor review search result explicitly described the tale as first-person present, but the article returned a 403 when opened, so it was excluded from web evidence."
+  ],
+  "person_note": "The Goodreads evidence repeatedly exposes Rudy Baylor as a participating 'I' narrator across law school, client work, and litigation-related scenes. The official opening independently uses the same participating voice, while two whole-book structural sources explicitly identify Rudy's first-person narration. Generic second-person language in q00001 and q00018 is maxim-like rather than sustained address to a protagonist, and the speech, gnomic material, and Deck's embedded rules do not constitute competing narrative sections. No evidence of sustained third- or second-person base narration was found; the official excerpt's opening-only scope is offset by extensive interior quote evidence and whole-book structural descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_029",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:32:01.012838+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6efe69f23b70a532576009204d14b81ffc075832d8a54d90c221dc9de367aace"
+  }
+}

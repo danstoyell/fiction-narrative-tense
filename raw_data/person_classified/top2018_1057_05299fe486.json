@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:1057",
+  "quotes": [
+    {
+      "quote_id": "q02649",
+      "person_signal": "first",
+      "note": "The participating narrator refers to herself as \u201cme\u201d while describing a specific relationship."
+    },
+    {
+      "quote_id": "q02650",
+      "person_signal": "first",
+      "note": "\u201cHe showed me\u201d places the participating narrator within the narrated event."
+    },
+    {
+      "quote_id": "q02651",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about poets and women; its first-person wording does not constitute story narration."
+    },
+    {
+      "quote_id": "q02652",
+      "person_signal": "first",
+      "note": "The base narrator\u2019s \u201cI thought\u201d frames an embedded thought."
+    },
+    {
+      "quote_id": "q02653",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d exposes the participating narrator\u2019s present perspective on earlier beliefs."
+    },
+    {
+      "quote_id": "q02654",
+      "person_signal": "first",
+      "note": "The narrator\u2019s \u201cI had ever believed\u201d and \u201cI no longer did\u201d describe her changing belief."
+    },
+    {
+      "quote_id": "q02655",
+      "person_signal": "non_base",
+      "note": "An explicitly gnomic comparison introduced by \u201cI would say,\u201d not a narrated event."
+    },
+    {
+      "quote_id": "q02656",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to another character does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02657",
+      "person_signal": "non_base",
+      "note": "Universal reflection about parents; \u201cwe\u201d is generic rather than story-participating narration."
+    },
+    {
+      "quote_id": "q02658",
+      "person_signal": "non_base",
+      "note": "Gnomic claims about being alive; \u201cwe\u201d and \u201cyour\u201d are universal."
+    },
+    {
+      "quote_id": "q02659",
+      "person_signal": "first",
+      "note": "Sustained scene narration begins with the narrator\u2019s \u201cI had spent\u201d before the quoted exchange."
+    },
+    {
+      "quote_id": "q02660",
+      "person_signal": "non_base",
+      "note": "Generic reflection on what gods and mortals think when young."
+    },
+    {
+      "quote_id": "q02661",
+      "person_signal": "first",
+      "note": "Although mostly dialogue, the outside speech beat \u201cI said\u201d diagnostically exposes the participating narrator."
+    },
+    {
+      "quote_id": "q02662",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q02663",
+      "person_signal": "first",
+      "note": "The narrator reflects on \u201cmy life\u201d and identifies herself repeatedly as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02664",
+      "person_signal": "first",
+      "note": "Autobiographical narration explicitly begins with \u201cWhen I was born.\u201d"
+    },
+    {
+      "quote_id": "q02665",
+      "person_signal": "first",
+      "note": "The base-narrative thought tag \u201cI thought\u201d identifies the participating narrator; the surrounding sentence is embedded thought."
+    },
+    {
+      "quote_id": "q02666",
+      "person_signal": "first",
+      "note": "The narrator\u2019s \u201cI knew\u201d places her knowledge within the past story."
+    },
+    {
+      "quote_id": "q02667",
+      "person_signal": "non_base",
+      "note": "Generic second-person explanation about gods, not sustained narration of a story-specific \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q02668",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d narrates the speaker\u2019s perception, indifference, and thought within a specific event."
+    },
+    {
+      "quote_id": "q02669",
+      "person_signal": "non_base",
+      "note": "Proverbial second person is generic rather than base second-person narration."
+    },
+    {
+      "quote_id": "q02670",
+      "person_signal": "non_base",
+      "note": "A standalone present-tense aphorism, not diagnostic narration."
+    },
+    {
+      "quote_id": "q02671",
+      "person_signal": "first",
+      "note": "The passage is mostly speech, but the outside beat \u201cI said\u201d identifies the participating base narrator."
+    },
+    {
+      "quote_id": "q02672",
+      "person_signal": "first",
+      "note": "Sustained autobiographical reflection uses \u201cI had been\u201d and \u201cI did not have to.\u201d"
+    },
+    {
+      "quote_id": "q02673",
+      "person_signal": "first",
+      "note": "The narrator participates in the recalled exchange through \u201cI asked.\u201d"
+    },
+    {
+      "quote_id": "q02674",
+      "person_signal": "first",
+      "note": "\u201cMy first lesson\u201d anchors the following reflection in the narrator\u2019s own story."
+    },
+    {
+      "quote_id": "q02675",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization about gods, fame, and destruction rather than a specific narrated event."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/3739/page_number/1/circe",
+      "title": "Excerpt from Circe by Madeline Miller",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Authorized Chapter One, reproduced with Little, Brown\u2019s permission, sustains Circe\u2019s first-person narration across exposition and scene narration."
+    },
+    {
+      "url": "https://academic.oup.com/crj/article/16/4/405/7756223?guestAccessKey=b2c52d81-9f12-48aa-8fbf-10c4622ba6ac",
+      "title": "Circe, the female hero. First-person narrative and power in Madeline Miller\u2019s Circe",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A peer-reviewed Classical Receptions Journal article analyzes the novel\u2019s first-person narrative as its governing structure."
+    },
+    {
+      "url": "https://www.arts.gov/stories/podcast/madeline-miller",
+      "title": "Madeline Miller | National Endowment for the Arts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The NEA interviewer states that Circe\u2019s voice runs through the whole book and that the story is told in her first person; Miller confirms the characterization."
+    },
+    {
+      "url": "https://womensprize.com/archives-a-qa-with-womens-prize-winner-madeline-miller/",
+      "title": "Archives: A Q&A with Women\u2019s Prize winner Madeline Miller",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Miller explicitly identifies Circe as a first-person narrator and describes writing from inside her perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cCirce Madeline Miller official excerpt first chapter publisher,\u201d \u201cCirce Madeline Miller first person narrator point of view interview,\u201d and site-specific author and publisher queries.",
+    "Searched \u201cCirce Madeline Miller review first-person narration,\u201d \u201cCirce Madeline Miller chapter one excerpt,\u201d and Google Books preview queries for structural corroboration.",
+    "Opened and inspected the authorized BookBrowse Chapter One excerpt, the NEA interview transcript, the Women\u2019s Prize author Q&A, and the Oxford Academic journal article before using them.",
+    "A PBS NewsHour result contained an explicit first-person statement in search results but returned HTTP 403 when opened, so it was not used as evidence.",
+    "Bloomsbury catalog and Google Books pages supplied bibliographic or promotional material but no useful sustained interior excerpt; research found no credible indication of alternating or non-first-person sections."
+  ],
+  "person_note": "Circe is the participating narrator and tells her own life story in first person. Numerous event quotations independently expose her autobiographical \u201cI,\u201d \u201cme,\u201d and \u201cmy\u201d; gnomic statements and direct speech were excluded except where an outside \u201cI said\u201d beat identifies the narrator. The authorized opening, a whole-book scholarly analysis, and two explicit interviews agree, with no evidence of sustained narration in another person. The only material scope limitation is that the Tier A prose source covers the opening, but the whole-book structural sources resolve that limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.261472+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4323b6b925d87287b69c725bb55c44c2d2515c1355e434209dcd8b316fac730f"
+  }
+}

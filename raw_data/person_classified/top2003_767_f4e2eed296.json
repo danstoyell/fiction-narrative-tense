@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:767",
+  "quotes": [
+    {
+      "quote_id": "q00876",
+      "person_signal": "non_base",
+      "note": "General aphorism without story-specific narration."
+    },
+    {
+      "quote_id": "q00877",
+      "person_signal": "third",
+      "note": "Sustained external narration describes Benton's childhood and present reflections without a participating narrator."
+    },
+    {
+      "quote_id": "q00878",
+      "person_signal": "unmarked",
+      "note": "Reports an unnamed character's beliefs, but the brief third-person reference does not independently establish the narrator."
+    },
+    {
+      "quote_id": "q00879",
+      "person_signal": "non_base",
+      "note": "Abstract metaphysical maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00880",
+      "person_signal": "non_base",
+      "note": "General observation about relationships, with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00881",
+      "person_signal": "non_base",
+      "note": "Universal advice using generic you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00882",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q00883",
+      "person_signal": "unmarked",
+      "note": "A single sentence about two characters does not by itself identify the narrator's person."
+    },
+    {
+      "quote_id": "q00884",
+      "person_signal": "unmarked",
+      "note": "The proper-name reference and clipped continuation do not independently establish narrative person."
+    },
+    {
+      "quote_id": "q00885",
+      "person_signal": "unmarked",
+      "note": "Brief description of a character's ability could occur within either first- or third-person narration."
+    },
+    {
+      "quote_id": "q00886",
+      "person_signal": "third",
+      "note": "Extended external account of a character's changing convictions and concealed belief supports third-person narration."
+    },
+    {
+      "quote_id": "q00887",
+      "person_signal": "unmarked",
+      "note": "A single named-character action does not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q00888",
+      "person_signal": "non_base",
+      "note": "Standalone maxim about change."
+    },
+    {
+      "quote_id": "q00889",
+      "person_signal": "non_base",
+      "note": "General aphorism about hatred rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00890",
+      "person_signal": "unmarked",
+      "note": "Narratorial characterization of Marino is too brief to exclude a participating narrator on its own."
+    },
+    {
+      "quote_id": "q00891",
+      "person_signal": "non_base",
+      "note": "Quoted aphorism rather than controlling narration."
+    },
+    {
+      "quote_id": "q00892",
+      "person_signal": "non_base",
+      "note": "Predominantly character dialogue; the short speech beats do not independently establish base person."
+    },
+    {
+      "quote_id": "q00893",
+      "person_signal": "third",
+      "note": "Sustained external exposition describes the books' history and Jean-Baptiste's acquisition of them without a participating narrator."
+    },
+    {
+      "quote_id": "q00894",
+      "person_signal": "non_base",
+      "note": "Biblical epigraph is paratext, not the novel's base narration."
+    },
+    {
+      "quote_id": "q00895",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-thought and ends mid-phrase, preventing reliable local attribution."
+    },
+    {
+      "quote_id": "q00896",
+      "person_signal": "non_base",
+      "note": "General maxim about names and manipulation."
+    },
+    {
+      "quote_id": "q00897",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its you-address does not indicate second-person narration."
+    },
+    {
+      "quote_id": "q00898",
+      "person_signal": "non_base",
+      "note": "Character dialogue and an attribution beat, not diagnostic controlling narration."
+    },
+    {
+      "quote_id": "q00899",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment without identifiable base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1307/blow-fly",
+      "title": "Excerpt from Blow Fly by Patricia Cornwell",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Copyright-holder-authorized Chapter 1 excerpt consistently narrates Scarpetta and other characters externally as she, including access to their perceptions."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2003/oct/19/crime.patriciacornwell",
+      "title": "Tough on crime",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Observer identifies Blow Fly as the first third-person Scarpetta novel and quotes Cornwell explaining her adoption of an omniscient viewpoint beyond Scarpetta's perspective."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/patricia-cornwell/blow-fly/",
+      "title": "BLOW FLY",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Kirkus explicitly describes Scarpetta as having a third-person narrator in this novel."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2006/10/11/cornwell-abandons-forensics-and-scarpetta-in/",
+      "title": "Cornwell Abandons Forensics and Scarpetta in \u2018At Risk\u2019",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Harvard Crimson states that Blow Fly is written in third person and uses a multiple-viewpoint method encompassing heroes and criminals."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Patricia Cornwell Blow Fly novel point of view third person review\" and \"Blow Fly Patricia Cornwell first person third person narration\"; opened the Guardian/Observer, Kirkus, and Harvard Crimson discussions.",
+    "Searched for \"Patricia Cornwell Blow Fly excerpt chapter 1\" and opened both pages of BookBrowse's permission-authorized Chapter 1 excerpt.",
+    "Searched for \"Blow Fly Patricia Cornwell omniscient multiple viewpoints narrator\" and for epistolary, diary, frame-narrative, and alternating-person descriptions; results consistently described multiple third-person focal viewpoints, not alternating grammatical persons.",
+    "Searched the author's site, Penguin Random House, and Google Books; their accessible pages supplied synopsis or catalog material rather than additional diagnostic prose, so they were not used as person evidence."
+  ],
+  "person_note": "The diagnostic Goodreads passages externally narrate Benton, another character's convictions, and Jean-Baptiste, while the many first- and second-person forms occur only in aphorisms or dialogue. The authorized opening independently maintains third-person narration, and whole-book sources explicitly identify an omniscient third-person structure with several character viewpoints. Those viewpoint changes remain within third person and therefore do not warrant ALTERNATING. The opening excerpt alone has limited scope, but the whole-book structural accounts and interior quote evidence remove the material uncertainty.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.237149+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "97d96f20cb11ee8d89b05b5818b76d1f23e136fdfce1e6395e1d17fe18f107d7"
+  }
+}

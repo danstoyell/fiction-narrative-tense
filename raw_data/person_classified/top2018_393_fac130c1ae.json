@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:393",
+  "quotes": [
+    {
+      "quote_id": "q03156",
+      "person_signal": "non_base",
+      "note": "General aphorism without story-specific narratorial participation."
+    },
+    {
+      "quote_id": "q03157",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim; \u201cyou\u201d does not designate a story protagonist."
+    },
+    {
+      "quote_id": "q03158",
+      "person_signal": "non_base",
+      "note": "General statement about justice, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03159",
+      "person_signal": "first",
+      "note": "The narrator participates as \u201cI\u201d while describing her friendship; the later \u201cyou\u201d is rhetorical."
+    },
+    {
+      "quote_id": "q03160",
+      "person_signal": "first",
+      "note": "Participating narrator reports her own reaction and observations as \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q03161",
+      "person_signal": "first",
+      "note": "A participating narrator reflects as \u201cI\u201d on how she would respond to her son's crime."
+    },
+    {
+      "quote_id": "q03162",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d expresses a character-specific standing attitude outside marked speech."
+    },
+    {
+      "quote_id": "q03163",
+      "person_signal": "unmarked",
+      "note": "Possible narration about \u201cshe,\u201d but this isolated third-person subject does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q03164",
+      "person_signal": "unclear",
+      "note": "The clipped ending leaves unresolved whether \u201cI think\u201d is narration or speech; the embedded \u201cwe\u201d is also generic."
+    },
+    {
+      "quote_id": "q03165",
+      "person_signal": "unmarked",
+      "note": "The passage applies a parenting reflection to a past situation but contains no explicit diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q03166",
+      "person_signal": "first",
+      "note": "The narrator participates explicitly as \u201cI\u201d in a specific scene at her parents' table."
+    },
+    {
+      "quote_id": "q03167",
+      "person_signal": "first",
+      "note": "Most of the passage is speech, but the outside beat \u201cI smiled and said\u201d diagnostically exposes a participating narrator."
+    },
+    {
+      "quote_id": "q03168",
+      "person_signal": "first",
+      "note": "The narrator reports her own past need as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03169",
+      "person_signal": "first",
+      "note": "Story-specific \u201cwe all needed that\u201d includes the participating narrator."
+    },
+    {
+      "quote_id": "q03170",
+      "person_signal": "first",
+      "note": "A participating narrator describes his own livelihood and woodworking experience as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03171",
+      "person_signal": "first",
+      "note": "Despite clipping, the interior question explicitly presents the narrator as \u201cI\u201d in relation to Finch."
+    },
+    {
+      "quote_id": "q03172",
+      "person_signal": "first",
+      "note": "The narrator participates through \u201cI thought of her,\u201d within sustained scene description."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780399178948",
+      "title": "All We Ever Wanted | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher's sustained Chapter One excerpt is headed \u201cNINA\u201d and consistently has Nina narrate her own experience as \u201cI.\u201d"
+    },
+    {
+      "url": "https://www.bookrags.com/questions/english-and-literature/All_We_Ever_Wanted/what-is-the-narrator-point-of-view-in-the-novel-all-we-ever-wanted--330235",
+      "title": "What is the narrator point of view in the novel, All We Ever Wanted?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Explicitly identifies the novel as first-person narration by three main characters: Nina, Tom, and Lyla."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/emily-giffin/all-we-ever-wanted/",
+      "title": "ALL WE EVER WANTED | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Credible structural review confirms chapter-to-chapter shifts among Nina, Tom, and Lyla, though it does not explicitly name the grammatical person."
+    },
+    {
+      "url": "https://app.thestorygraph.com/book_reviews/08847e7a-bcdd-4884-bd2c-cb11dcc123b2?page=3&sort=oldest",
+      "title": "Reviews - All We Ever Wanted | The StoryGraph",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "An opened reader review independently describes the book as switching among three first-person perspectives\u2014Nina, Tom, and Lyla; useful only as low-tier corroboration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cAll We Ever Wanted Emily Giffin excerpt first chapter\u201d and publisher/author-domain variants; opened the Penguin Random House excerpt, the author's book page, and ReadingGroupGuides excerpt.",
+    "Searched for \u201cthree narrators,\u201d \u201cthree perspectives,\u201d \u201cfirst person,\u201d and \u201calternating first-person\u201d; opened BookRags and StoryGraph results explicitly identifying Nina, Tom, and Lyla as the three first-person perspectives.",
+    "Searched for chapter-level Tom and Lyla excerpts; an Everand result exposed Tom's first-person prose in search output, but the page timed out when opened and was not used as evidence.",
+    "Searched Publishers Weekly, Kirkus, BookPage, and Library Journal for narrator or POV descriptions; opened Kirkus and Publishers Weekly, with Kirkus providing useful whole-book chapter-switching structure but not explicit grammatical person.",
+    "Tried opening the Penguin Random House Audio sample linked by Publishers Weekly; the embedded player failed to fetch and was not used."
+  ],
+  "person_note": "The diagnostic quotes repeatedly expose participating \u201cI\u201d narration and include character-specific material associated with more than one viewpoint, such as Nina's reflections about her son Finch and another narrator's woodworking livelihood. The publisher excerpt independently establishes Nina's first-person opening, while the explicit whole-book POV source identifies Nina, Tom, and Lyla as three first-person narrators; Kirkus corroborates that these viewpoints alternate by chapter. Because multiple narrators all use first person, the correct label is FIRST rather than ALTERNATING. Gnomic \u201cyou\u201d passages are universal, not second-person story narration, and the isolated \u201cshe\u201d passage does not establish third-person narration. The main limitation is that the authorized prose excerpt covers only the opening, but the whole-book structural sources and varied quote evidence show no contrary sustained person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.260769+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b5286b26c4a18aeed1c0c462f6cd08b584eac7ac6063e1bc6ed14f8dfb103e0f"
+  }
+}

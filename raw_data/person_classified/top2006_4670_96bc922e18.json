@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:4670",
+  "quotes": [
+    {
+      "quote_id": "q00379",
+      "person_signal": "first",
+      "note": "Narrator reflects on her own experience of surviving."
+    },
+    {
+      "quote_id": "q00380",
+      "person_signal": "non_base",
+      "note": "General reflection on women's freedom; no diagnostic narrative person."
+    },
+    {
+      "quote_id": "q00381",
+      "person_signal": "non_base",
+      "note": "Impersonal maxim about grace."
+    },
+    {
+      "quote_id": "q00382",
+      "person_signal": "non_base",
+      "note": "General proverbial statement."
+    },
+    {
+      "quote_id": "q00383",
+      "person_signal": "first",
+      "note": "Narrating woman includes herself in the story-specific group of young women."
+    },
+    {
+      "quote_id": "q00384",
+      "person_signal": "non_base",
+      "note": "Generalization about women's lives."
+    },
+    {
+      "quote_id": "q00385",
+      "person_signal": "unmarked",
+      "note": "Statement about a child does not identify narrator participation; appended reader comment is extraneous."
+    },
+    {
+      "quote_id": "q00386",
+      "person_signal": "non_base",
+      "note": "Dialogue without an outside narratorial beat; speech pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q00387",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, the smile is directed at the participating narrator: 'at me'."
+    },
+    {
+      "quote_id": "q00388",
+      "person_signal": "first",
+      "note": "Narrator directly expresses her own judgment through 'I can\u2019t think'."
+    },
+    {
+      "quote_id": "q00389",
+      "person_signal": "unmarked",
+      "note": "National and rhetorical we/us do not independently establish a story-participating narrator."
+    },
+    {
+      "quote_id": "q00390",
+      "person_signal": "first",
+      "note": "Narrator reports her own bodily response to the king's power."
+    },
+    {
+      "quote_id": "q00391",
+      "person_signal": "first",
+      "note": "Personal reflection identifies the narrator through her grandmother and her precarious position."
+    },
+    {
+      "quote_id": "q00392",
+      "person_signal": "non_base",
+      "note": "Gnomic observation about men; no diagnostic base-person evidence."
+    },
+    {
+      "quote_id": "q00393",
+      "person_signal": "unmarked",
+      "note": "Description of two dancers is compatible with observation by a participating narrator."
+    },
+    {
+      "quote_id": "q00394",
+      "person_signal": "first",
+      "note": "Narrator describes her own childlessness and desire to care for a child."
+    },
+    {
+      "quote_id": "q00395",
+      "person_signal": "first",
+      "note": "Despite clipped edges, the narrator's statement that she has three new hoods remains diagnostic."
+    },
+    {
+      "quote_id": "q00396",
+      "person_signal": "first",
+      "note": "Participating narrator recalls her time at court and her own love for the king."
+    },
+    {
+      "quote_id": "q00397",
+      "person_signal": "non_base",
+      "note": "General judgment about remaining single with an income."
+    },
+    {
+      "quote_id": "q00398",
+      "person_signal": "non_base",
+      "note": "General assertion about women's inability to establish innocence."
+    },
+    {
+      "quote_id": "q00399",
+      "person_signal": "first",
+      "note": "Story-specific we identifies the narrator as one of two women attempting to survive."
+    },
+    {
+      "quote_id": "q00400",
+      "person_signal": "non_base",
+      "note": "Rhetorical generalization does not identify narrative person."
+    },
+    {
+      "quote_id": "q00401",
+      "person_signal": "unmarked",
+      "note": "Opened excerpt resolves this as Jane's opening narration, but the clipped words themselves omit the diagnostic first-person frame."
+    },
+    {
+      "quote_id": "q00402",
+      "person_signal": "unclear",
+      "note": "Clipped first-person fragment lacks enough context to distinguish narration from speech reliably."
+    },
+    {
+      "quote_id": "q00403",
+      "person_signal": "non_base",
+      "note": "Maxim about faithful marital love."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1911/The-Boleyn-Inheritance",
+      "title": "The Boleyn Inheritance \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Copyright-attributed sustained excerpt presents Jane Boleyn narrating her own memories, circumstances, and hopes. Also locates q00401 within her opening narration. Establishes the opening only."
+    },
+    {
+      "url": "https://www.bookbrowse.com/author_interviews/full/index.cfm/author_number/1234/philippa-gregory",
+      "title": "Philippa Gregory author interview",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Asked specifically about this novel's multiple voices, Gregory explains her choice of first-person narration through Anne of Cleves, Katherine Howard, and Jane Boleyn."
+    },
+    {
+      "url": "https://historicalnovelsociety.org/reviews/the-boleyn-inheritance/",
+      "title": "The Boleyn Inheritance \u2014 Historical Novel Society",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Ilysa Magnus explicitly identifies alternating narratives by the three women, all telling their stories in first person; independently corroborates the author's structural account."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Boleyn Inheritance\" Philippa Gregory excerpt.",
+    "Searched: \"The Boleyn Inheritance\" \"first person\" narrators.",
+    "Opened and read the BookBrowse excerpt, Gregory's BookBrowse interview, and the Historical Novel Society review; these establish opening narration and whole-book structure."
+  ],
+  "person_note": "The novel rotates among three participating first-person narrators: Anne of Cleves, Katherine Howard, and Jane Boleyn. Multiple first-person voices remain FIRST. Diagnostic Goodreads narration agrees with the authorized opening and two explicit whole-book descriptions. Speech and maxims do not contribute person evidence; descriptions of other characters do not establish third-person narration. Remaining uncertainty concerns isolated clipped quotations, especially q00402, rather than the book's narrative structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_044",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T00:41:39.020741+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "96ea43f25582d00491a2573f67003fe0bfcc21d591f35f63e18c9b11a6754be2"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:2385",
+  "quotes": [
+    {
+      "quote_id": "q05101",
+      "person_signal": "non_base",
+      "note": "Second-person correction addressed to an interlocutor; the dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q05102",
+      "person_signal": "first",
+      "note": "The participating narrator describes her own recurring experience with narratorial \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05103",
+      "person_signal": "first",
+      "note": "The narrator reports her present feeling and reflection using \u201cI\u201d in a specific relationship context."
+    },
+    {
+      "quote_id": "q05104",
+      "person_signal": "non_base",
+      "note": "Gnomic advice and universal second-person address do not diagnose the base narration."
+    },
+    {
+      "quote_id": "q05105",
+      "person_signal": "non_base",
+      "note": "A gnomic fragment with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q05106",
+      "person_signal": "first",
+      "note": "The participating narrator recalls her former beliefs and desires using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05107",
+      "person_signal": "unmarked",
+      "note": "Possible base narration of a specific feeling, but it contains no marker that identifies narrator participation."
+    },
+    {
+      "quote_id": "q05108",
+      "person_signal": "non_base",
+      "note": "Second-person reassurance addressed to an interlocutor is dialogue, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q05109",
+      "person_signal": "first",
+      "note": "Sustained scene-specific narration identifies the participating narrator through \u201cI\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q05110",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism is nondiagnostic of the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q05111",
+      "person_signal": "non_base",
+      "note": "Verse-like embedded material with a local \u201cI/you\u201d relationship is not demonstrated to be controlling prose narration."
+    },
+    {
+      "quote_id": "q05112",
+      "person_signal": "non_base",
+      "note": "The first-person-free speech is explicitly attributed by \u201che\u2019d said\u201d and therefore belongs to a speaking character."
+    },
+    {
+      "quote_id": "q05113",
+      "person_signal": "first",
+      "note": "The participating narrator recounts her younger self and her friend using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q05114",
+      "person_signal": "first",
+      "note": "The narrator describes her own experience and present realization through repeated first-person forms."
+    },
+    {
+      "quote_id": "q05115",
+      "person_signal": "non_base",
+      "note": "Although it contains \u201cI,\u201d the quote is bucketed as an essayistic generalization rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q05116",
+      "person_signal": "first",
+      "note": "A specific unfolding scene is narrated by the experiencing protagonist as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05117",
+      "person_signal": "non_base",
+      "note": "A marked two-speaker exchange; its first- and second-person pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q05118",
+      "person_signal": "first",
+      "note": "Character-specific habitual narration uses \u201cI\u201d to describe the narrator\u2019s own morning experience."
+    },
+    {
+      "quote_id": "q05119",
+      "person_signal": "first",
+      "note": "The participating narrator reports her looking, thinking, and losses in a specific scene."
+    },
+    {
+      "quote_id": "q05120",
+      "person_signal": "non_base",
+      "note": "Universal aphorism contains no evidence of the base narrator\u2019s person."
+    },
+    {
+      "quote_id": "q05121",
+      "person_signal": "first",
+      "note": "The narrator recalls her relationship with her best friend through \u201cmy,\u201d \u201cI,\u201d and a personal rhetorical question."
+    },
+    {
+      "quote_id": "q05122",
+      "person_signal": "first",
+      "note": "The participating narrator describes her running habit and move to New York using \u201cme,\u201d \u201cmy,\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05123",
+      "person_signal": "non_base",
+      "note": "Formulaic gnomic fragment provides no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q05124",
+      "person_signal": "non_base",
+      "note": "Sustained second-person advice directed to an interlocutor is dialogue rather than second-person base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.hachette.co.uk/wp-content/uploads/2020/02/In-Five-Years-Bookends-Extract.pdf",
+      "title": "In Five Years \u2014 Bookends Extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A publisher-hosted 30-page extract sustains Dannie\u2019s participating first-person narration throughout the opening chapters and future-vision scene."
+    },
+    {
+      "url": "https://www.simonandschuster.net/books/In-Five-Years/Rebecca-Serle/9781982137458",
+      "title": "In Five Years | Book by Rebecca Serle | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The official publisher excerpt opens with Dannie narrating her actions, perceptions, history, and relationship with David as \u201cI.\u201d"
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-in-five-years/styles.html",
+      "title": "Rebecca Serle Writing Styles in In Five Years",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly identifies Dannie Kohan as the novel\u2019s exclusive first-person narrator and describes the final \u201cAfter\u201d section as a tense change, not a change of person."
+    },
+    {
+      "url": "https://chireviewofbooks.com/2026/03/19/once-and-again/",
+      "title": "A Tale of Mothers, Daughters, and Malibu: An Interview with Rebecca Serle about Once and Again",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In a later author interview, Serle states that before Once and Again she had never written multiple viewpoints or third person and characterizes her earlier books as straight first-person narratives, corroborating In Five Years\u2019 whole-book structure."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cIn Five Years\u201d \u201cRebecca Serle\u201d excerpt first chapter; found and opened official Simon & Schuster and Hachette/Quercus extracts.",
+    "Searched \u201cIn Five Years\u201d \u201cRebecca Serle\u201d \u201cfirst person\u201d narrator; found and opened BookRags\u2019 explicit whole-book point-of-view description.",
+    "Searched publisher domains for an authorized extract; Simon & Schuster and Hachette supplied sustained first-person opening prose.",
+    "Searched for narrator, multiple-POV, and alternating-person evidence; found a Chicago Review of Books author interview stating that Serle\u2019s earlier books used straight first-person narration and no multiple viewpoints or third person.",
+    "Opened Hachette\u2019s book-club Q&A, but it discussed characters and chronology rather than explicitly identifying narrative person."
+  ],
+  "person_note": "The event quotes repeatedly expose Dannie as a participating \u201cI\u201d narrator in specific present scenes, recollections, and character-specific habits. The official publisher extracts independently sustain the same first-person voice across the opening and vision sequence, while the whole-book study guide explicitly says Dannie narrates exclusively in first person. Serle\u2019s later account of her earlier novels further rules against an alternating or third-person structure. Second-person examples in the quote set are dialogue or aphoristic address, and the verse passage is local material rather than evidence of another controlling narrator. No credible contrary evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_070",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:55:33.176092+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fd950b08baa41b82c9b8f61545f72dbe727239508ad95bb776ceda22302c2ee3"
+  }
+}

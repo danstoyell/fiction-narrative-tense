@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:957",
+  "quotes": [
+    {
+      "quote_id": "q00140",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic assertion; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q00141",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with no story-specific narrating voice."
+    },
+    {
+      "quote_id": "q00142",
+      "person_signal": "non_base",
+      "note": "Aphoristic advice rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00143",
+      "person_signal": "unclear",
+      "note": "Clipping and an uncertain boundary around the Walt Whitman material prevent reliable attribution to base narration."
+    },
+    {
+      "quote_id": "q00144",
+      "person_signal": "non_base",
+      "note": "General reflection on joy; no participating or external narrator is established."
+    },
+    {
+      "quote_id": "q00145",
+      "person_signal": "first",
+      "note": "The narratorial clause 'She gave us' places the teller among the story participants; the following direct speech is nondiagnostic."
+    },
+    {
+      "quote_id": "q00146",
+      "person_signal": "non_base",
+      "note": "A clipped gnomic joke, not evidence of the controlling narrator."
+    },
+    {
+      "quote_id": "q00147",
+      "person_signal": "first",
+      "note": "Despite clipping, the event narration exposes a participating narrator through 'I was hoping.'"
+    },
+    {
+      "quote_id": "q00148",
+      "person_signal": "unclear",
+      "note": "The isolated prayer-like statement cannot be securely assigned to narration, speech, or an embedded formula."
+    },
+    {
+      "quote_id": "q00149",
+      "person_signal": "unmarked",
+      "note": "Possible focalized event narration, but this pronoun-free sentence alone does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00150",
+      "person_signal": "non_base",
+      "note": "Standalone advice is gnomic and nondiagnostic."
+    },
+    {
+      "quote_id": "q00151",
+      "person_signal": "first",
+      "note": "Although the spoken words are local dialogue, the exterior speech beat 'I whispered to her' diagnostically exposes first-person base narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9783110617481_A47288645/preview-9783110617481_A47288645.pdf",
+      "title": "First-Person Narration in Ancient Greek and Modern English Literature",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The scholarly narratology chapter identifies Cat and Mouse as mixed-mode fiction using I-narration for protagonists and suspenseful limited third person for villains."
+    },
+    {
+      "url": "https://www.abebooks.com/9781570425776/Cat-Mouse-Alex-Cross-Novels-1570425779/plp",
+      "title": "Cat and Mouse (Alex Cross Novels) \u2013 Authorized Chapter One Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The permission-reprinted opening sustains third-person limited narration centered on Gary Soneji throughout Chapter One."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780316693295",
+      "title": "Cat & Mouse",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Publishers Weekly explicitly describes Patterson as writing this novel in third person and through two first-person voices."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-cat--mouse/style.html",
+      "title": "James Patterson Writing Styles in Cat and Mouse",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The point-of-view analysis says the novel fluctuates between first and third person, with first-person narration by Alex Cross and Thomas Pierce and third-person treatment of other characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"Cat & Mouse\" \"James Patterson\" excerpt, first chapter, and Gary Soneji; found and opened the permission-reprinted Chapter One excerpt.",
+    "Searched \"Cat and Mouse\" Patterson \"first person\" \"third person\" and point of view; found and opened the scholarly narratology chapter, Publishers Weekly review, and BookRags analysis.",
+    "Searched \"Cat and Mouse\" Patterson I-narration, limited third person, alternating narration, and multiple narrators; no credible contrary account appeared.",
+    "Searched the author, publisher, Google Books, Open Library, and library-preview results; the official author page and catalog descriptions supplied plot metadata but no usable whole-book POV evidence.",
+    "Opened a Publishers Weekly author interview noting another first-person narrator in the middle of Cat and Mouse, but did not treat its broader comment about Patterson's mixed narration as independent whole-book structural evidence.",
+    "A Nottingham thesis result described a Cat and Mouse criminal passage as third-person internal narration, but the PDF returned an access error when opened, so it was excluded from web evidence."
+  ],
+  "person_note": "The novel has sustained first-person participant narration and sustained limited-third-person sections rather than one isolated embedded voice. Quotes q00145, q00147, and q00151 corroborate the first-person strand; the authorized opening independently demonstrates a third-person Soneji section. The scholarly whole-book analysis and two explicit credible descriptions resolve this as ALTERNATING, including first-person narration by Alex Cross and Thomas Pierce alongside third-person villain or other-character chapters. Confidence is medium because only one Tier B source establishes the complete mixed structure, the Tier A evidence is opening-only, and the supplied quotes do not independently contain a diagnostic third-person passage; no credible contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.227102+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "045b4dd6c66b62bd7eae1df582e13bc950148dd92304d60100a0e0a3f58fc270"
+  }
+}

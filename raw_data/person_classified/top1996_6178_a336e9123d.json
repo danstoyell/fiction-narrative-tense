@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:6178",
+  "quotes": [
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "A general maxim with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "unmarked",
+      "note": "Possible base narration reports a woman's thought, but this isolated third-person reference does not establish the narrator's participation."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "unmarked",
+      "note": "Scene-setting narration contains no diagnostic narrator pronoun or framing context."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "A generalized maxim; \u201cyou\u201d is generic rather than sustained address to a protagonist."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "The first-person pronouns occur inside direct character speech."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "unmarked",
+      "note": "Names two characters externally, but the standalone sentence does not rule out a participating narrator."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "Reports courtroom events without exposing the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "unmarked",
+      "note": "Reports a woman's appearance and desire in third-person grammar, but one context-free sentence is insufficient to identify the controlling narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780345531940",
+      "title": "The Runaway Jury: A Novel",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's authorized excerpt sustains external narration of Nicholas Easter as \u201che\u201d and reports what his investigators know, with no participating narrator frame."
+    },
+    {
+      "url": "https://www.supersummary.com/the-runaway-jury/important-quotes/",
+      "title": "The Runaway Jury Important Quotes with Page Numbers",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Structural commentary and passages spanning Chapters 1\u201341 explicitly identify third-person omniscient narration and demonstrate narration across multiple characters and consciousnesses."
+    },
+    {
+      "url": "https://www.supersummary.com/the-runaway-jury/chapters-21-32-summary/",
+      "title": "The Runaway Jury Chapters 21\u201332 Summary & Analysis",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Interior-chapter analysis explicitly identifies omniscient third-person narration and shows it entering Hoppy's consciousness, corroborating the opening evidence away from the start of the novel."
+    },
+    {
+      "url": "https://eprints.ums.ac.id/29787/2/CHAPTER_I.pdf",
+      "title": "Court Conspiracy in Capitalistic Society in John Grisham's The Runaway Jury (1996): A Marxist Criticism \u2014 Chapter I",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A scholarly-repository structural discussion explicitly states that the story uses an omniscient third person who relays the thoughts and feelings of multiple characters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-runaway-jury/style.html",
+      "title": "John Grisham Writing Styles in The Runaway Jury",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the novel as told by an omniscient third person across its different plot lines."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Runaway Jury John Grisham excerpt first chapter\u201d and publisher-domain variants; found the Penguin Random House Library authorized opening excerpt.",
+    "Searched \u201cThe Runaway Jury third person narrator point of view\u201d and \u201cThe Runaway Jury omniscient third person\u201d; opened explicit structural discussions from SuperSummary, BookRags, and a university-repository paper.",
+    "Searched Google Books and Open Library editions for additional primary-text coverage; their accessible pages supplied catalog copy, snippets, or limited-preview metadata rather than usable sustained interior prose.",
+    "Targeted searches for epistolary, frame-narrative, multiple-narrator, and alternating-POV evidence found no credible indication of sustained narration in another person."
+  ],
+  "person_note": "The Goodreads quotations are mostly dialogue, maxims, or isolated third-person sentences and therefore do not independently establish narrative person. Web evidence resolves the structure: an authorized third-person opening, interior analysis showing the same omniscient narrator, and multiple whole-book structural descriptions all agree that a nonparticipating narrator moves among characters and plot lines. No source indicates a sustained first- or second-person section, so the controlling narration is THIRD; the main limitation is that the authorized primary excerpt covers only the opening.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_029",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:32:01.015359+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "28d08451390493d155a4fa952bb72aa0dfed9ff85b8b7171593533029005035b"
+  }
+}

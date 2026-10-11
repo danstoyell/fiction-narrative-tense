@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1983:1047",
+  "quotes": [
+    {
+      "quote_id": "q00954",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; its aphoristic I does not establish story-participating base narration."
+    },
+    {
+      "quote_id": "q00955",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00956",
+      "person_signal": "non_base",
+      "note": "Person-unmarked aphoristic material."
+    },
+    {
+      "quote_id": "q00957",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with generic you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00958",
+      "person_signal": "non_base",
+      "note": "Generalized maxim; you is nonspecific."
+    },
+    {
+      "quote_id": "q00959",
+      "person_signal": "non_base",
+      "note": "Person-unmarked aphorism."
+    },
+    {
+      "quote_id": "q00960",
+      "person_signal": "non_base",
+      "note": "Gnomic aside; the isolated I does not identify a story-participating narrator."
+    },
+    {
+      "quote_id": "q00961",
+      "person_signal": "non_base",
+      "note": "Direct speech; first-person plural language belongs to a character."
+    },
+    {
+      "quote_id": "q00962",
+      "person_signal": "first",
+      "note": "Dennis narrates his own thoughts as I while discussing his relationship with Arnie."
+    },
+    {
+      "quote_id": "q00963",
+      "person_signal": "unmarked",
+      "note": "Possessive fragments about an unnamed male do not expose the narrator's person."
+    },
+    {
+      "quote_id": "q00964",
+      "person_signal": "third",
+      "note": "Part Two scene narration follows Arnie externally and renders his private contempt without a participating narratorial I."
+    },
+    {
+      "quote_id": "q00965",
+      "person_signal": "first",
+      "note": "Participating narrator describes his own feeling as I."
+    },
+    {
+      "quote_id": "q00966",
+      "person_signal": "non_base",
+      "note": "First-person language occurs wholly in direct speech."
+    },
+    {
+      "quote_id": "q00967",
+      "person_signal": "non_base",
+      "note": "The visible I belongs to direct speech, with a clipped quotation boundary."
+    },
+    {
+      "quote_id": "q00968",
+      "person_signal": "first",
+      "note": "Dennis narrates his own wondering and imagined observations as I."
+    },
+    {
+      "quote_id": "q00969",
+      "person_signal": "first",
+      "note": "Although dialogue dominates, the outside beat identifies the base narrator through 'my mother.'"
+    },
+    {
+      "quote_id": "q00970",
+      "person_signal": "first",
+      "note": "Dennis narrates his bodily reaction and reflection as I/my."
+    },
+    {
+      "quote_id": "q00971",
+      "person_signal": "first",
+      "note": "Sustained story narration presents Dennis's actions, perceptions, and thoughts as I."
+    },
+    {
+      "quote_id": "q00972",
+      "person_signal": "first",
+      "note": "Sustained participating narration describes what Dennis did and wished as I."
+    },
+    {
+      "quote_id": "q00973",
+      "person_signal": "first",
+      "note": "Dennis recounts attending Leigh's wedding as I."
+    },
+    {
+      "quote_id": "q00974",
+      "person_signal": "non_base",
+      "note": "Gnomic analogy uses universal you rather than a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00975",
+      "person_signal": "unmarked",
+      "note": "Clipped base narration omits its subject and does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q00976",
+      "person_signal": "non_base",
+      "note": "The I and generic you occur inside direct speech; the brief speech beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q00977",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in direct speech."
+    },
+    {
+      "quote_id": "q00978",
+      "person_signal": "non_base",
+      "note": "Generic you occurs inside direct speech and does not indicate base narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/Christine/Stephen-King/9781501144189",
+      "title": "Christine | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized Chapter 1 excerpt sustains Dennis's participating I narration, establishing first person for the opening only."
+    },
+    {
+      "url": "https://lofficier.com/christine.htm",
+      "title": "Stephen King on Christine",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "In a direct interview, King confirms that Dennis tells the opening and closing in first person while the middle was written in third person after Dennis's hospitalization; he describes the middle as reportage-like and notionally attributable to Dennis."
+    },
+    {
+      "url": "https://www.theguardian.com/books/booksblog/2013/jan/30/rereading-stephen-king-christine",
+      "title": "Rereading Stephen King: week 15 \u2013 Christine",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review explicitly reports that most of the novel uses Dennis's first-person narration but a sustained hospital-period section switches to third-person omniscient."
+    },
+    {
+      "url": "https://reactormag.com/the-great-stephen-king-reread-christine/",
+      "title": "The Great Stephen King Reread: Christine",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural review specifies first-person Dennis narration in the opening and closing portions and a substantial third-person middle portion."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cStephen King Christine novel narrator first person third person middle section point of view\u201d; found and opened the author interview, Guardian review, and structural reviews.",
+    "Searched \u201cChristine Stephen King excerpt first chapter publisher\u201d; opened the authorized Simon & Schuster Chapter 1 excerpt.",
+    "Searched \u201cChristine Stephen King narrative switches third person Dennis narrator\u201d and \u201cChristine Stephen King first person third person narrative thesis\u201d; corroborated the first/third/first structure across independent sources.",
+    "Searched for \u201cChristine Stephen King Dennis masked reportage narration analysis\u201d and frame-narrative variants; found King's explanation that the third-person middle is conceived as Dennis-like reportage.",
+    "Checked Google Books and exact-quote searches; previews offered no usable sustained interior excerpt, and community or unauthorized reproductions were not used as web evidence."
+  ],
+  "person_note": "The quote sample repeatedly exposes Dennis as a participating first-person narrator and also contains a third-person Part Two scene. The authorized opening corroborates Dennis's first-person voice, while King's own explanation and multiple independent structural accounts establish a sustained third-person middle followed by a return to Dennis's first person. King conceptually calls the middle 'masked' first-person reportage, creating a narrator-theory ambiguity about Dennis as implied compiler, but the methodology classifies sustained sections written in different narrative persons as ALTERNATING. No credible source indicates second-person narration or a different overall structure.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_022",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T19:46:26.754242+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f1e1616ca7fa9c1788317be09c827b47f7ae34b1f0db8940196e2933950e8e65"
+  }
+}

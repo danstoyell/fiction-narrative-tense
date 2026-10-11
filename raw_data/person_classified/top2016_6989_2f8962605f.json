@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:6989",
+  "quotes": [
+    {
+      "quote_id": "q01147",
+      "person_signal": "unmarked",
+      "note": "Generic second-person maxim within Clementine's free-indirect thought; it does not cast a protagonist as narratorial 'you'."
+    },
+    {
+      "quote_id": "q01148",
+      "person_signal": "unmarked",
+      "note": "Universal generalization without a participating or external narrator marker."
+    },
+    {
+      "quote_id": "q01149",
+      "person_signal": "non_base",
+      "note": "Gnomic universal address; repeated 'you' is generic rather than sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01150",
+      "person_signal": "unmarked",
+      "note": "Free-indirect observation without enough local grammatical evidence to identify narrator person."
+    },
+    {
+      "quote_id": "q01151",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to 'her mother' is insufficient to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01152",
+      "person_signal": "unmarked",
+      "note": "Past-tense generalization whose third-person plural references do not identify narrator participation."
+    },
+    {
+      "quote_id": "q01153",
+      "person_signal": "unmarked",
+      "note": "Clementine-attributed free-indirect generalization; generic 'you' is not second-person base narration."
+    },
+    {
+      "quote_id": "q01154",
+      "person_signal": "unmarked",
+      "note": "Generalization about elderly people without a diagnostic narrating position."
+    },
+    {
+      "quote_id": "q01155",
+      "person_signal": "unmarked",
+      "note": "Musician-focalized generalization without an explicit narrator-person marker."
+    },
+    {
+      "quote_id": "q01156",
+      "person_signal": "third",
+      "note": "Extended external narration enters a woman's private realization while referring to her and Sam as 'she' and 'he'."
+    },
+    {
+      "quote_id": "q01157",
+      "person_signal": "unclear",
+      "note": "The clipped sentence and trailing comma leave unresolved whether this is narration or speech."
+    },
+    {
+      "quote_id": "q01158",
+      "person_signal": "unmarked",
+      "note": "A short he-focalized conditional thought is locally compatible with third person but not diagnostic by itself."
+    },
+    {
+      "quote_id": "q01159",
+      "person_signal": "non_base",
+      "note": "Clipped character speech, so its first-person implications cannot identify the base narrator."
+    },
+    {
+      "quote_id": "q01160",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence describes a woman's mental habit but is too short to establish the narrating position independently."
+    },
+    {
+      "quote_id": "q01161",
+      "person_signal": "third",
+      "note": "Sustained close narration renders a woman's private feelings while consistently referring to her as 'she'."
+    },
+    {
+      "quote_id": "q01162",
+      "person_signal": "third",
+      "note": "A multi-sentence close-third rendering of a woman's internal state uses only external 'she' reference."
+    },
+    {
+      "quote_id": "q01163",
+      "person_signal": "third",
+      "note": "The substantial narration surrounding brief dialogue externally narrates Clementine's actions and imagined parental responses."
+    },
+    {
+      "quote_id": "q01164",
+      "person_signal": "third",
+      "note": "Close-third free-indirect narration presents Clementine's private rhetorical thought while referring to her as 'she'."
+    },
+    {
+      "quote_id": "q01165",
+      "person_signal": "third",
+      "note": "Extended free-indirect thought is framed and closed by third-person references to what 'she' read, pretended, and thought."
+    },
+    {
+      "quote_id": "q01166",
+      "person_signal": "unmarked",
+      "note": "The brief plural-subject comparison contains no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q01167",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in character dialogue; the short external speech beat alone is not diagnostic."
+    },
+    {
+      "quote_id": "q01168",
+      "person_signal": "third",
+      "note": "Extended external backstory enters Oliver's childhood perceptions and thoughts while consistently calling him 'he'."
+    },
+    {
+      "quote_id": "q01169",
+      "person_signal": "third",
+      "note": "Close narration explains a woman's private self-assessment and mood while referring to her externally as 'she'."
+    },
+    {
+      "quote_id": "q01170",
+      "person_signal": "unmarked",
+      "note": "A single sentence about what 'she' wanted is insufficient by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01171",
+      "person_signal": "unmarked",
+      "note": "Third-person framing of a quoted thought is locally suggestive but too brief to diagnose the controlling person alone."
+    },
+    {
+      "quote_id": "q01172",
+      "person_signal": "unmarked",
+      "note": "An isolated third-person plural sentence does not establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q01173",
+      "person_signal": "unmarked",
+      "note": "Free-indirect generalization about marriage lacks an explicit narrator-person marker."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250069801/trulymadlyguilty/",
+      "title": "Truly Madly Guilty",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained authorized first-chapter excerpt narrates Erika externally as 'she' while rendering her perceptions and thoughts."
+    },
+    {
+      "url": "https://images.macmillan.com/folio-assets/rgg-guides/9781250069795RGG.pdf",
+      "title": "Truly Madly Guilty Reading Group Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The publisher-hosted guide quotes third-person close narration from multiple characters and from locations extending to near the novel's end."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-truly-madly-guilty/styles.html",
+      "title": "Liane Moriarty Writing Styles in Truly Madly Guilty",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view section explicitly identifies the novel as third-person limited-omniscient across its six primary characters."
+    },
+    {
+      "url": "https://literaryvice.ca/2017/09/24/truly-madly-guilty-the-unexpected-pleasure/",
+      "title": "Truly, Madly, Guilty: The Unexpected Pleasure",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes shifting third-person-limited narration and alternating chapters covering the barbecue and its aftermath."
+    },
+    {
+      "url": "https://www.dianaandersontyler.com/adding-richness-and-depth-to-your-characters-voices-lesson-from-best-selling-author-liane-moriarty/",
+      "title": "Adding Richness and Depth to Your Characters' Voices: Lesson from Best-Selling Author, Liane Moriarty",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The analysis identifies seven viewpoint characters, each presented in third-person limited, and supplies excerpts from Clementine, Oliver, and Tiffany sections."
+    }
+  ],
+  "search_log": [
+    "Searched \"Truly Madly Guilty\" Liane Moriarty excerpt publisher and opened Macmillan's authorized chapter-one excerpt.",
+    "Searched \"Truly Madly Guilty\" third person, point of view, and narrator; opened explicit whole-book descriptions from BookRags, Literary Vice, Cozy Corner Reviews, and Diana Anderson-Tyler.",
+    "Opened Macmillan's publisher-hosted reading-group guide and inspected its quotations from multiple characters and points across the novel.",
+    "Searched Google Books and Penguin sample availability; the Google Books query yielded no usable preview, and the Penguin sample PDF was too large for the web reader.",
+    "Targeted the phrase \"chosen to tell this story in the third person\"; a Northern Beaches municipal-library PDF appeared but could not be opened because the server returned an error, so it was not used as evidence."
+  ],
+  "person_note": "The book uses rotating close-third narration across multiple focal characters, not alternating grammatical persons. The quote set independently shows extended third-person access to Clementine's, Erika's, Oliver's, and other characters' inner lives, while the authorized opening does the same for Erika and several whole-book sources explicitly describe shifting third-person-limited viewpoints. Generic 'you' passages are maxims or free-indirect generalizations, not story-specific second-person narration, and first-person forms occur only in dialogue or quoted thought. No credible evidence of sustained first- or second-person base sections was found; the only minor uncertainty is that many isolated aphoristic quotes are individually nondiagnostic.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_059",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:26:17.983240+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8c64c6e0caf967297c894f8ed56297ece3aa4738e92130af6f8a1d02eb6045c3"
+  }
+}

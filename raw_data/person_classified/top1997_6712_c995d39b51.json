@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:6712",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "unmarked",
+      "note": "An isolated sentence about an unnamed man as 'he' does not by itself distinguish third-person base narration from a participating narrator describing someone else."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "unclear",
+      "note": "The quotation begins mid-sentence and omits the subject and surrounding scene, so its third-person possessive is not sufficient to identify the base narrator."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "non_base",
+      "note": "This passage names Will Robie, a character from Baldacci's later Will Robie series who cannot belong to the 1997 novel; it is apparent Goodreads attribution contamination rather than narration from The Winner."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "third",
+      "note": "Free-indirect exposition presents LuAnn externally as 'LuAnn' while conveying her outlook; the generic 'you' expresses a maxim and is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "unclear",
+      "note": "The clipped fragment omits its subject and surrounding narration, preventing reliable attribution despite the visible third-person possessive."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "unclear",
+      "note": "The fragment lacks both a complete sentence and enough local context to determine whether it is base narration."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "unclear",
+      "note": "The truncated phrase supplies no narrator, subject, or recoverable quotation boundaries."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://bingebooks.com/book/the-winner",
+      "title": "The Winner by David Baldacci",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained retail sample opens with externally narrated scenes focalized first through Jackson and then LuAnn, consistently naming them and using he/she while conveying both characters' thoughts; no participating narrator frames either scene."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-winner/style.html",
+      "title": "David Baldacci Writing Styles in The Winner",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly states that the novel is written in third-person point of view and distinguishes character dialogue from the supporting narration of scenes, thoughts, and emotions."
+    },
+    {
+      "url": "https://ejournal3.undip.ac.id/index.php/engliterature/article/download/13813/13363",
+      "title": "Psychopathic Disorder in David Baldacci's The Winner",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This university literary analysis describes narration centered on both Jackson and LuAnn and quotes third-person narrative passages from widely separated interior pages, corroborating a nonparticipating narrator across the novel."
+    },
+    {
+      "url": "https://www.goodreads.com/work/quotes/1369417-the-winner",
+      "title": "The Winner Quotes by David Baldacci",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The opened quote page verifies the supplied fragments but also attributes a Will Robie passage to this 1997 novel, demonstrating contamination in the quote collection; that passage was excluded from base-person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Winner\" \"David Baldacci\" with excerpt, first chapter, narrator, point of view, first person, third person, and multiple-perspective terms.",
+    "Opened and inspected the sustained BingeBooks sample, which covers consecutive opening scenes centered on Jackson and LuAnn in third person.",
+    "Opened BookRags' point-of-view section, which explicitly classifies the whole novel as third person.",
+    "Opened a Diponegoro University literary analysis and inspected its descriptions and quoted passages from the beginning and later pages of the novel.",
+    "Searched exact supplied quotation strings to verify provenance and context; Goodreads confirmed the fragments, while Bookey's chapter material linked q00004 to LuAnn's third-person interior perspective.",
+    "Checked Google Books and publisher/author URLs; Google Books exposed catalog metadata but no readable diagnostic prose, and the publisher and author pages were inaccessible to the research tool.",
+    "Exact-string searches for q00003 found the same anomalous Goodreads attribution but no credible placement in The Winner; the presence of Will Robie makes it chronologically and narratively incompatible with the 1997 novel."
+  ],
+  "person_note": "The controlling narration is third person with shifting focalization, including Jackson and LuAnn. The authorized-length opening sample, a scholarly whole-novel analysis, and an explicit whole-book POV description agree, while q00004 independently exhibits third-person free-indirect narration. The generic 'you' in q00004 is a maxim, not second-person storytelling. Most other supplied quotes are too clipped to diagnose person, and q00003 is a misattributed passage from the later Will Robie corpus. No credible evidence of sustained first- or second-person sections was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_031",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:41:53.693451+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3fd3aa1825cb995758f0df3b795d9eff9b40a471ecf0a8a122b5837e22e261d9"
+  }
+}

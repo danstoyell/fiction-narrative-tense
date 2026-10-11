@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:REMAIN|Nicholas Sparks with M. Night ",
+  "quotes": [
+    {
+      "quote_id": "q10614",
+      "person_signal": "non_base",
+      "note": "A timeless generalization; inclusive \u201cwe\u201d does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q10615",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q10616",
+      "person_signal": "unclear",
+      "note": "The clipped first-person address lacks enough context to distinguish dialogue from narration."
+    },
+    {
+      "quote_id": "q10617",
+      "person_signal": "non_base",
+      "note": "General commentary about human motives rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q10618",
+      "person_signal": "non_base",
+      "note": "Gnomic, quoted meditation on death; its first- and second-person language is not base narration."
+    },
+    {
+      "quote_id": "q10619",
+      "person_signal": "non_base",
+      "note": "Universal reflection using generic \u201cwe,\u201d not the participating narrator\u2019s story voice."
+    },
+    {
+      "quote_id": "q10620",
+      "person_signal": "first",
+      "note": "Tate narrates a story-specific lesson using \u201cshe taught me\u201d and repeated narratorial \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q10621",
+      "person_signal": "first",
+      "note": "Story-specific retrospective narration identifies the participating narrator as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q10622",
+      "person_signal": "first",
+      "note": "Tate\u2019s first-person narration and perception frame the enclosed dialogue."
+    },
+    {
+      "quote_id": "q10623",
+      "person_signal": "non_base",
+      "note": "Poetic quotation or gnomic verse, not base story narration."
+    },
+    {
+      "quote_id": "q10624",
+      "person_signal": "non_base",
+      "note": "Quoted poetic maxim without a story-specific narrator."
+    },
+    {
+      "quote_id": "q10625",
+      "person_signal": "non_base",
+      "note": "Quoted poetic line rather than controlling narration."
+    },
+    {
+      "quote_id": "q10626",
+      "person_signal": "first",
+      "note": "Although primarily dialogue, the external attribution \u201cI said\u201d diagnostically exposes Tate\u2019s first-person narration."
+    },
+    {
+      "quote_id": "q10627",
+      "person_signal": "non_base",
+      "note": "Direct second-person address in dialogue or verse, not sustained second-person base narration."
+    },
+    {
+      "quote_id": "q10628",
+      "person_signal": "non_base",
+      "note": "Direct first-person speech addressed to \u201cyou,\u201d not independently attributable to base narration."
+    },
+    {
+      "quote_id": "q10629",
+      "person_signal": "first",
+      "note": "Tate narrates his story-specific perceptions and fear as \u201cI\u201d and \u201cme.\u201d"
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.hachette.co.uk/wp-content/uploads/2025/10/Chapter-1-2-Extract-from-Remain-pdf-2.pdf",
+      "title": "Chapter 1\u20132 Extract from Remain",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher-authorized sixteen-page extract sustains Tate\u2019s participating first-person narration throughout Chapters 1 and 2."
+    },
+    {
+      "url": "https://www.supersummary.com/remain-m-night-shyamalan/chapters-1-8-summary/",
+      "title": "Remain Chapters 1\u20138 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Detailed structural analysis identifies Tate\u2019s first-person narration and third-person perspective shifts to Wren in Chapters 5 and 8."
+    },
+    {
+      "url": "https://www.supersummary.com/remain-m-night-shyamalan/chapters-9-16-summary/",
+      "title": "Remain Chapters 9\u201316 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The chapter analysis explicitly describes the continuing alternating perspectives and the shift to Wren\u2019s viewpoint in Chapter 10."
+    },
+    {
+      "url": "https://www.supersummary.com/remain-m-night-shyamalan/chapter-25-epilogue-summary/",
+      "title": "Remain Chapter 25\u2013Epilogue Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The analysis explicitly identifies a transition from Tate\u2019s first-person limited perspective to Wren\u2019s third-person/omniscient section in Chapter 29 and then back."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/df42d92c-1f63-49d7-9395-a28cead231a3",
+      "title": "mjreadsthings\u2019s review of Remain",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A full-book ARC reviewer independently reports that most of the novel follows Tate in first person while several chapters follow Wren in third person."
+    }
+  ],
+  "search_log": [
+    "Searched: REMAIN Nicholas Sparks M. Night Shyamalan excerpt first chapter narrator point of view.",
+    "Searched publisher and author domains for an authorized excerpt; found and opened Hachette/Little, Brown\u2019s Chapters 1\u20132 PDF.",
+    "Searched: \u201cRemain\u201d Nicholas Sparks \u201cpoint of view\u201d Tate Wren; \u201cRemain\u201d Nicholas Sparks \u201cfirst-person\u201d Tate Wren; and \u201cRemain\u201d Nicholas Sparks chapters Wren perspective.",
+    "Opened detailed SuperSummary analyses for Chapters 1\u20138, Chapters 9\u201316, and Chapter 25\u2013Epilogue to verify the locations and grammatical persons of the perspective shifts.",
+    "Opened a StoryGraph ARC review that independently distinguishes Tate\u2019s first-person majority narration from Wren\u2019s third-person chapters.",
+    "Penguin Random House\u2019s product page and general reviews supplied plot and audiobook information but did not explicitly establish narrative person, so they were not used as person evidence."
+  ],
+  "person_note": "The quote set repeatedly exposes Tate as a participating first-person narrator, and the authorized opening independently confirms that strand. Whole-book structural research establishes sustained third-person chapters centered on Wren, including early perspective shifts and the substantial Chapter 29 climax, followed by a return to Tate. These are autonomous recurring base-narrative sections rather than dialogue, documents, or an isolated bookend, so the correct label is ALTERNATING. Confidence is medium because the authorized excerpt covers only the first-person opening; the third-person strand is established by detailed commercial chapter guides and an independent full-book ARC review.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_090",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:06:51.910339+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ca0216ccc19ee79d7c834c3742fce085752f01b04a2ed579194031805e3eb043"
+  }
+}

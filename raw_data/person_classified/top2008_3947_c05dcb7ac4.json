@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:3947",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "Universal gnomic 'we' describes people generally, not a participating narrator."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "third",
+      "note": "Although mostly dialogue, the surrounding narration externally describes Marino's sensations and actions in third person."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its grammatical person does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "unmarked",
+      "note": "A generalized assertion about powerful women contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative advice, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "A clipped direct-speech question; 'we' belongs to the speaker rather than the base narrator."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "third",
+      "note": "Sustained narration externally names Lucy, reports her thoughts and anger, and follows her actions in third person."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "Direct character speech; 'your' and 'them' do not expose the base narrator."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "unmarked",
+      "note": "A single focalized sentence about an unnamed 'she' is compatible with third-person narration but is too context-poor to diagnose it independently."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to 'their disconnection' does not identify whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "third",
+      "note": "A sustained Chapter 32 scene narrates Scarpetta's actions and belief externally as 'she,' with no participating narrator."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "non_base",
+      "note": "First-person forms occur solely inside direct character speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://abcnews.com/GMA/Books/story?id=6377094&page=1",
+      "title": "Excerpt: 'Scarpetta'",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained excerpt from the novel's opening narrates Scarpetta as 'she,' externally reports her thoughts and perceptions, and contains no participating narrator."
+    },
+    {
+      "url": "https://www.edrants.com/the-bat-segundo-show-patricia-cornwell/",
+      "title": "The Bat Segundo Show: Patricia Cornwell",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This contemporaneous interview identifies Scarpetta as Cornwell's current book and explicitly describes her mid-series switch from first to third person and inability at that time to write the series in first person."
+    },
+    {
+      "url": "https://www.washingtonpost.com/lifestyle/style/patricia-cornwell-talks-kay-scarpetta-and-a-life-of-crime-novels/2011/11/29/gIQArEWsyO_story.html",
+      "title": "Patricia Cornwell talks Kay Scarpetta and a life of crime novels",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Washington Post's author interview describes the series' middle phase as third person, used to inhabit other characters, followed by a later return to first person; the 2008 novel falls within that third-person phase."
+    }
+  ],
+  "search_log": [
+    "Searched \"Patricia Cornwell Scarpetta 2008 excerpt first chapter\" and opened the sustained ABC News excerpt.",
+    "Searched \"Scarpetta Patricia Cornwell point of view third person narrator,\" \"third-person narration,\" and \"omniscient narrator\"; results identified Cornwell's mid-series third-person phase and later return to first person.",
+    "Opened the contemporaneous Bat Segundo interview page and the Washington Post author interview for structural evidence about the series' person changes.",
+    "Searched official author and publisher domains; Patricia Cornwell's official Scarpetta page verified the 2008 title and plot but contained only synopsis copy, so it was not treated as narrator-person evidence.",
+    "A Library of Congress interview transcript appeared relevant in search results, but its PDF could not be opened and therefore was not used as evidence."
+  ],
+  "person_note": "The controlling narration is third person. The authorized opening excerpt narrates Scarpetta externally, while the supplied interior passages independently do the same for Marino, Lucy, and Scarpetta, including access to their sensations, thoughts, and beliefs. First-person forms in the sample occur only in dialogue or universal gnomic language, not in base narration. Author-interview evidence places the 2008 book within Cornwell's mid-series third-person phase before her later return to first person. The web excerpt covers only the opening and the structural sources discuss the series phase rather than cataloguing every chapter, but the separate Lucy passage and Chapter 32 passage provide strong interior corroboration and reveal no sustained contrary person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.244742+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "da76f5f8a92682258f50601bbb77ea95d1e6dcb588ed6db8c939e6f92c1c5ec3"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:3593",
+  "quotes": [
+    {
+      "quote_id": "q01130",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism; \u201che\u201d is generic and does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01131",
+      "person_signal": "non_base",
+      "note": "Gnomic advice using universal \u201cyou,\u201d not sustained narration of a story protagonist."
+    },
+    {
+      "quote_id": "q01132",
+      "person_signal": "non_base",
+      "note": "Direct speech; its third-person references do not identify the narrator."
+    },
+    {
+      "quote_id": "q01133",
+      "person_signal": "non_base",
+      "note": "Dialogue containing local \u201cI\u201d and \u201cyou\u201d; neither belongs to base narration."
+    },
+    {
+      "quote_id": "q01134",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic and addressee \u201cyou,\u201d not narrator-person evidence."
+    },
+    {
+      "quote_id": "q01135",
+      "person_signal": "non_base",
+      "note": "Advice delivered in dialogue; the generic \u201cyou\u201d is not second-person base narration."
+    },
+    {
+      "quote_id": "q01136",
+      "person_signal": "unclear",
+      "note": "The clipped, markless passage cannot be reliably separated into speech and narration."
+    },
+    {
+      "quote_id": "q01137",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic \u201cyou,\u201d not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q01138",
+      "person_signal": "non_base",
+      "note": "The passage is principally direct speech; the brief named-character speech beat is insufficient to diagnose narration."
+    },
+    {
+      "quote_id": "q01139",
+      "person_signal": "non_base",
+      "note": "Direct speech; \u201cI\u201d and \u201cyou\u201d belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q01140",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but one sentence about an unidentified \u201che\u201d does not by itself establish narrator participation."
+    },
+    {
+      "quote_id": "q01141",
+      "person_signal": "third",
+      "note": "Sustained third-person rendering of a male character\u2019s situation and inner anger exposes nonparticipating narration; \u201cyou\u201d is generic within the represented thought."
+    },
+    {
+      "quote_id": "q01142",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence and supplies too little context to attribute its third-person wording securely."
+    },
+    {
+      "quote_id": "q01143",
+      "person_signal": "non_base",
+      "note": "Quoted archaic address within dialogue, not the book\u2019s base narrative voice."
+    },
+    {
+      "quote_id": "q01144",
+      "person_signal": "third",
+      "note": "Extended narration externally names Joe while representing what he has seen and knows, exposing a nonparticipating third-person narrator."
+    },
+    {
+      "quote_id": "q01145",
+      "person_signal": "unmarked",
+      "note": "A single action sentence about \u201che\u201d is compatible with third-person narration but is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01146",
+      "person_signal": "non_base",
+      "note": "General zoological observation in a gnomic bucket; it does not identify the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://abcnews.com/GMA/Books/story?id=1246801&page=1",
+      "title": "Excerpt: 'Predator'",
+      "tier": "A",
+      "scope": "unknown",
+      "supports": "THIRD",
+      "note": "A sustained release-era excerpt narrates Scarpetta\u2019s actions, perceptions, and thoughts in third-person present; the page does not identify the excerpt\u2019s location in the novel."
+    },
+    {
+      "url": "https://abcnews.com/Entertainment/crime-novelist-patricia-cornwell-blood-boundaries-book/story?id=15097357",
+      "title": "Crime Novelist Patricia Cornwell on Blood, 'Boundaries' and Her Next Book",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The article explicitly identifies Predator among the books that replaced Scarpetta\u2019s first-person narration with omniscient third person."
+    },
+    {
+      "url": "https://www.washingtonpost.com/lifestyle/style/patricia-cornwell-talks-kay-scarpetta-and-a-life-of-crime-novels/2011/11/29/gIQArEWsyO_story.html",
+      "title": "Patricia Cornwell talks Kay Scarpetta and a life of crime novels",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Cornwell explains that she used third person to inhabit other characters\u2019 perspectives and explicitly cites Predator as an example."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cPatricia Cornwell Predator novel excerpt chapter point of view third person\u201d and opened the ABC News excerpt plus explicit POV discussions from ABC News and The Washington Post.",
+    "Searched official author and publisher domains for Predator excerpts; Patricia Cornwell, Penguin Random House, and Hachette pages verified the work but their synopsis language was not used as person evidence.",
+    "Searched Google Books and exact excerpt phrases for additional opening or interior prose; results did not provide a separately usable sustained preview.",
+    "Searched \u201cPredator Patricia Cornwell epistolary diary frame narrative,\u201d \u201calternating point of view,\u201d and \u201cmultiple narrators\u201d; found descriptions of multiple character perspectives but no credible evidence of first- or second-person base sections."
+  ],
+  "person_note": "The diagnostic Goodreads passages represent characters in third person, while all visible first- and second-person forms occur in dialogue, aphorisms, or generic thought content. A sustained web excerpt independently shows third-person present narration, and two credible articles explicitly describe Predator\u2019s whole-book mode as omniscient third person. The novel shifts among character perspectives, but those perspectives remain within third-person narration, so this is not person-level alternation. No credible contrary or frame/epistolary evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_042",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-04T05:27:56.361455+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5b4c49ca6c02b9eed55fa7657aacc684af5a46b85301f4bc9b061c311bec8069"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1993:4852",
+  "quotes": [
+    {
+      "quote_id": "q03314",
+      "person_signal": "non_base",
+      "note": "The visible second person occurs within character speech and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03315",
+      "person_signal": "non_base",
+      "note": "Direct speech attributed to Reggie Love; its second-person address is local dialogue."
+    },
+    {
+      "quote_id": "q03316",
+      "person_signal": "unmarked",
+      "note": "The speech is non-diagnostic, and the brief third-person speech beat alone does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q03317",
+      "person_signal": "non_base",
+      "note": "Gnomic discussion of clients and lawyers; generic you does not designate a story protagonist."
+    },
+    {
+      "quote_id": "q03318",
+      "person_signal": "unmarked",
+      "note": "A generic hypothetical man and he do not establish whether the narrator participates in the story."
+    },
+    {
+      "quote_id": "q03319",
+      "person_signal": "unmarked",
+      "note": "Narratorial commentary is present, but the generic kid and courtroom description contain no decisive person marker."
+    },
+    {
+      "quote_id": "q03320",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using universal you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03321",
+      "person_signal": "non_base",
+      "note": "The first-person pronoun occurs in direct speech."
+    },
+    {
+      "quote_id": "q03322",
+      "person_signal": "non_base",
+      "note": "A general aphorism about Americans, with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q03323",
+      "person_signal": "unclear",
+      "note": "The event sentence is truncated before its object, leaving insufficient local structure."
+    },
+    {
+      "quote_id": "q03324",
+      "person_signal": "unmarked",
+      "note": "The first- and second-person forms are dialogue; the clipped third-person speech beat is too slight to identify base person."
+    },
+    {
+      "quote_id": "q03325",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Mark in third person is not independently diagnostic."
+    },
+    {
+      "quote_id": "q03326",
+      "person_signal": "unmarked",
+      "note": "The passage describes people and a threat externally, but its short, context-dependent wording does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q03327",
+      "person_signal": "unmarked",
+      "note": "The narrator describes an unnamed woman externally, but one isolated third-person sentence is insufficient by itself."
+    },
+    {
+      "quote_id": "q03328",
+      "person_signal": "non_base",
+      "note": "Direct threat spoken to another character; you is local address."
+    },
+    {
+      "quote_id": "q03329",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally tracks Mark, Dianne, Ricky, the room, and several actions around brief dialogue, exposing third-person base narration."
+    },
+    {
+      "quote_id": "q03330",
+      "person_signal": "non_base",
+      "note": "First-person and second-person forms occur entirely in character speech."
+    },
+    {
+      "quote_id": "q03331",
+      "person_signal": "unmarked",
+      "note": "The first-person forms belong to Romey's speech; the clipped third-person lead-in is too brief to be independently diagnostic."
+    },
+    {
+      "quote_id": "q03332",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment about strippers rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q03333",
+      "person_signal": "third",
+      "note": "Extended narration moves between Dianne's concern and unspoken realization and Mark's private calculation, identifying a nonparticipating third-person narrator."
+    },
+    {
+      "quote_id": "q03334",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Hardy's conduct and evaluates his mistaken treatment of Mark without a participating narrator."
+    },
+    {
+      "quote_id": "q03335",
+      "person_signal": "non_base",
+      "note": "Attributed speech by Reggie Love; he refers to another character within dialogue."
+    },
+    {
+      "quote_id": "q03336",
+      "person_signal": "unmarked",
+      "note": "A lone third-person sentence with an antecedent outside the quote does not independently establish base person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.ca/books/72156/the-client-by-john-grisham/excerpt",
+      "title": "Excerpt from The Client",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized opening sustains third-person narration of Mark, Ricky, and their family, including Mark's feelings and history, with no participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-client/style.html",
+      "title": "John Grisham Writing Styles in The Client",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel's narration as third person and explains that the unobtrusive narrator enters the minds of multiple characters."
+    },
+    {
+      "url": "https://www.supersummary.com/the-client/part-1-chapters-1-11-summary/",
+      "title": "The Client Part 1, Chapters 1-11 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The structural analysis identifies third-person omniscient narration and describes shifts among Mark, Ricky, Romey, and Muldanno across the opening eleven chapters."
+    },
+    {
+      "url": "https://www.supersummary.com/the-client/part-2-chapters-12-21-summary/",
+      "title": "The Client Part 2, Chapters 12-21 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Analysis of the novel's interior chapters explicitly attributes their dramatic irony and access to antagonists' schemes to continuing third-person omniscient narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"John Grisham The Client excerpt first chapter publisher\" and opened the Penguin Random House authorized excerpt.",
+    "Searched \"The Client John Grisham point of view third person narrator\" and opened explicit analyses from BookRags and SuperSummary.",
+    "Searched \"The Client John Grisham alternating narration point of view\" and related epistolary, frame, and multiple-narrator terms; no credible source described sustained first- or second-person sections.",
+    "Searched site:penguinrandomhouse.com and site:jgrisham.com for authorized samples; Penguin Random House Canada supplied the usable sustained opening.",
+    "Opened the Google Books preview page, but the crawled page exposed catalog information rather than usable prose, so it was not treated as person evidence.",
+    "Reviewed Kirkus, OverDrive, and search results for PDFs; plot-only pages did not establish narrative person, and unauthorized full-text copies were not used."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, with access to multiple characters' thoughts. The strongest quote passages narrate sustained scenes around Mark and Dianne in third person, while all visible I/you counterexamples are dialogue or generic maxims. The authorized opening, a whole-book POV description, and analyses of both early and interior chapters agree, and no evidence of an autonomous first- or second-person section was found. The only limitation is that the Tier A prose source covers the opening rather than the entire novel; the later Goodreads passages and explicit structural sources supply the broader corroboration.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_028",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:20:06.207490+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "76fdc275587bffc9f6424f48a5b76c845d71f8d3ed75cf4cbb1426c3667c34c1"
+  }
+}

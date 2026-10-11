@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:HORSE|Geraldine Brooks",
+  "quotes": [
+    {
+      "quote_id": "q07304",
+      "person_signal": "non_base",
+      "note": "Universal aphorism; it does not identify a story narrator."
+    },
+    {
+      "quote_id": "q07305",
+      "person_signal": "non_base",
+      "note": "Direct speech; its second- and first-person pronouns belong to a character."
+    },
+    {
+      "quote_id": "q07306",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect reflection, but no narrator-person marker appears."
+    },
+    {
+      "quote_id": "q07307",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a male character's perceptions and past actions."
+    },
+    {
+      "quote_id": "q07308",
+      "person_signal": "non_base",
+      "note": "Aphoristic maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q07309",
+      "person_signal": "third",
+      "note": "Outside the quoted speech, the narration identifies Theo and reports his thought in third person."
+    },
+    {
+      "quote_id": "q07310",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed male character does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q07311",
+      "person_signal": "third",
+      "note": "Extended scene beats narrate Theo and Jess externally in third person around their dialogue."
+    },
+    {
+      "quote_id": "q07312",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech."
+    },
+    {
+      "quote_id": "q07313",
+      "person_signal": "unmarked",
+      "note": "Generalized second-person phrasing conveys a character-aligned reflection, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q07314",
+      "person_signal": "unclear",
+      "note": "Clipping leaves speech versus aphoristic narration unresolved."
+    },
+    {
+      "quote_id": "q07315",
+      "person_signal": "third",
+      "note": "Narratorial beats externally describe Daniel and another character throughout the dialogue."
+    },
+    {
+      "quote_id": "q07316",
+      "person_signal": "non_base",
+      "note": "First-person and second-person forms occur in direct speech."
+    },
+    {
+      "quote_id": "q07317",
+      "person_signal": "non_base",
+      "note": "Clipped quotation or letter language is a local first-person voice, not exposed base narration."
+    },
+    {
+      "quote_id": "q07318",
+      "person_signal": "unmarked",
+      "note": "Fragmentary commentary contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q07319",
+      "person_signal": "third",
+      "note": "Sustained narration names Theo, reports his interpretation, and enters his response in third person."
+    },
+    {
+      "quote_id": "q07320",
+      "person_signal": "third",
+      "note": "Sustained third-person access to Jess's interests and perceptions."
+    },
+    {
+      "quote_id": "q07321",
+      "person_signal": "unmarked",
+      "note": "Generic you occurs in a maxim-like reflection and is not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q07322",
+      "person_signal": "non_base",
+      "note": "This first-person praise of a horse is embedded testimony within a third-person section, not a Scott diary chapter."
+    },
+    {
+      "quote_id": "q07323",
+      "person_signal": "unmarked",
+      "note": "A clipped description of a man lacks enough context to establish the narrator's person."
+    },
+    {
+      "quote_id": "q07324",
+      "person_signal": "third",
+      "note": "Despite extensive dialogue and scripture, outside narration reports Jarret's thought and actions in third person."
+    },
+    {
+      "quote_id": "q07325",
+      "person_signal": "unmarked",
+      "note": "A single third-person simile about an unnamed character is insufficient by itself."
+    },
+    {
+      "quote_id": "q07326",
+      "person_signal": "non_base",
+      "note": "Gnomic workplace advice does not identify base narration."
+    },
+    {
+      "quote_id": "q07327",
+      "person_signal": "unmarked",
+      "note": "Expository animal information contains no participating or nonparticipating narrator marker."
+    },
+    {
+      "quote_id": "q07328",
+      "person_signal": "unmarked",
+      "note": "The passage discusses a man as he, but could be a participating narrator's reflection about someone else."
+    },
+    {
+      "quote_id": "q07329",
+      "person_signal": "first",
+      "note": "Story-specific artistic reflection uses I in one of Thomas Scott's constitutive first-person diary chapters."
+    },
+    {
+      "quote_id": "q07330",
+      "person_signal": "unmarked",
+      "note": "A brief they-subject action does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q07331",
+      "person_signal": "third",
+      "note": "Sustained external narration covers Jarret's relationship, actions, and attempted forgetting in third person."
+    },
+    {
+      "quote_id": "q07332",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to quoted speech; the short beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q07333",
+      "person_signal": "first",
+      "note": "The I reflection about painting and Black jockeys belongs to Thomas Scott's sustained diary narration."
+    },
+    {
+      "quote_id": "q07334",
+      "person_signal": "non_base",
+      "note": "The pronouns occur in direct speech."
+    },
+    {
+      "quote_id": "q07335",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs in direct speech."
+    },
+    {
+      "quote_id": "q07336",
+      "person_signal": "non_base",
+      "note": "Aphoristic material does not expose narrative person."
+    },
+    {
+      "quote_id": "q07337",
+      "person_signal": "unmarked",
+      "note": "Object-focused description contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q07338",
+      "person_signal": "non_base",
+      "note": "Author biography is paratext, not novel narration."
+    },
+    {
+      "quote_id": "q07339",
+      "person_signal": "unclear",
+      "note": "The isolated first-person recollection is inconsistent with the identified Scott diary voice and likely lost local speech framing, but the clipping prevents certainty."
+    },
+    {
+      "quote_id": "q07340",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a gnomic observation."
+    },
+    {
+      "quote_id": "q07341",
+      "person_signal": "unmarked",
+      "note": "A brief statement about an unnamed man's belief does not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q07342",
+      "person_signal": "non_base",
+      "note": "Character speech contains no usable base-narrator evidence."
+    },
+    {
+      "quote_id": "q07343",
+      "person_signal": "unmarked",
+      "note": "Scenic description does not grammatically identify the narrator."
+    },
+    {
+      "quote_id": "q07344",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in direct speech."
+    },
+    {
+      "quote_id": "q07345",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in direct speech."
+    },
+    {
+      "quote_id": "q07346",
+      "person_signal": "third",
+      "note": "Scene narration externally names Jarret and reports his visual association in third person."
+    },
+    {
+      "quote_id": "q07347",
+      "person_signal": "third",
+      "note": "Narration names Theo and reports his learned handling of anger in third person."
+    },
+    {
+      "quote_id": "q07348",
+      "person_signal": "unmarked",
+      "note": "The clipped she/he comparison lacks enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q07349",
+      "person_signal": "unmarked",
+      "note": "Character-aligned generalized you and third-person possessives do not independently identify narrator person."
+    },
+    {
+      "quote_id": "q07350",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms are contained in Jarret's direct speech."
+    },
+    {
+      "quote_id": "q07351",
+      "person_signal": "non_base",
+      "note": "This clipped official-report language is an embedded document rather than base narration."
+    },
+    {
+      "quote_id": "q07352",
+      "person_signal": "third",
+      "note": "Outside the dialogue, narration reports the speaker's thought about May's husband in third person."
+    },
+    {
+      "quote_id": "q07353",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs entirely within dialogue."
+    },
+    {
+      "quote_id": "q07354",
+      "person_signal": "non_base",
+      "note": "Second-person forms occur in direct speech."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.enotes.com/topics/horse-geraldine-brooks/analysis",
+      "title": "Horse Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Explicit structural analysis states that Thomas Scott's recurring chapters are first-person diary excerpts while all other character chapters use third-person narration."
+    },
+    {
+      "url": "https://www.betterreading.com.au/wp-content/uploads/2022/06/HORSE_extract.pdf",
+      "title": "Horse extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized Hachette/Viking extract presents the opening Theo chapter as sustained third-person narration; its scope proves only the opening component."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/4467/page_number/1/horse",
+      "title": "Excerpt from Horse by Geraldine Brooks",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Permissioned opening excerpt independently confirms sustained third-person narration in the Theo opening, but not the whole-book alternation."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-horse-a-novel/chapanal005.html",
+      "title": "Horse: A Novel \u2014 Chapters 43\u201354 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The chapter guide identifies chapter 43 as a full letter from Thomas Scott to Julien, corroborating a sustained first-person documentary section but only as component evidence."
+    },
+    {
+      "url": "https://books.google.com/books/about/Horse.html?id=2JxPEAAAQBAJ",
+      "title": "Horse: A Novel \u2014 Geraldine Brooks",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Publisher-linked Google Books record verifies the edition and multi-period structure but does not explicitly establish grammatical-person alternation."
+    },
+    {
+      "url": "https://geraldinebrooks.com/horse/",
+      "title": "Horse \u2014 Geraldine Brooks Official Author Website",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author's site verifies the three historical strands and characters but does not describe their grammatical narrative persons."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cGeraldine Brooks Horse novel point of view first person third person alternating narrators\u201d and opened the explicit eNotes structural analysis.",
+    "Searched \u201cHorse Geraldine Brooks excerpt Thomas J Scott I narrator,\u201d \u201cread an excerpt,\u201d and publisher/author-site variants; located and opened the authorized Hachette/Viking opening extract and the permissioned BookBrowse excerpt.",
+    "Searched exact first-person quote fragments and Thomas Scott diary terms; results corroborated recurring Scott material but did not yield an authorized whole-book source explicitly labeling the book ALTERNATING.",
+    "Checked the official author page, Viking Q&A, Google Books record, Kirkus review, BookRags chapter analysis, and study-guide results. The official materials verified timelines and edition but did not explicitly state first/third-person alternation; some generic study guides incorrectly reduced the novel to third person.",
+    "No two Tier A/B sources were found whose supports field could responsibly be ALTERNATING; the two Tier A excerpts establish only the THIRD opening component, so confidence is medium."
+  ],
+  "person_note": "The novel alternates sustained grammatical persons: most Theo, Jess, Jarret, Martha Jackson, and related chapters are third-person, while recurring Thomas Scott diary or documentary chapters are first-person. The quote set strongly samples the third-person chapters and includes two attributable Scott I passages (q07329 and q07333). Other first-person material is treated as embedded or unresolved where speech/document boundaries are clipped, especially q07322 and q07339. The whole-book alternation is explicit in one credible structural source, but the Tier A sources cover only the third-person opening and therefore do not independently support ALTERNATING as a complete structure. Because there are not two Tier A/B entries whose supports value is exactly ALTERNATING, confidence is med rather than high.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_077",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:48:07.775057+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8f1390dcc1732dd9073f979b0257399eb496da7ebad88571939b5146c0995b90"
+  }
+}

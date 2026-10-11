@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1971:4939",
+  "quotes": [
+    {
+      "quote_id": "q01824",
+      "person_signal": "unmarked",
+      "note": "Impersonal opening narration describes an execution but contains no participating narrator or sustained person marker."
+    },
+    {
+      "quote_id": "q01825",
+      "person_signal": "non_base",
+      "note": "A general maxim, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q01826",
+      "person_signal": "non_base",
+      "note": "A gnomic statement about police work; the clipped final pronoun does not establish the base narrator."
+    },
+    {
+      "quote_id": "q01827",
+      "person_signal": "non_base",
+      "note": "Direct character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01828",
+      "person_signal": "third",
+      "note": "An external narrator reports the Jackal's awareness, information unknown to him, and later historical outcomes."
+    },
+    {
+      "quote_id": "q01829",
+      "person_signal": "third",
+      "note": "External narration describes the Englishman while entering Rodin's perception and private unease."
+    },
+    {
+      "quote_id": "q01830",
+      "person_signal": "third",
+      "note": "The narrator externally follows the Jackal's reading and reports his reaction without participating in the scene."
+    },
+    {
+      "quote_id": "q01831",
+      "person_signal": "unmarked",
+      "note": "A brief action by an unnamed he-subject does not independently distinguish first- from third-person framing."
+    },
+    {
+      "quote_id": "q01832",
+      "person_signal": "unmarked",
+      "note": "The sentence reports Jacqueline's private attitude, but its short local context alone does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01833",
+      "person_signal": "non_base",
+      "note": "Generalized commentary about professionals is gnomic rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q01834",
+      "person_signal": "unmarked",
+      "note": "This clipped passage names several characters but provides insufficient local context to identify narrator participation."
+    },
+    {
+      "quote_id": "q01835",
+      "person_signal": "unmarked",
+      "note": "A short report of a woman's anticipation and desire does not alone establish the controlling narrative person."
+    },
+    {
+      "quote_id": "q01836",
+      "person_signal": "unmarked",
+      "note": "The narrator describes couples beside the Seine, but no participating or otherwise diagnostic narrator is exposed."
+    },
+    {
+      "quote_id": "q01837",
+      "person_signal": "unmarked",
+      "note": "The fragment describes the killer's appearance without identifying the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q01838",
+      "person_signal": "unmarked",
+      "note": "The clipped he-subject action and bodily reaction do not independently establish narrator person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780099557364/9780099557364-sample.pdf",
+      "title": "The Day of the Jackal \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized sample supplies a sustained Chapter One excerpt narrated externally across Bastien-Thiry, de Gaulle, the OAS conspirators, and Rodin, including characters' perceptions and beliefs without a participating narrator."
+    },
+    {
+      "url": "https://astrofella.wordpress.com/2015/02/22/the-day-of-the-jackal-frederick-forsyth/",
+      "title": "The Day of the Jackal by Frederick Forsyth (1971) | Books & Boots",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The whole-book review describes the narrative as splitting between the Jackal's preparations and Lebel's investigation and supplies page-identified interior passages externally narrating multiple characters, corroborating a nonparticipating narrator throughout the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Day of the Jackal\" \"Frederick Forsyth\" excerpt and opened Penguin's authorized 40-page sample.",
+    "Searched \"The Day of the Jackal\" with \"third person,\" \"third-person omniscient,\" \"point of view,\" \"narrator,\" and \"narration\"; explicit claims found mainly on Reddit or low-quality pages were not used.",
+    "Searched for narrative-technique and literary-analysis sources; the Cambridge crime-fiction result mentioned the novel but did not identify its narrative person.",
+    "Searched Google Books, Open Library, Internet Archive, and Penguin domains; Google Books supplied catalog and publisher-description pages but no accessible diagnostic interior excerpt, while no useful Open Library or Internet Archive result surfaced.",
+    "Opened the Guardian's author-annotated feature; Forsyth discussed the novel's technology and plot but not its narrative person, so it was not used as person evidence.",
+    "Opened the contemporary Kirkus review; it was plot synopsis rather than explicit POV evidence and was not used.",
+    "Opened the Books & Boots whole-book review and used its structural description and page-identified interior passages as corroborating evidence.",
+    "Unofficial full-text and audiobook-transcript mirrors surfaced in search but were excluded in favor of the authorized Penguin excerpt."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. The strongest Goodreads passages move externally among the Jackal, Rodin, and other characters, including knowledge unavailable to a focal character; none exposes a narratorial I or sustained you. Penguin's authorized opening independently sustains this external narration, and the whole-book review corroborates the same structure across the Jackal and Lebel plot streams. The only limitation is that the Tier A excerpt covers the opening rather than the entire novel, but the interior Goodreads evidence and page-spanning review evidence resolve that scope limitation, with no indication of alternating base narration.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_016",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T01:54:08.609686+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3809fdae38c58a8e0f23e455dc8b227ce4843c0c69e8b68b42b8401ca0143792"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:DREAMLAND|Nicholas Sparks",
+  "quotes": [
+    {
+      "quote_id": "q07089",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; its first-person frame belongs to Colby, but the universal reflection is not used as base-narration evidence."
+    },
+    {
+      "quote_id": "q07090",
+      "person_signal": "non_base",
+      "note": "Aphoristic reflection framed by narrating I; the generalized claim is nondiagnostic under the gnomic bucket."
+    },
+    {
+      "quote_id": "q07091",
+      "person_signal": "first",
+      "note": "Colby narrates a specific change in his own desires using I."
+    },
+    {
+      "quote_id": "q07092",
+      "person_signal": "non_base",
+      "note": "Habitual self-characterization filed as gnomic rather than a story-specific narrated event."
+    },
+    {
+      "quote_id": "q07093",
+      "person_signal": "first",
+      "note": "The quoted I-pronouns are speech, but the exterior beat \u201cI said\u201d diagnostically exposes first-person narration."
+    },
+    {
+      "quote_id": "q07094",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about identity and the impossibility of changing the past; not used as event-level narrator evidence."
+    },
+    {
+      "quote_id": "q07095",
+      "person_signal": "third",
+      "note": "Third-person narration enters the female focal character\u2019s perceptions and memories; this matches the sustained Beverly strand established by web evidence."
+    },
+    {
+      "quote_id": "q07096",
+      "person_signal": "first",
+      "note": "Despite truncation, the event-summary phrase \u201cmy feelings for Morgan grew stronger\u201d clearly belongs to participating first-person narration."
+    },
+    {
+      "quote_id": "q07097",
+      "person_signal": "non_base",
+      "note": "Generalized aphorism about when songs arrive, so the narrating-I frame is not used as base evidence."
+    },
+    {
+      "quote_id": "q07098",
+      "person_signal": "non_base",
+      "note": "Universal gnomic you, not sustained second-person narration of a protagonist."
+    },
+    {
+      "quote_id": "q07099",
+      "person_signal": "first",
+      "note": "The speech itself is nondiagnostic, but the intact exterior beat \u201cI swallowed\u201d exposes first-person narration."
+    },
+    {
+      "quote_id": "q07100",
+      "person_signal": "first",
+      "note": "A sustained specific scene is narrated by a participating I who approaches and observes the group."
+    },
+    {
+      "quote_id": "q07101",
+      "person_signal": "third",
+      "note": "The outside narration reports the female focal character\u2019s perception in third person before a short line of dialogue, matching the Beverly strand."
+    },
+    {
+      "quote_id": "q07102",
+      "person_signal": "unclear",
+      "note": "Severe clipping removes the governing context; \u201che said\u201d alone cannot distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q07103",
+      "person_signal": "unclear",
+      "note": "The fragment ends before enough narratorial structure appears to classify it responsibly."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.randomhousebooks.com/wp-content/uploads/2022/09/dreamland-by-nicholas-sparks-book-club-kit.pdf",
+      "title": "Dreamland Book Club Kit",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Random House\u2019s official guide explicitly states that the Colby sections are first-person and the Beverly section is third-person, establishing sustained sections in different persons."
+    },
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-24.2022.09-dreamland.pdf",
+      "title": "Dreamland Official Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized Random House excerpt labels Part I \u201cColby\u201d and presents sustained participating first-person narration beginning with Colby identifying himself."
+    },
+    {
+      "url": "https://www.supersummary.com/dreamland-sparks/important-quotes/",
+      "title": "Dreamland Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Passages sampled across the novel show Colby\u2019s sections using narratorial I and Beverly\u2019s sections narrating her as she, corroborating the change in person beyond the opening."
+    },
+    {
+      "url": "https://candiddiaries.com/2023/11/dreamland-by-nicholas-sparks-book-review/",
+      "title": "Dreamland by Nicholas Sparks | Book Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A completed-reading review explicitly describes the back-and-forth structure: Colby\u2019s narration is first person and Beverly\u2019s story is third person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cNicholas Sparks Dreamland excerpt Colby Beverly first person third person\u201d and found the authorized excerpt, official book-club guide, and explicit reviews.",
+    "Searched \u201cDreamland Nicholas Sparks alternating point of view first person third person review\u201d and opened sources describing the two sustained narrative strands.",
+    "Searched the author and Penguin Random House domains for an excerpt and discussion guide; the publisher page\u2019s Author Discussion Guide link opened the full Random House PDF.",
+    "Searched SuperSummary for the Colby and Beverly sections and opened analyses and quotations spanning the opening, interior parts, and epilogue.",
+    "A direct open of the duplicate Nicholas Sparks-hosted book-club PDF returned an internal error; the identical Random House-hosted guide opened successfully."
+  ],
+  "person_note": "The novel alternates sustained base sections in different grammatical persons: Colby participates as a first-person narrator, while Beverly/Paige is rendered in third person. The Goodreads event passages independently expose both strands, and the official Random House whole-book guide states the structure explicitly. Dialogue and gnomic quotations were not allowed to vote through their conversational or universal pronouns. There is no credible contrary evidence; the only limitation is that the authorized prose excerpt covers the Colby opening rather than a Beverly section.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.270248+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "249338a2f74cea35f84e4ef0cd5891a9b04c42eb24fd65852cc15e46556aaed0"
+  }
+}

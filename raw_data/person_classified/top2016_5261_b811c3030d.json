@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:5261",
+  "quotes": [
+    {
+      "quote_id": "q00983",
+      "person_signal": "unmarked",
+      "note": "Base narration uses generalized second person about girlhood, not sustained narration of a story-specific protagonist as you."
+    },
+    {
+      "quote_id": "q00984",
+      "person_signal": "first",
+      "note": "Evie retrospectively narrates her own waiting and preparation as I."
+    },
+    {
+      "quote_id": "q00985",
+      "person_signal": "first",
+      "note": "The participating narrator explicitly reflects as I and includes herself in we."
+    },
+    {
+      "quote_id": "q00986",
+      "person_signal": "non_base",
+      "note": "A present-tense generalization about girls; collective we does not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q00987",
+      "person_signal": "first",
+      "note": "The narrator participates in the remembered group as we and explicitly comments as I."
+    },
+    {
+      "quote_id": "q00988",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about girls, with no diagnostic narratorial self-reference."
+    },
+    {
+      "quote_id": "q00989",
+      "person_signal": "unmarked",
+      "note": "Generalized you expresses a reflection about desire rather than sustained second-person storytelling."
+    },
+    {
+      "quote_id": "q00990",
+      "person_signal": "first",
+      "note": "Evie narrates her childhood memories through I, me, and my."
+    },
+    {
+      "quote_id": "q00991",
+      "person_signal": "non_base",
+      "note": "The brief I frame introduces a predominantly gnomic generalization and is not used as primary base-person evidence."
+    },
+    {
+      "quote_id": "q00992",
+      "person_signal": "first",
+      "note": "Despite clipping, the narrator clearly describes her own past state as I."
+    },
+    {
+      "quote_id": "q00993",
+      "person_signal": "unmarked",
+      "note": "The narrator describes another woman as she and shifts into generalized you; neither construction alone identifies narrator participation."
+    },
+    {
+      "quote_id": "q00994",
+      "person_signal": "first",
+      "note": "Evie explicitly narrates her older self and continuing depression as I."
+    },
+    {
+      "quote_id": "q00995",
+      "person_signal": "first",
+      "note": "The participating narrator reports her own past thought and judgment as I and me."
+    },
+    {
+      "quote_id": "q00996",
+      "person_signal": "first",
+      "note": "The narrator identifies the adolescent mind being described as my own."
+    },
+    {
+      "quote_id": "q00997",
+      "person_signal": "non_base",
+      "note": "A gnomic imperative with no story-specific narrator or protagonist."
+    },
+    {
+      "quote_id": "q00998",
+      "person_signal": "first",
+      "note": "Mitch's action is directed at the participating narrator, identified as me."
+    },
+    {
+      "quote_id": "q00999",
+      "person_signal": "first",
+      "note": "The narrator recounts her own developing understanding as I."
+    },
+    {
+      "quote_id": "q01000",
+      "person_signal": "unmarked",
+      "note": "Extended narration about Suzanne and the ranch lacks self-reference; in context it is Evie's account of others, not evidence of a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01001",
+      "person_signal": "first",
+      "note": "The narrator explicitly describes her adolescent self as I."
+    },
+    {
+      "quote_id": "q01002",
+      "person_signal": "non_base",
+      "note": "A verbless gnomic fragment using generalized your."
+    },
+    {
+      "quote_id": "q01003",
+      "person_signal": "first",
+      "note": "Evie narrates Suzanne's importance to her through me and my."
+    },
+    {
+      "quote_id": "q01004",
+      "person_signal": "first",
+      "note": "The participating narrator includes herself among the girls through repeated we and ourselves."
+    },
+    {
+      "quote_id": "q01005",
+      "person_signal": "non_base",
+      "note": "A verbless aphoristic fragment with no diagnostic person marking."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.vice.com/en/article/the-girls-v23n4/",
+      "title": "An Exclusive First Look Inside Emma Cline's 'The Girls'",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "An authorized, sustained interior excerpt supplied by Random House presents Evie's experiences and retrospective knowledge continuously through I, me, and my."
+    },
+    {
+      "url": "https://paas.org.pl/pjas/pjas-archive/pjas-14-spring-contents/pjas-14-spring-5/",
+      "title": "\u201cWe All Want to Be Seen\u201d: The Male Gaze, the Female Gaze and the Act of Looking as Metaphor in Emma Cline\u2019s The Girls",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly article identifies middle-aged Evie as the novel's protagonist-cum-narrator reflecting on her own life and analyzes first-person passages from across the novel."
+    },
+    {
+      "url": "https://www.newyorker.com/magazine/2016/06/06/the-girls-by-emma-cline",
+      "title": "\u201cThe Girls,\u201d by Emma Cline",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "James Wood explicitly attributes the novel's immediacy to its first-person narration and discusses Evie's retrospective account across the 1969 story and contemporary frame."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/emma-cline/",
+      "title": "Emma Cline",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The author interview describes middle-aged Evie recounting her adolescence; Cline discusses the older narrator and confirms that the bulk of the novel is Evie's recollection and self-analysis."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/69820-cult-favorite-pw-talks-with-emma-cline.html",
+      "title": "Cult Favorite: PW Talks with Emma Cline",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Cline explains that the novel juxtaposes Evie's youth and middle age and that she wanted an adult voice able to comment on and contextualize Evie's own formative experiences."
+    }
+  ],
+  "search_log": [
+    "Searched: Emma Cline The Girls official excerpt first chapter narrator.",
+    "Searched: The Girls Emma Cline point of view first person narrator review.",
+    "Searched: The Girls Emma Cline excerpt Evie I novel.",
+    "Searched: The Girls Emma Cline alternating narration point of view.",
+    "Searched publisher domains for an official sample or extract and verified the Penguin Random House title page; its embedded Read Sample text was not exposed in the accessible page.",
+    "Opened and reviewed the authorized Vice/Random House excerpt, New Yorker review, Kirkus author interview, Publishers Weekly author interview, and Polish Journal for American Studies article.",
+    "A Waterstones extract PDF appeared in search results but could not be opened; it was unnecessary because the accessible authorized interior excerpt supplied sustained first-person prose.",
+    "No credible source found sustained second- or third-person base sections or an alternating-person structure."
+  ],
+  "person_note": "The Goodreads quotations repeatedly expose Evie as a participating retrospective narrator through I, me, my, and inclusive we. Generalized you in q00983 and q00989 expresses reflections on girlhood and desire rather than sustained second-person narration. Passages centered on Suzanne or the ranch, especially q00993 and q01000, are Evie's descriptions of other characters and therefore do not establish third-person narration. Authorized interior prose independently sustains Evie's first-person voice, while scholarly analysis and several credible reviews and author interviews describe the whole novel as Evie's narration across adolescent and middle-aged timeframes. The temporal shifts do not change grammatical person, and no credible evidence indicates alternating-person sections; remaining uncertainty is negligible.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_057",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:00:30.735043+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6be40808541035f9d7d12d236148f4071e85956d40fa87aa882b10b5cc0cec69"
+  }
+}

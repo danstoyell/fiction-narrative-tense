@@ -1,0 +1,459 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:513",
+  "quotes": [
+    {
+      "quote_id": "q01865",
+      "person_signal": "non_base",
+      "note": "Direct question to an interlocutor; speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01866",
+      "person_signal": "non_base",
+      "note": "Gnomic statement, possibly spoken, rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01867",
+      "person_signal": "non_base",
+      "note": "Aphorism without diagnostic base narration."
+    },
+    {
+      "quote_id": "q01868",
+      "person_signal": "first",
+      "note": "The participating narrator describes her own habitual experience as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01869",
+      "person_signal": "non_base",
+      "note": "Direct speech to an interlocutor; its first-person pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q01870",
+      "person_signal": "first",
+      "note": "The narrator recounts her own decision and required action as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01871",
+      "person_signal": "unmarked",
+      "note": "Possible base scene narration, but it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01872",
+      "person_signal": "non_base",
+      "note": "Gnomic story-world aside; its \u201cwe\u201d and \u201cI\u201d are not treated as event-level base evidence."
+    },
+    {
+      "quote_id": "q01873",
+      "person_signal": "first",
+      "note": "The narrator participates in the remembered event and repeatedly refers to herself as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01874",
+      "person_signal": "non_base",
+      "note": "General economic aphorism rather than base story narration."
+    },
+    {
+      "quote_id": "q01875",
+      "person_signal": "first",
+      "note": "Although mostly speech, the external tag \u201cI yelled\u201d diagnostically exposes the participating narrator."
+    },
+    {
+      "quote_id": "q01876",
+      "person_signal": "non_base",
+      "note": "Gnomic conditional comparison rather than event narration."
+    },
+    {
+      "quote_id": "q01877",
+      "person_signal": "first",
+      "note": "The narrator describes her own reaction as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01878",
+      "person_signal": "unmarked",
+      "note": "Likely base narratorial commentary, but no pronoun identifies the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q01879",
+      "person_signal": "non_base",
+      "note": "Quoted speech with a third-person speech tag; it does not establish the base person."
+    },
+    {
+      "quote_id": "q01880",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, possibly speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01881",
+      "person_signal": "first",
+      "note": "The narrator recounts her own decisions using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01882",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01883",
+      "person_signal": "unmarked",
+      "note": "Possible base reflection on a story event, but its impersonal construction does not identify person."
+    },
+    {
+      "quote_id": "q01884",
+      "person_signal": "non_base",
+      "note": "Habitual gnomic aside rather than event-level narration."
+    },
+    {
+      "quote_id": "q01885",
+      "person_signal": "non_base",
+      "note": "General second-person advice, not story-specific narration."
+    },
+    {
+      "quote_id": "q01886",
+      "person_signal": "non_base",
+      "note": "Direct-address speech; its \u201cyou\u201d and \u201cI\u201d are local to the utterance."
+    },
+    {
+      "quote_id": "q01887",
+      "person_signal": "non_base",
+      "note": "Aphoristic safety maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01888",
+      "person_signal": "non_base",
+      "note": "Generalized second-person exposition, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01889",
+      "person_signal": "first",
+      "note": "The base narrator interrupts her description with the self-reference \u201cI\u2019m not a poet.\u201d"
+    },
+    {
+      "quote_id": "q01890",
+      "person_signal": "unmarked",
+      "note": "Base technical explanation and reader address do not by themselves establish narrator participation."
+    },
+    {
+      "quote_id": "q01891",
+      "person_signal": "non_base",
+      "note": "Parenthetical generalization rather than story-event narration."
+    },
+    {
+      "quote_id": "q01892",
+      "person_signal": "first",
+      "note": "The narrator evaluates her own past action and established behavior as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01893",
+      "person_signal": "unmarked",
+      "note": "A third-person description of a woman alone cannot establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01894",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment without diagnostic narration."
+    },
+    {
+      "quote_id": "q01895",
+      "person_signal": "non_base",
+      "note": "Predominantly quoted exclamations followed by an unmarked maxim."
+    },
+    {
+      "quote_id": "q01896",
+      "person_signal": "non_base",
+      "note": "Direct speech to Dad; first-person pronouns belong to the speaker\u2019s utterance."
+    },
+    {
+      "quote_id": "q01897",
+      "person_signal": "first",
+      "note": "The narrator describes her own habitual action as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01898",
+      "person_signal": "non_base",
+      "note": "General scientific exposition rather than a narrated story event."
+    },
+    {
+      "quote_id": "q01899",
+      "person_signal": "non_base",
+      "note": "Second-person maxim, possibly spoken, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01900",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about storytelling rather than base event narration."
+    },
+    {
+      "quote_id": "q01901",
+      "person_signal": "non_base",
+      "note": "General second-person observation, not sustained narration of a protagonist as \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q01902",
+      "person_signal": "first",
+      "note": "Sustained scene narration repeatedly presents the narrator\u2019s perceptions and actions as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01903",
+      "person_signal": "first",
+      "note": "Narratorial action beats repeatedly use \u201cI\u201d for a participant in the scene."
+    },
+    {
+      "quote_id": "q01904",
+      "person_signal": "non_base",
+      "note": "Generalized story-world rule rather than a narrated event."
+    },
+    {
+      "quote_id": "q01905",
+      "person_signal": "first",
+      "note": "The external speech tag \u201cI said\u201d identifies the participating base narrator."
+    },
+    {
+      "quote_id": "q01906",
+      "person_signal": "non_base",
+      "note": "A speech exchange whose first- and second-person pronouns are local to the speakers."
+    },
+    {
+      "quote_id": "q01907",
+      "person_signal": "first",
+      "note": "Narratorial action and speech tags include \u201cus\u201d and \u201cI said,\u201d exposing the narrator in the scene."
+    },
+    {
+      "quote_id": "q01908",
+      "person_signal": "non_base",
+      "note": "First-person reply in a speech register, not independently attributable to base narration."
+    },
+    {
+      "quote_id": "q01909",
+      "person_signal": "non_base",
+      "note": "Aphoristic claim about cities rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01910",
+      "person_signal": "first",
+      "note": "The external narration tag \u201cI yelled\u201d identifies the narrator as a story participant."
+    },
+    {
+      "quote_id": "q01911",
+      "person_signal": "first",
+      "note": "The speech tag \u201cI said\u201d diagnostically exposes the participating narrator."
+    },
+    {
+      "quote_id": "q01912",
+      "person_signal": "non_base",
+      "note": "Universal second-person generalization rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01913",
+      "person_signal": "non_base",
+      "note": "Habitual story-world generalization rather than event narration."
+    },
+    {
+      "quote_id": "q01914",
+      "person_signal": "first",
+      "note": "The narrator describes her own condition and preference as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01915",
+      "person_signal": "non_base",
+      "note": "An embedded letter addressed to Jazz; its pronouns belong to the correspondent, not the base narration."
+    },
+    {
+      "quote_id": "q01916",
+      "person_signal": "non_base",
+      "note": "Timeless story-world physics exposition rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01917",
+      "person_signal": "first",
+      "note": "Outside the dialogue, the narrator recounts her own actions as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01918",
+      "person_signal": "non_base",
+      "note": "Gnomic descriptive fragment without diagnostic narration."
+    },
+    {
+      "quote_id": "q01919",
+      "person_signal": "first",
+      "note": "The narrator\u2019s aside \u201cI\u2019ve never understood why\u201d exposes Jazz\u2019s participating narrative voice."
+    },
+    {
+      "quote_id": "q01920",
+      "person_signal": "first",
+      "note": "The narrator evaluates a character from her own perspective using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01921",
+      "person_signal": "first",
+      "note": "Narratorial beats place the narrator in the scene through \u201cnext to me\u201d and \u201cI said.\u201d"
+    },
+    {
+      "quote_id": "q01922",
+      "person_signal": "first",
+      "note": "Speech tags and the surrounding narratorial aside identify the speaker-narrator as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01923",
+      "person_signal": "unmarked",
+      "note": "Possible base action narration, but no narrator reference establishes person."
+    },
+    {
+      "quote_id": "q01924",
+      "person_signal": "non_base",
+      "note": "Quoted speech with only a third-person tag; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01925",
+      "person_signal": "first",
+      "note": "The external tag \u201cI said\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q01926",
+      "person_signal": "non_base",
+      "note": "Gnomic story-world exposition; \u201cwe\u201d is collective rather than event-level person evidence."
+    },
+    {
+      "quote_id": "q01927",
+      "person_signal": "unmarked",
+      "note": "Past-tense setting exposition without a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01928",
+      "person_signal": "non_base",
+      "note": "First-person child speech rather than base narration."
+    },
+    {
+      "quote_id": "q01929",
+      "person_signal": "non_base",
+      "note": "Brief speech exchange without narratorial person evidence."
+    },
+    {
+      "quote_id": "q01930",
+      "person_signal": "non_base",
+      "note": "Timeless setting description rather than event narration."
+    },
+    {
+      "quote_id": "q01931",
+      "person_signal": "non_base",
+      "note": "Aphorism about life-or-death situations rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01932",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment rather than base story narration."
+    },
+    {
+      "quote_id": "q01933",
+      "person_signal": "first",
+      "note": "The narrator recounts her own physical actions and condition through \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01934",
+      "person_signal": "first",
+      "note": "Sustained action narration repeatedly describes the narrator as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01935",
+      "person_signal": "non_base",
+      "note": "Imperative reader aside, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01936",
+      "person_signal": "first",
+      "note": "Sustained scene narration presents the narrator\u2019s perceptions and actions as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01937",
+      "person_signal": "non_base",
+      "note": "General scientific exposition rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q01938",
+      "person_signal": "non_base",
+      "note": "Predominantly speech with a bare third-person beat, insufficient to establish base person."
+    },
+    {
+      "quote_id": "q01939",
+      "person_signal": "first",
+      "note": "Outside the speech, \u201csprayed us both\u201d places the narrator within the narrated scene."
+    },
+    {
+      "quote_id": "q01940",
+      "person_signal": "first",
+      "note": "Substantial action narration repeatedly presents the participating narrator as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01941",
+      "person_signal": "non_base",
+      "note": "Generalized commentary about physical size rather than a story event."
+    },
+    {
+      "quote_id": "q01942",
+      "person_signal": "non_base",
+      "note": "General physiological exposition with universal \u201cyou,\u201d not second-person base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/tra-rgfe/assets/1999/First_Chapter_Artemis_by_Andy_Weir.pdf",
+      "title": "First Chapter: Artemis by Andy Weir",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained publisher-hosted first-chapter extract narrates Jazz\u2019s actions and surroundings as \u201cI\u201d; it also shows the chapter-ending Jazz/Kelvin correspondence as embedded documents."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/250305/artemis-by-andy-weir/",
+      "title": "Artemis by Andy Weir",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The official publisher page includes an author interview in which Weir explicitly identifies Jazz as the novel\u2019s first-person narrator."
+    },
+    {
+      "url": "https://www.space.com/38725-artemis-andy-weir-author-interview.html",
+      "title": "Making a Moon Base With 'Artemis' Author Andy Weir",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In an interview about writing Artemis, Weir explicitly says he retained a first-person narrative style and identifies Jazz as its lead voice."
+    },
+    {
+      "url": "https://sfbook.com/artemis380.htm",
+      "title": "Artemis by Andy Weir \u2014 SFBook Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review describes the completed work as using a first-person journal method and identifies Jazz as its narrator."
+    },
+    {
+      "url": "https://spaceandsorcery.wordpress.com/2017/08/18/review-artemis-by-andy-weir/",
+      "title": "Review: ARTEMIS, by Andy Weir",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes Jazz\u2019s first-person narrative and explains that chapters are interspersed with her email correspondence with Kelvin."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cArtemis Andy Weir official excerpt first chapter Jazz Bashara\u201d and opened the sustained publisher-hosted first-chapter PDF.",
+    "Searched \u201csite:penguinrandomhouse.com Artemis Andy Weir excerpt\u201d and opened the official book page and its author interview.",
+    "Searched \u201cArtemis Andy Weir first person narrator point of view review\u201d and opened explicit whole-book descriptions from SFBook and Space and Sorcery.",
+    "Searched \u201cAndy Weir Artemis narrator Jazz first person interview\u201d and opened the Space.com author interview.",
+    "Searched \u201cArtemis Andy Weir alternating narration letters Kenya first person\u201d and \u201cArtemis Andy Weir chapters interspersed emails Jazz Kelvin narrative\u201d; results consistently described local Jazz/Kelvin emails, not a competing sustained base narrator.",
+    "Plot summaries and retail synopsis grammar were reviewed only for discovery and were not used as person evidence."
+  ],
+  "person_note": "Jazz Bashara is the participating first-person base narrator. Numerous event passages and narratorial beats independently expose her actions, perceptions, and reactions as \u201cI,\u201d including interior scenes well beyond the opening. The authorized first-chapter extract agrees, while the publisher\u2019s author interview and multiple opened whole-book sources explicitly describe Jazz\u2019s first-person narration. The book also intersperses Jazz/Kelvin emails; these are local embedded documents, as illustrated by q01915 and the authorized extract, and do not create a sustained base section in another grammatical person. The only material limitation is that the authorized prose source covers the opening, but the distributed quote evidence and explicit whole-book sources resolve that scope limitation without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.259399+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ec473b98a0735a6e5fc13453bf6274ad19dc920c3906d45163e5582f0117bd92"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1965:7086",
+  "quotes": [
+    {
+      "quote_id": "q01366",
+      "person_signal": "first",
+      "note": "Frank Allen's signed first-person student writing is one of the documents constituting this epistolary narrative."
+    },
+    {
+      "quote_id": "q01367",
+      "person_signal": "non_base",
+      "note": "A self-contained line of speech; its address to another character does not identify the documentary narration's person."
+    },
+    {
+      "quote_id": "q01368",
+      "person_signal": "non_base",
+      "note": "Quoted and imagined speech dominates the passage; its pronouns belong to the local exchange."
+    },
+    {
+      "quote_id": "q01369",
+      "person_signal": "first",
+      "note": "Syl's first-person intraschool correspondence is constitutive epistolary narration, followed by Bea's reply."
+    },
+    {
+      "quote_id": "q01370",
+      "person_signal": "first",
+      "note": "Sylvia recounts her visit and observations as a participating narrator using repeated 'I.'"
+    },
+    {
+      "quote_id": "q01371",
+      "person_signal": "first",
+      "note": "The salutation and first-person report identify a constitutive letter from Sylvia to Bea."
+    },
+    {
+      "quote_id": "q01372",
+      "person_signal": "first",
+      "note": "Sylvia describes her own job and mother as a participating first-person narrator."
+    },
+    {
+      "quote_id": "q01373",
+      "person_signal": "first",
+      "note": "Lazy Mary's signed first-person student composition is part of the novel's constitutive documentary narration."
+    },
+    {
+      "quote_id": "q01374",
+      "person_signal": "first",
+      "note": "Sylvia narrates her teacher-pupil relationship and effort to reclaim Ferone through repeated 'I.'"
+    },
+    {
+      "quote_id": "q01375",
+      "person_signal": "first",
+      "note": "Sylvia participates in the recounted classroom scene and explicitly says what 'I' asked and had been trying to do."
+    },
+    {
+      "quote_id": "q01376",
+      "person_signal": "first",
+      "note": "The narrator participates in the school experience, marked by 'we had assembly this morning.'"
+    },
+    {
+      "quote_id": "q01377",
+      "person_signal": "non_base",
+      "note": "Direct classroom dialogue; the speakers' first and second persons do not independently identify base narration."
+    },
+    {
+      "quote_id": "q01378",
+      "person_signal": "non_base",
+      "note": "A first-person statement in direct speech rather than securely framed constitutive narration."
+    },
+    {
+      "quote_id": "q01379",
+      "person_signal": "unmarked",
+      "note": "This administrative memo is a constitutive document but contains no diagnostic participating narrator."
+    },
+    {
+      "quote_id": "q01380",
+      "person_signal": "first",
+      "note": "The substitute's story is framed by Sylvia's participating narration through 'told me.'"
+    },
+    {
+      "quote_id": "q01381",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, 'I am writing' identifies a constitutive first-person account of Sylvia's first day."
+    },
+    {
+      "quote_id": "q01382",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, this explicitly written first-person communication is constitutive epistolary narration."
+    },
+    {
+      "quote_id": "q01383",
+      "person_signal": "non_base",
+      "note": "Advice addressed to the protagonist in direct speech; 'you' is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01384",
+      "person_signal": "unmarked",
+      "note": "The detention slip is a constitutive document but has no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q01385",
+      "person_signal": "first",
+      "note": "The participating teacher-narrator identifies her group through 'we are required to teach.'"
+    },
+    {
+      "quote_id": "q01386",
+      "person_signal": "non_base",
+      "note": "A joke presented entirely as character dialogue, not controlling narration."
+    },
+    {
+      "quote_id": "q01387",
+      "person_signal": "unclear",
+      "note": "The clipped passage may be Sylvia's constitutive written commentary or local speech; its document boundary is missing."
+    },
+    {
+      "quote_id": "q01388",
+      "person_signal": "unclear",
+      "note": "The isolated parenthetical postscript lacks enough surrounding document context to attribute its 'I' securely."
+    },
+    {
+      "quote_id": "q01389",
+      "person_signal": "first",
+      "note": "The writer explicitly reflects on her own telling, selection, and editing in a constitutive first-person communication."
+    },
+    {
+      "quote_id": "q01390",
+      "person_signal": "unmarked",
+      "note": "The external beat may belong to Sylvia's recounting, but it has no diagnostic narrator pronoun; Paul's speech is local."
+    },
+    {
+      "quote_id": "q01391",
+      "person_signal": "first",
+      "note": "Web-accessible book context places this first-person complaint within Sylvia's long constitutive letter."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780525565666",
+      "title": "Up the Down Staircase | Penguin Random House Secondary Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "none",
+      "note": "The publisher supplies an authorized sustained opening consisting entirely of unframed classroom dialogue and separately describes the novel-wide narration as a collection of correspondence; the opening alone has no controlling-person signal."
+    },
+    {
+      "url": "https://www.nybooks.com/articles/1966/07/07/recess/",
+      "title": "Recess",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A contemporary New York Review of Books structural review says Kaufman tells the story through exchanges of letters and memoranda plus intact student notes and notebooks, corroborating participant-authored documentary narration rather than an external third-person narrator."
+    },
+    {
+      "url": "https://www.eyrie.org/~eagle/reviews/books/0-525-56566-3.html",
+      "title": "Up the Down Staircase by Bel Kaufman",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A detailed full-book review explicitly identifies Sylvia as the first-person narrator in her long letters and teacher-to-teacher memos, while noting that other documents and the dialogue-only first and last chapters lie outside her narration."
+    },
+    {
+      "url": "https://books.google.com/books?id=q3MHqsyaI4UC",
+      "title": "Up the Down Staircase - Bel Kaufman - Google Books",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publisher metadata describes the characters as speaking for themselves through memos, letters, directives, comments, notes, and recovered papers, corroborating the book's polyphonic documentary form and absence of sustained external narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Up the Down Staircase\" Bel Kaufman with narrator, first person, point of view, epistolary, excerpt, letters, diary, frame narrative, and narrative technique terms.",
+    "Opened the Penguin Random House authorized excerpt and book description; the excerpt covers only the dialogue-only opening, while the description characterizes the whole-book correspondence structure.",
+    "Opened Google Books editions and contents; publisher metadata described the novel-wide assemblage of memos, letters, directives, notes, and papers, but the preview did not expose sustained interior prose through the web reader.",
+    "Opened the 1966 New York Review of Books review, which analyzes the complete novel's construction from letters, memoranda, student notes, and notebooks.",
+    "Opened a detailed 2025 full-book review that explicitly calls Sylvia the first-person narrator through her letters and memos and distinguishes the remaining documentary material.",
+    "Searched scholarly repositories and PDFs for structural analysis; an LSU dissertation landing page was accessible but its full text returned 403, and other academic PDFs could not be opened reliably, so they were not used as evidence.",
+    "Ran targeted exact-phrase searches for ambiguous Goodreads quotations, including the Payroll Division passage, the isolated postscript, the turkey-wishbone line, and Sylvia's teaching-work complaint; only the last yielded useful surrounding book context."
+  ],
+  "person_note": "The novel is a polyphonic epistolary/documentary narrative rather than a conventional continuous narrator's account. Sylvia's letters and intraschool notes provide the controlling story line in participating first person, while signed student writings add other first-person documentary voices; under the methodology, multiple first-person narrators remain FIRST. Administrative slips and memos are constitutive but often grammatically unmarked, and the opening/closing dialogue and local quoted speech do not create a second- or third-person base. Quotes labeled dialogue upstream that explicitly say 'I am writing' were therefore used as constitutive epistolary evidence without changing their buckets. The only residual uncertainty concerns a few clipped quotations whose document boundaries are missing, not the whole-book person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_014",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T17:02:07.063688+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d5bc33361d6cfe7542e2641e1f72ad96dc86f8e9d52a90733bb560a0fb8ab55f"
+  }
+}

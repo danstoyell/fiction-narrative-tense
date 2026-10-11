@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1973:886",
+  "quotes": [
+    {
+      "quote_id": "q01877",
+      "person_signal": "non_base",
+      "note": "General aphorism without a story-specific narrator."
+    },
+    {
+      "quote_id": "q01878",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q01879",
+      "person_signal": "non_base",
+      "note": "General political observation, not a narrated scene."
+    },
+    {
+      "quote_id": "q01880",
+      "person_signal": "non_base",
+      "note": "Gnomic political claim without narrator participation."
+    },
+    {
+      "quote_id": "q01881",
+      "person_signal": "unmarked",
+      "note": "Historical commentary about Jefferson; third-person references do not distinguish external narration from a first-person memoirist."
+    },
+    {
+      "quote_id": "q01882",
+      "person_signal": "non_base",
+      "note": "Generic address to an American reader, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01883",
+      "person_signal": "unmarked",
+      "note": "Historical commentary about Jefferson contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01884",
+      "person_signal": "non_base",
+      "note": "Gnomic characterization of Leggett rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q01885",
+      "person_signal": "unmarked",
+      "note": "After the direct quotation, the brief Marshall action contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01886",
+      "person_signal": "non_base",
+      "note": "The introductory I frames a general aphorism about aging rather than story participation."
+    },
+    {
+      "quote_id": "q01887",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in Burr's local speech within the frame narrative."
+    },
+    {
+      "quote_id": "q01888",
+      "person_signal": "non_base",
+      "note": "Generic gnomic we does not identify a participating narrator."
+    },
+    {
+      "quote_id": "q01889",
+      "person_signal": "unmarked",
+      "note": "Historical discussion of Jefferson is compatible with first-person memoir narration but does not expose its person locally."
+    },
+    {
+      "quote_id": "q01890",
+      "person_signal": "first",
+      "note": "Outside the reported speech, the narrator says I know the speech, identifying a participating first-person observer."
+    },
+    {
+      "quote_id": "q01891",
+      "person_signal": "first",
+      "note": "The scene is narrated through a participating I who meets and argues with Clancey."
+    },
+    {
+      "quote_id": "q01892",
+      "person_signal": "unmarked",
+      "note": "Historical-political commentary contains no story-specific narrator reference."
+    },
+    {
+      "quote_id": "q01893",
+      "person_signal": "unmarked",
+      "note": "The Broadway description is clipped and contains no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q01894",
+      "person_signal": "first",
+      "note": "Burr's constitutive memoir narration repeatedly uses I, me, and our for events in which he participated."
+    },
+    {
+      "quote_id": "q01895",
+      "person_signal": "unmarked",
+      "note": "Historical narration about Philadelphia contains no local reference to the memoirist."
+    },
+    {
+      "quote_id": "q01896",
+      "person_signal": "first",
+      "note": "Burr's memoirist I recounts his presence during the Declaration and wartime events."
+    },
+    {
+      "quote_id": "q01897",
+      "person_signal": "non_base",
+      "note": "Fragmentary gnomic claim about authorship."
+    },
+    {
+      "quote_id": "q01898",
+      "person_signal": "non_base",
+      "note": "Generic political we is not story-specific participation."
+    },
+    {
+      "quote_id": "q01899",
+      "person_signal": "non_base",
+      "note": "Aphoristic direct speech about ghosts and memories."
+    },
+    {
+      "quote_id": "q01900",
+      "person_signal": "first",
+      "note": "The narrator's my bedroom, I tried, and I knew establish participation in the scene."
+    },
+    {
+      "quote_id": "q01901",
+      "person_signal": "first",
+      "note": "Outside the quoted remark, the participating narrator explains what I meant and that we were living in that period."
+    },
+    {
+      "quote_id": "q01902",
+      "person_signal": "first",
+      "note": "A participating I approaches Monticello, converses with Jefferson, and recalls personal manufactories."
+    },
+    {
+      "quote_id": "q01903",
+      "person_signal": "first",
+      "note": "The possessive my best claret identifies the narrator as a participant and host."
+    },
+    {
+      "quote_id": "q01904",
+      "person_signal": "first",
+      "note": "The narrator describes Mrs. Todd relative to my taste, exposing participating first-person narration."
+    },
+    {
+      "quote_id": "q01905",
+      "person_signal": "non_base",
+      "note": "The first-person wording belongs to quoted character speech rather than an outside narrative beat."
+    },
+    {
+      "quote_id": "q01906",
+      "person_signal": "first",
+      "note": "The narrator belongs to the group splattered by the carriage, expressed as us."
+    },
+    {
+      "quote_id": "q01907",
+      "person_signal": "first",
+      "note": "The phrase the rest of us places the narrator among the characters experiencing the scene."
+    },
+    {
+      "quote_id": "q01908",
+      "person_signal": "first",
+      "note": "Outside the shouted dialogue, We never heard identifies the narrator's participation in the incident."
+    },
+    {
+      "quote_id": "q01909",
+      "person_signal": "non_base",
+      "note": "First-person political claims occur entirely in Halleck's direct speech."
+    },
+    {
+      "quote_id": "q01910",
+      "person_signal": "first",
+      "note": "The narrator's I and me describe his own ambitions and conduct."
+    },
+    {
+      "quote_id": "q01911",
+      "person_signal": "first",
+      "note": "A participating I waits and observes General Knox."
+    },
+    {
+      "quote_id": "q01912",
+      "person_signal": "unmarked",
+      "note": "A single descriptive sentence contains no narrator reference."
+    },
+    {
+      "quote_id": "q01913",
+      "person_signal": "unmarked",
+      "note": "The bare third-person description of Burr does not establish an external narrator."
+    },
+    {
+      "quote_id": "q01914",
+      "person_signal": "non_base",
+      "note": "The first-person opinion appears as direct speech."
+    },
+    {
+      "quote_id": "q01915",
+      "person_signal": "first",
+      "note": "Outside the dialogue, a participating we encounters the figures and narrates the reaction."
+    },
+    {
+      "quote_id": "q01916",
+      "person_signal": "first",
+      "note": "The narratorial beat uses me and I for the observer seated beside Clancey."
+    },
+    {
+      "quote_id": "q01917",
+      "person_signal": "unmarked",
+      "note": "Sustained characterization of Clancey remains locally compatible with a first-person narrator; our democracy is not scene participation."
+    },
+    {
+      "quote_id": "q01918",
+      "person_signal": "unmarked",
+      "note": "Third-person description of Clancey contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01919",
+      "person_signal": "first",
+      "note": "As we left places the participating narrator in the observed fight scene."
+    },
+    {
+      "quote_id": "q01920",
+      "person_signal": "unclear",
+      "note": "The passage ends immediately after an isolated I; clipping prevents determining its syntactic and narratorial role."
+    },
+    {
+      "quote_id": "q01921",
+      "person_signal": "first",
+      "note": "Despite the clipped opening, I looked at her and repeated first-person possessives clearly form the participating narrator's scene narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://dl.tufts.edu/downloads/m613n9184",
+      "title": "Backlash Realism: The American Novel during the Long 1980s",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This Tufts doctoral dissertation identifies Charlie Schuyler's first-person perspective, Burr's memoirs and journals as embedded texts, and Burr overall as heavily framed first-person narration(s)."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-burr-gore-vidal/style.html",
+      "title": "Gore Vidal Writing Styles in Burr",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis explicitly states that Charlie narrates in first person and that Aaron Burr also narrates his memoirs in first person."
+    },
+    {
+      "url": "https://www.smithsonianmag.com/history/there-was-hamilton-there-was-burr-180959295/",
+      "title": "Before There Was \u201cHamilton,\u201d There Was \u201cBurr\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Smithsonian describes the novel as a story within a story, identifies Charles Schuyler as narrator, and identifies Burr's reminiscences as the book's second narrative; its cited examples expose first-person voices in both layers."
+    },
+    {
+      "url": "https://www.enotes.com/topics/gore-vidal/criticism/vidal-gore-1925-2",
+      "title": "Gore Vidal Criticism: Vidal, Gore (Vol. 4)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The page reprints contemporary criticism explicitly describing the fictional biographer as a first-person narrator and Burr's own account as first-person narrative."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/183787/burr-by-gore-vidal/",
+      "title": "Burr by Gore Vidal",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher synopsis verifies the work and its framing relationship\u2014Burr tells his story to journalist Charles Schermerhorn Schuyler\u2014but does not explicitly specify grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cGore Vidal Burr novel narrator Charles Schuyler first person Aaron Burr memoir structure,\u201d \u201cBurr Gore Vidal excerpt first chapter Charles Schuyler,\u201d \u201cBurr Gore Vidal point of view first person narrator review,\u201d and \u201cGore Vidal Burr novel alternating narrators memoirs.\u201d",
+    "Searched publisher, Google Books, Internet Archive, and academic-source variants, including \u201csite:penguinrandomhouse.com Burr Gore Vidal excerpt,\u201d \u201csite:books.google.com Burr Charles Schuyler Gore Vidal preview,\u201d \u201csite:archive.org/details/burrnovel Vidal,\u201d and \u201cacademic Burr first-person narrator Gore Vidal.\u201d",
+    "Opened and evaluated the Penguin Random House title page, Smithsonian's structural account, the BookRags point-of-view analysis, the eNotes criticism page, the New York Review of Books discussion, and Seth Studer's Tufts dissertation.",
+    "The Penguin Random House Look Inside control did not yield an accessible prose preview, and the targeted Google Books and Internet Archive searches did not produce a usable authorized excerpt."
+  ],
+  "person_note": "The novel uses two sustained but consistently first-person narrative voices: fictional journalist Charlie Schuyler in the 1830s frame and Aaron Burr in the constitutive memoir sections. The many narratorial I, me, my, us, and we passages in the quotes independently corroborate the scholarly whole-book structural account. Third-person descriptions of Jefferson, Burr, and other figures are therefore unmarked locally rather than evidence of third-person base narration, while pronouns confined to dialogue and aphorisms are non-base. Because multiple narrators remain in the same grammatical person, the result is FIRST rather than ALTERNATING. The main residual uncertainty is assigning a few clipped quotations to Charlie or Burr, which does not affect the book-level person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_017",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T02:07:14.976337+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f7580980f1e91de001eb0e779add69527dc249c308692cd745edb2b9f82d7243"
+  }
+}

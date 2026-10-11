@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:4837",
+  "quotes": [
+    {
+      "quote_id": "q00027",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Character speech about train passengers; pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "Character speech and general address, not controlling narration."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "Character speech; generic 'you' is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Character speech containing generalized religious advice."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "third",
+      "note": "This line appears within the sustained third-person Chapter One excerpt, where Tom is narrated externally as 'he.'"
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "non_base",
+      "note": "Aphoristic character speech, not base narration."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "Narratorial historical summary about Twain, but the isolated third-person reference does not by itself exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Character speech; 'I,' 'we,' and 'you' belong to the speaker's argument."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "third",
+      "note": "Multi-sentence narration names Tom externally and renders his thoughts as 'he thought,' exposing third-person focalized narration."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "non_base",
+      "note": "Question and answer in character speech."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "non_base",
+      "note": "Character speech with generic second-person advice."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "non_base",
+      "note": "First-person character speech with direct address."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "non_base",
+      "note": "Character speech using generic or addressee-specific 'you.'"
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "unmarked",
+      "note": "Historical narration introduces an embedded Twain quotation but does not independently establish the base narrator's person."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "unclear",
+      "note": "Severely clipped fragment with insufficient structure or attribution."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "unmarked",
+      "note": "The dialogue is non-diagnostic; the brief external speech beats use 'she' and 'he' but are too limited alone to establish narrator participation."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not base narration."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "unmarked",
+      "note": "General narratorial observation contains no participating narrator and no sustained character scene sufficient to diagnose person alone."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "unmarked",
+      "note": "A single externally focalized description of Tom is compatible with third person but is too brief by itself to exclude an unmentioned participating narrator."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks enough syntax and context for attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.hallmarkmystery.com/christmas/david-baldaccis-the-christmas-train-excerpt",
+      "title": "David Baldacci's The Christmas Train - Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The official Hallmark page reproduces Chapter One across five pages. Its sustained narration repeatedly names Tom Langdon and refers to him as 'he' while reporting his history, perceptions, motives, and plans, with no participating narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Christmas Train\" \"David Baldacci\" excerpt, first chapter, and publisher; opened the official Hallmark Chapter One excerpt and the Pan Macmillan publisher page.",
+    "Searched \"The Christmas Train\" third person, point of view, narrator, narrated by, and Tom Langdon POV; no credible explicit whole-book POV description was found.",
+    "Searched \"The Christmas Train\" multiple narrators, alternating point of view, epistolary, diary, and frame narrative; found no credible evidence of sustained narration in another person.",
+    "Opened Google Books and Open Library records/previews; they confirmed the work and preview availability but exposed no usable sustained interior prose through the accessible pages.",
+    "Searched exact interior phrases from q00037 and q00049; results did not provide an independent authorized interior excerpt or structural account."
+  ],
+  "person_note": "The authorized opening is sustained third-person narration centered on Tom Langdon, and q00033 is directly situated within that excerpt. The interior Goodreads material corroborates the same pattern most clearly in q00037, while the other event fragments are too short or impersonal to diagnose independently. First- and second-person forms in the remaining quotations are local dialogue, not competing narrative sections. The label is THIRD; confidence is medium because the strong web excerpt covers only the opening and no credible whole-book structural description or authorized interior excerpt was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_038",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:33:33.840805+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3817877882711ec1933bc98715338963918c124794175eaebe81e6ebe9152c8b"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1992:1979",
+  "quotes": [
+    {
+      "quote_id": "q01122",
+      "person_signal": "non_base",
+      "note": "Generic second-person language inside dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01123",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue about writing is a local voice, not base narration."
+    },
+    {
+      "quote_id": "q01124",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' expresses a general human response, not sustained narration of Jessie as you."
+    },
+    {
+      "quote_id": "q01125",
+      "person_signal": "unmarked",
+      "note": "Narratorial aphorism contains no diagnostic person marking."
+    },
+    {
+      "quote_id": "q01126",
+      "person_signal": "non_base",
+      "note": "A speaking voice addresses Jessie; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01127",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the impersonal reference to the body does not establish person."
+    },
+    {
+      "quote_id": "q01128",
+      "person_signal": "unmarked",
+      "note": "Aphoristic statement lacks a diagnostic narrator or protagonist pronoun."
+    },
+    {
+      "quote_id": "q01129",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to 'her face' is insufficient to establish the narrating position."
+    },
+    {
+      "quote_id": "q01130",
+      "person_signal": "first",
+      "note": "Jessie narrates as I in the sustained, constitutive letter to Ruth near the novel's end."
+    },
+    {
+      "quote_id": "q01131",
+      "person_signal": "unmarked",
+      "note": "The spoken first-person content is non-diagnostic; the short 'she told' attribution alone is insufficient for third person."
+    },
+    {
+      "quote_id": "q01132",
+      "person_signal": "unmarked",
+      "note": "Generic reflection about a person's mind does not identify narrator participation."
+    },
+    {
+      "quote_id": "q01133",
+      "person_signal": "non_base",
+      "note": "Generic you occurs within speech or thought and is not base second-person narration."
+    },
+    {
+      "quote_id": "q01134",
+      "person_signal": "first",
+      "note": "The direct address to Ruth and reference to 'my mother' belong to Jessie's constitutive concluding letter."
+    },
+    {
+      "quote_id": "q01135",
+      "person_signal": "non_base",
+      "note": "Gnomic material and generic you do not diagnose the person of the base narration."
+    },
+    {
+      "quote_id": "q01136",
+      "person_signal": "first",
+      "note": "Jessie explicitly narrates her experience as I to Ruth in the sustained concluding letter."
+    },
+    {
+      "quote_id": "q01137",
+      "person_signal": "non_base",
+      "note": "First-person phrasing is a local direct thought, not an autonomous base section."
+    },
+    {
+      "quote_id": "q01138",
+      "person_signal": "third",
+      "note": "Retrospective narration presents Jessie's inner condition externally as 'her' across a developed sentence."
+    },
+    {
+      "quote_id": "q01139",
+      "person_signal": "unmarked",
+      "note": "A single reference to 'her mind' is compatible with more than one narrating position in isolation."
+    },
+    {
+      "quote_id": "q01140",
+      "person_signal": "third",
+      "note": "Sustained retrospective prose narrates Jessie externally by name and as her."
+    },
+    {
+      "quote_id": "q01141",
+      "person_signal": "non_base",
+      "note": "The I-statement is Jessie's local thought or inner voice early in the ordeal, not the concluding first-person letter."
+    },
+    {
+      "quote_id": "q01142",
+      "person_signal": "third",
+      "note": "Two connected sentences narrate Jessie's feeling and fear externally as she/her."
+    },
+    {
+      "quote_id": "q01143",
+      "person_signal": "third",
+      "note": "Sustained free-indirect narration repeatedly presents Jessie as she; generic you in the last sentence does not change that."
+    },
+    {
+      "quote_id": "q01144",
+      "person_signal": "third",
+      "note": "The base prose presents Jessie as she and explicitly marks the embedded I-clause as her thought."
+    },
+    {
+      "quote_id": "q01145",
+      "person_signal": "unmarked",
+      "note": "The first-person words are explicitly quoted thought; the brief 'she thought' beat alone is not sufficient person evidence."
+    },
+    {
+      "quote_id": "q01146",
+      "person_signal": "unmarked",
+      "note": "Ironic generalized narration about a handcuffed woman contains no diagnostic narrator pronoun."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://dokumen.pub/finding-the-faces-of-our-mothers-every-day-feminism-in-stephen-kings-dolores-claiborne-and-geralds-game.html",
+      "title": "Finding the Faces of Our Mothers: Every Day Feminism in Stephen King's Dolores Claiborne and Gerald's Game",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly analysis explicitly identifies the novel's principal narration as third-person limited and distinguishes local first-person renderings of Jessie's thoughts."
+    },
+    {
+      "url": "https://www.supersummary.com/geralds-game/chapters-35-40-summary/",
+      "title": "Gerald's Game Chapters 35-40 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The structural chapter guide identifies Chapter 35 as an external scene, Chapters 36-39 as the continuing text of Jessie's letter to Ruth, and Chapter 40 as an external frame around the letter."
+    },
+    {
+      "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file?accession=ohiou1338385036&disposition=inline",
+      "title": "Stephen King's Female Characters: A Typology",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The Ohio University thesis analyzes third-person passages throughout the novel and identifies Jessie's climactic act of writing an extensive letter to the real Ruth, corroborating the two sustained narrative forms."
+    },
+    {
+      "url": "https://softwarenz261.weebly.com/blog/archives/02-2018",
+      "title": "Blog Archives: Gerald's Game review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A reader's explicit structural description says roughly 90 percent of the book uses third person before the ending letter shifts the narrative voice into first person."
+    },
+    {
+      "url": "https://www.hachette.co.uk/titles/stephen-king-3/geralds-game/9781848940710/",
+      "title": "Gerald's Game by Stephen King",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The publisher page verifies the work and offers an excerpt control, but the accessible page exposes only synopsis copy, whose grammar is not POV evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Stephen King Gerald's Game excerpt first chapter narrator third person\" and opened the publisher and chapter-guide results.",
+    "Searched \"Gerald's Game novel point of view third person letter Ruth ending\" and \"Gerald's Game narrative structure first person letter Jessie Ruth\" for whole-book structure.",
+    "Searched exact quote fragments including \"The light dawned, then, Ruth\" and \"Gerald died before he ever had a chance\" to distinguish the concluding letter from local inner speech.",
+    "Searched Google Books, Internet Archive, publisher-excerpt, epistolary, narrator, and alternating-POV combinations; no accessible sustained authorized prose excerpt was recovered.",
+    "Opened and evaluated the Hachette page, two scholarly theses, the detailed Chapters 35-40 guide, and an explicit review describing the third-to-first-person shift."
+  ],
+  "person_note": "Most of the novel is sustained third-person narration closely focalized through Jessie, as shown by the event passages and the scholarly POV description. Local I-statements from her spoken or mental voices do not create separate base narration. The ending is different: Chapters 36-39 sustain Jessie's first-person letter to Ruth, surrounded by third-person framing in Chapters 35 and 40. Quotes q01130, q01134, and q01136 expose that constitutive letter directly. Because the methodology treats sustained chapters in different persons as alternating, the book is ALTERNATING rather than simply THIRD. The main limitation is the absence of an accessible authorized full excerpt, but the quote evidence and multiple structural sources agree on the shift.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_027",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:55:31.094784+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "56776aa0f3d71cb3a5a0124af81dbd002ac2f64d5d918b94a416c6c1fa8847fc"
+  }
+}

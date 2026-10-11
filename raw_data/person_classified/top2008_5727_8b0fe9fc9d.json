@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:5727",
+  "quotes": [
+    {
+      "quote_id": "q01724",
+      "person_signal": "unmarked",
+      "note": "Brief report of her realization; insufficient local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q01725",
+      "person_signal": "unmarked",
+      "note": "Third-person metaphor alone does not identify the narrator."
+    },
+    {
+      "quote_id": "q01726",
+      "person_signal": "non_base",
+      "note": "Romantic address in dialogue."
+    },
+    {
+      "quote_id": "q01727",
+      "person_signal": "non_base",
+      "note": "Generalized you in a maxim, not protagonist narration."
+    },
+    {
+      "quote_id": "q01728",
+      "person_signal": "non_base",
+      "note": "General observation about silence."
+    },
+    {
+      "quote_id": "q01729",
+      "person_signal": "non_base",
+      "note": "Personal recollection best read as character speech in the independently established third-person structure; possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01730",
+      "person_signal": "non_base",
+      "note": "Character speech about childhood."
+    },
+    {
+      "quote_id": "q01731",
+      "person_signal": "unmarked",
+      "note": "Reflection containing Nana's remembered saying; no diagnostic narrating position locally."
+    },
+    {
+      "quote_id": "q01732",
+      "person_signal": "unmarked",
+      "note": "Short account of her feelings, compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q01733",
+      "person_signal": "non_base",
+      "note": "Interpersonal address inferred to be dialogue, not base first-person narration; possible upstream bucket issue."
+    },
+    {
+      "quote_id": "q01734",
+      "person_signal": "third",
+      "note": "Narration combines her private expectations with her response to Logan, corroborating external limited narration."
+    },
+    {
+      "quote_id": "q01735",
+      "person_signal": "non_base",
+      "note": "Dialogue generalizes about recognizing a special man."
+    },
+    {
+      "quote_id": "q01736",
+      "person_signal": "unmarked",
+      "note": "Impersonal reflection does not expose narrator participation."
+    },
+    {
+      "quote_id": "q01737",
+      "person_signal": "non_base",
+      "note": "Question and answer between characters."
+    },
+    {
+      "quote_id": "q01738",
+      "person_signal": "third",
+      "note": "Sustained dance scene presents his sensations and actions externally, without a participating narrator."
+    },
+    {
+      "quote_id": "q01739",
+      "person_signal": "non_base",
+      "note": "Confessional recollection inferred as local character speech given the author's structural account; possible upstream bucket issue."
+    },
+    {
+      "quote_id": "q01740",
+      "person_signal": "unmarked",
+      "note": "Brief possessive reflection does not establish the narrating position."
+    },
+    {
+      "quote_id": "q01741",
+      "person_signal": "unmarked",
+      "note": "Dialogue contains only a short external shrug beat; not independently diagnostic."
+    },
+    {
+      "quote_id": "q01742",
+      "person_signal": "non_base",
+      "note": "Direct declaration of love to Elizabeth."
+    },
+    {
+      "quote_id": "q01743",
+      "person_signal": "unmarked",
+      "note": "Named-character action alone does not establish third-person base narration."
+    },
+    {
+      "quote_id": "q01744",
+      "person_signal": "non_base",
+      "note": "Marriage recollection inferred as character speech within the established third-person novel; possible upstream bucket issue."
+    },
+    {
+      "quote_id": "q01745",
+      "person_signal": "unmarked",
+      "note": "Brief reflection grounded in her experience; generic you is not second-person narration."
+    },
+    {
+      "quote_id": "q01746",
+      "person_signal": "non_base",
+      "note": "General advice with generic you."
+    },
+    {
+      "quote_id": "q01747",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange about baseball."
+    },
+    {
+      "quote_id": "q01748",
+      "person_signal": "non_base",
+      "note": "Maxim or local self-instruction; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q01749",
+      "person_signal": "unmarked",
+      "note": "Speech accompanied by a bare glance beat."
+    },
+    {
+      "quote_id": "q01750",
+      "person_signal": "unmarked",
+      "note": "Clipped relationship reflection leaves narrator and speaker unidentified."
+    },
+    {
+      "quote_id": "q01751",
+      "person_signal": "non_base",
+      "note": "First-person explanation inferred as local speech about the photograph, not a base narrator; possible upstream bucket issue."
+    },
+    {
+      "quote_id": "q01752",
+      "person_signal": "non_base",
+      "note": "Dialogue about children's development."
+    },
+    {
+      "quote_id": "q01753",
+      "person_signal": "unmarked",
+      "note": "Conversation with brief said and smiled beats; insufficient narratorial context."
+    },
+    {
+      "quote_id": "q01754",
+      "person_signal": "non_base",
+      "note": "Spoken observation about gossip."
+    },
+    {
+      "quote_id": "q01755",
+      "person_signal": "non_base",
+      "note": "Character dialogue about another person."
+    },
+    {
+      "quote_id": "q01756",
+      "person_signal": "unmarked",
+      "note": "Short report of his experience and uncertainty; insufficient context by itself."
+    },
+    {
+      "quote_id": "q01757",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed speech by Logan."
+    },
+    {
+      "quote_id": "q01758",
+      "person_signal": "unmarked",
+      "note": "Dialogue with brief action beats, not sustained diagnostic narration."
+    },
+    {
+      "quote_id": "q01759",
+      "person_signal": "non_base",
+      "note": "Exchange about the lucky charm; first-person pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q01760",
+      "person_signal": "third",
+      "note": "Scene integrates dialogue, Beth's bodily response, and her private conflict through external narration."
+    },
+    {
+      "quote_id": "q01761",
+      "person_signal": "third",
+      "note": "Sustained third-person account of his motives and apprehension; final direct thought is local."
+    },
+    {
+      "quote_id": "q01762",
+      "person_signal": "non_base",
+      "note": "General rhetorical question, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01763",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange."
+    },
+    {
+      "quote_id": "q01764",
+      "person_signal": "unmarked",
+      "note": "Short characterization of her does not identify narrator participation."
+    },
+    {
+      "quote_id": "q01765",
+      "person_signal": "non_base",
+      "note": "Question and first-person spoken answer."
+    },
+    {
+      "quote_id": "q01766",
+      "person_signal": "non_base",
+      "note": "First-person dialogue about cooking."
+    },
+    {
+      "quote_id": "q01767",
+      "person_signal": "non_base",
+      "note": "Speech addressing another character."
+    },
+    {
+      "quote_id": "q01768",
+      "person_signal": "non_base",
+      "note": "Direct interpersonal dialogue; I and you belong to the conversation."
+    },
+    {
+      "quote_id": "q01769",
+      "person_signal": "third",
+      "note": "Scene follows Beth's perception of Ben and his movement, framing his first-person protest as speech."
+    },
+    {
+      "quote_id": "q01770",
+      "person_signal": "non_base",
+      "note": "Gnomic material using generalized you."
+    },
+    {
+      "quote_id": "q01771",
+      "person_signal": "unmarked",
+      "note": "Brief generalized reflection tied to her experience."
+    },
+    {
+      "quote_id": "q01772",
+      "person_signal": "unmarked",
+      "note": "Speech and an external group reaction do not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q01773",
+      "person_signal": "non_base",
+      "note": "A character's spoken family reminiscence."
+    },
+    {
+      "quote_id": "q01774",
+      "person_signal": "unmarked",
+      "note": "Generalized military lesson or remembered instruction, with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q01775",
+      "person_signal": "unclear",
+      "note": "Clipped first-person admission lacks speech boundaries; structural evidence argues against treating it as base narration."
+    },
+    {
+      "quote_id": "q01776",
+      "person_signal": "unmarked",
+      "note": "Brief report of her wish and grief, insufficient alone."
+    },
+    {
+      "quote_id": "q01777",
+      "person_signal": "non_base",
+      "note": "General maxim about change and place."
+    },
+    {
+      "quote_id": "q01778",
+      "person_signal": "unmarked",
+      "note": "Dialogue with only a short attribution beat."
+    },
+    {
+      "quote_id": "q01779",
+      "person_signal": "unmarked",
+      "note": "Dialogue with minimal nodded, smiled, and said beats."
+    },
+    {
+      "quote_id": "q01780",
+      "person_signal": "non_base",
+      "note": "Spoken assessment of another character."
+    },
+    {
+      "quote_id": "q01781",
+      "person_signal": "non_base",
+      "note": "Dialogue about teaching; generalized you is not base narration."
+    },
+    {
+      "quote_id": "q01782",
+      "person_signal": "unclear",
+      "note": "Clipped first-person plural recollection lacks attribution; cannot establish a participating base narrator."
+    },
+    {
+      "quote_id": "q01783",
+      "person_signal": "third",
+      "note": "Narration links her private knowledge of bereavement with change over time, consistent with limited third person."
+    },
+    {
+      "quote_id": "q01784",
+      "person_signal": "non_base",
+      "note": "Conversation containing an embedded joke."
+    },
+    {
+      "quote_id": "q01785",
+      "person_signal": "third",
+      "note": "Sustained rescue scene externally narrates perceptions, intentions, physical action, and Beth's shouted speech."
+    },
+    {
+      "quote_id": "q01786",
+      "person_signal": "unmarked",
+      "note": "Evaluative sentence omits the experiencer and narrator."
+    },
+    {
+      "quote_id": "q01787",
+      "person_signal": "non_base",
+      "note": "First-person speech describing gardening."
+    },
+    {
+      "quote_id": "q01788",
+      "person_signal": "unmarked",
+      "note": "Short account of her feelings does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q01789",
+      "person_signal": "unmarked",
+      "note": "External historical statement is compatible with either participating or nonparticipating narration."
+    },
+    {
+      "quote_id": "q01790",
+      "person_signal": "unclear",
+      "note": "Truncated fragment lacks enough syntax or context for classification."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.readinggroupguides.com/reviews/the-lucky-one/excerpt",
+      "title": "The Lucky One by Nicholas Sparks \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-authorized sustained opening narrates Clayton and Thibault externally while presenting their perceptions and thoughts. Dialogue is clearly distinguished from narration."
+    },
+    {
+      "url": "https://nicholassparks.com/notes-from-nick/2008/the-lucky-one-writing-notes/",
+      "title": "Nicholas Sparks \u2014 The Lucky One Writing Notes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The author explicitly describes the novel as limited third person, explaining that character-centered chapters restrict access to the focal character's thoughts. Changing perspectives concerns focalization, not grammatical person."
+    }
+  ],
+  "search_log": [
+    "Read TASK.md, PERSON_METHODOLOGY.md, PROMPT.md, book.json, quotes.csv, and result_schema.json. Referenced companion METHODOLOGY.md was absent.",
+    "Searched: Nicholas Sparks The Lucky One excerpt chapter; The Lucky One Nicholas Sparks third person point of view.",
+    "Opened the publisher-authorized ReadingGroupGuides excerpt and the author's whole-book writing notes.",
+    "Searched title plus distinctive first-person phrases: Every now and then / meet a guy; I got the sense / marry him; I overlooked some obvious.",
+    "Follow-up searches used Sparks plus I overlooked some obvious problems; I knew it wasn\u2019t fair / anger; I got the sense that he was the kind; Every now and then / plague. Results supplied quote aggregations or irrelevant matches, not reliable surrounding dialogue context."
+  ],
+  "person_note": "THIRD: sustained Goodreads scenes agree with the authorized opening, and Sparks explicitly confirms third-person narration with changing character focalization throughout the novel. First-person confessions are interpreted as local speech, not autonomous narrative sections; several event buckets may therefore contain dialogue. Exact attribution remains uncertain for some clipped passages, especially q01775 and q01782, but there is no credible evidence of sustained changes in narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_047",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T17:32:46.268915+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a16cbbc3e846f341bea71658071bc0bd9e87a332c92c23c595ba5add79c04187"
+  }
+}

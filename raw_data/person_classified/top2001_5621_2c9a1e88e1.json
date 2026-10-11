@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:5621",
+  "quotes": [
+    {
+      "quote_id": "q00240",
+      "person_signal": "unclear",
+      "note": "The clipped noun-phrase fragment lacks its subject and sufficient local context to identify narrative person."
+    },
+    {
+      "quote_id": "q00241",
+      "person_signal": "non_base",
+      "note": "The first-person declaration directly addresses a lover; against the independently established third-person narration, it is local character speech, thought, or correspondence rather than base narration."
+    },
+    {
+      "quote_id": "q00242",
+      "person_signal": "non_base",
+      "note": "The first-person assertion about jealousy represents a character's local voice, not the independently established third-person base narrator."
+    },
+    {
+      "quote_id": "q00243",
+      "person_signal": "unmarked",
+      "note": "This focalized reflection contains no narrator-identifying pronoun; it is compatible with third-person narration but is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00244",
+      "person_signal": "third",
+      "note": "Three connected sentences narrate a focal character as 'she,' including her perception, without a participating narrator; this is diagnostic third-person narration."
+    },
+    {
+      "quote_id": "q00245",
+      "person_signal": "unmarked",
+      "note": "The impersonal statement contains no narrator-identifying pronoun or character framing."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/776/the-last-time-they-met",
+      "title": "Excerpt from The Last Time They Met by Anita Shreve",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained, permission-authorized opening excerpt narrates Linda consistently as 'she' while presenting her actions, perceptions, memories, and thoughts; no participating narrator frames the scene."
+    },
+    {
+      "url": "https://www.sfgate.com/books/article/a-love-recaptured-in-africa-anita-shreve-2931349.php",
+      "title": "A Love Recaptured in Africa / Anita Shreve reunites high school sweethearts, cleverly merging past and present",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This contemporary structural review states that the first and last sections use Linda's perspective and the middle section uses Thomas's, while its quoted passages render both characters in third person. It therefore establishes changing focalization, not changing grammatical person, across the novel."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-last-time-they-met-a-novel",
+      "title": "The Last Time They Met: A Novel",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The review identifies an interior passage at the end of the Africa section in which Thomas's thought is rendered as 'he'd,' corroborating third-person narration in the section focalized through Thomas."
+    },
+    {
+      "url": "https://www.littlebrown.com/wp-content/uploads/2017/10/littlebrown-rgg-arg_9780316781268.pdf",
+      "title": "The Last Time They Met: Reading Group Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher's guide and author interview verify that the novel proceeds backward through the protagonists at ages fifty-two, twenty-six, and seventeen. It establishes the three-part structure but does not itself explicitly name narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Last Time They Met\" Anita Shreve excerpt and opened the permission-authorized BookBrowse/ReadingGroupGuides opening excerpt.",
+    "Searched \"The Last Time They Met\" point of view, narrator, third person, narrative perspective, and narrative voice; no authoritative source simply labeled the POV, but the SFGATE review described focalization across all three parts and supplied third-person prose examples.",
+    "Searched for interior and structural evidence; opened the Bookreporter review, whose quoted Africa-section thought is in third person, and the Little, Brown publisher reading guide, which verifies the reverse three-part structure.",
+    "Searched exact Goodreads quotation wording to investigate the apparent first-person conflict. Results reproduced the quotations but did not provide reliable local boundaries; the direct first-person statements were therefore treated conservatively as local character voice rather than evidence of an alternating base narrator.",
+    "Google Books confirmed the edition and contents but its accessible page supplied catalog copy rather than usable narrative-person evidence."
+  ],
+  "person_note": "The controlling narration is third person with shifting limited focalization: Linda anchors the first and last chronological sections, while Thomas anchors the middle Africa section. The sustained authorized opening, a whole-book structural review with prose examples, an interior quotation, and q00244 agree. The isolated first-person quotations are direct character assertions\u2014potentially speech, thought, letters, or poetry\u2014and do not establish autonomous first-person sections. The main residual uncertainty is their exact local formatting because the quote extraction omits surrounding typography, but credible structural evidence gives no indication of sustained first-person base narration.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_036",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:06:26.148730+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1e68d6f5e0cb0685b221ae854d557515970adbd3e19b131b286df362551931f7"
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:BURY OUR BONES IN THE MIDNIGHT SOIL|V.E. Schwab",
+  "quotes": [
+    {
+      "quote_id": "q10402",
+      "person_signal": "non_base",
+      "note": "Publisher reading guide identifies this recurring verse as material introduced by Hector within the story."
+    },
+    {
+      "quote_id": "q10403",
+      "person_signal": "non_base",
+      "note": "Dedication-style paratext, not story narration."
+    },
+    {
+      "quote_id": "q10404",
+      "person_signal": "non_base",
+      "note": "Direct-address speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q10405",
+      "person_signal": "non_base",
+      "note": "Predominantly quoted speech; the brief action beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q10406",
+      "person_signal": "non_base",
+      "note": "Timeless gnomic statement rather than story-specific narration."
+    },
+    {
+      "quote_id": "q10407",
+      "person_signal": "non_base",
+      "note": "Spoken warning without narratorial context."
+    },
+    {
+      "quote_id": "q10408",
+      "person_signal": "non_base",
+      "note": "Direct-address speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q10409",
+      "person_signal": "non_base",
+      "note": "Direct-address utterance."
+    },
+    {
+      "quote_id": "q10410",
+      "person_signal": "unmarked",
+      "note": "The external thought attribution is compatible with third person but too brief to establish narrator participation."
+    },
+    {
+      "quote_id": "q10411",
+      "person_signal": "third",
+      "note": "External narration presents Mar\u00eda's lifelong knowledge and intentions in third-person limited form."
+    },
+    {
+      "quote_id": "q10412",
+      "person_signal": "non_base",
+      "note": "Conversational questions without base-narration evidence."
+    },
+    {
+      "quote_id": "q10413",
+      "person_signal": "non_base",
+      "note": "Vocative character speech."
+    },
+    {
+      "quote_id": "q10414",
+      "person_signal": "unmarked",
+      "note": "A clipped description of an unnamed 'her' does not independently establish the narrator."
+    },
+    {
+      "quote_id": "q10415",
+      "person_signal": "non_base",
+      "note": "Quoted speech predominates; the attribution is only a brief beat."
+    },
+    {
+      "quote_id": "q10416",
+      "person_signal": "third",
+      "note": "A sustained scene externally follows Alice's action and perception as 'she' and 'her.'"
+    },
+    {
+      "quote_id": "q10417",
+      "person_signal": "non_base",
+      "note": "General aphorism."
+    },
+    {
+      "quote_id": "q10418",
+      "person_signal": "non_base",
+      "note": "General reflection on belief rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q10419",
+      "person_signal": "third",
+      "note": "The narrator discusses Charlotte externally; the generalized 'you' belongs to an analogy, not second-person protagonist narration."
+    },
+    {
+      "quote_id": "q10420",
+      "person_signal": "non_base",
+      "note": "General analogy about names."
+    },
+    {
+      "quote_id": "q10421",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'she' is insufficient by itself to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q10422",
+      "person_signal": "non_base",
+      "note": "Generalized reflection using universal 'you,' not story-specific second person."
+    },
+    {
+      "quote_id": "q10423",
+      "person_signal": "non_base",
+      "note": "Dialogue predominates, and the short third-person beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q10424",
+      "person_signal": "unmarked",
+      "note": "A short description of 'she' lacks enough local context to establish narration person."
+    },
+    {
+      "quote_id": "q10425",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Mar\u00eda's perception, speech, and Ysabel's reaction."
+    },
+    {
+      "quote_id": "q10426",
+      "person_signal": "unclear",
+      "note": "Clipped noun phrase with no recoverable narrator or quotation boundary."
+    },
+    {
+      "quote_id": "q10427",
+      "person_signal": "third",
+      "note": "Extended external narration follows Mar\u00eda and her mother around embedded dialogue."
+    },
+    {
+      "quote_id": "q10428",
+      "person_signal": "unmarked",
+      "note": "A brief externally phrased thought is compatible with third person but not diagnostic alone."
+    },
+    {
+      "quote_id": "q10429",
+      "person_signal": "unmarked",
+      "note": "The fragment refers only to 'her' and lacks a sufficient narrative frame."
+    },
+    {
+      "quote_id": "q10430",
+      "person_signal": "non_base",
+      "note": "Direct-address advice in character speech."
+    },
+    {
+      "quote_id": "q10431",
+      "person_signal": "non_base",
+      "note": "The generic 'girl' and 'woman' plus quotation-boundary residue indicate an embedded tale rather than base narration."
+    },
+    {
+      "quote_id": "q10432",
+      "person_signal": "non_base",
+      "note": "Dialogue predominates; the short action beat does not establish the narrator."
+    },
+    {
+      "quote_id": "q10433",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person generalization, not sustained narration of a protagonist as 'you.'"
+    },
+    {
+      "quote_id": "q10434",
+      "person_signal": "unmarked",
+      "note": "A single externally stated character condition is not independently diagnostic."
+    },
+    {
+      "quote_id": "q10435",
+      "person_signal": "unmarked",
+      "note": "Brief exposition and remembered speech do not provide enough context to identify narrator participation."
+    },
+    {
+      "quote_id": "q10436",
+      "person_signal": "non_base",
+      "note": "Character speech predominates, with only brief action beats."
+    },
+    {
+      "quote_id": "q10437",
+      "person_signal": "unmarked",
+      "note": "Fragmentary third-person character description without a narrative frame."
+    },
+    {
+      "quote_id": "q10438",
+      "person_signal": "non_base",
+      "note": "Whole-book evidence establishes third-person narration, so this isolated first-person passage is local direct voice rather than an autonomous base strand."
+    },
+    {
+      "quote_id": "q10439",
+      "person_signal": "non_base",
+      "note": "Retrospective generalization, not story-specific person evidence."
+    },
+    {
+      "quote_id": "q10440",
+      "person_signal": "non_base",
+      "note": "Direct-address utterance."
+    },
+    {
+      "quote_id": "q10441",
+      "person_signal": "unmarked",
+      "note": "A single named-character description does not independently establish the narrator."
+    },
+    {
+      "quote_id": "q10442",
+      "person_signal": "non_base",
+      "note": "General statement drawn from the novel's recurring vampire imagery."
+    },
+    {
+      "quote_id": "q10443",
+      "person_signal": "non_base",
+      "note": "Direct-address speech."
+    },
+    {
+      "quote_id": "q10444",
+      "person_signal": "non_base",
+      "note": "Quoted speech predominates; its reported-speech frame is not diagnostic."
+    },
+    {
+      "quote_id": "q10445",
+      "person_signal": "unmarked",
+      "note": "Brief third-person possibility concerning Alice lacks enough surrounding narration."
+    },
+    {
+      "quote_id": "q10446",
+      "person_signal": "unmarked",
+      "note": "A short reference to 'she' and 'their kind' is compatible with third person but not sufficient alone."
+    },
+    {
+      "quote_id": "q10447",
+      "person_signal": "non_base",
+      "note": "General definition."
+    },
+    {
+      "quote_id": "q10448",
+      "person_signal": "non_base",
+      "note": "General statement about mortality and immortality."
+    },
+    {
+      "quote_id": "q10449",
+      "person_signal": "non_base",
+      "note": "The generic woman-and-girl formulation summarizes an embedded story rather than the controlling narrative."
+    },
+    {
+      "quote_id": "q10450",
+      "person_signal": "unmarked",
+      "note": "Story-specific exposition contains generalized 'yourself' but does not clearly expose the narrator's participation."
+    },
+    {
+      "quote_id": "q10451",
+      "person_signal": "non_base",
+      "note": "General reflection about bodies and clothing."
+    },
+    {
+      "quote_id": "q10452",
+      "person_signal": "unmarked",
+      "note": "A very short external thought attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q10453",
+      "person_signal": "non_base",
+      "note": "Timeless reflection on time and healing."
+    },
+    {
+      "quote_id": "q10454",
+      "person_signal": "non_base",
+      "note": "First-person declaration addressed to another character."
+    },
+    {
+      "quote_id": "q10455",
+      "person_signal": "third",
+      "note": "A sustained scene externally follows Lottie's body, perceptions, actions, and thoughts; embedded imagined 'you' and 'I' do not change the base person."
+    },
+    {
+      "quote_id": "q10456",
+      "person_signal": "non_base",
+      "note": "Hector's speech predominates, with attribution beats only."
+    },
+    {
+      "quote_id": "q10457",
+      "person_signal": "third",
+      "note": "Continuous external narration follows the character's actions and feelings as 'she.'"
+    },
+    {
+      "quote_id": "q10458",
+      "person_signal": "third",
+      "note": "External narration presents the character's knowledge and memories in sustained third-person limited form."
+    },
+    {
+      "quote_id": "q10459",
+      "person_signal": "non_base",
+      "note": "Generalized aphorism about pain."
+    },
+    {
+      "quote_id": "q10460",
+      "person_signal": "unmarked",
+      "note": "A single externally stated character condition is insufficient alone."
+    },
+    {
+      "quote_id": "q10461",
+      "person_signal": "unclear",
+      "note": "Clipped fragment with no determinate speaker or narrator boundary."
+    },
+    {
+      "quote_id": "q10462",
+      "person_signal": "non_base",
+      "note": "Duplicate of the recurring in-story verse identified by the publisher guide as Hector-introduced material."
+    },
+    {
+      "quote_id": "q10463",
+      "person_signal": "non_base",
+      "note": "Quoted dialogue with a brief attribution."
+    },
+    {
+      "quote_id": "q10464",
+      "person_signal": "non_base",
+      "note": "Generalized statement."
+    },
+    {
+      "quote_id": "q10465",
+      "person_signal": "non_base",
+      "note": "Character monologue predominates; the action beat does not identify the base narrator."
+    },
+    {
+      "quote_id": "q10466",
+      "person_signal": "non_base",
+      "note": "Explicit whole-book evidence rules out a sustained first-person strand, making this isolated 'I' a local direct voice."
+    },
+    {
+      "quote_id": "q10467",
+      "person_signal": "unmarked",
+      "note": "The narrator addresses a viewer as 'you' while describing 'her'; this is neither sustained second person nor sufficient third-person context alone."
+    },
+    {
+      "quote_id": "q10468",
+      "person_signal": "non_base",
+      "note": "Remembered character speech predominates despite a brief external description."
+    },
+    {
+      "quote_id": "q10469",
+      "person_signal": "unmarked",
+      "note": "A short external thought attribution is compatible with third person but not independently conclusive."
+    },
+    {
+      "quote_id": "q10470",
+      "person_signal": "third",
+      "note": "Sustained external narration reports the mother's words and the focal character's reaction in third person."
+    },
+    {
+      "quote_id": "q10471",
+      "person_signal": "non_base",
+      "note": "Direct-address instruction."
+    },
+    {
+      "quote_id": "q10472",
+      "person_signal": "non_base",
+      "note": "Clipped gnomic second-person reflection, not narration of a story-specific 'you.'"
+    },
+    {
+      "quote_id": "q10473",
+      "person_signal": "third",
+      "note": "Despite the clipped ending, several sentences externally follow Alice and Catty in third-person narration."
+    },
+    {
+      "quote_id": "q10474",
+      "person_signal": "third",
+      "note": "Continuous external narration describes Alice's reflexive action and explains it through third-person focalization."
+    },
+    {
+      "quote_id": "q10475",
+      "person_signal": "unmarked",
+      "note": "A single sentence about 'she' does not independently establish the narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250393166/buryourbonesinthemidnightsoil/",
+      "title": "Bury Our Bones in the Midnight Soil",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Macmillan's authorized opening sustains third-person present narration around Mar\u00eda, including her actions, memories, and perceptions."
+    },
+    {
+      "url": "https://reactormag.com/excerpts-bury-our-bones-in-the-midnight-soil-by-v-e-schwab/",
+      "title": "Read an Excerpt From Bury Our Bones in the Midnight Soil by V.E. Schwab",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Authorized copyrighted interior excerpt sustains third-person present narration around Sabine across a complete scene."
+    },
+    {
+      "url": "https://www.estapinto.com/books/bury-our-bones-in-the-midnight-soil-characters-spice-level-chapters-review-synopsis-triggers",
+      "title": "Bury our Bones in the Midnight Soil: Characters, spice & triggers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The full-book guide explicitly states that the novel uses third-person point of view across Mar\u00eda/Sabine, Alice, and Charlotte's three perspectives."
+    },
+    {
+      "url": "https://images.macmillan.com/folio-assets/rgg-guides/9781250320520RGG.pdf",
+      "title": "Bury Our Bones in the Midnight Soil: Tor Books Reading Group Guide",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The publisher guide identifies the title verse as material Hector introduces in Sabine's scenes, supporting treatment of the verse quotations as local rather than base narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Bury Our Bones in the Midnight Soil\" \"V.E. Schwab\" excerpt, first chapter, and read an extract; opened Macmillan's authorized opening.",
+    "Searched the title with point of view, third person, third-person present, narrator, and narration; found and opened an explicit whole-book third-person description.",
+    "Opened Reactor's authorized interior excerpt and checked its sustained Sabine scene for narrative person.",
+    "Searched the title with epistolary, diary, frame narrative, alternating narration, first person, and multiple narrators; results described three character perspectives but revealed no sustained change of grammatical person.",
+    "Searched the exact first-person Goodreads passages; results supplied no evidence that either belongs to an autonomous first-person chapter or timeline.",
+    "Opened the Tor/Macmillan reading-group guide to resolve the recurring title verse as in-story material introduced by Hector.",
+    "Google Books exposed only limited-preview metadata, the first Macmillan hardcover URL returned a fetch error, and an oversized Pan Macmillan PDF could not be opened; neither dead end supplied contrary person evidence."
+  ],
+  "person_note": "The controlling narration is third person across the three focal perspectives. Goodreads supplies multiple sustained third-person scenes for Mar\u00eda/Sabine, Alice, Charlotte, and Lottie, while authorized opening and interior excerpts independently show the same pattern. The two isolated first-person quotations are local direct speech or thought rather than autonomous narrative sections, and the recurring verse is explicitly identified as in-story material. The only residual uncertainty is the missing local attribution around those decontextualized first-person quotations; the whole-book POV description and broad third-person excerpt coverage make an alternating-person structure implausible.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.275917+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7a2715f796f68e2600c0d6953441571930b9d130ad8d31328b48779ddd55f062"
+  }
+}

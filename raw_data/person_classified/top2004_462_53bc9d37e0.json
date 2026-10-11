@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:462",
+  "quotes": [
+    {
+      "quote_id": "q01101",
+      "person_signal": "non_base",
+      "note": "General aphorism; it does not expose the story's controlling narrator."
+    },
+    {
+      "quote_id": "q01102",
+      "person_signal": "non_base",
+      "note": "General religious maxim with no story-specific narratorial context."
+    },
+    {
+      "quote_id": "q01103",
+      "person_signal": "non_base",
+      "note": "Gnomic address using universal you and we, not sustained protagonist narration."
+    },
+    {
+      "quote_id": "q01104",
+      "person_signal": "non_base",
+      "note": "General maxim; the inclusive possessives do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01105",
+      "person_signal": "non_base",
+      "note": "Universal religious reflection rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01106",
+      "person_signal": "non_base",
+      "note": "First-person philosophical statement lacks context tying its speaker to the controlling narration."
+    },
+    {
+      "quote_id": "q01107",
+      "person_signal": "non_base",
+      "note": "Prayer-like maxim, not base narrative."
+    },
+    {
+      "quote_id": "q01108",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed dialogue; its first- and second-person pronouns belong to the characters."
+    },
+    {
+      "quote_id": "q01109",
+      "person_signal": "non_base",
+      "note": "Universal comparison and inclusive we occur in gnomic material."
+    },
+    {
+      "quote_id": "q01110",
+      "person_signal": "non_base",
+      "note": "Aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q01111",
+      "person_signal": "non_base",
+      "note": "General social observation using universal us and we."
+    },
+    {
+      "quote_id": "q01112",
+      "person_signal": "non_base",
+      "note": "Generic imperative address, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q01113",
+      "person_signal": "non_base",
+      "note": "General rhetorical reflection rather than a narrated story event."
+    },
+    {
+      "quote_id": "q01114",
+      "person_signal": "non_base",
+      "note": "The framing attribution and quotation identify embedded speech."
+    },
+    {
+      "quote_id": "q01115",
+      "person_signal": "non_base",
+      "note": "General maxim with no controlling-narrator signal."
+    },
+    {
+      "quote_id": "q01116",
+      "person_signal": "non_base",
+      "note": "Religious aphorism, not story-specific narration."
+    },
+    {
+      "quote_id": "q01117",
+      "person_signal": "non_base",
+      "note": "Direct questions to Langdon establish character speech; I and you are local dialogue pronouns."
+    },
+    {
+      "quote_id": "q01118",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical question, not second-person base narration."
+    },
+    {
+      "quote_id": "q01119",
+      "person_signal": "non_base",
+      "note": "General analogy with no narratorial-person marker."
+    },
+    {
+      "quote_id": "q01120",
+      "person_signal": "non_base",
+      "note": "Generic conditional address, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01121",
+      "person_signal": "non_base",
+      "note": "Embedded riddle verse giving quest directions, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q01122",
+      "person_signal": "non_base",
+      "note": "Bracketed attribution identifies Vittoria Vetra as the local speaker of the first-person lines."
+    },
+    {
+      "quote_id": "q01123",
+      "person_signal": "unmarked",
+      "note": "Story-specific narratorial observation, but this isolated sentence has no pronoun or context sufficient to establish narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://danbrown.com/books/novels/angels-and-demons/",
+      "title": "Angels & Demons | Dan Brown Official Website",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized excerpt spanning the prologue and Chapters 1\u20135 consistently narrates Leonardo Vetra, Langdon, and the killer externally in third person; first person is confined to speech or rendered thought."
+    },
+    {
+      "url": "https://repository.qu.edu.iq/wp-content/uploads/sites/31/2016/11/The-Thriller-Genre-In-Dan-Browns-Novel-Angels-And-Demons.pdf",
+      "title": "The Thriller Genre in Dan Brown's Novel Angels and Demons",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly analysis explicitly identifies the novel as third-person omniscient and explains that its chapters shift focus among Langdon, Vittoria, the Hassassin, and other characters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-angels-and-demons/style.html",
+      "title": "Dan Brown Writing Styles in Angels & Demons",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the whole novel as third-person omniscient and notes its chapter-to-chapter shifts among multiple characters."
+    }
+  ],
+  "search_log": [
+    "Searched: Dan Brown Angels & Demons official excerpt chapter 1 publisher; opened the author's authorized excerpt.",
+    "Searched: Angels & Demons Dan Brown third person point of view narrator; opened the explicit BookRags POV analysis.",
+    "Searched: Angels & Demons narrative point of view third person scholarly; opened a university-hosted journal article analyzing the novel's narration.",
+    "Searched the Universitas Muhammadiyah Surakarta repository for an additional structural thesis; its abstract also described third-person narration, but awkward terminology made it unnecessary as primary evidence.",
+    "Located a Penguin Random House South Africa excerpt PDF covering pages 1\u201335, but repeated opening attempts timed out; the author's accessible authorized excerpt supplied equivalent opening evidence.",
+    "Targeted searches found no credible description of sustained first-person, second-person, epistolary, framed, or alternating-person sections."
+  ],
+  "person_note": "The quote set is overwhelmingly dialogue or aphoristic material and therefore cannot vote by its visible I, we, or you pronouns; the sole event quote remains unmarked in isolation. The authorized multi-chapter opening nevertheless shows a nonparticipating third-person narrator across several focal characters, and whole-book scholarly and study-guide analyses independently describe the same third-person structure. Character speech and direct thought are local embedded voices, not alternating base narration. The main uncertainty is the poor diagnostic coverage of the supplied quotes, but the convergent strong web evidence resolves the book as THIRD.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.238403+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "31293b5891650174871d37c5196b36886ecc4a1e6a498a5e1bf74e2ec9b03a90"
+  }
+}

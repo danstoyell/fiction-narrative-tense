@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1984:6293",
+  "quotes": [
+    {
+      "quote_id": "q00986",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; universal \u201cwe\u201d does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00987",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00988",
+      "person_signal": "non_base",
+      "note": "Aphoristic contrast between written history and life; narratorial person is unexposed."
+    },
+    {
+      "quote_id": "q00989",
+      "person_signal": "non_base",
+      "note": "Character speech; the bare \u201che said\u201d attribution does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00990",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary using universal \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00991",
+      "person_signal": "third",
+      "note": "Third-person focalized narration describes an unnamed male character's admiration and experience; generic \u201cyou\u201d occurs only inside a comparison."
+    },
+    {
+      "quote_id": "q00992",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00993",
+      "person_signal": "non_base",
+      "note": "First-person pronouns belong to character dialogue."
+    },
+    {
+      "quote_id": "q00994",
+      "person_signal": "unmarked",
+      "note": "Clipped event fragment with a bare \u201che\u201d; it cannot by itself distinguish third-person narration from a framed passage."
+    },
+    {
+      "quote_id": "q00995",
+      "person_signal": "non_base",
+      "note": "Character speech with a nondiagnostic attribution; the trailing fragment reflects clipping."
+    },
+    {
+      "quote_id": "q00996",
+      "person_signal": "third",
+      "note": "Extended scene narration externally follows Michael and describes the setting without a participating narrator."
+    },
+    {
+      "quote_id": "q00997",
+      "person_signal": "non_base",
+      "note": "General reflection about truth and power, not person-diagnostic scene narration."
+    },
+    {
+      "quote_id": "q00998",
+      "person_signal": "non_base",
+      "note": "Malformed quotation boundary notwithstanding, the passage is an isolated proverb and not base narration evidence."
+    },
+    {
+      "quote_id": "q00999",
+      "person_signal": "unclear",
+      "note": "Advisory address may be dialogue, but the clipped context does not resolve its speaker or narrative level."
+    },
+    {
+      "quote_id": "q01000",
+      "person_signal": "unmarked",
+      "note": "A single statement about the Don lacks enough surrounding narration to establish narrator participation."
+    },
+    {
+      "quote_id": "q01001",
+      "person_signal": "unmarked",
+      "note": "Historical exposition contains no participating-narrator or story-specific second-person marker."
+    },
+    {
+      "quote_id": "q01002",
+      "person_signal": "third",
+      "note": "Third-person scene narration reports Don Croce's action and supplies an external cultural explanation."
+    },
+    {
+      "quote_id": "q01003",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within explicitly attributed character speech."
+    },
+    {
+      "quote_id": "q01004",
+      "person_signal": "non_base",
+      "note": "Generalized cultural maxim rather than a story-moment exposure of narrator person."
+    },
+    {
+      "quote_id": "q01005",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed character dialogue."
+    },
+    {
+      "quote_id": "q01006",
+      "person_signal": "unmarked",
+      "note": "Clipped generalized statement with \u201cthey\u201d but insufficient context to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q01007",
+      "person_signal": "unmarked",
+      "note": "General narrative exposition about communal meals contains no diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q01008",
+      "person_signal": "unclear",
+      "note": "The assertion lacks quotation boundaries or story framing, so its narrative level cannot be resolved."
+    },
+    {
+      "quote_id": "q01009",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows two men and independently describes the surrounding landscape."
+    },
+    {
+      "quote_id": "q01010",
+      "person_signal": "unmarked",
+      "note": "Bare third-person pronouns in a short report do not alone establish the controlling narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9780345441706",
+      "title": "The Sicilian | Penguin Random House Higher Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized extended opening narrates Michael Corleone and several other characters externally in third person, while moving through their knowledge and thoughts without introducing a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-sicilian/style.html",
+      "title": "Mario Puzo Writing Styles in The Sicilian",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide's point-of-view section explicitly describes the novel as third person and explains that its nonparticipating narrator supplies background beyond any single character's presence."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Sicilian\" \"Mario Puzo\" excerpt, first chapter, and publisher/library preview combinations; opened the Penguin Random House Higher Education authorized excerpt.",
+    "Searched \"The Sicilian\" \"Mario Puzo\" third person, narrator, and point of view; opened the explicit BookRags point-of-view analysis.",
+    "Searched Penguin Random House, Google Books, Open Library, and Internet Archive combinations to verify the work and locate sustained prose; Google Books and Open Library mainly supplied metadata or restricted previews.",
+    "Searched \"The Sicilian\" \"Mario Puzo\" epistolary and frame narrative; found no credible evidence that either structure controls the novel.",
+    "Searched \"The Sicilian\" \"Mario Puzo\" multiple narrators and alternating point of view; results yielded no credible contrary evidence, while the explicit POV source again identified third person."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator with flexible access to characters and background. Diagnostic Goodreads passages q00991, q00996, q01002, and q01009 show third-person scene narration in varied contexts, independently agreeing with the authorized publisher opening and the whole-book POV description. First-person and second-person forms in the remaining quotes are character speech, universal maxims, or unresolved local address rather than sustained base narration. The authorized prose is limited to the opening, but the varied quote evidence and explicit whole-book source resolve that scope limitation; no evidence of sustained first-person, second-person, epistolary, or alternating sections was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_023",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T20:04:07.650155+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "55d1f85f7a18831aeb5e983830e471ce591f612cb127796e948aa9b270fc1caa"
+  }
+}

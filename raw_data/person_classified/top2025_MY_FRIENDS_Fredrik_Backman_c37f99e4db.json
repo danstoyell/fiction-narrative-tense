@@ -1,0 +1,312 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:MY FRIENDS|Fredrik Backman",
+  "quotes": [
+    {
+      "quote_id": "q09709",
+      "person_signal": "non_base",
+      "note": "Universal aphorism; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q09710",
+      "person_signal": "non_base",
+      "note": "General reflection about adults and teenagers, not diagnostic narration."
+    },
+    {
+      "quote_id": "q09711",
+      "person_signal": "non_base",
+      "note": "Aphoristic definition of art."
+    },
+    {
+      "quote_id": "q09712",
+      "person_signal": "non_base",
+      "note": "Universal reflection using generic we/you."
+    },
+    {
+      "quote_id": "q09713",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection and represented thought, not narrator participation."
+    },
+    {
+      "quote_id": "q09714",
+      "person_signal": "unclear",
+      "note": "Unattributed first-person address with unresolved speech boundaries."
+    },
+    {
+      "quote_id": "q09715",
+      "person_signal": "non_base",
+      "note": "Aphorism without story-specific narration."
+    },
+    {
+      "quote_id": "q09716",
+      "person_signal": "non_base",
+      "note": "Generic we/you meditation on love."
+    },
+    {
+      "quote_id": "q09717",
+      "person_signal": "non_base",
+      "note": "Universal parental reflection; our/us are generic."
+    },
+    {
+      "quote_id": "q09718",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement about grief."
+    },
+    {
+      "quote_id": "q09719",
+      "person_signal": "unmarked",
+      "note": "Possible narration about an unnamed he, but too little context to establish narrator person."
+    },
+    {
+      "quote_id": "q09720",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not sustained protagonist narration."
+    },
+    {
+      "quote_id": "q09721",
+      "person_signal": "third",
+      "note": "Sustained story narration identifies Louisa externally; the publisher excerpt confirms this is third-person opening narration."
+    },
+    {
+      "quote_id": "q09722",
+      "person_signal": "third",
+      "note": "External narration enters Ted's grief while referring to him by name."
+    },
+    {
+      "quote_id": "q09723",
+      "person_signal": "non_base",
+      "note": "Generic second-person observation about aging."
+    },
+    {
+      "quote_id": "q09724",
+      "person_signal": "non_base",
+      "note": "Universal moral reflection; we refers broadly to adults."
+    },
+    {
+      "quote_id": "q09725",
+      "person_signal": "unclear",
+      "note": "Unattributed direct question with no recoverable narrative frame."
+    },
+    {
+      "quote_id": "q09726",
+      "person_signal": "non_base",
+      "note": "General claim about childhood, not story-specific narration."
+    },
+    {
+      "quote_id": "q09727",
+      "person_signal": "third",
+      "note": "Extended external narration follows Ted's bodily state and anticipated actions; generic we/us does not make the narrator a character."
+    },
+    {
+      "quote_id": "q09728",
+      "person_signal": "non_base",
+      "note": "Generic second-person account assembled from reported sayings."
+    },
+    {
+      "quote_id": "q09729",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the speech tag is third-person but too brief to diagnose the base voice independently."
+    },
+    {
+      "quote_id": "q09730",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased fact about the artist lacks enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q09731",
+      "person_signal": "non_base",
+      "note": "Aphoristic definition of art."
+    },
+    {
+      "quote_id": "q09732",
+      "person_signal": "third",
+      "note": "External narration reports a character's habitual private thought."
+    },
+    {
+      "quote_id": "q09733",
+      "person_signal": "non_base",
+      "note": "Aphorism about art."
+    },
+    {
+      "quote_id": "q09734",
+      "person_signal": "non_base",
+      "note": "Generic collective reflection; we is universal rather than a participating narrator."
+    },
+    {
+      "quote_id": "q09735",
+      "person_signal": "non_base",
+      "note": "General comic observation."
+    },
+    {
+      "quote_id": "q09736",
+      "person_signal": "non_base",
+      "note": "Universal maxim using generic we."
+    },
+    {
+      "quote_id": "q09737",
+      "person_signal": "non_base",
+      "note": "Aphorism about imagination."
+    },
+    {
+      "quote_id": "q09738",
+      "person_signal": "non_base",
+      "note": "Generic advice addressed to an indefinite you."
+    },
+    {
+      "quote_id": "q09739",
+      "person_signal": "non_base",
+      "note": "General reflection with no story-specific narrator."
+    },
+    {
+      "quote_id": "q09740",
+      "person_signal": "unclear",
+      "note": "First-person grief reflection has no visible attribution or quotation boundary; it cannot establish base narration."
+    },
+    {
+      "quote_id": "q09741",
+      "person_signal": "non_base",
+      "note": "Entirely character dialogue."
+    },
+    {
+      "quote_id": "q09742",
+      "person_signal": "non_base",
+      "note": "Spoken exhortation explicitly addressed to brothers."
+    },
+    {
+      "quote_id": "q09743",
+      "person_signal": "third",
+      "note": "Sustained external narration names Ted repeatedly and enters his mental experience."
+    },
+    {
+      "quote_id": "q09744",
+      "person_signal": "unclear",
+      "note": "Unattributed first-person plural address with unresolved local framing."
+    },
+    {
+      "quote_id": "q09745",
+      "person_signal": "unclear",
+      "note": "Unattributed first-person address; clipping prevents reliable attribution."
+    },
+    {
+      "quote_id": "q09746",
+      "person_signal": "non_base",
+      "note": "Universal reflection whose we/I language is not story-specific base narration."
+    },
+    {
+      "quote_id": "q09747",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed quotation from Van Gogh."
+    },
+    {
+      "quote_id": "q09748",
+      "person_signal": "non_base",
+      "note": "Generic second-person meditation on bereavement."
+    },
+    {
+      "quote_id": "q09749",
+      "person_signal": "non_base",
+      "note": "Universal aphoristic reflection; our/we are generic."
+    },
+    {
+      "quote_id": "q09750",
+      "person_signal": "unmarked",
+      "note": "Story-world description of an unnamed he, but the isolated sentence does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q09751",
+      "person_signal": "non_base",
+      "note": "Generic conditional maxim using indefinite you."
+    },
+    {
+      "quote_id": "q09752",
+      "person_signal": "non_base",
+      "note": "General parental advice using indefinite you."
+    },
+    {
+      "quote_id": "q09753",
+      "person_signal": "non_base",
+      "note": "Extended generic or quoted encouragement addressed to an indefinite artistic you."
+    },
+    {
+      "quote_id": "q09754",
+      "person_signal": "non_base",
+      "note": "Generic second-person observation about aging."
+    },
+    {
+      "quote_id": "q09755",
+      "person_signal": "non_base",
+      "note": "Aphorism about death."
+    },
+    {
+      "quote_id": "q09756",
+      "person_signal": "third",
+      "note": "The externally positioned narrator addresses Ted rhetorically within narration; this is not sustained second-person protagonist narration."
+    },
+    {
+      "quote_id": "q09757",
+      "person_signal": "third",
+      "note": "Story-specific external narration about Louisa; the same sentence appears within the publisher's sustained third-person chapter excerpt."
+    },
+    {
+      "quote_id": "q09758",
+      "person_signal": "unmarked",
+      "note": "Clipped recollective fragment about he and Mom does not expose the surrounding narrator."
+    },
+    {
+      "quote_id": "q09759",
+      "person_signal": "non_base",
+      "note": "Local first-person recollection containing quoted speech; whole-book structural evidence identifies the base narration as third person, so this is embedded character discourse."
+    },
+    {
+      "quote_id": "q09760",
+      "person_signal": "unmarked",
+      "note": "Character-state fragment lacks a subject and sufficient surrounding narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/My-Friends/Fredrik-Backman/9781982112820",
+      "title": "My Friends | Book by Fredrik Backman | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter One excerpt sustains external narration of Louisa, including her actions, plans, and interior state, in third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-my-friends-a-novel/styles.html",
+      "title": "Fredrik Backman Writing Styles in My Friends: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly describes a shifting third-person perspective following Louisa, Joar, Ted, Ali, and Kimkim, with close and broader omniscient access."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/my-friends",
+      "title": "My Friends Study Guide | Literature Guide | LitCharts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies the novel's point of view as third-person omniscient across its alternating timelines."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cFredrik Backman My Friends 2025 excerpt publisher\u201d and opened the official Simon & Schuster excerpt.",
+    "Searched \u201cMy Friends Fredrik Backman third person narrator,\u201d \u201cpoint of view,\u201d and \u201calternating narration\u201d; opened BookRags and LitCharts structural descriptions rather than relying on result snippets.",
+    "Opened the authorized eleven-page Chapter One PDF hosted by Better Reading; it duplicates the Simon & Schuster opening and was not counted as independent evidence.",
+    "Searched the exact first-person wording from q09759; no source recovering its local context surfaced. Google Books provided only metadata, catalog language, and a limited-preview link, so it was not used as person evidence.",
+    "Reviewed review and timeline results; sources describing alternating present and past timelines did not indicate any alternation in grammatical person."
+  ],
+  "person_note": "The publisher's sustained opening and several Goodreads event passages consistently show an external narrator moving among Louisa, Ted, and other characters, while two independent whole-book guides explicitly identify third-person narration. Generic we/you aphorisms are nondiagnostic. The isolated first-person recollection in q09759 and other unattributed first-person fragments are local speech, thought, or clipped material rather than sustained first-person sections. The book alternates timelines and focal characters, but the evidence does not show alternation of narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_089",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:45:10.482253+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a25d4eea2bd00a3e84ffa1695549d9e688820169aa3a1d827a188db9b7a19e9a"
+  }
+}

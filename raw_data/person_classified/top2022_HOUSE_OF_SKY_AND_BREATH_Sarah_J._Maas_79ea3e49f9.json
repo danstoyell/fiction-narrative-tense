@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:HOUSE OF SKY AND BREATH|Sarah J. Maas",
+  "quotes": [
+    {
+      "quote_id": "q07463",
+      "person_signal": "non_base",
+      "note": "A character's first-person promise in direct speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07464",
+      "person_signal": "non_base",
+      "note": "First-person and second-person pronouns occur in direct address between characters."
+    },
+    {
+      "quote_id": "q07465",
+      "person_signal": "unmarked",
+      "note": "The brief third-person speech frame is compatible with several narrator configurations and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q07466",
+      "person_signal": "non_base",
+      "note": "An unframed aphorism about war does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q07467",
+      "person_signal": "third",
+      "note": "Sustained external narration refers to the focal character as he and renders his private valuation of what he endured."
+    },
+    {
+      "quote_id": "q07468",
+      "person_signal": "non_base",
+      "note": "Unframed direct address is character speech, not second-person base narration."
+    },
+    {
+      "quote_id": "q07469",
+      "person_signal": "non_base",
+      "note": "The second-person phrasing is a joke addressed by one character to another."
+    },
+    {
+      "quote_id": "q07470",
+      "person_signal": "unmarked",
+      "note": "The short dialogue frame and narrator-like commentary use third-person characters but do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q07471",
+      "person_signal": "third",
+      "note": "A sustained passage externally names Ruhn, calls him he, and directly renders facts he knows and his private experience."
+    },
+    {
+      "quote_id": "q07472",
+      "person_signal": "non_base",
+      "note": "This generalized maxim is gnomic rather than story-specific narration."
+    },
+    {
+      "quote_id": "q07473",
+      "person_signal": "unmarked",
+      "note": "A short third-person action sequence introduces direct speech but does not alone establish the controlling narrator."
+    },
+    {
+      "quote_id": "q07474",
+      "person_signal": "non_base",
+      "note": "Repeated you and your forms address a character within explanatory speech."
+    },
+    {
+      "quote_id": "q07475",
+      "person_signal": "third",
+      "note": "Sustained narration externally tracks Bryce, Hunt, Ruhn, and Lidia while conveying Ruhn's intimate recognition through he."
+    },
+    {
+      "quote_id": "q07476",
+      "person_signal": "unmarked",
+      "note": "A single sentence about what she wanted gives too little context to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q07477",
+      "person_signal": "non_base",
+      "note": "Bryce's first- and second-person language occurs in direct speech; the brief tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q07478",
+      "person_signal": "non_base",
+      "note": "The implied you occurs in a direct question between characters."
+    },
+    {
+      "quote_id": "q07479",
+      "person_signal": "non_base",
+      "note": "We marks the speaker and addressee inside character dialogue, not a controlling narrator."
+    },
+    {
+      "quote_id": "q07480",
+      "person_signal": "non_base",
+      "note": "Your is direct address in character speech."
+    },
+    {
+      "quote_id": "q07481",
+      "person_signal": "unmarked",
+      "note": "Two brief sentences describing a male character do not independently distinguish third-person narration from a participating narrator describing someone else."
+    },
+    {
+      "quote_id": "q07482",
+      "person_signal": "third",
+      "note": "Despite dialogue predominance, the repeated outside-speech beats externally track Hunt, Bryce, and Ithan and include focalized comparison through Hunt."
+    },
+    {
+      "quote_id": "q07483",
+      "person_signal": "non_base",
+      "note": "The inclusive we appears in a general maxim, not participating story narration."
+    },
+    {
+      "quote_id": "q07484",
+      "person_signal": "non_base",
+      "note": "You is used in a direct question to another character."
+    },
+    {
+      "quote_id": "q07485",
+      "person_signal": "non_base",
+      "note": "Your and the vocative angel belong to rhetorical character speech."
+    },
+    {
+      "quote_id": "q07486",
+      "person_signal": "non_base",
+      "note": "This gnomic evaluative fragment does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07487",
+      "person_signal": "non_base",
+      "note": "The first-person statement is direct speech, and the short third-person dialogue beats are not independently diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://timesofindia.indiatimes.com/life-style/books/features/exclusive-excerpt-house-of-sky-and-breath-by-sarah-j-maas-book-2-in-the-crescent-city-series/articleshow/89589778.cms",
+      "title": "Exclusive excerpt: 'House of Sky and Breath' by Sarah J Maas, book 2 in the Crescent City series",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A Chapter 1 excerpt published with Bloomsbury India's permission sustains third-person limited narration through Bryce."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-house-of-sky-and-breath/styles.html",
+      "title": "Sarah J. Maas Writing Styles in House of Sky and Breath",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies third-person point of view and explains that limited focalization shifts among numerous characters."
+    },
+    {
+      "url": "https://www.supersummary.com/house-of-sky-and-breath/summary/",
+      "title": "House of Sky and Breath Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The edition-specific guide explicitly describes limited third-person narration through Bryce, Hunt, Ruhn, and other principal characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"House of Sky and Breath\" \"Sarah J. Maas\" excerpt and publisher/author-domain variants; found and opened the authorized Times of India/Bloomsbury India Chapter 1 excerpt.",
+    "Searched \"House of Sky and Breath\" \"third person\", point of view, narrator, and multiple points of view; opened BookRags and SuperSummary whole-book descriptions.",
+    "Searched for Google Books and other previews; Google Books identified the Bloomsbury USA edition but reported no preview available.",
+    "Found a PagePlace PDF preview indexed with the third-person prologue, but opening failed because the file exceeded the retrieval limit, so it was not used as evidence.",
+    "Targeted searches for prologue and interior coverage found unauthorized reproduction sites and review discussions; these were not relied upon as primary person evidence."
+  ],
+  "person_note": "The diagnostic Goodreads passages render Ruhn and other focal characters externally in sustained third-person limited narration, while first- and second-person forms elsewhere are dialogue or gnomic material. The authorized Chapter 1 excerpt independently uses third-person limited narration through Bryce, and two whole-book guides explicitly confirm shifting third-person-limited viewpoints. Multiple focal characters therefore remain THIRD rather than ALTERNATING because the grammatical narrative person does not change. No credible contrary base-narration evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_078",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T02:58:02.861035+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fe8e472b25c54bfc2cf24070be5b6d755866ef66f120d674176e89977d8877a0"
+  }
+}

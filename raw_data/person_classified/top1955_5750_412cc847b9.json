@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1955:5750",
+  "quotes": [
+    {
+      "quote_id": "q00903",
+      "person_signal": "non_base",
+      "note": "Gnomic definition; first-person \u201cme\u201d belongs to the maxim, not base narration."
+    },
+    {
+      "quote_id": "q00904",
+      "person_signal": "non_base",
+      "note": "Dialogue/quoted reflection does not expose the narrator."
+    },
+    {
+      "quote_id": "q00905",
+      "person_signal": "non_base",
+      "note": "Tom\u2019s first-person speech is a character voice, not base narration."
+    },
+    {
+      "quote_id": "q00906",
+      "person_signal": "non_base",
+      "note": "First-person dialogue is spoken by a character."
+    },
+    {
+      "quote_id": "q00907",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base; the brief third-person tag \u201che said\u201d is consistent with third-person narration but not independently diagnostic."
+    },
+    {
+      "quote_id": "q00908",
+      "person_signal": "unmarked",
+      "note": "A maxim or direct thought is briefly framed by \u201che had decided\u201d; the frame is compatible with third-person narration but too short to establish it alone."
+    },
+    {
+      "quote_id": "q00909",
+      "person_signal": "non_base",
+      "note": "Unattributed dialogue or direct thought, with no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00910",
+      "person_signal": "third",
+      "note": "Narratorial summary focalizes Tom externally as \u201chim\u201d while referring to Betsy by name."
+    },
+    {
+      "quote_id": "q00911",
+      "person_signal": "third",
+      "note": "Sustained scene summary narrates Tom, Betsy, and their circumstances externally as \u201cthey\u201d and \u201che.\u201d"
+    },
+    {
+      "quote_id": "q00912",
+      "person_signal": "third",
+      "note": "Sustained third-person narration enters Tom\u2019s knowledge and memory while consistently calling him \u201che.\u201d"
+    },
+    {
+      "quote_id": "q00913",
+      "person_signal": "unmarked",
+      "note": "A brief third-person action sentence is consistent with the established narration but is not diagnostic by itself."
+    },
+    {
+      "quote_id": "q00914",
+      "person_signal": "non_base",
+      "note": "Impersonal character reflection classified upstream as dialogue; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00915",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no story-specific narratorial person."
+    },
+    {
+      "quote_id": "q00916",
+      "person_signal": "non_base",
+      "note": "The visible first person is Tom\u2019s embedded direct thought, explicitly introduced by \u201che thought,\u201d not first-person base narration."
+    },
+    {
+      "quote_id": "q00917",
+      "person_signal": "non_base",
+      "note": "Character speech does not identify the narrator."
+    },
+    {
+      "quote_id": "q00918",
+      "person_signal": "non_base",
+      "note": "The reflection is embedded character thought framed by \u201che thought\u201d; its \u201cus\u201d is not base narration."
+    },
+    {
+      "quote_id": "q00919",
+      "person_signal": "non_base",
+      "note": "The first-person forms occur inside Tom\u2019s direct thought, introduced by \u201cTom thought,\u201d rather than in base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.jstor.org/stable/j.ctt7pf7f.6",
+      "title": "Race Man, Organization Man, Invisible Man \u2014 The Twilight of the Middle Class",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Andrew Hoberek\u2019s Princeton University Press study explicitly contrasts Ellison\u2019s first-person narration with Wilson\u2019s \u201cstraightforwardly omniscient narration,\u201d establishing the novel\u2019s controlling third-person mode."
+    },
+    {
+      "url": "https://bora.uib.no/bora-xmlui/handle/1956/12103?locale-attribute=en&show=full",
+      "title": "Constructed Identities: A Chronotopic Reading of The Great Gatsby, The Man in the Gray Flannel Suit, and Mad Men",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This University of Bergen thesis analyzes the novel\u2019s overall narrative construction, describes its narration as centered on Tom\u2019s flashbacks, and quotes third-person prose from the opening through the ending."
+    },
+    {
+      "url": "https://msmcdushistory.pbworks.com/f/Conformity%2Band%2BLiterature%2Bof%2B1950s.pdf",
+      "title": "Conformity and Literature of the 1950s \u2014 The Man in the Gray Flannel Suit excerpt",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The multi-paragraph opening excerpt narrates Tom and Betsy externally as \u201cthey,\u201d then renders Tom\u2019s thoughts through a third-person frame."
+    },
+    {
+      "url": "https://thingsthatmadeanimpression.wordpress.com/2014/07/26/excerpt-from-the-man-in-the-gray-flannel-suit-by-sloan-wilson-time/",
+      "title": "Excerpt from The Man in the Gray Flannel Suit by Sloan Wilson \u2014 Time",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An interior passage sustains external narration of Tom and Hopkins and marks Tom\u2019s first-person wording explicitly as thought."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Man in the Gray Flannel Suit\u201d with Sloan Wilson plus excerpt, first chapter, point of view, third person, narrator, and narrated by.",
+    "Searched publisher, Google Books, Open Library, Internet Archive, HathiTrust, and scholarly-repository variants; Hachette supplied description only, Google Books exposed contents without readable prose, and Open Library required login to borrow.",
+    "Located and opened a Princeton University Press/JSTOR scholarly chapter explicitly identifying Wilson\u2019s narration as omniscient.",
+    "Located and opened the University of Bergen thesis and corroborating opening and interior excerpts.",
+    "Searched the title with epistolary, multiple narrators, alternating narration, and frame narrative; found no evidence of sustained base narration in another person."
+  ],
+  "person_note": "The controlling voice is nonparticipating omniscient third-person narration, frequently focalized through Tom and sometimes other characters. The sustained event passages q00911\u2013q00912 independently display that pattern, and the scholarly whole-book evidence explicitly identifies Wilson\u2019s mode as omniscient. First-person language in q00905\u2013q00906 is dialogue, while q00916 and q00919 explicitly embed Tom\u2019s \u201cI/me\u201d inside thoughts framed as \u201che thought\u201d or \u201cTom thought\u201d; none constitutes an autonomous first-person section. Targeted searches found no epistolary, framed, or alternating-person structure. Although an authorized full-book excerpt was not openly readable, the explicit Tier B account, a second academic structural analysis, and corroborating opening/interior prose leave no material uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_009",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:27:42.153249+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "91bd94d05049c445f5f22c775626c6e9c17c1e36d10a97a1c1c00b1bd2b55ad2"
+  }
+}

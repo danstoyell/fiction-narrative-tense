@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:6385",
+  "quotes": [
+    {
+      "quote_id": "q03905",
+      "person_signal": "non_base",
+      "note": "Character speech; the first- and second-person pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q03906",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism with generic first-person plural."
+    },
+    {
+      "quote_id": "q03907",
+      "person_signal": "non_base",
+      "note": "General maxim without story-specific narration."
+    },
+    {
+      "quote_id": "q03908",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03909",
+      "person_signal": "non_base",
+      "note": "Dedication-like general address rather than a narrated scene."
+    },
+    {
+      "quote_id": "q03910",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without narrator participation evidence."
+    },
+    {
+      "quote_id": "q03911",
+      "person_signal": "non_base",
+      "note": "Direct speech predominates; the brief third-person attribution is nondiagnostic."
+    },
+    {
+      "quote_id": "q03912",
+      "person_signal": "non_base",
+      "note": "A generalizing line from an embedded tale; it does not independently establish the book-level narrator."
+    },
+    {
+      "quote_id": "q03913",
+      "person_signal": "unmarked",
+      "note": "A character is described as he, but this short sentence alone cannot distinguish third-person narration from a participating narrator describing him."
+    },
+    {
+      "quote_id": "q03914",
+      "person_signal": "non_base",
+      "note": "General statement about stories rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q03915",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion with no person-bearing narrator."
+    },
+    {
+      "quote_id": "q03916",
+      "person_signal": "non_base",
+      "note": "General reflection rather than story-specific narration."
+    },
+    {
+      "quote_id": "q03917",
+      "person_signal": "non_base",
+      "note": "Aphoristic material with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03918",
+      "person_signal": "non_base",
+      "note": "Mythic aphorism about personified Fate and Time."
+    },
+    {
+      "quote_id": "q03919",
+      "person_signal": "non_base",
+      "note": "Quoted written speech; the attribution does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03920",
+      "person_signal": "third",
+      "note": "Sustained external narration names Zachary as he while also reporting thoughts he does not voice, exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q03921",
+      "person_signal": "non_base",
+      "note": "Generic humorous maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q03922",
+      "person_signal": "unmarked",
+      "note": "The referent is represented only as it, so the narrator's participation is not identifiable."
+    },
+    {
+      "quote_id": "q03923",
+      "person_signal": "non_base",
+      "note": "Dialogue predominates; the brief attribution is insufficient person evidence."
+    },
+    {
+      "quote_id": "q03924",
+      "person_signal": "non_base",
+      "note": "Live-text context identifies this as Eleanor's dialogue to Dorian, not first-person base narration."
+    },
+    {
+      "quote_id": "q03925",
+      "person_signal": "first",
+      "note": "This is Kat's constitutive first-person diary narration in Book 6."
+    },
+    {
+      "quote_id": "q03926",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary containing a hypothetical quoted request."
+    },
+    {
+      "quote_id": "q03927",
+      "person_signal": "third",
+      "note": "A sustained externally narrated vignette repeatedly represents the girl as she and supplies her story-world state."
+    },
+    {
+      "quote_id": "q03928",
+      "person_signal": "first",
+      "note": "This reflection occurs in Kat's sustained first-person diary section."
+    },
+    {
+      "quote_id": "q03929",
+      "person_signal": "non_base",
+      "note": "Metaphorical aphorism without narrator-person evidence."
+    },
+    {
+      "quote_id": "q03930",
+      "person_signal": "unmarked",
+      "note": "Clipped sensory description using only it; narrator participation is not exposed."
+    },
+    {
+      "quote_id": "q03931",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and the short external action beats alone are nondiagnostic."
+    },
+    {
+      "quote_id": "q03932",
+      "person_signal": "third",
+      "note": "Sustained embedded-story narration externally describes the sanctuary's inhabitants as they."
+    },
+    {
+      "quote_id": "q03933",
+      "person_signal": "non_base",
+      "note": "Live-text context identifies this as Dorian's speech to Zachary, not first-person-plural narration."
+    },
+    {
+      "quote_id": "q03934",
+      "person_signal": "unmarked",
+      "note": "The formatted paper-star passage describes a unicorn externally, but this clipped sentence alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q03935",
+      "person_signal": "first",
+      "note": "Live-text context places this in Kat's sustained first-person diary narration."
+    },
+    {
+      "quote_id": "q03936",
+      "person_signal": "third",
+      "note": "Extended external description of the girl includes her interior relation to fear, supporting third-person narration."
+    },
+    {
+      "quote_id": "q03937",
+      "person_signal": "non_base",
+      "note": "General interpretive maxim."
+    },
+    {
+      "quote_id": "q03938",
+      "person_signal": "unmarked",
+      "note": "Although located within Kat's diary, these sentences contain no first-person marker and read as generalized commentary."
+    },
+    {
+      "quote_id": "q03939",
+      "person_signal": "unmarked",
+      "note": "Metanarrative commentary about their story lacks enough local person marking to diagnose the narrator by itself."
+    },
+    {
+      "quote_id": "q03940",
+      "person_signal": "non_base",
+      "note": "The fuller passage identifies this as the Keeper speaking to Zachary; the event bucket reflects lost quotation context."
+    },
+    {
+      "quote_id": "q03941",
+      "person_signal": "first",
+      "note": "Kat recounts a specific exchange as I within the sustained diary narrative."
+    },
+    {
+      "quote_id": "q03942",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q03943",
+      "person_signal": "non_base",
+      "note": "Gnomic discussion of story form; they refers generically to stories."
+    },
+    {
+      "quote_id": "q03944",
+      "person_signal": "non_base",
+      "note": "Aphoristic direct address rather than sustained second-person narrative."
+    },
+    {
+      "quote_id": "q03945",
+      "person_signal": "unmarked",
+      "note": "A brief reference to his mother and a moment does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q03946",
+      "person_signal": "non_base",
+      "note": "A sequence of questions spoken to a character."
+    },
+    {
+      "quote_id": "q03947",
+      "person_signal": "non_base",
+      "note": "General maxim about tales."
+    },
+    {
+      "quote_id": "q03948",
+      "person_signal": "non_base",
+      "note": "Conversational exchange with no external narratorial material."
+    },
+    {
+      "quote_id": "q03949",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person statement whose local speaker is not established as a base narrator."
+    },
+    {
+      "quote_id": "q03950",
+      "person_signal": "first",
+      "note": "This story-specific reflection belongs to Kat's sustained first-person diary narration."
+    },
+    {
+      "quote_id": "q03951",
+      "person_signal": "third",
+      "note": "Multiple sentences sustain external narration of a male character as he and summarize his actions."
+    },
+    {
+      "quote_id": "q03952",
+      "person_signal": "non_base",
+      "note": "Direct character declaration, not narratorial first person."
+    },
+    {
+      "quote_id": "q03953",
+      "person_signal": "non_base",
+      "note": "Parenthetical generalization about cats."
+    },
+    {
+      "quote_id": "q03954",
+      "person_signal": "non_base",
+      "note": "Historical-sounding maxim without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q03955",
+      "person_signal": "third",
+      "note": "Sustained scene-setting by a nonparticipating narrator describes the story-world location externally."
+    },
+    {
+      "quote_id": "q03956",
+      "person_signal": "third",
+      "note": "Sustained external narration represents a character as he and reports unspoken fears and self-conception."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781784702861/9781784702861-sample.pdf",
+      "title": "The Starless Sea sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized publisher sample sustains third-person narration across both the opening embedded tale and the early Zachary narrative."
+    },
+    {
+      "url": "https://www.penguin.com.au/books/the-starless-sea-9781784702861/extracts/2164-the-starless-sea",
+      "title": "Extract | The Starless Sea by Erin Morgenstern",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher extract repeatedly narrates Zachary externally as he while reporting his perceptions, memories, and thoughts."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-starless-sea/styles.html",
+      "title": "Erin Morgenstern Writing Styles in The Starless Sea",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies third-person present narration, mainly following Zachary, and third-person omniscient narration in the embedded books discussed."
+    },
+    {
+      "url": "https://lareviewofbooks.org/article/a-story-of-all-stories-on-erin-morgensterns-the-starless-sea",
+      "title": "A Story of All Stories: On Erin Morgenstern's The Starless Sea",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review establishes the six-section structure and chapter-level alternation between Zachary's narrative and fables or other character narratives, supporting treatment of the inserted material as sustained sections."
+    },
+    {
+      "url": "https://www.supersummary.com/the-starless-sea/book-6-the-secret-diary-of-katrina-hawkins/",
+      "title": "The Starless Sea Book 6 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The Book 6 analysis identifies a sustained strand presented through excerpts from Kat's diary, alternating with Zachary's narrative; the input diary quotations expose its first-person form."
+    },
+    {
+      "url": "https://pinakes.netlify.app/The%20Starless%20Sea%20by%20Erin%20Morgenstern.pdf",
+      "title": "The Starless Sea by Erin Morgenstern",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "ALTERNATING",
+      "note": "An accessible but non-authoritative full-text reproduction was used only for local attribution: it shows recurring first-person Secret Diary excerpts alternating with sustained third-person Zachary and Dorian chapters."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Starless Sea Erin Morgenstern excerpt publisher\" and opened the Penguin/Vintage sample and Penguin Australia extract.",
+    "Searched \"The Starless Sea point of view third person alternating narrator\" and opened explicit POV discussions from BookRags and reviews.",
+    "Searched for the novel's structure, embedded narratives, frame narrative, and alternating sections; opened the Los Angeles Review of Books structural review.",
+    "Searched \"The Secret Diary of Katrina Hawkins\" and Book 6 analyses; opened SuperSummary's named-section analysis.",
+    "Searched exact first-person quote strings to resolve attribution; this identified q03925, q03928, q03935, q03941, and q03950 as Kat diary material, while q03924 and q03933 proved to be dialogue.",
+    "Searched the exact second-person wording in q03940; fuller context showed it is the Keeper's speech rather than second-person narration.",
+    "Author-site searches did not yield a usable excerpt; BookBub's excerpt page exposed no extract text in the accessible page."
+  ],
+  "person_note": "The main Zachary/Dorian narrative and the embedded fables are sustained third-person narration, corroborated by the publisher samples and explicit POV sources. Book 6, however, repeatedly alternates those third-person chapters with constitutive excerpts from Katrina Hawkins's diary narrated as I; several input quotes come from that diary. Under the methodology, a sustained first-person diary section alternating with sustained third-person sections requires ALTERNATING, even though many general descriptions call the novel third person. Apparent first person in q03924 and q03933 and second person in q03940 are character speech, not additional base strands. Confidence is medium because the third-person route has Tier A support, while the whole-book first/third configuration is established by weaker structural sources plus quote attribution rather than an authorized interior excerpt.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_069",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:43:38.680400+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "42b4b5581780c1088a4b1c0e348a6694f4e0067def2b6bde383fc47b9b72d34f"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1937:6769",
+  "quotes": [
+    {
+      "quote_id": "q00081",
+      "person_signal": "non_base",
+      "note": "Direct advice spoken by a character; its imperative wording does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00082",
+      "person_signal": "non_base",
+      "note": "Character speech addressing Julia as \u201cyou\u201d; this is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00083",
+      "person_signal": "non_base",
+      "note": "Generic gnomic statement with no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00084",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using generic \u201cus\u201d and \u201cone,\u201d not a participating narrator."
+    },
+    {
+      "quote_id": "q00085",
+      "person_signal": "third",
+      "note": "Sustained narration presents Julia externally as \u201cshe\u201d while reporting her reaction and transition between imagined worlds."
+    },
+    {
+      "quote_id": "q00086",
+      "person_signal": "non_base",
+      "note": "Generic aphorism, not story-specific narration."
+    },
+    {
+      "quote_id": "q00087",
+      "person_signal": "non_base",
+      "note": "Generic aphorism, not story-specific narration."
+    },
+    {
+      "quote_id": "q00088",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q00089",
+      "person_signal": "non_base",
+      "note": "Generic gnomic observation, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00090",
+      "person_signal": "non_base",
+      "note": "Direct character speech; \u201cyou\u201d addresses another character."
+    },
+    {
+      "quote_id": "q00091",
+      "person_signal": "third",
+      "note": "Extended external narration follows Julia as \u201cshe\u201d and reports her perceptions and feelings without a participating narrator."
+    },
+    {
+      "quote_id": "q00092",
+      "person_signal": "third",
+      "note": "The narrator describes Julia\u2019s acting and private anguish in sustained third person."
+    },
+    {
+      "quote_id": "q00093",
+      "person_signal": "third",
+      "note": "Despite a clipped opening, the remaining scene narration tracks both characters in third person and reports Julia\u2019s uncertainty."
+    },
+    {
+      "quote_id": "q00094",
+      "person_signal": "non_base",
+      "note": "Dialogue; the visible pronouns belong to the speakers rather than the base narrator."
+    },
+    {
+      "quote_id": "q00095",
+      "person_signal": "third",
+      "note": "Sustained third-person psychonarration distinguishes Julia Lambert the actress from Julia the woman and describes her inner conception of her gift."
+    },
+    {
+      "quote_id": "q00096",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first- and second-person forms are local to the speaker."
+    },
+    {
+      "quote_id": "q00097",
+      "person_signal": "third",
+      "note": "Although dialogue-heavy and bucketed as dialogue, the substantial outside scene beats narrate Julia, the author, and their actions and reactions in third person; the parenthetical first-person thought is Julia\u2019s local direct thought."
+    },
+    {
+      "quote_id": "q00098",
+      "person_signal": "non_base",
+      "note": "Direct instructional speech, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.ca/ebooks/maughamws-theatre/maughamws-theatre-00-e.html",
+      "title": "Theatre by W. Somerset Maugham, from Project Gutenberg Canada",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete library ebook spans Chapter I through the final Chapter XXIX. Opening, middle, and closing scenes consistently narrate Julia, Michael, and other characters externally in third person while entering their thoughts; visible first person is confined to dialogue, letters, or direct thought, with no sustained alternate narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cSomerset Maugham Theatre novel excerpt first chapter Julia Lambert\u201d and full-text/archive variants; found and inspected the complete Project Gutenberg Canada ebook across opening, interior, and final chapters.",
+    "Searched \u201cTheatre Somerset Maugham point of view,\u201d \u201cthird-person narrator,\u201d \u201comniscient narrator,\u201d \u201cnarrative voice,\u201d and \u201cfocalization\u201d; secondary results discussed Julia\u2019s internal monologue but rarely named grammatical person explicitly.",
+    "Searched for \u201cTheatre Somerset Maugham epistolary,\u201d \u201cmultiple narrators,\u201d \u201calternating point of view,\u201d and \u201cfirst person narrator\u201d; found no evidence of epistolary construction, alternating base sections, or a participating narrator.",
+    "Checked Penguin Random House, Penguin UK, Google Books, Open Library, and Internet Archive records; they verified the work and Julia-centered plot but their catalog or promotional descriptions were not treated as person evidence.",
+    "Checked Graham Wolfe\u2019s Routledge chapter metadata and university/scholarly results concerning Maugham\u2019s narration; accessible metadata did not explicitly establish this novel\u2019s narrative person and was not used as supporting evidence."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly expose a nonparticipating narrator describing Julia and entering her consciousness in third person. The complete Project Gutenberg Canada text independently shows the same form from the opening through Chapter XXIX. First-person material is confined to character speech, letters, or direct thought, and q00082\u2019s \u201cyou\u201d is Roger addressing Julia rather than second-person narration. No sustained contrary section or frame was found; the only limitation is the scarcity of explicit secondary POV descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_003",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:31:00.742683+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "df844d78e63f2a65e0943135d4cf35dd26209ea1173e8f432fc3085428ebca5e"
+  }
+}

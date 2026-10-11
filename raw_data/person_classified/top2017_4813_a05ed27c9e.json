@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:4813",
+  "quotes": [
+    {
+      "quote_id": "q02246",
+      "person_signal": "non_base",
+      "note": "Universal gnomic 'you' does not designate a story protagonist or identify the base narrator."
+    },
+    {
+      "quote_id": "q02247",
+      "person_signal": "non_base",
+      "note": "Universal gnomic 'you' is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02248",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside character dialogue."
+    },
+    {
+      "quote_id": "q02249",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms belong to dialogue."
+    },
+    {
+      "quote_id": "q02250",
+      "person_signal": "non_base",
+      "note": "The inclusive 'we' occurs in character speech, not base narration."
+    },
+    {
+      "quote_id": "q02251",
+      "person_signal": "third",
+      "note": "Sustained external narration presents the woman as 'she' and frames her spoken offer without a participating narrator."
+    },
+    {
+      "quote_id": "q02252",
+      "person_signal": "non_base",
+      "note": "Generic 'you' appears within dialogue and is not narratorial."
+    },
+    {
+      "quote_id": "q02253",
+      "person_signal": "non_base",
+      "note": "Both second-person forms occur in an exchange between characters."
+    },
+    {
+      "quote_id": "q02254",
+      "person_signal": "unmarked",
+      "note": "The descriptive sentence lacks a character reference or narratorial pronoun sufficient to identify person."
+    },
+    {
+      "quote_id": "q02255",
+      "person_signal": "non_base",
+      "note": "This is an impersonal maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02256",
+      "person_signal": "non_base",
+      "note": "The first-person statement is dialogue; the short speech attribution alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q02257",
+      "person_signal": "third",
+      "note": "Extended narration renders the protagonist's resolve and anticipated fate as 'she' and 'her' without a participating narrator."
+    },
+    {
+      "quote_id": "q02258",
+      "person_signal": "non_base",
+      "note": "The quote is chiefly dialogue; its brief third-person speech beats are too slight to establish narrator participation."
+    },
+    {
+      "quote_id": "q02259",
+      "person_signal": "third",
+      "note": "Third-person narration enters the male character's prospective mental action without introducing a participating narrator."
+    },
+    {
+      "quote_id": "q02260",
+      "person_signal": "non_base",
+      "note": "The first-person pronouns belong to Val's speech; the short attribution is nondiagnostic."
+    },
+    {
+      "quote_id": "q02261",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in dialogue, and the isolated external reaction beat does not independently establish person."
+    },
+    {
+      "quote_id": "q02262",
+      "person_signal": "non_base",
+      "note": "Pronouns occur within dialogue; brief third-person dialogue tags do not make the passage diagnostic."
+    },
+    {
+      "quote_id": "q02263",
+      "person_signal": "third",
+      "note": "The narration conveys the protagonist's background and political attitude while referring to her externally."
+    },
+    {
+      "quote_id": "q02264",
+      "person_signal": "non_base",
+      "note": "The fragment is gnomic commentary with no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02265",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough syntax and context to distinguish narration from speech."
+    },
+    {
+      "quote_id": "q02266",
+      "person_signal": "third",
+      "note": "A sustained sequence presents the protagonist's private questions and circumstances as 'she' and 'her' from outside the story."
+    },
+    {
+      "quote_id": "q02267",
+      "person_signal": "unmarked",
+      "note": "This descriptive fragment contains no narrator or sufficiently contextualized character reference."
+    },
+    {
+      "quote_id": "q02268",
+      "person_signal": "unmarked",
+      "note": "The bare third-person action is compatible with either first- or third-person framing when isolated."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://time.com/4537181/chemist-excerpt-stephenie-meyer-twilight/",
+      "title": "Exclusive: An Excerpt From Twilight Author Stephenie Meyer's New Novel The Chemist",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This authorized, publisher-permitted sustained excerpt repeatedly narrates Juliana as 'she' while directly rendering her knowledge, inferences, and private reactions in close third person."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9781478906568",
+      "title": "The Chemist by Stephenie Meyer",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Publishers Weekly's review of the unabridged audiobook explicitly identifies the book's narration as third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-chemist/styles.html",
+      "title": "Stephenie Meyer Writing Styles in The Chemist",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly describes the entire novel as third-person limited, confined to Alex's knowledge."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cStephenie Meyer The Chemist excerpt official first chapter,\u201d \u201cStephenie Meyer The Chemist third person point of view narrator,\u201d and \u201cThe Chemist Stephenie Meyer Google Books excerpt\u201d; opened the authorized TIME excerpt and explicit POV sources.",
+    "Searched \u201cThe Chemist Stephenie Meyer multiple narrators,\u201d \u201calternating point of view,\u201d and \u201cepistolary narrator\u201d; found no credible indication of sustained first- or second-person base sections.",
+    "Searched Stephenie Meyer's official site for excerpts and opened the author-hosted alternate epilogue PDF; because it is an unpublished original epilogue rather than the novel's constitutive text, it was not used as book-level evidence.",
+    "The Google Books result supplied catalog copy rather than a sustained readable passage, so it was not used as person evidence."
+  ],
+  "person_note": "The diagnostic Goodreads passages consistently use close third-person narration, including access to Alex's and another character's thoughts; apparent first- and second-person forms occur only in dialogue or universal maxims. A sustained authorized excerpt independently shows the same close-third technique, while two explicit whole-book descriptions identify third-person narration and one specifies that it remains limited to Alex. Targeted searches found no credible alternating, epistolary, or participating-narrator structure. Coverage does not directly sample every chapter, but the whole-book structural descriptions resolve that minor limitation without contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_061",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:31:51.597419+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e8a2792fcc22a098394f0e1fd446f5346fafc3e796457943afb63f65de092cbc"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:2158",
+  "quotes": [
+    {
+      "quote_id": "q00552",
+      "person_signal": "non_base",
+      "note": "Gnomic statement attributed to Oliver Stone; its first-person plural wording does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00553",
+      "person_signal": "non_base",
+      "note": "Oliver Stone's first-person reflection is character speech or direct thought within the novel's third-person narration."
+    },
+    {
+      "quote_id": "q00554",
+      "person_signal": "non_base",
+      "note": "Stone's first-person observation about the Russians is local character discourse, not controlling narration."
+    },
+    {
+      "quote_id": "q00555",
+      "person_signal": "third",
+      "note": "Sustained external narration names Stone and evaluates what would have been required to capture him, exposing a nonparticipating third-person narrator."
+    },
+    {
+      "quote_id": "q00556",
+      "person_signal": "non_base",
+      "note": "Dialogue between the president and Stone; first-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q00557",
+      "person_signal": "non_base",
+      "note": "Despite its event bucket, this is Carmen's first-person speech with an embedded quotation, not base narration."
+    },
+    {
+      "quote_id": "q00558",
+      "person_signal": "non_base",
+      "note": "Universal gnomic address; generic 'you' is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00559",
+      "person_signal": "non_base",
+      "note": "Clipped expository statement, apparently from character discourse, with no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00560",
+      "person_signal": "non_base",
+      "note": "Dialogue among Annabelle, Chapman, and another character; the speech does not identify the narrator."
+    },
+    {
+      "quote_id": "q00561",
+      "person_signal": "non_base",
+      "note": "Dialogue containing first- and second-person pronouns attributable to the speakers."
+    },
+    {
+      "quote_id": "q00562",
+      "person_signal": "non_base",
+      "note": "First-person wording is Stone's story-specific direct thought; the clipped trailing 'He' indicates surrounding third-person narration but is insufficient by itself."
+    },
+    {
+      "quote_id": "q00563",
+      "person_signal": "unclear",
+      "note": "Severely clipped event fragment lacks enough context or grammar to identify narrative person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/es/novela-negra-misterio-y-thriller/7937-libro-la-esquina-del-infierno-serie-camel-club-5-9788490701843/fragmento",
+      "title": "La esquina del infierno (Serie Camel Club 5) \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-hosted Spanish translation of the opening sustains external third-person narration of Oliver Stone and his thoughts."
+    },
+    {
+      "url": "https://libcat.ru/knigi/detektivy-i-trillery/triller/423867-devid-baldachchi-hell-s-corner.html",
+      "title": "David Baldacci \u2014 Hell's Corner, opening text",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "none",
+      "note": "An extended English opening on an unverified text host appears to narrate Stone externally across Chapters 1 and 2, but the host's provenance and authorization are unclear; it is retained only as a discovery/continuity check, not independent classification evidence."
+    },
+    {
+      "url": "https://libcat.ru/knigi/detektivy-i-trillery/triller/423867-93-devid-baldachchi-hell-s-corner.html",
+      "title": "David Baldacci \u2014 Hell's Corner, final text page",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "A purported closing scene on the same unverified text host appears to remain in third person, but uncertain provenance prevents treating it as credible interior corroboration; it is retained only as a discovery/continuity check."
+    },
+    {
+      "url": "https://books.google.com/books?id=nS1ubFO8cCYC",
+      "title": "Hell's Corner \u2014 Google Books",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "Opened publisher bibliographic record and limited preview; it verified the work and edition but exposed only synopsis and index terms, not usable narrative-person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Hell's Corner David Baldacci excerpt first chapter\", \"point of view third person narrator\", Google Books, and the author's site.",
+    "Opened the Penguin publisher fragment, which provided an authorized translated opening in sustained third person.",
+    "Opened the Google Books record; its accessible page contained metadata, synopsis, and common terms but no sustained prose preview.",
+    "Searched exact opening and quote text, including \"Oliver Stone was counting the seconds\", \"There was a time when Stone would have rated\", and the sampled first-person lines.",
+    "Inspected extended English text at the opening and final page to test for a frame, epistolary structure, or sustained change of person; both remained third person.",
+    "Searched \"Hell's Corner\" with \"third person\", \"point of view\", and \"narrator\"; reviews and catalog pages did not explicitly describe POV, and no credible source indicated alternating narration."
+  ],
+  "person_note": "The controlling narrator presents Oliver Stone and other characters externally in third person. The diagnostic Goodreads passage matches that structure, while the sampled first-person material consists of dialogue, aphorism, or direct character thought. The publisher-hosted Spanish opening independently supports third person, and targeted research found no credible indication of a sustained first-person section, frame, diary, or alternating-person structure. Confidence is med because the authorized evidence is opening-only and translated; the English opening and closing pages come from an unverified text host and are Tier D continuity checks rather than independent corroboration. Audit: independent review retained THIRD but downgraded high to med and corrected both unverified-host entries from Tier C support to Tier D/none.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_048",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T19:51:25.875043+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "31ed2183de23ebd487c6f3d1e713a172c65a1cd8d45f34f46623f3e58cf23ace"
+  }
+}

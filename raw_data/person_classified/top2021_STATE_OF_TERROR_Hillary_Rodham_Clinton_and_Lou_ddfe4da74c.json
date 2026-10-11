@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:STATE OF TERROR|Hillary Rodham Clinton and Lou",
+  "quotes": [
+    {
+      "quote_id": "q06142",
+      "person_signal": "third",
+      "note": "Two linked narratorial sentences describe Ellen externally and generalize about her experience without a participating narrator."
+    },
+    {
+      "quote_id": "q06143",
+      "person_signal": "non_base",
+      "note": "An attributed Einstein quotation, not the novel's base narration."
+    },
+    {
+      "quote_id": "q06144",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the minimal speech tag does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q06145",
+      "person_signal": "non_base",
+      "note": "Character speech without an external narratorial beat."
+    },
+    {
+      "quote_id": "q06146",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a character's knowledge and evaluates Ellen in the third person."
+    },
+    {
+      "quote_id": "q06147",
+      "person_signal": "unmarked",
+      "note": "Narratorial political summary, but its passive constructions do not independently identify the narrator's person."
+    },
+    {
+      "quote_id": "q06148",
+      "person_signal": "non_base",
+      "note": "A context-free aphorism rather than story narration."
+    },
+    {
+      "quote_id": "q06149",
+      "person_signal": "unclear",
+      "note": "The first-person plural appears likely to be speech, but missing quotation and speaker context prevents secure attribution."
+    },
+    {
+      "quote_id": "q06150",
+      "person_signal": "unmarked",
+      "note": "Story-world commentary with no character framing or diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q06151",
+      "person_signal": "non_base",
+      "note": "Quoted character exchange rather than base narration."
+    },
+    {
+      "quote_id": "q06152",
+      "person_signal": "unmarked",
+      "note": "Ellen is presented in the third person, but this single clipped sentence is insufficient by itself to establish the narrator's person."
+    },
+    {
+      "quote_id": "q06153",
+      "person_signal": "unmarked",
+      "note": "Narratorial summary of an administration, without enough local character narration to diagnose person independently."
+    },
+    {
+      "quote_id": "q06154",
+      "person_signal": "unmarked",
+      "note": "A single third-person action sentence with narratorial humor; alone it does not exclude a participating narrator."
+    },
+    {
+      "quote_id": "q06155",
+      "person_signal": "non_base",
+      "note": "A general maxim, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q06156",
+      "person_signal": "non_base",
+      "note": "A timeless quotation or maxim rather than base narration."
+    },
+    {
+      "quote_id": "q06157",
+      "person_signal": "non_base",
+      "note": "Authorial paratext about the novel's fictionality, outside the story narration."
+    },
+    {
+      "quote_id": "q06158",
+      "person_signal": "non_base",
+      "note": "Quoted dialogue; its first- and second-person pronouns belong to characters."
+    },
+    {
+      "quote_id": "q06159",
+      "person_signal": "third",
+      "note": "Third-person narrative framing reports actions and Ellen's unspoken impulse around embedded dialogue."
+    },
+    {
+      "quote_id": "q06160",
+      "person_signal": "non_base",
+      "note": "First-person forms occur entirely within a quoted character exchange."
+    },
+    {
+      "quote_id": "q06161",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to quoted speakers, not the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/530146440/State-of-Terror-A-Novel",
+      "title": "State of Terror: A Novel \u2014 Louise Penny, Hillary Rodham Clinton",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained licensed ebook preview through the opening chapters narrates Ellen, Anahita, Nasrin, Williams, and others externally in third person while moving among their thoughts; no participating base narrator frames the sections."
+    },
+    {
+      "url": "https://www.bookrags.com/questions/english-and-literature/State_of_Terror/comment-on-point-of-view--244831",
+      "title": "Comment on point of view | State of Terror Questions & Answers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies an omniscient third-person narrator focused chiefly on Ellen but also reporting other characters' thoughts and actions."
+    },
+    {
+      "url": "https://www.supersummary.com/state-of-terror/chapters-1-10-summary/",
+      "title": "State of Terror Chapters 1-10 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Structural analysis of Chapters 1\u201310 describes a past-tense narrative largely following Ellen with frequent perspective switches to other characters, corroborating the multi-perspectival third-person excerpt."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cState of Terror Hillary Rodham Clinton Louise Penny excerpt publisher\u201d and opening/first-chapter variants; the Simon & Schuster page supplied catalog material but no prose excerpt, while Everand exposed a sustained English preview.",
+    "Searched the title with \u201cpoint of view,\u201d \u201cthird person,\u201d \u201cnarrator,\u201d and \u201cmultiple narrators\u201d; opened BookRags' explicit POV description and SuperSummary's chapter-level structural analysis.",
+    "Searched exact opening and interior phrases plus Google Books, Macmillan, People, Penguin, and translated-edition leads; Google Books mainly exposed catalog text, the People excerpt was not discoverable directly, and the Penguin Spanish page timed out.",
+    "Opened additional German translated preview material and Google Books bibliographic pages as corroborating/discovery material, but omitted them from usable evidence because the English licensed preview and explicit structural sources were stronger."
+  ],
+  "person_note": "The controlling narration is third person, with shifting focalization among Ellen Adams and other characters. The licensed opening preview sustains this structure across several scenes and character viewpoints, and the explicit web descriptions corroborate it. Goodreads event passages q06142, q06146, and q06159 independently expose compatible third-person narration, including access to characters' knowledge or unspoken impulses. First-person forms in the quote set occur in dialogue or unresolved clipped material, not in a sustained narratorial strand. The main limitation is that the Tier A preview covers only the opening chapters, but the interior Goodreads passages and whole-book POV description provide consistent corroboration with no credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_075",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T18:04:31.137055+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "88a5e5ee14f487e6bb56c52c9bbe2b89a4506502fa755bf1670641699d888836"
+  }
+}

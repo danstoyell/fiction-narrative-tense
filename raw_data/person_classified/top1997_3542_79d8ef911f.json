@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:3542",
+  "quotes": [
+    {
+      "quote_id": "q00325",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic observation; it does not expose the narrator."
+    },
+    {
+      "quote_id": "q00326",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but no participating narrator is grammatically identified."
+    },
+    {
+      "quote_id": "q00327",
+      "person_signal": "first",
+      "note": "John Corey's story-specific reflection uses narratorial I."
+    },
+    {
+      "quote_id": "q00328",
+      "person_signal": "non_base",
+      "note": "Standalone aphoristic comparison, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00329",
+      "person_signal": "unmarked",
+      "note": "Narratorial description without a person-identifying narrator reference."
+    },
+    {
+      "quote_id": "q00330",
+      "person_signal": "non_base",
+      "note": "General exposition about anthrax does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00331",
+      "person_signal": "non_base",
+      "note": "General historical reflection rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00332",
+      "person_signal": "non_base",
+      "note": "A generalized maxim; the incidental 'I think' does not securely expose a story event."
+    },
+    {
+      "quote_id": "q00333",
+      "person_signal": "first",
+      "note": "Story-specific narratorial state is expressed with I."
+    },
+    {
+      "quote_id": "q00334",
+      "person_signal": "first",
+      "note": "Outside the opening speech, 'handed me' and 'We walked' expose participating narration."
+    },
+    {
+      "quote_id": "q00335",
+      "person_signal": "non_base",
+      "note": "Standalone proverb, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00336",
+      "person_signal": "non_base",
+      "note": "The feminine self-description cannot be John Corey's narration and is local character speech despite the event bucket."
+    },
+    {
+      "quote_id": "q00337",
+      "person_signal": "first",
+      "note": "Sustained recollection and interpretation use narratorial I."
+    },
+    {
+      "quote_id": "q00338",
+      "person_signal": "non_base",
+      "note": "Generalized observation with no story-specific narrator signal."
+    },
+    {
+      "quote_id": "q00339",
+      "person_signal": "first",
+      "note": "The narrator recounts his own prior thought and police experience as I/me."
+    },
+    {
+      "quote_id": "q00340",
+      "person_signal": "unmarked",
+      "note": "Possible base description of the boat, but it does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q00341",
+      "person_signal": "first",
+      "note": "The participating narrator describes his ex-wife, thoughts, and feelings as I/my."
+    },
+    {
+      "quote_id": "q00342",
+      "person_signal": "non_base",
+      "note": "Quoted conversational exchange; its pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q00343",
+      "person_signal": "first",
+      "note": "Story-specific hypothetical reflection explicitly uses narratorial I."
+    },
+    {
+      "quote_id": "q00344",
+      "person_signal": "non_base",
+      "note": "Spoken scientific explanation and direct address do not identify the narrator."
+    },
+    {
+      "quote_id": "q00345",
+      "person_signal": "first",
+      "note": "The narrator recounts his own actions and knowledge using I."
+    },
+    {
+      "quote_id": "q00346",
+      "person_signal": "non_base",
+      "note": "Scientific dialogue with a speech attribution; speaker pronouns are not base narration."
+    },
+    {
+      "quote_id": "q00347",
+      "person_signal": "non_base",
+      "note": "Standalone law-enforcement generalization, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00348",
+      "person_signal": "non_base",
+      "note": "Standalone generalized observation."
+    },
+    {
+      "quote_id": "q00349",
+      "person_signal": "non_base",
+      "note": "General exposition about biological warfare."
+    },
+    {
+      "quote_id": "q00350",
+      "person_signal": "non_base",
+      "note": "Standalone joke rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00351",
+      "person_signal": "non_base",
+      "note": "A generalized aphorism; 'my age' alone does not establish an event-level narrating position."
+    },
+    {
+      "quote_id": "q00352",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; we and they belong to the speakers' utterances."
+    },
+    {
+      "quote_id": "q00353",
+      "person_signal": "unmarked",
+      "note": "A narrator may be describing another character, but she alone cannot distinguish first from third person."
+    },
+    {
+      "quote_id": "q00354",
+      "person_signal": "unmarked",
+      "note": "Description of a man as he does not identify whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q00355",
+      "person_signal": "first",
+      "note": "The narrator reports his own counting and the men being sent to greet me."
+    },
+    {
+      "quote_id": "q00356",
+      "person_signal": "non_base",
+      "note": "First-person question inside character speech."
+    },
+    {
+      "quote_id": "q00357",
+      "person_signal": "non_base",
+      "note": "Generalized direct-address maxim, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00358",
+      "person_signal": "first",
+      "note": "'It occurred to me' directly exposes the participating narrator's thought."
+    },
+    {
+      "quote_id": "q00359",
+      "person_signal": "first",
+      "note": "The narrator recounts his own classroom actions using I'd and I."
+    },
+    {
+      "quote_id": "q00360",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue and the speaker's stated philosophy are local speech."
+    },
+    {
+      "quote_id": "q00361",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks a subject and recoverable quotation boundaries."
+    },
+    {
+      "quote_id": "q00362",
+      "person_signal": "unmarked",
+      "note": "Base description is grammatically unmarked; the imperative appears only on an embedded banner."
+    },
+    {
+      "quote_id": "q00363",
+      "person_signal": "non_base",
+      "note": "Conversational exchange; its pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q00364",
+      "person_signal": "unclear",
+      "note": "The clipped passage omits the subject of 'couldn't see,' preventing secure attribution."
+    },
+    {
+      "quote_id": "q00365",
+      "person_signal": "non_base",
+      "note": "Generalized second-person statement, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00366",
+      "person_signal": "non_base",
+      "note": "Universal aphorism addressed to generalized you."
+    },
+    {
+      "quote_id": "q00367",
+      "person_signal": "unmarked",
+      "note": "Story-specific reflection may be narration, but it contains no person-identifying narrator reference."
+    },
+    {
+      "quote_id": "q00368",
+      "person_signal": "non_base",
+      "note": "An embedded joke and spoken exchange, not controlling narration."
+    },
+    {
+      "quote_id": "q00369",
+      "person_signal": "non_base",
+      "note": "Standalone altered proverb."
+    },
+    {
+      "quote_id": "q00370",
+      "person_signal": "non_base",
+      "note": "Embedded Shakespeare quotation, not the novel's base voice."
+    },
+    {
+      "quote_id": "q00371",
+      "person_signal": "non_base",
+      "note": "Malformed but speaker-marked first-person speech about Dickie Johnson."
+    },
+    {
+      "quote_id": "q00372",
+      "person_signal": "first",
+      "note": "The participating narrator reports his own physical action as I."
+    },
+    {
+      "quote_id": "q00373",
+      "person_signal": "non_base",
+      "note": "Generalized direct-address observation, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00374",
+      "person_signal": "first",
+      "note": "The narrator recounts something he had previously seen using I'd."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nelsondemille.net/books/plum-island/chapter-one/",
+      "title": "Plum Island - Chapter One",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's authorized sustained opening identifies the narrating I as convalescing detective John Corey and maintains his participating first-person narration throughout the chapter."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/plum-island/excerpt",
+      "title": "Plum Island by Nelson DeMille | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A long excerpt expressly reprinted with Warner Books' permission continues Corey's participating I/we narration through the murder-scene investigation."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-plum-island/style.html",
+      "title": "Nelson Demille Writing Styles in Plum Island",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly describes the novel as exclusively first-person, narrated by John Corey, with all plot movement presented through him."
+    },
+    {
+      "url": "https://michaelcavacini.com/2016/03/02/book-review-plum-island-by-nelson-demille/",
+      "title": "Book Review: Plum Island by Nelson DeMille",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The reviewer describes the completed novel as written in first person and attributes its humor and perspective to protagonist John Corey."
+    }
+  ],
+  "search_log": [
+    "Searched \"Plum Island\" \"Nelson DeMille\" excerpt first chapter, author-site excerpts, and Google Books previews; located the author's complete Chapter One and an authorized Warner Books excerpt.",
+    "Searched \"Plum Island\" \"first-person\" narrator John Corey, point of view, and narrated by; located explicit whole-book descriptions identifying Corey as the first-person narrator.",
+    "Opened and inspected the Nelson DeMille Chapter One page, Bookreporter authorized excerpt, BookRags point-of-view analysis, and Michael Cavacini review before using them.",
+    "Searched \"Plum Island\" Nelson DeMille alternating point of view, multiple narrators, epistolary, and frame narrative; results produced no credible indication that this novel alternates person or contains a constitutive frame.",
+    "Google Books and library catalog results verified the work but supplied only metadata or synopsis-level material, so they were not used as person evidence."
+  ],
+  "person_note": "The diagnostic quotes repeatedly expose John Corey participating as I/me across investigation, reflection, and action passages. Authorized sustained opening prose independently identifies Corey and preserves that voice, while whole-book sources describe the narration as exclusively first person. Third-person references merely describe other characters from Corey's perspective; dialogue and gnomic material are non-base. The feminine I in q00336 is necessarily local character speech and appears to be an upstream bucket issue, not an alternate narrator. No credible alternating, framed, or epistolary structure was found; the opening-only scope of the Tier A excerpts is mitigated by the distributed quote evidence and explicit whole-book descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_030",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:44:53.651290+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3175fedcc28a5c34dfe4c79546227a98d408074b9f87a1958976171c59b99090"
+  }
+}

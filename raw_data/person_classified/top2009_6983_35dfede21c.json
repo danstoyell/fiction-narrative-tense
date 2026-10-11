@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:6983",
+  "quotes": [
+    {
+      "quote_id": "q00380",
+      "person_signal": "non_base",
+      "note": "A general aphorism with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00381",
+      "person_signal": "non_base",
+      "note": "Character dialogue; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00382",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents Hope and Reiger externally and supplies contextual information without a participating narrator."
+    },
+    {
+      "quote_id": "q00383",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates the actions of Mace, Ty, and Alisha."
+    },
+    {
+      "quote_id": "q00384",
+      "person_signal": "non_base",
+      "note": "A clipped exchange of character dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00385",
+      "person_signal": "third",
+      "note": "The base voice narrates Beth and her remembered reading procedure externally; the imperative wording belongs to the procedure being recalled."
+    },
+    {
+      "quote_id": "q00386",
+      "person_signal": "non_base",
+      "note": "Predominantly quoted speech; the brief third-person speech beat is insufficient by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q00387",
+      "person_signal": "non_base",
+      "note": "A universal maxim whose generic 'you' is not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00388",
+      "person_signal": "unclear",
+      "note": "The truncated fragment contains a possible third-person thought tag but lacks enough context for reliable attribution."
+    },
+    {
+      "quote_id": "q00389",
+      "person_signal": "unclear",
+      "note": "An incomplete anatomical fragment with no identifiable narrating position."
+    },
+    {
+      "quote_id": "q00390",
+      "person_signal": "unclear",
+      "note": "The passage begins and ends mid-sentence, preventing reliable identification of the base voice."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/true-blue/excerpt",
+      "title": "True Blue by David Baldacci | Excerpt | Bookreporter.com",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A permission-reprinted excerpt spanning Chapters 1\u20135 consistently uses third-person narration while moving among Jamie Meldon, Mace Perry, and Roy Kingman."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/true-blue/9780446561976/",
+      "title": "True Blue by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The publisher page verifies the work and principal characters but provides only synopsis material, not narratorial prose or an explicit POV description."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/david-baldacci/true-blue-3/",
+      "title": "TRUE BLUE | Kirkus Reviews",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review describes the novel's characters and plot across the work but does not explicitly identify narrative person; its summary grammar is not POV evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"True Blue David Baldacci excerpt publisher first chapter\" and found the permission-reprinted Bookreporter excerpt covering Chapters 1\u20135.",
+    "Searched \"True Blue David Baldacci point of view third person narrator\", \"omniscient\", and related POV terms; no credible source explicitly describing the whole-book narrative person was found.",
+    "Searched exact interior phrases including \"Later that night Don Hope and Karl Reiger\" and \"BETH READ THROUGH the report\"; results primarily reproduced the Goodreads quotations or supplied chapter summaries rather than authorized interior prose.",
+    "Checked Hachette, Google Books, library-catalog, Kirkus, and review results; they verified the title and plot but did not provide usable whole-book POV evidence."
+  ],
+  "person_note": "Multiple Goodreads event passages independently show an external narrator presenting Mace, Beth, Hope, Reiger, and other characters in sustained third-person scenes. Dialogue and aphorisms containing I, we, or you are local material, while the incomplete fragments are not reliable evidence. The authorized five-chapter opening likewise maintains third-person narration across several focal characters, with no sign of a participating narrator or sustained person alternation. The label is medium confidence because the only strong web prose source is confined to the opening and no credible whole-book structural description was located. Audit: independent review confirmed that the authorized excerpt covers only Chapters 1\u20135 while the Goodreads sample supplies separate interior third-person scenes; THIRD/med is retained without treating plot-summary grammar as POV evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_048",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T19:51:25.874809+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f6c89fe7b441128c82ca4de58ef05d6da797a3a536a70ab7ac06b28c492a1aae"
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1974:6874",
+  "quotes": [
+    {
+      "quote_id": "q01999",
+      "person_signal": "non_base",
+      "note": "General maxim; no story narrator is exposed."
+    },
+    {
+      "quote_id": "q02000",
+      "person_signal": "non_base",
+      "note": "General reflection without story-specific narration."
+    },
+    {
+      "quote_id": "q02001",
+      "person_signal": "non_base",
+      "note": "Smiley's first-person dialogue; the brief speech tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q02002",
+      "person_signal": "non_base",
+      "note": "Aphorism rather than base narration."
+    },
+    {
+      "quote_id": "q02003",
+      "person_signal": "non_base",
+      "note": "Character speech and direct address."
+    },
+    {
+      "quote_id": "q02004",
+      "person_signal": "non_base",
+      "note": "General political maxim, clipped from its local context."
+    },
+    {
+      "quote_id": "q02005",
+      "person_signal": "non_base",
+      "note": "Aphoristic definition rather than story narration."
+    },
+    {
+      "quote_id": "q02006",
+      "person_signal": "non_base",
+      "note": "Character speech or reported opinion."
+    },
+    {
+      "quote_id": "q02007",
+      "person_signal": "non_base",
+      "note": "First and second persons occur inside character speech."
+    },
+    {
+      "quote_id": "q02008",
+      "person_signal": "non_base",
+      "note": "First- and second-person dialogue between characters."
+    },
+    {
+      "quote_id": "q02009",
+      "person_signal": "non_base",
+      "note": "Smiley's locally represented thought, not a participating narrator."
+    },
+    {
+      "quote_id": "q02010",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; short third-person speech beats are nondiagnostic."
+    },
+    {
+      "quote_id": "q02011",
+      "person_signal": "unclear",
+      "note": "The passage begins after an omitted subject, preventing local attribution."
+    },
+    {
+      "quote_id": "q02012",
+      "person_signal": "unmarked",
+      "note": "A short sentence about Smiley is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q02013",
+      "person_signal": "non_base",
+      "note": "Ann's sayings and opinions are locally quoted or reported."
+    },
+    {
+      "quote_id": "q02014",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02015",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02016",
+      "person_signal": "non_base",
+      "note": "Second person is used in character speech, not sustained base narration."
+    },
+    {
+      "quote_id": "q02017",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents Jackie externally while entering her perceptions and feelings."
+    },
+    {
+      "quote_id": "q02018",
+      "person_signal": "unmarked",
+      "note": "A single external statement about Smiley is too short to establish the base person."
+    },
+    {
+      "quote_id": "q02019",
+      "person_signal": "unclear",
+      "note": "Clipping and the abrupt fragment 'She felt' obscure the local boundaries."
+    },
+    {
+      "quote_id": "q02020",
+      "person_signal": "non_base",
+      "note": "Dialogue with a brief speech beat."
+    },
+    {
+      "quote_id": "q02021",
+      "person_signal": "third",
+      "note": "Sustained nonparticipating narration supplies Martindale's history and external characterization."
+    },
+    {
+      "quote_id": "q02022",
+      "person_signal": "non_base",
+      "note": "An attributed saying by Steed-Asprey."
+    },
+    {
+      "quote_id": "q02023",
+      "person_signal": "unmarked",
+      "note": "A short report of an unidentified character's thought is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02024",
+      "person_signal": "unmarked",
+      "note": "Brief third-person focalization without enough context to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q02025",
+      "person_signal": "non_base",
+      "note": "A question in character speech or thought."
+    },
+    {
+      "quote_id": "q02026",
+      "person_signal": "unmarked",
+      "note": "A short statement about an unidentified 'he' is locally nondiagnostic."
+    },
+    {
+      "quote_id": "q02027",
+      "person_signal": "non_base",
+      "note": "Character speech."
+    },
+    {
+      "quote_id": "q02028",
+      "person_signal": "unmarked",
+      "note": "Bare reference to an unidentified character and his saying."
+    },
+    {
+      "quote_id": "q02029",
+      "person_signal": "non_base",
+      "note": "A character's moral declaration or represented reflection."
+    },
+    {
+      "quote_id": "q02030",
+      "person_signal": "non_base",
+      "note": "Story-specific second person occurs entirely in dialogue."
+    },
+    {
+      "quote_id": "q02031",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks its subject and surrounding attribution."
+    },
+    {
+      "quote_id": "q02032",
+      "person_signal": "non_base",
+      "note": "Control's attributed teaching, not the base narrator's voice."
+    },
+    {
+      "quote_id": "q02033",
+      "person_signal": "third",
+      "note": "Extended narration externally frames a character while reporting his knowledge and judgments."
+    },
+    {
+      "quote_id": "q02034",
+      "person_signal": "third",
+      "note": "Sustained third-person career history includes the character's attributed supposition."
+    },
+    {
+      "quote_id": "q02035",
+      "person_signal": "non_base",
+      "note": "A visibly truncated fragment of character speech."
+    },
+    {
+      "quote_id": "q02036",
+      "person_signal": "unmarked",
+      "note": "A single evaluative sentence about Haydon and Guillam does not independently prove narrator participation."
+    },
+    {
+      "quote_id": "q02037",
+      "person_signal": "third",
+      "note": "Smiley is externally narrated and his first-person phrases are clearly local free-direct thought."
+    },
+    {
+      "quote_id": "q02038",
+      "person_signal": "third",
+      "note": "Third-person narration attributes the judgment and reflection to Smiley."
+    },
+    {
+      "quote_id": "q02039",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; first and second persons belong to the speakers."
+    },
+    {
+      "quote_id": "q02040",
+      "person_signal": "unmarked",
+      "note": "Brief reported material about an unidentified 'he' lacks enough framing context."
+    },
+    {
+      "quote_id": "q02041",
+      "person_signal": "unmarked",
+      "note": "An externally described pose is possible base narration but locally too brief to establish person."
+    },
+    {
+      "quote_id": "q02042",
+      "person_signal": "third",
+      "note": "The narrator frames quoted speech and presents Smiley's perception externally as 'he saw.'"
+    },
+    {
+      "quote_id": "q02043",
+      "person_signal": "unmarked",
+      "note": "A short third-person scene beat precedes Mendel's dialogue but is not independently decisive."
+    },
+    {
+      "quote_id": "q02044",
+      "person_signal": "non_base",
+      "note": "An attributed saying by Jim Prideaux."
+    },
+    {
+      "quote_id": "q02045",
+      "person_signal": "non_base",
+      "note": "A character's sustained first-person account embedded in dialogue."
+    },
+    {
+      "quote_id": "q02046",
+      "person_signal": "non_base",
+      "note": "A first-person eyewitness account inside character speech."
+    },
+    {
+      "quote_id": "q02047",
+      "person_signal": "non_base",
+      "note": "Dialogue and an embedded quotation, with only brief speech framing."
+    },
+    {
+      "quote_id": "q02048",
+      "person_signal": "non_base",
+      "note": "First person occurs in Smiley's dialogue; surrounding beats merely attribute the exchange."
+    },
+    {
+      "quote_id": "q02049",
+      "person_signal": "third",
+      "note": "After generic inclusive 'we,' the passage externally narrates Gerstmann and his posture."
+    },
+    {
+      "quote_id": "q02050",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Toby and Guillam as externally presented characters."
+    },
+    {
+      "quote_id": "q02051",
+      "person_signal": "unmarked",
+      "note": "A short character description, including quoted nicknames, is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02052",
+      "person_signal": "third",
+      "note": "Extended narration follows Guillam and Ellen; the closing address is local thought or rhetorical apostrophe."
+    },
+    {
+      "quote_id": "q02053",
+      "person_signal": "third",
+      "note": "Smiley's questions are framed by sustained third-person narration of his thinking."
+    },
+    {
+      "quote_id": "q02054",
+      "person_signal": "non_base",
+      "note": "A first-person anecdote spoken by a character, not constitutive narration."
+    },
+    {
+      "quote_id": "q02055",
+      "person_signal": "non_base",
+      "note": "Control's quoted speech."
+    },
+    {
+      "quote_id": "q02056",
+      "person_signal": "third",
+      "note": "Third-person narration reports Bill's changing positions through Smiley's memory."
+    },
+    {
+      "quote_id": "q02057",
+      "person_signal": "third",
+      "note": "Sustained third-person character history and Smiley focalization establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02058",
+      "person_signal": "third",
+      "note": "Extended third-person narration supplies Bland's history and Smiley's memories."
+    },
+    {
+      "quote_id": "q02059",
+      "person_signal": "unmarked",
+      "note": "One short sentence about Smiley's recruitment choice is insufficient by itself."
+    },
+    {
+      "quote_id": "q02060",
+      "person_signal": "non_base",
+      "note": "First and second persons occur in character dialogue."
+    },
+    {
+      "quote_id": "q02061",
+      "person_signal": "unmarked",
+      "note": "A brief sequence of named-character actions is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02062",
+      "person_signal": "third",
+      "note": "Sustained external characterization of Control includes his knowledge, preferences, and motives."
+    },
+    {
+      "quote_id": "q02063",
+      "person_signal": "third",
+      "note": "Extended biographical narration presents Alleline and other characters externally."
+    },
+    {
+      "quote_id": "q02064",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters."
+    },
+    {
+      "quote_id": "q02065",
+      "person_signal": "unmarked",
+      "note": "An isolated 'he' statement lacks enough local context to identify the narrator."
+    },
+    {
+      "quote_id": "q02066",
+      "person_signal": "non_base",
+      "note": "Haydon's autobiographical account is embedded in dialogue and reported speech."
+    },
+    {
+      "quote_id": "q02067",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Smiley's actions, expectations, and disappointment externally."
+    },
+    {
+      "quote_id": "q02068",
+      "person_signal": "third",
+      "note": "The narrator externally stages the farewell and infers Esterhase's preference and hope."
+    },
+    {
+      "quote_id": "q02069",
+      "person_signal": "unmarked",
+      "note": "An unattributed rhetorical reflection lacks sufficient local framing."
+    },
+    {
+      "quote_id": "q02070",
+      "person_signal": "non_base",
+      "note": "Quoted recollection, dialogue, and direct address are local character voices."
+    },
+    {
+      "quote_id": "q02071",
+      "person_signal": "third",
+      "note": "Third-person narration frames a character's memory; generic 'you' belongs to remembered instruction."
+    },
+    {
+      "quote_id": "q02072",
+      "person_signal": "non_base",
+      "note": "Mendel's explicitly attributed direct thought."
+    },
+    {
+      "quote_id": "q02073",
+      "person_signal": "third",
+      "note": "Sustained narration externally follows Mendel's watching, recognition, and observations."
+    },
+    {
+      "quote_id": "q02074",
+      "person_signal": "third",
+      "note": "Extended third-person free-indirect narration presents Mendel's opinions and present conclusion."
+    },
+    {
+      "quote_id": "q02075",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a character's later realization and memory."
+    },
+    {
+      "quote_id": "q02076",
+      "person_signal": "third",
+      "note": "The opening 'I' is Guillam's attributed thought; the framing and continuation narrate him as 'he.'"
+    },
+    {
+      "quote_id": "q02077",
+      "person_signal": "non_base",
+      "note": "Dialogue and Smiley's locally attributed thought dominate the passage."
+    },
+    {
+      "quote_id": "q02078",
+      "person_signal": "third",
+      "note": "Sustained external narration identifies and explains the letter without becoming its authorial voice."
+    },
+    {
+      "quote_id": "q02079",
+      "person_signal": "third",
+      "note": "Extended narration frames Smiley's reflections, actions, and elation in third person."
+    },
+    {
+      "quote_id": "q02080",
+      "person_signal": "non_base",
+      "note": "First and second persons occur in character speech."
+    },
+    {
+      "quote_id": "q02081",
+      "person_signal": "unmarked",
+      "note": "Brief description followed by generic inclusive 'us' does not expose a participating narrator."
+    },
+    {
+      "quote_id": "q02082",
+      "person_signal": "non_base",
+      "note": "Smiley's first-person description of Karla is embedded in dialogue."
+    },
+    {
+      "quote_id": "q02083",
+      "person_signal": "non_base",
+      "note": "The passage is an extended spoken account about Karla."
+    },
+    {
+      "quote_id": "q02084",
+      "person_signal": "unmarked",
+      "note": "One sentence of Guillam's perception is compatible with multiple possible frames."
+    },
+    {
+      "quote_id": "q02085",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Alleline and Guillam is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02086",
+      "person_signal": "unmarked",
+      "note": "Brief historical statement about named characters."
+    },
+    {
+      "quote_id": "q02087",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally presents Smiley and Ann and enters Smiley's suppositions and knowledge."
+    },
+    {
+      "quote_id": "q02088",
+      "person_signal": "third",
+      "note": "Smiley's repeated thought is explicitly framed by sustained third-person narration of his reading."
+    },
+    {
+      "quote_id": "q02089",
+      "person_signal": "third",
+      "note": "Extended narration presents Smiley's recollection and the historical participants externally."
+    },
+    {
+      "quote_id": "q02090",
+      "person_signal": "non_base",
+      "note": "Smiley's explicitly attributed reflection."
+    },
+    {
+      "quote_id": "q02091",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q02092",
+      "person_signal": "non_base",
+      "note": "Dialogue containing embedded quotations and direct address."
+    },
+    {
+      "quote_id": "q02093",
+      "person_signal": "non_base",
+      "note": "A first-person anecdote inside character speech."
+    },
+    {
+      "quote_id": "q02094",
+      "person_signal": "third",
+      "note": "Sustained narration externally presents Smiley's divided attention and memory."
+    },
+    {
+      "quote_id": "q02095",
+      "person_signal": "non_base",
+      "note": "Connie's extended first-person plural account in dialogue."
+    },
+    {
+      "quote_id": "q02096",
+      "person_signal": "non_base",
+      "note": "Connie's dialogue and quoted speech, with brief attribution beats."
+    },
+    {
+      "quote_id": "q02097",
+      "person_signal": "third",
+      "note": "Although dialogue is prominent, several sustained outside beats narrate Connie and Smiley externally."
+    },
+    {
+      "quote_id": "q02098",
+      "person_signal": "third",
+      "note": "The first-person phrase is Smiley's local thought, surrounded by sustained third-person memory narration."
+    },
+    {
+      "quote_id": "q02099",
+      "person_signal": "unmarked",
+      "note": "A short authorial comparison about Smiley is not independently conclusive."
+    },
+    {
+      "quote_id": "q02100",
+      "person_signal": "third",
+      "note": "After Toby's speech, sustained narration externally describes Toby and Guillam's experience of him."
+    },
+    {
+      "quote_id": "q02101",
+      "person_signal": "unmarked",
+      "note": "A single evaluative sentence focalized through Guillam is locally insufficient."
+    },
+    {
+      "quote_id": "q02102",
+      "person_signal": "third",
+      "note": "Quoted instruction and Guillam's thought are explicitly embedded within third-person framing."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241337158/9780241337158-sample.pdf",
+      "title": "Tinker Tailor Soldier Spy \u2014 Penguin Classics sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized 41-page publisher sample sustains third-person narration across the opening chapters and shifts focalization among Roach, Prideaux, Smiley, and Guillam without introducing a participating narrator."
+    },
+    {
+      "url": "https://www.masterclass.com/articles/margaret-atwood-recommends-12-examples-of-point-of-view-in-literature",
+      "title": "Margaret Atwood Recommends 12 Examples of Point of View in Literature",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "MasterClass places the novel in Atwood's third-person reading list and explicitly characterizes it as third-person narration shaped by the many-character novel."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-tinker-tailor-soldier-spy/style.html",
+      "title": "John le Carr\u00e9 Writing Styles in Tinker, Tailor, Soldier, Spy",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly states that the book is written in third person and explains that Smiley is the principal focal character while events beyond his presence are also narrated."
+    },
+    {
+      "url": "https://greilmarcus.net/2015/04/23/undercover-le-carre-trips-on-his-own-tricks-021780/",
+      "title": "Undercover: Le Carre Trips on His Own Tricks (Rolling Stone, 1980)",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "THIRD",
+      "note": "The criticism describes le Carr\u00e9's relevant novels as using an anonymous third person generally focalized through Smiley and specifically identifies Smiley's central role in Tinker, Tailor, Soldier, Spy."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Tinker Tailor Soldier Spy\" \"John le Carr\u00e9\" excerpt, first chapter, and publisher sample; opened the Penguin Classics PDF and the Sceptre/Lovereading opening extract.",
+    "Searched: \"Tinker Tailor Soldier Spy\" third person, point of view, narrator, narrative perspective, and focalization; opened the MasterClass, BookRags, and Greil Marcus discussions.",
+    "Searched scholarly and university sources for narrator structure; the Lancaster stylistics result supplied an interior passage and discussed point-of-view manipulation, but its page failed to open reliably and was not used as evidence.",
+    "Opened the Google Books record, but it provided catalog and synopsis material rather than usable sustained prose, so it was not used as person evidence.",
+    "Targeted searches found no credible indication of sustained first- or second-person base sections or an alternating-person structure."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. Numerous interior quote passages sustain external narration while moving through the perceptions of Smiley, Guillam, Prideaux, Jackie Lacon, Mendel, and others; this agrees with the authorized Penguin opening and explicit whole-book POV descriptions. Visible first-person forms belong to dialogue, autobiographical anecdotes, or directly represented thoughts, while second-person forms are dialogue, instruction, or generic address. Generic inclusive 'we' passages do not make the narrator a story participant. The novel shifts focal character and contains embedded recollections and documents, but the research found no sustained base section in another grammatical person. The main scope limitation is that the Tier A publisher evidence covers the opening rather than the entire novel, offset by extensive interior quotations and multiple explicit whole-book descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_018",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T05:55:49.959357+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4292455e505688e97b825db1929b6d4bf15b8f830edc8932ce8fb08c5daf3142"
+  }
+}

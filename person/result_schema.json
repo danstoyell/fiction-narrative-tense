@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "sample_id",
+    "quotes",
+    "person_label",
+    "person_confidence",
+    "web_evidence",
+    "search_log",
+    "person_note"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 1
+    },
+    "sample_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "quotes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["quote_id", "person_signal", "note"],
+        "properties": {
+          "quote_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "person_signal": {
+            "type": "string",
+            "enum": ["first", "second", "third", "unmarked", "non_base", "unclear"]
+          },
+          "note": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "person_label": {
+      "type": "string",
+      "enum": ["FIRST", "SECOND", "THIRD", "ALTERNATING", "UNCLEAR", "INSUFFICIENT", "EXCLUDED"]
+    },
+    "person_confidence": {
+      "type": "string",
+      "enum": ["high", "med", "CONFLICT", ""]
+    },
+    "web_evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url", "title", "tier", "scope", "supports", "note"],
+        "properties": {
+          "url": {
+            "type": "string",
+            "minLength": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tier": {
+            "type": "string",
+            "enum": ["A", "B", "C", "D"]
+          },
+          "scope": {
+            "type": "string",
+            "enum": ["whole_book", "named_section", "opening", "interior", "unknown"]
+          },
+          "supports": {
+            "type": "string",
+            "enum": ["FIRST", "SECOND", "THIRD", "ALTERNATING", "none"]
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "search_log": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "person_note": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

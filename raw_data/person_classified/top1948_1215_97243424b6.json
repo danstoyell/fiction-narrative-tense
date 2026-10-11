@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1948:1215",
+  "quotes": [
+    {
+      "quote_id": "q00407",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00408",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q00409",
+      "person_signal": "non_base",
+      "note": "Lyrical apostrophe and generic imperatives, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00410",
+      "person_signal": "non_base",
+      "note": "Msimangu's first-person speech, not the controlling narrator; the event bucket appears misleading."
+    },
+    {
+      "quote_id": "q00411",
+      "person_signal": "non_base",
+      "note": "Dialogue; the surrounding speech beat does not make its first-person statements narratorial."
+    },
+    {
+      "quote_id": "q00412",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison of sorrow and fear."
+    },
+    {
+      "quote_id": "q00413",
+      "person_signal": "non_base",
+      "note": "A maxim associated with Arthur Jarvis's embedded manuscript, not base narration."
+    },
+    {
+      "quote_id": "q00414",
+      "person_signal": "non_base",
+      "note": "Gnomic legal commentary rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00415",
+      "person_signal": "third",
+      "note": "Sustained external narration surveys a group, the country, and an unnamed man without a participating narrator."
+    },
+    {
+      "quote_id": "q00416",
+      "person_signal": "unmarked",
+      "note": "Narratorial description of dawn contains no diagnostic person."
+    },
+    {
+      "quote_id": "q00417",
+      "person_signal": "non_base",
+      "note": "A local ironic first-person-plural chorus of fearful citizens, consistent with the novel's montage chapters, not its controlling narrator."
+    },
+    {
+      "quote_id": "q00418",
+      "person_signal": "unclear",
+      "note": "The clipped fragment has no recoverable narratorial structure."
+    },
+    {
+      "quote_id": "q00419",
+      "person_signal": "non_base",
+      "note": "Gnomic and devotional meditation using generic humanity."
+    },
+    {
+      "quote_id": "q00420",
+      "person_signal": "non_base",
+      "note": "First-person wording from Arthur Jarvis's embedded personal manifesto, not the base narrator."
+    },
+    {
+      "quote_id": "q00421",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question."
+    },
+    {
+      "quote_id": "q00422",
+      "person_signal": "non_base",
+      "note": "Gnomic collective assertion; its 'we' does not identify a participating narrator."
+    },
+    {
+      "quote_id": "q00423",
+      "person_signal": "unmarked",
+      "note": "A single statement about an unnamed man's habit is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q00424",
+      "person_signal": "third",
+      "note": "The nonparticipating voice ranges externally over the strike, harbor, forest, and hidden decay."
+    },
+    {
+      "quote_id": "q00425",
+      "person_signal": "non_base",
+      "note": "Gnomic prophecy about emancipation, not a participating narrator's story."
+    },
+    {
+      "quote_id": "q00426",
+      "person_signal": "non_base",
+      "note": "Dialogue."
+    },
+    {
+      "quote_id": "q00427",
+      "person_signal": "unmarked",
+      "note": "Generic rhetorical questions about 'a man' do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00428",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address, not sustained protagonist-as-you narration."
+    },
+    {
+      "quote_id": "q00429",
+      "person_signal": "non_base",
+      "note": "Gnomic social argument rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00430",
+      "person_signal": "third",
+      "note": "Sustained external scene narration describes the sleeping man, approaching storm, and passing people from outside the action."
+    },
+    {
+      "quote_id": "q00431",
+      "person_signal": "non_base",
+      "note": "Jarvis's first-person direct speech in the surrounding scene; the event bucket appears misleading."
+    },
+    {
+      "quote_id": "q00432",
+      "person_signal": "non_base",
+      "note": "Collective exhortation about labor, not the base narrator's participation."
+    },
+    {
+      "quote_id": "q00433",
+      "person_signal": "non_base",
+      "note": "Gnomic repetition about sorrow and fear."
+    },
+    {
+      "quote_id": "q00434",
+      "person_signal": "unmarked",
+      "note": "A descriptive fragment about generic fear does not identify narrator person."
+    },
+    {
+      "quote_id": "q00435",
+      "person_signal": "non_base",
+      "note": "Dialogue."
+    },
+    {
+      "quote_id": "q00436",
+      "person_signal": "non_base",
+      "note": "Gnomic legal maxim."
+    },
+    {
+      "quote_id": "q00437",
+      "person_signal": "non_base",
+      "note": "Gnomic collective declaration; 'we' belongs to a local social voice rather than controlling narration."
+    },
+    {
+      "quote_id": "q00438",
+      "person_signal": "third",
+      "note": "Extended free-indirect questions render an externally designated man's private fears and thoughts."
+    },
+    {
+      "quote_id": "q00439",
+      "person_signal": "non_base",
+      "note": "Extended dialogue; first- and second-person pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q00440",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence about 'he' does not exclude a participating narrator outside the excerpt."
+    },
+    {
+      "quote_id": "q00441",
+      "person_signal": "third",
+      "note": "The narrator externally recounts the murderer's infancy and family history without participating in the scene."
+    },
+    {
+      "quote_id": "q00442",
+      "person_signal": "non_base",
+      "note": "First-person passage from Arthur Jarvis's embedded manuscript, not controlling narration."
+    },
+    {
+      "quote_id": "q00443",
+      "person_signal": "unmarked",
+      "note": "Broad rhetorical questions about generic people and lovers do not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00444",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism."
+    },
+    {
+      "quote_id": "q00445",
+      "person_signal": "unmarked",
+      "note": "Generic 'him' in a clipped warning does not identify the narrator."
+    },
+    {
+      "quote_id": "q00446",
+      "person_signal": "unmarked",
+      "note": "Choric commentary about anonymous voices contains no participating narrator."
+    },
+    {
+      "quote_id": "q00447",
+      "person_signal": "third",
+      "note": "Sustained external narration follows an unnamed man and the child he observes."
+    },
+    {
+      "quote_id": "q00448",
+      "person_signal": "non_base",
+      "note": "Dialogue; its first- and second-person pronouns are spoken."
+    },
+    {
+      "quote_id": "q00449",
+      "person_signal": "third",
+      "note": "Free-indirect questions expose the externally designated focal character's private pondering."
+    },
+    {
+      "quote_id": "q00450",
+      "person_signal": "third",
+      "note": "External narration describes the humble man's action and focalized sense of certainty."
+    },
+    {
+      "quote_id": "q00451",
+      "person_signal": "unmarked",
+      "note": "An isolated question about 'he' lacks enough framing to establish narrator person."
+    },
+    {
+      "quote_id": "q00452",
+      "person_signal": "non_base",
+      "note": "Reported sermon or speech; first-person-plural language belongs to the local speaker."
+    },
+    {
+      "quote_id": "q00453",
+      "person_signal": "non_base",
+      "note": "Reported speech containing a local first-person meditation."
+    },
+    {
+      "quote_id": "q00454",
+      "person_signal": "non_base",
+      "note": "Gnomic imperatives and generic address, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00455",
+      "person_signal": "unmarked",
+      "note": "Generic conditional 'you' explains migration to Johannesburg; it does not cast a protagonist as you."
+    },
+    {
+      "quote_id": "q00456",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates the women, approaching party, Kumalo, and the gathered worshippers."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://repository.up.ac.za/server/api/core/bitstreams/9ef556f5-bbd1-423f-aa7e-2e250dfacf82/content",
+      "title": "Lost in the Stars: Kurt Weill and Maxwell Anderson's Musical Adaptation of Alan Paton's Novel Cry the Beloved Country",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "University of Pretoria dissertation analyzes all three books and explicitly calls the novel's controlling voice a third-person storyteller while distinguishing the Kumalo and Jarvis perspectives."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/cry/facts/",
+      "title": "Cry, the Beloved Country: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies an omniscient third-person narrator, with Books I and III focalized mainly through Kumalo and Book II mainly through Jarvis; it also identifies local montage-of-voices chapters."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/cry-beloved-country",
+      "title": "Cry, the Beloved Country",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis explicitly calls the work a third-person narrative and distinguishes the outside lyrical voice, character speech, and Arthur Jarvis's documents."
+    },
+    {
+      "url": "https://www.readinggroupguides.com/reviews/cry-the-beloved-country/excerpt",
+      "title": "Cry, The Beloved Country by Alan Paton: Excerpt",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained Chapter 1 excerpt presents an external landscape narrator; its generic locative 'you' addresses a reader standing in the landscape, not a story protagonist."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/cry/quotes/section/book-i-chapters-46/",
+      "title": "Cry, the Beloved Country Quotes: Book 1, Chapters 4\u20136",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Interior passages narrate Kumalo externally as 'he' and report his changing feelings without a participating narrative frame."
+    },
+    {
+      "url": "https://digitallibrary.un.org/record/8958/files/A_34_PV.57-EN.pdf",
+      "title": "United Nations General Assembly, 34th Session, 57th Plenary Meeting",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "Useful only for local attribution: it identifies the q00410 first-person declaration as words spoken by Msimangu near the novel's end."
+    },
+    {
+      "url": "https://www.spsnational.org/sites/default/files/files/publications/radiations/2019/Radiations-FALL-2019-web-final.pdf",
+      "title": "Radiations, Fall 2019",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "Useful only for local attribution: it identifies the 'life slips away' first-person material as Arthur Jarvis's personal manifesto found by his father."
+    }
+  ],
+  "search_log": [
+    "Searched \"Cry, the Beloved Country\" \"Alan Paton\" excerpt and first chapter; opened the ReadingGroupGuides Chapter 1 extract.",
+    "Searched \"Cry, the Beloved Country\" point of view, narrator, third person, multiple narrators, and alternating narration; opened SparkNotes, Encyclopedia.com, and the University of Pretoria dissertation.",
+    "Searched publisher and library domains, including Penguin Random House and Internet Archive; no usable direct publisher or library full-book excerpt was located.",
+    "Searched exact first-person phrases from q00410, q00420, q00431, and q00442 to test whether they were controlling narration; results attributed them respectively to Msimangu's speech, Jarvis's speech, and Arthur Jarvis's embedded writings.",
+    "Opened an unattributed online text reproduction to inspect q00431's surrounding dialogue, but treated it only as Tier D discovery material and did not use it to establish the book-level label."
+  ],
+  "person_note": "The controlling narrator is a nonparticipating third-person voice, with focalization shifting mainly between Stephen Kumalo and James Jarvis. Multiple quote passages independently expose sustained external narration and free-indirect access to characters, agreeing with the whole-book structural analysis. Apparent contrary first-person material is local: q00410 and q00431 are character speech, q00420 and q00442 belong to Arthur Jarvis's embedded writings, and q00417 is an ironic communal chorus within one of the montage chapters. Generic 'you' in q00455 and the opening landscape is reader-facing or hypothetical, not sustained narration of a protagonist. Sources differ over whether the third-person narrator is omniscient or more restricted, but that focalization dispute does not affect narrative person; no credible evidence indicates sustained first- or second-person base sections.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_006",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:21:42.964002+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "49999072611d3b7d9e65ff27254d5a6402120d3afabc4c85427cd8e847a20dd2"
+  }
+}

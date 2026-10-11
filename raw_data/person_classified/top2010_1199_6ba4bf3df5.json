@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:1199",
+  "quotes": [
+    {
+      "quote_id": "q01679",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Denny and Mitch as 'they,' with no participating narrator framing the passage."
+    },
+    {
+      "quote_id": "q01680",
+      "person_signal": "unmarked",
+      "note": "The isolated sentence contains no narrator reference and cannot establish person."
+    },
+    {
+      "quote_id": "q01681",
+      "person_signal": "unclear",
+      "note": "A standalone location phrase lacks enough narrative context to identify a voice."
+    },
+    {
+      "quote_id": "q01682",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary, apparently within quoted speech, does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01683",
+      "person_signal": "first",
+      "note": "After an explicit Chapter 100 boundary, Alex narrates as 'I' and 'our'; the preceding sustained Denny passage is third-person base narration and independently reveals the book's mixed structure."
+    },
+    {
+      "quote_id": "q01684",
+      "person_signal": "first",
+      "note": "Outside the direct speech, the beats 'I said' and 'She laughed and reached up to kiss me' expose a participating first-person narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/cross-fire/excerpt",
+      "title": "Cross Fire by James Patterson | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The sustained, copyright-credited excerpt alternates third-person Denny/Mitch chapters 1\u20132 and 5 with Alex's first-person chapter 3."
+    },
+    {
+      "url": "https://samtamlyn.wordpress.com/articles/point-of-view-principles/",
+      "title": "He Said/She Said/I Said: Point of View Principles",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "ALTERNATING",
+      "note": "An explicit series-level description says Alex Cross mysteries use Alex's first-person viewpoint and switch to third person for criminals."
+    },
+    {
+      "url": "https://savvyverseandwit.com/2015/03/cross-fire-by-james-patterson-audio.html",
+      "title": "Cross Fire by James Patterson (audio)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review confirms separate Alex Cross and Kyle Craig chapter streams and performers, corroborating the structural division but not by itself establishing grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Cross Fire James Patterson excerpt\", \"first chapter\", and exact opening phrases; found the sustained Bookreporter excerpt containing both first- and third-person chapters.",
+    "Searched \"Cross Fire James Patterson point of view\", \"first person\", \"third person\", and \"alternating\"; found an explicit description of the Alex Cross series' first/third-person switching pattern.",
+    "Located Penguin's publisher-hosted sample PDF at https://cdn.penguin.co.uk/dam-assets/books/9780099514596/9780099514596-sample.pdf, but the live reader could not open it because of its file size, so it was not relied upon as evidence.",
+    "Opened the Hachette/James Patterson title page to verify the work and edition; its synopsis was nondiagnostic for narrative person.",
+    "Checked audiobook reviews and catalog results; the Savvy Verse & Wit review confirmed separate character chapter streams, while AudioFile's two-performer listing did not explicitly identify grammatical person."
+  ],
+  "person_note": "Cross Fire sustains two base modes: Alex Cross narrates his chapters in first person, while Denny, Mitch, Kyle Craig, and other antagonist material is narrated in third person. The Goodreads evidence captures both modes\u2014including an interior transition at Chapter 100\u2014and the credited opening excerpt independently alternates them across chapters. Dialogue and gnomic fragments were not promoted to base narration. No credible contrary structure was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.246475+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "98edbca0cf93ac3071296a4fa10a63ff0914d1e45a3ff39bd8e4bc44a944d0e4"
+  }
+}

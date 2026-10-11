@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:5131",
+  "quotes": [
+    {
+      "quote_id": "q00659",
+      "person_signal": "non_base",
+      "note": "General advice using generic you; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00660",
+      "person_signal": "first",
+      "note": "The narratorial speech tag \u201cI said\u201d exposes the participating narrator outside the quoted dialogue."
+    },
+    {
+      "quote_id": "q00661",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but \u201cyou\u201d is generic and the passage does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q00662",
+      "person_signal": "first",
+      "note": "The lawyer-narrator describes his own courtroom intention as \u201cI intended.\u201d"
+    },
+    {
+      "quote_id": "q00663",
+      "person_signal": "first",
+      "note": "Participating narration is explicit in \u201cI felt sympathy.\u201d"
+    },
+    {
+      "quote_id": "q00664",
+      "person_signal": "first",
+      "note": "The narrator reports his own continuing suspicion with \u201cI have always had.\u201d"
+    },
+    {
+      "quote_id": "q00665",
+      "person_signal": "first",
+      "note": "The narrator recounts his own physical action as \u201cI put my hand\u201d; the later you is generic."
+    },
+    {
+      "quote_id": "q00666",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration uses I, my, and me to describe the narrator's legal practice."
+    },
+    {
+      "quote_id": "q00667",
+      "person_signal": "non_base",
+      "note": "Expository legal information contains no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00668",
+      "person_signal": "first",
+      "note": "The participating narrator marks the judgment as \u201cin my view.\u201d"
+    },
+    {
+      "quote_id": "q00669",
+      "person_signal": "non_base",
+      "note": "General legal exposition about preliminary hearings is nondiagnostic."
+    },
+    {
+      "quote_id": "q00670",
+      "person_signal": "non_base",
+      "note": "The passage is dominated by character speech; its bare third-person speech beat does not establish narrative person."
+    },
+    {
+      "quote_id": "q00671",
+      "person_signal": "unclear",
+      "note": "The clipped dialogue fragment ends with an unattached \u201cI,\u201d leaving its local function unresolved."
+    },
+    {
+      "quote_id": "q00672",
+      "person_signal": "unmarked",
+      "note": "A named character and third-person pronoun appear, but the short statement does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00673",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person reference to \u201cshe\u201d does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q00674",
+      "person_signal": "first",
+      "note": "After describing the defendant, the participating narrator reports \u201cI jumped right on it.\u201d"
+    },
+    {
+      "quote_id": "q00675",
+      "person_signal": "non_base",
+      "note": "Quoted courtroom speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00676",
+      "person_signal": "first",
+      "note": "The narrator directly recounts his action as \u201cI reversed the search video.\u201d"
+    },
+    {
+      "quote_id": "q00677",
+      "person_signal": "unmarked",
+      "note": "The assessment of Opparizio lacks a narrator-identifying pronoun or sufficient framing."
+    },
+    {
+      "quote_id": "q00678",
+      "person_signal": "non_base",
+      "note": "Generic jury-trial advice uses universal you rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00679",
+      "person_signal": "non_base",
+      "note": "The clipped material is recognizably dialogue and supplies no base-narrator evidence."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.michaelconnelly.com/writing/thefifthwitness/the-fifth-witness-excerpt/",
+      "title": "The Fifth Witness Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's authorized, sustained excerpt from Chapters One and Two has Mickey Haller narrating his actions, perceptions, history, and client relationship as I/my."
+    },
+    {
+      "url": "https://www.michaelconnelly.com/writing/thefifthwitness/the-fifth-witness-reading-guide/",
+      "title": "The Fifth Witness Reading Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The official guide says its questions cover the entire book and reproduces first-person statements attributed to Mickey from the case, his family relationships, and the ending."
+    },
+    {
+      "url": "https://petronatwo.wordpress.com/2011/04/16/book-review-the-fifth-witness-by-michael-connelly/",
+      "title": "Book review: The Fifth Witness by Michael Connelly",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A contemporaneous review explicitly identifies the Mickey Haller novels, including this reviewed volume, as first-person narratives and contrasts them with the third-person Bosch series."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMichael Connelly The Fifth Witness excerpt first chapter\u201d and opened the authorized excerpt on the author's website.",
+    "Searched the author's site for The Fifth Witness excerpt, reading guide, audiobook material, and Q&A; the audiobook page identified only the performer, while the excerpt and reading guide supplied usable prose evidence.",
+    "Searched \u201cThe Fifth Witness first person narrator\u201d and \u201cThe Fifth Witness point of view Mickey Haller\u201d; opened the explicit Petrona review and checked weaker review results.",
+    "Searched the Los Angeles Times, Publishers Weekly, and Kirkus for narration descriptions; available results mainly summarized the plot or called Haller the narrative focus without explicitly establishing grammatical person.",
+    "Searched for alternating narration, epistolary form, diaries, frames, and multiple narrators; found no credible indication that The Fifth Witness departs from Mickey Haller's first-person base narration."
+  ],
+  "person_note": "The Goodreads evidence repeatedly exposes Mickey Haller as the participating I-narrator in actions, perceptions, legal strategy, and personal history. The authorized opening independently sustains the same voice, while the official whole-book reading guide samples Mickey's first-person statements through later events and the ending; an explicit contemporaneous review confirms the Haller narration is first person. Generic you passages are advice rather than second-person storytelling, and third-person references merely describe other characters within Mickey's narration. No evidence of sustained sections in another person was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_050",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T03:17:09.386904+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3b35b60619ed3b30885b3c7f00dcc5670661a461bca2d7588b46b516ba8f0306"
+  }
+}

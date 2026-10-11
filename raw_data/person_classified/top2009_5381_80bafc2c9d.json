@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:5381",
+  "quotes": [
+    {
+      "quote_id": "q01791",
+      "person_signal": "non_base",
+      "note": "Direct speech using story-specific you; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01792",
+      "person_signal": "non_base",
+      "note": "Direct speech and quoted self-address; neither use of you is base narration."
+    },
+    {
+      "quote_id": "q01793",
+      "person_signal": "first",
+      "note": "Narratorial I reports the speaker's own mental state."
+    },
+    {
+      "quote_id": "q01794",
+      "person_signal": "non_base",
+      "note": "Direct speech does not identify narrative person."
+    },
+    {
+      "quote_id": "q01795",
+      "person_signal": "non_base",
+      "note": "The bucket marks this as dialogue, so its we and I belong to speech rather than base narration."
+    },
+    {
+      "quote_id": "q01796",
+      "person_signal": "non_base",
+      "note": "Imperative direct speech does not identify the narrator."
+    },
+    {
+      "quote_id": "q01797",
+      "person_signal": "unmarked",
+      "note": "The statement about Stuart lacks a narratorial self-reference and alone is compatible with first- or third-person narration."
+    },
+    {
+      "quote_id": "q01798",
+      "person_signal": "first",
+      "note": "Narratorial beats such as I say and I gives surround an embedded story and expose Aibileen's participating narration."
+    },
+    {
+      "quote_id": "q01799",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrative context."
+    },
+    {
+      "quote_id": "q01800",
+      "person_signal": "first",
+      "note": "Narratorial I describes the narrator's recurring action and reasoning."
+    },
+    {
+      "quote_id": "q01801",
+      "person_signal": "first",
+      "note": "Narratorial I explicitly describes the narrator's view of Aibileen."
+    },
+    {
+      "quote_id": "q01802",
+      "person_signal": "first",
+      "note": "Narratorial I recounts a personal realization."
+    },
+    {
+      "quote_id": "q01803",
+      "person_signal": "non_base",
+      "note": "Direct speech does not identify base narration."
+    },
+    {
+      "quote_id": "q01804",
+      "person_signal": "non_base",
+      "note": "Direct speech does not identify base narration."
+    },
+    {
+      "quote_id": "q01805",
+      "person_signal": "non_base",
+      "note": "Aphoristic material in the gnomic bucket is not reliable evidence of controlling narration."
+    },
+    {
+      "quote_id": "q01806",
+      "person_signal": "first",
+      "note": "Narratorial I recounts an internal change in the participating character."
+    },
+    {
+      "quote_id": "q01807",
+      "person_signal": "first",
+      "note": "Narratorial I reports the narrator's story-specific wondering."
+    },
+    {
+      "quote_id": "q01808",
+      "person_signal": "first",
+      "note": "Repeated narratorial I recounts the narrator's grief and actions."
+    },
+    {
+      "quote_id": "q01809",
+      "person_signal": "first",
+      "note": "Narratorial I reports an embodied sensation and internal utterance."
+    },
+    {
+      "quote_id": "q01810",
+      "person_signal": "non_base",
+      "note": "Gnomic observation contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01811",
+      "person_signal": "non_base",
+      "note": "Gnomic statement does not establish narrative person."
+    },
+    {
+      "quote_id": "q01812",
+      "person_signal": "first",
+      "note": "Narratorial me identifies the participating narrator's feeling."
+    },
+    {
+      "quote_id": "q01813",
+      "person_signal": "non_base",
+      "note": "The gnomic us and generic you describe a class of girls rather than sustained story narration."
+    },
+    {
+      "quote_id": "q01814",
+      "person_signal": "first",
+      "note": "Narratorial I recounts a personal memory of Constantine."
+    },
+    {
+      "quote_id": "q01815",
+      "person_signal": "unmarked",
+      "note": "A third-person subject alone does not distinguish first-person narration about another character from third-person narration."
+    },
+    {
+      "quote_id": "q01816",
+      "person_signal": "first",
+      "note": "Narratorial my and I explicitly include the narrator in the comparison."
+    },
+    {
+      "quote_id": "q01817",
+      "person_signal": "first",
+      "note": "Narratorial he kissed me and references to my body expose participating narration."
+    },
+    {
+      "quote_id": "q01818",
+      "person_signal": "non_base",
+      "note": "Direct address occurs wholly in character speech."
+    },
+    {
+      "quote_id": "q01819",
+      "person_signal": "first",
+      "note": "Narratorial I tell myself controls the passage; the embedded you is generic."
+    },
+    {
+      "quote_id": "q01820",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in direct speech."
+    },
+    {
+      "quote_id": "q01821",
+      "person_signal": "first",
+      "note": "Repeated narratorial I describes the narrator's interaction with another character."
+    },
+    {
+      "quote_id": "q01822",
+      "person_signal": "non_base",
+      "note": "The gnomic you is generic rather than a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q01823",
+      "person_signal": "non_base",
+      "note": "This is a speaker-attributed oral account embedded in dialogue, not the novel's base narration."
+    },
+    {
+      "quote_id": "q01824",
+      "person_signal": "first",
+      "note": "Outside the quoted words, were Hilly's words to me and I thought expose participating narration."
+    },
+    {
+      "quote_id": "q01825",
+      "person_signal": "first",
+      "note": "Narratorial I recounts a personal relationship and memory; quoted you is local remembered meaning."
+    },
+    {
+      "quote_id": "q01826",
+      "person_signal": "first",
+      "note": "Narratorial I, our, and me frame the embedded Martian story and identify Aibileen as a participating narrator."
+    },
+    {
+      "quote_id": "q01827",
+      "person_signal": "unmarked",
+      "note": "The story-specific reflection names other characters but contains no decisive narratorial self-reference."
+    },
+    {
+      "quote_id": "q01828",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question does not establish narrative person."
+    },
+    {
+      "quote_id": "q01829",
+      "person_signal": "first",
+      "note": "Narratorial I describes Aibileen's interaction with Mae Mobley; the quoted you belongs to dialogue."
+    },
+    {
+      "quote_id": "q01830",
+      "person_signal": "first",
+      "note": "Narratorial I recounts the narrator's firing and realization about shame."
+    },
+    {
+      "quote_id": "q01831",
+      "person_signal": "non_base",
+      "note": "The gnomic your and you are generic, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01832",
+      "person_signal": "first",
+      "note": "Narratorial we explicitly includes the white participating narrator in the social group discussed."
+    },
+    {
+      "quote_id": "q01833",
+      "person_signal": "unmarked",
+      "note": "External description of Miss Leefolt lacks enough context to establish narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q01834",
+      "person_signal": "first",
+      "note": "Narratorial I and Mother describe the participating narrator's present action and reflection."
+    },
+    {
+      "quote_id": "q01835",
+      "person_signal": "first",
+      "note": "Although dialogue dominates, the outside beat I sigh diagnostically exposes participating narration."
+    },
+    {
+      "quote_id": "q01836",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you does not identify base narration."
+    },
+    {
+      "quote_id": "q01837",
+      "person_signal": "non_base",
+      "note": "Gnomic verse with generic you is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01838",
+      "person_signal": "first",
+      "note": "Narratorial I reports the narrator's action and thought."
+    },
+    {
+      "quote_id": "q01839",
+      "person_signal": "non_base",
+      "note": "Direct speech uses generic you and does not identify the narrator."
+    },
+    {
+      "quote_id": "q01840",
+      "person_signal": "first",
+      "note": "Repeated narratorial I recounts Aibileen's experience and regret."
+    },
+    {
+      "quote_id": "q01841",
+      "person_signal": "non_base",
+      "note": "The prescriptive rule is embedded gnomic material rather than base narration."
+    },
+    {
+      "quote_id": "q01842",
+      "person_signal": "non_base",
+      "note": "Direct speech and quoted self-address do not establish the book's narrative person."
+    },
+    {
+      "quote_id": "q01843",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q01844",
+      "person_signal": "first",
+      "note": "Narratorial my identifies the participating narrator's sister and family recollection."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://crea.ujaen.es/bitstreams/5beddae3-b6be-4784-948a-662883513da7/download",
+      "title": "The Presence of Africanisms and the Representation of Blackness in Contemporary North American Literature Written by White Women",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "University-hosted scholarly analysis states that Skeeter, Aibileen, and Minny narrate in first person and that Chapter XXV, The Benefit, is instead told by an omniscient narrator, establishing sustained first- and third-person sections."
+    },
+    {
+      "url": "https://www.williamsphysics.co.uk/english/alevel/aqa/notebook/lit_modern_the_help",
+      "title": "A-Level English Literature (AQA) \u2013 The Help",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The educational analysis explicitly describes the novel's rotation among three first-person narrators and identifies Chapter 25, The Benefit, as a shift to third-person narration."
+    },
+    {
+      "url": "https://www.coursehero.com/lit/The-Help/chapter-25-summary/",
+      "title": "The Help Chapter 25 Summary",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The chapter guide identifies The Benefit as the sole chapter narrated by an unnamed third-person narrator; this is component evidence for the exceptional section, not independently sufficient whole-book ALTERNATING support."
+    },
+    {
+      "url": "https://d4iqe7beda780.cloudfront.net/resources/static/main/pdf/pen6533_the_help_teacher_notes.pdf",
+      "title": "A Teacher's Guide to The Help by Kathryn Stockett",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Penguin's teacher guide treats Chapter 25, The Benefit, as narrationally different from the rest of the novel, corroborating that the chapter is structurally exceptional without itself naming both grammatical persons."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Help\" \"Kathryn Stockett\" publisher excerpt first person narrators Aibileen Minny Skeeter.",
+    "Searched: \"The Help\" three first-person narrators point of view scholarly; found a KCI article describing the alternating character narrators but not the exceptional third-person chapter.",
+    "Searched: \"The Help\" \"The Benefit\" \"third person\" narrator chapter and opened explicit chapter-structure sources.",
+    "Searched university and academic domains for \"The Help\" Chapter 25 third person; opened the University of Ja\u00e9n thesis, which explicitly identifies both the three first-person narrators and the omniscient Chapter XXV.",
+    "Opened Penguin Random House's author Q&A and Penguin's teacher guide; the Q&A discusses the three women's voices, while the guide flags Chapter 25's different narration but does not explicitly name both persons.",
+    "No authorized sustained excerpt covering both the ordinary first-person chapters and Chapter 25 was located."
+  ],
+  "person_note": "The quotes repeatedly and unmistakably expose participating first-person narration by the novel's character narrators, but the popularity-selected sample contains no passage from the exceptional Chapter 25. Web research resolves the structure: most chapters are narrated in first person by Aibileen, Minny, or Skeeter, while the sustained chapter The Benefit uses an unnamed omniscient third-person narrator. Under the methodology, that cross-person chapter structure is ALTERNATING even though first person overwhelmingly predominates. Confidence is med because quote evidence supports only the first-person component and only one Tier A/B source directly supports the complete ALTERNATING structure; the second exact whole-book source is Tier C, so the required two-Tier-A/B threshold for high confidence is not met. Audit: independent review confirmed the three sustained first-person narrators and the exceptional third-person Chapter 25; the ALTERNATING/med decision and source tiers are retained.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_048",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T19:51:25.873845+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9e4fc61d8a3ae4b16c5f3bf19b967bda1ffcaf80c12883a332797bfb80b4c2c4"
+  }
+}

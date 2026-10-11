@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:2436",
+  "quotes": [
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "Gnomic material; \u201cwe\u201d refers generically to people, not a participating narrator."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect reflection, but it contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "Character speech; the addressed \u201cyou\u201d does not identify base narration."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial reflection without a diagnostic person marker."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; \u201cus\u201d is universal rather than narratorial."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "unmarked",
+      "note": "Narratorial or free-indirect aphorism with no person marker."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "third",
+      "note": "Extended close narration presents Chyna as \u201cher\u201d and \u201cshe\u201d; the generic \u201cyou\u201d and brief diary quotation are not second-person base narration."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "unmarked",
+      "note": "The third-person subject alone is too brief to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "Gnomic material; \u201cwe\u201d is universal rather than a participating narrator."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "non_base",
+      "note": "Paratextual character and title attribution, not novel narration."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "non_base",
+      "note": "Gnomic exposition explicitly attributed to Vess\u2019s philosophy rather than an independent narrator-person signal."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "unmarked",
+      "note": "Close reflection about \u201cshe,\u201d but the isolated sentence does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim without story-specific narration."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person reflection that is insufficient by itself to identify the base narrator."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "unmarked",
+      "note": "A fragment naming Chyna externally, without enough context to establish narrator person."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "third",
+      "note": "Sustained close narration recounts Chyna\u2019s life and recognition externally as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Gnomic statement of Vess\u2019s philosophy, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "third",
+      "note": "Extended close narration renders Chyna\u2019s realization through repeated third-person references."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "unmarked",
+      "note": "Third-person characterization, but the single sentence does not independently establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Vess as \u201che\u201d and by full name while reporting his intentions."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "third",
+      "note": "Close third-person narration renders Vess\u2019s values and experience through \u201chis,\u201d without a participating narrator."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "third",
+      "note": "Close scene narration externally presents Chyna\u2019s fear and perception of Vess\u2019s house."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "third",
+      "note": "Sustained present-tense scene description belongs to the externally narrated Vess focal segment."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "non_base",
+      "note": "Gnomic material; \u201cyou\u201d is generic advice, not sustained address to a protagonist."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first- and second-person pronouns do not identify the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.deankoontz.com/intensity-chapter-review/",
+      "title": "INTENSITY Excerpt \u2013 Dean Koontz",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized Chapter One excerpt sustains external close narration of Chyna as \u201cshe,\u201d including her perceptions and memories, with no participating narrator."
+    },
+    {
+      "url": "https://goodreads.com/book/show/32439",
+      "title": "Intensity by Dean Koontz",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A detailed reader description explicitly says the narration remains in third person while chapters alternate between Chyna and Vess."
+    },
+    {
+      "url": "https://www.allbookstores.com/Intensity-Dean-Koontz-Kate-Burton/9780679449164",
+      "title": "Intensity by Dean Koontz, Kate Burton",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Multiple attributed reviews describe the two focal perspectives and identify the book\u2019s Chyna-past/Vess-present design; this corroborates viewpoint and tense alternation without evidence of a first-person section."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Intensity_(novel)",
+      "title": "Intensity (novel)",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Useful structural corroboration that chapters alternate between Chyna\u2019s and Vess\u2019s perspectives, but it does not itself explicitly identify grammatical narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched: Dean Koontz Intensity excerpt \"Chyna Shepherd\"; found and opened the authorized Chapter One excerpt on the author\u2019s site.",
+    "Searched: Intensity Dean Koontz point of view third person narrator; found an explicit whole-book third-person description and structural accounts of the two viewpoints.",
+    "Searched: Intensity Dean Koontz alternating point of view Vess Chyna; results consistently described alternating Chyna/Vess focalization rather than alternating grammatical person.",
+    "Searched exact interior sentences including \"Now he must deal with the security system\" and \"The guy at the cash register is a redhead\"; results primarily returned the Goodreads quotations rather than an independent authorized interior excerpt.",
+    "Checked Penguin Random House, Hachette, Google Books, Google Play Books, Open Library, WorldCat, Publishers Weekly, Kirkus, and SuperSummary; publisher and library pages verified the work, but their synopsis grammar was not treated as person evidence, and available samples were opening-only.",
+    "Targeted searches for epistolary, diary, frame-narrative, first-person, second-person, and third-person descriptions found no credible evidence of a sustained first- or second-person base section."
+  ],
+  "person_note": "The controlling narration is third person, using close focalization through Chyna and Vess. Chyna\u2019s sections are generally past tense and Vess\u2019s are present tense, but this is tense and focal-character alternation, not alternation of narrative person. The authorized opening and interior quote evidence independently agree: Chyna and Vess are both narrated externally as she/he while their thoughts and perceptions are rendered closely. Generic \u201cyou,\u201d \u201cwe,\u201d and \u201cus\u201d in aphorisms are not story-specific first- or second-person narration; dialogue and Chyna\u2019s brief diary quotation are local material. No credible contrary person evidence was found. The main coverage limitation is that the authorized sustained excerpt is confined to the opening, although the interior quotations span both focal characters and whole-book structural descriptions corroborate that pattern.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_029",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T22:32:01.014551+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "34241a38f385d2ad88a4c44f774c31b2ec55b034d159d572a3d96a0a750e7f67"
+  }
+}

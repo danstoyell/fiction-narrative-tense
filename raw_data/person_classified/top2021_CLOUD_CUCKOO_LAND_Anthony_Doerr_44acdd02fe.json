@@ -1,0 +1,413 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:CLOUD CUCKOO LAND|Anthony Doerr",
+  "quotes": [
+    {
+      "quote_id": "q05546",
+      "person_signal": "non_base",
+      "note": "General reflection about books; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q05547",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive we refers generally to humanity, not a participating narrator."
+    },
+    {
+      "quote_id": "q05548",
+      "person_signal": "non_base",
+      "note": "General maxim; we is universal rather than narratorial."
+    },
+    {
+      "quote_id": "q05549",
+      "person_signal": "non_base",
+      "note": "Generic you expresses a universal experience, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q05550",
+      "person_signal": "non_base",
+      "note": "Aphoristic second-person address, not base narration."
+    },
+    {
+      "quote_id": "q05551",
+      "person_signal": "non_base",
+      "note": "Character speech; its we and our do not identify the base narrator."
+    },
+    {
+      "quote_id": "q05552",
+      "person_signal": "non_base",
+      "note": "Standalone maxim without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05553",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05554",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05555",
+      "person_signal": "non_base",
+      "note": "General rhetorical question; us is universal."
+    },
+    {
+      "quote_id": "q05556",
+      "person_signal": "non_base",
+      "note": "General rhetorical question without a story-specific narrator."
+    },
+    {
+      "quote_id": "q05557",
+      "person_signal": "third",
+      "note": "Sustained external he narration enters the focal character's retrospective understanding."
+    },
+    {
+      "quote_id": "q05558",
+      "person_signal": "third",
+      "note": "The narrator presents a character's learning externally as he."
+    },
+    {
+      "quote_id": "q05559",
+      "person_signal": "non_base",
+      "note": "I and you occur in Rex's direct speech, not in base narration."
+    },
+    {
+      "quote_id": "q05560",
+      "person_signal": "non_base",
+      "note": "Direct character speech with a local she-says tag."
+    },
+    {
+      "quote_id": "q05561",
+      "person_signal": "non_base",
+      "note": "Direct character speech; they refers to the gods."
+    },
+    {
+      "quote_id": "q05562",
+      "person_signal": "non_base",
+      "note": "Third-person narration from the embedded Aethon tale, not the novel's controlling narrative layer."
+    },
+    {
+      "quote_id": "q05563",
+      "person_signal": "non_base",
+      "note": "Maher's direct speech and its speech beat are local dialogue."
+    },
+    {
+      "quote_id": "q05564",
+      "person_signal": "third",
+      "note": "The imagined owl's you-address is embedded within external narration of the boy as he."
+    },
+    {
+      "quote_id": "q05565",
+      "person_signal": "unclear",
+      "note": "The clipping does not establish whether this is character speech or generalizing narration."
+    },
+    {
+      "quote_id": "q05566",
+      "person_signal": "third",
+      "note": "Sustained external she narration follows a character through a scene."
+    },
+    {
+      "quote_id": "q05567",
+      "person_signal": "non_base",
+      "note": "Generic you and we occur in a general reflection about libraries."
+    },
+    {
+      "quote_id": "q05568",
+      "person_signal": "non_base",
+      "note": "Generic future you appears in an aphoristic statement."
+    },
+    {
+      "quote_id": "q05569",
+      "person_signal": "non_base",
+      "note": "Generic you expresses a maxim about mortality."
+    },
+    {
+      "quote_id": "q05570",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05571",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur in character speech."
+    },
+    {
+      "quote_id": "q05572",
+      "person_signal": "unmarked",
+      "note": "Reported they-said language does not establish the controlling narrator's participation."
+    },
+    {
+      "quote_id": "q05573",
+      "person_signal": "third",
+      "note": "Extended external she narration enters the focal character's beliefs, sensations, and daydreams."
+    },
+    {
+      "quote_id": "q05574",
+      "person_signal": "third",
+      "note": "First-person thought is explicitly framed by third-person base narration as he thinks."
+    },
+    {
+      "quote_id": "q05575",
+      "person_signal": "unmarked",
+      "note": "Impersonal reflection may be base narration but does not expose its person."
+    },
+    {
+      "quote_id": "q05576",
+      "person_signal": "unmarked",
+      "note": "The single Anna-remembers clause is compatible with both participating and nonparticipating narration by itself."
+    },
+    {
+      "quote_id": "q05577",
+      "person_signal": "non_base",
+      "note": "Rex's quoted instruction contains generic you and is local dialogue."
+    },
+    {
+      "quote_id": "q05578",
+      "person_signal": "non_base",
+      "note": "Second-person address belongs to an embedded inscription or document."
+    },
+    {
+      "quote_id": "q05579",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation of writing without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05580",
+      "person_signal": "third",
+      "note": "Extended external she narration renders Anna's beliefs and resolves into explicit third-person focalization."
+    },
+    {
+      "quote_id": "q05581",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs in direct character speech."
+    },
+    {
+      "quote_id": "q05582",
+      "person_signal": "third",
+      "note": "Rex's embedded we-speech is framed by external narration that ends with Zeno acting as he."
+    },
+    {
+      "quote_id": "q05583",
+      "person_signal": "non_base",
+      "note": "Embedded translated aphorism, not controlling narration."
+    },
+    {
+      "quote_id": "q05584",
+      "person_signal": "non_base",
+      "note": "Generic imperative and your form an aphorism about reading."
+    },
+    {
+      "quote_id": "q05585",
+      "person_signal": "non_base",
+      "note": "Gnomic analogy without a story-world narrator or protagonist."
+    },
+    {
+      "quote_id": "q05586",
+      "person_signal": "non_base",
+      "note": "General definition of a book without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05587",
+      "person_signal": "non_base",
+      "note": "Reported character speech, not base narration."
+    },
+    {
+      "quote_id": "q05588",
+      "person_signal": "third",
+      "note": "Rex's you/we speech is local, while the outside sentence presents Zeno's private thought in third person."
+    },
+    {
+      "quote_id": "q05589",
+      "person_signal": "non_base",
+      "note": "I occurs entirely in direct character speech."
+    },
+    {
+      "quote_id": "q05590",
+      "person_signal": "unmarked",
+      "note": "Scenic narration contains no character or narrator-person marker."
+    },
+    {
+      "quote_id": "q05591",
+      "person_signal": "non_base",
+      "note": "Reported character speech with a local she-says frame."
+    },
+    {
+      "quote_id": "q05592",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to character speech."
+    },
+    {
+      "quote_id": "q05593",
+      "person_signal": "non_base",
+      "note": "I and you occur in direct character speech."
+    },
+    {
+      "quote_id": "q05594",
+      "person_signal": "non_base",
+      "note": "Generalizing statement without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05595",
+      "person_signal": "third",
+      "note": "Reported speech is followed by external narration of what he had understood."
+    },
+    {
+      "quote_id": "q05596",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs in direct character speech."
+    },
+    {
+      "quote_id": "q05597",
+      "person_signal": "non_base",
+      "note": "You is local character address rather than sustained second-person base narration."
+    },
+    {
+      "quote_id": "q05598",
+      "person_signal": "third",
+      "note": "External narration names Omeir, presents what he sees, and renders the surrounding men's thoughts."
+    },
+    {
+      "quote_id": "q05599",
+      "person_signal": "third",
+      "note": "The narrator externally presents Anna imagining a detailed scene."
+    },
+    {
+      "quote_id": "q05600",
+      "person_signal": "non_base",
+      "note": "Generic second-person philosophical assertion, not story-specific narration."
+    },
+    {
+      "quote_id": "q05601",
+      "person_signal": "third",
+      "note": "Sustained external narration of Konstance and her understanding establishes a third-person strand."
+    },
+    {
+      "quote_id": "q05602",
+      "person_signal": "non_base",
+      "note": "Himerius's general statement is direct speech."
+    },
+    {
+      "quote_id": "q05603",
+      "person_signal": "unmarked",
+      "note": "Expository commentary about the embedded novel does not expose narrator participation."
+    },
+    {
+      "quote_id": "q05604",
+      "person_signal": "non_base",
+      "note": "I and we occur in Bunny's direct speech."
+    },
+    {
+      "quote_id": "q05605",
+      "person_signal": "non_base",
+      "note": "The first-person retrospective about boyhood on Earth is a character's local recollection, not the base voice."
+    },
+    {
+      "quote_id": "q05606",
+      "person_signal": "non_base",
+      "note": "Standalone metaphor about books without narrator-person evidence."
+    },
+    {
+      "quote_id": "q05607",
+      "person_signal": "non_base",
+      "note": "I occurs in Omeir's direct speech."
+    },
+    {
+      "quote_id": "q05608",
+      "person_signal": "unclear",
+      "note": "The clipping does not establish whether we belongs to speech, a document, or generalizing narration."
+    },
+    {
+      "quote_id": "q05609",
+      "person_signal": "non_base",
+      "note": "You and we occur in direct character speech."
+    },
+    {
+      "quote_id": "q05610",
+      "person_signal": "third",
+      "note": "The narrator externally traces a male focal character's chain of reading and inference."
+    },
+    {
+      "quote_id": "q05611",
+      "person_signal": "non_base",
+      "note": "Generalized traditional description; your is generic and no base narrator is exposed."
+    },
+    {
+      "quote_id": "q05612",
+      "person_signal": "non_base",
+      "note": "This summarizes the embedded Aethon tale rather than identifying the novel's controlling narrator."
+    },
+    {
+      "quote_id": "q05613",
+      "person_signal": "third",
+      "note": "Extended external narration names Seymour and enters his locked, increasingly catastrophic perspective."
+    },
+    {
+      "quote_id": "q05614",
+      "person_signal": "third",
+      "note": "External scene narration renders how the sound seems to the boy."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/522766910/Cloud-Cuckoo-Land-A-Novel",
+      "title": "Cloud Cuckoo Land by Anthony Doerr (Ebook)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed ebook preview sustains external third-person narration across the named Konstance, Zeno, Seymour, and Anna sections; first-person forms occur only in dialogue or embedded documents."
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/news/book-excerpt-cloud-cuckoo-land-by-anthony-doerr/",
+      "title": "Book excerpt: \"Cloud Cuckoo Land\" by Anthony Doerr",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "This authorized Simon & Schuster excerpt presents Anna throughout as she and externally narrates her perceptions and daydreams."
+    },
+    {
+      "url": "https://www.bookbrowse.com/mag/reviews/index.cfm/book_number/4331/cloud-cuckoo-land",
+      "title": "Book Review: Cloud Cuckoo Land by Anthony Doerr",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly states that the third-person narrative rotates among the storylines and identifies all five principal character strands."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-cloud-cuckoo-land/styles.html",
+      "title": "Anthony Doerr Writing Styles in Cloud Cuckoo Land",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis explicitly identifies a third-person narrator and third-person limited subsections for Konstance, Zeno, Seymour, Anna, and Omeir."
+    },
+    {
+      "url": "https://berkeleyfictionreview.org/2022/09/12/lost-in-translation-a-review-of-cloud-cuckoo-land-by-anthony-doerr/",
+      "title": "Lost in Translation: A Review of Cloud Cuckoo Land by Anthony Doerr",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review identifies third-person omniscient narration, describes the character-labeled chapter structure, and distinguishes the interspersed Aethon folios as an embedded ancient story."
+    }
+  ],
+  "search_log": [
+    "Searched site:simonandschuster.com and \"Cloud Cuckoo Land\" Anthony Doerr excerpt/first chapter; the publisher page confirmed the work and strands, while CBS and Everand supplied sustained prose.",
+    "Searched \"Cloud Cuckoo Land\" third person, narrator, and point of view; opened BookBrowse, BookRags, Berkeley Fiction Review, and an ebook preview rather than relying on snippets.",
+    "Searched \"Cloud Cuckoo Land\" epistolary, diary, frame narrative, multiple narrators, and alternating point of view; results described braided character viewpoints and an embedded fictional manuscript, not sustained first- or second-person base sections.",
+    "Searched for first-person folios and story-within-a-story structure; sources confirmed that Aethon's folios are interspersed embedded material, so their local first-person passages do not make the book alternating.",
+    "Targeted exact-quote searches for ambiguous first-person and we passages produced no stronger contextual source; they were treated conservatively as dialogue, embedded material, or unclear rather than as base narration."
+  ],
+  "person_note": "The controlling narration rotates among five focal characters but remains third person: the quotes repeatedly narrate Zeno, Anna, Omeir, Konstance, and Seymour externally while entering their perceptions. The authorized opening material independently shows the same construction across several named strands, and multiple whole-book sources explicitly describe a rotating third-person narrative. Apparent first- or second-person counterexamples are character speech, generic aphorisms, free-direct thought framed by he thinks, or the embedded Aethon manuscript. The only remaining uncertainty concerns the exact local boundaries of two clipped we-passages, neither of which supplies credible evidence of a sustained non-third-person base section.",
+  "provenance": {
+    "run_id": "person_2021_replacement_cloud_cuckoo_land_sol_high_v1",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:36:45.795589+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1648754c401adff44027144a2a13c1d179df5d1c186e8baab7bb004d84665375"
+  }
+}

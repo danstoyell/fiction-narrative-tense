@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1998:2322",
+  "quotes": [
+    {
+      "quote_id": "q00169",
+      "person_signal": "first",
+      "note": "Dominick explicitly narrates his own understanding with repeated I/my forms."
+    },
+    {
+      "quote_id": "q00170",
+      "person_signal": "non_base",
+      "note": "A universal question about stories and fears is gnomic, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00171",
+      "person_signal": "non_base",
+      "note": "This aphorism contains no story-specific narratorial position."
+    },
+    {
+      "quote_id": "q00172",
+      "person_signal": "first",
+      "note": "The participating narrator reports his own actions and reflection as I."
+    },
+    {
+      "quote_id": "q00173",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in a character's direct speech to Dominick."
+    },
+    {
+      "quote_id": "q00174",
+      "person_signal": "non_base",
+      "note": "This is direct speech addressed to Dominick, not base narration."
+    },
+    {
+      "quote_id": "q00175",
+      "person_signal": "non_base",
+      "note": "The aphoristic statement does not expose the narrator."
+    },
+    {
+      "quote_id": "q00176",
+      "person_signal": "unmarked",
+      "note": "This clipped narratorial fragment about books contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q00177",
+      "person_signal": "first",
+      "note": "Dominick narrates his own need and perception using I/me."
+    },
+    {
+      "quote_id": "q00178",
+      "person_signal": "first",
+      "note": "The passage is Dominick's first-person reflection; its rhetorical you shifts do not establish sustained second-person narration."
+    },
+    {
+      "quote_id": "q00179",
+      "person_signal": "first",
+      "note": "The participating narrator states what he might do using I."
+    },
+    {
+      "quote_id": "q00180",
+      "person_signal": "non_base",
+      "note": "The imperative is a context-free maxim rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00181",
+      "person_signal": "non_base",
+      "note": "The conditional question is presented as dialogue and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00182",
+      "person_signal": "first",
+      "note": "The narratorial clause I felt like saying identifies Dominick as a participant."
+    },
+    {
+      "quote_id": "q00183",
+      "person_signal": "non_base",
+      "note": "This universal statement about storytelling is gnomic."
+    },
+    {
+      "quote_id": "q00184",
+      "person_signal": "non_base",
+      "note": "The generalized lesson about memory and forgiveness is gnomic rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00185",
+      "person_signal": "first",
+      "note": "Although mostly dialogue, the external speech beat My mother did, I said exposes Dominick's first-person narration."
+    },
+    {
+      "quote_id": "q00186",
+      "person_signal": "first",
+      "note": "Dominick reports his response, gaze, and body using I/my."
+    },
+    {
+      "quote_id": "q00187",
+      "person_signal": "non_base",
+      "note": "The first-person forms belong to the characters' quoted therapeutic conversation; the outside she-said beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q00188",
+      "person_signal": "first",
+      "note": "The localized rhetorical you describes Dominick's own condition, and Take it from the uncrazy twin self-identifies the participating narrator; it is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00189",
+      "person_signal": "first",
+      "note": "The narration beat I repeated lies outside the quoted confession and identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00190",
+      "person_signal": "non_base",
+      "note": "This is direct speech addressed to Dominick."
+    },
+    {
+      "quote_id": "q00191",
+      "person_signal": "non_base",
+      "note": "The you forms occur in a character's direct address to Dominick."
+    },
+    {
+      "quote_id": "q00192",
+      "person_signal": "non_base",
+      "note": "Targeted context research identifies these words as Dr. Patel's speech; the upstream event bucket therefore appears mistaken."
+    },
+    {
+      "quote_id": "q00193",
+      "person_signal": "non_base",
+      "note": "This aphoristic fragment is not diagnostic of narrative person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9780061469084/Know-True-Powerful-Story-Brothers-0061469084/plp",
+      "title": "I Know This Much Is True: A Powerful Story of Brothers, Mental Illness, and the Search for Forgiveness (P.S.)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The permissioned Chapter One excerpt opens with Dominick calling Thomas my twin brother and sustains I/my narration through the scene."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/366/i-know-this-much-is-true",
+      "title": "Excerpt from I Know This Much Is True by Wally Lamb",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "This multi-page excerpt, explicitly used by permission, sustains Dominick's first-person narration in a childhood sequence away from the opening."
+    },
+    {
+      "url": "https://bas.journals.uvt.ro/wp-content/uploads/DOI-10.35923-BAS.31.01-p73-82.pdf",
+      "title": "Two Fathers: Comparing Italian and American Fatherhood in Wally Lamb's I Know This Much Is True",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly article repeatedly identifies Dominick as both protagonist and narrator and describes the present-day frame, flashbacks, and his reading of Domenico's autobiography."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780060391621",
+      "title": "I Know This Much Is True by Wally Lamb",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The contemporary trade review identifies Dominick Birdsey as the narrator who relates both brothers' history and describes the grandfather's diary as an included digression."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/wally-lamb/i-know-this-much-is-true/?page=4",
+      "title": "I KNOW THIS MUCH IS TRUE",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Kirkus names Dominick as the character and narrator, calls his memory-flashbacks the primary narrative, and distinguishes the grandfather's juxtaposed autobiography."
+    }
+  ],
+  "search_log": [
+    "Searched \"I Know This Much Is True\" Wally Lamb excerpt first chapter narrator Dominick; opened a permissioned Chapter One excerpt at AbeBooks and a separate permissioned multi-page BookBrowse excerpt.",
+    "Searched \"I Know This Much Is True\" \"first-person\" novel Dominick narrator and opened Publishers Weekly, Kirkus, and a scholarly journal article describing the narrator and structure.",
+    "Searched \"I Know This Much Is True\" narrative voice Dominick grandfather memoir first person; sources consistently described Dominick's primary narration and the interspersed autobiographical manuscript, with no sustained third- or second-person strand found.",
+    "Ran exact-quotation searches for \"I learned that there are two young men lost in the woods\" and \"When you're the sane brother of a schizophrenic identical twin\"; these clarified Dr. Patel's local speech in q00192 and the rhetorical-you construction in q00188. Searches of the author and HarperCollins domains produced no additional usable direct source."
+  ],
+  "person_note": "Dominick Birdsey is the controlling participating narrator, and numerous event quotes independently expose his I/my voice. Permissioned opening and interior excerpts sustain that voice, while scholarly and major trade reviews identify him as the narrator across the book. The grandfather's autobiography is a juxtaposed first-person document, so even with more than one narrating voice it does not create a different-person strand. Dialogue, aphorisms, Dr. Patel's q00192 speech, and q00188's localized rhetorical you are not evidence of second-person base narration. No credible contrary person evidence remained.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_032",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T18:56:42.748555+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b7df38f9ea0f373946d01fe957545146d4ee4ff0c92792544d03ad3e1df3c0b6"
+  }
+}

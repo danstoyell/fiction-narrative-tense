@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:28",
+  "quotes": [
+    {
+      "quote_id": "q00638",
+      "person_signal": "first",
+      "note": "Lindsay's narratorial \u201cI remembered\u201d precedes an embedded recollection from her partner."
+    },
+    {
+      "quote_id": "q00639",
+      "person_signal": "non_base",
+      "note": "A generic maxim using \u201cyou\u201d; research indicates it also appears as an inscription, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00640",
+      "person_signal": "non_base",
+      "note": "Gnomic universal address about everybody's life, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00641",
+      "person_signal": "non_base",
+      "note": "A quoted passage from Thoreau rather than the novel's base narrator."
+    },
+    {
+      "quote_id": "q00642",
+      "person_signal": "first",
+      "note": "Lindsay narrates her own perceptions and contemplated actions as \u201cI\u201d; the closing second person is imagined speech addressed to her."
+    },
+    {
+      "quote_id": "q00643",
+      "person_signal": "unclear",
+      "note": "The severely clipped fragment lacks enough context to identify its narrating position."
+    },
+    {
+      "quote_id": "q00644",
+      "person_signal": "first",
+      "note": "Participating narration uses \u201cus\u201d and \u201cmy\u201d while Lindsay describes her squad room and desk."
+    },
+    {
+      "quote_id": "q00645",
+      "person_signal": "third",
+      "note": "A sustained external passage narrates Phillip Campbell's private imagining and actions as \u201che,\u201d exposing a third-person base section."
+    },
+    {
+      "quote_id": "q00646",
+      "person_signal": "first",
+      "note": "The narratorial phrase \u201cWhat I meant to say\u201d exposes a participating first-person voice; the following \u201cyou\u201d is generic advice."
+    },
+    {
+      "quote_id": "q00647",
+      "person_signal": "unmarked",
+      "note": "The opening \u201cyou\u201d is generic reader address, and the remaining first person occurs in Claire's quoted joke; neither establishes second-person base narration."
+    },
+    {
+      "quote_id": "q00648",
+      "person_signal": "first",
+      "note": "Lindsay narrates her own eyes and inner hearing with \u201cmy\u201d and \u201cme\u201d; \u201cyou\u201d belongs to an internal exhortation."
+    },
+    {
+      "quote_id": "q00649",
+      "person_signal": "non_base",
+      "note": "Character dialogue, so its first- and second-person pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q00650",
+      "person_signal": "non_base",
+      "note": "A gnomic aphorism without diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q00651",
+      "person_signal": "non_base",
+      "note": "Dr. Yatto's direct speech; \u201cI\u201d and \u201cyou\u201d belong to dialogue."
+    },
+    {
+      "quote_id": "q00652",
+      "person_signal": "first",
+      "note": "Despite the clipped ending, \u201cMy eyes burned\u201d is narratorial self-reference in Lindsay's participating voice."
+    },
+    {
+      "quote_id": "q00653",
+      "person_signal": "first",
+      "note": "After Cindy's dialogue closes, \u201cWe sat there\u201d is participating narration that includes Lindsay."
+    },
+    {
+      "quote_id": "q00654",
+      "person_signal": "non_base",
+      "note": "A universal-life maxim using generic \u201cyou,\u201d not sustained second-person story narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/739/1st-to-die",
+      "title": "Excerpt from 1st To Die by James Patterson",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The sustained copyrighted excerpt begins with Lindsay's first-person prologue, then shifts to third-person narration of David Brandt and other characters; later excerpt pages return to Lindsay's \u201cI\u201d and shift again to Phillip Campbell as \u201che.\u201d"
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-1st-to-die/style.html",
+      "title": "James Patterson Writing Styles in 1st to Die: A Novel",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The study guide explicitly says the novel goes back and forth between first and third person: Lindsay's chapters are first person, while other characters' chapters are third-person omniscient."
+    },
+    {
+      "url": "https://www.supersummary.com/1st-to-die/prologue-book-1-chapter-11-summary/",
+      "title": "1st to Die Prologue\u2013Book 1, Chapter 11 Summary & Analysis",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Its structural analysis states that Lindsay chapters use first person and chapters focused on friends, suspects, and the killer switch to third person."
+    },
+    {
+      "url": "https://www.christian-sauve.com/2006/01/1st-to-die-james-patterson/",
+      "title": "1st to Die, James Patterson",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The full-book review independently describes first-person chapters told by the protagonist and third-person chapters from the killer's perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJames Patterson 1st to Die excerpt first chapter\u201d and opened the multi-page BookBrowse excerpt.",
+    "Searched \u201c1st to Die point of view,\u201d \u201cfirst person,\u201d \u201cthird person,\u201d and \u201calternating\u201d; opened explicit structural discussions from BookRags, SuperSummary, and Christian Sauv\u00e9.",
+    "Searched Google Books and Open Library previews; their catalog pages verified the work and edition but exposed no usable narrative-person passages.",
+    "Opened the official Hachette Australia title page; its synopsis identified Lindsay and the plot but did not describe narrative person, so it was not used as person evidence.",
+    "Ran targeted exact-quote searches to distinguish dialogue, generic address, and Lindsay's narration; a full-text search result supplied context for q00653, while highlight pages offered no independent whole-book structural evidence."
+  ],
+  "person_note": "The novel sustains two base-narration modes: Lindsay Boxer narrates her own chapters as a participating first-person \u201cI,\u201d while chapters centered on victims, suspects, and the killer use nonparticipating third person. The quote set independently exposes both modes, especially Lindsay passages such as q00638, q00642, and q00644 versus the Phillip Campbell passage q00645. Generic \u201cyou,\u201d dialogue, Thoreau's quotation, and internal exhortations are local material rather than second-person narration. Whole-book structural sources explicitly confirm the recurring first/third alternation, leaving no material unresolved conflict.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.233515+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "61e77beed99a10506af4c87ef93602e88c8e4c938c88e5764d94fe8ac04cdc2a"
+  }
+}

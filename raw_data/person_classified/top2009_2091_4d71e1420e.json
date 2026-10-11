@@ -1,0 +1,554 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:2091",
+  "quotes": [
+    {
+      "quote_id": "q01475",
+      "person_signal": "first",
+      "note": "Participating narrator recounts personal experience as I."
+    },
+    {
+      "quote_id": "q01476",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; you is generic."
+    },
+    {
+      "quote_id": "q01477",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal scars as I."
+    },
+    {
+      "quote_id": "q01478",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address, not diagnostic narration."
+    },
+    {
+      "quote_id": "q01479",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection despite its opening I."
+    },
+    {
+      "quote_id": "q01480",
+      "person_signal": "non_base",
+      "note": "General maxim using inclusive us."
+    },
+    {
+      "quote_id": "q01481",
+      "person_signal": "non_base",
+      "note": "Gnomic, generic second-person formulation."
+    },
+    {
+      "quote_id": "q01482",
+      "person_signal": "non_base",
+      "note": "Gnomic observation rather than a contextualized scene."
+    },
+    {
+      "quote_id": "q01483",
+      "person_signal": "non_base",
+      "note": "Aphorism without narrative context."
+    },
+    {
+      "quote_id": "q01484",
+      "person_signal": "first",
+      "note": "An I narrator explains personal self-harm through generalized you."
+    },
+    {
+      "quote_id": "q01485",
+      "person_signal": "non_base",
+      "note": "General aphorism about breakage."
+    },
+    {
+      "quote_id": "q01486",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison lacks a diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q01487",
+      "person_signal": "non_base",
+      "note": "General maxim using inclusive we."
+    },
+    {
+      "quote_id": "q01488",
+      "person_signal": "first",
+      "note": "Participating narrator recounts feelings and bodily experience as I."
+    },
+    {
+      "quote_id": "q01489",
+      "person_signal": "first",
+      "note": "I narrator evaluates the two mothers in her own life."
+    },
+    {
+      "quote_id": "q01490",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q01491",
+      "person_signal": "first",
+      "note": "Participating narrator reports personal thought and pain as I."
+    },
+    {
+      "quote_id": "q01492",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not expose base narration."
+    },
+    {
+      "quote_id": "q01493",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic you."
+    },
+    {
+      "quote_id": "q01494",
+      "person_signal": "non_base",
+      "note": "Direct speech, not narratorial evidence."
+    },
+    {
+      "quote_id": "q01495",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic you."
+    },
+    {
+      "quote_id": "q01496",
+      "person_signal": "first",
+      "note": "Narratorial we includes the participating storyteller."
+    },
+    {
+      "quote_id": "q01497",
+      "person_signal": "non_base",
+      "note": "General maxim about memory."
+    },
+    {
+      "quote_id": "q01498",
+      "person_signal": "non_base",
+      "note": "Extended gnomic catalogue rather than scene narration."
+    },
+    {
+      "quote_id": "q01499",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal desire as I."
+    },
+    {
+      "quote_id": "q01500",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using generic you."
+    },
+    {
+      "quote_id": "q01501",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q01502",
+      "person_signal": "non_base",
+      "note": "Generic gnomic statement."
+    },
+    {
+      "quote_id": "q01503",
+      "person_signal": "first",
+      "note": "Participating narrator describes an internal state as I."
+    },
+    {
+      "quote_id": "q01504",
+      "person_signal": "first",
+      "note": "Participating narrator reports wondering as I."
+    },
+    {
+      "quote_id": "q01505",
+      "person_signal": "first",
+      "note": "Participating narrator reports personal reflection as I."
+    },
+    {
+      "quote_id": "q01506",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q01507",
+      "person_signal": "first",
+      "note": "Although dialogue-heavy, the outside beat I rolled identifies the participating narrator."
+    },
+    {
+      "quote_id": "q01508",
+      "person_signal": "non_base",
+      "note": "General aphorism about parents."
+    },
+    {
+      "quote_id": "q01509",
+      "person_signal": "first",
+      "note": "Participating narrator states a personal moral conflict as I."
+    },
+    {
+      "quote_id": "q01510",
+      "person_signal": "unmarked",
+      "note": "Possible base reflection, but no narrator-person marker appears."
+    },
+    {
+      "quote_id": "q01511",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal experience as I."
+    },
+    {
+      "quote_id": "q01512",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q01513",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q01514",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about pain."
+    },
+    {
+      "quote_id": "q01515",
+      "person_signal": "first",
+      "note": "Narratorial we places the storyteller within the family experience."
+    },
+    {
+      "quote_id": "q01516",
+      "person_signal": "non_base",
+      "note": "Generic aphorism."
+    },
+    {
+      "quote_id": "q01517",
+      "person_signal": "non_base",
+      "note": "Generic aphorism about pain."
+    },
+    {
+      "quote_id": "q01518",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical questions."
+    },
+    {
+      "quote_id": "q01519",
+      "person_signal": "first",
+      "note": "Participating narrator reflects on personal assumptions as I."
+    },
+    {
+      "quote_id": "q01520",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization despite inclusive us and I."
+    },
+    {
+      "quote_id": "q01521",
+      "person_signal": "non_base",
+      "note": "Generic contrast framed with you."
+    },
+    {
+      "quote_id": "q01522",
+      "person_signal": "non_base",
+      "note": "General definition of motherhood."
+    },
+    {
+      "quote_id": "q01523",
+      "person_signal": "non_base",
+      "note": "Extended generic maxim about choice."
+    },
+    {
+      "quote_id": "q01524",
+      "person_signal": "first",
+      "note": "Participating narrator offers a personal observation as I."
+    },
+    {
+      "quote_id": "q01525",
+      "person_signal": "first",
+      "note": "Participating narrator recounts guilt and actions as I."
+    },
+    {
+      "quote_id": "q01526",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal love and memory as I."
+    },
+    {
+      "quote_id": "q01527",
+      "person_signal": "first",
+      "note": "Participating narrator admits personal eavesdropping as I."
+    },
+    {
+      "quote_id": "q01528",
+      "person_signal": "first",
+      "note": "The explicit phrase asked me identifies a participating narrator."
+    },
+    {
+      "quote_id": "q01529",
+      "person_signal": "non_base",
+      "note": "General metaphor about memory."
+    },
+    {
+      "quote_id": "q01530",
+      "person_signal": "first",
+      "note": "Participating narrator recounts her former judgment and marriage as I."
+    },
+    {
+      "quote_id": "q01531",
+      "person_signal": "first",
+      "note": "Dialogue is framed by a beat in which Annie looks at the participating me narrator."
+    },
+    {
+      "quote_id": "q01532",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Willow."
+    },
+    {
+      "quote_id": "q01533",
+      "person_signal": "non_base",
+      "note": "General aphorism about love."
+    },
+    {
+      "quote_id": "q01534",
+      "person_signal": "first",
+      "note": "Participating narrator reports uncertainty as I while addressing Willow."
+    },
+    {
+      "quote_id": "q01535",
+      "person_signal": "first",
+      "note": "Participating narrator recounts her adoption history as I."
+    },
+    {
+      "quote_id": "q01536",
+      "person_signal": "non_base",
+      "note": "Character speech using generic you."
+    },
+    {
+      "quote_id": "q01537",
+      "person_signal": "non_base",
+      "note": "General aphorism."
+    },
+    {
+      "quote_id": "q01538",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal amazement as me."
+    },
+    {
+      "quote_id": "q01539",
+      "person_signal": "first",
+      "note": "Participating narrator recounts friendship and shared actions as I/we."
+    },
+    {
+      "quote_id": "q01540",
+      "person_signal": "first",
+      "note": "Participating narrator states a personal belief as I."
+    },
+    {
+      "quote_id": "q01541",
+      "person_signal": "unmarked",
+      "note": "You addresses Willow, but this clipped sentence does not expose the storyteller's person."
+    },
+    {
+      "quote_id": "q01542",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal self-harm as I."
+    },
+    {
+      "quote_id": "q01543",
+      "person_signal": "first",
+      "note": "Participating narrator recounts memory and love as I."
+    },
+    {
+      "quote_id": "q01544",
+      "person_signal": "first",
+      "note": "Participating narrator reports personal wondering as I."
+    },
+    {
+      "quote_id": "q01545",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor using inclusive our."
+    },
+    {
+      "quote_id": "q01546",
+      "person_signal": "unmarked",
+      "note": "Possible base reflection, but a bare mother reference does not identify narrator person."
+    },
+    {
+      "quote_id": "q01547",
+      "person_signal": "first",
+      "note": "The narrator includes herself among the mothers through us and our."
+    },
+    {
+      "quote_id": "q01548",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q01549",
+      "person_signal": "first",
+      "note": "Participating narrator recounts meeting her biological mother as I."
+    },
+    {
+      "quote_id": "q01550",
+      "person_signal": "non_base",
+      "note": "General metaphor."
+    },
+    {
+      "quote_id": "q01551",
+      "person_signal": "non_base",
+      "note": "Gnomic formulation using generic you."
+    },
+    {
+      "quote_id": "q01552",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q01553",
+      "person_signal": "non_base",
+      "note": "Generic aphorism."
+    },
+    {
+      "quote_id": "q01554",
+      "person_signal": "non_base",
+      "note": "General observation about testimony and memory."
+    },
+    {
+      "quote_id": "q01555",
+      "person_signal": "first",
+      "note": "Participating narrator promises action as I while addressing Willow."
+    },
+    {
+      "quote_id": "q01556",
+      "person_signal": "unmarked",
+      "note": "Possible base reflection uses generic your but no narrator-person marker."
+    },
+    {
+      "quote_id": "q01557",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal self-harm and shame as I/my."
+    },
+    {
+      "quote_id": "q01558",
+      "person_signal": "first",
+      "note": "Participating husband narrator recounts filing for divorce as I."
+    },
+    {
+      "quote_id": "q01559",
+      "person_signal": "first",
+      "note": "Participating narrator recounts sitting with Willow as we/I/my."
+    },
+    {
+      "quote_id": "q01560",
+      "person_signal": "first",
+      "note": "Participating narrator reports being left numb as I."
+    },
+    {
+      "quote_id": "q01561",
+      "person_signal": "non_base",
+      "note": "General aphorism."
+    },
+    {
+      "quote_id": "q01562",
+      "person_signal": "non_base",
+      "note": "General legal maxim."
+    },
+    {
+      "quote_id": "q01563",
+      "person_signal": "first",
+      "note": "Participating narrator recounts what I learned while addressing Willow."
+    },
+    {
+      "quote_id": "q01564",
+      "person_signal": "first",
+      "note": "Participating narrator recounts self-harm and memory as I."
+    },
+    {
+      "quote_id": "q01565",
+      "person_signal": "first",
+      "note": "Participating narrator gives a personally situated judgment as me."
+    },
+    {
+      "quote_id": "q01566",
+      "person_signal": "non_base",
+      "note": "General speculation about mothers and daughters."
+    },
+    {
+      "quote_id": "q01567",
+      "person_signal": "first",
+      "note": "Participating narrator recounts her actions and knowledge as I/me."
+    },
+    {
+      "quote_id": "q01568",
+      "person_signal": "unmarked",
+      "note": "Statement about lawyers lacks a diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q01569",
+      "person_signal": "first",
+      "note": "Participating narrator addresses Willow and recounts her own final action as I."
+    },
+    {
+      "quote_id": "q01570",
+      "person_signal": "first",
+      "note": "Scene narration explicitly includes the participating I observer."
+    },
+    {
+      "quote_id": "q01571",
+      "person_signal": "first",
+      "note": "Participating spouse reflects on personal complacency as I."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/Handle-with-Care/Jodi-Picoult/9780743296427",
+      "title": "Handle with Care | Book by Jodi Picoult | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized publisher excerpt labels Charlotte as speaker and sustains participating narration through my and I while addressing Willow as you."
+    },
+    {
+      "url": "https://www.jodipicoult.com/handle-with-care.html",
+      "title": "Jodi Picoult \u00b7 Handle With Care",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The author's long authorized February 2005 excerpt rotates through Amelia, Sean, Charlotte, and Piper; each named character narrates participating experience as I while calling Willow you."
+    },
+    {
+      "url": "https://www.jodipicoult.com/handle-with-care.html",
+      "title": "A conversation with Jodi Picoult about Handle With Care",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Picoult explains that multiple narrators tell their own stories directly to Willow throughout the novel. Under this task's narrator-participation definition, the storytellers are first-person narrators and Willow is their second-person narratee."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780743296410",
+      "title": "Handle with Care by Jodi Picoult",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Publishers Weekly corroborates the whole-book structure of alternating narrator voices but does not independently specify their grammatical person."
+    },
+    {
+      "url": "https://www.jhunewsletter.com/article/2009/03/book-review-handle-with-care-by-jodi-picoult-82538",
+      "title": "Book Review - Handle with Care by Jodi Picoult",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "This review confirms that chapters change voice and that every narrator's you is Willow. It calls that address second person, but does not negate the excerpts' participating I narrators under the methodology used here."
+    }
+  ],
+  "search_log": [
+    "Searched \"Jodi Picoult Handle with Care official excerpt publisher chapter\" and opened the Simon & Schuster and author-site excerpts.",
+    "Searched \"Handle with Care Jodi Picoult multiple narrators point of view review\" and opened the Johns Hopkins News-Letter structural review.",
+    "Searched \"Handle with Care Jodi Picoult narrated by multiple perspectives first person\"; results corroborated multiple narrators but most did not distinguish narrator from narratee.",
+    "Searched \"Handle with Care Jodi Picoult excerpt Charlotte Sean Amelia Piper Marin\" and found the authorized author-site excerpt rotating among those voices.",
+    "Searched \"Handle with Care Jodi Picoult first-person narration\" and university-domain variants; no stronger scholarly person analysis was found.",
+    "Opened Publishers Weekly and Kirkus results; Publishers Weekly was usable for alternating-voice structure, while the Kirkus audiobook review added no person evidence beyond a full cast for multiple narrators."
+  ],
+  "person_note": "The controlling narration is delivered by multiple participating character-narrators, all using I; multiple first-person narrators remain FIRST. Their recurring you addresses Willow, the central narratee, and does not replace the storytellers with a second-person protagonist for this methodology. The numerous interior quote passages independently expose I/we narration, while two authorized Tier A excerpts show the same form in the opening and across a sustained multi-voice section. Apparent contrary descriptions calling the book second person refer to its direct-address device and are therefore terminological rather than structural conflict. No material uncertainty remains about narrator participation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.245997+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a3ce684ecea8e1a0017693c04eb36f0c2b20760879b6f9c9e15d498bd77494f6"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:5258",
+  "quotes": [
+    {
+      "quote_id": "q02003",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q02004",
+      "person_signal": "unmarked",
+      "note": "Truncated historical exposition identifies no participating or nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02005",
+      "person_signal": "unmarked",
+      "note": "Impersonal historical exposition using generic 'one'; narrator person is not exposed."
+    },
+    {
+      "quote_id": "q02006",
+      "person_signal": "unmarked",
+      "note": "A clipped description of 'he' is too short to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02007",
+      "person_signal": "non_base",
+      "note": "Gnomic fragments about lies provide no base-narrator evidence."
+    },
+    {
+      "quote_id": "q02008",
+      "person_signal": "non_base",
+      "note": "Scientific generalization rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02009",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Blomkvist and presents his judgment without a participating narrator frame."
+    },
+    {
+      "quote_id": "q02010",
+      "person_signal": "non_base",
+      "note": "Direct speech marked by the vocative 'Karin'; its first- and second-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q02011",
+      "person_signal": "non_base",
+      "note": "Universal gnomic statement with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q02012",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q02013",
+      "person_signal": "non_base",
+      "note": "Truncated moral generalization using universal 'we,' not participating narration."
+    },
+    {
+      "quote_id": "q02014",
+      "person_signal": "unmarked",
+      "note": "The brief attribution is base narration, while 'we' occurs in Hilda's embedded writing; the base narrator's person remains unexposed."
+    },
+    {
+      "quote_id": "q02015",
+      "person_signal": "unmarked",
+      "note": "Indirect presentation of Hilda's argument contains embedded universal 'our' and 'we'; the limited surrounding narration does not independently prove narrator participation."
+    },
+    {
+      "quote_id": "q02016",
+      "person_signal": "non_base",
+      "note": "The passage is Lisbeth's direct speech about her earlier conversation with Holger; its 'I' and 'us' are local dialogue, not base narration."
+    },
+    {
+      "quote_id": "q02017",
+      "person_signal": "unmarked",
+      "note": "A short attribution to Hilda followed by her proposition does not by itself identify the base narrator's person."
+    },
+    {
+      "quote_id": "q02018",
+      "person_signal": "third",
+      "note": "Extended external narration identifies Bublanski as 'he' and enters his fears and habitual thinking without a participating frame."
+    },
+    {
+      "quote_id": "q02019",
+      "person_signal": "non_base",
+      "note": "Quoted character speech; the short external tag is insufficient to diagnose the base narrator."
+    },
+    {
+      "quote_id": "q02020",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about memory and the sensational, without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q02021",
+      "person_signal": "unmarked",
+      "note": "Clipped evaluative narration contains no person marker."
+    },
+    {
+      "quote_id": "q02022",
+      "person_signal": "non_base",
+      "note": "First-person framing occurs in a gnomic reflection or local utterance and does not establish controlling narration."
+    },
+    {
+      "quote_id": "q02023",
+      "person_signal": "unmarked",
+      "note": "Truncated third-person clause is too limited to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q02024",
+      "person_signal": "non_base",
+      "note": "Attributed Leo Mannheimer quotation; its 'you' is generic speech."
+    },
+    {
+      "quote_id": "q02025",
+      "person_signal": "unmarked",
+      "note": "Truncated clause naming Faria and her thought is too incomplete to establish narrator person responsibly."
+    },
+    {
+      "quote_id": "q02026",
+      "person_signal": "third",
+      "note": "External narration refers to the focal character as 'she' and reports her mental activity without a participating narrator frame."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9781101974162",
+      "title": "The Girl Who Takes an Eye for an Eye | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates Salander, Olsen, and Faria externally in third person and contains no participating narrator."
+    },
+    {
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9781101974162",
+      "title": "The Girl Who Takes an Eye for an Eye | Penguin Random House Higher Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized opening excerpt continues sustained external narration of Salander and Olsen through the opening chapters; it corroborates third person but is not independent whole-book coverage."
+    },
+    {
+      "url": "https://www.everand.com/book/769252882/The-Girl-Who-Takes-an-Eye-for-an-Eye-A-Lisbeth-Salander-Novel",
+      "title": "The Girl Who Takes an Eye for an Eye by David Lagercrantz",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The ebook preview extends through Chapters 2 and 3, shifting focal attention between Olsen and Salander while consistently narrating both as 'he' or 'she'."
+    },
+    {
+      "url": "https://www.goodreads.com/work/quotes/53178961-mannen-som-s-kte-sin-skugga?page=2",
+      "title": "The Girl Who Takes an Eye for an Eye Quotes by David Lagercrantz (page 2 of 2)",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "none",
+      "note": "The complete quotation boundary shows that the apparent first-person passage about the dragon's fire ends as character speech, so it is not contrary base-narrator evidence."
+    }
+  ],
+  "search_log": [
+    "Searched the verified English title and David Lagercrantz with 'excerpt' and 'first chapter'; found and opened Penguin Random House's authorized Chapter 1 excerpt.",
+    "Searched the title with 'third person,' 'point of view,' 'narrator,' and 'narration'; no credible source explicitly described the whole-book narrative person.",
+    "Opened Penguin Random House Retail and Higher Education excerpts; both present the same sustained third-person opening, so they were treated as duplicate publisher coverage rather than independent whole-book sources.",
+    "Opened the Everand ebook preview, which exposes Chapters 2 and 3 in sustained third-person narration but still covers only the opening portion.",
+    "Searched the distinctive dragon-fire quotation to resolve its apparent first person; the full Goodreads quotation shows it is Lisbeth's direct speech.",
+    "Searched the Swedish title 'Mannen som s\u00f6kte sin skugga' with 'ber\u00e4ttarperspektiv'; results were publisher copy, retail listings, or unrelated scholarship and supplied no usable whole-book POV analysis.",
+    "Checked Hachette UK's publisher page and its 'Read Excerpt' control; the accessible page exposed promotional summary rather than narratorial prose, so it was not used as person evidence.",
+    "Searched for interior phrases involving Faria Kazi and Jan Bublanski; results chiefly reproduced isolated Goodreads quotations and added no stronger structural evidence."
+  ],
+  "person_note": "The controlling narration is third person. Diagnostic Goodreads passages externally narrate Blomkvist, Bublanski, and Faria, including access to their judgments or thoughts, while the authorized opening likewise narrates Salander and Olsen as 'she' and 'he.' The apparent first-person dragon passage is direct speech by Lisbeth, and the remaining first-, second-, and plural-person forms occur in dialogue, embedded writing, or gnomic material. Confidence is medium because the strongest authorized web evidence is confined to the opening and no credible source explicitly establishes the whole-book structure, although the scattered interior quotes consistently corroborate third person and reveal no sustained alternate base narration.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_061",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:31:51.597847+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "87209d1b7ea9f85d1c2dd2c4b106b995819bdcd04babbbdb405fa3d8f5895bcd"
+  }
+}

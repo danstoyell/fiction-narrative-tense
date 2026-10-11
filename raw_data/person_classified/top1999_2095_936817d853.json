@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:2095",
+  "quotes": [
+    {
+      "quote_id": "q00256",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00257",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person reflection; the visible I does not establish base narration."
+    },
+    {
+      "quote_id": "q00258",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00259",
+      "person_signal": "non_base",
+      "note": "Generic advice using you, not second-person story narration."
+    },
+    {
+      "quote_id": "q00260",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive we, not a participating story narrator."
+    },
+    {
+      "quote_id": "q00261",
+      "person_signal": "non_base",
+      "note": "Extended universal reflection using our and us."
+    },
+    {
+      "quote_id": "q00262",
+      "person_signal": "non_base",
+      "note": "Lecter's direct speech to Clarice."
+    },
+    {
+      "quote_id": "q00263",
+      "person_signal": "non_base",
+      "note": "Dialogue whose first- and third-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00264",
+      "person_signal": "non_base",
+      "note": "Universal observation using we."
+    },
+    {
+      "quote_id": "q00265",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech."
+    },
+    {
+      "quote_id": "q00266",
+      "person_signal": "non_base",
+      "note": "Rhetorical generic you, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00267",
+      "person_signal": "third",
+      "note": "Sustained external narration of Lecter and Starling, including access to Lecter's thoughts."
+    },
+    {
+      "quote_id": "q00268",
+      "person_signal": "third",
+      "note": "Sustained nonparticipating narration describes Lecter's actions, satisfaction, and dreams."
+    },
+    {
+      "quote_id": "q00269",
+      "person_signal": "unmarked",
+      "note": "Live context identifies a narratorial transition rather than dialogue, but its generic you and we do not alone establish person."
+    },
+    {
+      "quote_id": "q00270",
+      "person_signal": "non_base",
+      "note": "Generic advice, not story narration."
+    },
+    {
+      "quote_id": "q00271",
+      "person_signal": "non_base",
+      "note": "Lecter's first-person dialogue."
+    },
+    {
+      "quote_id": "q00272",
+      "person_signal": "non_base",
+      "note": "Lecter's first-person dialogue to Clarice."
+    },
+    {
+      "quote_id": "q00273",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive-we commentary."
+    },
+    {
+      "quote_id": "q00274",
+      "person_signal": "non_base",
+      "note": "Live context shows this is Starling's free-direct thought, embedded within third-person narration."
+    },
+    {
+      "quote_id": "q00275",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00276",
+      "person_signal": "non_base",
+      "note": "Live context shows Barney quoting Lecter's description of Starling; the event bucket appears to be an upstream error."
+    },
+    {
+      "quote_id": "q00277",
+      "person_signal": "non_base",
+      "note": "Universal social commentary using we."
+    },
+    {
+      "quote_id": "q00278",
+      "person_signal": "third",
+      "note": "Sustained narration reports a female character's desire while the narratorial we supplies a general comparison."
+    },
+    {
+      "quote_id": "q00279",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows two characters as he and her without a participating frame."
+    },
+    {
+      "quote_id": "q00280",
+      "person_signal": "unmarked",
+      "note": "Narratorial exposition is present, but this character-free evaluative passage does not independently identify person."
+    },
+    {
+      "quote_id": "q00281",
+      "person_signal": "third",
+      "note": "Third-person narration enters the character's perception and judgment about the flowers."
+    },
+    {
+      "quote_id": "q00282",
+      "person_signal": "non_base",
+      "note": "Character dialogue with malformed quotation boundaries but identifiable speakers."
+    },
+    {
+      "quote_id": "q00283",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00284",
+      "person_signal": "third",
+      "note": "External scene narration repeatedly names Lecter and describes his movement through the barn."
+    },
+    {
+      "quote_id": "q00285",
+      "person_signal": "third",
+      "note": "Extended external exposition characterizes Lecter and reports how psychiatric peers regard him."
+    },
+    {
+      "quote_id": "q00286",
+      "person_signal": "third",
+      "note": "Although dialogue is prominent, the outside speech beats and description sustain a nonparticipating narratorial position."
+    },
+    {
+      "quote_id": "q00287",
+      "person_signal": "third",
+      "note": "Authorized context identifies this as narrator-to-reader guidance in Chapter 21, not dialogue or a second-person protagonist; narrator and reader remain spectators."
+    },
+    {
+      "quote_id": "q00288",
+      "person_signal": "third",
+      "note": "Sustained third-person narration describes Lecter's activity, aims, and hypothetical expert reactions."
+    },
+    {
+      "quote_id": "q00289",
+      "person_signal": "non_base",
+      "note": "Live context attributes this reflection to Starling's thought, making it local rather than base-person evidence."
+    },
+    {
+      "quote_id": "q00290",
+      "person_signal": "unmarked",
+      "note": "A single third-person characterization does not independently establish the narrator's participation status."
+    },
+    {
+      "quote_id": "q00291",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Crawford's condition, private decision, and death."
+    },
+    {
+      "quote_id": "q00292",
+      "person_signal": "non_base",
+      "note": "Rhetorical chapter-opening questions use generic you and are gnomic rather than a second-person storyline."
+    },
+    {
+      "quote_id": "q00293",
+      "person_signal": "non_base",
+      "note": "Dialogue with an outside attribution; the quoted pronouns belong to Mason and Doemling."
+    },
+    {
+      "quote_id": "q00294",
+      "person_signal": "non_base",
+      "note": "Gnomic narrator-reader commentary using us and our, not participating narration."
+    },
+    {
+      "quote_id": "q00295",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person description of Lecter's memory does not provide enough local structure for a diagnostic signal."
+    },
+    {
+      "quote_id": "q00296",
+      "person_signal": "unmarked",
+      "note": "One sentence reports her thought in third person, but lacks enough local context to establish the controlling narratorial position."
+    },
+    {
+      "quote_id": "q00297",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Barney's action and realization is compatible with more than one controlling person."
+    },
+    {
+      "quote_id": "q00298",
+      "person_signal": "unmarked",
+      "note": "Single third-person action plus generic-you simile; neither element independently identifies base person."
+    },
+    {
+      "quote_id": "q00299",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00300",
+      "person_signal": "unmarked",
+      "note": "Brief third-person action and simile do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00301",
+      "person_signal": "third",
+      "note": "Extended external exposition supplies Pazzi's background, acquisitiveness, and ambition; the final clipped word does not obscure the narrating position."
+    },
+    {
+      "quote_id": "q00302",
+      "person_signal": "non_base",
+      "note": "Fragment of Lecter's first-person speech to Clarice."
+    },
+    {
+      "quote_id": "q00303",
+      "person_signal": "non_base",
+      "note": "Starling's extended first-person testimony or statement."
+    },
+    {
+      "quote_id": "q00304",
+      "person_signal": "non_base",
+      "note": "Dialogue between Starling and Crawford."
+    },
+    {
+      "quote_id": "q00305",
+      "person_signal": "non_base",
+      "note": "Character speech recounting Lecter's earlier speech."
+    },
+    {
+      "quote_id": "q00306",
+      "person_signal": "non_base",
+      "note": "Character dialogue describing Lecter's motives."
+    },
+    {
+      "quote_id": "q00307",
+      "person_signal": "non_base",
+      "note": "Live context places this fragment inside Lecter's letter to Clarice, an embedded document rather than base narration."
+    },
+    {
+      "quote_id": "q00308",
+      "person_signal": "unmarked",
+      "note": "A single third-person description of Krendler's expression is not independently diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/480/hannibal",
+      "title": "Excerpt from Hannibal by Thomas Harris",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Publisher-permission excerpt from Chapter 21 moves from rhetorical reader guidance into sustained external narration of Lecter's actions, history, perceptions, and thoughts; the narrator is not a story character."
+    },
+    {
+      "url": "https://books.apple.com/us/book/hannibal/id419278688",
+      "title": "Hannibal by Thomas Harris on Apple Books",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The displayed Publishers Weekly review explicitly describes the novel's technique as third-person-plural narration, explaining its narratorial we as reader complicity rather than a participating character."
+    },
+    {
+      "url": "https://theses.ubn.ru.nl/server/api/core/bitstreams/e5d47092-f733-4c92-83c9-17b4069ad651/content",
+      "title": "Enamoured or Enemies? Analysing focalisation and space in Harris' novel and its adaptation",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly close reading finds shifting internal character focalisation and external focalisation by an anonymous agent. In conjunction with the prose evidence, that structure supports a nonparticipating third-person base narrator."
+    },
+    {
+      "url": "https://milfordsfwriters.wordpress.com/2021/03/02/hannibal-lecter-judges-me-when-i-cook-by-anthony-francis/",
+      "title": "Hannibal Lecter Judges Me When I Cook",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A writer's craft analysis identifies Harris's third-person omniscient technique and discusses specific Hannibal scenes in which narration moves outside and inside Lecter's perspective."
+    }
+  ],
+  "search_log": [
+    "Searched Thomas Harris Hannibal with excerpt, first chapter, publisher, and Google Books terms; opened Google Books, whose accessible page supplied metadata and catalog copy but no usable prose preview.",
+    "Opened BookBrowse's three-page Chapter 21 excerpt and verified its statement that the text was excerpted by permission of Delacorte Press.",
+    "Searched Hannibal Thomas Harris with point of view, third person, omniscient, and narrator terms; opened Apple Books, the Publishers Weekly review, a craft analysis, and an explicit but lower-quality summary.",
+    "Searched scholarly sources on Hannibal narration and focalisation; opened the Radboud University thesis and reviewed its whole-novel conclusion about shifting internal and external focalisation.",
+    "Searched epistolary, diary, frame narrative, multiple narrators, and alternating-point-of-view terms; found no credible evidence of sustained first- or second-person sections.",
+    "Ran targeted exact-line searches to resolve apparent contrary passages: q00274 is Starling's free-direct thought, q00276 is speech reported by Barney, q00307 is part of Lecter's letter, and q00287 is narrator-to-reader rhetoric. A full-text PDF on an unverified host was used only for contextual discovery and was excluded from web evidence."
+  ],
+  "person_note": "The controlling narrator is a nonparticipating third-person voice that shifts focalisation among Starling, Lecter, Pazzi, Crawford, and others. The diagnostic event quotes agree with the authorized Chapter 21 excerpt and the structural web sources. Apparent first-person material is local: q00274 is Starling's thought, q00276 is reported speech, and q00307 is Lecter's letter. Chapter 21's you/we language guides the reader through the setting as a spectator; it does not cast a story protagonist as you or turn the narrator into a character. Thus the rhetorical pronoun play does not create alternating base narration. The remaining uncertainty concerns only these local stylistic intrusions, not the whole-book structure.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.230355+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "93434e7ae2175068a37a669776ba9fae83726148f97455609ce6a62edb150f8d"
+  }
+}

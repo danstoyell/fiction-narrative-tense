@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:5938",
+  "quotes": [
+    {
+      "quote_id": "q05044",
+      "person_signal": "non_base",
+      "note": "A character's speculative question and follow-up, not narratorial self-reference."
+    },
+    {
+      "quote_id": "q05045",
+      "person_signal": "non_base",
+      "note": "Essayistic material from the author's note, outside the novel's base narration."
+    },
+    {
+      "quote_id": "q05046",
+      "person_signal": "non_base",
+      "note": "Standalone first-person speech or historical quotation, not the controlling narrator."
+    },
+    {
+      "quote_id": "q05047",
+      "person_signal": "non_base",
+      "note": "Extended dialogue; its pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q05048",
+      "person_signal": "non_base",
+      "note": "A quoted declaration in paratext; 'we Christians' belongs to the cited voice."
+    },
+    {
+      "quote_id": "q05049",
+      "person_signal": "non_base",
+      "note": "Historical commentary from the author's note rather than story narration."
+    },
+    {
+      "quote_id": "q05050",
+      "person_signal": "non_base",
+      "note": "Author's-note citation containing a scholar's quoted words."
+    },
+    {
+      "quote_id": "q05051",
+      "person_signal": "non_base",
+      "note": "Author's-note discussion and quotations of historian Paul Johnson."
+    },
+    {
+      "quote_id": "q05052",
+      "person_signal": "non_base",
+      "note": "Explicit authorial paratext referring to 'my description' and the pages of the novel."
+    },
+    {
+      "quote_id": "q05053",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates; the brief external beat 'She looked up' is possible base narration but is too slight by itself to establish person."
+    },
+    {
+      "quote_id": "q05054",
+      "person_signal": "third",
+      "note": "Narratorial beats interrupt the dialogue to report the bells, Father Jordan's delay, and his rising and extending a hand from outside the characters."
+    },
+    {
+      "quote_id": "q05055",
+      "person_signal": "non_base",
+      "note": "Fragmentary author's-note citation of Reza Aslan."
+    },
+    {
+      "quote_id": "q05056",
+      "person_signal": "non_base",
+      "note": "Historical account of Pius XII in the author's note."
+    },
+    {
+      "quote_id": "q05057",
+      "person_signal": "non_base",
+      "note": "Author's-note history containing quotations from historical church figures."
+    },
+    {
+      "quote_id": "q05058",
+      "person_signal": "non_base",
+      "note": "Author's-note historical discussion and a reported quotation from John XXIII."
+    },
+    {
+      "quote_id": "q05059",
+      "person_signal": "non_base",
+      "note": "Historical author's-note material about real wartime figures."
+    },
+    {
+      "quote_id": "q05060",
+      "person_signal": "non_base",
+      "note": "Author's-note historical commentary containing a scholar's quotation."
+    },
+    {
+      "quote_id": "q05061",
+      "person_signal": "non_base",
+      "note": "Authorial paratext explicitly distinguishing a real fraternity from the fictional Order."
+    },
+    {
+      "quote_id": "q05062",
+      "person_signal": "non_base",
+      "note": "First-person phrasing belongs to a character's argument in dialogue, not to the base narrator."
+    },
+    {
+      "quote_id": "q05063",
+      "person_signal": "unmarked",
+      "note": "The first-person material is speech; the clipped tag 'he repeated' is too slight to establish narrator participation."
+    },
+    {
+      "quote_id": "q05064",
+      "person_signal": "non_base",
+      "note": "Generalizing gnomic commentary does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q05065",
+      "person_signal": "unmarked",
+      "note": "The sentence is character speech; the attribution names Albanese but does not alone establish the narrator's person."
+    },
+    {
+      "quote_id": "q05066",
+      "person_signal": "non_base",
+      "note": "Author's-note citation of Bart D. Ehrman."
+    },
+    {
+      "quote_id": "q05067",
+      "person_signal": "non_base",
+      "note": "An aphorism attributed to a character, not controlling narration."
+    },
+    {
+      "quote_id": "q05068",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue attributed to Gabriel Allon."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://danielsilvabooks.com/books/the-order/read-an-excerpt-of-the-order/",
+      "title": "Read an excerpt of The Order \u2014 Daniel Silva",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's official site supplies the sustained first chapter. An external narrator consistently calls Luigi Donati 'he,' reports his movements and history, and renders his thoughts without becoming a participating character."
+    },
+    {
+      "url": "https://books.apple.com/us/book/the-order/id1483439967",
+      "title": "The Order by Daniel Silva \u2014 Apple Books",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher description includes a short opening passage that externally narrates Gabriel and Chiara in third person; its brevity and catalog context limit its weight."
+    },
+    {
+      "url": "https://anyflip.com/npotu/juid/basic/101-150",
+      "title": "THE ORDER by Daniel Silva \u2014 pages 101\u2013150",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An informal interior reproduction shows sustained external narration of Gabriel, Donati, and Father Jordan in chapters 26\u201327, including the context surrounding sampled dialogue. It is useful corroboration but is not an authorized source."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Daniel Silva The Order\" excerpt, first chapter, and HarperCollins excerpt.",
+    "Searched: \"The Order\" \"Daniel Silva\" point of view, third person, narrator, and narration perspective; no credible source explicitly described a different or alternating person structure.",
+    "Opened and reviewed the sustained first-chapter excerpt on Daniel Silva's official site.",
+    "Opened Apple Books' publisher description and its brief opening passage.",
+    "Searched exact sampled phrases, including \"The bells of Assisi tolled two o'clock\" and \"Solus ego sum reus mortis ejus,\" to resolve dialogue context.",
+    "Opened an interior chapter reproduction covering pages 101\u2013150; treated it only as Tier D because it is informal and unauthorized.",
+    "Checked Google Books, reviews, audiobook listings, and publisher-copy results; these mostly supplied synopsis or audiobook-performer information rather than explicit narrative-person analysis."
+  ],
+  "person_note": "The controlling prose is third person. The strongest evidence is the authorized first chapter, which sustains external narration of Donati while also accessing his thoughts. The Goodreads sample is dominated by dialogue and author's-note material, but q05054 independently exposes compatible third-person scene narration, and the located interior context continues that pattern across Gabriel, Donati, and Father Jordan. First-person forms in the sample belong to speech, cited documents, or authorial paratext, not an autonomous first-person narrative section. No credible evidence of sustained first- or second-person base narration or person alternation was found; the only limitation is that the authorized excerpt covers the opening rather than the whole book.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_073",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:09:00.338138+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1b19e5924d4c0b1431b9c86f138e38eb3e666a13402b7800093b33275dd1f34a"
+  }
+}

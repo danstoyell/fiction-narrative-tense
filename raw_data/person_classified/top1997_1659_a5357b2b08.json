@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:1659",
+  "quotes": [
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question using generic 'you'; it neither addresses a story-specific protagonist nor identifies the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.co.uk/9780385341806/Evening-Class-Novel-Binchy-Maeve-0385341806/plp",
+      "title": "Evening Class: A Novel \u2014 authorized excerpt",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The permission-reprinted, sustained SIGNORA excerpt narrates Nora externally as 'she' while freely presenting her memories and thoughts, establishing third-person narration for that named section."
+    },
+    {
+      "url": "https://services.phaidra.univie.ac.at/api/object/o:1275763/download",
+      "title": "Italianness in Selected Works of Fiction by Maeve Binchy, Elizabeth Spencer, and William Trevor",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This University of Vienna thesis reproduces passages from widely separated novel pages, including pages 17, 51\u201357, 329, 341, 470\u2013537, showing external third-person narration across Aidan-, Signora-, Connie-, and class-focused scenes through the ending."
+    },
+    {
+      "url": "https://www.enotes.com/topics/evening-class/in-depth",
+      "title": "Evening Class: Style and Technique",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The whole-book analysis explicitly identifies a third-person omniscient narrator linking nine character-focused segments."
+    }
+  ],
+  "search_log": [
+    "Searched \"Evening Class\" \"Maeve Binchy\" excerpt and opened a permission-reprinted sustained excerpt from the named SIGNORA section.",
+    "Searched \"Evening Class\" \"Maeve Binchy\" third-person narrator, point of view, omniscient, and narrative technique; opened the eNotes whole-book style analysis.",
+    "Opened a University of Vienna thesis and inspected its Evening Class chapter, including quoted narration from early, middle, late, and final pages.",
+    "Checked Penguin Random House's official title page and sample listings; the main page confirmed the edition but did not expose prose through its sample control.",
+    "Checked Google Books and Open Library results; their accessible pages supplied bibliographic or fragmented-preview information rather than a sustained additional passage.",
+    "Searched for epistolary, frame, multiple-narrator, and alternating-person descriptions; found character-centered chapters but no evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The Goodreads quote is gnomic and supplies no narrator-person support. The classification instead rests on two strong web routes: a Tier A authorized sustained section narrated in third person and a Tier B academic source reproducing third-person narration across widely separated portions through the ending. A separate whole-book analysis explicitly describes the same nine-segment structure as third-person omniscient. The changing character focus therefore reflects focalization, not alternating grammatical person; no credible contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.227948+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fc31227db247419d99987ee09aac5dc77daa781ab01b45ef644c55de4450cd47"
+  }
+}

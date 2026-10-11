@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:1335",
+  "quotes": [
+    {
+      "quote_id": "q01668",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no story-specific narrator or character context."
+    },
+    {
+      "quote_id": "q01669",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally describes a husband and his family routine in he/his, with no participating narrator frame."
+    },
+    {
+      "quote_id": "q01670",
+      "person_signal": "third",
+      "note": "Close-third narration renders an unnamed militant's fears, ambitions, and beliefs through he/his without a participating narrator."
+    },
+    {
+      "quote_id": "q01671",
+      "person_signal": "non_base",
+      "note": "Direct political speech; its first- and third-person wording does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01672",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Jack; I, you, and generic-person pronouns are local to the speaker."
+    },
+    {
+      "quote_id": "q01673",
+      "person_signal": "unmarked",
+      "note": "Possible narration or free-indirect commentary, but the group pronoun they alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q01674",
+      "person_signal": "non_base",
+      "note": "Quoted maxim rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q01675",
+      "person_signal": "unmarked",
+      "note": "Most of the excerpt is dialogue; the short external beat naming Jack and Clark is compatible with third-person narration but is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01676",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement with no story-specific narrator or focal context."
+    },
+    {
+      "quote_id": "q01677",
+      "person_signal": "non_base",
+      "note": "Gnomic or speech-like advice using generic you; it does not cast a story protagonist as you."
+    },
+    {
+      "quote_id": "q01678",
+      "person_signal": "unclear",
+      "note": "The fragment is clipped at both boundaries; he suggests third-person context, but too little local structure survives for a diagnostic signal."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://tomclancy.com/images/tomclancy/site/contents/dead_or_alive_clancy_1-2.pdf",
+      "title": "Dead or Alive \u2014 Chapters 1\u20132 excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized author-site excerpt sustains third-person narration through Chapter 1's Sam Driscoll scene and then shifts in Chapter 2 to an unnamed pilot and copilot, still in third person. First-person phrases are explicitly marked thoughts or dialogue, while generic you occurs within close focalization."
+    },
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780425263532",
+      "title": "Dead or Alive \u2014 Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates Sam Driscoll externally as he/Driscoll while presenting his thoughts locally; no participating narrator frames the scene."
+    }
+  ],
+  "search_log": [
+    "Searched \"Dead or Alive Tom Clancy Grant Blackwood excerpt first chapter\" and chapter/extract variants; found and opened the official Tom Clancy chapters 1\u20132 PDF and Penguin Random House excerpt.",
+    "Searched the verified title with \"point of view,\" \"third person,\" \"omniscient,\" \"narrator,\" and \"alternating\"; results produced no credible explicit whole-book POV analysis and included false matches for unrelated works titled Dead or Alive.",
+    "Searched exact text from q01669, q01673, and q01678; results mainly reproduced the same Goodreads quotations and did not supply expanded interior context.",
+    "Checked Google Books, Penguin Random House, Bookreporter, and ebook-preview results; Google Books exposed catalog/common-term material rather than useful sustained interior prose, while Bookreporter duplicated the opening excerpt."
+  ],
+  "person_note": "The controlling narration is third person, moving among characters and rendering their thoughts through close or free-indirect passages. The authorized opening independently demonstrates this across Driscoll and a separate pilot scene, and the interior Goodreads event quotations q01669 and q01670 corroborate the same nonparticipating narrative position. Dialogue, aphorisms, generic you, and local first-person thoughts are not alternate base narration. The main limitation is the absence of an explicit whole-book structural description, but no searched source or quote indicates sustained first- or second-person sections.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.247029+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "efe2f1d699fca237d23613c82dff6735dd49d2bd063edc45ee874904c102e99d"
+  }
+}

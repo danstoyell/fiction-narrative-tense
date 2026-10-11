@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:1365",
+  "quotes": [
+    {
+      "quote_id": "q01732",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first-person plural pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01733",
+      "person_signal": "non_base",
+      "note": "Gnomic, metafictional observation with no participating story narrator."
+    },
+    {
+      "quote_id": "q01734",
+      "person_signal": "non_base",
+      "note": "Direct character speech rather than controlling narration."
+    },
+    {
+      "quote_id": "q01735",
+      "person_signal": "third",
+      "note": "External narration refers to Elizabeth as \u201cshe\u201d and reports her developing understanding."
+    },
+    {
+      "quote_id": "q01736",
+      "person_signal": "non_base",
+      "note": "General maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q01737",
+      "person_signal": "non_base",
+      "note": "Gnomic statement that does not expose the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q01738",
+      "person_signal": "third",
+      "note": "An external narrator compares the Bennets\u2019 reactions and states Mr Bennet\u2019s preference."
+    },
+    {
+      "quote_id": "q01739",
+      "person_signal": "non_base",
+      "note": "Isolated first-person character utterance embedded within an otherwise third-person novel."
+    },
+    {
+      "quote_id": "q01740",
+      "person_signal": "third",
+      "note": "External narration reports the group\u2019s shared knowledge and social judgment."
+    },
+    {
+      "quote_id": "q01741",
+      "person_signal": "non_base",
+      "note": "General aphorism, nondiagnostic for narrative person."
+    },
+    {
+      "quote_id": "q01742",
+      "person_signal": "non_base",
+      "note": "Formal generalized assertion, likely local speech or documentary material, not base-person evidence."
+    },
+    {
+      "quote_id": "q01743",
+      "person_signal": "unmarked",
+      "note": "Third-person informational material about Austen characters, but the isolated passage does not establish its narrating position."
+    },
+    {
+      "quote_id": "q01744",
+      "person_signal": "third",
+      "note": "The external narrator satirically summarizes Mr Collins\u2019s conduct."
+    },
+    {
+      "quote_id": "q01745",
+      "person_signal": "non_base",
+      "note": "Gnomic observation rather than story-specific narrative-person evidence."
+    },
+    {
+      "quote_id": "q01746",
+      "person_signal": "third",
+      "note": "Free-indirect questioning and access to Elizabeth\u2019s knowledge occur within external narration of her as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q01747",
+      "person_signal": "third",
+      "note": "External narrator summarizes Mrs Bennet\u2019s condition and past behavior."
+    },
+    {
+      "quote_id": "q01748",
+      "person_signal": "unmarked",
+      "note": "Visual description of an unnamed \u201cshe\u201d lacks enough framing by itself to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q01749",
+      "person_signal": "third",
+      "note": "External narration enters Darcy\u2019s perceptions while contrasting Wickham\u2019s mental habits."
+    },
+    {
+      "quote_id": "q01750",
+      "person_signal": "unmarked",
+      "note": "Evaluative description contains no narrator or sufficiently contextualized character reference."
+    },
+    {
+      "quote_id": "q01751",
+      "person_signal": "third",
+      "note": "An external narrator reports the neighbors\u2019 attitudes toward Darcy and Elizabeth with authorial irony."
+    },
+    {
+      "quote_id": "q01752",
+      "person_signal": "third",
+      "note": "External narration summarizes both men\u2019s relationship and adds a narratorial generalization."
+    },
+    {
+      "quote_id": "q01753",
+      "person_signal": "third",
+      "note": "After clipped dialogue, the outside narrative beat describes Mr Collins\u2019s inability to detect the stratagem."
+    },
+    {
+      "quote_id": "q01754",
+      "person_signal": "third",
+      "note": "External narration explains Charlotte\u2019s acquired skill, method, and motive."
+    },
+    {
+      "quote_id": "q01755",
+      "person_signal": "third",
+      "note": "External narration reports Miss Bingley\u2019s pursuit and adds an ironic authorial aside."
+    },
+    {
+      "quote_id": "q01756",
+      "person_signal": "non_base",
+      "note": "General social maxim, not a diagnostic narrative event."
+    },
+    {
+      "quote_id": "q01757",
+      "person_signal": "third",
+      "note": "External narration reports Darcy\u2019s private view and reasoning."
+    },
+    {
+      "quote_id": "q01758",
+      "person_signal": "unclear",
+      "note": "The fragment lacks a subject and sufficient surrounding syntax to identify narrative person."
+    },
+    {
+      "quote_id": "q01759",
+      "person_signal": "non_base",
+      "note": "Isolated first-person character statement, not the novel\u2019s controlling narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/ec/novela-negra/16786-ebook-la-muerte-llega-a-pemberley/fragmento",
+      "title": "La muerte llega a Pemberley \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-hosted Spanish-edition extract presents the prologue through sustained external third-person narration of the Bennets and other characters."
+    },
+    {
+      "url": "https://www.everand.com/book/769258736/Death-Comes-to-Pemberley-A-Novel",
+      "title": "Death Comes to Pemberley: A Novel",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Licensed English ebook preview of Book One sustains third-person narration of Elizabeth and Darcy and reports both characters\u2019 perceptions and thoughts."
+    },
+    {
+      "url": "https://www.parolerubate.unipr.it/fascicolo16_pdf/F16_6_partenza_james.pdf",
+      "title": "Revisiting \u201cPride and Prejudice\u201d: P. D. James\u2019s \u201cDeath Comes to Pemberley\u201d",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly analysis discusses the novel\u2019s movement through characters\u2019 inwardness and cites Booklist\u2019s structural description of James assuming an omniscient Austen narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-death-comes-to-pemberley/styles.html",
+      "title": "P.D. James Writing Styles in Death Comes to Pemberley",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel\u2019s point of view as third-person omniscient."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDeath Comes to Pemberley P. D. James excerpt,\u201d publisher excerpts, first chapters, and previews; opened the Penguin publisher extract and Everand English preview.",
+    "Searched \u201cDeath Comes to Pemberley third person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201comniscient narrator\u201d; opened the explicit BookRags description and the Parole Rubate scholarly article.",
+    "Searched for epistolary, frame-narrative, multiple-narrator, and alternating-person structures; found no credible source describing sustained base sections in another grammatical person.",
+    "Opened the P. D. James archive, which lists an author-read extract, but its embedded audio supplied no searchable transcript and was not used as person evidence.",
+    "Opened Open Library and attempted Google Books; Open Library supplied only catalog and preview metadata, while the Google Books page did not expose usable prose.",
+    "Searched the exact first-person quote fragments and the Harriet Smith passage; results treated the first-person lines only as isolated quotations and supplied no evidence that they form controlling first-person narration."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person, often omniscient or free-indirect, with access to Elizabeth\u2019s, Darcy\u2019s, and other characters\u2019 thoughts. Numerous Goodreads event passages corroborate the publisher excerpts and scholarly whole-book description. The two isolated first-person event-bucket quotations are local character utterances rather than autonomous narrative sections; several gnomic and dialogue quotations are likewise non-base. No credible evidence of sustained first- or second-person sections was found. The only remaining limitation is that the authorized prose previews cover the opening, but the whole-book scholarly and explicit POV sources resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.249277+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ab4416ac503eebe32be3c84df9a4b23e82e57cf4c231667080f59c2adcac5073"
+  }
+}

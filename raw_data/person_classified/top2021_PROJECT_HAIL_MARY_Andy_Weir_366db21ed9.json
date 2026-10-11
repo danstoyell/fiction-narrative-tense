@@ -1,0 +1,456 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:PROJECT HAIL MARY|Andy Weir",
+  "quotes": [
+    {
+      "quote_id": "q05751",
+      "person_signal": "non_base",
+      "note": "General observation without story-specific narratorial person."
+    },
+    {
+      "quote_id": "q05752",
+      "person_signal": "first",
+      "note": "The dialogue beat \u201cI said\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q05753",
+      "person_signal": "non_base",
+      "note": "Dialogue and an external action beat do not identify the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q05754",
+      "person_signal": "first",
+      "note": "The narratorial beat \u201cI point\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q05755",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cyou\u201d addresses another character."
+    },
+    {
+      "quote_id": "q05756",
+      "person_signal": "first",
+      "note": "Sustained event narration uses narratorial \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q05757",
+      "person_signal": "non_base",
+      "note": "Character speech plus a nondiagnostic third-person action beat."
+    },
+    {
+      "quote_id": "q05758",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI can\u2019t imagine\u201d frames the hypothetical speech."
+    },
+    {
+      "quote_id": "q05759",
+      "person_signal": "first",
+      "note": "The narrator describes his mission activity as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05760",
+      "person_signal": "non_base",
+      "note": "Universal scientific claim; \u201cwe\u201d means humanity generally."
+    },
+    {
+      "quote_id": "q05761",
+      "person_signal": "unmarked",
+      "note": "Base internal commentary is plausible but contains no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q05762",
+      "person_signal": "first",
+      "note": "Narratorial action beats use \u201cI\u201d outside the quoted speech."
+    },
+    {
+      "quote_id": "q05763",
+      "person_signal": "first",
+      "note": "Extended internal narration repeatedly uses \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q05764",
+      "person_signal": "non_base",
+      "note": "Aphorism with no story-specific narrator reference."
+    },
+    {
+      "quote_id": "q05765",
+      "person_signal": "first",
+      "note": "Sustained action narration uses \u201cI\u201d before and between dialogue."
+    },
+    {
+      "quote_id": "q05766",
+      "person_signal": "first",
+      "note": "Narratorial self-assessment repeatedly uses \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05767",
+      "person_signal": "first",
+      "note": "The speech scene is framed by the narrator\u2019s \u201cI leaned.\u201d"
+    },
+    {
+      "quote_id": "q05768",
+      "person_signal": "first",
+      "note": "The narrator recounts his own past disposition using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05769",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns are local address."
+    },
+    {
+      "quote_id": "q05770",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to another character."
+    },
+    {
+      "quote_id": "q05771",
+      "person_signal": "non_base",
+      "note": "General scientific observation without story-specific person."
+    },
+    {
+      "quote_id": "q05772",
+      "person_signal": "first",
+      "note": "The dialogue beat \u201cI say\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q05773",
+      "person_signal": "first",
+      "note": "The dialogue beat \u201cI say\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q05774",
+      "person_signal": "first",
+      "note": "The narrator explicitly identifies himself as a participant in the event."
+    },
+    {
+      "quote_id": "q05775",
+      "person_signal": "first",
+      "note": "Sustained narration uses \u201cmy,\u201d \u201cme,\u201d and \u201cI\u201d for the acting narrator."
+    },
+    {
+      "quote_id": "q05776",
+      "person_signal": "first",
+      "note": "The narrator characterizes his own changed role using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05777",
+      "person_signal": "first",
+      "note": "Extended self-discovery narration repeatedly uses \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q05778",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cyou\u201d directly addresses Grace."
+    },
+    {
+      "quote_id": "q05779",
+      "person_signal": "non_base",
+      "note": "General evolutionary explanation; \u201cus\u201d is generic humanity."
+    },
+    {
+      "quote_id": "q05780",
+      "person_signal": "non_base",
+      "note": "General maxim using inclusive \u201cwe,\u201d not story-specific narration."
+    },
+    {
+      "quote_id": "q05781",
+      "person_signal": "first",
+      "note": "Narratorial beats use \u201cI,\u201d \u201cme,\u201d and observation of another character."
+    },
+    {
+      "quote_id": "q05782",
+      "person_signal": "unmarked",
+      "note": "Base situational commentary is plausible but narrator person is not explicit."
+    },
+    {
+      "quote_id": "q05783",
+      "person_signal": "unmarked",
+      "note": "Self-directed commentary implies a participant but lacks diagnostic \u201cI\u201d or \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q05784",
+      "person_signal": "first",
+      "note": "The narrator states his own concern using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05785",
+      "person_signal": "first",
+      "note": "Numerous narratorial beats and perceptions use \u201cI,\u201d \u201cmy,\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q05786",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cyou and me\u201d refers to the interlocutors."
+    },
+    {
+      "quote_id": "q05787",
+      "person_signal": "first",
+      "note": "The narrator compares his present situation using \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q05788",
+      "person_signal": "non_base",
+      "note": "General reflection; \u201cyou\u201d is generic rather than story-specific second person."
+    },
+    {
+      "quote_id": "q05789",
+      "person_signal": "first",
+      "note": "Internal event narration repeatedly uses \u201cI\u201d and \u201cI\u2019m.\u201d"
+    },
+    {
+      "quote_id": "q05790",
+      "person_signal": "first",
+      "note": "The action is narrated relative to the participating narrator as \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q05791",
+      "person_signal": "non_base",
+      "note": "General rhetorical maxim without a story-specific narrator reference."
+    },
+    {
+      "quote_id": "q05792",
+      "person_signal": "non_base",
+      "note": "Scientific exposition uses generic \u201cyou\u201d and \u201cyour.\u201d"
+    },
+    {
+      "quote_id": "q05793",
+      "person_signal": "unmarked",
+      "note": "Base commentary is plausible but contains no explicit narrator person."
+    },
+    {
+      "quote_id": "q05794",
+      "person_signal": "non_base",
+      "note": "Character speech with local \u201cI\u201d and \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q05795",
+      "person_signal": "non_base",
+      "note": "General scientific explanation without story-specific narrator person."
+    },
+    {
+      "quote_id": "q05796",
+      "person_signal": "non_base",
+      "note": "General observation about future generations."
+    },
+    {
+      "quote_id": "q05797",
+      "person_signal": "non_base",
+      "note": "Aphoristic observation without story-specific person."
+    },
+    {
+      "quote_id": "q05798",
+      "person_signal": "first",
+      "note": "The narrator reports something learned in his own past using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q05799",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d in commentary does not establish second-person narration."
+    },
+    {
+      "quote_id": "q05800",
+      "person_signal": "first",
+      "note": "Sustained physical action narration uses \u201cI,\u201d \u201cme,\u201d and \u201cI\u2019m.\u201d"
+    },
+    {
+      "quote_id": "q05801",
+      "person_signal": "first",
+      "note": "Internal narration repeatedly uses \u201cI\u201d for the participating protagonist."
+    },
+    {
+      "quote_id": "q05802",
+      "person_signal": "first",
+      "note": "The narrator describes his own mission and fate using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q05803",
+      "person_signal": "first",
+      "note": "Dialogue is framed by narratorial action beats using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q05804",
+      "person_signal": "non_base",
+      "note": "General technical rule using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q05805",
+      "person_signal": "first",
+      "note": "The dialogue scene includes the narrator\u2019s \u201cI ask\u201d beat."
+    },
+    {
+      "quote_id": "q05806",
+      "person_signal": "non_base",
+      "note": "Rhetorical historical analogy, not story-world narration."
+    },
+    {
+      "quote_id": "q05807",
+      "person_signal": "unmarked",
+      "note": "Historical exposition and predicted events do not identify narrator person."
+    },
+    {
+      "quote_id": "q05808",
+      "person_signal": "first",
+      "note": "The narrator\u2019s physical response is reported as \u201cI push.\u201d"
+    },
+    {
+      "quote_id": "q05809",
+      "person_signal": "first",
+      "note": "The narrator explicitly says \u201cI have to\u201d while addressing the reader generically."
+    },
+    {
+      "quote_id": "q05810",
+      "person_signal": "unmarked",
+      "note": "Named-character action and dialogue do not alone establish third-person narration."
+    },
+    {
+      "quote_id": "q05811",
+      "person_signal": "first",
+      "note": "Sustained dialogue framing includes \u201cI laugh\u201d and the narrator\u2019s movement."
+    },
+    {
+      "quote_id": "q05812",
+      "person_signal": "first",
+      "note": "The dialogue scene includes the narrator\u2019s action beat \u201cI take.\u201d"
+    },
+    {
+      "quote_id": "q05813",
+      "person_signal": "unmarked",
+      "note": "Historical exposition lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q05814",
+      "person_signal": "first",
+      "note": "The narrator recounts interaction with Rocky using \u201cme,\u201d \u201cwe,\u201d and \u201cour.\u201d"
+    },
+    {
+      "quote_id": "q05815",
+      "person_signal": "unmarked",
+      "note": "Inclusive \u201cwe\u201d refers rhetorically to humanity and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q05816",
+      "person_signal": "non_base",
+      "note": "Character speech addresses Grace; its \u201cyou\u201d does not indicate base second person."
+    },
+    {
+      "quote_id": "q05817",
+      "person_signal": "first",
+      "note": "The scene\u2019s narratorial beats repeatedly use \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q05818",
+      "person_signal": "first",
+      "note": "Narratorial observation outside the speech reports what the narrator perceives."
+    },
+    {
+      "quote_id": "q05819",
+      "person_signal": "non_base",
+      "note": "General scientific proposition without story-specific person."
+    },
+    {
+      "quote_id": "q05820",
+      "person_signal": "first",
+      "note": "Sustained internal event narration repeatedly uses \u201cI\u201d and \u201cI\u2019m.\u201d"
+    },
+    {
+      "quote_id": "q05821",
+      "person_signal": "non_base",
+      "note": "Character dialogue; \u201cwe\u201d belongs to Dimitri\u2019s speech."
+    },
+    {
+      "quote_id": "q05822",
+      "person_signal": "first",
+      "note": "The scene includes narratorial \u201cI start\u201d and \u201cI perk up\u201d action beats."
+    },
+    {
+      "quote_id": "q05823",
+      "person_signal": "non_base",
+      "note": "General quip using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q05824",
+      "person_signal": "first",
+      "note": "The dialogue scene is framed by narratorial \u201cI sob\u201d and \u201cI press.\u201d"
+    },
+    {
+      "quote_id": "q05825",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cyou and me\u201d names the interlocutors."
+    },
+    {
+      "quote_id": "q05826",
+      "person_signal": "first",
+      "note": "The narrator reports perception and inference using \u201cI\u2019ve\u201d and \u201cI can tell.\u201d"
+    },
+    {
+      "quote_id": "q05827",
+      "person_signal": "first",
+      "note": "The dialogue beat \u201cI say\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q05828",
+      "person_signal": "unmarked",
+      "note": "A choice list implies the protagonist\u2019s deliberation but does not explicitly mark person."
+    },
+    {
+      "quote_id": "q05829",
+      "person_signal": "first",
+      "note": "Sustained interior narration repeatedly uses \u201cI,\u201d \u201cmy,\u201d and \u201cme.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781529100617/9781529100617-sample.pdf",
+      "title": "Project Hail Mary \u2014 official Del Rey/Penguin sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized 49-page sample opens with sustained first-person narration by the waking protagonist, including his perceptions, actions, and internal reasoning."
+    },
+    {
+      "url": "https://oulurepo.oulu.fi/bitstream/10024/56237/1/nbnfioulu-202505213751.pdf",
+      "title": "Encounters with the Other in Ray Bradbury\u2019s The Martian Chronicles and Andy Weir\u2019s Project Hail Mary",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly thesis explicitly states that Weir\u2019s three main novels, including Project Hail Mary, are narrated in first person and analyzes the novel as a whole."
+    },
+    {
+      "url": "https://pixelatedgeek.com/2022/03/review-project-hail-mary/",
+      "title": "Review: Project Hail Mary",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes the entire book as first-person narration from Grace\u2019s point of view, covering both the spacecraft plot and Earth flashbacks."
+    },
+    {
+      "url": "https://www.rohanelliott.com/post/projecthailmary",
+      "title": "Review \u2013 Project Hail Mary by Andy Weir",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The reviewer explicitly identifies the novel\u2019s first-person point of view and explains that it limits readers to Grace\u2019s insight into other characters."
+    }
+  ],
+  "search_log": [
+    "Searched official author and publisher domains for \u201cProject Hail Mary\u201d excerpts and first-chapter material; found and opened the authorized Del Rey/Penguin sample.",
+    "Searched for explicit \u201cProject Hail Mary\u201d point-of-view, first-person, narrator, multiple-narrator, frame, and alternating-narration descriptions.",
+    "Opened the official publisher sample and confirmed sustained first-person narration in the opening.",
+    "Opened a scholarly University of Oulu thesis and confirmed its whole-work statement that Project Hail Mary is narrated in first person.",
+    "Opened two independent reviews that explicitly describe the whole novel as Grace\u2019s first-person narrative; found no credible evidence of sustained base narration in another person.",
+    "Checked Google Books, Penguin Random House catalog/interview pages, and synopsis results; these verified the edition and protagonist but were not used as person evidence because their descriptive grammar is nondiagnostic."
+  ],
+  "person_note": "Ryland Grace is the participating first-person narrator throughout the controlling narrative. The input quotes repeatedly expose his base narration through first-person action, perception, and internal commentary in both the present-time spacecraft plot and past-tense remembered scenes. Dialogue-only and gnomic quotations were treated as non-base, while bare named-character actions or generic \u201cyou/we\u201d statements were not promoted to third- or second-person evidence. The authorized opening independently demonstrates sustained first person, and whole-book scholarly and review evidence confirms that the same viewpoint controls the novel. No credible source indicates alternating or framed narration; the main limitation is that the Tier A excerpt covers only the opening, resolved by the extensive interior quote evidence and explicit whole-book sources.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_075",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T18:04:31.135856+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "81b79b6c3f20646f8db4e07257459ca1272df68a50a58a644dbba967d9b2543b"
+  }
+}

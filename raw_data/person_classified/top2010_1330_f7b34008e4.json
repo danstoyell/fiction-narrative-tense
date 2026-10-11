@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:1330",
+  "quotes": [
+    {
+      "quote_id": "q01685",
+      "person_signal": "non_base",
+      "note": "Eric's direct speech; its first-person pronouns identify the speaker, not the base narrator."
+    },
+    {
+      "quote_id": "q01686",
+      "person_signal": "first",
+      "note": "The narratorial frame says the note was written on a pad \u201cI kept\u201d; the quoted note itself is embedded."
+    },
+    {
+      "quote_id": "q01687",
+      "person_signal": "unmarked",
+      "note": "The telephone dialogue is non-diagnostic, and the external speech beat does not reveal the narrator's person."
+    },
+    {
+      "quote_id": "q01688",
+      "person_signal": "first",
+      "note": "The base-narrative speech tag and action, \u201cI said, squatting,\u201d expose a participating narrator."
+    },
+    {
+      "quote_id": "q01689",
+      "person_signal": "first",
+      "note": "After the dialogue, the narrator reports \u201cI thought,\u201d diagnostically exposing first-person narration."
+    },
+    {
+      "quote_id": "q01690",
+      "person_signal": "first",
+      "note": "The external action beat \u201cI cried, and dropped the letter\u201d is first-person base narration."
+    },
+    {
+      "quote_id": "q01691",
+      "person_signal": "non_base",
+      "note": "Unattributed direct dialogue; its first- and second-person pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q01692",
+      "person_signal": "first",
+      "note": "Sookie directly narrates her own thoughts and situation as \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q01693",
+      "person_signal": "unmarked",
+      "note": "The dialogue is non-diagnostic, while the base-narrative beat \u201cShe hung up\u201d does not establish person."
+    },
+    {
+      "quote_id": "q01694",
+      "person_signal": "first",
+      "note": "Sustained introspection uses narratorial \u201cI\u201d and \u201cmyself,\u201d showing a participating narrator."
+    },
+    {
+      "quote_id": "q01695",
+      "person_signal": "first",
+      "note": "Outside the dialogue, the narrator reports her own movement as \u201cI crossed\u201d and \u201ctossed.\u201d"
+    },
+    {
+      "quote_id": "q01696",
+      "person_signal": "first",
+      "note": "Sustained scene narration repeatedly presents the narrator's perceptions, actions, and thoughts as \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q01697",
+      "person_signal": "first",
+      "note": "The narrator participates in the scene and recounts her contemplated actions repeatedly as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01698",
+      "person_signal": "non_base",
+      "note": "Direct speech only; \u201cyou\u201d addresses another character rather than serving as second-person narration."
+    },
+    {
+      "quote_id": "q01699",
+      "person_signal": "unmarked",
+      "note": "The direct speech is non-diagnostic, and the external \u201che said\u201d beat alone does not establish narrator person."
+    },
+    {
+      "quote_id": "q01700",
+      "person_signal": "unmarked",
+      "note": "The inclusive \u201cwe\u201d states a general moral obligation and does not clearly denote a participating story narrator."
+    },
+    {
+      "quote_id": "q01701",
+      "person_signal": "first",
+      "note": "The narrator describes her own hypothetical urges as \u201cI,\u201d exposing first-person base narration."
+    },
+    {
+      "quote_id": "q01702",
+      "person_signal": "first",
+      "note": "The framing narration includes \u201cshe'd told me,\u201d placing the narrator within the story before the embedded speech."
+    },
+    {
+      "quote_id": "q01703",
+      "person_signal": "non_base",
+      "note": "An isolated gnomic quotation with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q01704",
+      "person_signal": "first",
+      "note": "The Spanish narratorial sentence says nobody had informed \u201cme,\u201d with Sookie identifying herself within the narrated situation."
+    },
+    {
+      "quote_id": "q01705",
+      "person_signal": "non_base",
+      "note": "An isolated gnomic rhetorical statement; its \u201cI\u201d is insufficiently contextualized as base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://media.public.gr/Books-PDF/9780575117112-0912872.pdf",
+      "title": "Dead in the Family \u2014 publisher-formatted excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained seven-page opening excerpt repeatedly presents Sookie's actions, memories, perceptions, and private thoughts as \u201cI,\u201d establishing first-person narration for the opening."
+    },
+    {
+      "url": "https://www.thebigthrill.org/2016/04/between-the-lines-with-charlaine-harris-interview-by-nancy-bilyeau/",
+      "title": "Between the Lines with Charlaine Harris",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In this author interview, Harris describes the Sookie books collectively as years of first-person feminine writing and says she kept the books anchored on Sookie."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Southern_Vampire_Mysteries",
+      "title": "The Southern Vampire Mysteries",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The series overview explicitly says the series is narrated in first person by Sookie Stackhouse and identifies Dead in the Family as its tenth novel."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDead in the Family Charlaine Harris excerpt first chapter\u201d; found the publisher-formatted opening PDF and Penguin Random House Library Marketing excerpt.",
+    "Searched \u201cDead in the Family first person narrator\u201d and \u201cDead in the Family point of view Sookie narrator\u201d; found explicit series-level first-person descriptions and no indication of alternating narration.",
+    "Searched \u201cCharlaine Harris interview Sookie first person novels narrated first person\u201d; found The Big Thrill interview in which Harris describes the Sookie books as first-person writing anchored on Sookie.",
+    "Searched site:penguinrandomhouse.com for the title and excerpt; the official product page offered a Read Sample control, but its crawled page did not expose diagnostic prose.",
+    "Searched site:charlaineharris.com for a Dead in the Family excerpt; results pointed to an obsolete author-site chapter link, so that link was not used as evidence."
+  ],
+  "person_note": "The diagnostic quotes repeatedly expose Sookie as a participating \u201cI\u201d narrator across actions, perceptions, and private reflection. Dialogue-only pronouns and Eric's embedded note were not allowed to vote as base narration, although narratorial framing around several dialogue passages independently confirms first person. The sustained opening excerpt agrees, and whole-series descriptions\u2014including Harris's own account\u2014identify the Sookie novels as first-person writing anchored on Sookie. No credible evidence of sustained second- or third-person sections was found; the only scope limitation is that the authorized prose source covers the opening rather than the complete novel.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.246752+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "48e9b9f33a869e21272482539d5b4b4467460d93f14c48726bafb7864d14c54a"
+  }
+}

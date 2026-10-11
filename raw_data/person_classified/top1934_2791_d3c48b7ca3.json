@@ -1,0 +1,387 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1934:2791",
+  "quotes": [
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Rutherford's direct speech in the first-person frame; the aphorism does not expose the frame narrator."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with generic we, not story-specific narration."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "Direct character speech; I and we belong to the speaker."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "non_base",
+      "note": "Chang's gnomic direct speech, not base narration."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "Direct rhetorical question without narratorial evidence."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "non_base",
+      "note": "The High Lama's generalized direct address, not base narration."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the evaluative Miss Brinklow/she beats belong to the third-person manuscript narration."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "Extended first-person speech by the High Lama; its pronouns are local to him."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "third",
+      "note": "Third-person focalization attributes the reflection to Conway as him within the main manuscript."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "third",
+      "note": "Full-text context places this third-person scene at the end of Rutherford's manuscript, immediately before the epilogue."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "Clipped aphorism without story-narration context."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "non_base",
+      "note": "The High Lama directly addresses Conway; pronouns belong to speech."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "Conway's direct speech; the short attribution alone is not diagnostic."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "The High Lama's direct address, not narrator-to-protagonist second person."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "The complete text confirms this is the High Lama's direct speech."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "unmarked",
+      "note": "Generic one and impersonal bodily description do not identify narrator participation."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "Dialogue between Conway and Chang; you is character address."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "The complete text identifies this as Conway's speech to Mallinson."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "The complete text identifies this first-person sentence as Chang's direct reply."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "third",
+      "note": "Conway's realization is rendered through third-person focalization in the main manuscript."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "non_base",
+      "note": "Chang's directly attributed speech."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "third",
+      "note": "Sustained external description and access to Conway's disposition establish third-person main narration."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "Extended High Lama speech; first-person plural references his community."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, the complete text shows this is Barnard's direct speech."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, this is sustained third-person narration of Conway's inner life."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "This is a clipped dialogue exchange; its you and I forms belong to the speakers."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "third",
+      "note": "Third-person focalization narrates Conway's perception and emotion in the manuscript."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "Character speech about Conway; I belongs to the speaker."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "non_base",
+      "note": "The complete text identifies this as the High Lama's question to Conway."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "Atmospheric scene narration contains no participant reference that identifies person."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "A character's directly addressed proverbial remark, not second-person base narration."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "non_base",
+      "note": "The complete text places this inside the High Lama's sustained speech."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "third",
+      "note": "The narratorial setup and speech beats place Conway and Chang externally in the third-person manuscript."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "third",
+      "note": "Sustained third-person access to Conway's surprise, misgivings, and inner analogy."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "first",
+      "note": "Participating we narration from the novel's first-person Prologue frame."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "unmarked",
+      "note": "Objective landscape description does not independently reveal narrator participation."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "unmarked",
+      "note": "A single he statement is compatible with either first- or third-person narration in isolation."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "The complete text identifies I as Conway speaking; the paratext bucket is also nondiagnostic."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "non_base",
+      "note": "Direct dialogue with only attribution tags."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "non_base",
+      "note": "Clipped Conway speech and attribution, not controlling narration."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "third",
+      "note": "The narrator presents Conway's judgment externally in third-person focalization."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "third",
+      "note": "Sustained narration of Conway's actions, knowledge, feelings, and attitudes is third person."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "non_base",
+      "note": "A Shakespeare quotation voiced locally in dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "non_base",
+      "note": "A Shakespeare quotation voiced locally in dialogue, not base narration."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "unmarked",
+      "note": "Scenic they has an inanimate antecedent and does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "third",
+      "note": "Sustained external and internal portrayal of Conway establishes third-person manuscript narration."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "third",
+      "note": "Third-person narration follows Conway's movements, imaginings, and emotional state."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "non_base",
+      "note": "Direct argument between characters; the brief voice description does not control the passage."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "non_base",
+      "note": "The complete text shows this sentence occurs inside Rutherford's speech in the Prologue."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "third",
+      "note": "Extended third-person access to Conway's preferences and self-assessment."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "unmarked",
+      "note": "A clipped fragment of Conway-centered free-indirect narration that does not itself identify person."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "unmarked",
+      "note": "The isolated he clause belongs to the main narration but is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "non_base",
+      "note": "Direct character speech with generalized those."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "third",
+      "note": "Sustained third-person narration enters Conway's dreamlike perception and inner mind."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "third",
+      "note": "Third-person narration directly renders Conway's realization and desire."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "third",
+      "note": "Sustained third-person focalization through Conway's survey, perception, and feeling."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "unmarked",
+      "note": "Despite the dialogue bucket, this is impersonal scenic narration; generic one does not identify person."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "non_base",
+      "note": "Conway's sustained first-person speech to the High Lama."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "non_base",
+      "note": "Conway's directly attributed first-person speech."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, the complete text identifies this as the High Lama's direct address."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, full-text context shows Conway-centered third-person free-indirect narration."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "third",
+      "note": "Third-person narrative beats frame Conway's response and Barnard's ensuing dialogue."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "third",
+      "note": "A third-person narratorial setup describes Mallinson's prior state and intervention before dialogue."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "third",
+      "note": "Sustained third-person narration reports the group, Conway's reflections, and his action."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "third",
+      "note": "Sustained external narration and access to Conway's reasoning establish third person."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "third",
+      "note": "Substantial third-person beats, including Conway's private reaction and thought, frame the dialogue."
+    },
+    {
+      "quote_id": "q00072",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows the passengers, Conway, and the pilot."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.ca/ebooks/hiltonj-losthorizon/hiltonj-losthorizon-00-h.html",
+      "title": "Lost Horizon by James Hilton, from Project Gutenberg Canada",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Complete text based on the 1936 Macmillan edition: the Prologue uses participating I/we narration, the narrator receives Rutherford's manuscript, Chapters I-XI narrate Conway in third person, and the Epilogue returns to the first-person frame."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-lost-horizon/style.html",
+      "title": "James Hilton Writing Styles in The Lost Horizon",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Its point-of-view section explicitly identifies the Prologue and Epilogue as first person and the rest of the novel as third-person, Conway-centered narration."
+    },
+    {
+      "url": "https://www.gradesaver.com/lost-horizon/study-guide/literary-elements",
+      "title": "Lost Horizon Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The narrator-and-point-of-view section explicitly describes the frame story as first person and the inner story as third person."
+    }
+  ],
+  "search_log": [
+    "Searched: \"James Hilton Lost Horizon full text prologue epilogue narrator Rutherford manuscript\"; opened the complete Project Gutenberg Canada text and inspected the Prologue, manuscript transition, Chapter I, interior passages, and Epilogue.",
+    "Searched: \"Lost Horizon James Hilton frame narrative first person third person point of view\" and \"Lost Horizon James Hilton excerpt first chapter publisher\"; opened the BookRags point-of-view page.",
+    "Searched: \"Lost Horizon narrative structure prologue epilogue Rutherford scholarly\"; results included irrelevant scholarship and an inaccessible PDF, neither used as evidence.",
+    "Searched: \"The first-person narrator appears in the Prologue and Epilogue\" \"Lost Horizon\", site:enotes.com, and site:gradesaver.com; opened GradeSaver's explicit point-of-view analysis.",
+    "Opened the PinkMonkey sample study guide; it corroborated the frame/manuscript transition, but its point-of-view sentence was truncated, so it was not retained as web evidence. Novelguide and a full-text PDF mirror initially returned access errors."
+  ],
+  "person_note": "The eleven-chapter main narrative is sustained third-person narration centered on Conway. A participating neurologist speaks in the Prologue and Epilogue, but those brief framing bookends are not a co-controlling base strand under the clarified aggregation rule. Dialogue and other local first-person material likewise do not alter the book-level result, so the base narration is THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_001",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:04:12.327037+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "bb5f676121986b9d8f821f7e7a3a2fa2bb7089102b83a5ce7ca6e0c64a352ab9"
+  }
+}

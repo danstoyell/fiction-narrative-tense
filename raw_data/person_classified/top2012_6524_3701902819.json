@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:6524",
+  "quotes": [
+    {
+      "quote_id": "q02675",
+      "person_signal": "non_base",
+      "note": "Gnomic reader address; generic \u201cyou\u201d is not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q02676",
+      "person_signal": "non_base",
+      "note": "Aphorism with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q02677",
+      "person_signal": "non_base",
+      "note": "Universal \u201cwe\u201d in a maxim does not make the narrator a participant."
+    },
+    {
+      "quote_id": "q02678",
+      "person_signal": "non_base",
+      "note": "General reflection; \u201cwe\u201d is universal rather than participating narration."
+    },
+    {
+      "quote_id": "q02679",
+      "person_signal": "non_base",
+      "note": "Character dialogue, not base narration."
+    },
+    {
+      "quote_id": "q02680",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not sustained second-person storytelling."
+    },
+    {
+      "quote_id": "q02681",
+      "person_signal": "non_base",
+      "note": "Generic reader address in an aphorism."
+    },
+    {
+      "quote_id": "q02682",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to dialogue; the brief speech beats are nondiagnostic."
+    },
+    {
+      "quote_id": "q02683",
+      "person_signal": "non_base",
+      "note": "Aphorism with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q02684",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial observation, but it contains no participant or sufficiently contextualized external narrator."
+    },
+    {
+      "quote_id": "q02685",
+      "person_signal": "non_base",
+      "note": "Universal \u201cwe\u201d occurs in gnomic material."
+    },
+    {
+      "quote_id": "q02686",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement without person evidence."
+    },
+    {
+      "quote_id": "q02687",
+      "person_signal": "non_base",
+      "note": "General maxim rather than contextualized story narration."
+    },
+    {
+      "quote_id": "q02688",
+      "person_signal": "third",
+      "note": "Sustained authorial history narrates mankind externally without a participating story narrator."
+    },
+    {
+      "quote_id": "q02689",
+      "person_signal": "non_base",
+      "note": "Metaphorical aphorism with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q02690",
+      "person_signal": "non_base",
+      "note": "General theological maxim."
+    },
+    {
+      "quote_id": "q02691",
+      "person_signal": "unmarked",
+      "note": "A clipped statement about an unnamed \u201cshe\u201d cannot alone establish the base narrator."
+    },
+    {
+      "quote_id": "q02692",
+      "person_signal": "non_base",
+      "note": "Universal reflection; \u201courselves\u201d does not indicate story participation."
+    },
+    {
+      "quote_id": "q02693",
+      "person_signal": "non_base",
+      "note": "Universal \u201cwe\u201d appears in a maxim."
+    },
+    {
+      "quote_id": "q02694",
+      "person_signal": "unmarked",
+      "note": "The character-state sentence and attached maxim lack enough local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q02695",
+      "person_signal": "non_base",
+      "note": "Pronouns occur within character dialogue."
+    },
+    {
+      "quote_id": "q02696",
+      "person_signal": "unmarked",
+      "note": "Clipped narration about an unnamed \u201che\u201d is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q02697",
+      "person_signal": "unmarked",
+      "note": "Possible authorial narration, but the generalized passage alone does not identify narrator participation."
+    },
+    {
+      "quote_id": "q02698",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d in an aphorism is not second-person base narration."
+    },
+    {
+      "quote_id": "q02699",
+      "person_signal": "non_base",
+      "note": "Generic reader address in gnomic material."
+    },
+    {
+      "quote_id": "q02700",
+      "person_signal": "non_base",
+      "note": "General maxim about an indefinite man."
+    },
+    {
+      "quote_id": "q02701",
+      "person_signal": "non_base",
+      "note": "Generalized statement about mankind."
+    },
+    {
+      "quote_id": "q02702",
+      "person_signal": "non_base",
+      "note": "Generic second-person counsel, not story-specific narration."
+    },
+    {
+      "quote_id": "q02703",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q02704",
+      "person_signal": "non_base",
+      "note": "General aphorism about first love."
+    },
+    {
+      "quote_id": "q02705",
+      "person_signal": "third",
+      "note": "Authorial exposition frames Dor externally as the historical story subject; inclusive \u201cwe\u201d refers generally to narrator and readers."
+    },
+    {
+      "quote_id": "q02706",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement about humanity."
+    },
+    {
+      "quote_id": "q02707",
+      "person_signal": "non_base",
+      "note": "Prophetic maxim about mankind rather than a contextualized narrative scene."
+    },
+    {
+      "quote_id": "q02708",
+      "person_signal": "non_base",
+      "note": "Universal \u201cwe\u201d in a general reflection."
+    },
+    {
+      "quote_id": "q02709",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d is aphoristic, not a narrated protagonist."
+    },
+    {
+      "quote_id": "q02710",
+      "person_signal": "non_base",
+      "note": "Second-person language is spoken by the old man in dialogue."
+    },
+    {
+      "quote_id": "q02711",
+      "person_signal": "non_base",
+      "note": "Universal \u201cwe\u201d occurs in a theological maxim."
+    },
+    {
+      "quote_id": "q02712",
+      "person_signal": "non_base",
+      "note": "General statement about children and fate."
+    },
+    {
+      "quote_id": "q02713",
+      "person_signal": "third",
+      "note": "External beats name Dor and Sarah and report Sarah\u2019s wondering, exposing third-person narration around the dialogue."
+    },
+    {
+      "quote_id": "q02714",
+      "person_signal": "unmarked",
+      "note": "General historical exposition does not by itself establish whether a narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q02715",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical question addressed to the reader."
+    },
+    {
+      "quote_id": "q02716",
+      "person_signal": "unmarked",
+      "note": "A clipped sentence about an unnamed \u201cshe\u201d is insufficient to identify the base narrator."
+    },
+    {
+      "quote_id": "q02717",
+      "person_signal": "non_base",
+      "note": "Imperative moral instruction rather than story narration."
+    },
+    {
+      "quote_id": "q02718",
+      "person_signal": "unmarked",
+      "note": "The excerpt presents an unnamed character\u2019s thought but lacks enough framing to establish narrator person independently."
+    },
+    {
+      "quote_id": "q02719",
+      "person_signal": "non_base",
+      "note": "First-person pronouns belong to Dor\u2019s quoted speech."
+    },
+    {
+      "quote_id": "q02720",
+      "person_signal": "unmarked",
+      "note": "Generalized authorial commentary is compatible with third person but is not independently diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.mitchalbom.com/books/time-keeper-excerpt/",
+      "title": "Excerpt from The Time Keeper",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author\u2019s sustained prologue and opening excerpt narrates Dor, Sarah, Victor, and other characters externally while moving among their private thoughts; occasional \u201cyou\u201d and \u201cwe\u201d are authorial reader address, not second- or first-person story participation."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-time-keeper/style.html",
+      "title": "Mitch Albom Writing Styles in The Time Keeper",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel\u2019s overall viewpoint as third-person omniscient with an authorial voice and explains its movement among Dor, Sarah, and Victor."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-time-keeper/study-guide/literary-elements",
+      "title": "The Time Keeper Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The literary-elements guide explicitly describes third-person narration that reveals the thoughts and feelings of all three protagonists."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMitch Albom The Time Keeper excerpt first chapter publisher\u201d and opened the sustained excerpt on the author\u2019s official site.",
+    "Searched \u201cThe Time Keeper Mitch Albom point of view third person narrator\u201d and opened the BookRags and GradeSaver viewpoint discussions.",
+    "Searched \u201cThe Time Keeper Mitch Albom Google Books excerpt Dor Sarah Victor\u201d for additional prose coverage; results included unofficial reproductions that were not used as evidence.",
+    "Searched \u201csite:mitchalbom.com The Time Keeper excerpt\u201d to verify the authorized source and its opening-section scope.",
+    "Opened Hachette UK\u2019s title page; its publisher synopsis confirmed the prose-fiction work and characters but did not independently establish narrative person, so it was not included as person evidence."
+  ],
+  "person_note": "The controlling narrator is a nonparticipating third-person authorial narrator who moves among Dor, Sarah, and Victor and accesses their thoughts. Diagnostic quote passages expose external narration, and the authorized opening demonstrates the same structure at sustained length; two whole-book viewpoint descriptions independently confirm it. First-person forms in the quotes occur in dialogue or universal aphorisms, while generic \u201cyou\u201d passages address readers rather than a story-specific protagonist. The remaining limitation is that the Tier A prose covers the opening rather than the entire novel, but the whole-book sources and quote evidence agree and no alternating base-person structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_052",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T05:26:04.286807+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3a6b68785f81de533288a7cd406e2c8470474b428f1b09b7f90394ba5d8c13d6"
+  }
+}

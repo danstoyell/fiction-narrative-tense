@@ -1,0 +1,160 @@
+{
+  "batch": 3,
+  "research_date": "2026-08-25",
+  "model": "gpt-5",
+  "reasoning": "Web-grounded narrative-person adjudication using PERSON_METHODOLOGY.md; labels are based on cited excerpts or explicit POV descriptions, not plot recall.",
+  "records": [
+    {
+      "selection_id": 21,
+      "year": 1996,
+      "title": "THE RUNAWAY JURY",
+      "author": "John Grisham",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "Two independent study sources explicitly identify the novel's narration as omniscient third person; both describe access to multiple characters' consciousnesses.",
+      "ambiguity": "Multiple focal characters are not alternating narrators; the sources describe one omniscient third-person narration.",
+      "sources": [
+        {"title": "The Runaway Jury Important Quotes with Page Numbers", "url": "https://www.supersummary.com/the-runaway-jury/important-quotes/", "source_type": "independent literary study guide", "supports": "Explicitly calls Grisham's narration third-person omniscient and says it enters multiple characters' consciousnesses."},
+        {"title": "John Grisham Writing Styles in The Runaway Jury", "url": "https://www.bookrags.com/studyguide-runaway-jury/style.html", "source_type": "independent literary study guide", "supports": "Explicitly says the story is told by an omniscient third person."}
+      ]
+    },
+    {
+      "selection_id": 22,
+      "year": 1978,
+      "title": "EVERGREEN",
+      "author": "Belva Plain",
+      "label": "UNRESOLVED",
+      "gold_confidence": "low",
+      "evidence_tier": "D",
+      "evidence_summary": "No qualifying source establishes Evergreen's controlling narrative person. The library record supplies only an unmarked opening sentence, while publisher/catalogue descriptions are third-person marketing summaries rather than novel text.",
+      "ambiguity": "Character-centered descriptions and an unauthenticated educational reproduction are not enough to distinguish a third-person narrator from a first-person narrator describing Anna.",
+      "searched_but_not_found": "Exact-title narrator/POV and first-/third-person queries; official publisher pages; Google Books; Open Library/Internet Archive catalogue and preview records; accessible scholarship and reviews. No lawful sustained preview or explicit reliable POV statement located.",
+      "sources": [
+        {"title": "Evergreen", "url": "https://openlibrary.org/books/OL7517575M/Evergreen", "source_type": "Open Library catalogue/preview record", "supports": "Supplies only the unmarked first sentence and identifies the available access as preview-only; it does not establish narrator person."},
+        {"title": "Evergreen", "url": "https://www.penguinrandomhouse.com/books/131730/evergreen-by-belva-plain/", "source_type": "official publisher page", "supports": "Confirms the edition and synopsis, but the synopsis is not evidence of the novel's grammatical narrator."}
+      ]
+    },
+    {
+      "selection_id": 23,
+      "year": 2025,
+      "title": "STRANGERS IN TIME",
+      "author": "David Baldacci",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "The author's authorized excerpt sustains scene narration of Charlie with third-person grammar and interior access; an independent publisher excerpt shows the same structure.",
+      "ambiguity": "First-person text in the excerpt is Charlie's marked thought, not the controlling narration.",
+      "sources": [
+        {"title": "STRANGERS IN TIME Excerpt", "url": "https://www.davidbaldacci.com/articles/strangers-in-time-excerpt/", "source_type": "official author excerpt", "supports": "Sustained authorized prose narrates Charlie externally while representing his perceptions and thoughts."},
+        {"title": "STRANGERS IN TIME Excerpt", "url": "https://www.hachettebookgroup.com/articles/strangers-in-time-excerpt/?lens=hachette-audio", "source_type": "official publisher excerpt", "supports": "Opening excerpt uses third-person narration centered on Charlie Matters."}
+      ]
+    },
+    {
+      "selection_id": 24,
+      "year": 2020,
+      "title": "THE BOY FROM THE WOODS",
+      "author": "Harlan Coben",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "Authorized publisher excerpts sustain external narration of the boy, named people, and police actions, without a narratorial I.",
+      "ambiguity": "The opening uses quoted news/police speech, but the controlling prose around it consistently refers to characters in third person.",
+      "sources": [
+        {"title": "Extract: The Boy from the Woods", "url": "https://www.penguin.com.au/books/the-boy-from-the-woods-9781787462977/extracts/2223-the-boy-from-the-woods", "source_type": "official publisher excerpt", "supports": "Authorized extract narrates the boy, hikers, rangers, and police externally in third person."},
+        {"title": "The Boy from the Woods", "url": "https://crimereads.com/excerpt-the-boy-from-the-woods/", "source_type": "publisher-affiliated excerpt", "supports": "Provides an excerpt identified as from Coben's novel, corroborating a third-person narrative presentation."}
+      ]
+    },
+    {
+      "selection_id": 25,
+      "year": 2023,
+      "title": "I WILL FIND YOU",
+      "author": "Harlan Coben",
+      "label": "FIRST",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "Two official Penguin regional excerpts sustain David's first-person account of prison, guilt, and his son's possible survival.",
+      "ambiguity": "References to Rachel and Matthew are ordinary first-person narration about other characters, not another narrative strand.",
+      "sources": [
+        {"title": "Extract: I Will Find You", "url": "https://www.penguin.com.au/books/i-will-find-you-9781804965412/extracts/2916-i-will-find-you", "source_type": "official publisher excerpt", "supports": "Authorized extract repeatedly uses the narrator's I/me/my while recounting prison and seeing an image of Matthew."},
+        {"title": "Extract: I Will Find You", "url": "https://www.penguin.co.nz/books/i-will-find-you-9781804965412/extracts/2889-i-will-find-you", "source_type": "official publisher excerpt", "supports": "A separate official extract sustains first-person reflection on the conviction and loss of the narrator's son."}
+      ]
+    },
+    {
+      "selection_id": 26,
+      "year": 1954,
+      "title": "LOVE IS ETERNAL",
+      "author": "Irving Stone",
+      "label": "UNRESOLVED",
+      "gold_confidence": "low",
+      "evidence_tier": "D",
+      "evidence_summary": "No qualifying source establishes Love Is Eternal's controlling narrative person. Google Books and library records identify a Mary Todd Lincoln novel, but their descriptions do not determine its grammatical narrator.",
+      "ambiguity": "A non-publisher educational reproduction contains third-person-looking prose, but its provenance is insufficient for a gold structural label and cannot rule out another base strand.",
+      "searched_but_not_found": "Exact-title narrator/POV and first-/third-person queries; publisher/Google Books records; Open Library and Internet Archive lending/preview records; Irving Stone's Library of Congress lecture; accessible scholarship and contemporary/review searches. No lawful sustained preview or explicit reliable POV statement located.",
+      "sources": [
+        {"title": "Love is Eternal: A Novel about Mary Todd Lincoln and Abraham Lincoln", "url": "https://books.google.com/books/about/Love_is_Eternal.html?id=aVEOAAAAIAAJ", "source_type": "Google Books bibliographic record", "supports": "Confirms the work's identity and subject but does not state or show the narrator's grammatical person."},
+        {"title": "Love is eternal", "url": "https://openlibrary.org/books/OL6155857M/Love_is_eternal", "source_type": "Open Library catalogue/lending record", "supports": "Confirms legitimate controlled digital lending availability, but the accessible record contains no readable sustained text or POV statement."}
+      ]
+    },
+    {
+      "selection_id": 27,
+      "year": 2008,
+      "title": "CHASING HARRY WINSTON",
+      "author": "Lauren Weisberger",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "The author's full first chapter and the publisher's excerpt narrate Leigh and Emmy externally while giving their thoughts, demonstrating third-person limited narration across more than one focal character.",
+      "ambiguity": "Interior thoughts are embedded within third-person narration; the several focal women are not first-person autonomous voices.",
+      "sources": [
+        {"title": "1st Chapter", "url": "https://www.laurenweisberger.com/books/chasing-harry-winston/1st-chapter/", "source_type": "official author excerpt", "supports": "Sustained opening narrates Leigh externally and renders her thoughts in a third-person frame."},
+        {"title": "Chasing Harry Winston", "url": "https://www.simonandschuster.com/books/Chasing-Harry-Winston/Lauren-Weisberger/9781501198144", "source_type": "official publisher excerpt", "supports": "Long excerpt moves among externally named characters, including Leigh, Emmy, and Adriana, in third-person prose."}
+      ]
+    },
+    {
+      "selection_id": 28,
+      "year": 1956,
+      "title": "THE LAST HURRAH",
+      "author": "Edwin O'Connor",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "An academic reference source explicitly says the narrative is third person, most often filtered through Adam Caulfield; a scholarly essay corroborates that Adam is not simply the narrator.",
+      "ambiguity": "Adam's close observational role can resemble participant narration, but the sources distinguish focalization from a first-person narrator.",
+      "sources": [
+        {"title": "The Last Hurrah by Edwin O'Connor", "url": "https://www.ebsco.com/research-starters/history/last-hurrah-edwin-oconnor", "source_type": "academic reference source", "supports": "Explicitly states that the narrative is in third person, most often through Adam's eyes."},
+        {"title": "Edwin O'Connor", "url": "https://ethicscenter.nd.edu/assets/156919/edwin_oconnor.pdf", "source_type": "university-hosted scholarly essay", "supports": "Explains the novel's participant-like narrator strategy and explicitly says Adam Caulfield is not the narrator."}
+      ]
+    },
+    {
+      "selection_id": 29,
+      "year": 2019,
+      "title": "THE GUARDIANS",
+      "author": "John Grisham",
+      "label": "FIRST",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "Two independent literary guides explicitly identify Cullen Post as the first-person narrator and describe the scope of his firsthand account.",
+      "ambiguity": "The publisher description's third-person plot summary is marketing copy, not the novel's narrative voice; the explicit POV sources resolve this.",
+      "sources": [
+        {"title": "John Grisham Writing Styles in The Guardians: A Novel", "url": "https://www.bookrags.com/studyguide-the-guardians-a-novel/styles.html", "source_type": "independent literary study guide", "supports": "Explicitly says the story is told from Cullen Post's first-person point of view."},
+        {"title": "The Guardians Chapters 1-10 Summary & Analysis", "url": "https://www.supersummary.com/the-guardians/chapters-1-10-summary/", "source_type": "independent literary study guide", "supports": "Explicitly identifies Cullen Post as the book's first-person limited narrator."}
+      ]
+    },
+    {
+      "selection_id": 30,
+      "year": 2016,
+      "title": "THE WRONG SIDE OF GOODBYE",
+      "author": "Michael Connelly",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "Connelly's authorized chapter excerpt sustains third-person narration centered on Bosch, including his perceptions and thoughts; the publisher page independently identifies the book and its Bosch focus.",
+      "ambiguity": "Close access to Bosch's mind is third-person limited, not Bosch narrating in first person.",
+      "sources": [
+        {"title": "The Wrong Side Of Goodbye Excerpt", "url": "https://www.michaelconnelly.com/writing/the-wrong-side-of-goodbye/the-wrong-side-of-goodbye-excerpt/", "source_type": "official author excerpt", "supports": "Authorized Chapter 1 repeatedly names Bosch and reports his perceptions/thoughts in third-person grammar."},
+        {"title": "The Wrong Side of Goodbye", "url": "https://www.hachette.co.uk/titles/michael-connelly/the-wrong-side-of-goodbye/9781409147510/", "source_type": "official publisher page", "supports": "Identifies the title as a Harry Bosch novel and links to an excerpt, corroborating the work/character attribution."}
+      ]
+    }
+  ]
+}

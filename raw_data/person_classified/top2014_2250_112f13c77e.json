@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:2250",
+  "quotes": [
+    {
+      "quote_id": "q02265",
+      "person_signal": "non_base",
+      "note": "Direct prayer or speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02266",
+      "person_signal": "unmarked",
+      "note": "Narratorial-looking observation with no participating-narrator marker."
+    },
+    {
+      "quote_id": "q02267",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d expresses the participating narrator\u2019s continuing belief."
+    },
+    {
+      "quote_id": "q02268",
+      "person_signal": "non_base",
+      "note": "General maxim about grief, not story-specific narration."
+    },
+    {
+      "quote_id": "q02269",
+      "person_signal": "unclear",
+      "note": "Clipped fragment leaves the voice and grammatical structure unresolved."
+    },
+    {
+      "quote_id": "q02270",
+      "person_signal": "first",
+      "note": "The event-bucket narrator refers to a personally owned phone with \u201cI\u2019ve.\u201d"
+    },
+    {
+      "quote_id": "q02271",
+      "person_signal": "unclear",
+      "note": "Truncated fragment does not preserve enough structure to identify person."
+    },
+    {
+      "quote_id": "q02272",
+      "person_signal": "unclear",
+      "note": "Both ends are clipped; the isolated \u201che\u201d cannot securely identify the narrating position."
+    },
+    {
+      "quote_id": "q02273",
+      "person_signal": "unmarked",
+      "note": "Third-person character reference and thought are too fragmentary to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q02274",
+      "person_signal": "non_base",
+      "note": "Character speech about the sense of smell is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q02275",
+      "person_signal": "non_base",
+      "note": "Dialogue-bucket generalization does not expose the base narrator."
+    },
+    {
+      "quote_id": "q02276",
+      "person_signal": "non_base",
+      "note": "First-person action is presented as character speech rather than controlling narration."
+    },
+    {
+      "quote_id": "q02277",
+      "person_signal": "unmarked",
+      "note": "Clipped observation contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02278",
+      "person_signal": "unclear",
+      "note": "Fragment lacks a recoverable narrator or predicate."
+    },
+    {
+      "quote_id": "q02279",
+      "person_signal": "first",
+      "note": "Despite the stray quotation mark, \u201cI grabbed\u201d is first-person story-action narration."
+    },
+    {
+      "quote_id": "q02280",
+      "person_signal": "unmarked",
+      "note": "Continuation fragment contains no narrator-identifying pronoun."
+    },
+    {
+      "quote_id": "q02281",
+      "person_signal": "unmarked",
+      "note": "Story-specific description of rain and pigs does not reveal whether the narrator participates."
+    },
+    {
+      "quote_id": "q02282",
+      "person_signal": "non_base",
+      "note": "General maxim about law-enforcement officers is gnomic rather than base narration."
+    },
+    {
+      "quote_id": "q02283",
+      "person_signal": "non_base",
+      "note": "A character directly addresses Alex in dialogue; \u201cyou\u201d is not second-person narration."
+    },
+    {
+      "quote_id": "q02284",
+      "person_signal": "first",
+      "note": "The participating narrator locates the murder scene \u201cbefore us.\u201d"
+    },
+    {
+      "quote_id": "q02285",
+      "person_signal": "first",
+      "note": "\u201cThere we were\u201d explicitly places the participating narrator in the narrated journey."
+    },
+    {
+      "quote_id": "q02286",
+      "person_signal": "first",
+      "note": "Fragmentary but story-specific recollection uses narratorial \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02287",
+      "person_signal": "third",
+      "note": "Third-person action and speech beat involving Acadia belong to the web-corroborated villain narrative track."
+    },
+    {
+      "quote_id": "q02288",
+      "person_signal": "unmarked",
+      "note": "The external speech beat names driver and passenger but does not exclude an observing first-person narrator."
+    },
+    {
+      "quote_id": "q02289",
+      "person_signal": "unclear",
+      "note": "Although \u201cmy family\u201d suggests Alex, clipping obscures whether this is narration, thought, or speech."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/hope-to-die-the-return-of-alex-cross/excerpt",
+      "title": "Hope to Die: The Return of Alex Cross by James Patterson | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The sustained Part One excerpt presents chapters 1\u20132 through third-person narration centered on Marcus Sunday and Acadia, then switches in chapters 3\u20134 to Alex Cross\u2019s participating first-person narration."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/hope-to-die-the-return-of-alex-cross",
+      "title": "Hope to Die: The Return of Alex Cross",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Joe Hartlaub\u2019s review explicitly describes three narrative tracks across the storyline, including Cross\u2019s first-person narrative, the official investigation, and Mulch\u2019s track; this corroborates the excerpt\u2019s person-switching structure."
+    },
+    {
+      "url": "https://www.jamespatterson.com/titles/james-patterson/hope-to-die/9781455515820/",
+      "title": "Hope to Die by James Patterson | James Patterson",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author\u2019s official title page verifies the work, author, Alex Cross series, publisher, and ISBN but provides no narrative-person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cHope to Die\u201d \u201cJames Patterson\u201d excerpt Alex Cross and opened the sustained Bookreporter Part One excerpt.",
+    "Searched \u201cHope to Die\u201d \u201cJames Patterson\u201d first person, narrator, and point of view; opened Bookreporter\u2019s whole-book review describing three narrative tracks.",
+    "Searched \u201cHope to Die\u201d Marcus Sunday third-person and Alex Cross narrative first person; results corroborated the series pattern but produced no stronger independent authorized interior excerpt.",
+    "Opened James Patterson\u2019s official title page to verify the edition and identity; its synopsis did not discuss narrative person.",
+    "Google Books, Google Play, Open Library, catalog, audiobook, retailer, and general-review results were discovery or synopsis material and were not used as person evidence."
+  ],
+  "person_note": "The quote set repeatedly exposes Alex Cross\u2019s participating first-person narration and also contains an Acadia-linked third-person villain beat; isolated third-person fragments were left unmarked or unclear where local attribution was inadequate. The sustained web excerpt independently shows two third-person Marcus Sunday/Acadia chapters followed by two first-person Alex chapters, while the whole-book review confirms multiple continuing narrative tracks. These are sustained base sections in different persons, so the book is ALTERNATING. No credible contradiction was found; the main limitation is that the direct web prose covers the opening, mitigated by the whole-book structural description and interior quote corroboration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.254328+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a11cb53aa36a11daf9ea67c95f392900ae96510f9a73ce0e040557fc05f0242c"
+  }
+}

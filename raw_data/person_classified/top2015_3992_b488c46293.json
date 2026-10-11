@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2015:3992",
+  "quotes": [
+    {
+      "quote_id": "q02290",
+      "person_signal": "non_base",
+      "note": "Direct speech; first-person pronouns belong to a character, not the narrator."
+    },
+    {
+      "quote_id": "q02291",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with universal second-person address; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q02292",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02293",
+      "person_signal": "non_base",
+      "note": "Direct speech or quoted slogan; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q02294",
+      "person_signal": "unmarked",
+      "note": "Narratorial aphorism with no participating or externally narrated character."
+    },
+    {
+      "quote_id": "q02295",
+      "person_signal": "third",
+      "note": "Sustained narration presents a woman externally as 'she' while rendering her questions; generic 'you' occurs inside her represented reflections."
+    },
+    {
+      "quote_id": "q02296",
+      "person_signal": "non_base",
+      "note": "Direct speech; first- and second-person pronouns belong to the speaker's statement."
+    },
+    {
+      "quote_id": "q02297",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question using universal rather than story-specific 'you'."
+    },
+    {
+      "quote_id": "q02298",
+      "person_signal": "non_base",
+      "note": "Direct speech defining friendship; its pronouns are not narratorial evidence."
+    },
+    {
+      "quote_id": "q02299",
+      "person_signal": "non_base",
+      "note": "Direct speech; the visible 'I' belongs to a character."
+    },
+    {
+      "quote_id": "q02300",
+      "person_signal": "non_base",
+      "note": "Gnomic material; 'My point' and generic 'you' do not establish the book's narrator."
+    },
+    {
+      "quote_id": "q02301",
+      "person_signal": "non_base",
+      "note": "Direct speech; 'we' refers to the speaking characters."
+    },
+    {
+      "quote_id": "q02302",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic 'you,' not second-person base narration."
+    },
+    {
+      "quote_id": "q02303",
+      "person_signal": "unmarked",
+      "note": "Atmospheric narratorial description without a participating narrator or externally narrated character."
+    },
+    {
+      "quote_id": "q02304",
+      "person_signal": "third",
+      "note": "Although bucketed as dialogue, the extended scene includes repeated external narration beats naming Evan and Colin, exposing third-person base narration."
+    },
+    {
+      "quote_id": "q02305",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization uses universal 'you'; it is not sustained second-person narration of a protagonist."
+    },
+    {
+      "quote_id": "q02306",
+      "person_signal": "non_base",
+      "note": "Direct speech; first-person references belong to the speaker."
+    },
+    {
+      "quote_id": "q02307",
+      "person_signal": "unmarked",
+      "note": "Setting description contains no person-diagnostic narrator or character reference."
+    },
+    {
+      "quote_id": "q02308",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization about people uses generic 'they' and 'people,' not enough by itself to identify narrator participation."
+    },
+    {
+      "quote_id": "q02309",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic and addressee-directed 'you'."
+    },
+    {
+      "quote_id": "q02310",
+      "person_signal": "non_base",
+      "note": "Direct speech, clipped at the end; its first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q02311",
+      "person_signal": "unmarked",
+      "note": "Narratorial aphorism without person-diagnostic reference."
+    },
+    {
+      "quote_id": "q02312",
+      "person_signal": "non_base",
+      "note": "Direct speech; the repeated 'I' belongs to a character."
+    },
+    {
+      "quote_id": "q02313",
+      "person_signal": "non_base",
+      "note": "Clipped direct exchange; its pronouns belong to the speakers."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-19.2015.09-see-me.pdf",
+      "title": "See Me Preview \u2014 Nicholas Sparks",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's 23-page preview sustains third-person narration through the unnamed stalker's prologue and Chapter 1, which is headed 'Colin' and externally narrates Colin's actions, perceptions, and thoughts."
+    },
+    {
+      "url": "https://journal.unpak.ac.id/index.php/albion/article/download/2466/1801",
+      "title": "Acts of Terror Committed by the Antagonist in Nicholas Sparks's See Me",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly analysis uses the novel as its primary text and explicitly states that the story is told in third person."
+    },
+    {
+      "url": "https://ccplwritersblock.wordpress.com/2017/09/05/see-me-by-nicholas-sparks-book-review/",
+      "title": "\u201cSee Me\u201d by Nicholas Sparks Book Review | CCPL Writers' Block",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes the novel as alternating between Colin and Maria by chapter while remaining in third person; these are focal-character changes, not changes of grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched: Nicholas Sparks See Me excerpt first chapter publisher; See Me Nicholas Sparks point of view third person narrator; See Me Nicholas Sparks Google Books excerpt Colin Maria; See Me Nicholas Sparks alternating point of view.",
+    "Opened and inspected the official 23-page Nicholas Sparks PDF preview, including the third-person prologue and Chapter 1 headed 'Colin.'",
+    "Searched targeted combinations for \"See Me\" with \"third person,\" \"alternating third-person,\" and \"point of view\" plus Colin and Maria.",
+    "Opened a scholarly Journal Albion article that explicitly identifies third-person narration across the novel and a CCPL review describing chapter-level alternation between third-person focal characters.",
+    "Hachette and Google Books pages were checked but supplied catalog synopsis rather than diagnostic prose or an explicit POV description; StoryGraph reviews helped locate the prologue and rotating focal-character structure but were not needed as primary evidence."
+  ],
+  "person_note": "The base narration is third person. The clearest quote evidence is the sustained third-person rendering of the woman's reflections in q02295 and the external scene beats around Colin and Evan in q02304; first-person forms elsewhere occur in dialogue or gnomic material. The authorized opening independently sustains third person across both an unnamed stalker prologue and Colin's first chapter, while scholarly whole-book analysis explicitly confirms third person. Reviews describe chapters rotating between Colin and Maria, but both strands remain third person, so this is not ALTERNATING under the person-label definition. No credible first- or second-person base section was found; the only residual limitation is that the authorized prose sample covers the opening rather than the entire novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_055",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T03:31:40.505138+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9bd809a36d6f534f2ef2ecdb0295cd8f2d58923a4e6b4ae1ed6e3d85eca4bd92"
+  }
+}

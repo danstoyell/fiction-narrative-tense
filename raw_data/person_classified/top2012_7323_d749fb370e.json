@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:7323",
+  "quotes": [
+    {
+      "quote_id": "q01798",
+      "person_signal": "non_base",
+      "note": "Direct character speech; the second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01799",
+      "person_signal": "third",
+      "note": "An external narrator attributes an unspoken question to Lloyd."
+    },
+    {
+      "quote_id": "q01800",
+      "person_signal": "non_base",
+      "note": "Direct advice spoken to another character."
+    },
+    {
+      "quote_id": "q01801",
+      "person_signal": "non_base",
+      "note": "Dialogue and an anecdote embedded within that dialogue."
+    },
+    {
+      "quote_id": "q01802",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic observation with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q01803",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Daisy's actions and perceptions around dialogue."
+    },
+    {
+      "quote_id": "q01804",
+      "person_signal": "non_base",
+      "note": "Standalone rhetorical maxim, not diagnostic narration."
+    },
+    {
+      "quote_id": "q01805",
+      "person_signal": "unmarked",
+      "note": "Local speech beats or a brief description of another character do not distinguish participating from nonparticipating narration."
+    },
+    {
+      "quote_id": "q01806",
+      "person_signal": "unmarked",
+      "note": "Narratorial comparison, but its plural subjects alone do not establish narrator participation."
+    },
+    {
+      "quote_id": "q01807",
+      "person_signal": "non_base",
+      "note": "Character dialogue with brief, nondiagnostic speech tags."
+    },
+    {
+      "quote_id": "q01808",
+      "person_signal": "non_base",
+      "note": "Direct speech by Ethel."
+    },
+    {
+      "quote_id": "q01809",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within direct character speech."
+    },
+    {
+      "quote_id": "q01810",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01811",
+      "person_signal": "third",
+      "note": "External narration reports Lloyd's inference and describes the Fascists as they."
+    },
+    {
+      "quote_id": "q01812",
+      "person_signal": "unmarked",
+      "note": "Historical exposition contains no participating narrator or story-specific addressee."
+    },
+    {
+      "quote_id": "q01813",
+      "person_signal": "unmarked",
+      "note": "A single contextless sentence about he and his intention is insufficient by itself."
+    },
+    {
+      "quote_id": "q01814",
+      "person_signal": "non_base",
+      "note": "Dialogue with only brief speech attribution."
+    },
+    {
+      "quote_id": "q01815",
+      "person_signal": "unmarked",
+      "note": "A single contextless sentence about she and her former belief is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01816",
+      "person_signal": "non_base",
+      "note": "The excerpt consists of Lloyd's direct speech and attribution."
+    },
+    {
+      "quote_id": "q01817",
+      "person_signal": "unmarked",
+      "note": "Local speech beats or a brief description of another character do not distinguish participating from nonparticipating narration."
+    },
+    {
+      "quote_id": "q01818",
+      "person_signal": "third",
+      "note": "External narration reports Greg's hearing and explicitly attributes his private thought."
+    },
+    {
+      "quote_id": "q01819",
+      "person_signal": "non_base",
+      "note": "Direct character speech despite the event bucket."
+    },
+    {
+      "quote_id": "q01820",
+      "person_signal": "non_base",
+      "note": "Dialogue-bucket material expressing a general observation, with no diagnostic base-narrator pronoun."
+    },
+    {
+      "quote_id": "q01821",
+      "person_signal": "non_base",
+      "note": "First-person and plural possessives belong to an apparent character statement, not base narration."
+    },
+    {
+      "quote_id": "q01822",
+      "person_signal": "non_base",
+      "note": "Paratext-bucket quotation of Lloyd's speech."
+    },
+    {
+      "quote_id": "q01823",
+      "person_signal": "unmarked",
+      "note": "A brief external setup introduces an embedded Lenin quotation but does not independently establish person."
+    },
+    {
+      "quote_id": "q01824",
+      "person_signal": "non_base",
+      "note": "Readerly plot commentary about the story rather than prose from the novel's base narration."
+    },
+    {
+      "quote_id": "q01825",
+      "person_signal": "third",
+      "note": "External narration reports Carla's realization and subsequent perception."
+    },
+    {
+      "quote_id": "q01826",
+      "person_signal": "non_base",
+      "note": "Extended direct speech by Ethel; its you-address is rhetorical dialogue."
+    },
+    {
+      "quote_id": "q01827",
+      "person_signal": "non_base",
+      "note": "Paratext-bucket excerpt of Lloyd's speech."
+    },
+    {
+      "quote_id": "q01828",
+      "person_signal": "non_base",
+      "note": "Direct speech attributed to Gus Dewar."
+    },
+    {
+      "quote_id": "q01829",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to embedded song lyrics."
+    },
+    {
+      "quote_id": "q01830",
+      "person_signal": "unmarked",
+      "note": "Possible third-person narration surrounds an embedded first-person quotation, but the clipped context is insufficient."
+    },
+    {
+      "quote_id": "q01831",
+      "person_signal": "unmarked",
+      "note": "Narratorial political commentary contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q01832",
+      "person_signal": "non_base",
+      "note": "A rhetorical question addressed within character speech."
+    },
+    {
+      "quote_id": "q01833",
+      "person_signal": "non_base",
+      "note": "Dialogue-bucket material appears to summarize a character's anti-Fascist speech."
+    },
+    {
+      "quote_id": "q01834",
+      "person_signal": "third",
+      "note": "Sustained external scene narration describes the car, neighborhood, governments, and Berliners."
+    },
+    {
+      "quote_id": "q01835",
+      "person_signal": "non_base",
+      "note": "An apparent character statement using we; it is not participating base narration."
+    },
+    {
+      "quote_id": "q01836",
+      "person_signal": "third",
+      "note": "Despite its dialogue bucket, the passage externally follows Greg's investigation, judgments, and suspicions."
+    },
+    {
+      "quote_id": "q01837",
+      "person_signal": "third",
+      "note": "The gnomic bucket appears questionable because the passage is sustained exposition ending with an externally attributed thought by Greg."
+    },
+    {
+      "quote_id": "q01838",
+      "person_signal": "non_base",
+      "note": "First-person plural language belongs to a German woman's direct speech."
+    },
+    {
+      "quote_id": "q01839",
+      "person_signal": "non_base",
+      "note": "Clipped universal-you question, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01840",
+      "person_signal": "unmarked",
+      "note": "General narratorial statement without a participating narrator or story-specific addressee."
+    },
+    {
+      "quote_id": "q01841",
+      "person_signal": "non_base",
+      "note": "The isolated first-person lament is a local character voice, inconsistent with the established base narration."
+    },
+    {
+      "quote_id": "q01842",
+      "person_signal": "unmarked",
+      "note": "Ideological exposition likely reflects a character's viewpoint, but the isolated passage has no diagnostic person marker."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ken-follett.com/wp-content/uploads/2020/08/Winter-of-the-World.pdf",
+      "title": "Winter of the World excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized 20-page excerpt sustains external third-person narration through Carla's section and then shifts to another third-person viewpoint section centered on Lloyd."
+    },
+    {
+      "url": "https://www.supersummary.com/winter-of-the-world/summary/",
+      "title": "Winter of the World Summary",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly describes an omniscient third-person narrator uniting nine character viewpoints across the novel."
+    }
+  ],
+  "search_log": [
+    "Searched: Ken Follett Winter of the World official excerpt chapter.",
+    "Searched: Winter of the World Ken Follett point of view third person narrator.",
+    "Searched: Winter of the World Google Books excerpt Ken Follett.",
+    "Searched: Winter of the World Ken Follett reading guide multiple viewpoints.",
+    "Searched targeted combinations for third-person narration, Lloyd, and Volodya interior excerpts.",
+    "Opened the authorized author-site PDF and verified sustained third-person prose across the Carla and Lloyd opening sections.",
+    "Opened SuperSummary's whole-book description and verified its explicit omniscient third-person characterization.",
+    "Opened Google Books; it verified publication metadata and the broad contents but exposed no useful sustained prose in the accessible page.",
+    "Opened BookRags but excluded it from evidence because its point-of-view paragraph first says first-person, then immediately and repeatedly calls the narration third-person omniscient.",
+    "The Penguin Random House secondary-education result advertised an excerpt, but opening it returned an internal access error; no evidence was taken from the snippet.",
+    "Search also surfaced an unauthorized full-text site and plot summaries; these were not used as prose evidence."
+  ],
+  "person_note": "The authorized opening presents a nonparticipating third-person narrator with access to Carla's thoughts and then changes focal character to Lloyd without changing grammatical person. Multiple Goodreads passages independently show the same pattern around Daisy, Lloyd, Greg, Carla, and other characters. Apparent first-person examples are dialogue, thought, song, or other local voices, not sustained base sections. The whole-book structural description confirms an omniscient third-person narrator coordinating nine viewpoints. No credible evidence establishes a sustained first- or second-person base section; the only material uncertainty is that the authorized primary excerpt covers the opening rather than the entire novel. Quote audit: q01805 and q01817 are locally unmarked; their pronouns and character references do not independently establish THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_052",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T05:26:04.288019+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "07462cb1be9923969634770af5df51d7d4abe0a039f6b2ce03f1aaba5b4b4792"
+  }
+}

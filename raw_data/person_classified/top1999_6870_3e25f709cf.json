@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:6870",
+  "quotes": [
+    {
+      "quote_id": "q00430",
+      "person_signal": "non_base",
+      "note": "General reflection about modern humanity; the inclusive pronouns are gnomic rather than participating story narration."
+    },
+    {
+      "quote_id": "q00431",
+      "person_signal": "unmarked",
+      "note": "The brief external frame reports Professor Johnston's habitual saying, but does not alone establish the controlling narrator's person."
+    },
+    {
+      "quote_id": "q00432",
+      "person_signal": "non_base",
+      "note": "General statement about the purpose and power of history, without story-specific narration."
+    },
+    {
+      "quote_id": "q00433",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison of modern and prescientific ages; no diagnostic base-narrator pronoun."
+    },
+    {
+      "quote_id": "q00434",
+      "person_signal": "non_base",
+      "note": "Abstract explanation of time, likely local exposition or speech, rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q00435",
+      "person_signal": "non_base",
+      "note": "Extended cultural argument about entertainment and authenticity; its generic pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00436",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narratorial context."
+    },
+    {
+      "quote_id": "q00437",
+      "person_signal": "third",
+      "note": "Story-specific narration discusses Andr\u00e9 externally and reports what he had believed; generic 'you' does not address a protagonist."
+    },
+    {
+      "quote_id": "q00438",
+      "person_signal": "unmarked",
+      "note": "Possible base exposition about temporal provincials, but the group reference alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00439",
+      "person_signal": "non_base",
+      "note": "Aphoristic second-person wording is universal address, not sustained narration of a story-specific 'you'."
+    },
+    {
+      "quote_id": "q00440",
+      "person_signal": "third",
+      "note": "Sustained external narration ranges across company personnel, Kramer, and their knowledge; hypothetical 'you' in the wafer examples is impersonal."
+    },
+    {
+      "quote_id": "q00441",
+      "person_signal": "non_base",
+      "note": "Hypothetical argument addressed to a generic 'you,' not second-person story narration."
+    },
+    {
+      "quote_id": "q00442",
+      "person_signal": "non_base",
+      "note": "General social commentary; 'us' and 'we' are inclusive rhetorical usages rather than a participating narrator."
+    },
+    {
+      "quote_id": "q00443",
+      "person_signal": "third",
+      "note": "External narration presents an unnamed male character's realization and renders his situation through third-person references."
+    },
+    {
+      "quote_id": "q00444",
+      "person_signal": "non_base",
+      "note": "General historical comparison; inclusive 'we' is gnomic and not evidence of a participating narrator."
+    },
+    {
+      "quote_id": "q00445",
+      "person_signal": "non_base",
+      "note": "Clipped general statement about cultural tourism, not story-specific narration."
+    },
+    {
+      "quote_id": "q00446",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough context or grammatical structure to determine its narrative function."
+    },
+    {
+      "quote_id": "q00447",
+      "person_signal": "third",
+      "note": "The narratorial frame externally presents a male character's memory; the quoted student remark is embedded speech."
+    },
+    {
+      "quote_id": "q00448",
+      "person_signal": "third",
+      "note": "External narration directly reports Marek's knowledge and self-recognition in third person."
+    },
+    {
+      "quote_id": "q00449",
+      "person_signal": "non_base",
+      "note": "The first-person and second-person forms occur in dialogue; the short attribution beats are not independently diagnostic."
+    },
+    {
+      "quote_id": "q00450",
+      "person_signal": "unmarked",
+      "note": "The single third-person sentence may be base narration, but by itself is too brief to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00451",
+      "person_signal": "unclear",
+      "note": "Clipping removes the subject and surrounding structure needed to identify the voice."
+    },
+    {
+      "quote_id": "q00452",
+      "person_signal": "unmarked",
+      "note": "Parenthetical historical exposition names King John externally, but a single named subject does not establish narrative person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://michaelcrichton.com/works/timeline/",
+      "title": "Timeline - Michael Crichton",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author's official site provides three sustained passages from different situations. They narrate Johnston, Kate, Marek, and other characters externally in third person, including Kate's thoughts, with no participating narratorial frame."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-timeline/styles.html",
+      "title": "Michael Crichton Writing Styles in Timeline",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the entire novel as third-person omniscient and explains that its perspective ranges among Marek, Kate, Chris, and minor characters."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Michael Crichton Timeline official excerpt first chapter\" and site:michaelcrichton.com Timeline excerpt; opened the official work page and inspected all three displayed passages.",
+    "Searched: \"Timeline\" \"third person omniscient\" \"Michael Crichton\", \"Timeline\" Michael Crichton \"point of view\", and Timeline Crichton narrator omniscient; opened the BookRags point-of-view analysis.",
+    "Searched Google Books and Penguin Random House editions for a publisher preview. Google Books exposed bibliographic and synopsis material but no usable sustained preview in the opened page; the Penguin Random House product page's sample was not exposed as readable text.",
+    "Searched for additional chapter excerpts and structural discussion. A searchable PDF copy and summary sites appeared, but they were unnecessary or weaker than the authorized excerpts and explicit whole-book POV source; no credible evidence of first-person, second-person, or alternating base narration was found."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates multiple characters externally in the third person. Several Goodreads passages provide character-specific third-person narration, including access to Marek's knowledge and another character's realization, while the official excerpts independently show the same pattern across modern and medieval scenes. First- and second-person forms in the remaining quotes are dialogue, aphorism, inclusive rhetoric, or generic hypotheticals rather than alternate base narration. The whole-book POV description confirms that the shifting character perspectives remain third-person omniscient; no material uncertainty or credible contrary structure remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_033",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-02T19:08:41.016966+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8be65bf2e807131d1df1fa2d491e7ef2f00194296a167c89afe868697d89180d"
+  }
+}

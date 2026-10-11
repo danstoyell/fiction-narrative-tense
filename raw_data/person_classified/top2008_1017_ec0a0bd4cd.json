@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:1017",
+  "quotes": [
+    {
+      "quote_id": "q00445",
+      "person_signal": "non_base",
+      "note": "Gnomic relationship advice; its third-person references do not expose the base narrator."
+    },
+    {
+      "quote_id": "q00446",
+      "person_signal": "non_base",
+      "note": "Imperative advice with generic you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00447",
+      "person_signal": "non_base",
+      "note": "Aphoristic metaphor with no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00448",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur inside character speech and do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00449",
+      "person_signal": "third",
+      "note": "Sustained external narration refers to the sisters as they and reports their shared feeling without a participating narrator."
+    },
+    {
+      "quote_id": "q00450",
+      "person_signal": "unmarked",
+      "note": "The isolated he-description lacks enough context to distinguish third-person base narration from locally focalized material."
+    },
+    {
+      "quote_id": "q00451",
+      "person_signal": "third",
+      "note": "Third-person free-indirect narration represents the focal character as she while conveying her private reasoning."
+    },
+    {
+      "quote_id": "q00452",
+      "person_signal": "third",
+      "note": "The passage names Leigh as she and narrates her sensations and memory externally; the embedded your is generic experiential phrasing, not sustained second person."
+    },
+    {
+      "quote_id": "q00453",
+      "person_signal": "third",
+      "note": "The narrator identifies Emmy in third person and reports her private inference, establishing a nonparticipating narrating position."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.ca/books/Chasing-Harry-Winston/Lauren-Weisberger/9781501198144",
+      "title": "Chasing Harry Winston | Book by Lauren Weisberger | Official Publisher Page",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained excerpt narrates Leigh, Emmy, and Adriana externally as she/her while moving through their perceptions and internal states; no participating narrator frames the prose."
+    },
+    {
+      "url": "https://www.laurenweisberger.com/books/chasing-harry-winston/1st-chapter/",
+      "title": "1st Chapter | Lauren Weisberger",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's official first-chapter page corroborates third-person narration centered on Leigh, including external action and access to her thoughts."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with excerpt and first-chapter terms; opened the Simon & Schuster publisher excerpt and Lauren Weisberger's official first-chapter page.",
+    "Searched for \"Chasing Harry Winston\" with third person, point of view, narrator, third-person narrative, and omniscient; no credible explicit whole-book POV description was found.",
+    "Searched for epistolary, diary, frame narrative, multiple narrators, and alternating point of view; found no evidence of a different-person frame or sustained first- or second-person sections.",
+    "Opened Kirkus and reviewed Publishers Weekly and library/audio results; they describe plot or audiobook performers rather than grammatical narrative person, so they were not used as person evidence.",
+    "Exact-quote searches located Goodreads material and an unauthorized novel mirror; these were not treated as independent web evidence."
+  ],
+  "person_note": "The base narration is third person, with focalization shifting among Leigh, Emmy, and Adriana. The authorized opening repeatedly narrates these women externally and agrees with multiple interior Goodreads passages that report Leigh's and Emmy's private thoughts as she/her. Character dialogue, aphoristic advice, and q00452's generic your are local material rather than first- or second-person base narration. Multiple focal characters do not create an alternation of narrative person. The main limitation is that authorized web prose covers the opening rather than the whole book, but the independent interior quote evidence is consistent and no contrary structure emerged from targeted research.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.244083+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0429e044fb9deda217a371b5b026a1457775f026025cc510d2eab11062b6acb3"
+  }
+}

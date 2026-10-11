@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:TELL ME EVERYTHING|Elizabeth Strout",
+  "quotes": [
+    {
+      "quote_id": "q09512",
+      "person_signal": "non_base",
+      "note": "Generic reflection using inclusive \u201cus\u201d; it does not make the narrator a story participant."
+    },
+    {
+      "quote_id": "q09513",
+      "person_signal": "non_base",
+      "note": "Aphorism about love with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q09514",
+      "person_signal": "non_base",
+      "note": "Universal aphorism rather than person-marked story narration."
+    },
+    {
+      "quote_id": "q09515",
+      "person_signal": "non_base",
+      "note": "The first-person reference to stories shared with Lucy is character-local speech or reflection, followed by generalization; it is not the base narrator participating in events."
+    },
+    {
+      "quote_id": "q09516",
+      "person_signal": "non_base",
+      "note": "Impersonal, universal reflection with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q09517",
+      "person_signal": "non_base",
+      "note": "Lucy\u2019s quoted speech is non-base material; the brief external attribution is insufficient by itself."
+    },
+    {
+      "quote_id": "q09518",
+      "person_signal": "non_base",
+      "note": "A first-person gnomic reflection, not evidence that the narrator participates in the story."
+    },
+    {
+      "quote_id": "q09519",
+      "person_signal": "non_base",
+      "note": "Sustained character speech addressing \u201cyou,\u201d not second-person base narration."
+    },
+    {
+      "quote_id": "q09520",
+      "person_signal": "third",
+      "note": "Sustained external narration names Bob and describes the development of his internal desires without a participating narrator."
+    },
+    {
+      "quote_id": "q09521",
+      "person_signal": "non_base",
+      "note": "Lucy\u2019s quoted first-person statement is dialogue; the attribution is only a brief beat."
+    },
+    {
+      "quote_id": "q09522",
+      "person_signal": "non_base",
+      "note": "General reflection on unrecorded lives without diagnostic story-world person."
+    },
+    {
+      "quote_id": "q09523",
+      "person_signal": "unmarked",
+      "note": "The clipped fragment may be narration but contains too little context to establish narrator participation."
+    },
+    {
+      "quote_id": "q09524",
+      "person_signal": "third",
+      "note": "Outside the quoted speech, the passage sustains external scene narration of Lucy\u2019s movements and actions."
+    },
+    {
+      "quote_id": "q09525",
+      "person_signal": "non_base",
+      "note": "An imperative spoken to another character, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09526",
+      "person_signal": "unclear",
+      "note": "The isolated first-person sentence lacks boundaries needed to distinguish character speech from narration."
+    },
+    {
+      "quote_id": "q09527",
+      "person_signal": "unmarked",
+      "note": "Impersonal setting description identifies no participating or nonparticipating narrating position by itself."
+    },
+    {
+      "quote_id": "q09528",
+      "person_signal": "non_base",
+      "note": "Inclusive \u201cwe\u201d expresses a universal maxim rather than participation in story events."
+    },
+    {
+      "quote_id": "q09529",
+      "person_signal": "non_base",
+      "note": "A universal rhetorical question with no story-specific person evidence."
+    },
+    {
+      "quote_id": "q09530",
+      "person_signal": "third",
+      "note": "Web-recovered opening context identifies \u201che\u201d as Bob and attributes the passage to the novel\u2019s omniscient narrator; inclusive \u201cwe\u201d is commentary, not character participation."
+    },
+    {
+      "quote_id": "q09531",
+      "person_signal": "non_base",
+      "note": "Proverbial \u201cyou\u201d is universal address, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q09532",
+      "person_signal": "unmarked",
+      "note": "A single sentence about \u201cshe\u201d is compatible with either third-person narration or a participating narrator describing someone else."
+    },
+    {
+      "quote_id": "q09533",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly an Olive\u2013Lucy dialogue; its brief speech beats do not independently establish base person."
+    },
+    {
+      "quote_id": "q09534",
+      "person_signal": "unmarked",
+      "note": "The generic \u201cwe\u201d and short reference to \u201chim\u201d do not provide enough local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q09535",
+      "person_signal": "unmarked",
+      "note": "A brief third-person reference combined with generic \u201cwe\u201d is compatible with multiple narrating positions."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.elizabethstrout.com/books/tell-me-everything/tme-excerpt",
+      "title": "Tell Me Everything: Excerpt \u2014 Elizabeth Strout",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The author-authorized sustained excerpt externally narrates Olive\u2019s actions, perceptions, and thoughts in third person."
+    },
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241634363/9780241634363-sample.pdf",
+      "title": "Tell Me Everything \u2014 Penguin sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s 33-page sample sustains external third-person narration across the opening and the Olive\u2013Lucy scene, including access to characters\u2019 thoughts."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/tell-me-everything",
+      "title": "Tell Me Everything Study Guide | Literature Guide | LitCharts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies the novel\u2019s point of view as an omniscient third-person narrator that sometimes speaks as \u201cwe\u201d and focuses on Bob, Lucy, and Olive."
+    },
+    {
+      "url": "https://www.sfchronicle.com/entertainment/books/article/review-tell-everything-elizabeth-strout-19665044.php",
+      "title": "Review: Elizabeth Strout brings together beloved characters in novel about connection",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes the narrator as omniscient and not an actual character, while noting its chatty commentary."
+    },
+    {
+      "url": "https://booktrib.com/2024/09/09/tell-me-everything-elizabeth-strout/",
+      "title": "Latest Masterpiece in Elizabeth Strout\u2019s Literary Repertoire, \u201cTell Me Everything\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review calls the voice a third-person narrator and explains that its occasional inclusive \u201cwe\u201d is conversational commentary."
+    }
+  ],
+  "search_log": [
+    "Searched: \u201cElizabeth Strout Tell Me Everything excerpt Bob Burgess Lucy Barton publisher\u201d; opened the author-authorized excerpt and Penguin sample.",
+    "Searched: \u201cTell Me Everything Elizabeth Strout third person narrator point of view\u201d and \u201cTell Me Everything Elizabeth Strout review narration third-person\u201d; opened explicit LitCharts, San Francisco Chronicle, and BookTrib descriptions.",
+    "Searched: \u201cTell Me Everything Elizabeth Strout Google Books excerpt\u201d; the Google Books result supplied catalog information but no additional diagnostic prose was used.",
+    "Searched targeted combinations for \u201cthird-person narrator,\u201d \u201cpoint of view omniscient,\u201d and \u201calternating narration first person\u201d; results consistently described an omniscient third-person narrator, and no credible source established sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling voice is a nonparticipating omniscient third-person narrator. Two authorized sustained excerpts show external narration of Bob, Olive, Lucy, and other characters, while whole-book structural sources independently identify third-person omniscience. The narrator\u2019s conversational \u201cI,\u201d inclusive \u201cwe/us,\u201d and universal \u201cyou\u201d occur in commentary or aphorisms and do not make that voice a story participant. First-person material involving Lucy or Olive is dialogue or locally ambiguous character speech, not an autonomous first-person narrative section. No credible evidence of alternating base-person sections was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_087",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:27:16.439856+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "38a683be8739685888c7d2f9947d90551c172761400fbf54e5ee5760fdd07072"
+  }
+}

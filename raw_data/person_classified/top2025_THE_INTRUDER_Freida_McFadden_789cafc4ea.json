@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:THE INTRUDER|Freida McFadden",
+  "quotes": [
+    {
+      "quote_id": "q09974",
+      "person_signal": "non_base",
+      "note": "Direct speech about learning styles does not identify the base narrator."
+    },
+    {
+      "quote_id": "q09975",
+      "person_signal": "first",
+      "note": "The dialogue is accompanied by the narratorial speech beat \u201cI offer,\u201d exposing a participating narrator."
+    },
+    {
+      "quote_id": "q09976",
+      "person_signal": "first",
+      "note": "The narrator describes her own action and apprehension using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q09977",
+      "person_signal": "first",
+      "note": "Outside the quoted introduction, Ella narrates her own actions and thoughts as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q09978",
+      "person_signal": "first",
+      "note": "The narrator refers to her father and her own continuing ability to learn from him."
+    },
+    {
+      "quote_id": "q09979",
+      "person_signal": "unmarked",
+      "note": "The isolated statement about \u201cher\u201d lacks enough context to establish the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q09980",
+      "person_signal": "unmarked",
+      "note": "This setting observation contains no participant reference that identifies narrative person."
+    },
+    {
+      "quote_id": "q09981",
+      "person_signal": "first",
+      "note": "The narrator reports her own persistent fear using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q09982",
+      "person_signal": "first",
+      "note": "The narrator describes her own action of serving food using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q09983",
+      "person_signal": "first",
+      "note": "The comparison to \u201cme\u201d places the narrator within the narrated events."
+    },
+    {
+      "quote_id": "q09984",
+      "person_signal": "first",
+      "note": "The narratorial reference to \u201cour dad\u201d identifies the speaker as a participant despite the clipped context."
+    },
+    {
+      "quote_id": "q09985",
+      "person_signal": "unclear",
+      "note": "The clipped rhetorical question cannot be securely separated into narration, thought, or speech."
+    },
+    {
+      "quote_id": "q09986",
+      "person_signal": "first",
+      "note": "The narrator states that she has personally gotten away with murder."
+    },
+    {
+      "quote_id": "q09987",
+      "person_signal": "first",
+      "note": "Sustained interior narration uses \u201cI\u201d to recount perception, memory, reconsideration, and intended action."
+    },
+    {
+      "quote_id": "q09988",
+      "person_signal": "first",
+      "note": "The narrator identifies the toolshed as her own within an immediate scene."
+    },
+    {
+      "quote_id": "q09989",
+      "person_signal": "non_base",
+      "note": "The first-person references occur wholly within direct speech."
+    },
+    {
+      "quote_id": "q09990",
+      "person_signal": "first",
+      "note": "Sustained narration describes the speaker\u2019s looking, house, possible death, and isolation as \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q09991",
+      "person_signal": "first",
+      "note": "Whatever the opening \u201cyou\u201d represents locally, the controlling retrospective sentence identifies the participating narrator through \u201cmy goal\u201d and \u201cI moved.\u201d"
+    },
+    {
+      "quote_id": "q09992",
+      "person_signal": "first",
+      "note": "The narrator reflects on her students and prior actions using sustained \u201cI\u201d and \u201cme.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.supersummary.com/the-intruder/summary/",
+      "title": "The Intruder Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The edition-specific structural study states that Casey and Ella supply alternating first-person viewpoints across the novel, with \u201cNow\u201d and \u201cBefore\u201d chapters."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/freida-mcfadden/the-intruder-2/",
+      "title": "THE INTRUDER by Freida McFadden",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The professional review explicitly describes a first-person, present-tense narrative that alternates perspectives and identifies the interspersed \u201cBefore\u201d chapters."
+    },
+    {
+      "url": "https://newsletter.thebluegarret.com/p/how-freida-mcfadden-uses-character-description",
+      "title": "How Freida McFadden uses character description to reveal her narrator in The Intruder",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "A close analysis of chapter 4 identifies Casey and Ella as the two primary narrators and states that both narrate in first person; it also quotes Ella\u2019s first-person narration."
+    },
+    {
+      "url": "https://www.freidamcfadden.com/books/standalone-thrillers/the-intruder/",
+      "title": "The Intruder | Psychological Thriller | Author Freida McFadden",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The author\u2019s page verifies the work, publication details, and three audiobook performers but provides synopsis rather than explicit narrative-person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Intruder\u201d \u201cFreida McFadden\u201d excerpt and opened relevant results; no sustained authorized text excerpt was available from the author or publisher pages.",
+    "Searched \u201cThe Intruder\u201d \u201cFreida McFadden\u201d \u201cfirst person\u201d OR POV OR narrator; found and opened explicit whole-book descriptions from SuperSummary and Kirkus.",
+    "Searched the author and Sourcebooks domains for the title; the author and publisher pages supplied bibliographic verification and synopsis but no explicit POV description.",
+    "Opened a chapter-level Blue Garret analysis that identifies both primary narrators and examines first-person prose from Ella\u2019s chapter.",
+    "Opened a public-library OverDrive record; it confirmed the unabridged audiobook and three performers but did not itself explain the narrative-person structure."
+  ],
+  "person_note": "The quote set repeatedly exposes participating narration through \u201cI,\u201d \u201cmy,\u201d \u201cme,\u201d and \u201cour,\u201d including sustained action and interiority rather than isolated speech. The two described viewpoint strands belong to Casey and Ella, but both are first person, so their alternation does not meet the cross-person requirement for ALTERNATING. Dialogue-only first-person language was excluded, while clipped passages were kept unresolved locally. Commercial whole-book analysis, a professional review, and chapter-level close reading agree with the quote evidence. Confidence is medium because no authorized sustained excerpt or scholarly whole-book source was accessible.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_091",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:18:21.646578+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "86b0861341bbfe9b652086a4bf19dcc8e6e9a2b67d1a06fa46447f34132e33da"
+  }
+}

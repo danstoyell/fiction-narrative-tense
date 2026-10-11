@@ -1,0 +1,473 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:5322",
+  "quotes": [
+    {
+      "quote_id": "q02472",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to Leni's embedded college personal statement, not the base narrator."
+    },
+    {
+      "quote_id": "q02473",
+      "person_signal": "non_base",
+      "note": "Aphorism with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q02474",
+      "person_signal": "unmarked",
+      "note": "Generic analogy about a girl; it does not establish narrator participation."
+    },
+    {
+      "quote_id": "q02475",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the brief speech beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02476",
+      "person_signal": "unmarked",
+      "note": "Clipped reflection using an unanchored third-person pronoun."
+    },
+    {
+      "quote_id": "q02477",
+      "person_signal": "non_base",
+      "note": "Proverbial second-person expression, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02478",
+      "person_signal": "third",
+      "note": "The narrator externally identifies Leni and reports her wondering in third person."
+    },
+    {
+      "quote_id": "q02479",
+      "person_signal": "unmarked",
+      "note": "Reflective narration contains no participating narrator or sustained external character reference."
+    },
+    {
+      "quote_id": "q02480",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs entirely in character speech."
+    },
+    {
+      "quote_id": "q02481",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not narration of a story-specific you."
+    },
+    {
+      "quote_id": "q02482",
+      "person_signal": "third",
+      "note": "External narration names Leni and describes her home and what Dad taught her."
+    },
+    {
+      "quote_id": "q02483",
+      "person_signal": "third",
+      "note": "Sustained third-person narration names Leni and reports her perceptions and reflections."
+    },
+    {
+      "quote_id": "q02484",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement about Alaska without diagnostic narration."
+    },
+    {
+      "quote_id": "q02485",
+      "person_signal": "non_base",
+      "note": "Conversational speech with direct address."
+    },
+    {
+      "quote_id": "q02486",
+      "person_signal": "unmarked",
+      "note": "A short pronoun-only statement does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02487",
+      "person_signal": "non_base",
+      "note": "Conversational first-person assertion, not established as base narration."
+    },
+    {
+      "quote_id": "q02488",
+      "person_signal": "third",
+      "note": "The narrator names Leni and renders her realization and free-indirect question in third person."
+    },
+    {
+      "quote_id": "q02489",
+      "person_signal": "non_base",
+      "note": "General maxim about life and law."
+    },
+    {
+      "quote_id": "q02490",
+      "person_signal": "third",
+      "note": "Sustained external narration repeatedly names Leni and predicts her future in third person."
+    },
+    {
+      "quote_id": "q02491",
+      "person_signal": "unmarked",
+      "note": "Short pronoun-only realization lacks enough local context to diagnose person independently."
+    },
+    {
+      "quote_id": "q02492",
+      "person_signal": "unmarked",
+      "note": "Clipped comparison with an unanchored possessive pronoun."
+    },
+    {
+      "quote_id": "q02493",
+      "person_signal": "third",
+      "note": "Sustained third-person account of a female character's action, habits, and mental processing."
+    },
+    {
+      "quote_id": "q02494",
+      "person_signal": "unmarked",
+      "note": "Free-indirect questions contain no explicit narratorial-person marker."
+    },
+    {
+      "quote_id": "q02495",
+      "person_signal": "unmarked",
+      "note": "Brief pronoun-only reflection is compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q02496",
+      "person_signal": "third",
+      "note": "Sustained external narration reports her perception and realization in third person."
+    },
+    {
+      "quote_id": "q02497",
+      "person_signal": "unmarked",
+      "note": "Short third-person summary lacks enough framing to identify the controlling narrator alone."
+    },
+    {
+      "quote_id": "q02498",
+      "person_signal": "unmarked",
+      "note": "Story-world generalization about Alaska contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02499",
+      "person_signal": "unmarked",
+      "note": "Brief unanchored third-person perception is not sufficient by itself."
+    },
+    {
+      "quote_id": "q02500",
+      "person_signal": "third",
+      "note": "The narrator names Leni, reports her feeling, and renders her supposition externally."
+    },
+    {
+      "quote_id": "q02501",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; local speech beats do not alter the base-person finding."
+    },
+    {
+      "quote_id": "q02502",
+      "person_signal": "non_base",
+      "note": "Quoted speech with a short reaction beat, not a sustained narratorial passage."
+    },
+    {
+      "quote_id": "q02503",
+      "person_signal": "unmarked",
+      "note": "The repeated you is generic Alaskan exposition, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q02504",
+      "person_signal": "unmarked",
+      "note": "Landscape description has no participating narrator or externally narrated character."
+    },
+    {
+      "quote_id": "q02505",
+      "person_signal": "unmarked",
+      "note": "A brief unanchored she statement does not independently diagnose base person."
+    },
+    {
+      "quote_id": "q02506",
+      "person_signal": "third",
+      "note": "The narrator names Leni and reports what she learned through sustained third-person reflection."
+    },
+    {
+      "quote_id": "q02507",
+      "person_signal": "non_base",
+      "note": "Direct dialogue addressed to Leni."
+    },
+    {
+      "quote_id": "q02508",
+      "person_signal": "third",
+      "note": "Sustained third-person rendering of a character's need, love, and realization; generic you appears only inside the comparison."
+    },
+    {
+      "quote_id": "q02509",
+      "person_signal": "unmarked",
+      "note": "Unanchored summary of his grief could occur within several narrating configurations."
+    },
+    {
+      "quote_id": "q02510",
+      "person_signal": "unmarked",
+      "note": "Chapter-like reflective transition about time and the human heart has no person marker."
+    },
+    {
+      "quote_id": "q02511",
+      "person_signal": "unmarked",
+      "note": "Brief unanchored metaphor using her does not establish the narrator."
+    },
+    {
+      "quote_id": "q02512",
+      "person_signal": "third",
+      "note": "External narrator names Leni, Mama, and Dad and summarizes their family entrapment."
+    },
+    {
+      "quote_id": "q02513",
+      "person_signal": "unmarked",
+      "note": "Atmospheric description contains no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q02514",
+      "person_signal": "third",
+      "note": "Third-person narration reports what she understood; generic you functions within that reflection."
+    },
+    {
+      "quote_id": "q02515",
+      "person_signal": "unmarked",
+      "note": "Free-indirect literary comparison lacks an explicit character or narrator marker in the clipped passage."
+    },
+    {
+      "quote_id": "q02516",
+      "person_signal": "non_base",
+      "note": "Epigraph-style aphorism and universal we are not base narration."
+    },
+    {
+      "quote_id": "q02517",
+      "person_signal": "non_base",
+      "note": "Attributed proverb, not story-specific narration."
+    },
+    {
+      "quote_id": "q02518",
+      "person_signal": "unmarked",
+      "note": "A line of speech followed by pronoun-only interpretation does not independently establish base person."
+    },
+    {
+      "quote_id": "q02519",
+      "person_signal": "third",
+      "note": "Sustained external narration names Leni and reports her perceptions and thoughts about her father."
+    },
+    {
+      "quote_id": "q02520",
+      "person_signal": "third",
+      "note": "Extended third-person narration names Leni and renders her private feelings and self-assessment."
+    },
+    {
+      "quote_id": "q02521",
+      "person_signal": "unmarked",
+      "note": "Generalized reflection on loss has no visible narratorial-person marker."
+    },
+    {
+      "quote_id": "q02522",
+      "person_signal": "unmarked",
+      "note": "Generic you in exposition about Alaska is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02523",
+      "person_signal": "third",
+      "note": "The narrator names Leni and reports her interpretation of an unspoken exchange."
+    },
+    {
+      "quote_id": "q02524",
+      "person_signal": "unmarked",
+      "note": "A brief unanchored she passage is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02525",
+      "person_signal": "non_base",
+      "note": "Character speech with only a minimal dialogue tag; upstream event routing does not make it base-person evidence."
+    },
+    {
+      "quote_id": "q02526",
+      "person_signal": "third",
+      "note": "Long scene narration externally describes Leni and the surrounding people and landscape in third person."
+    },
+    {
+      "quote_id": "q02527",
+      "person_signal": "unmarked",
+      "note": "Brief pronoun-only reflection on hope lacks sufficient local framing."
+    },
+    {
+      "quote_id": "q02528",
+      "person_signal": "non_base",
+      "note": "First-person prose is an embedded article attributed to Lily Walker, not the controlling narration."
+    },
+    {
+      "quote_id": "q02529",
+      "person_signal": "third",
+      "note": "The narrator names Leni, describes her perception, and then renders a generic-you reflection."
+    },
+    {
+      "quote_id": "q02530",
+      "person_signal": "third",
+      "note": "External narration names Mama and Leni and presents Leni's understanding in free-indirect style."
+    },
+    {
+      "quote_id": "q02531",
+      "person_signal": "third",
+      "note": "Sustained third-person narration names Leni and reports her memories and uncertainty."
+    },
+    {
+      "quote_id": "q02532",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in dialogue; the clipped reaction sentence is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02533",
+      "person_signal": "third",
+      "note": "Sustained third-person free-indirect consideration of a character leaving her parents."
+    },
+    {
+      "quote_id": "q02534",
+      "person_signal": "third",
+      "note": "The narrator names Leni and externally reports her hearing and interpretation."
+    },
+    {
+      "quote_id": "q02535",
+      "person_signal": "non_base",
+      "note": "Aphoristic personification of Alaska, not diagnostic narration."
+    },
+    {
+      "quote_id": "q02536",
+      "person_signal": "third",
+      "note": "The narrator names Leni and reports her fear and self-conception in third person."
+    },
+    {
+      "quote_id": "q02537",
+      "person_signal": "third",
+      "note": "External narration names Leni and reports her belief about childhood."
+    },
+    {
+      "quote_id": "q02538",
+      "person_signal": "non_base",
+      "note": "Generic second-person Alaskan proverb, not a narrated protagonist addressed as you."
+    },
+    {
+      "quote_id": "q02539",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue with a short third-person reaction beat."
+    },
+    {
+      "quote_id": "q02540",
+      "person_signal": "third",
+      "note": "Third-person narrator reports a character's thought and counterfactual reflection."
+    },
+    {
+      "quote_id": "q02541",
+      "person_signal": "third",
+      "note": "Sustained external narration identifies she and Matthew as children and summarizes their position."
+    },
+    {
+      "quote_id": "q02542",
+      "person_signal": "non_base",
+      "note": "First-person passage is part of Leni's explicitly headed college personal statement."
+    },
+    {
+      "quote_id": "q02543",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural aphorism, not a participating story narrator."
+    },
+    {
+      "quote_id": "q02544",
+      "person_signal": "unmarked",
+      "note": "Free-indirect equation contains generic you but no diagnostic narratorial-person marker."
+    },
+    {
+      "quote_id": "q02545",
+      "person_signal": "unmarked",
+      "note": "Landscape description alone does not identify narrator participation."
+    },
+    {
+      "quote_id": "q02546",
+      "person_signal": "third",
+      "note": "The narrator names Leni and externally describes what she experienced."
+    },
+    {
+      "quote_id": "q02547",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism without narrative-person evidence."
+    },
+    {
+      "quote_id": "q02548",
+      "person_signal": "unmarked",
+      "note": "Generic you in a generalization about grieving is not second-person narration."
+    },
+    {
+      "quote_id": "q02549",
+      "person_signal": "non_base",
+      "note": "Character speech plus a minimal attribution does not establish the base narrator."
+    },
+    {
+      "quote_id": "q02550",
+      "person_signal": "non_base",
+      "note": "Dialogue between Large Marge and Leni."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://kristinhannah.com/books/the-great-alone/excerpt/",
+      "title": "The Great Alone \u2013 Excerpt \u2013 Kristin Hannah",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized sustained excerpt narrates Leni and her family externally in third person while providing access to Leni's perceptions."
+    },
+    {
+      "url": "https://static.macmillan.com/static/smp/the-great-alone/great_alone_excerpt.html",
+      "title": "The Great Alone - Kristin Hannah - St. Martin\u2019s Press",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained opening likewise uses third-person narration centered on Leni."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-great-alone/styles.html",
+      "title": "Kristin Hannah Writing Styles in The Great Alone",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its explicit POV analysis describes a third-person nonparticipating narrator, mostly limited to Leni with several focal shifts to Matthew and Cora."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/the-great-alone",
+      "title": "The Great Alone Study Guide | Literature Guide | LitCharts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide's key facts explicitly identify the novel's point of view as third person."
+    },
+    {
+      "url": "https://sufferingrepo.me/LitCharts/Literature%20Guides/The-Great-Alone-LitChart.pdf",
+      "title": "The Great Alone LitChart",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The Chapter 17 analysis identifies the 'Books are the mile markers' first-person quotation as Leni's embedded college personal statement, resolving it as non-base material."
+    },
+    {
+      "url": "https://www.supersummary.com/the-great-alone/chapters-30-31/",
+      "title": "The Great Alone Chapters 30-31 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The chapter analysis explains that the novel ends with an article written by Leni, confirming that late first-person article prose is an embedded document."
+    }
+  ],
+  "search_log": [
+    "Searched official author and publisher excerpts for \"The Great Alone\" by Kristin Hannah and opened sustained versions on Kristin Hannah's site and St. Martin's Press.",
+    "Searched \"The Great Alone\" with point of view, third person, narrator, and alternating-narration terms; opened BookRags and LitCharts whole-book POV descriptions.",
+    "Searched exact first-person quotation \"Books are the mile markers of my life\" and verified through the LitCharts Chapter 17 analysis and an interior chapter rendering that it is Leni's personal statement.",
+    "Searched exact passages beginning \"I was taught by my father\" and verified they continue the headed PERSONAL STATEMENT by Lenora Allbright.",
+    "Searched the exact \"Wild. That's how I describe it all\" passage and late-novel chapter analyses; results attribute it to an embedded Lily Walker text rather than the base narrator.",
+    "Searched Chapters 30-31 and the ending structure; SuperSummary and LitCharts identify the concluding first-person material as an article written by Leni.",
+    "Checked an interior Chapter 31 rendering after one LitCharts summary used loose 'first-person perspective' wording for Matthew's focalization; the actual scene remains third-person narration with occasional direct thoughts, so it does not establish alternating base narration."
+  ],
+  "person_note": "The controlling narration is third person, predominantly limited through Leni, with occasional third-person focal shifts to other characters. Numerous Goodreads passages independently show sustained external narration naming Leni and reporting her perceptions, while authorized author and publisher excerpts show the same construction. The apparent first-person counterevidence is local material: q02472 and q02542 are portions of Leni's headed college personal statement, and q02528 is an embedded text attributed to Lily Walker. Dialogue, aphorisms, generic you, and direct thoughts likewise do not change the base person. Whole-book POV descriptions corroborate THIRD, and no credible source establishes sustained first- or second-person base sections; the only limitation is that the Tier A excerpts cover the opening rather than every chapter.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_064",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T21:37:14.220212+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b796353810f7dd5c099815bfc28e3046d170e5b45ef0a6fdaf1270ed5fbc53f0"
+  }
+}

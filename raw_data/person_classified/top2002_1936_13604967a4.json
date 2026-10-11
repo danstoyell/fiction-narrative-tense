@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:1936",
+  "quotes": [
+    {
+      "quote_id": "q00246",
+      "person_signal": "non_base",
+      "note": "A gnomic reflection using universal you; it does not identify the narrator."
+    },
+    {
+      "quote_id": "q00247",
+      "person_signal": "non_base",
+      "note": "Generalized advice with universal you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00248",
+      "person_signal": "first",
+      "note": "Sandy narrates his own thought and judgments as I in a participating first-person section."
+    },
+    {
+      "quote_id": "q00249",
+      "person_signal": "non_base",
+      "note": "A gnomic fragment without diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q00250",
+      "person_signal": "unmarked",
+      "note": "Possible event narration, but the isolated sentence contains no person marker."
+    },
+    {
+      "quote_id": "q00251",
+      "person_signal": "non_base",
+      "note": "A generalized observation about people rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00252",
+      "person_signal": "first",
+      "note": "A participating narrator recounts his own action as I."
+    },
+    {
+      "quote_id": "q00253",
+      "person_signal": "first",
+      "note": "Although bucketed as dialogue, the external speech tag 'I said' exposes first-person narration."
+    },
+    {
+      "quote_id": "q00254",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary using generic we and I think; it does not by itself establish a narrative section's person."
+    },
+    {
+      "quote_id": "q00255",
+      "person_signal": "non_base",
+      "note": "Universal observation using us and we, not diagnostic event narration."
+    },
+    {
+      "quote_id": "q00256",
+      "person_signal": "third",
+      "note": "The narration treats Curtis and Sandy externally and reports Sandy's thought, consistent with the novel's third-person Then sections."
+    },
+    {
+      "quote_id": "q00257",
+      "person_signal": "unmarked",
+      "note": "Named characters and conversational generic you do not reveal whether the surrounding narrator participates."
+    },
+    {
+      "quote_id": "q00258",
+      "person_signal": "unmarked",
+      "note": "This report about Tony uses no diagnostic narrator self-reference and could occur within either strand."
+    },
+    {
+      "quote_id": "q00259",
+      "person_signal": "first",
+      "note": "The external attribution 'I told him' identifies a participating first-person narrator despite the dialogue bucket."
+    },
+    {
+      "quote_id": "q00260",
+      "person_signal": "third",
+      "note": "After the quoted speech, narration refers to Sandy externally and directly reports what he thinks, matching the third-person strand."
+    },
+    {
+      "quote_id": "q00261",
+      "person_signal": "unmarked",
+      "note": "Generic your and imperative-like phrasing do not establish sustained second person or narrator participation."
+    },
+    {
+      "quote_id": "q00262",
+      "person_signal": "non_base",
+      "note": "A present-tense personal maxim; its I think is gnomic rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00263",
+      "person_signal": "unmarked",
+      "note": "A bare he-subject event does not distinguish first-person framing from third-person narration."
+    },
+    {
+      "quote_id": "q00264",
+      "person_signal": "non_base",
+      "note": "Character speech dominates, and the brief named-character tags do not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q00265",
+      "person_signal": "non_base",
+      "note": "Universal gnomic language using our and we is not diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q00266",
+      "person_signal": "unmarked",
+      "note": "The isolated he-subject sentence is compatible with both first- and third-person surrounding narration."
+    },
+    {
+      "quote_id": "q00267",
+      "person_signal": "non_base",
+      "note": "A generalized maxim using our and I guess, not a diagnostic narrated event."
+    },
+    {
+      "quote_id": "q00268",
+      "person_signal": "first",
+      "note": "The narrator describes his own emotion and evaluative thought as I in participating narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.publishersweekly.com/9780743211376",
+      "title": "FROM A BUICK 8 by Stephen King",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The contemporary professional review explicitly describes the novel's round robin of narrators as using both first- and third-person narration."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/from-a-buick-8/excerpt",
+      "title": "From a Buick 8 by Stephen King | Excerpt",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reprinted with Scribner's permission is headed 'from Now: Sandy' and has Sandy narrating events as I and we."
+    },
+    {
+      "url": "https://srmbc.blogspot.com/2014/10/from-buick-8.html",
+      "title": "Geek Rage!: From A Buick 8",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The detailed structural review says the narrative moves between Now and Then, with Troop D members narrating while the Then sections are written in third-person omniscient narration."
+    }
+  ],
+  "search_log": [
+    "Searched for Stephen King From a Buick 8 excerpts, first chapter, and publisher material; opened sustained BookBrowse and Bookreporter excerpts of the Now: Sandy section.",
+    "Searched for From a Buick 8 point of view, narrator, first person, third person, multiple narrators, and alternating narration; opened the Publishers Weekly hardcover review.",
+    "Ran targeted searches for 'first and third-person,' 'Now: Sandy,' and 'Then' structure; opened detailed reviews describing the first-person frame and third-person flashbacks.",
+    "Checked Google Books and Hachette publisher pages; their accessible material was synopsis/catalog copy and did not directly establish the whole-book narrative person."
+  ],
+  "person_note": "The novel alternates sustained narrative persons: first-person Now sections are voiced by Sandy and other participating Troop D storytellers, while sustained Then/flashback sections use third-person narration. The diagnostic Goodreads quotations contain both Sandy's first-person narration and third-person external narration of Sandy and Curtis, agreeing with the Tier B whole-book structural description and the authorized first-person excerpt. Generic aphorisms, speech, and clipped he-subject sentences were not allowed to vote mechanically. Some individual quote clips lack section headings, but the book-level alternation is strongly resolved.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_037",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:23:52.104200+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3b9b6f95cd52806ffc4c8a53db8e5d7717dfae9f1d330e05ec8aa0067118b73c"
+  }
+}

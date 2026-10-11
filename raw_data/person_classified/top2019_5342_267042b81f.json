@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:5342",
+  "quotes": [
+    {
+      "quote_id": "q03497",
+      "person_signal": "non_base",
+      "note": "Statistical generalization about incarceration; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q03498",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization about profiteering, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03499",
+      "person_signal": "first",
+      "note": "The participating narrator directly states his present gratitude using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03500",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison of white and Black America; the trailing name does not establish a narrating voice."
+    },
+    {
+      "quote_id": "q03501",
+      "person_signal": "non_base",
+      "note": "Universal second-person observation, not sustained narration of a story-specific \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03502",
+      "person_signal": "non_base",
+      "note": "Universal rhetorical \u201cus\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03503",
+      "person_signal": "first",
+      "note": "The narrator recounts his own drinking, sleeping, and encounter with the cat using sustained \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03504",
+      "person_signal": "unmarked",
+      "note": "Narratorial legal-history exposition lacks a participating pronoun; its third-person subjects are compatible with first-person narration."
+    },
+    {
+      "quote_id": "q03505",
+      "person_signal": "first",
+      "note": "The narrator states his own case-specific expectation with \u201cI can\u2019t imagine.\u201d"
+    },
+    {
+      "quote_id": "q03506",
+      "person_signal": "first",
+      "note": "Though clipped, \u201cWhen I asked Lonnie\u201d clearly reports an act by the participating narrator."
+    },
+    {
+      "quote_id": "q03507",
+      "person_signal": "non_base",
+      "note": "The main claim is gnomic; \u201cAs I told you before\u201d is a reader-directed framing aside rather than story action."
+    },
+    {
+      "quote_id": "q03508",
+      "person_signal": "non_base",
+      "note": "Universal moral question using inclusive \u201cwe,\u201d not diagnostic narration."
+    },
+    {
+      "quote_id": "q03509",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person story material identifies no narrating position."
+    },
+    {
+      "quote_id": "q03510",
+      "person_signal": "unmarked",
+      "note": "A statement about Kenny Taft alone cannot distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q03511",
+      "person_signal": "first",
+      "note": "The narrator describes his own daily reading and inability to finish novels using \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q03512",
+      "person_signal": "first",
+      "note": "With no speech marker, the passage presents the narrator\u2019s work and personal record through \u201cwe\u201d and \u201cI\u2019ve.\u201d"
+    },
+    {
+      "quote_id": "q03513",
+      "person_signal": "first",
+      "note": "The narrator describes his own years-long effort to persuade a specific woman using \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q03514",
+      "person_signal": "non_base",
+      "note": "Generalization about jailhouse informants across countries is not story-specific person evidence."
+    },
+    {
+      "quote_id": "q03515",
+      "person_signal": "non_base",
+      "note": "Universal social-commentary \u201cwe\u201d does not establish a participating narrator."
+    },
+    {
+      "quote_id": "q03516",
+      "person_signal": "unmarked",
+      "note": "Third-person exposition about an expert, clipped at the end, does not identify narrator participation."
+    },
+    {
+      "quote_id": "q03517",
+      "person_signal": "first",
+      "note": "The narrator directly states his own recurring attitude toward judges with \u201cI despise.\u201d"
+    },
+    {
+      "quote_id": "q03518",
+      "person_signal": "unmarked",
+      "note": "Scene narration observes Frankie and includes dialogue, but contains no pronoun that distinguishes a participating from nonparticipating narrator."
+    },
+    {
+      "quote_id": "q03519",
+      "person_signal": "first",
+      "note": "The courtroom narrator participates through \u201cwe,\u201d \u201cour petition,\u201d and the explicit admission \u201cI confess.\u201d"
+    },
+    {
+      "quote_id": "q03520",
+      "person_signal": "non_base",
+      "note": "Scientific generalization, likely lecture or testimony material, does not identify base narration."
+    },
+    {
+      "quote_id": "q03521",
+      "person_signal": "first",
+      "note": "\u201cBetween us\u201d places the narrator within the specific scene alongside another character."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/the-guardians-by-john-grisham/excerpt",
+      "title": "The Guardians by John Grisham | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained published excerpt has Cullen Post narrating his own actions, perceptions, clients, and conversations as \u201cI\u201d throughout the opening chapter."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-guardians-a-novel/styles.html",
+      "title": "John Grisham Writing Styles in The Guardians: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide\u2019s point-of-view analysis explicitly identifies Post as the story\u2019s first-person narrator and explains that narration is limited to what he knows or experiences."
+    },
+    {
+      "url": "https://www.supersummary.com/the-guardians/summary/",
+      "title": "The Guardians Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The full-book guide explicitly says the novel is narrated in first person by Cullen Post and describes the main and secondary cases through his perspective."
+    },
+    {
+      "url": "https://www.supersummary.com/the-guardians/chapters-41-48-summary/",
+      "title": "The Guardians Chapters 41-48 Summary & Analysis",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "Coverage of the concluding chapters attributes continuing narration to Post and reproduces first-person narration from the final chapter, corroborating that the opening person persists to the end."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJohn Grisham The Guardians excerpt Cullen Post first person narrator\u201d and found a sustained Bookreporter opening excerpt plus explicit study-guide descriptions.",
+    "Searched \u201cThe Guardians John Grisham point of view first person narrated by Cullen Post\u201d and opened BookRags and SuperSummary analyses explicitly identifying Post as the first-person narrator.",
+    "Searched the author and publisher domains for an excerpt; John Grisham and Penguin Random House pages verified the work but supplied mainly synopsis material, so they were not used as person evidence.",
+    "Opened a Google Books result after searching for its preview, but the page returned a 403 and was not used as evidence.",
+    "Searched for \u201cThe Guardians John Grisham alternating narration OR multiple narrators\u201d and for epistolary or frame-narrative structure; results produced no credible evidence of another sustained narrative person and included irrelevant similarly titled books.",
+    "Searched for late-book narration and opened SuperSummary\u2019s Chapters 41\u201348 analysis, which confirms Post\u2019s first-person voice in the concluding chapter."
+  ],
+  "person_note": "The diagnostic quotes repeatedly present Cullen Post as a participating \u201cI\u201d narrator in casework, travel, courtroom, and personal-reflection passages. Third-person references to clients, experts, and other characters do not establish a separate narrator, while universal aphorisms and scientific or social generalizations are non-base evidence. A sustained opening excerpt independently establishes Post\u2019s first-person voice; whole-book point-of-view descriptions and evidence from the final chapter show that the same voice controls the novel beyond the opening. Targeted searches found no credible alternating, framed, or epistolary structure. The remaining uncertainty is only that the authorized-length prose excerpt covers the opening rather than the entire book; the interior quotes and full-book structural sources resolve that limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_068",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:29:27.340132+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5d2e910830a7e312d4b36fbeea5fceec61cc87326dda3ee2628e63246afffa91"
+  }
+}

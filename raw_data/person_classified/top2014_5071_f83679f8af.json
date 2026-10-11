@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:5071",
+  "quotes": [
+    {
+      "quote_id": "q02140",
+      "person_signal": "non_base",
+      "note": "Generic aphorism using universal you; it does not identify the narrator."
+    },
+    {
+      "quote_id": "q02141",
+      "person_signal": "unmarked",
+      "note": "The one-sentence description of both Puller brothers is consistent with third-person narration, but does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q02142",
+      "person_signal": "non_base",
+      "note": "Generic aphorism without story-specific narration."
+    },
+    {
+      "quote_id": "q02143",
+      "person_signal": "non_base",
+      "note": "General social commentary rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02144",
+      "person_signal": "non_base",
+      "note": "Generic observation about patriotism, with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q02145",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02146",
+      "person_signal": "non_base",
+      "note": "The first-person language occurs inside character dialogue."
+    },
+    {
+      "quote_id": "q02147",
+      "person_signal": "unclear",
+      "note": "Truncated text containing me and you has no recoverable quotation boundary or narratorial context."
+    },
+    {
+      "quote_id": "q02148",
+      "person_signal": "unmarked",
+      "note": "The single sentence refers to she and they and adds a comparison, but its brevity does not establish whether a participant frames the account."
+    },
+    {
+      "quote_id": "q02149",
+      "person_signal": "unclear",
+      "note": "The clipped passage likely contains speech, but missing boundaries prevent attributing I safely."
+    },
+    {
+      "quote_id": "q02150",
+      "person_signal": "unmarked",
+      "note": "Possible explanatory base narration, but it contains no participating narrator or sufficiently specific character perspective."
+    },
+    {
+      "quote_id": "q02151",
+      "person_signal": "unclear",
+      "note": "The fragment ends at a character name and lacks enough syntax or quotation context for attribution."
+    },
+    {
+      "quote_id": "q02152",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a gnomic rhetorical question, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02153",
+      "person_signal": "non_base",
+      "note": "The maxim is spoken dialogue; the brief he noted beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02154",
+      "person_signal": "third",
+      "note": "After extended dialogue, the passage returns to external narration of Bobby's reaction and life choice."
+    },
+    {
+      "quote_id": "q02155",
+      "person_signal": "third",
+      "note": "Sustained narration externally names Puller, reports his mind, and embeds his dialogue without a participating narrator."
+    },
+    {
+      "quote_id": "q02156",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks a subject and quotation boundaries."
+    },
+    {
+      "quote_id": "q02157",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in character dialogue."
+    },
+    {
+      "quote_id": "q02158",
+      "person_signal": "non_base",
+      "note": "The first-person clause is spoken dialogue; the trailing character name is clipped."
+    },
+    {
+      "quote_id": "q02159",
+      "person_signal": "unmarked",
+      "note": "The isolated he/her sentence is compatible with third-person scene narration but does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q02160",
+      "person_signal": "non_base",
+      "note": "You occurs in direct address within dialogue; the short speech beat is not diagnostic."
+    },
+    {
+      "quote_id": "q02161",
+      "person_signal": "non_base",
+      "note": "Generic maxim about liars rather than diagnostic base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.ms.now/morning-joe/excerpt-david-baldaccis-the-escape-msna461091",
+      "title": "An excerpt from David Baldacci's 'The Escape'",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained opening excerpt, explicitly reprinted with Grand Central Publishing's permission, narrates the prison, guards, prisoners, and Robert Puller externally in third person."
+    },
+    {
+      "url": "https://bingebooks.com/book/the-escape",
+      "title": "The Escape by David Baldacci",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A long preview continues the same Chapter 1 opening as the authorized MS NOW excerpt and extends through Chapters 2 and 3 in third person. It broadens the opening sample but is not an independent interior or whole-book route."
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/87490831-the-escape",
+      "title": "The Escape by David Baldacci | Goodreads",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "An individual reader describes the book as third person with focal viewpoint alternating between John and Robert Puller. Because this is an unverified reader assertion rather than an editorial or scholarly analysis, it is retained only as a discovery lead."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Escape\" \"David Baldacci\" excerpt, first chapter, and publisher/author-site combinations; opened the MSNBC authorized excerpt, BingeBooks preview, and Baldacci/Hachette pages.",
+    "Searched \"The Escape\" \"David Baldacci\" with point of view, third person, first person, narrator, and alternating narration terms.",
+    "Opened the Goodreads result containing an explicit whole-book description: third person with viewpoint alternating between the brothers.",
+    "Reviewed Bookey chapter summaries across opening and interior chapters but did not use their summary grammar as person evidence; author-site synopsis and general reviews were likewise nondiagnostic."
+  ],
+  "person_note": "The controlling narration is third person. The strongest Goodreads passages sustain external narration of Puller and Bobby while first- and second-person forms occur in dialogue, clipped material, or generic maxims; short he/she/they sentences are left unmarked rather than inheriting the book label. The authorized MS NOW excerpt independently sustains third-person narration in Chapter 1, and BingeBooks continues the same opening through Chapters 2 and 3 rather than providing separate interior coverage. The Goodreads reader's whole-book POV claim is Tier D discovery material, not credible independent evidence. No usable source indicates sustained first- or second-person sections. Confidence is med because the web evidence is opening-only and overlapping, despite diagnostic interior Goodreads corroboration. Audit: independent review retained THIRD, downgraded high to med, corrected the reader review from Tier C/THIRD to Tier D/none, documented the overlapping opening, and changed q02141, q02148, and q02159 from third to unmarked.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_054",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T19:50:07.454760+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7beb78015811070e752a36f20f93e7ec5768194400e0496d53e3a34ca247b257"
+  }
+}

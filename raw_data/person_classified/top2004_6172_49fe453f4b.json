@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:6172",
+  "quotes": [
+    {
+      "quote_id": "q01124",
+      "person_signal": "non_base",
+      "note": "A universal reflection using inclusive 'we'; the gnomic passage does not identify the story's participating narrator."
+    },
+    {
+      "quote_id": "q01125",
+      "person_signal": "non_base",
+      "note": "A general maxim with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q01126",
+      "person_signal": "non_base",
+      "note": "Proverb-like gnomic material rather than scene narration."
+    },
+    {
+      "quote_id": "q01127",
+      "person_signal": "non_base",
+      "note": "The generic 'you' in this maxim is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01128",
+      "person_signal": "first",
+      "note": "The narrator recounts his own relationship and feelings through 'our,' 'I'd,' and 'my life.'"
+    },
+    {
+      "quote_id": "q01129",
+      "person_signal": "first",
+      "note": "The narratorial 'I'd begun to realize' reports the participating narrator's developing understanding."
+    },
+    {
+      "quote_id": "q01130",
+      "person_signal": "non_base",
+      "note": "The generic 'you' belongs to an aphorism and is not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q01131",
+      "person_signal": "first",
+      "note": "The narrator participates in the remembered relationship described through 'we' and 'what we shared.'"
+    },
+    {
+      "quote_id": "q01132",
+      "person_signal": "first",
+      "note": "The narrator directly participates in the relationship through repeated 'we.'"
+    },
+    {
+      "quote_id": "q01133",
+      "person_signal": "non_base",
+      "note": "Quoted speech and its translation do not expose the base narrator."
+    },
+    {
+      "quote_id": "q01134",
+      "person_signal": "non_base",
+      "note": "Although it includes 'I think,' this is an isolated gnomic aside rather than diagnostic narration of the speaker's participation in events."
+    },
+    {
+      "quote_id": "q01135",
+      "person_signal": "non_base",
+      "note": "A generalized statement about fathers and sons with no diagnostic base-narrator signal."
+    },
+    {
+      "quote_id": "q01136",
+      "person_signal": "non_base",
+      "note": "General advice and reflection rather than narratorial participation in the story."
+    },
+    {
+      "quote_id": "q01137",
+      "person_signal": "first",
+      "note": "The base narrator explicitly reflects with 'I wonder' and includes himself in 'all of us.'"
+    },
+    {
+      "quote_id": "q01138",
+      "person_signal": "non_base",
+      "note": "A general maxim without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01139",
+      "person_signal": "first",
+      "note": "The narrator participates in the friendship through 'we made' and 'what we shared.'"
+    },
+    {
+      "quote_id": "q01140",
+      "person_signal": "first",
+      "note": "The narrator describes Paul relative to his own experience using 'I've ever met' and 'he told me.'"
+    },
+    {
+      "quote_id": "q01141",
+      "person_signal": "unmarked",
+      "note": "This description of 'his intelligence' is compatible with first-person narration but contains no locally diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01142",
+      "person_signal": "first",
+      "note": "Sustained scene narration uses 'I,' 'we,' 'my,' and 'where I am going,' clearly exposing the participating narrator."
+    },
+    {
+      "quote_id": "q01143",
+      "person_signal": "non_base",
+      "note": "Universal claims about people and their desires provide no diagnostic narrator-person evidence."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1390/the-rule-of-four",
+      "title": "The Rule of Four Excerpt: Read free excerpt of The Rule of Four by Ian Caldwell, Dustin Thomason",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained Chapter 1 excerpt, reproduced with Dial/Random House permission, shows the narrator participating as a Princeton student and consistently narrating the scene with 'I,' 'me,' and 'our.'"
+    },
+    {
+      "url": "https://www.nybooks.com/articles/2004/09/23/big-book-on-campus/",
+      "title": "Big Book on Campus",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Anthony Grafton's detailed structural review identifies Tom as the narrator and analyzes both the Easter-weekend and earlier-life timelines as stories involving Tom, supporting one participating narrator across the novel rather than alternating persons."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780743529723",
+      "title": "THE RULE OF FOUR by Ian Caldwell, Dustin Thomason, Caldwell Ian",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly explicitly states that the novel is written in first person and identifies Princeton senior Tom Sullivan as its narrator."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/ian-caldwell/the-rule-of-four/",
+      "title": "THE RULE OF FOUR",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Kirkus identifies Thomas Corelli Sullivan as the narrator and as one of the four roommates participating in the novel's events."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Rule of Four\" Ian Caldwell Dustin Thomason excerpt first chapter narrator Tom Sullivan.",
+    "Searched: \"The Rule of Four\" point of view, first person, third person, narrator, and narrated by.",
+    "Searched publisher, Google Books, Internet Archive, library, review, and explicit first-person combinations for the verified title and authors.",
+    "Opened the permissioned BookBrowse Chapter 1 excerpt and confirmed sustained first-person scene narration.",
+    "Opened Publishers Weekly, Kirkus, and The New York Review of Books; all identify Tom Sullivan as the participating narrator, and Publishers Weekly explicitly calls the novel first person.",
+    "The Penguin Random House Canada page advertised an excerpt but exposed no readable prose in the retrieved page; the Simon & Schuster/SoundCloud audiobook excerpt was not text-accessible and was not used as person evidence."
+  ],
+  "person_note": "Multiple event quotes independently expose a participating narrator through 'I' and 'we,' including memories, relationships, and present action. The permissioned opening confirms sustained first-person scene narration, while whole-book reviews explicitly identify Tom Sullivan as the narrator and describe the novel as first person; the detailed structural review treats both timelines as Tom's narrative, with no evidence of a sustained alternate-person section. Gnomic uses of 'we' or generic 'you' and the isolated dialogue were treated as non-base material, while the pronoun-free description in q01141 was left unmarked. The convergent quote, authorized-excerpt, and whole-book structural evidence supports FIRST with high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_041",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T22:04:07.887892+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2f36a7be235f8a9919490e943f96e6a3eba6f3ad53e4f449e677945867980955"
+  }
+}

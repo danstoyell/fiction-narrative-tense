@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:5722",
+  "quotes": [
+    {
+      "quote_id": "q00940",
+      "person_signal": "non_base",
+      "note": "Universal aphorism with no story-specific narrator participation."
+    },
+    {
+      "quote_id": "q00941",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00942",
+      "person_signal": "first",
+      "note": "Susie narrates her death, absence, and changing understanding as I/my."
+    },
+    {
+      "quote_id": "q00943",
+      "person_signal": "first",
+      "note": "The narrator recounts her childhood with my father and I."
+    },
+    {
+      "quote_id": "q00944",
+      "person_signal": "first",
+      "note": "The participating narrator repeatedly uses I/my to explain why she tells her family's story."
+    },
+    {
+      "quote_id": "q00945",
+      "person_signal": "first",
+      "note": "Our identifies the narrator as a participant in the remembered kiss."
+    },
+    {
+      "quote_id": "q00946",
+      "person_signal": "first",
+      "note": "The narrator locates herself in heaven and states what I always chose."
+    },
+    {
+      "quote_id": "q00947",
+      "person_signal": "non_base",
+      "note": "Generalized relationship aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00948",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Susie; the speaker's pronouns do not establish narrative person."
+    },
+    {
+      "quote_id": "q00949",
+      "person_signal": "non_base",
+      "note": "Unframed direct speech with no base-narrator evidence."
+    },
+    {
+      "quote_id": "q00950",
+      "person_signal": "non_base",
+      "note": "Gnomic description of heaven rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00951",
+      "person_signal": "first",
+      "note": "Susie explicitly identifies herself and recounts her murder as I."
+    },
+    {
+      "quote_id": "q00952",
+      "person_signal": "first",
+      "note": "Repeated I/my references frame the family history and heavenly observations; generic or reader-addressing you is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00953",
+      "person_signal": "non_base",
+      "note": "General aphorism without a story-world narrator marker."
+    },
+    {
+      "quote_id": "q00954",
+      "person_signal": "first",
+      "note": "Outside the brief dialogue, the narrator recounts her exchange with my mother as I."
+    },
+    {
+      "quote_id": "q00955",
+      "person_signal": "first",
+      "note": "The participating narrator recounts using my camera and repeatedly uses I/me."
+    },
+    {
+      "quote_id": "q00956",
+      "person_signal": "non_base",
+      "note": "Dialogue between Franny and Susie; the speakers' first-person forms are local speech."
+    },
+    {
+      "quote_id": "q00957",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about the dead, despite the inclusive us."
+    },
+    {
+      "quote_id": "q00958",
+      "person_signal": "unclear",
+      "note": "Unanchored verse with unresolved speaker and quotation boundaries cannot identify the base narrator."
+    },
+    {
+      "quote_id": "q00959",
+      "person_signal": "first",
+      "note": "The narrator identifies Lindsey as my sister and herself as the person remembered."
+    },
+    {
+      "quote_id": "q00960",
+      "person_signal": "unmarked",
+      "note": "A brief rendering of Ray's thought contains no participating-narrator marker and cannot by itself prove third person."
+    },
+    {
+      "quote_id": "q00961",
+      "person_signal": "non_base",
+      "note": "The attribution to Jack Salmon marks this first-person line as a local message or inscription, not Susie's base narration."
+    },
+    {
+      "quote_id": "q00962",
+      "person_signal": "first",
+      "note": "Although dialogue-heavy, the outside beats explicitly use my father, my brother, and I began to cry in heaven, exposing Susie's base narration."
+    },
+    {
+      "quote_id": "q00963",
+      "person_signal": "first",
+      "note": "My mother identifies the narrator as a member of the family whose scene she narrates."
+    },
+    {
+      "quote_id": "q00964",
+      "person_signal": "unmarked",
+      "note": "Sustained narration about Ruth resembles third-person omniscience locally, but contains no evidence that a nonparticipating narrator controls the book."
+    },
+    {
+      "quote_id": "q00965",
+      "person_signal": "non_base",
+      "note": "Generalized observation about the dead and living without story-specific narrator participation."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.vpm.org/npr-news/2009-12-11/excerpt-the-lovely-bones/",
+      "title": "Excerpt: \u2018The Lovely Bones\u2019",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained Chapter One excerpt, reproduced with Little, Brown's permission, begins with Susie identifying herself and recounting her murder and life through I/my narration."
+    },
+    {
+      "url": "https://journals.ed.ac.uk/forum/article/download/1279/1760/4333",
+      "title": "The End of the Good Life: Literary Representations of Suburbia and the American Nightmare",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "University of Edinburgh scholarly analysis identifies Susie as the first-person narrator and describes her first-person omnipotent voice as carrying the remainder of the narrative while accessing other characters' thoughts."
+    },
+    {
+      "url": "https://pure.southwales.ac.uk/ws/portalfiles/portal/10225854/MPhil_Critical_Study_DLB.pdf",
+      "title": "Women Writing Trauma: How Female Writers Use Narrative Voice in Fiction to Represent the Effects of Trauma",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A University of South Wales MPhil study classifies the deceased protagonist Susie as the novel's first-person omniscient and omnipresent narrator from the afterlife."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/33797-pw-talks-with-alice-sebold.html",
+      "title": "PW Talks with Alice Sebold",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The contemporary author interview identifies murdered character Susie Salmon as the novel's narrator and discusses Sebold finding Susie's voice and placing her in heaven."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Lovely Bones Alice Sebold official excerpt first chapter narrator\u201d; found and opened the NPR/VPM publisher-permissioned Chapter One excerpt.",
+    "Searched \u201cThe Lovely Bones point of view first person narrator Susie Salmon scholarly\u201d; opened University of Edinburgh and University of South Wales scholarly analyses.",
+    "Searched \u201cThe Lovely Bones alternating narration point of view\u201d and \u201cThe Lovely Bones first-person omniscient Susie entire novel\u201d; no credible evidence of sustained base sections narrated by a different person was found.",
+    "Searched \u201cLittle Brown The Lovely Bones Alice Sebold excerpt\u201d; no current Little, Brown-hosted excerpt surfaced, so the permissioned NPR/VPM reproduction was used.",
+    "Opened the Publishers Weekly author interview and Encyclopedia.com point-of-view discussion to check that third-person-like access to other characters is Susie's omniscient first-person narration rather than a separate narrator."
+  ],
+  "person_note": "The controlling narrator is Susie Salmon, a participant who tells her own death and observes her family from heaven in first person. Numerous quotes independently expose her I/my voice, and the permissioned opening plus scholarly whole-book analyses agree. Third-person-looking passages about Ray or Ruth reflect Susie's unusual omniscient reach and do not establish a nonparticipating narrator. The second-person forms in q00952 are generalized or reader-directed within her first-person account, q00961 is attributed local material from Jack, and q00962 remains diagnostic because its dialogue is surrounded by Susie's first-person beats. The only scope limitation is that the authorized prose source covers the opening, but the whole-book scholarly sources resolve that limitation and reveal no sustained person alternation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_038",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:33:33.841155+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2891f7893690966484da8fbe3d848a78e896cd7d4e22e03a15e2922566d1aa13"
+  }
+}

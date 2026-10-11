@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:4108",
+  "quotes": [
+    {
+      "quote_id": "q02051",
+      "person_signal": "non_base",
+      "note": "General aphorism without a story-specific narrator."
+    },
+    {
+      "quote_id": "q02052",
+      "person_signal": "non_base",
+      "note": "General maxim; generic \u201cyou\u201d is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02053",
+      "person_signal": "first",
+      "note": "A participating narrator recalls when \u201cI understood.\u201d"
+    },
+    {
+      "quote_id": "q02054",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the outside beat \u201cI can hear\u201d exposes participating narration."
+    },
+    {
+      "quote_id": "q02055",
+      "person_signal": "first",
+      "note": "The narrator recounts personal experience using \u201cme\u201d and \u201cI learned.\u201d"
+    },
+    {
+      "quote_id": "q02056",
+      "person_signal": "first",
+      "note": "Participating narrator describes a memory that stays \u201cwith me.\u201d"
+    },
+    {
+      "quote_id": "q02057",
+      "person_signal": "non_base",
+      "note": "Extended direct speech by Pop rather than the controlling narratorial voice."
+    },
+    {
+      "quote_id": "q02058",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with generic \u201cyou,\u201d not story-specific second person."
+    },
+    {
+      "quote_id": "q02059",
+      "person_signal": "non_base",
+      "note": "Quoted speech, including its first-person comparison, is locally attributed to \u201che.\u201d"
+    },
+    {
+      "quote_id": "q02060",
+      "person_signal": "non_base",
+      "note": "General advice using generic \u201cyou,\u201d not base-narrator evidence."
+    },
+    {
+      "quote_id": "q02061",
+      "person_signal": "non_base",
+      "note": "General simile with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q02062",
+      "person_signal": "non_base",
+      "note": "Richie\u2019s quoted speech; the outside attribution alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q02063",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Leonie."
+    },
+    {
+      "quote_id": "q02064",
+      "person_signal": "first",
+      "note": "Substantial narration around the conversation uses \u201cI say,\u201d \u201cI know,\u201d and \u201cI feel.\u201d"
+    },
+    {
+      "quote_id": "q02065",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph by Eudora Welty."
+    },
+    {
+      "quote_id": "q02066",
+      "person_signal": "first",
+      "note": "Participating narrator describes personal desires and the children as \u201cme\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02067",
+      "person_signal": "first",
+      "note": "Scene narration culminates in the narrator\u2019s \u201cI cannot bear the world.\u201d"
+    },
+    {
+      "quote_id": "q02068",
+      "person_signal": "first",
+      "note": "Sustained scene narration repeatedly uses \u201cI stand.\u201d"
+    },
+    {
+      "quote_id": "q02069",
+      "person_signal": "unmarked",
+      "note": "Historical exposition uses generic \u201cyou\u201d but does not identify the base narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02070",
+      "person_signal": "non_base",
+      "note": "Direct speech to a family member; its \u201cyou\u201d is ordinary address."
+    },
+    {
+      "quote_id": "q02071",
+      "person_signal": "first",
+      "note": "The narrator refers to what \u201cshe told me.\u201d"
+    },
+    {
+      "quote_id": "q02072",
+      "person_signal": "first",
+      "note": "Participating narrator explains personal desire and recollection with \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02073",
+      "person_signal": "first",
+      "note": "Beyond the brief speech, sustained narration repeatedly exposes the participating \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02074",
+      "person_signal": "first",
+      "note": "Extended autobiographical narration uses \u201cI\u201d throughout."
+    },
+    {
+      "quote_id": "q02075",
+      "person_signal": "first",
+      "note": "Immediate embodied actions are narrated as \u201cI swallow\u201d and \u201cI breathe.\u201d"
+    },
+    {
+      "quote_id": "q02076",
+      "person_signal": "non_base",
+      "note": "Direct speech about Leonie and the addressee."
+    },
+    {
+      "quote_id": "q02077",
+      "person_signal": "first",
+      "note": "Participating narrator recounts looking, understanding, and personal perception as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02078",
+      "person_signal": "first",
+      "note": "The narrator frames an ancestral story with \u201cmy grandmama told me\u201d and \u201cI knew.\u201d"
+    },
+    {
+      "quote_id": "q02079",
+      "person_signal": "first",
+      "note": "Jojo narrates his own knowledge and listening experience as \u201cme\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02080",
+      "person_signal": "first",
+      "note": "Richie participates as narrator, observing Jojo and recalling what \u201cI knew.\u201d"
+    },
+    {
+      "quote_id": "q02081",
+      "person_signal": "first",
+      "note": "Participating narrator twice states \u201cI wonder.\u201d"
+    },
+    {
+      "quote_id": "q02082",
+      "person_signal": "first",
+      "note": "The narrator describes a personal feeling as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02083",
+      "person_signal": "non_base",
+      "note": "Direct speech reporting a scientist and the speaker\u2019s thought."
+    },
+    {
+      "quote_id": "q02084",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to \u201cyou\u201d; not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02085",
+      "person_signal": "first",
+      "note": "Richie narrates his own youth, death, and understanding with repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02086",
+      "person_signal": "unmarked",
+      "note": "Weather description contains no participating or nonparticipating narrator marker."
+    },
+    {
+      "quote_id": "q02087",
+      "person_signal": "first",
+      "note": "Participating narrator recounts \u201cWe talked\u201d and \u201cI knew\u201d; the later \u201cyou\u201d is imagined address."
+    },
+    {
+      "quote_id": "q02088",
+      "person_signal": "unmarked",
+      "note": "Scene description contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q02089",
+      "person_signal": "non_base",
+      "note": "Spoken generalization; generic \u201cyou\u201d does not indicate second-person narration."
+    },
+    {
+      "quote_id": "q02090",
+      "person_signal": "first",
+      "note": "Participating narrator recounts perception and thought using \u201cus\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02091",
+      "person_signal": "unmarked",
+      "note": "Room and music description does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02092",
+      "person_signal": "first",
+      "note": "Story-specific reflection explicitly begins \u201cI like to think.\u201d"
+    },
+    {
+      "quote_id": "q02093",
+      "person_signal": "unmarked",
+      "note": "The fragment describes a dream without identifying the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02094",
+      "person_signal": "unmarked",
+      "note": "Historical exposition about a White man does not itself establish narrator person."
+    },
+    {
+      "quote_id": "q02095",
+      "person_signal": "first",
+      "note": "Participating narrator describes travel, hearing, wishing, and feeling as \u201cwe\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02096",
+      "person_signal": "first",
+      "note": "The narrator describes personal anger and action with \u201cI\u201d and \u201cI\u2019m.\u201d"
+    },
+    {
+      "quote_id": "q02097",
+      "person_signal": "first",
+      "note": "Despite the clipped opening, the passage identifies the experiencing narrator with \u201cme\u201d and \u201cI knew.\u201d"
+    },
+    {
+      "quote_id": "q02098",
+      "person_signal": "first",
+      "note": "Autobiographical reflection repeatedly uses \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02099",
+      "person_signal": "first",
+      "note": "The observing narrator explicitly says \u201cI can tell.\u201d"
+    },
+    {
+      "quote_id": "q02100",
+      "person_signal": "first",
+      "note": "Participating narrator describes following Pop\u2019s trail as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02101",
+      "person_signal": "first",
+      "note": "Immediate bodily action and perception are narrated as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02102",
+      "person_signal": "unmarked",
+      "note": "A bare third-person statement does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02103",
+      "person_signal": "first",
+      "note": "Extended participating narration uses \u201cI,\u201d \u201cwe,\u201d \u201cmy,\u201d and \u201cI\u2019m.\u201d"
+    },
+    {
+      "quote_id": "q02104",
+      "person_signal": "first",
+      "note": "The narrator\u2019s reference to \u201cmy parents\u201d identifies participation despite the fragment."
+    },
+    {
+      "quote_id": "q02105",
+      "person_signal": "first",
+      "note": "Jojo narrates his own concern and action using repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02106",
+      "person_signal": "first",
+      "note": "The narrator reports personal voice, body, and perception with \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02107",
+      "person_signal": "unmarked",
+      "note": "The description of the deceased character contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q02108",
+      "person_signal": "first",
+      "note": "Jojo narrates repeated personal desires and bodily feeling as \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02109",
+      "person_signal": "first",
+      "note": "Narration outside the brief address describes what settled in \u201cmy chest\u201d and what \u201cI\u201d did."
+    },
+    {
+      "quote_id": "q02110",
+      "person_signal": "non_base",
+      "note": "Authorial dedication, not story narration."
+    },
+    {
+      "quote_id": "q02111",
+      "person_signal": "unmarked",
+      "note": "The clipped scene gives a speech attribution but no diagnostic narratorial person."
+    },
+    {
+      "quote_id": "q02112",
+      "person_signal": "first",
+      "note": "The personal possessive \u201cmy marrow\u201d identifies an experiencing participant despite the fragment."
+    },
+    {
+      "quote_id": "q02113",
+      "person_signal": "first",
+      "note": "Story-specific personal reluctance and pain are narrated as \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02114",
+      "person_signal": "non_base",
+      "note": "Direct speech reporting Pop\u2019s teaching; its pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q02115",
+      "person_signal": "first",
+      "note": "The observed figures look down \u201con me,\u201d identifying the narrator as a participant."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://womensprize.com/app/uploads/2024/01/Chapter-9-Extract-Sing-Unburied-Sing.pdf",
+      "title": "Sing, Unburied, Sing \u2014 Chapter 9 Extract",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Authorized prize-site extract labels Chapter 9 \u201cRichie\u201d and sustains Richie's participating first-person narration across the chapter."
+    },
+    {
+      "url": "https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/157159/Annika_Thiem_Subversive_Ghosts.pdf?isAllowed=y&sequence=1",
+      "title": "Subversive Ghosts: Rewriting Stories and Histories in American Women\u2019s Ghost Literature",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "University-hosted dissertation explicitly states that the novel combines the first-person narrations of Jojo, Leonie, and Richie, while River\u2019s first-person account is filtered through Jojo\u2019s narrative."
+    },
+    {
+      "url": "https://ojs.tnkul.pl/index.php/rh/article/download/18023/16730/",
+      "title": "Haunting Time in Jesmyn Ward\u2019s Sing, Unburied, Sing",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Scholarly analysis identifies Jojo, Leonie, and Richie as the three narrators, states that no omniscient narrator controls the novel, and describes each as telling part of the same story."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9781508237549",
+      "title": "Sing, Unburied, Sing by Jesmyn Ward",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly\u2019s unabridged-audio review independently identifies three narrators\u2014Richie, Jojo, and Leonie\u2014and three corresponding performers."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cSing Unburied Sing Jesmyn Ward excerpt publisher first chapter\u201d and publisher-domain variants; found and opened the Women\u2019s Prize Chapter 9 extract.",
+    "Searched \u201cSing Unburied Sing three narrators Jojo Leonie Richie point of view\u201d and \u201cfirst-person narrators\u201d; found explicit whole-book descriptions and opened university-hosted scholarly sources.",
+    "Searched for author interviews and interior extracts; the PBS and Los Angeles Review of Books pages were discoverable but returned access errors when opened, so they were not used as evidence.",
+    "Opened the Publishers Weekly audiobook review to verify the whole-book three-narrator structure; generic summaries and search snippets were not treated as primary person evidence."
+  ],
+  "person_note": "The novel\u2019s controlling narration is shared by Jojo, Leonie, and Richie, but all three are participating first-person narrators, so multiple narrators do not make the result ALTERNATING. Numerous event quotes independently expose sustained \u201cI,\u201d \u201cme,\u201d \u201cmy,\u201d and \u201cwe\u201d narration across distinct characters, including Richie passages corroborated by the authorized Chapter 9 extract. The university-hosted dissertation explicitly confirms that all three principal narrations are first person and explains that Pop/River\u2019s embedded first-person account is filtered through Jojo rather than forming a different base-person section. Dialogue, generic aphorisms, the epigraph, and the dedication were excluded from base-person inference. No credible evidence of sustained second- or third-person base narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_060",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:40:01.157235+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a77d17ac95bb75ef55e0b5178a4123dc7efaebc337bf251255c0f7ea4f62e427"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:7239",
+  "quotes": [
+    {
+      "quote_id": "q02341",
+      "person_signal": "non_base",
+      "note": "Clipped character speech: fuller context identifies Kya saying this to Tate after learning to read; the first-person pronouns are not base narration."
+    },
+    {
+      "quote_id": "q02342",
+      "person_signal": "unmarked",
+      "note": "Possible narration reports what a father told his son, but this isolated third-person reference does not independently establish the narrator's participation."
+    },
+    {
+      "quote_id": "q02343",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor without story-specific narratorial person."
+    },
+    {
+      "quote_id": "q02344",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without story-specific narratorial person."
+    },
+    {
+      "quote_id": "q02345",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment without base-narrator evidence."
+    },
+    {
+      "quote_id": "q02346",
+      "person_signal": "non_base",
+      "note": "General reflection using generic second person, not sustained narration of a protagonist."
+    },
+    {
+      "quote_id": "q02347",
+      "person_signal": "non_base",
+      "note": "General rhetorical question without story-specific narratorial person."
+    },
+    {
+      "quote_id": "q02348",
+      "person_signal": "non_base",
+      "note": "Gnomic sentence, also presented within the novel as a line Kya reads, rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q02349",
+      "person_signal": "third",
+      "note": "Narration externally describes a female character's action and supplies narratorial knowledge that she had never acted this way before."
+    },
+    {
+      "quote_id": "q02350",
+      "person_signal": "third",
+      "note": "Sustained narration refers to Kya as she and reports her knowledge and history from a nonparticipating position."
+    },
+    {
+      "quote_id": "q02351",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical you in a gnomic question, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02352",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Kya, names her, and describes her experience without a participating narrator."
+    },
+    {
+      "quote_id": "q02353",
+      "person_signal": "third",
+      "note": "The attribution 'Kya thought' embeds her observation inside external third-person narration; her focalization does not make her the narrator."
+    },
+    {
+      "quote_id": "q02354",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without story-specific narratorial person."
+    },
+    {
+      "quote_id": "q02355",
+      "person_signal": "non_base",
+      "note": "First-person language is Kya's quoted speech; the brief speech tag does not itself provide sustained person evidence."
+    },
+    {
+      "quote_id": "q02356",
+      "person_signal": "non_base",
+      "note": "Explicitly introduced character recitation of an Amanda Hamilton poem, not base narration."
+    },
+    {
+      "quote_id": "q02357",
+      "person_signal": "non_base",
+      "note": "Dialogue and reported speech dominate; its pronouns belong to characters rather than a controlling narrator."
+    },
+    {
+      "quote_id": "q02358",
+      "person_signal": "non_base",
+      "note": "Expository gnomic material without a story-specific narrator signal."
+    },
+    {
+      "quote_id": "q02359",
+      "person_signal": "non_base",
+      "note": "Character dialogue, remembered speech, and direct address do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02360",
+      "person_signal": "non_base",
+      "note": "Web context identifies this first-person text as an Amanda Hamilton poem recited aloud by Kya, so it is an embedded voice."
+    },
+    {
+      "quote_id": "q02361",
+      "person_signal": "non_base",
+      "note": "Spoken advice with generic you and a vocative; not base narration."
+    },
+    {
+      "quote_id": "q02362",
+      "person_signal": "non_base",
+      "note": "Gnomic form of a saying spoken by Ma elsewhere in the novel, not controlling narration."
+    },
+    {
+      "quote_id": "q02363",
+      "person_signal": "non_base",
+      "note": "Unframed verse represents an embedded poetic voice; its I and you do not establish the novel's base narrator."
+    },
+    {
+      "quote_id": "q02364",
+      "person_signal": "third",
+      "note": "Extended scene narration follows Kya by name and as she, reports her attention and knowledge, and maintains an external narrating position."
+    },
+    {
+      "quote_id": "q02365",
+      "person_signal": "non_base",
+      "note": "Aphorism without story-specific narratorial person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.deliaowens.com/crawdads-excerpt",
+      "title": "Excerpt from Where the Crawdads Sing \u2014 Delia Owens",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized Chapter 1 excerpt sustains external narration of Kya as she while presenting her perceptions, establishing third person in the opening."
+    },
+    {
+      "url": "https://scholarship.shu.edu/dissertations/2991/",
+      "title": "Fulfilling the Search for Completeness in Harper Lee\u2019s To Kill A Mockingbird and Delia Owens\u2019 Where the Crawdads Sing",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A Seton Hall University MA English thesis explicitly contrasts Scout's first-person narration with Crawdads' roving third-person narrative across Kya's life from 1952 to 2009."
+    },
+    {
+      "url": "https://jlk.fib.unand.ac.id/index.php/jlk/article/download/92/70/397",
+      "title": "Unfolding Through Layers: A Narratological Analysis of Tense, Mood, and Voice in Where the Crawdads Sing (2018) by Delia Owens",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The narratological study identifies a consistently extradiegetic, heterodiegetic narrator outside the story, documents third-person passages from the opening, trial, and late novel, and distinguishes shifting focalization from a change of narrative person."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/where-the-crawdads-sing/quotes/",
+      "title": "Where the Crawdads Sing: Famous Quotes Explained",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The Chapter 14 context attributes q02341 to Kya during her reading lesson with Tate, resolving its isolated first-person wording as character speech rather than contrary base narration."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/where-the-crawdads-sing/characters/amanda-hamilton",
+      "title": "Amanda Hamilton Character Analysis in Where the Crawdads Sing",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The Chapter 30 context identifies q02360 as an Amanda Hamilton poem recited by Kya, resolving its first-person voice as embedded verse rather than an alternating narration section."
+    }
+  ],
+  "search_log": [
+    "Searched site:penguinrandomhouse.com for Where the Crawdads Sing excerpts and opened the publisher book page; it verified the edition and offered a sample interface, but the accessible page text was chiefly catalog copy rather than sustained prose.",
+    "Searched for Delia Owens Where the Crawdads Sing excerpt/first chapter and opened the author's authorized Chapter 1 excerpt.",
+    "Searched for Where the Crawdads Sing point of view, first person, third person, narrator, and narrated by; general answer sites and review snippets were treated only as discovery leads.",
+    "Searched scholarly sources for narrator and narrative structure; opened the Seton Hall thesis record and the full Linguistika Kultura narratological article.",
+    "Searched exact text of 'I wasn't aware that words could hold so much' and found contextual evidence that it is Kya's speech during Tate's reading lesson.",
+    "Searched exact text of 'I must let go now. Let you go' and Amanda Hamilton; contextual sources identify it as a poem Kya recites, not a first-person narrative section.",
+    "Searched for alternating timelines, epistolary form, diary, frame narrative, and multiple narrators; results described temporal alternation but yielded no credible evidence of sustained narration in another grammatical person."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. Multiple event quotes sustain external narration of Kya while sometimes entering her thoughts, and the authorized opening independently shows the same form. Two scholarly whole-book analyses describe a roving or heterodiegetic third-person narrator across the novel, including opening, trial, and late passages. Apparent first-person counterexamples are local material: q02341 is Kya's speech, while q02360 and other verse are embedded Amanda Hamilton poems. The novel alternates timelines and focalization, but the researched evidence does not show sustained base sections in another person. No material uncertainty remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_066",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T04:47:55.940597+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d40aa2f48d8b7e5954c81d54fc8a4c05990a2979f815aa6a9e28150fb0911986"
+  }
+}

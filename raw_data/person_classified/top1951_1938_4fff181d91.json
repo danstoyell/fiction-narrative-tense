@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1951:1938",
+  "quotes": [
+    {
+      "quote_id": "q00754",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no story-participating narrator."
+    },
+    {
+      "quote_id": "q00755",
+      "person_signal": "non_base",
+      "note": "Malloy's direct speech; the brief attribution does not independently establish base person."
+    },
+    {
+      "quote_id": "q00756",
+      "person_signal": "non_base",
+      "note": "Gnomic observation, nondiagnostic for narrative person."
+    },
+    {
+      "quote_id": "q00757",
+      "person_signal": "third",
+      "note": "Sustained third-person focalization around an unnamed male character; the repeated you is generic within his understanding of pain."
+    },
+    {
+      "quote_id": "q00758",
+      "person_signal": "third",
+      "note": "Third-person narration repeatedly frames the character's direct thoughts with he thought; I/you forms belong to that local thought."
+    },
+    {
+      "quote_id": "q00759",
+      "person_signal": "third",
+      "note": "Sustained external narration represents the focal character as he and him."
+    },
+    {
+      "quote_id": "q00760",
+      "person_signal": "third",
+      "note": "Sustained third-person scene narration follows a male character's sensations, actions, and consciousness."
+    },
+    {
+      "quote_id": "q00761",
+      "person_signal": "non_base",
+      "note": "Gnomic exposition about Army Fatigue; any man and any woman are universal examples."
+    },
+    {
+      "quote_id": "q00762",
+      "person_signal": "non_base",
+      "note": "Character speech, including its first-person forms, does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00763",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Prewitt and his response to songs is too brief to establish narrator participation."
+    },
+    {
+      "quote_id": "q00764",
+      "person_signal": "third",
+      "note": "Outside the direct speech, third-person narration attributes speech, action, sensation, and inward response to Karen; I and you remain local to her voice."
+    },
+    {
+      "quote_id": "q00765",
+      "person_signal": "third",
+      "note": "Extended third-person account of the focal character's past; we have now is an authorial inclusive aside, not participation in the story."
+    },
+    {
+      "quote_id": "q00766",
+      "person_signal": "unmarked",
+      "note": "The isolated he sentence lacks enough context to distinguish the controlling narrator."
+    },
+    {
+      "quote_id": "q00767",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about love, without diagnostic narration."
+    },
+    {
+      "quote_id": "q00768",
+      "person_signal": "third",
+      "note": "External scene narration follows Weary and attributes a shared mistaken belief to two other characters."
+    },
+    {
+      "quote_id": "q00769",
+      "person_signal": "non_base",
+      "note": "A character's bitter direct thought, locally framed by he thought."
+    },
+    {
+      "quote_id": "q00770",
+      "person_signal": "non_base",
+      "note": "The passage is the big man's direct speech."
+    },
+    {
+      "quote_id": "q00771",
+      "person_signal": "non_base",
+      "note": "Locally attributed direct thought; our boys and other pronouns belong to the character's thought."
+    },
+    {
+      "quote_id": "q00772",
+      "person_signal": "non_base",
+      "note": "Direct speech using universal you, not second-person base narration."
+    },
+    {
+      "quote_id": "q00773",
+      "person_signal": "non_base",
+      "note": "A locally attributed internal reflection about boxing rather than an autonomous narratorial voice."
+    },
+    {
+      "quote_id": "q00774",
+      "person_signal": "non_base",
+      "note": "Close, character-bound internal reflection; its pronouns do not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00775",
+      "person_signal": "non_base",
+      "note": "Karen's direct speech; first-person forms belong to her."
+    },
+    {
+      "quote_id": "q00776",
+      "person_signal": "unmarked",
+      "note": "Brief narratorial event comment without an explicit participating or nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00777",
+      "person_signal": "third",
+      "note": "Substantial third-person framing around the speech follows Slater's behavior and Holmes's perceptions."
+    },
+    {
+      "quote_id": "q00778",
+      "person_signal": "non_base",
+      "note": "Local character voice or thought; my predecessor is not the base narrator."
+    },
+    {
+      "quote_id": "q00779",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization, nondiagnostic for person."
+    },
+    {
+      "quote_id": "q00780",
+      "person_signal": "third",
+      "note": "Sustained third-person focalization presents his beliefs about Violet; the closing you is generic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9780812984316",
+      "title": "From Here to Eternity | Penguin Random House Higher Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized Book One, Chapter 1 excerpt sustains third-person narration around Prewitt, referring to him as he while presenting his actions and feelings."
+    },
+    {
+      "url": "https://www.saveourenvironment.ca/Structuring_Your_Novel_Meredith_Robert_Fitzgerald_John.pdf",
+      "title": "Structuring Your Novel: From Basic Idea to Finished Manuscript",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Meredith and Fitzgerald explicitly classify the novel as third person with unrestricted omniscience and explain that it develops through third-person shifting viewpoint narrators."
+    }
+  ],
+  "search_log": [
+    "Searched \"From Here to Eternity\" \"James Jones\" excerpt and first chapter; opened the Penguin Random House authorized excerpt.",
+    "Searched \"From Here to Eternity\" third person, point of view, narrator, omniscient narrator, and shifting viewpoint; opened Meredith and Fitzgerald's sustained structural analysis.",
+    "Verified Structuring Your Novel bibliographically through its Google Books record as a 1972 Barnes & Noble writing textbook by Robert C. Meredith and John Dennis Fitzgerald.",
+    "Searched for first-person, alternating-narrator, frame-narrative, epistolary, and diary descriptions; found no credible evidence that the novel sustains another base person.",
+    "Opened Google Books novel chapter links in search of interior prose, but the returned chapter pages exposed no readable diagnostic passage; unrelated film and similarly titled results were discarded."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person, shifting focalization among characters while retaining third-person narration. Multiple interior quote passages independently show sustained he/she narration with access to character consciousness, agreeing with the authorized opening and the whole-book structural source. First-person forms occur in speech or direct thought, generic you appears in focalized or gnomic material, and the isolated authorial we in q00765 does not make the narrator a story participant. No sustained first- or second-person section was found. The main residual limitation is that the authorized publisher excerpt covers only the opening, but the explicit whole-book analysis and varied interior quotations resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_008",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:12:56.488817+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6d6284de6f47e50a5bb4056f3bfcedc5693ecd49f1381ee41fc5e873f394fc9d"
+  }
+}

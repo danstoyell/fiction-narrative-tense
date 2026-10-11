@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:2223",
+  "quotes": [
+    {
+      "quote_id": "q01177",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism; it does not cast a story protagonist as 'you'."
+    },
+    {
+      "quote_id": "q01178",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the isolated named-character statement does not establish narrator participation."
+    },
+    {
+      "quote_id": "q01179",
+      "person_signal": "unclear",
+      "note": "A clipped introduction to embedded articles; its speaker and narrative level cannot be resolved."
+    },
+    {
+      "quote_id": "q01180",
+      "person_signal": "non_base",
+      "note": "Direct speech dominates; the brief third-person attribution does not independently establish the base person."
+    },
+    {
+      "quote_id": "q01181",
+      "person_signal": "non_base",
+      "note": "General aphorism without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01182",
+      "person_signal": "non_base",
+      "note": "A speaker's first-person direct address, not base narration."
+    },
+    {
+      "quote_id": "q01183",
+      "person_signal": "third",
+      "note": "After the dialogue, sustained external narration reports Sheriff Yiannikos and Myron's perception and deliberation in third person."
+    },
+    {
+      "quote_id": "q01184",
+      "person_signal": "non_base",
+      "note": "Dialogue between Myron and Fat Gandhi."
+    },
+    {
+      "quote_id": "q01185",
+      "person_signal": "non_base",
+      "note": "Universal second-person reflection on grief, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01186",
+      "person_signal": "non_base",
+      "note": "Hortative dialogue addressed to an old friend."
+    },
+    {
+      "quote_id": "q01187",
+      "person_signal": "non_base",
+      "note": "Essayistic, collective 'we' generalization rather than participating story narration."
+    },
+    {
+      "quote_id": "q01188",
+      "person_signal": "non_base",
+      "note": "Universal aphorism; generic 'you' does not identify narrative person."
+    },
+    {
+      "quote_id": "q01189",
+      "person_signal": "first",
+      "note": "Win narrates story events as a participant, identifying Rhys as 'my cousin' and describing what he did."
+    },
+    {
+      "quote_id": "q01190",
+      "person_signal": "non_base",
+      "note": "Authorial acknowledgments and bibliographic paratext."
+    },
+    {
+      "quote_id": "q01191",
+      "person_signal": "unmarked",
+      "note": "A short scene description and speech attribution naming Myron, without enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q01192",
+      "person_signal": "unmarked",
+      "note": "Specific scene narration, but the isolated third-person subjects alone do not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q01193",
+      "person_signal": "non_base",
+      "note": "A mother's first-person plea, classified upstream as dialogue rather than controlling narration."
+    },
+    {
+      "quote_id": "q01194",
+      "person_signal": "non_base",
+      "note": "Clipped accusatory direct address; 'you' refers to the addressee of speech."
+    },
+    {
+      "quote_id": "q01195",
+      "person_signal": "first",
+      "note": "Win's participating scene narration uses 'I' for his presence and abilities at King's Cross."
+    },
+    {
+      "quote_id": "q01196",
+      "person_signal": "unmarked",
+      "note": "Story-world description with no grammatical marker of narrator participation."
+    },
+    {
+      "quote_id": "q01197",
+      "person_signal": "unmarked",
+      "note": "The passage belongs to scene exposition, but its 'you' is generic locational address rather than sustained second-person protagonist narration."
+    },
+    {
+      "quote_id": "q01198",
+      "person_signal": "unmarked",
+      "note": "Exposition names two fathers externally, but this isolated sentence does not by itself establish the base narrator."
+    },
+    {
+      "quote_id": "q01199",
+      "person_signal": "non_base",
+      "note": "Universal statement about modern people, not diagnostic story narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781784751135/9781784751135-sample.pdf",
+      "title": "Home by Harlan Coben \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The authorized 41-page Penguin sample begins with Win's sustained first-person Chapter 1 and then switches to sustained third-person narration centered on Myron."
+    },
+    {
+      "url": "https://www.deadgoodbooks.co.uk/extract-home-by-harlan-coben/",
+      "title": "Extract: Home by Harlan Coben",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized promotional extract reproduces Chapter 1 as sustained participating first-person narration; contextual details identify the narrator as Win."
+    },
+    {
+      "url": "https://www.supersummary.com/home-harlan-coben/chapters-1-9-summary/",
+      "title": "Home Chapters 1-9 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis of Chapters 1\u20139 explicitly distinguishes Win's first-person sections from Myron's third-person sections. This is a commercial study guide, not scholarly analysis."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/home-4",
+      "title": "Home by Harlan Coben \u2014 Bookreporter review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The full-book review states that the novel is mostly third person while Win's first-person voice appears in recurring portions."
+    },
+    {
+      "url": "https://www.marilynsmysteryreads.com/book-author/harlan-coben/",
+      "title": "HOME by Harlan Coben: Book Review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review explicitly says that Win narrates part of the novel in first person and Myron's portions use third-person limited narration."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Harlan Coben Home 2016 excerpt first chapter narrator Win Myron third person\".",
+    "Searched: \"Harlan Coben Home novel point of view alternating Win first person Myron third person\".",
+    "Searched publisher and author domains for authorized Home excerpts, including Penguin Random House/Penguin and Harlan Coben.",
+    "Opened and inspected the Penguin sample PDF, Dead Good Books extract, SuperSummary structural analysis, Bookreporter review, and Marilyn's Mystery Reads review.",
+    "Publisher search did not surface a useful Penguin Random House US HTML excerpt; the Penguin UK PDF supplied the authorized sustained text instead.",
+    "Goodreads and Wikipedia results were useful for discovery but were not needed as evidentiary sources after stronger opened sources confirmed the structure."
+  ],
+  "person_note": "The book alternates narrative person: Win narrates sustained sections in first person, while the Myron-centered sections use third-person narration. Quotes q01189 and q01195 expose Win's participating voice, and q01183 exposes the external Myron narration; the authorized Penguin sample independently displays the same switch. First-person speech, generic 'you,' aphorisms, and acknowledgments were excluded as non-base material. Multiple whole-book reviews explicitly confirm the recurring two-person structure, leaving no material uncertainty. Source audit: SuperSummary is Tier C; the authorized sample and independent quote signals still directly establish both persons.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_056",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T15:51:46.819706+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dbeb9e2935d75792ef2479716e11ebda5bf745ad358d5a702e9df38db153db37"
+  }
+}

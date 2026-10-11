@@ -51,6 +51,9 @@ least one non-abstained label. It is therefore not a literal top-three sample.
 
 ## Everything else in `raw_data/`
 
+- **`person_classified/`** — source-of-truth promoted base-narration person
+  results from the independent Sol High person harness. Staged runs and logs
+  live in gitignored `person_runs/`; see `../person/README.md`.
 - **`sample_*.csv`** — candidate batches, the *input* to `crawl.py` (pre-crawl, pre-classification). One per batch, same naming pattern as above. `sample.csv` is the original stratified sample from `analysis/build_sample.py`.
 - **`raw/`** — Post45 bestseller lists (`lists.csv`, `titles.csv`) and retained HathiTrust metadata. Core input to `analysis/build_sample.py`/`analysis/build_topn.py`.
 - **`cache/`, `cache_nyt/`** — gitignored, fully regenerable HTTP response caches. Delete freely; `crawl.py`/`analysis/build_topn.py` will refetch and re-cache.

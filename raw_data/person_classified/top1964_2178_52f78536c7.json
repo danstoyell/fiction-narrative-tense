@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1964:2178",
+  "quotes": [
+    {
+      "quote_id": "q01283",
+      "person_signal": "non_base",
+      "note": "Aphoristic observation with no narrating subject."
+    },
+    {
+      "quote_id": "q01284",
+      "person_signal": "non_base",
+      "note": "Gnomic joke; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01285",
+      "person_signal": "non_base",
+      "note": "Quoted imperative maxim rather than narration."
+    },
+    {
+      "quote_id": "q01286",
+      "person_signal": "non_base",
+      "note": "General aphorism with no person evidence."
+    },
+    {
+      "quote_id": "q01287",
+      "person_signal": "non_base",
+      "note": "First-person speech or interior monologue, not the controlling narrator."
+    },
+    {
+      "quote_id": "q01288",
+      "person_signal": "non_base",
+      "note": "The first-person clause is explicitly attributed as Herzog's thought; the brief attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01289",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01290",
+      "person_signal": "non_base",
+      "note": "Extended interior discourse explicitly closed with 'thought Herzog'; its pronouns belong to Herzog."
+    },
+    {
+      "quote_id": "q01291",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism."
+    },
+    {
+      "quote_id": "q01292",
+      "person_signal": "non_base",
+      "note": "An unsent letter to Nietzsche, signed M.E.H.; this is an embedded document."
+    },
+    {
+      "quote_id": "q01293",
+      "person_signal": "non_base",
+      "note": "A philosophical monologue with quoted speech, not external base narration."
+    },
+    {
+      "quote_id": "q01294",
+      "person_signal": "non_base",
+      "note": "Gnomic social commentary; 'I mean' belongs to the local reflective voice."
+    },
+    {
+      "quote_id": "q01295",
+      "person_signal": "non_base",
+      "note": "Aphoristic generalization rather than narrative exposition."
+    },
+    {
+      "quote_id": "q01296",
+      "person_signal": "non_base",
+      "note": "General maxim with no narrator evidence."
+    },
+    {
+      "quote_id": "q01297",
+      "person_signal": "non_base",
+      "note": "First-person aphoristic reflection lacking evidence that it is the controlling narrator."
+    },
+    {
+      "quote_id": "q01298",
+      "person_signal": "non_base",
+      "note": "Local first-person speech or thought about another man."
+    },
+    {
+      "quote_id": "q01299",
+      "person_signal": "non_base",
+      "note": "Fragmentary aphorism with no narratorial person."
+    },
+    {
+      "quote_id": "q01300",
+      "person_signal": "non_base",
+      "note": "First-person interior discourse or letter, not external narration."
+    },
+    {
+      "quote_id": "q01301",
+      "person_signal": "non_base",
+      "note": "The first-person statement is explicitly Herzog's thought."
+    },
+    {
+      "quote_id": "q01302",
+      "person_signal": "unmarked",
+      "note": "A short free-indirect statement about 'him'; third-person self-reference alone does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q01303",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally describes Madeleine and Herzog, reports their dialogue, and enters Herzog's perception."
+    },
+    {
+      "quote_id": "q01304",
+      "person_signal": "non_base",
+      "note": "Herzog's extended first-person self-reflection about his letters, not a separate controlling narrator."
+    },
+    {
+      "quote_id": "q01305",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism rather than sustained address to a protagonist."
+    },
+    {
+      "quote_id": "q01306",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01307",
+      "person_signal": "non_base",
+      "note": "Philosophical commentary; I-It and I-Thou are conceptual terms, not narratorial pronouns."
+    },
+    {
+      "quote_id": "q01308",
+      "person_signal": "non_base",
+      "note": "Research places this first-person recollection in Herzog's unsent letter to the Monsignor, making it embedded rather than base narration."
+    },
+    {
+      "quote_id": "q01309",
+      "person_signal": "non_base",
+      "note": "Generic imperative aphorism."
+    },
+    {
+      "quote_id": "q01310",
+      "person_signal": "third",
+      "note": "Sustained external description and an explicit 'thought Herzog' attribution establish close third-person narration."
+    },
+    {
+      "quote_id": "q01311",
+      "person_signal": "non_base",
+      "note": "A standalone first-person declaration from Herzog's local voice."
+    },
+    {
+      "quote_id": "q01312",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive 'we' does not establish a participating story narrator."
+    },
+    {
+      "quote_id": "q01313",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not second-person narrative."
+    },
+    {
+      "quote_id": "q01314",
+      "person_signal": "non_base",
+      "note": "Direct address from a local voice, with no base-narrator evidence."
+    },
+    {
+      "quote_id": "q01315",
+      "person_signal": "unmarked",
+      "note": "A single sentence reports what 'he wondered'; its limited context is insufficient by itself for a third-person signal."
+    },
+    {
+      "quote_id": "q01316",
+      "person_signal": "non_base",
+      "note": "Aphoristic direct address using local 'your' and 'my' pronouns."
+    },
+    {
+      "quote_id": "q01317",
+      "person_signal": "unclear",
+      "note": "Clipped noun phrase with no recoverable narrating position."
+    },
+    {
+      "quote_id": "q01318",
+      "person_signal": "non_base",
+      "note": "Quoted or interior philosophical statement about Herzog."
+    },
+    {
+      "quote_id": "q01319",
+      "person_signal": "non_base",
+      "note": "Herzog's prayer is explicitly presented as his conclusion."
+    },
+    {
+      "quote_id": "q01320",
+      "person_signal": "non_base",
+      "note": "Essay-like interior or epistolary discourse, not scene narration."
+    },
+    {
+      "quote_id": "q01321",
+      "person_signal": "third",
+      "note": "Two connected external actions narrate Herzog as 'he' without a participating narrator."
+    },
+    {
+      "quote_id": "q01322",
+      "person_signal": "non_base",
+      "note": "The long first-person recollection is explicitly introduced as what 'he was thinking'."
+    },
+    {
+      "quote_id": "q01323",
+      "person_signal": "non_base",
+      "note": "General social observation rather than diagnostic narrative."
+    },
+    {
+      "quote_id": "q01324",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization with no narrator participation."
+    },
+    {
+      "quote_id": "q01325",
+      "person_signal": "non_base",
+      "note": "First-person local recollection or monologue."
+    },
+    {
+      "quote_id": "q01326",
+      "person_signal": "non_base",
+      "note": "Exclamatory interior speech, not base narration."
+    },
+    {
+      "quote_id": "q01327",
+      "person_signal": "non_base",
+      "note": "General maxim with no narratorial person."
+    },
+    {
+      "quote_id": "q01328",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison rather than story narration."
+    },
+    {
+      "quote_id": "q01329",
+      "person_signal": "unclear",
+      "note": "Clipped abstract fragment with no attributable narrative voice."
+    },
+    {
+      "quote_id": "q01330",
+      "person_signal": "third",
+      "note": "A sustained sequence externally narrates Herzog's discovery, memory, perception, and action as 'he' and 'him'."
+    },
+    {
+      "quote_id": "q01331",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization without narrator evidence."
+    },
+    {
+      "quote_id": "q01332",
+      "person_signal": "unmarked",
+      "note": "A figurative fragment about 'her' lacks enough context to establish narratorial person."
+    },
+    {
+      "quote_id": "q01333",
+      "person_signal": "non_base",
+      "note": "Abstract maxim rather than diagnostic narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/herzog_visits_chicago_by_saul_bellow.pdf",
+      "title": "Herzog Visits Chicago",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Authorized prepublication interior excerpt sustains external third-person scene narration while distinguishing Herzog's first-person thoughts and speech as locally embedded consciousness."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/352533/herzog-by-saul-bellow-introduction-by-philip-roth/readers-guide/",
+      "title": "Herzog Reader's Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The publisher's guide explicitly says that despite extensive epistolary material and the narrator's intimacy with Herzog, the novel is not a first-person narrative."
+    },
+    {
+      "url": "https://digital.library.unt.edu/ark:/67531/metadc501232/m2/1/high_res_d/1002778313-Banks.pdf",
+      "title": "Saul Bellow's Creation of Ambiguity and Deception in Herzog and The Dean's December",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "University thesis analysis identifies a nonpersonal third-person narrator who mediates Herzog's perceptions and explains that free indirect discourse blurs the distance between narrator and character."
+    },
+    {
+      "url": "https://traditiononline.org/wp-content/uploads/2019/02/Saul-Bellows-Vision.pdf",
+      "title": "Saul Bellow's Vision Beyond Absurdity: Jewishness in Herzog",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Scholarly analysis describes movement from third person to first person and back during stream-of-consciousness remembrance; this documents surface viewpoint shifts but does not establish an autonomous participating base narrator."
+    }
+  ],
+  "search_log": [
+    "Searched: Saul Bellow Herzog novel point of view narrator third person free indirect discourse.",
+    "Searched: Saul Bellow Herzog excerpt first chapter publisher; opened Penguin Random House's book page and reader's guide, but its Look Inside text was not exposed.",
+    "Searched: Herzog Saul Bellow narrative technique third person scholarly; opened the University of North Texas thesis and the Tradition journal PDF.",
+    "Searched exact Goodreads passages including 'One way or another the no doubt mad idea entered my mind' and 'I suppose, he was thinking'; follow-up scholarship identified the former as part of Herzog's letter to the Monsignor and the latter as explicitly framed thought.",
+    "Opened the Saturday Evening Post's authorized 'Herzog Visits Chicago' excerpt; Commentary's 'Napoleon Street' page was blocked by a verification screen, and the Open Library record offered borrowing metadata rather than accessible diagnostic prose.",
+    "Targeted searches for 'Herzog is not a first person narrative' and first-/third-person switching located explicit publisher and scholarly descriptions used to distinguish base narration from letters, direct thought, and free-indirect shifts."
+  ],
+  "person_note": "The controlling voice is a nonparticipating, intimate third-person narrator centered on Moses Herzog. The event passages q01303, q01310, q01321, and q01330 independently show sustained third-person scene narration. First-person material is Herzog's speech, stream of consciousness, recollection, or extensive unsent correspondence: q01308 is situated in his letter to the Monsignor, and q01322 is explicitly introduced as his thinking. Some scholarship calls the resulting pronominal movement an alternation between first- and third-person viewpoints, but the publisher guide explicitly distinguishes the epistolary and intimate material from the novel's narrative person, while the authorized excerpt and narratological thesis show the third-person voice retaining scene-level control. The remaining ambiguity concerns the unusually blurred boundary created by free indirect discourse, not the participation of the base narrator.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_013",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:50:30.104350+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5d7354fe43fd7e1a60d4e6884cf7f750d901318dbd648e30b6313429690380c6"
+  }
+}

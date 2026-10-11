@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2009:1890",
+  "quotes": [
+    {
+      "quote_id": "q00510",
+      "person_signal": "non_base",
+      "note": "Gnomic, universal 'we' does not expose a story-specific participating narrator."
+    },
+    {
+      "quote_id": "q00511",
+      "person_signal": "third",
+      "note": "Narratorial description and access to Wade's unspoken self-questioning identify nonparticipating third-person narration in 'Michael's Room.'"
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/ford-county-stories",
+      "title": "Ford County: Stories by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized opening of 'Blood Drive' sustains external third-person narration; its scope is limited to that story's opening."
+    },
+    {
+      "url": "https://www.thedailybeast.com/john-grishams-first-short-story-part-two/",
+      "title": "John Grisham's First Short Story: Part Two",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "This authorized extended excerpt from 'Fetching Raymond' sustains third-person narration throughout an interior and concluding portion of that story."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/332293626_Self-Actualization_of_the_Main_Characters_in_Ford_County_by_Grisham",
+      "title": "Self-Actualization of the Main Characters in Ford County, by Grisham",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The published structural analysis examines all seven stories and identifies six as third person and 'Quiet Haven' as first person."
+    },
+    {
+      "url": "https://petekirkpatrickreviews.wordpress.com/2026/01/21/literature-quiet-haven-john-grisham-2009/",
+      "title": "LITERATURE: Quiet Haven (John Grisham, 2009)",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The review explicitly describes 'Quiet Haven' as using a first-person narrator and discusses the consequences of that choice."
+    },
+    {
+      "url": "https://readingfreely.com/2009/12/29/ford-county-stories/",
+      "title": "Ford County: Stories",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The collection review states that most of its seven stories are written in third person, corroborating the predominant third-person strand."
+    }
+  ],
+  "search_log": [
+    "Searched 'John Grisham Ford County excerpt Michael's Room Stanley Wade' and located the quote plus book previews, but no authorized 'Michael's Room' extract.",
+    "Searched 'Ford County John Grisham first chapter excerpt publisher' and opened John Grisham's authorized third-person 'Blood Drive' opening.",
+    "Searched 'Ford County John Grisham point of view third person stories' and found a published structural analysis covering all seven stories.",
+    "Searched 'Quiet Haven first person Grisham' and opened an explicit story-level review corroborating its first-person narration.",
+    "Searched for authorized interior material and opened The Daily Beast's permissioned extended excerpt from 'Fetching Raymond,' which is third person.",
+    "Checked Google Books previews; they verified the seven-story collection and contents but supplied only limited metadata rather than whole-book person evidence."
+  ],
+  "person_note": "Ford County is an eligible prose collection whose component stories use different controlling persons. The Goodreads evidence directly exposes third-person narration in 'Michael's Room'; the gnomic Jell-O quotation is nondiagnostic. Authorized excerpts independently establish third-person narration in 'Blood Drive' and 'Fetching Raymond,' while the Tier B whole-collection analysis identifies 'Quiet Haven' as first person and the other six stories as third person, corroborated by an explicit 'Quiet Haven' review. Therefore the book is ALTERNATING. Confidence is medium\u2014not high\u2014because the quote evidence covers only the third-person strand and no authorized excerpt of the first-person story was located.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.245601+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "41d1ec9f3747a661a33da7a39f2e68cfcfedd278d5c4dddfd217985bb07e578a"
+  }
+}

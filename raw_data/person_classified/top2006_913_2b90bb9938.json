@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:913",
+  "quotes": [
+    {
+      "quote_id": "q00335",
+      "person_signal": "non_base",
+      "note": "Attributed Tennyson epigraph; paratext, not base narration."
+    },
+    {
+      "quote_id": "q00336",
+      "person_signal": "non_base",
+      "note": "Gnomic question-and-answer material; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00337",
+      "person_signal": "non_base",
+      "note": "General aphorism about marriage, not story-specific narration."
+    },
+    {
+      "quote_id": "q00338",
+      "person_signal": "unmarked",
+      "note": "The inclusive 'us' is generic reflection rather than evidence that a character narrates the story."
+    },
+    {
+      "quote_id": "q00339",
+      "person_signal": "non_base",
+      "note": "Generic reflection about love and loss, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00340",
+      "person_signal": "non_base",
+      "note": "Character dialogue with third-person speech tags; the spoken pronouns do not identify base person."
+    },
+    {
+      "quote_id": "q00341",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about death and remembrance."
+    },
+    {
+      "quote_id": "q00342",
+      "person_signal": "non_base",
+      "note": "Attributed Einstein quotation used as paratext."
+    },
+    {
+      "quote_id": "q00343",
+      "person_signal": "third",
+      "note": "An external narrator reports Norma's private outlook and aversion to surprises in sustained third-person narration."
+    },
+    {
+      "quote_id": "q00344",
+      "person_signal": "unmarked",
+      "note": "The unidentified 'he' is narrated externally, but this short extract lacks enough framing to establish narrator participation."
+    },
+    {
+      "quote_id": "q00345",
+      "person_signal": "unmarked",
+      "note": "Norma and Macky are discussed externally, while 'your' is generic; the sentence alone does not conclusively establish base person."
+    },
+    {
+      "quote_id": "q00346",
+      "person_signal": "third",
+      "note": "External narration reports Elner's remembered thought; the researched continuation confirms this belongs to a sustained third-person opening."
+    },
+    {
+      "quote_id": "q00347",
+      "person_signal": "non_base",
+      "note": "Recipe instructions in the book's paratext."
+    },
+    {
+      "quote_id": "q00348",
+      "person_signal": "non_base",
+      "note": "Recipe instructions, not narrative prose."
+    },
+    {
+      "quote_id": "q00349",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism, not sustained story-specific address."
+    },
+    {
+      "quote_id": "q00350",
+      "person_signal": "unmarked",
+      "note": "A single externally described action by Susie does not by itself identify the narrator's participation."
+    },
+    {
+      "quote_id": "q00351",
+      "person_signal": "third",
+      "note": "The external narrator summarizes an unnamed man's past conduct, future conduct, and governing attitude."
+    },
+    {
+      "quote_id": "q00352",
+      "person_signal": "non_base",
+      "note": "Character speech/general reflection; the trailing attribution does not make its pronouns base narration."
+    },
+    {
+      "quote_id": "q00353",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person clause about an unnamed woman; too little context to diagnose person independently."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://staff.univ-batna2.dz/sites/default/files/tobbi-saida/files/book_by_birner_betty_j_introduction_to_pragmatics-.pdf?m=1609131050",
+      "title": "Introduction to Pragmatics",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Betty J. Birner's scholarly textbook reproduces three connected opening passages from Flagg: Elner is repeatedly narrated as 'she,' her perceptions are reported externally, and the narration then follows Norma without a participating narrator."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/entertainment/books/2006/08/13/southern-comforts-span-classbankheadaunt-elner-meets-her-maker-while-the-residents-of-elmwood-springs-drown-their-sorrows-in-baked-goods-span/f128ac17-6ff9-4fad-b056-e2e97c00bcbb/",
+      "title": "Southern Comforts",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The Washington Post review quotes interior narration that externally follows Neva, Cathy, and Bud and reports their reflections in third person, corroborating an omniscient nonparticipant narrator beyond the opening."
+    },
+    {
+      "url": "https://laurasreadingreflections.blogspot.com/2008/06/review-cant-wait-to-get-to-heaven.html",
+      "title": "Can't Wait to Get to Heaven by Fannie Flagg",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A completed-book review explicitly identifies the novel's perspective as an omniscient narrator and notes that it shows many characters' reactions in different places at the same time."
+    }
+  ],
+  "search_log": [
+    "Searched \"Can't Wait to Get to Heaven\" \"Fannie Flagg\" with excerpt, first-chapter, point-of-view, narrator, third-person, omniscient, epistolary, and alternating-narration terms.",
+    "Opened the Google Books record and preview links; the accessible record confirmed the edition and contents but exposed no readable narrative prose suitable as person evidence.",
+    "Exact-text searching for \"After Elner Shimfissle accidentally poked\" located Birner's scholarly reproduction of three connected opening passages.",
+    "Opened and evaluated reviews from The Washington Post, The Guardian/Observer, and Bookreporter; the Washington Post supplied useful direct interior passages, while the others mainly offered summary and thematic description.",
+    "Targeted publisher, Random House, Penguin Random House, Google Books, and Internet Archive searches did not locate an accessible authorized sustained excerpt; no source indicated first-person, second-person, epistolary, or alternating-person narration."
+  ],
+  "person_note": "The diagnostic quotes expose a nonparticipating narrator who reports Norma's and Elner's private states and makes an omniscient aside about another character. Web evidence independently shows the opening continuing in third person, supplies third-person interior passages centered on several characters, and explicitly describes the whole novel as omniscient. Dialogue, aphorisms, recipes, epigraphs, and generic uses of 'you' or 'us' are local or nondiagnostic rather than competing narrative persons. The result is THIRD; confidence is medium because the accessible web evidence is corroborative but no authorized sustained whole-book excerpt or Tier A source was available.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.241039+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3bd122dd5317b5219c4b6508e786fb9ee317125aea3aaf5e9ec937e291f64a43"
+  }
+}

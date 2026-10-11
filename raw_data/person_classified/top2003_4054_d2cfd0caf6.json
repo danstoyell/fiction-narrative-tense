@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:4054",
+  "quotes": [
+    {
+      "quote_id": "q00174",
+      "person_signal": "non_base",
+      "note": "Scriptural exhortation quoted as gnomic material; it does not expose the novel's narrator."
+    },
+    {
+      "quote_id": "q00175",
+      "person_signal": "unmarked",
+      "note": "The reported belief is compatible with third-person narration, but this brief pronoun-only fragment cannot independently rule out a participating narrator."
+    },
+    {
+      "quote_id": "q00176",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in Father Tim's direct speech, not in base narration."
+    },
+    {
+      "quote_id": "q00177",
+      "person_signal": "non_base",
+      "note": "The first-person language belongs to a quoted prayer rather than the controlling narrator."
+    },
+    {
+      "quote_id": "q00178",
+      "person_signal": "non_base",
+      "note": "Generic second-person advice is gnomic and does not cast a story protagonist as you."
+    },
+    {
+      "quote_id": "q00179",
+      "person_signal": "third",
+      "note": "Base narration depicts a woman externally while reporting her longstanding belief about another character, consistent with the book's established third-person narration."
+    },
+    {
+      "quote_id": "q00180",
+      "person_signal": "third",
+      "note": "The web opening contextualizes this as third-person free-indirect narration of Uncle Billy's thoughts, not speech by a narrator."
+    },
+    {
+      "quote_id": "q00181",
+      "person_signal": "non_base",
+      "note": "The quotation is direct speech; its brief third-person attribution does not independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q00182",
+      "person_signal": "non_base",
+      "note": "Direct speech containing an embedded Shakespeare quotation is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00183",
+      "person_signal": "non_base",
+      "note": "This generalized reflection is gnomic and contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00184",
+      "person_signal": "non_base",
+      "note": "Hope's quoted exclamation dominates; the short attribution is not sufficient person evidence."
+    },
+    {
+      "quote_id": "q00185",
+      "person_signal": "third",
+      "note": "Narration refers to the focal character as he and reports his recollection and supposition from an external, nonparticipating position."
+    },
+    {
+      "quote_id": "q00186",
+      "person_signal": "non_base",
+      "note": "The first-person imperative is a character's direct prayer, not participating narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://bingebooks.com/book/shepherds-abiding",
+      "title": "Shepherds Abiding by Jan Karon",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained commercial sample begins with chapter One and narrates Father Tim, Lew Boyd, Hope Winchester, and Uncle Billy as he or she while moving among their private thoughts; no participating narrator frames the scenes."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/291212/shepherds-abiding-by-jan-karon/9780142004852/readers-guide/",
+      "title": "Shepherds Abiding Reader's Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The publisher's guide describes the novel as seen through Father Tim's eyes while also following other villagers; Karon explains that she moves among character scenes, corroborating third-person focalization rather than a participating narrator."
+    },
+    {
+      "url": "https://books.google.com/books?id=7e6DKa9Ta5AC",
+      "title": "Shepherds Abiding - Jan Karon - Google Books",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A page-252 preview snippet continues to refer to Father Tim externally as he before his spoken prayer; useful interior corroboration, though snippet scope is limited."
+    }
+  ],
+  "search_log": [
+    "Searched \"Shepherds Abiding\" \"Jan Karon\" excerpt and located sustained opening samples on BingeBooks and eCampus plus the publisher product page.",
+    "Searched \"Shepherds Abiding\" \"third person\", narrator, point of view, perspective, and omniscient narrator; no credible source used those labels explicitly for this title.",
+    "Searched the title with chapter-one text and exact narrative phrases; confirmed that q00180 and q00186 occur within the sustained third-person opening.",
+    "Reviewed the Penguin Random House book page and reader's guide; the product page's Read Sample control did not expose prose in the web view, while the guide provided whole-book structural context.",
+    "Reviewed Google Books selected-page metadata and its page-252 narrative snippet for interior corroboration.",
+    "Searched the title with epistolary, diary, frame narrative, alternating narrators, multiple narrators, and first-person narrator; found no evidence of constitutive documents, a first-person frame, or sustained person alternation."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. The opening sample sustains third-person narration across several focal characters, while Goodreads event passages from later moments likewise present characters externally and sometimes report their beliefs, memories, or thoughts. First-person and second-person forms in the quote set are confined to speech, prayer, scripture, or gnomic address. The publisher's structural guide and an interior Google Books snippet corroborate continuity beyond the opening, and targeted searches found no credible evidence of an alternating or first-person section. The only limitation is that the strongest continuous prose sample is the opening, but the independent later quote evidence and whole-book guide resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.237727+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "adfd2f964549c00a9690d898fcf9db0984faf0dd9dd52779546b2960e988127d"
+  }
+}

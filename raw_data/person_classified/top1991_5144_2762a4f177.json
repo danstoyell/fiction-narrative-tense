@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1991:5144",
+  "quotes": [
+    {
+      "quote_id": "q03148",
+      "person_signal": "non_base",
+      "note": "Direct speech; the speaker's \u201cour\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03149",
+      "person_signal": "non_base",
+      "note": "Generic imperative/gnomic advice, not story-specific narration."
+    },
+    {
+      "quote_id": "q03150",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing Mitch; its uses of \u201cyou\u201d are not second-person base narration."
+    },
+    {
+      "quote_id": "q03151",
+      "person_signal": "unclear",
+      "note": "Mostly dialogue with a brief third-person speech beat, but the excerpt ends mid-sentence and is too clipped to diagnose the narrator."
+    },
+    {
+      "quote_id": "q03152",
+      "person_signal": "non_base",
+      "note": "Direct speech; first-person plural refers to the speaking lawyers."
+    },
+    {
+      "quote_id": "q03153",
+      "person_signal": "non_base",
+      "note": "Direct speech; the speaker's first-person language is local dialogue."
+    },
+    {
+      "quote_id": "q03154",
+      "person_signal": "non_base",
+      "note": "Direct speech between characters, not narratorial first person."
+    },
+    {
+      "quote_id": "q03155",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the generalized statement and bare \u201cthey\u201d do not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q03156",
+      "person_signal": "unmarked",
+      "note": "Base-narrative exposition about the firm contains no person-diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q03157",
+      "person_signal": "non_base",
+      "note": "Dialogue, including a generalizing maxim; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q03158",
+      "person_signal": "third",
+      "note": "Sustained external description of a male character uses third-person reference without a participating narrator appearing."
+    },
+    {
+      "quote_id": "q03159",
+      "person_signal": "unmarked",
+      "note": "A short sentence about Mr. McKnight is compatible with third-person narration but is not diagnostic by itself."
+    },
+    {
+      "quote_id": "q03160",
+      "person_signal": "non_base",
+      "note": "Direct interview dialogue; \u201cwe\u201d and \u201cI\u201d belong to the speakers."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780099537090/9780099537090-sample.pdf",
+      "title": "The Firm \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized 49-page sample spans Chapters One and Two and the beginning of Three, sustaining external third-person narration across scenes centered on Mitch, Abby, the firm's lawyers, and DeVasher."
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/firm-john-grisham",
+      "title": "The Firm by John Grisham | Literature and Writing | Research Starters | EBSCO Research",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Whole-book structural analysis explicitly identifies third-person point of view, principally through Mitchell McDeere while also shifting focalization to other characters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-firm/style.html",
+      "title": "John Grisham Writing Styles in The Firm",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide's point-of-view section explicitly describes the novel as third person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJohn Grisham The Firm excerpt first chapter publisher\u201d.",
+    "Searched \u201cThe Firm John Grisham point of view third person narration\u201d.",
+    "Searched \u201cThe Firm John Grisham excerpt Mitch McDeere chapter 1\u201d.",
+    "Searched \u201csite:books.google.com The Firm John Grisham preview\u201d; no usable Google Books preview surfaced.",
+    "Opened and inspected the authorized Penguin Books sample through the beginning of Chapter Three, including later pages that shift attention among characters.",
+    "Opened the EBSCO whole-book analysis and BookRags point-of-view discussion.",
+    "The Penguin Random House Canada product page advertised an excerpt but exposed no readable prose; John Grisham's anniversary page supplied publication history but no narrative-person evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and refers to Mitch and the other characters in the third person. Most Goodreads quotations are dialogue or nondiagnostic fragments; q03158 supplies local third-person evidence, and none contains narratorial first- or second-person language. The authorized Penguin opening sustains third-person narration across several chapters and focal characters, while EBSCO explicitly establishes the same structure for all forty-one chapters; BookRags independently corroborates it. Shifts among character viewpoints are focalization shifts within third person, not alternating grammatical persons. The authorized excerpt does not cover the entire novel, but the whole-book structural evidence resolves that scope limitation, and no credible contrary evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_027",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:55:31.092969+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "dc6e41778779ece0ba87a48c708640e01deab746120c1fce28b97cd35627b1d8"
+  }
+}

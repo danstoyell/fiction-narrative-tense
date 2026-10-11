@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:THE ARMOR OF LIGHT|Ken Follett",
+  "quotes": [
+    {
+      "quote_id": "q08453",
+      "person_signal": "non_base",
+      "note": "Predominantly character dialogue; the brief third-person emotion beat is too limited to establish the base narrator."
+    },
+    {
+      "quote_id": "q08454",
+      "person_signal": "unmarked",
+      "note": "A single third-person perception clause about an unnamed character is insufficient by itself to identify the narrator."
+    },
+    {
+      "quote_id": "q08455",
+      "person_signal": "non_base",
+      "note": "Noun-phrase fragment describing a location; no base-narrator person is exposed."
+    },
+    {
+      "quote_id": "q08456",
+      "person_signal": "third",
+      "note": "Connected external narration evaluates Wellington and Bonaparte without a participating narrator."
+    },
+    {
+      "quote_id": "q08457",
+      "person_signal": "non_base",
+      "note": "Descriptive noun-phrase fragment with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q08458",
+      "person_signal": "non_base",
+      "note": "A character reads or reports newspaper information aloud; its wording does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08459",
+      "person_signal": "non_base",
+      "note": "Character speech or generalized argument, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q08460",
+      "person_signal": "third",
+      "note": "The external narrator frames an article and summarizes social behavior in sustained third-person exposition."
+    },
+    {
+      "quote_id": "q08461",
+      "person_signal": "unmarked",
+      "note": "Short historical-exposition fragment lacking enough local context to establish narratorial person independently."
+    },
+    {
+      "quote_id": "q08462",
+      "person_signal": "third",
+      "note": "After a local speech fragment, external narration reports a character action and supplies historical background."
+    },
+    {
+      "quote_id": "q08463",
+      "person_signal": "unmarked",
+      "note": "Truncated historical sentence with a bare third-person subject; insufficient local context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q08464",
+      "person_signal": "third",
+      "note": "Sustained external historical exposition about Bonaparte, French territory, and Jefferson has no participating narrator."
+    },
+    {
+      "quote_id": "q08465",
+      "person_signal": "non_base",
+      "note": "Direct character speech about a horse; second-person deixis is not base narration."
+    },
+    {
+      "quote_id": "q08466",
+      "person_signal": "third",
+      "note": "Sustained external exposition explains friendly societies and their social function without a participating narrator."
+    },
+    {
+      "quote_id": "q08467",
+      "person_signal": "unmarked",
+      "note": "A clipped descriptive fragment about winkles does not expose narrator participation."
+    },
+    {
+      "quote_id": "q08468",
+      "person_signal": "unmarked",
+      "note": "The isolated report of a woman's memory is compatible with third-person narration but too brief to rule out another framing narrator."
+    },
+    {
+      "quote_id": "q08469",
+      "person_signal": "unmarked",
+      "note": "Sentence fragment summarizing a coalition's campaign; no sufficiently developed narrating position is visible."
+    },
+    {
+      "quote_id": "q08470",
+      "person_signal": "non_base",
+      "note": "Multi-turn character dialogue; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q08471",
+      "person_signal": "non_base",
+      "note": "Bare noun-phrase fragment naming two acts; no narratorial person evidence."
+    },
+    {
+      "quote_id": "q08472",
+      "person_signal": "unmarked",
+      "note": "Brief character-specific exposition with a clipped ending; named and third-person subjects alone are not diagnostic."
+    },
+    {
+      "quote_id": "q08473",
+      "person_signal": "unmarked",
+      "note": "A single external scene-detail sentence is compatible with third person but too short to establish the narrator independently."
+    },
+    {
+      "quote_id": "q08474",
+      "person_signal": "non_base",
+      "note": "Oratorical character speech about working people, not base narration."
+    },
+    {
+      "quote_id": "q08475",
+      "person_signal": "non_base",
+      "note": "Two-turn character exchange; first- and second-person pronouns occur only in speech."
+    },
+    {
+      "quote_id": "q08476",
+      "person_signal": "third",
+      "note": "Sustained external character exposition describes Spade's premises, work, and another weaver without a participating narrator."
+    },
+    {
+      "quote_id": "q08477",
+      "person_signal": "unclear",
+      "note": "The quote begins mid-sentence with its subject missing, so the local narratorial structure cannot be reconstructed reliably."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://scroll.in/article/1057594/scroll_in",
+      "title": "From Ken Follett: How will a small group of people in Kingsbridge fight tyranny and modernisation?",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained excerpt credited to Ken Follett narrates Sal externally as she and reports her perceptions and thoughts in third person."
+    },
+    {
+      "url": "https://historicalnovelsociety.org/reviews/the-armour-of-light-uk-the-armor-of-light-us-the-kingsbridge-novels-5/",
+      "title": "The Armour of Light (UK) / The Armor of Light (US) (The Kingsbridge Novels, 5)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Historical Novel Society review explicitly describes an omniscient narrator who tells the thoughts and feelings of the novel's many characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Armor of Light\" Ken Follett excerpt, first chapter, publisher, and author-site combinations.",
+    "Searched both US \"Armor\" and UK \"Armour\" spellings with point of view, third-person, omniscient narrator, and narration perspective terms.",
+    "Opened the sustained Scroll book excerpt and the Historical Novel Society review used as evidence.",
+    "Checked Penguin Random House and Google Books pages; their accessible text provided catalog copy rather than readable narrative prose.",
+    "Checked an Orange County Library/OverDrive result, but the excerpt page returned an access error; also found duplicative opening samples and lower-authority uploads that were not needed."
+  ],
+  "person_note": "The book uses nonparticipating third-person narration, moving among many characters with omniscient access to their thoughts and feelings. Several interior Goodreads passages show the same external narrating stance, while dialogue, speech, fragments, and the clipped final quote were not treated as competing narrator voices. The authorized opening excerpt independently demonstrates third-person narration, and the whole-book Historical Novel Society review explicitly identifies the omniscient narrator. The opening alone would have limited scope, but the whole-book description and interior quote pattern resolve that limitation; no credible first- or second-person base section was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_083",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:32:21.532040+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5b5957b304f70631c248def3d9233a10ce9c6a3b7f04af577cb8ea7c2292462b"
+  }
+}

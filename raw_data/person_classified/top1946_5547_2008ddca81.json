@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1946:5547",
+  "quotes": [
+    {
+      "quote_id": "q00013",
+      "person_signal": "first",
+      "note": "The participating narrator describes herself as a consequential figure in Richard's life using \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "Generic \u201cwe\u201d appears in a universal gnomic observation, not story-specific narration."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "This memorial inscription is paratext rather than the novel's controlling narration."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "first",
+      "note": "Honor narrates her present circumstances and private perceptions as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "non_base",
+      "note": "A general aphorism about regret does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "The second-person language is character speech, not sustained narration of a protagonist as \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "first",
+      "note": "The narrating participant reports Richard seeing \u201cme\u201d and describes \u201cmy\u201d emotional response."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration recounts Honor's childhood memory through repeated \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "first",
+      "note": "Although mostly dialogue, the external speech beat \u201cI asked\u201d diagnostically exposes the participating base narrator."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "The inclusive \u201cwe\u201d belongs to a generic maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "first",
+      "note": "The dialogue itself is local speech, but the external beat \u201cI answered him\u201d identifies the participating narrator."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "first",
+      "note": "Honor narrates her enduring bond with Richard using sustained autobiographical \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://etheses.durham.ac.uk/id/eprint/13818/1/Habibi000663952.pdf",
+      "title": "\u2018Restless Birds\u2019: Avian Encounters in the Fiction of the Bront\u00ebs and Daphne du Maurier",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A Durham University doctoral thesis explicitly identifies Honor Harris as the novel's heroine and narrator and describes the work as Honor's first-person narrative."
+    },
+    {
+      "url": "https://www.dumaurier.org/mobile/menu_page.php?id=231",
+      "title": "Villainesses, Femmes Fatales, Matriarchs and Muses: Du Maurier's Heroines",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The estate-approved Daphne du Maurier website says Honor tells her own story retrospectively and reproduces first-person narratorial passages from the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe King's General\u201d Daphne du Maurier excerpt, first chapter, and Google Books; Google Books confirmed the edition but exposed no readable sustained prose.",
+    "Searched \u201cThe King's General\u201d first person, point of view, narrator, and Honor Harris; located explicit whole-book scholarly analysis in Durham E-Theses and corroboration on the estate-approved Daphne du Maurier website.",
+    "Searched the distinctive passage \u201cWhen the water drains from the marshes\u201d and combinations of \u201cHonor Harris\u201d with \u201cfirst-person narrator\u201d and \u201cnarrated\u201d; results corroborated Honor's narratorial role but added no stronger authorized excerpt.",
+    "Searched \u201cThe King's General\u201d epistolary, frame narrative, multiple narrators, alternating point of view, and retrospective narration; found descriptions of Honor's retrospective reminiscence and no evidence of sustained narration in another person.",
+    "Opened the Barnes & Noble sample, but it displayed no prose; direct opens of a University of Hyderabad thesis and an older archived review failed, so they were not used as evidence."
+  ],
+  "person_note": "The event passages repeatedly expose Honor Harris as a participating \u201cI\u201d narrator across childhood memories, her relationship with Richard, and her later reflections. The two dialogue-bucket quotations marked first are diagnostic only because their external speech beats say \u201cI asked\u201d or \u201cI answered\u201d; the spoken pronouns themselves are not being used. Gnomic \u201cwe,\u201d direct address, and the memorial inscription are non-base material. Whole-book scholarly evidence explicitly identifies Honor's narration as first person, while the estate-approved author site independently describes the story as her retrospective self-narration. No source indicated a sustained third- or second-person section; the only material uncertainty is the limited availability of an authorized continuous excerpt, which is offset by the consistent quote evidence and whole-book scholarly analysis.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_006",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:21:42.963213+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5d1f2022127b4a9caf6f8acd4c5f6be355cb016d140aff4653bcefcc7578c6bd"
+  }
+}

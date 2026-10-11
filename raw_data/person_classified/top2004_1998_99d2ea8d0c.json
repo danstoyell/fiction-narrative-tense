@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:1998",
+  "quotes": [
+    {
+      "quote_id": "q01079",
+      "person_signal": "unmarked",
+      "note": "Third-person-style focalization through Rayford is consistent with the researched narration, but this short isolated passage does not independently rule out a participating narrator."
+    },
+    {
+      "quote_id": "q01080",
+      "person_signal": "non_base",
+      "note": "Quoted speech or scripture; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q01081",
+      "person_signal": "non_base",
+      "note": "Quoted scriptural speech, including first-person plural language, rather than base narration."
+    },
+    {
+      "quote_id": "q01082",
+      "person_signal": "non_base",
+      "note": "Quoted scripture or speech; the sentence does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01083",
+      "person_signal": "non_base",
+      "note": "Nested biblical dialogue containing first- and second-person pronouns, not the novel's base narration."
+    },
+    {
+      "quote_id": "q01084",
+      "person_signal": "unmarked",
+      "note": "A brief externally phrased event description consistent with third person, but too short by itself to establish a nonparticipating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://files.tyndale.com/thpdata/firstchapters/978-0-8423-3235-4.pdf",
+      "title": "Glorious Appearing \u2014 Tyndale first-chapter preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized first chapter sustains third-person narration and moves among externally named focal characters including Mac, Chaim, and Chang, with no participating narrator framing the scenes."
+    },
+    {
+      "url": "https://jerrysguild.com/wp-content/uploads/2016/04/Mastering-Point-of-View-Transcript-Jerry-Jenkins-1.pdf",
+      "title": "Mastering Point of View \u2014 Jerry Jenkins Writers Guild transcript",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Coauthor Jerry Jenkins identifies Left Behind's narration as third-person limited and explains that later Left Behind titles use as many as five clearly separated perspective characters; these are changes of focal character within third-person narration."
+    },
+    {
+      "url": "https://jcrt.org/archives/19.2/Maltby.pdf",
+      "title": "The Hollow Christians of End Times Fiction",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This scholarly article reproduces an interior Glorious Appearing passage from pages 211\u2013212 that narrates Enoch's decision, perceptions, and reaction externally in third person, corroborating continuation of the opening's mode."
+    }
+  ],
+  "search_log": [
+    "Searched \"Glorious Appearing\" \"Tim LaHaye\" excerpt and first-chapter combinations; opened Tyndale's authorized 22-page first-chapter PDF and the publisher product page.",
+    "Searched \"Glorious Appearing\" point of view, narrator, and third person; an unattributed eBay answer claimed third-person omniscient but was treated only as a discovery lead and not used as evidence.",
+    "Searched Left Behind novels narration, third person, and perspective characters; opened Jerry Jenkins's point-of-view workshop transcript describing the series' third-person-limited, multiple-focal-character method.",
+    "Searched exact interior quote phrases and interior extracts; an unauthorized full-text PDF was discarded, an oversized sermon-transcript PDF could not be opened, and the accessible Journal for Cultural and Religious Theory article supplied a cited interior passage.",
+    "Searched \"Glorious Appearing\" first-person, epistolary, diary, and alternating-point-of-view combinations; found no credible indication of sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates multiple characters in third person. The authorized opening establishes sustained third-person limited scene narration, Jenkins's structural account explains that later Left Behind books alternate focal characters while remaining in third person, and a scholarly source reproduces matching narration from pages 211\u2013212. The two event quotes are locally consistent but remain unmarked because each is too short to establish narrator participation independently; the other quotes are speech or embedded scripture. No credible source indicates first-, second-, epistolary, or mixed-person base sections. The only minor limitation is that Jenkins discusses later Left Behind titles collectively rather than naming this volume in the structural statement, but the title-specific opening and interior evidence independently align.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.238950+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d317c82b3cff6ecc6e21d1a58525116f7a264a3d0e556821778a953d0a3ff33b"
+  }
+}

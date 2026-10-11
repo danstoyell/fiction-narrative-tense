@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:1127",
+  "quotes": [
+    {
+      "quote_id": "q00751",
+      "person_signal": "unmarked",
+      "note": "Historical exposition contains no participating narrator or sustained character framing that establishes narrative person."
+    },
+    {
+      "quote_id": "q00752",
+      "person_signal": "non_base",
+      "note": "A universal aphorism using generic \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00753",
+      "person_signal": "unclear",
+      "note": "The clipped prediction lacks quotation boundaries, and its status as speech or narration remains unresolved."
+    },
+    {
+      "quote_id": "q00754",
+      "person_signal": "non_base",
+      "note": "Direct address followed by an attributed MacArthur quotation; neither identifies the base narrator."
+    },
+    {
+      "quote_id": "q00755",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed speech by Jack Ryan; the brief speech tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00756",
+      "person_signal": "unclear",
+      "note": "The isolated \u201cI\u201d lacks surrounding quotation or thought boundaries and could be character speech or direct thought in the otherwise third-person novel."
+    },
+    {
+      "quote_id": "q00757",
+      "person_signal": "unmarked",
+      "note": "A contextless factual statement without narrator self-reference or sufficient character framing."
+    },
+    {
+      "quote_id": "q00758",
+      "person_signal": "unmarked",
+      "note": "An analytical generalization with no grammatical evidence of narrator participation."
+    },
+    {
+      "quote_id": "q00759",
+      "person_signal": "unmarked",
+      "note": "Geopolitical exposition, possibly clipped speech, that does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q00760",
+      "person_signal": "unmarked",
+      "note": "The bare pronoun \u201cThey\u201d and short action statement do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00761",
+      "person_signal": "third",
+      "note": "Sustained external narration identifies Edgar, his occupation, knowledge, and observations without a participating narratorial frame."
+    },
+    {
+      "quote_id": "q00762",
+      "person_signal": "non_base",
+      "note": "Explicit dialogue attributed to Burgess."
+    },
+    {
+      "quote_id": "q00763",
+      "person_signal": "third",
+      "note": "The narrator externally focalizes Jack, reports his assumption, and describes the setting without participating in the scene."
+    },
+    {
+      "quote_id": "q00764",
+      "person_signal": "unmarked",
+      "note": "Geopolitical summary contains no narrator self-reference and no locally sustained focal scene."
+    },
+    {
+      "quote_id": "q00765",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows a character as \u201che\u201d and adds narratorial commentary about the paperboy."
+    },
+    {
+      "quote_id": "q00766",
+      "person_signal": "third",
+      "note": "Although the quotation is dialogue, the outside beat externally narrates Ryan's nod and understanding, providing third-person base evidence."
+    },
+    {
+      "quote_id": "q00767",
+      "person_signal": "unmarked",
+      "note": "Historical and geopolitical exposition does not by itself identify narrator participation."
+    },
+    {
+      "quote_id": "q00768",
+      "person_signal": "non_base",
+      "note": "The publisher excerpt places this first-person sentence inside Ding Chavez's spoken anecdote, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://content.penguinrandomhouse.de/content/edition/excerpts_extended/Leseprobe_978-3-453-41913-1.pdf",
+      "title": "Command Authority: Kampf um die Krim \u2014 Leseprobe",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "This authorized Penguin Random House German excerpt spans the prologue through chapter 7. It sustains third-person narration across Talanov, Campus operatives, Edgar N\u00f5lvak, Jack Ryan Jr., Haldane, and President Ryan; first-person material is visibly delimited as dialogue or direct thought. It also places the Fort Ord sentence in Ding Chavez's speech."
+    },
+    {
+      "url": "https://www.everand.com/book/768308422/Command-Authority",
+      "title": "Command Authority by Tom Clancy and Mark Greaney \u2014 Book Preview",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The English retail preview identifies the Penguin Publishing Group ebook and presents a sustained prologue externally narrating Captain Talanov as \u201che,\u201d corroborating the authorized translation's third-person opening."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/311826/command-authority-by-tom-clancy/",
+      "title": "Command Authority by Tom Clancy and Mark Greaney",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The publisher catalog verifies the title, authors, publisher, and edition, but its synopsis and inaccessible Read Sample interface do not independently establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cCommand Authority\u201d with Tom Clancy/Mark Greaney plus excerpt, first chapter, and publisher-domain terms; found the English retail preview and an 83-page Penguin Random House German excerpt.",
+    "Opened the Penguin Random House German PDF and inspected its prologue and chapters 1\u20137, including multiple focal characters, direct thoughts, dialogue boundaries, and the Fort Ord passage.",
+    "Searched the title with point of view, narrator, third person, first person, alternating point of view, epistolary, diary, and frame narrative; no credible source described a sustained first-person, second-person, or alternating structure.",
+    "Opened the US Penguin Random House catalog page; its Read Sample text was not exposed, and the synopsis was treated as nondiagnostic.",
+    "Searched exact text for \u201cI inherited curiosity from my Dad\u201d and \u201cI had a drill instructor back at Fort Ord\u201d; the authorized translated excerpt confirmed the latter as Ding Chavez's dialogue, while the former's exact local context remained unavailable."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly show externally focalized characters, and the Tier A publisher excerpt independently sustains third-person narration across the prologue and seven chapters with several focal characters and settings. The excerpt demonstrates that locally visible first-person language can occur inside character dialogue or direct thought; it specifically resolves q00768 as Ding Chavez's speech. The isolated first-person q00756 remains locally unresolved because its boundaries are missing, but it is not credible evidence of a controlling first-person narrator against the sustained third-person structure. No research indicated alternating, epistolary, or second-person sections. The main residual uncertainty is only the exact local form of q00756, not the book-level person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.252202+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "eee7bf8988c7e322e6943dd1e72a25c4b11ddf8d7f9ebc31712326315f955e51"
+  }
+}

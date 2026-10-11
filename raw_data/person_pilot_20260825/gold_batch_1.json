@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "batch": 1,
+    "research_date": "2026-08-25",
+    "model": "GPT-5 Codex",
+    "reasoning": "Web-grounded classification; source hierarchy applied and unresolved used where the available web evidence did not directly establish narrative person."
+  },
+  "records": [
+    {
+      "sample_order": 1,
+      "sample_id": "top1949:5756",
+      "title": "THE MAN WITH THE GOLDEN ARM",
+      "author": "Nelson Algren",
+      "label": "THIRD",
+      "gold_confidence": "med",
+      "evidence_tier": "C",
+      "evidence_summary": "An English professor's review explicitly calls the novel's narration third person. Google Books' searchable text terms independently show recurring named-character action and perception (for example, Frankie, Sophie, and verbs such as 'heard' and 'watched'), consistent with that account.",
+      "ambiguity": "The accessible primary preview exposed an index of common terms, not a sustained readable passage; the explicit POV statement is from one independent reviewer.",
+      "sources": [
+        {
+          "title": "quick thought on the man with the golden arm",
+          "url": "https://johnpauljaramillo.com/2013/08/21/the-man-with-the-golden-arm/",
+          "source_type": "independent review by an English professor and fiction writer",
+          "supports": "Explicitly identifies the novel's narration as third person."
+        },
+        {
+          "title": "The Man with the Golden Arm",
+          "url": "https://books.google.com/books/about/The_Man_with_the_Golden_Arm.html?id=1BxXs0ff-nUC",
+          "source_type": "Google Books publisher preview/index",
+          "supports": "Provides primary-edition searchable terms showing recurrent third-person character-centered prose, corroborating the review."
+        }
+      ]
+    },
+    {
+      "sample_order": 2,
+      "sample_id": "top1997:5778",
+      "title": "THE MATARESE COUNTDOWN",
+      "author": "Robert Ludlum",
+      "label": "UNRESOLVED",
+      "gold_confidence": "low",
+      "evidence_tier": "D",
+      "evidence_summary": "Publisher and contemporary-news sources establish the book and its multiple characters, but the accessible material did not directly describe or display enough of the controlling narrative grammar to establish person responsibly.",
+      "ambiguity": "Character-focused jacket copy is not evidence that the book's narrator is third person; no reliable explicit POV source or sustained preview passage was found.",
+      "searched_but_not_found": "Searched exact-title POV/narrator/third-person queries, Google Books, official Hachette and Penguin Random House read-excerpt pages, library/Archive queries, and contemporaneous reviews. Official pages offered only jacket copy or an unavailable excerpt; no lawful sustained narrative sample or reliable explicit POV discussion was located.",
+      "sources": [
+        {
+          "title": "The Matarese Countdown",
+          "url": "https://books.google.com/books/about/The_Matarese_Countdown.html?id=51eUukT50dYC",
+          "source_type": "Google Books publisher preview",
+          "supports": "Confirms edition and presents the publisher's account of Cameron Pryce, Brandon Scofield, and Antonia; it does not establish narrator person."
+        },
+        {
+          "title": "Robert Ludlum Keeps 'Em in Suspense",
+          "url": "https://www.latimes.com/archives/la-xpm-1997-nov-07-ls-51015-story.html",
+          "source_type": "Los Angeles Times author interview/profile",
+          "supports": "Confirms the novel's subject and its return to Scofield, but does not specify its grammatical narrative form."
+        }
+      ]
+    },
+    {
+      "sample_order": 3,
+      "sample_id": "top2020:1356",
+      "title": "DEAR EDWARD",
+      "author": "Ann Napolitano",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "A public-radio review identifies an omniscient third-person narrator that switches among passengers, while an independent study guide says both principal storylines are third person.",
+      "ambiguity": "The book alternates timelines and focal characters, but the sources describe those changes within third-person narration, not as different grammatical-person strands.",
+      "sources": [
+        {
+          "title": "'Kingdomtide' And 'Dear Edward': 2 New Novels Take On A Singular Situation",
+          "url": "https://www.wlrn.org/npr-breaking-news/2020-01-16/kingdomtide-and-dear-edward-2-new-novels-take-on-a-singular-situation",
+          "source_type": "NPR review syndicated by WLRN",
+          "supports": "Explicitly describes Dear Edward's omniscient third-person narrator and its shifts among passenger perspectives."
+        },
+        {
+          "title": "Ann Napolitano Writing Styles in Dear Edward",
+          "url": "https://www.bookrags.com/studyguide-dear-edward/styles.html",
+          "source_type": "independent literary study guide",
+          "supports": "Explicitly says both storylines are written in third person."
+        }
+      ]
+    },
+    {
+      "sample_order": 4,
+      "sample_id": "top1981:2921",
+      "title": "MASQUERADE",
+      "author": "Kit Williams",
+      "label": "THIRD",
+      "gold_confidence": "med",
+      "evidence_tier": "C",
+      "evidence_summary": "A contemporary Washington Post report calls Jack Hare the story's magical hero and describes his journey, while a page-by-page transcription of an original painting border supplies third-person narration of Jack's action. The book's riddle-language also includes isolated first-person utterances, but these are embedded clues, not autonomous narrating strands.",
+      "ambiguity": "Masquerade is a picture-book puzzle with sparse poetic text, so its third-person story is less conventionally continuous than a prose novel. The first-person wording in individual riddle lines is not a recurring narrator.",
+      "sources": [
+        {
+          "title": "Jewelled golden hare that sparked national treasure hunt set for auction",
+          "url": "https://www.the-independent.com/news/uk/home-news/golden-hare-kit-williams-masquerade-auction-b2872047.html",
+          "source_type": "The Independent news report",
+          "supports": "Identifies Masquerade as a picture book and says its narrative follows Jack Hare through oil paintings."
+        },
+        {
+          "title": "Masquerade, Page by Page: Painting #6, The Rose Bushes",
+          "url": "https://bunnyears.net/kitwilliams_old/masqpage6.html",
+          "source_type": "page-by-page transcription and image reference for the original picture book",
+          "supports": "Displays an original border line in which Jack Hare is the third-person actor, corroborating the reporting on the Jack Hare story."
+        }
+      ]
+    },
+    {
+      "sample_order": 5,
+      "sample_id": "top2001:5621",
+      "title": "THE LAST TIME THEY MET",
+      "author": "Anita Shreve",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "An authorized, substantial opening excerpt consistently narrates Linda's actions, thoughts, and interior states as 'she,' while separately rendering dialogue. It directly establishes a controlling third-person base narrative.",
+      "ambiguity": "The novel moves backward in time and focalizes closely through Linda; neither the long authorized excerpt nor the supporting publisher material indicates a competing autonomous first- or second-person strand.",
+      "sources": [
+        {
+          "title": "The Last Time They Met: A Novel",
+          "url": "https://books.google.com/books/about/The_Last_Time_They_Met.html?id=c4xCv34V-iQC",
+          "source_type": "Google Books publisher preview",
+          "supports": "Confirms the edition, reverse-time structure, and Linda/Thomas narrative, but does not identify grammatical person."
+        },
+        {
+          "title": "The Last Time They Met: A Novel — Excerpt",
+          "url": "https://www.readinggroupguides.com/reviews/the-last-time-they-met-a-novel/excerpt",
+          "source_type": "authorized publisher-permission excerpt",
+          "supports": "A sustained opening passage presents Linda's external action and interior thought in third person; the page says the excerpt is used with permission from Time Warner Bookmark."
+        }
+      ]
+    },
+    {
+      "sample_order": 6,
+      "sample_id": "top2007:257",
+      "title": "A THOUSAND SPLENDID SUNS",
+      "author": "Khaled Hosseini",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "A narratology article explicitly identifies third-person narration, and an educational text identifies third-person omniscient point of view. The shifts among Mariam and Laila are focalization shifts within third person.",
+      "ambiguity": "Sources differ over omniscient versus limited terminology, but agree on the grammatical third-person form; this does not meet the definition of alternating persons.",
+      "sources": [
+        {
+          "title": "Narratological and Artistic Analysis of Khaled Hossieni's A Thousand Splendid Suns",
+          "url": "https://www.ilkogretim-online.org/index.php/pub/article/view/4887",
+          "source_type": "peer-reviewed literary-analysis article",
+          "supports": "Explicitly states that Hosseini uses third-person narration."
+        },
+        {
+          "title": "Genre: fiction",
+          "url": "https://www.tpet.com/content/NovelUnitsSamples/ThousandSplendidSuns-NUT-sample.pdf",
+          "source_type": "educational publisher sample",
+          "supports": "Explicitly lists the novel's point of view as third-person omniscient."
+        }
+      ]
+    },
+    {
+      "sample_order": 7,
+      "sample_id": "top1950:4758",
+      "title": "THE CARDINAL",
+      "author": "Henry Morton Robinson",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "A long reprinted passage from the novel consistently narrates Stephen Fermoyle's routine, perceptions, actions, and interior states in third person, with dialogue kept distinct. This directly shows the controlling narrative grammar.",
+      "ambiguity": "The sustained excerpt is limited to one section, but it contains no narratorial self-reference or rival grammatical-person strand and is ample direct evidence for the base third-person narration.",
+      "sources": [
+        {
+          "title": "The Cardinal",
+          "url": "https://books.google.com/books/about/The_Cardinal.html?id=jmYwAAAAIAAJ",
+          "source_type": "Google Books digitized edition/preview",
+          "supports": "Confirms the 1950 Simon and Schuster edition and the career of Stephen Fermoyle, but only makes a term index available."
+        },
+        {
+          "title": "A vivid description of Eros from Henry Morton Robinson's 1950 bestseller, The Cardinal",
+          "url": "https://www.basicincome.com/bp/thecardinal.htm",
+          "source_type": "long quoted passage from the novel in a literary essay",
+          "supports": "Reprints a lengthy passage that consistently represents Stephen and other characters in controlling third-person narration, including interior access to Stephen."
+        }
+      ]
+    },
+    {
+      "sample_order": 8,
+      "sample_id": "top1932:2450",
+      "title": "INVITATION TO THE WALTZ",
+      "author": "Rosamond Lehmann",
+      "label": "THIRD",
+      "gold_confidence": "med",
+      "evidence_tier": "B",
+      "evidence_summary": "A university thesis directly describes the novel as written in third person, controlled by Olivia's viewpoint, while noting occasional first-person shifts. Those shifts are presented as local stylistic movement, not autonomous narrative sections.",
+      "ambiguity": "The cited scholarship notes occasional first-person shifts. It does not identify independently sustained first-person chapters or narrators, so the evidence does not support ALTERNATING.",
+      "sources": [
+        {
+          "title": "This electronic thesis or dissertation has been",
+          "url": "https://kclpure.kcl.ac.uk/portal/files/2930814/DX215343.pdf",
+          "source_type": "King's College London doctoral thesis",
+          "supports": "Explicitly says Invitation to the Waltz is written in third person, with Olivia's viewpoint controlling the narrative and occasional first-person shifts."
+        },
+        {
+          "title": "Invitation to the Waltz - Rosamond Lehmann",
+          "url": "https://www.deficienciavisual.pt/r-Invitation_waltz-Rosamond_Lehmann.htm",
+          "source_type": "online text/excerpt",
+          "supports": "Provides a direct text source for the novel; used as corroborating access to the work rather than evidence of an autonomous first-person strand."
+        }
+      ]
+    },
+    {
+      "sample_order": 9,
+      "sample_id": "top1984:2718",
+      "title": "LINCOLN",
+      "author": "Gore Vidal",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "A contemporaneous Washington Post review says Vidal maintains a third-person viewpoint, and an independent study guide specifies third person with changes among character perspectives.",
+      "ambiguity": "The novel incorporates historical documents and shifts focal characters, but the sources describe its controlling narration as third person rather than autonomous first-person strands.",
+      "sources": [
+        {
+          "title": "Gore Vidal's Lincoln Log",
+          "url": "https://www.washingtonpost.com/archive/entertainment/books/1984/06/10/gore-vidals-lincoln-log/afc1f337-4215-4400-904d-6f050adea69a/",
+          "source_type": "contemporaneous Washington Post review",
+          "supports": "Explicitly says Vidal maintains the third-person viewpoint while entering multiple historical characters' minds."
+        },
+        {
+          "title": "Gore Vidal Writing Styles in Lincoln",
+          "url": "https://www.bookrags.com/studyguide-lincoln/style.html",
+          "source_type": "independent literary study guide",
+          "supports": "Explicitly identifies the fictional story as third person and describes shifts among character perspectives."
+        }
+      ]
+    },
+    {
+      "sample_order": 10,
+      "sample_id": "top1998:156",
+      "title": "A MAN IN FULL",
+      "author": "Tom Wolfe",
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "A scholarly analysis of Wolfe's narration identifies third-person omniscient narration in A Man in Full and explains that free indirect and occasional free direct speech are stylistic shifts within it.",
+      "ambiguity": "Free indirect/direct speech may sound like a character's voice, but the study expressly treats the detached pronouns as narrator-controlled narration, not autonomous alternate-person strands.",
+      "sources": [
+        {
+          "title": "The Last of the Naturalist Writers: A Discussion on the Naturalistic nature of Tom Wolfe's A Man in Full and Back to Blood",
+          "url": "https://www.researchgate.net/publication/303336467_The_Last_of_the_Naturalist_Writers_A_Discussion_on_the_Naturalistic_nature_of_Tom_Wolfe%27s_A_Man_in_Full_and_Back_to_Blood",
+          "source_type": "scholarly literary-analysis paper",
+          "supports": "Explicitly identifies shifts from a third-person omniscient narrator to free indirect speech and illustrates the technique with an opening passage from A Man in Full."
+        },
+        {
+          "title": "Crowd Control",
+          "url": "https://www.writersdigest.com/writing-articles/crowd-control",
+          "source_type": "Writer's Digest craft article",
+          "supports": "Independently identifies A Man in Full as a Tom Wolfe novel with a huge cast, corroborating the multi-character narrative context discussed in the scholarly analysis."
+        }
+      ]
+    }
+  ]
+}

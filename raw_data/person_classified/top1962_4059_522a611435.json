@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1962:4059",
+  "quotes": [
+    {
+      "quote_id": "q01163",
+      "person_signal": "unmarked",
+      "note": "Despite the dialogue bucket, this resembles free-indirect thought about an unnamed woman; the third-person wording alone does not establish the base narrator."
+    },
+    {
+      "quote_id": "q01164",
+      "person_signal": "non_base",
+      "note": "Character speech or aphoristic dialogue; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q01165",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q01166",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person generalization, not sustained narration of a story-specific you."
+    },
+    {
+      "quote_id": "q01167",
+      "person_signal": "third",
+      "note": "The narrator externally follows Mrs. Treadwell and reports her knowledge before shifting into her free-direct first-person thought; the I is local thought, not base narration."
+    },
+    {
+      "quote_id": "q01168",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech, not second-person base narration."
+    },
+    {
+      "quote_id": "q01169",
+      "person_signal": "unmarked",
+      "note": "A single third-person focal clause about his feelings does not by itself exclude a participating narrator."
+    },
+    {
+      "quote_id": "q01170",
+      "person_signal": "third",
+      "note": "Extended narration identifies Jenny externally, attributes her thoughts, and moves into free-indirect discourse; the generic you belongs to her local thought."
+    },
+    {
+      "quote_id": "q01171",
+      "person_signal": "third",
+      "note": "Third-person narration distinguishes the observed man from the woman whose thought is explicitly attributed, exposing an external narrating position."
+    },
+    {
+      "quote_id": "q01172",
+      "person_signal": "unclear",
+      "note": "The passage is clipped mid-sentence, and its visible third-person plural subjects alone are nondiagnostic."
+    },
+    {
+      "quote_id": "q01173",
+      "person_signal": "unmarked",
+      "note": "The isolated he-centered description is compatible with third-person narration but does not independently rule out a participating narrator."
+    },
+    {
+      "quote_id": "q01174",
+      "person_signal": "third",
+      "note": "Outside the quoted dialogue, the narrator identifies David externally and reports his extended private reflection in third person."
+    },
+    {
+      "quote_id": "q01175",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base, while the brief he-pronounced attribution is too slight to establish narrator participation."
+    },
+    {
+      "quote_id": "q01176",
+      "person_signal": "third",
+      "note": "The narrator names Schumann externally and reports an admission made only to himself, demonstrating third-person access to private thought."
+    },
+    {
+      "quote_id": "q01177",
+      "person_signal": "unmarked",
+      "note": "The passage is predominantly dialogue; its brief third-person speech and thought beats do not independently establish the controlling person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://wac.colostate.edu/docs/books/universe/chapter4.pdf",
+      "title": "Teaching the Universe of Discourse, Chapter Four: Narrative: What Happened",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An authorized excerpt from pages 286\u2013287 of the novel is presented under \u201cAnonymous Narration: Multiple Character Point of View\u201d; the accompanying explanation describes an impersonal perspective extending beyond any one character."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/ship-fools",
+      "title": "Ship of Fools \u2014 Novels for Students",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly identifies a third-person omniscient narrator who knows the characters\u2019 thoughts and shifts focal perspective among them."
+    },
+    {
+      "url": "https://cardinalscholar.bsu.edu/bitstreams/fcd84834-3e22-4951-aae5-046b2ba3d81e/download",
+      "title": "An Analysis of Katherine Anne Porter's Novel Ship of Fools",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly analysis describes an episodic method that moves among passengers and groups and quotes Porter characterizing her authorial position as distributed throughout the cast, corroborating external multiple-character narration."
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/pmla/article/abs/some-observations-on-the-genesis-of-ship-of-fools-a-letter-from-katherine-anne-porter/1B28F9596760D75BB3556636A1AD655B",
+      "title": "Some Observations on the Genesis of \u201cShip of Fools\u201d: A Letter from Katherine Anne Porter",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The PMLA note establishes that Porter's voyage diary supplied source notes for fiction drafted later; it does not indicate that the published novel is diary or epistolary narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cKatherine Anne Porter Ship of Fools excerpt first chapter\u201d and the Google Books preview; the publisher listing verified the edition and cast but exposed no sustained prose in the crawler, so it was not used as person evidence.",
+    "Searched \u201cShip of Fools narrator point of view third person omniscient\u201d and opened the Encyclopedia.com and GradeSaver point-of-view pages; Encyclopedia.com supplied the stronger explicit whole-book description.",
+    "Searched scholarly combinations including \u201cShip of Fools Porter narrative technique narrator,\u201d \u201comniscient,\u201d and \u201cnarrative point of view\u201d; opened the authorized WAC excerpt and Ball State scholarly analysis.",
+    "Searched specifically for epistolary, diary, frame-narrative, multiple-narrator, and alternating-narration claims; the PMLA genesis note showed that the diary was source material, and no credible source described sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling narrator is an anonymous nonparticipant who narrates the cast in third person while moving among characters\u2019 private thoughts. Quotes q01167, q01170, q01171, q01174, and q01176 independently display that pattern, agreeing with the authorized interior excerpt and whole-book structural sources. Visible I, we, and you forms occur in dialogue, gnomic statements, or free-direct character thought rather than autonomous base-narrative sections. Porter's real voyage diary was source material, not the novel's constitutive narration. No material contrary evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_013",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:50:30.101629+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cf9ba064171c0e6691909f41a528019936298c9d769baab0a454068f5cd34511"
+  }
+}

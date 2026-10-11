@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1967:3864",
+  "quotes": [
+    {
+      "quote_id": "q01517",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q01518",
+      "person_signal": "unmarked",
+      "note": "Narratorial statement, but it contains no participating narrator or sustained third-person character reference."
+    },
+    {
+      "quote_id": "q01519",
+      "person_signal": "non_base",
+      "note": "Dialogue using generic you; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01520",
+      "person_signal": "unclear",
+      "note": "Clipped, aphoristic material with unresolved quotation boundaries; generic you is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01521",
+      "person_signal": "non_base",
+      "note": "Dialogue or represented questioning, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q01522",
+      "person_signal": "unmarked",
+      "note": "A bare third-person subject in a short event statement does not establish narrator participation."
+    },
+    {
+      "quote_id": "q01523",
+      "person_signal": "unmarked",
+      "note": "The aphorism is speech; the outside he/their attribution beat is too brief to establish narrative person."
+    },
+    {
+      "quote_id": "q01524",
+      "person_signal": "non_base",
+      "note": "The dialogue bucket and thought-like wording indicate a local represented voice; it contains no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q01525",
+      "person_signal": "unmarked",
+      "note": "First-person forms occur inside Guy's speech, while the brief he-said attribution alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q01526",
+      "person_signal": "third",
+      "note": "Despite its dialogue bucket, this appears to be narratorial access to Rosemary's wish, sustained through she/her and him; the bucket is a likely upstream issue."
+    },
+    {
+      "quote_id": "q01527",
+      "person_signal": "unmarked",
+      "note": "I occurs only in Rosemary's speech; the proper-name attribution beat does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q01528",
+      "person_signal": "third",
+      "note": "Sustained external narration presents Rosemary as her/she while rendering her embodied experience."
+    },
+    {
+      "quote_id": "q01529",
+      "person_signal": "unmarked",
+      "note": "Brief external description of named characters without enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01530",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Terry and Rosemary through names and she/her, with no participating narrator."
+    },
+    {
+      "quote_id": "q01531",
+      "person_signal": "unmarked",
+      "note": "The short they-subject event lacks enough local context to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q01532",
+      "person_signal": "unmarked",
+      "note": "The telegram is an embedded document; the brief reporting clause naming Hutch does not establish narrator person."
+    },
+    {
+      "quote_id": "q01533",
+      "person_signal": "unclear",
+      "note": "The event fragment is clipped at both the opening phrase and final word, preventing reliable local attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.iralevin.org/book-excerpts/rosemarys-baby-excerpt.pdf",
+      "title": "Ira Levin's Rosemary's Baby (Excerpt)",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The authorized eight-page Chapter 8 excerpt sustains nonparticipating third-person narration of Rosemary as she/her, including explicitly attributed thoughts, throughout the chapter section."
+    },
+    {
+      "url": "https://www.iralevin.org/rosemarys-baby-book-film.html",
+      "title": "Rosemary's Baby: A Book-to-Film Comparison",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The official author site identifies the displayed material as unedited novel text and presents multiple separated interior scenes in sustained third-person narration centered on Rosemary."
+    },
+    {
+      "url": "https://digilib.k.utb.cz/bitstream/handle/10563/20481/%C5%A1%C5%A5ov%C3%AD%C4%8Dkov%C3%A1_2013_bp.pdf?sequence=1",
+      "title": "The Novels of Ira Levin",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A university-repository literary thesis explicitly characterizes the narrative voice linking Levin's novels as third-person heterodiegetic narration and includes Rosemary's Baby among the analyzed novels."
+    }
+  ],
+  "search_log": [
+    "Searched \"Rosemary's Baby Ira Levin excerpt first chapter\" and opened the official Ira Levin site\u2019s authorized Chapter 8 excerpt.",
+    "Searched \"Rosemary's Baby Ira Levin third person narration point of view\" and \"Rosemary's Baby heterodiegetic narrator\"; opened the university-repository thesis explicitly identifying Levin's novelistic voice as third person.",
+    "Opened the official Rosemary's Baby book-to-film comparison and inspected several separated passages labeled as unedited novel text.",
+    "Searched \"Rosemary's Baby epistolary diary frame narrative\", \"multiple narrators\", and \"alternating point of view\"; results produced no credible evidence of a frame, constitutive documents, or sustained narration in another grammatical person.",
+    "Discarded film-only POV discussions, plot-summary grammar, retailer audiobook narrator fields, crowd-sourced study pages, and search snippets as nondiagnostic for the novel's base narrative person."
+  ],
+  "person_note": "The book's base narration is nonparticipating third person, closely focalized through Rosemary. Goodreads passages q01528 and q01530, plus the apparently misbucketed narratorial passage q01526, expose that position; first-person forms elsewhere are confined to character speech, and generic you is local dialogue or aphorism. Authorized Chapter 8 and multi-scene interior excerpts independently sustain third-person narration, while scholarly structural evidence corroborates the whole-book form. No credible evidence indicates first-person, second-person, epistolary, framed, or alternating sections. The Goodreads sample is sparse and partly clipped, but the authorized sustained prose resolves that limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_015",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T01:39:00.859633+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "82b3d3293dc05650978747e71664d428d7e834ec6e57d9b2885902a9aa751a3a"
+  }
+}

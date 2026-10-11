@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:BUCKEYE|Patrick Ryan",
+  "quotes": [
+    {
+      "quote_id": "q10673",
+      "person_signal": "third",
+      "note": "Omniscient narration moves from general commentary to Felix\u2019s perception; the inclusive \u201cwe\u201d is gnomic, not a participating narrator."
+    },
+    {
+      "quote_id": "q10674",
+      "person_signal": "third",
+      "note": "A character\u2019s thought is externally attributed with \u201che thought,\u201d consistent with third-person base narration."
+    },
+    {
+      "quote_id": "q10675",
+      "person_signal": "third",
+      "note": "The narrator reports her repeated experience and conclusion from outside the character."
+    },
+    {
+      "quote_id": "q10676",
+      "person_signal": "non_base",
+      "note": "Gnomic dialogue uses generic \u201cyou,\u201d not sustained protagonist-address narration."
+    },
+    {
+      "quote_id": "q10677",
+      "person_signal": "non_base",
+      "note": "The first-person tattoo remark is quoted character speech despite the upstream event bucket."
+    },
+    {
+      "quote_id": "q10678",
+      "person_signal": "third",
+      "note": "The narrator externally attributes an inward realization to \u201che.\u201d"
+    },
+    {
+      "quote_id": "q10679",
+      "person_signal": "unmarked",
+      "note": "The rhetorical observation about \u201ca person\u201d does not identify narrator participation."
+    },
+    {
+      "quote_id": "q10680",
+      "person_signal": "third",
+      "note": "Becky is named externally and her realization is rendered in third person."
+    },
+    {
+      "quote_id": "q10681",
+      "person_signal": "third",
+      "note": "Felix\u2019s figurative thought is explicitly attributed from third-person narration."
+    },
+    {
+      "quote_id": "q10682",
+      "person_signal": "unmarked",
+      "note": "Generalized commentary and a rhetorical question do not expose the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q10683",
+      "person_signal": "unmarked",
+      "note": "The clipped reference to an unnamed \u201che\u201d is insufficient by itself to establish narrative person."
+    },
+    {
+      "quote_id": "q10684",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement does not identify the base narrator."
+    },
+    {
+      "quote_id": "q10685",
+      "person_signal": "third",
+      "note": "The character\u2019s thought is introduced externally as \u201cshe thought\u201d; generic \u201cyou\u201d occurs inside that thought."
+    },
+    {
+      "quote_id": "q10686",
+      "person_signal": "third",
+      "note": "Sustained narration reports his media consumption, wondering, and self-comparison from outside."
+    },
+    {
+      "quote_id": "q10687",
+      "person_signal": "third",
+      "note": "Extended third-person access to her changing understanding is diagnostic base narration."
+    },
+    {
+      "quote_id": "q10688",
+      "person_signal": "non_base",
+      "note": "Pronouns occur in direct dialogue; the surrounding speech beat does not independently establish person."
+    },
+    {
+      "quote_id": "q10689",
+      "person_signal": "non_base",
+      "note": "This is an extended dialogue passage with local speakers."
+    },
+    {
+      "quote_id": "q10690",
+      "person_signal": "third",
+      "note": "The narrator describes the characters\u2019 collective sustained action externally."
+    },
+    {
+      "quote_id": "q10691",
+      "person_signal": "third",
+      "note": "A character\u2019s judgment is externally framed with \u201che knew.\u201d"
+    },
+    {
+      "quote_id": "q10692",
+      "person_signal": "non_base",
+      "note": "Direct instruction in dialogue is not base narration."
+    },
+    {
+      "quote_id": "q10693",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Everett is insufficient on its own to prove narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q10694",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism is nondiagnostic gnomic material."
+    },
+    {
+      "quote_id": "q10695",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d in an aphorism is not second-person story narration."
+    },
+    {
+      "quote_id": "q10696",
+      "person_signal": "non_base",
+      "note": "Universal questions and inclusive \u201cwe\u201d are gnomic rather than character narration."
+    },
+    {
+      "quote_id": "q10697",
+      "person_signal": "non_base",
+      "note": "Generic claims occur in direct dialogue."
+    },
+    {
+      "quote_id": "q10698",
+      "person_signal": "non_base",
+      "note": "The passage is an exchange between characters, so its first- and second-person pronouns are local speech."
+    },
+    {
+      "quote_id": "q10699",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Skip\u2019s actions and then the four men\u2019s activity."
+    },
+    {
+      "quote_id": "q10700",
+      "person_signal": "non_base",
+      "note": "Second-person imperatives occur in direct dialogue."
+    },
+    {
+      "quote_id": "q10701",
+      "person_signal": "non_base",
+      "note": "The inclusive \u201cwe\u201d belongs to a clipped gnomic statement, not a participating story narrator."
+    },
+    {
+      "quote_id": "q10702",
+      "person_signal": "unclear",
+      "note": "The clipped first-person assertion lacks boundaries or attribution and cannot responsibly be treated as base narration."
+    },
+    {
+      "quote_id": "q10703",
+      "person_signal": "unmarked",
+      "note": "The isolated simile about time contains no narrator-person evidence."
+    },
+    {
+      "quote_id": "q10704",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d appears in a gnomic rhetorical question, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q10705",
+      "person_signal": "third",
+      "note": "The narrator reports a woman\u2019s repeated conduct toward Mrs. Dodson and other spirits in third person."
+    },
+    {
+      "quote_id": "q10706",
+      "person_signal": "unmarked",
+      "note": "This generalized observation contains no participating narrator or story-specific addressee."
+    },
+    {
+      "quote_id": "q10707",
+      "person_signal": "unmarked",
+      "note": "The figurative statement about an unnamed \u201chim\u201d is too brief to establish narrator person independently."
+    },
+    {
+      "quote_id": "q10708",
+      "person_signal": "unmarked",
+      "note": "A single statement about \u201cthey\u201d does not by itself identify the narrator\u2019s relationship to the story."
+    },
+    {
+      "quote_id": "q10709",
+      "person_signal": "non_base",
+      "note": "Direct political address uses local \u201cyou,\u201d not second-person base narration."
+    },
+    {
+      "quote_id": "q10710",
+      "person_signal": "third",
+      "note": "Extended third-person narration enters his perceptions and self-conception while describing surrounding people."
+    },
+    {
+      "quote_id": "q10711",
+      "person_signal": "third",
+      "note": "The evaluative passage is focalized through a character identified externally by \u201chis war.\u201d"
+    },
+    {
+      "quote_id": "q10712",
+      "person_signal": "unmarked",
+      "note": "The brief external description of unnamed women does not alone establish narrator nonparticipation."
+    },
+    {
+      "quote_id": "q10713",
+      "person_signal": "unmarked",
+      "note": "Impersonal narration about pleasantries and words contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q10714",
+      "person_signal": "third",
+      "note": "The narrator renders a woman\u2019s inward sense of rejection while referring to her externally."
+    },
+    {
+      "quote_id": "q10715",
+      "person_signal": "non_base",
+      "note": "First-person plural and second person occur in direct dialogue."
+    },
+    {
+      "quote_id": "q10716",
+      "person_signal": "unclear",
+      "note": "The syntactically incomplete fragment lacks enough context to identify its narrative source or person."
+    },
+    {
+      "quote_id": "q10717",
+      "person_signal": "unmarked",
+      "note": "The brief figurative description of an unnamed \u201chim\u201d is compatible with more than one narrator configuration."
+    },
+    {
+      "quote_id": "q10718",
+      "person_signal": "unmarked",
+      "note": "A lone externally named subject is not sufficient diagnostic evidence under the methodology."
+    },
+    {
+      "quote_id": "q10719",
+      "person_signal": "third",
+      "note": "The narrator supplies Margaret\u2019s motives and emotional limits while naming her externally."
+    },
+    {
+      "quote_id": "q10720",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Felix\u2019s perception, desire, worry, decision, and the passing moment in third person."
+    },
+    {
+      "quote_id": "q10721",
+      "person_signal": "unmarked",
+      "note": "The explanatory statement about a vision contains no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q10722",
+      "person_signal": "unclear",
+      "note": "The fragment is too clipped to determine voice or narrative level."
+    },
+    {
+      "quote_id": "q10723",
+      "person_signal": "unclear",
+      "note": "The incomplete fragment about an unnamed \u201che\u201d lacks sufficient local structure."
+    },
+    {
+      "quote_id": "q10724",
+      "person_signal": "unclear",
+      "note": "This clipped question contains a third-person possessive but no recoverable narrator or sentence context."
+    },
+    {
+      "quote_id": "q10725",
+      "person_signal": "unclear",
+      "note": "Generic \u201cyou\u201d occurs in an incomplete passage whose local voice cannot be resolved."
+    },
+    {
+      "quote_id": "q10726",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in a short line of direct dialogue."
+    },
+    {
+      "quote_id": "q10727",
+      "person_signal": "unmarked",
+      "note": "A single clipped statement about \u201che\u201d does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q10728",
+      "person_signal": "third",
+      "note": "The narrator explicitly attributes an inward question to \u201che wondered.\u201d"
+    },
+    {
+      "quote_id": "q10729",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs in direct dialogue."
+    },
+    {
+      "quote_id": "q10730",
+      "person_signal": "third",
+      "note": "The rhetorical thought and explanation are focalized through a male character while both characters remain third-person referents."
+    },
+    {
+      "quote_id": "q10731",
+      "person_signal": "unclear",
+      "note": "The subordinate fragment beginning \u201cHow he\u2019d\u201d lacks enough surrounding syntax to identify its narrative status securely."
+    },
+    {
+      "quote_id": "q10732",
+      "person_signal": "unclear",
+      "note": "The fragment has no recoverable subject or narrative frame."
+    },
+    {
+      "quote_id": "q10733",
+      "person_signal": "unmarked",
+      "note": "The isolated statement about an unnamed \u201che\u201d is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q10734",
+      "person_signal": "unmarked",
+      "note": "The brief third-person characterization lacks enough context to be independently diagnostic."
+    },
+    {
+      "quote_id": "q10735",
+      "person_signal": "unclear",
+      "note": "The clipped paired fragments do not preserve enough context to determine narrator person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/5076/page_number/1/buckeye",
+      "title": "Excerpt from Buckeye by Patrick Ryan",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The four-page excerpt, reproduced with Random House permission, sustains third-person narration around Cal and Margaret and moves into characters\u2019 perceptions without a participating narrator."
+    },
+    {
+      "url": "https://lithub.com/patrick-ryan-on-the-secrets-of-the-omniscient-narrator/",
+      "title": "Patrick Ryan on the Secrets of the Omniscient Narrator",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Ryan explicitly describes Buckeye as a third-person, multiple-perspective, omniscient-leaning novel and says he established that narrator\u2019s mobility as a contract to honor throughout the book."
+    },
+    {
+      "url": "https://www.kpbs.org/news/2025/09/10/4-lives-are-upended-by-an-impulsive-kiss-in-the-epic-novel-buckeye",
+      "title": "4 lives are upended by an impulsive kiss in the epic novel 'Buckeye'",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Maureen Corrigan\u2019s NPR review explicitly identifies an omniscient narrator who moves among the four main characters\u2019 points of view and describes the novel\u2019s chapter-level range."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cBuckeye Patrick Ryan excerpt novel 2025\u201d and opened the authorized four-page BookBrowse extract.",
+    "Searched \u201cBuckeye Patrick Ryan third person novel\u201d and \u201cBuckeye Patrick Ryan narrator point of view.\u201d",
+    "Searched for publisher material with site:penguinrandomhouse.com; the accessible publisher/Google Books pages supplied synopsis material but no stronger whole-book POV analysis.",
+    "Searched for \u201cPatrick Ryan Secrets of the Omniscient Narrator Buckeye\u201d and opened Ryan\u2019s first-person craft essay about the novel\u2019s narrative design.",
+    "Searched \u201cBuckeye omniscient narrator Patrick Ryan\u201d and opened the KPBS-hosted NPR review; additional review and study-guide results were corroborative but unnecessary."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person omniscient narrator that moves among multiple characters and generations. Numerous interior Goodreads passages independently show third-person access to Felix, Becky, Margaret, and others, while the authorized opening sustains the same mode. Ryan\u2019s whole-book craft account resolves the structure explicitly, and the NPR review independently corroborates it. Inclusive \u201cwe\u201d in q10673 and the first-person material in q10677, q10698, q10702, and q10726 are gnomic commentary, dialogue, or unresolved clipping rather than autonomous first-person base sections. Some individual quotes remain too short to diagnose locally, but no credible evidence suggests sustained first- or second-person narration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.275442+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9f2491eb664a0533a5f9b994730bf529a5168b1bb8bf6aacd9de83feb625a585"
+  }
+}

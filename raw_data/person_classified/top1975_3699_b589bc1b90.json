@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1975:3699",
+  "quotes": [
+    {
+      "quote_id": "q02103",
+      "person_signal": "non_base",
+      "note": "Character speech; its first-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02104",
+      "person_signal": "unmarked",
+      "note": "A brief externally framed perception of an unnamed man; too little context to establish narrator participation."
+    },
+    {
+      "quote_id": "q02105",
+      "person_signal": "non_base",
+      "note": "Quoted character speech, including a locally spoken 'we.'"
+    },
+    {
+      "quote_id": "q02106",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech; the 'you' is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02107",
+      "person_signal": "non_base",
+      "note": "A quoted or spoken analogy using generic 'you,' not story-specific base narration."
+    },
+    {
+      "quote_id": "q02108",
+      "person_signal": "third",
+      "note": "Externally narrates Goldman's knowledge and adds omniscient historical prolepsis extending ninety-four years."
+    },
+    {
+      "quote_id": "q02109",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to another character."
+    },
+    {
+      "quote_id": "q02110",
+      "person_signal": "third",
+      "note": "Sustained external narration of Houdini's life and actions, followed by retrospective historical commentary."
+    },
+    {
+      "quote_id": "q02111",
+      "person_signal": "non_base",
+      "note": "Rhetorical questions spoken by a character; 'we' does not belong to the narrator."
+    },
+    {
+      "quote_id": "q02112",
+      "person_signal": "unmarked",
+      "note": "Brief narration of Father and his feeling; compatible locally with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q02113",
+      "person_signal": "third",
+      "note": "Sustained external narration with access to a male character's thoughts, perceptions, and unhappiness."
+    },
+    {
+      "quote_id": "q02114",
+      "person_signal": "third",
+      "note": "Broad impersonal historical narration moves among social groups and Taft without a participating narrator."
+    },
+    {
+      "quote_id": "q02115",
+      "person_signal": "unmarked",
+      "note": "The clipped antecedent of 'It' is missing, so this abstract sentence does not expose narrator person."
+    },
+    {
+      "quote_id": "q02116",
+      "person_signal": "first",
+      "note": "Research identifies this as the novel's isolated final-chapter narratorial 'I'; the upstream dialogue bucket appears questionable, though the narrator's identity remains disputed."
+    },
+    {
+      "quote_id": "q02117",
+      "person_signal": "third",
+      "note": "Sustained external access to Mother's changing judgment of Father and their relationship."
+    },
+    {
+      "quote_id": "q02118",
+      "person_signal": "unmarked",
+      "note": "A short account of Morgan's belief; insufficient alone to distinguish a third-person base from another narrator describing him."
+    },
+    {
+      "quote_id": "q02119",
+      "person_signal": "unmarked",
+      "note": "Brief reflection about an unnamed man without enough surrounding narration to establish person."
+    },
+    {
+      "quote_id": "q02120",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02121",
+      "person_signal": "non_base",
+      "note": "The passage is dominated by character speech; the short external speech beat is not diagnostic by itself."
+    },
+    {
+      "quote_id": "q02122",
+      "person_signal": "third",
+      "note": "Extended omniscient historical narration of Houdini, Freud, public reception, and later consequences."
+    },
+    {
+      "quote_id": "q02123",
+      "person_signal": "unmarked",
+      "note": "A single sentence focalized through the boy does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q02124",
+      "person_signal": "third",
+      "note": "Omniscient prolepsis narrates the future deaths and attitudes of several historical figures."
+    },
+    {
+      "quote_id": "q02125",
+      "person_signal": "non_base",
+      "note": "Character speech using hypothetical and directly addressed 'you,' not second-person base narration."
+    },
+    {
+      "quote_id": "q02126",
+      "person_signal": "unmarked",
+      "note": "Narration about Grandfather and an unnamed recipient contains no decisive evidence of narrator participation."
+    },
+    {
+      "quote_id": "q02127",
+      "person_signal": "third",
+      "note": "A sustained externally narrated scene follows a male character's thoughts, repeated actions, and decisions."
+    },
+    {
+      "quote_id": "q02128",
+      "person_signal": "third",
+      "note": "Sustained external narration enters Father's private beliefs and perceptions while referring to the family as 'they.'"
+    },
+    {
+      "quote_id": "q02129",
+      "person_signal": "third",
+      "note": "Extended third-person narration follows Tateh's actions, perceptions, and free-indirect thought; the final first-person sentence is his local thought or speech."
+    },
+    {
+      "quote_id": "q02130",
+      "person_signal": "third",
+      "note": "Sustained external narration of Freud's travel, physical reactions, judgments, and later speech."
+    },
+    {
+      "quote_id": "q02131",
+      "person_signal": "third",
+      "note": "Panoramic historical narration describes the population and period from a nonparticipating position."
+    },
+    {
+      "quote_id": "q02132",
+      "person_signal": "third",
+      "note": "Despite the clipped ending, the substantial passage is impersonal historical exposition by an external narrator."
+    },
+    {
+      "quote_id": "q02133",
+      "person_signal": "unmarked",
+      "note": "'Our history' is editorial national inclusion rather than evidence that the narrator participates in the narrated events."
+    },
+    {
+      "quote_id": "q02134",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks its subject and surrounding structure."
+    },
+    {
+      "quote_id": "q02135",
+      "person_signal": "third",
+      "note": "Extended panoramic scene narration externally surveys numerous people, animals, and simultaneous activities."
+    },
+    {
+      "quote_id": "q02136",
+      "person_signal": "unmarked",
+      "note": "A single sentence reports the businessmen's wondering but does not independently establish the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1281462227&disposition=inline",
+      "title": "The Development of the Reimaginative and Reconstructive in Historiographic Metafiction: 1960-2007",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Ohio State dissertation describes Ragtime's voice as a backward-looking omniscient narrator that moves among characters and historical digressions; it treats occasional 'we' as the historian-like narrator's editorial usage."
+    },
+    {
+      "url": "https://eajournals.org/wp-content/uploads/The-Real-World-Act-The-Attainment-of-First-Personas-in-Doctorow-s-Ragtime.pdf",
+      "title": "\u201cThe Real-World Act:\u201d The Attainment of First Personas in Doctorow\u2019s Ragtime",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly article says the Little Boy hypothesis is undermined by the novel's constant third-person narrative voice and concludes that the narrator operates outside the story as an all-seeing director."
+    },
+    {
+      "url": "https://hspvaragtime.weebly.com/uploads/7/8/8/1/78813442/ragtime_and_hist_meta.pdf",
+      "title": "E. L. Doctorow\u2019s Ragtime in the Context of Historiographic Metafiction \u2013 A Study",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study repeatedly identifies an omniscient narrator and documents only one first-person-singular instance near the ending, while acknowledging debate over whether that voice can be associated with the Little Boy."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/ragtime/facts/",
+      "title": "Ragtime: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly classifies the novel as third-person omniscient and notes that the anonymous, ambiguous narrator only occasionally uses first-person plural."
+    },
+    {
+      "url": "https://www.encyclopedia.com/literature-and-arts/performing-arts/music-popular-and-jazz/ragtime",
+      "title": "Ragtime",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Documents the unresolved Little Boy theory, the unidentified editorial 'we,' and the narrator's single first-person self-reference in the last chapter; this complicates narrator identity but does not establish a sustained first-person section."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cRagtime E. L. Doctorow full text excerpt publisher\u201d and \u201cRagtime E. L. Doctorow first chapter excerpt\u201d; the Penguin Random House title page and teacher's guide were opened, but neither supplied a sustained authorized prose excerpt resolving person.",
+    "Searched \u201cRagtime E. L. Doctorow narrator third person point of view\u201d and opened the explicit whole-book description in SparkNotes.",
+    "Searched \u201cRagtime Doctorow omniscient narrator scholarly analysis\u201d and opened scholarly treatments from OhioLINK, IRWLE, AMERICANA, and the International Journal of English Language and Linguistics Research.",
+    "Searched the exact line \u201cPoor Father, I see his final exploration\u201d and opened sources establishing that it is an isolated narratorial first-person moment near the novel's end, often used to argue for the Little Boy theory.",
+    "Searched \u201cRagtime narrator little boy we first person plural scholarly\u201d and reviewed sources distinguishing the pervasive third-person voice from editorial 'we' and the single final 'I.'",
+    "Searched the exact Tompkins Square Park wording from q02135; results confirmed its attribution to Ragtime but yielded no stronger structural evidence than the whole-book sources."
+  ],
+  "person_note": "The quote set repeatedly exhibits the novel's controlling omniscient, reportorial third-person narration across characters, historical figures, private thoughts, and broad social history. The main complication is q02116: web research identifies it as the narrator's sole first-person-singular appearance near the ending, not ordinary dialogue, and some critics infer that the narrator is the grown Little Boy. Likewise, editorial forms such as 'our history' can suggest a collective American voice. These moments make the narrator's identity deliberately ambiguous, but they do not form sustained first-person chapters or an autonomous first-person strand. Under the methodology's controlling-person rule, the isolated ending sentence and editorial national plurals do not warrant FIRST or ALTERNATING; the base narration remains THIRD. The remaining uncertainty concerns who the omniscient voice may represent, not the predominant narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_019",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T06:16:23.671275+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9dcbc379167d97a7abe8185be597e7328d3154635f8d388948e254a108a85bed"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:5415",
+  "quotes": [
+    {
+      "quote_id": "q01629",
+      "person_signal": "non_base",
+      "note": "Dialogue addressing another character; no narratorial beat."
+    },
+    {
+      "quote_id": "q01630",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection does not identify narrator participation."
+    },
+    {
+      "quote_id": "q01631",
+      "person_signal": "non_base",
+      "note": "Wanderer's spoken declaration identifies the speaker, not narrative person."
+    },
+    {
+      "quote_id": "q01632",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in speech addressed to Wanderer."
+    },
+    {
+      "quote_id": "q01633",
+      "person_signal": "non_base",
+      "note": "Generic you in a maxim, not protagonist narration."
+    },
+    {
+      "quote_id": "q01634",
+      "person_signal": "unmarked",
+      "note": "The external beat 'he whispered' does not identify whether the narrator participates."
+    },
+    {
+      "quote_id": "q01635",
+      "person_signal": "unclear",
+      "note": "First-person reflection resembles Wanderer's narration, but the dialogue bucket and absent context leave its local status unresolved."
+    },
+    {
+      "quote_id": "q01636",
+      "person_signal": "non_base",
+      "note": "Spoken threat about Wanda; pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q01637",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q01638",
+      "person_signal": "first",
+      "note": "The speech beat 'I murmered' exposes the participating narrator outside dialogue."
+    },
+    {
+      "quote_id": "q01639",
+      "person_signal": "unmarked",
+      "note": "Named speech beats for Jared and Ian are compatible with a participating narrator."
+    },
+    {
+      "quote_id": "q01640",
+      "person_signal": "non_base",
+      "note": "A character's spoken assessment, without narratorial context."
+    },
+    {
+      "quote_id": "q01641",
+      "person_signal": "first",
+      "note": "Sustained scene narration presents Wanda's actions, perceptions, and distress as I outside speech."
+    },
+    {
+      "quote_id": "q01642",
+      "person_signal": "non_base",
+      "note": "Spoken promise; I and you do not identify base narration."
+    },
+    {
+      "quote_id": "q01643",
+      "person_signal": "non_base",
+      "note": "Conditional declaration in dialogue."
+    },
+    {
+      "quote_id": "q01644",
+      "person_signal": "non_base",
+      "note": "Dialogue addressing another character about belonging."
+    },
+    {
+      "quote_id": "q01645",
+      "person_signal": "unclear",
+      "note": "Clipped first-person anticipation could be narration or direct thought; the dialogue classification cannot be resolved from this passage."
+    },
+    {
+      "quote_id": "q01646",
+      "person_signal": "first",
+      "note": "Wanda narrates her actions and perceptions while distinguishing Melanie's internal presence from her own voice."
+    },
+    {
+      "quote_id": "q01647",
+      "person_signal": "unclear",
+      "note": "Isolated first-person assertion lacks enough context to distinguish narration from direct thought or speech."
+    },
+    {
+      "quote_id": "q01648",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed to Melanie."
+    },
+    {
+      "quote_id": "q01649",
+      "person_signal": "first",
+      "note": "A participating narrator recounts breathing, seeing, and drifting through a continuous experience."
+    },
+    {
+      "quote_id": "q01650",
+      "person_signal": "non_base",
+      "note": "Spoken challenge, not second-person narration."
+    },
+    {
+      "quote_id": "q01651",
+      "person_signal": "first",
+      "note": "Sustained action is filtered through the participating narrator's movements, sensations, and perceptions."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://stepheniemeyer.com/wp-content/uploads/archive/pdf/thehost_chapter4.pdf",
+      "title": "The Host: Prologue—Inserted and Chapter 4—Dreamed",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The author's authorized PDF contains a sustained third-person prologue centered on Fords Deep Waters, followed by first-person Chapter 4. The latter dramatizes Melanie's remembered experience and ends with Wanderer's first-person waking narration. The prologue is an autonomous narrative scene, not quoted speech or an embedded document."
+    }
+  ],
+  "search_log": [
+    "Searched: Stephenie Meyer The Host prologue third person first person Wanderer excerpt.",
+    "Opened and read the author's authorized PDF containing the prologue and Chapter 4.",
+    "Attempted to open Bookreporter's Chapter 1 excerpt twice; both opens returned Internal Error, so its search excerpt was not used as evidence.",
+    "Opened SuperSummary's Prologue–Chapter 10 analysis; substantive analysis was inaccessible in the opened page, so search-result text was not used as evidence.",
+    "Searched: \"The Host\" \"prologue\" \"third-person\" Meyer narrator. No second independently verified Tier A/B source establishing ALTERNATING was obtained."
+  ],
+  "person_note": "Wanderer's participating first-person voice controls the sustained novel. The authorized excerpt shows a third-person prologue, but that brief introductory exception is not a co-controlling base strand. Melanie's remembered experience and other local voices do not create another grammatical person, so the book label is FIRST.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_046",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T17:11:43.272972+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cd8fe814b72e9b8b8e2b9f2cba59f3a4d0221984a6c6c278c721fcbcb7b51340"
+  }
+}

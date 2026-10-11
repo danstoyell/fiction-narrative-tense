@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:1067",
+  "quotes": [
+    {
+      "quote_id": "q03813",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; generic 'she' does not identify the narrator."
+    },
+    {
+      "quote_id": "q03814",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Vivian; its pronouns are not base narration."
+    },
+    {
+      "quote_id": "q03815",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; 'my experience' and universal 'we' are not story-specific narration here."
+    },
+    {
+      "quote_id": "q03816",
+      "person_signal": "non_base",
+      "note": "General observation about women, with no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q03817",
+      "person_signal": "non_base",
+      "note": "Aphoristic exhortation using inclusive 'us,' not story narration."
+    },
+    {
+      "quote_id": "q03818",
+      "person_signal": "non_base",
+      "note": "Character advice in direct speech."
+    },
+    {
+      "quote_id": "q03819",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Vivian."
+    },
+    {
+      "quote_id": "q03820",
+      "person_signal": "non_base",
+      "note": "Universal gnomic 'we,' not a story-specific narrating group."
+    },
+    {
+      "quote_id": "q03821",
+      "person_signal": "non_base",
+      "note": "Extended character speech using generic 'you' and 'one.'"
+    },
+    {
+      "quote_id": "q03822",
+      "person_signal": "non_base",
+      "note": "Character speech; first-person references belong to the speaker within the scene."
+    },
+    {
+      "quote_id": "q03823",
+      "person_signal": "non_base",
+      "note": "Generic aphorism using universal 'you.'"
+    },
+    {
+      "quote_id": "q03824",
+      "person_signal": "non_base",
+      "note": "Direct advice addressed to Vivian."
+    },
+    {
+      "quote_id": "q03825",
+      "person_signal": "non_base",
+      "note": "Unmarked gnomic assertion about marriage."
+    },
+    {
+      "quote_id": "q03826",
+      "person_signal": "non_base",
+      "note": "General maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q03827",
+      "person_signal": "first",
+      "note": "Vivian narrates her own past love using 'I' and 'we.'"
+    },
+    {
+      "quote_id": "q03828",
+      "person_signal": "non_base",
+      "note": "Generic reflection using universal 'you.'"
+    },
+    {
+      "quote_id": "q03829",
+      "person_signal": "non_base",
+      "note": "Character speech with generic examples and advice."
+    },
+    {
+      "quote_id": "q03830",
+      "person_signal": "first",
+      "note": "Retrospective narrator explicitly recalls what 'I' wanted and realized."
+    },
+    {
+      "quote_id": "q03831",
+      "person_signal": "first",
+      "note": "Although bucketed as dialogue, the address to Angela is constitutive epistolary narration: the older Vivian reports what 'I've found' over her life."
+    },
+    {
+      "quote_id": "q03832",
+      "person_signal": "first",
+      "note": "Older Vivian contrasts her present perspective with what 'I' felt when young and addresses the letter's recipient."
+    },
+    {
+      "quote_id": "q03833",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q03834",
+      "person_signal": "non_base",
+      "note": "Gnomic observation; the incidental 'I've witnessed' does not narrate a story event."
+    },
+    {
+      "quote_id": "q03835",
+      "person_signal": "first",
+      "note": "Participating narrator describes a conversation between 'he and I.'"
+    },
+    {
+      "quote_id": "q03836",
+      "person_signal": "first",
+      "note": "Narrator explains the intended meaning of her own prior statement using 'I' and 'my.'"
+    },
+    {
+      "quote_id": "q03837",
+      "person_signal": "first",
+      "note": "Narratorial beats outside the quoted exchange repeatedly use 'I would say.'"
+    },
+    {
+      "quote_id": "q03838",
+      "person_signal": "first",
+      "note": "Explicit retrospective account of what 'I was' like then and later became."
+    },
+    {
+      "quote_id": "q03839",
+      "person_signal": "first",
+      "note": "Vivian recounts hearing a remark about 'us' and identifies herself with the young group."
+    },
+    {
+      "quote_id": "q03840",
+      "person_signal": "first",
+      "note": "Participating narrator reports that 'my mercy swelled' and 'I felt.'"
+    },
+    {
+      "quote_id": "q03841",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to a character's direct speech."
+    },
+    {
+      "quote_id": "q03842",
+      "person_signal": "non_base",
+      "note": "Quoted collective speech is followed by a universal aphorism, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q03843",
+      "person_signal": "first",
+      "note": "Narrator describes a relationship through 'me,' 'my own,' and generalizing second person."
+    },
+    {
+      "quote_id": "q03844",
+      "person_signal": "non_base",
+      "note": "Character speech about showgirls."
+    },
+    {
+      "quote_id": "q03845",
+      "person_signal": "non_base",
+      "note": "Extended direct speech addressed to Vivian."
+    },
+    {
+      "quote_id": "q03846",
+      "person_signal": "non_base",
+      "note": "Character advice using generic 'you.'"
+    },
+    {
+      "quote_id": "q03847",
+      "person_signal": "first",
+      "note": "Narrator participates as the recipient of attention: 'paying me' and 'I was.'"
+    },
+    {
+      "quote_id": "q03848",
+      "person_signal": "unmarked",
+      "note": "Possible base narration describes 'she,' but that alone does not establish narrator person."
+    },
+    {
+      "quote_id": "q03849",
+      "person_signal": "non_base",
+      "note": "The visible first person occurs inside quoted character speech."
+    },
+    {
+      "quote_id": "q03850",
+      "person_signal": "non_base",
+      "note": "First-person wording is inside quoted dialogue; the outside beat does not expose narrator person."
+    },
+    {
+      "quote_id": "q03851",
+      "person_signal": "unmarked",
+      "note": "Bare third-person characterization of Olive does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q03852",
+      "person_signal": "first",
+      "note": "Sustained recollection of what 'I' loved, saw, and felt."
+    },
+    {
+      "quote_id": "q03853",
+      "person_signal": "first",
+      "note": "After brief speech, the participating narrator states what 'I thought' then and still thinks."
+    },
+    {
+      "quote_id": "q03854",
+      "person_signal": "non_base",
+      "note": "Direct advice addressed to Vivvie."
+    },
+    {
+      "quote_id": "q03855",
+      "person_signal": "first",
+      "note": "Narrator participates through 'my own' darkness and her relationship with 'him.'"
+    },
+    {
+      "quote_id": "q03856",
+      "person_signal": "non_base",
+      "note": "Character speech using generic and addressee-directed 'you.'"
+    },
+    {
+      "quote_id": "q03857",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03858",
+      "person_signal": "first",
+      "note": "Older Vivian explicitly reassesses her twenty-year-old self through repeated 'I.'"
+    },
+    {
+      "quote_id": "q03859",
+      "person_signal": "non_base",
+      "note": "Character speech offering general fashion advice."
+    },
+    {
+      "quote_id": "q03860",
+      "person_signal": "first",
+      "note": "Vivian preserves her own remembered New York through 'my eyes' and 'my memory.'"
+    },
+    {
+      "quote_id": "q03861",
+      "person_signal": "first",
+      "note": "Retrospective account of what 'I learned,' mastered, and found during the war."
+    },
+    {
+      "quote_id": "q03862",
+      "person_signal": "first",
+      "note": "Narrator directly addresses the recipient while recounting what Frank meant to 'me.'"
+    },
+    {
+      "quote_id": "q03863",
+      "person_signal": "first",
+      "note": "Vivian narrates what 'I would' and could do on a specific day."
+    },
+    {
+      "quote_id": "q03864",
+      "person_signal": "non_base",
+      "note": "Dialogue-bucketed general observation about money and 'a girl'; no diagnostic base-narrator pronoun."
+    },
+    {
+      "quote_id": "q03865",
+      "person_signal": "non_base",
+      "note": "Character speech about Coco."
+    },
+    {
+      "quote_id": "q03866",
+      "person_signal": "non_base",
+      "note": "Extended character speech explicitly addressed to Vivian."
+    },
+    {
+      "quote_id": "q03867",
+      "person_signal": "non_base",
+      "note": "Dialogue-bucketed direct address whose speaker and local status are not resolved by the clipping."
+    },
+    {
+      "quote_id": "q03868",
+      "person_signal": "non_base",
+      "note": "General maxim about differing temperaments."
+    },
+    {
+      "quote_id": "q03869",
+      "person_signal": "first",
+      "note": "After a general reflection, Vivian identifies herself within the relationship as 'we.'"
+    },
+    {
+      "quote_id": "q03870",
+      "person_signal": "non_base",
+      "note": "Generic imperative 'you,' not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03871",
+      "person_signal": "first",
+      "note": "Story-specific reflection is anchored by what 'I have learned over the years.'"
+    },
+    {
+      "quote_id": "q03872",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic assertion with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03873",
+      "person_signal": "non_base",
+      "note": "Generic imperative rather than base story narration."
+    },
+    {
+      "quote_id": "q03874",
+      "person_signal": "non_base",
+      "note": "A scene-level exchange; first-person language belongs to the speakers."
+    },
+    {
+      "quote_id": "q03875",
+      "person_signal": "unmarked",
+      "note": "Character description of Frank contains no participating-narrator marker and cannot independently prove third person."
+    },
+    {
+      "quote_id": "q03876",
+      "person_signal": "first",
+      "note": "Vivian addresses Angela while recounting what 'I told him' and how men treated 'me.'"
+    },
+    {
+      "quote_id": "q03877",
+      "person_signal": "non_base",
+      "note": "Standalone aphoristic conclusion about love."
+    },
+    {
+      "quote_id": "q03878",
+      "person_signal": "first",
+      "note": "The base narrator emphatically identifies herself with 'I myself.'"
+    },
+    {
+      "quote_id": "q03879",
+      "person_signal": "first",
+      "note": "Narratorial 'my grandmother said' places the speaker inside the family history surrounding the embedded quotation."
+    },
+    {
+      "quote_id": "q03880",
+      "person_signal": "first",
+      "note": "Vivian directly describes her own inner state through 'I' and 'me.'"
+    },
+    {
+      "quote_id": "q03881",
+      "person_signal": "non_base",
+      "note": "Ukrainian direct speech addressed to Vivian; its pronouns belong to the character speaker."
+    },
+    {
+      "quote_id": "q03882",
+      "person_signal": "first",
+      "note": "In Ukrainian, Vivian says that 'I cried' and then went to work, followed by story-specific collective 'we.'"
+    },
+    {
+      "quote_id": "q03883",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, Ukrainian narratorial beats outside speech use first person for Vivian's reactions and speech acts."
+    },
+    {
+      "quote_id": "q03884",
+      "person_signal": "first",
+      "note": "Participating narrator recounts a shared scene through story-specific 'We stared.'"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9781526633972_A40654576/preview-9781526633972_A40654576.pdf",
+      "title": "City of Girls \u2014 Bloomsbury Publishing preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Authorized 52-page publisher preview opens with Vivian receiving Angela's letter and continues into Chapter One as sustained first-person recollection."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/3935/city-of-girls",
+      "title": "City of Girls Excerpt: Read free excerpt of City of Girls by Elizabeth Gilbert",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Sustained excerpt, identified as reproduced with Riverhead Books' permission, narrates Vivian's Vassar history through repeated 'I' and 'my.'"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/city-of-girls-eat-pray-love-author-elizabeth-gilbert-talks-new-novel/",
+      "title": "Elizabeth Gilbert hopes her new novel City of Girls goes down in one gulp",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Gilbert explicitly explains that the whole book is an elderly woman's answer to a letter asking what she was to the recipient's father, establishing the first-person epistolary framework."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/318864/city-of-girls-by-elizabeth-gilbert/",
+      "title": "City of Girls by Elizabeth Gilbert",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The publisher describes eighty-nine-year-old Vivian as telling her story and recalling how the events of her youth changed her life."
+    },
+    {
+      "url": "https://time.com/5592636/elizabeth-gilbert-city-of-girls/",
+      "title": "Elizabeth Gilbert\u2019s City of Girls Embraces Women\u2019s Sexuality in a World That Doesn\u2019t",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "TIME describes the novel's structure as Vivian's response, at age eighty-nine, to a letter and discusses the narration across later portions of her life."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2019/jun/17/city-of-girls-elizabeth-gilbert-review",
+      "title": "City of Girls by Elizabeth Gilbert review \u2013 hymn to female desire",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Guardian identifies Vivian as the narrator and says she recounts her youth from her ninetieth year in answer to Angela's letter."
+    }
+  ],
+  "search_log": [
+    "Searched: \"City of Girls Elizabeth Gilbert excerpt publisher first chapter\"; found and opened the authorized Bloomsbury and Riverhead-permission excerpts.",
+    "Searched: \"City of Girls Elizabeth Gilbert first person narrator letter Angela point of view\" and \"City of Girls epistolary novel narrator review first person\"; opened publisher, author-interview, TIME, and Guardian evidence describing the whole-book letter framework.",
+    "Searched: \"site:elizabethgilbert.com City of Girls excerpt Vivian Angela\"; no stronger author-site passage surfaced, but CBS provided Gilbert's direct explanation of the structure.",
+    "Searched targeted contrary possibilities: \"City of Girls multiple narrators\" and \"City of Girls third person narration\"; no credible evidence of sustained narration in another person appeared.",
+    "Searched Google Books preview queries; the result repeated Penguin's older-Vivian description and exposed chapter listings but added no contrary structural evidence."
+  ],
+  "person_note": "The controlling narrator is Vivian Morris, participating in the story as an elderly woman recounting her life to Angela in a book-length letter. Numerous event quotes independently expose sustained retrospective 'I' narration, including material from youth, wartime, and old age. The authorized opening preview establishes the first-person frame, while Gilbert's interview and several whole-book descriptions confirm that the entire novel is Vivian's answer to Angela rather than merely a first-person opening. Direct speech, generic 'you,' aphoristic 'we,' and local quoted voices were treated as non-base; dialogue-heavy q03883 still supplies first-person evidence through its outside narration beats, and q03831 is constitutive epistolary narration despite its upstream dialogue bucket. No credible alternating or third-person base section was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.263364+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6aad0c7eae8ba483ec23a598e087fc816e448a48ba09e2c70969b8fbd9267f53"
+  }
+}

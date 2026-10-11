@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1948:5848",
+  "quotes": [
+    {
+      "quote_id": "q00632",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism with no story-specific narrator or character position."
+    },
+    {
+      "quote_id": "q00633",
+      "person_signal": "non_base",
+      "note": "Direct speech; its second-person wording does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00634",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you; not base-narration evidence."
+    },
+    {
+      "quote_id": "q00635",
+      "person_signal": "non_base",
+      "note": "Direct speech with no outside narratorial context."
+    },
+    {
+      "quote_id": "q00636",
+      "person_signal": "non_base",
+      "note": "Exact-source research identifies this as material from Mailer's The Spooky Art, not the novel's base narration."
+    },
+    {
+      "quote_id": "q00637",
+      "person_signal": "non_base",
+      "note": "Character speech addressing another person; repeated you is not second-person narration."
+    },
+    {
+      "quote_id": "q00638",
+      "person_signal": "third",
+      "note": "Sustained external narration names Roth, enters his memories and emotions, and consistently renders him as he."
+    },
+    {
+      "quote_id": "q00639",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally renders Red's combat history, knowledge, and fear as he."
+    },
+    {
+      "quote_id": "q00640",
+      "person_signal": "non_base",
+      "note": "Direct speech analyzing Croft; third-person references within speech do not expose the narrator."
+    },
+    {
+      "quote_id": "q00641",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q00642",
+      "person_signal": "unmarked",
+      "note": "A short hypothetical about an unnamed his may be free-indirect thought but is insufficient to establish narrator participation."
+    },
+    {
+      "quote_id": "q00643",
+      "person_signal": "non_base",
+      "note": "Universal proverb with no diagnostic narrator signal."
+    },
+    {
+      "quote_id": "q00644",
+      "person_signal": "non_base",
+      "note": "Paratextual first-person declaration, not participating base narration."
+    },
+    {
+      "quote_id": "q00645",
+      "person_signal": "unmarked",
+      "note": "Brief third-person reference to an unidentified character's decision is locally suggestive but not sufficiently contextualized."
+    },
+    {
+      "quote_id": "q00646",
+      "person_signal": "unmarked",
+      "note": "The speech is non-diagnostic, while the brief Roth feeling beat alone does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00647",
+      "person_signal": "unmarked",
+      "note": "Impersonal scenic description contains possible narration but no participating or nonparticipating narrator marker."
+    },
+    {
+      "quote_id": "q00648",
+      "person_signal": "non_base",
+      "note": "Retrospective commentary on the book's writing from the anniversary introduction, not story narration; the event bucket is an upstream issue."
+    },
+    {
+      "quote_id": "q00649",
+      "person_signal": "non_base",
+      "note": "Targeted research identifies this as Goldstein's grandfather speaking; it is local quoted speech with clipped boundaries."
+    },
+    {
+      "quote_id": "q00650",
+      "person_signal": "non_base",
+      "note": "Direct philosophical speech using generic you; not base narration."
+    },
+    {
+      "quote_id": "q00651",
+      "person_signal": "third",
+      "note": "Sustained omniscient narration renders the lovers as they, reports shared inner certainty, generalizes externally, and then names Natalie."
+    },
+    {
+      "quote_id": "q00652",
+      "person_signal": "third",
+      "note": "Direct speech is embedded in external present-tense narration that renders the couple as they, she, and he and supplies details they cannot see."
+    },
+    {
+      "quote_id": "q00653",
+      "person_signal": "third",
+      "note": "Extended external narration follows a group as they, supplies collective knowledge and judgment, and ends with a focalized he."
+    },
+    {
+      "quote_id": "q00654",
+      "person_signal": "non_base",
+      "note": "Fragmentary dialogue; we and you belong to a speaker."
+    },
+    {
+      "quote_id": "q00655",
+      "person_signal": "unmarked",
+      "note": "A single free-indirect-looking sentence about an unidentified him does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00656",
+      "person_signal": "third",
+      "note": "External narration connects Hearn's death to another character's sustained inner apprehension without a participating narrator frame."
+    },
+    {
+      "quote_id": "q00657",
+      "person_signal": "unmarked",
+      "note": "Generic you expresses a maxim or free-indirect generalization, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00658",
+      "person_signal": "third",
+      "note": "Sustained external narration names Roth and reports his irritation, assumptions, and private reasoning as he."
+    },
+    {
+      "quote_id": "q00659",
+      "person_signal": "third",
+      "note": "External narration names Croft and directly reports his fear, awareness, dreams, and sense of power."
+    },
+    {
+      "quote_id": "q00660",
+      "person_signal": "non_base",
+      "note": "First person occurs wholly inside direct speech; the short he-laughed beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00661",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech."
+    },
+    {
+      "quote_id": "q00662",
+      "person_signal": "third",
+      "note": "External narration frames self-directed speech and reports the character's unphrased thoughts and realization as he."
+    },
+    {
+      "quote_id": "q00663",
+      "person_signal": "third",
+      "note": "Extended narration moves through one man's hypothetical action and the group's situation, consistently rendering characters externally."
+    },
+    {
+      "quote_id": "q00664",
+      "person_signal": "non_base",
+      "note": "Direct address to the soldiers, not second-person base narration."
+    },
+    {
+      "quote_id": "q00665",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00666",
+      "person_signal": "non_base",
+      "note": "First-person character speech with no narratorial frame."
+    },
+    {
+      "quote_id": "q00667",
+      "person_signal": "third",
+      "note": "Sustained external scene narration renders the soldiers collectively as they and reports the effects of mail and beer on their memories."
+    },
+    {
+      "quote_id": "q00668",
+      "person_signal": "third",
+      "note": "Extended external scene narration names several soldiers, follows their actions as they, and describes their condition."
+    },
+    {
+      "quote_id": "q00669",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both ends; although Gallagher is rendered externally, the lost local structure prevents a clean signal."
+    },
+    {
+      "quote_id": "q00670",
+      "person_signal": "third",
+      "note": "Sustained external narration reports an unnamed character's work, hatred, fatigue, and sudden understanding as he."
+    },
+    {
+      "quote_id": "q00671",
+      "person_signal": "third",
+      "note": "Extended external narration frames direct speech, reports the focal character's thoughts, and distinguishes him from Croft and the men."
+    },
+    {
+      "quote_id": "q00672",
+      "person_signal": "third",
+      "note": "Present-tense Time Machine narration externally names Margaret, renders the couple as she and he, and reports her changing perception."
+    },
+    {
+      "quote_id": "q00673",
+      "person_signal": "unmarked",
+      "note": "Generic social commentary includes universal you but no story-specific second-person protagonist or diagnostic narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://trepo.tuni.fi/bitstream/10024/67468/1/951-44-6280-7.pdf",
+      "title": "Mailer's Narrative Poetics: From Fiction to Nonfiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly narratological study identifies The Naked and the Dead as Mailer's sole novel using a heterodiegetic-extradiegetic narrator comparable to traditional omniscient narration."
+    },
+    {
+      "url": "https://oapub.org/lit/index.php/EJLS/article/download/527/555",
+      "title": "Understanding Conflict and Character: An Analysis of Norman Mailer's Narrative \u201cThe Naked and the Dead\u201d",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly article explicitly states that the novel employs third-person omniscient narration and explains that this perspective spans battlefield action, characters' inner crises, and Time Machine flashbacks."
+    },
+    {
+      "url": "https://thebaffler.com/latest/norman-mailers-ripe-garbage-madole",
+      "title": "Norman Mailer's Ripe Garbage",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Credible critical review describes the narrator moving among the soldiers like an omniscient camera and periodically shifting to other characters and settings."
+    },
+    {
+      "url": "https://kirkcenter.org/reviews/a-gentleman-of-letters/",
+      "title": "A Gentleman of Letters",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Mailer's biographer explicitly distinguishes The Naked and the Dead as the major exception to Mailer's usual first-person practice and discusses its all-knowing third-person narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Naked and the Dead Norman Mailer point of view third person omniscient narrator\u201d and found explicit whole-book classifications in a Tampere University narratology study and a scholarly journal article.",
+    "Searched for authorized excerpts and first-chapter material; opened Macmillan and Library of America edition pages, but they provided structural summaries rather than sustained prose or explicit grammatical-person evidence.",
+    "Searched \u201cThe Naked and the Dead narrative technique omniscient scholarly\u201d and targeted university, journal, and Google Books results; the Tampere study identified the narrator as heterodiegetic-extradiegetic, while the journal article covered both the campaign and Time Machine sections.",
+    "Searched \u201cThe Naked and the Dead third-person Mailer novel\u201d and opened critical corroboration from The Baffler and Mailer biographical scholarship; no credible source described sustained first- or second-person base sections.",
+    "Ran exact-phrase searches for suspicious quotes: the Tolstoy passage belongs to The Spooky Art, the writing-quality passage comes from the anniversary introduction, and the Israel passage is embedded speech by Goldstein's grandfather."
+  ],
+  "person_note": "The diagnostic novel passages repeatedly use a nonparticipating narrator who moves among Roth, Red, Croft, Gallagher, Margaret, and groups of soldiers while reporting private memories, emotions, and thoughts. The present-tense Time Machine material remains third person rather than forming a different-person strand. First- and second-person forms in the sample occur in dialogue, generic maxims, paratext, or material from another Mailer work; the anniversary-introduction quotation is also not story narration. Two independent scholarly sources explicitly classify the whole novel as third-person omniscient or heterodiegetic-extradiegetic, with credible critical sources corroborating that structure. No credible contrary or alternating-person evidence was found; uncertainty is limited to a few clipped or context-poor individual quotes.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_007",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:35:09.684424+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0fa0ecf618388c4f772bb5424c4e4a9da3b7855b0eb878d1ebeb25753adbbb48"
+  }
+}

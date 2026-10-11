@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1963:5339",
+  "quotes": [
+    {
+      "quote_id": "q01178",
+      "person_signal": "non_base",
+      "note": "Direct speech; its second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01179",
+      "person_signal": "unmarked",
+      "note": "Generic \u201cyou\u201d in a generalizing reflection; it is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01180",
+      "person_signal": "unmarked",
+      "note": "A single third-person statement about an unnamed woman is insufficient by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q01181",
+      "person_signal": "unmarked",
+      "note": "The bracketed \u201cshe\u201d and generic \u201cyou\u201d suggest free-indirect reflection but do not independently identify the narrator."
+    },
+    {
+      "quote_id": "q01182",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur inside a character's speech; the brief attribution is nondiagnostic."
+    },
+    {
+      "quote_id": "q01183",
+      "person_signal": "third",
+      "note": "Sustained narration presents a woman externally as \u201cher\u201d and \u201cshe\u201d while rendering her learned conclusion through generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q01184",
+      "person_signal": "non_base",
+      "note": "The dialogue-bucket passage presents a character's local self-reflection rather than the controlling narrator."
+    },
+    {
+      "quote_id": "q01185",
+      "person_signal": "unmarked",
+      "note": "A single sentence about \u201che\u201d and \u201cher\u201d does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q01186",
+      "person_signal": "non_base",
+      "note": "The first-person language is direct speech."
+    },
+    {
+      "quote_id": "q01187",
+      "person_signal": "non_base",
+      "note": "A gnomic maxim using universal \u201cyou,\u201d not story-specific narration."
+    },
+    {
+      "quote_id": "q01188",
+      "person_signal": "third",
+      "note": "Sustained base narration externally tracks the woman as \u201cher\u201d and \u201cshe,\u201d enters her disbelief, and then embeds her direct speech."
+    },
+    {
+      "quote_id": "q01189",
+      "person_signal": "unmarked",
+      "note": "The sentence reports Elinor's conviction but is too brief alone to establish the controlling narrator's participation status."
+    },
+    {
+      "quote_id": "q01190",
+      "person_signal": "third",
+      "note": "Extended collective narration presents the group as \u201cthey\u201d and renders their shared judgments without a participating frame."
+    },
+    {
+      "quote_id": "q01191",
+      "person_signal": "non_base",
+      "note": "Character conversation; the surrounding speech attributions are too brief to carry the quote's signal."
+    },
+    {
+      "quote_id": "q01192",
+      "person_signal": "unmarked",
+      "note": "A short third-person scene-setting sentence without enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q01193",
+      "person_signal": "non_base",
+      "note": "Direct conversation; its first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q01194",
+      "person_signal": "unclear",
+      "note": "The excerpt begins mid-utterance and lacks recoverable quotation boundaries, so Priss's apparent reflection cannot be securely assigned."
+    },
+    {
+      "quote_id": "q01195",
+      "person_signal": "third",
+      "note": "Sustained narration follows a woman externally as \u201cshe,\u201d reports her motives and plans, and then embeds Harald's speech."
+    },
+    {
+      "quote_id": "q01196",
+      "person_signal": "third",
+      "note": "Although most of the quote is speech, the substantial outer beat narrates Helena as \u201cshe\u201d and supplies her history from a nonparticipating position."
+    },
+    {
+      "quote_id": "q01197",
+      "person_signal": "unclear",
+      "note": "The clipped fragment omits the grammatical subject and surrounding context needed to identify the narrating position."
+    },
+    {
+      "quote_id": "q01198",
+      "person_signal": "unmarked",
+      "note": "Third-person descriptive material is present, but this single sentence does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q01199",
+      "person_signal": "third",
+      "note": "Free-indirect narration renders a woman's feeling and perception while consistently referring to both women in the third person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/0950236X.2025.2551332",
+      "title": "Surviving marriage narratively: Storytelling through women's friendships in Mary McCarthy's The Group (1963) and its adaptation by Lara Feigel (2020)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Peer-reviewed structural analysis identifies McCarthy's controlling voice as omniscient and the chapters as free-indirect narration from shifting characters' viewpoints. It also analyzes the novel's generalizing \u201cyou\u201d as locally ambiguous character-oriented discourse, not sustained second-person narration."
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/history/group-mary-mccarthy/",
+      "title": "The Group by Mary McCarthy",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "EBSCO's authored reference overview explicitly states that the story is told in the third person using multiple voices, with different characters assuming the central role."
+    },
+    {
+      "url": "https://www.encyclopedia.com/arts/news-wires-white-papers-and-books/mccarthy-mary-therese",
+      "title": "McCarthy, Mary (Therese)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reference entry explicitly describes The Group's point of view as third person, with the Group's voice appearing collectively or through individual members."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cMary McCarthy The Group novel excerpt first chapter narration\u201d and variants for an authorized excerpt.",
+    "Searched \u201cMary McCarthy The Group point of view third person narrator\u201d and opened explicit POV descriptions from EBSCO and Encyclopedia.com.",
+    "Searched \u201cThe Group Mary McCarthy narrative structure narrator chapters scholarly\u201d and opened the peer-reviewed Textual Practice analysis of omniscient voice and free-indirect discourse.",
+    "Searched \u201cThe Group Mary McCarthy Google Books excerpt,\u201d publisher-excerpt variants, and site-specific Open Library/Internet Archive queries. Google Books and Open Library exposed catalog or borrowing metadata rather than sustained readable prose; Virago/Hachette supplied only a one-sentence teaser, so these were not used as person evidence.",
+    "Ran targeted follow-up searches for the first and last chapters, the Group's choral voice, and exact scholarly phrases to test for first-person or alternating sections; the sources consistently characterized the choral and individual voices as third-person narration."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, moving among the women's perspectives through omniscient or close free-indirect narration. Sustained quote passages corroborate this structure. First-person forms occur in character speech, while recurring \u201cyou\u201d forms are generic generalizations within dialogue or free-indirect thought rather than a story-specific protagonist addressed as \u201cyou.\u201d The choral Group voice is likewise described by whole-book sources as a distinctive third-person collective voice, not a separate first-person strand. Two clipped quotes remain locally unresolved, but they do not create credible book-level conflict.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_013",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:50:30.103374+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1e6184dc5c46f1cb447fd18698d70849c48da430d4af51e051384e1301e3ce1b"
+  }
+}

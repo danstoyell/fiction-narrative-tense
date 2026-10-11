@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:5420",
+  "quotes": [
+    {
+      "quote_id": "q01423",
+      "person_signal": "first",
+      "note": "The outside speech beat identifies the narrator as the teacher recalling his students."
+    },
+    {
+      "quote_id": "q01424",
+      "person_signal": "non_base",
+      "note": "General maxim about quests; no story-specific narrator."
+    },
+    {
+      "quote_id": "q01425",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about freedom and dignity."
+    },
+    {
+      "quote_id": "q01426",
+      "person_signal": "non_base",
+      "note": "Dialogue and generalized reflection; its I/we does not establish base narration."
+    },
+    {
+      "quote_id": "q01427",
+      "person_signal": "non_base",
+      "note": "Generalized maze metaphor; you is not a sustained protagonist designation."
+    },
+    {
+      "quote_id": "q01428",
+      "person_signal": "first",
+      "note": "Caelum narrates his gestures and reaction outside speech. Augustine's first-person passage is an embedded quotation."
+    },
+    {
+      "quote_id": "q01429",
+      "person_signal": "unmarked",
+      "note": "They/them identifies people being discussed, not the narrating position."
+    },
+    {
+      "quote_id": "q01430",
+      "person_signal": "non_base",
+      "note": "General maxim using generic you."
+    },
+    {
+      "quote_id": "q01431",
+      "person_signal": "non_base",
+      "note": "Spoken exchange about distress and coping; no outside narrative beat."
+    },
+    {
+      "quote_id": "q01432",
+      "person_signal": "non_base",
+      "note": "Aphorism without narrative-person evidence."
+    },
+    {
+      "quote_id": "q01433",
+      "person_signal": "first",
+      "note": "First-person retrospective self-characterization, consistent with Caelum's controlling voice."
+    },
+    {
+      "quote_id": "q01434",
+      "person_signal": "unmarked",
+      "note": "The I occurs within the phrase being discussed; surrounding narration has no diagnostic person."
+    },
+    {
+      "quote_id": "q01435",
+      "person_signal": "first",
+      "note": "Participating narrator recounts his drinking and attempted self-management."
+    },
+    {
+      "quote_id": "q01436",
+      "person_signal": "non_base",
+      "note": "Gnomic profession of belief; isolated I does not establish a story narrator."
+    },
+    {
+      "quote_id": "q01437",
+      "person_signal": "unmarked",
+      "note": "Generic you and a quoted apology do not identify the narrator."
+    },
+    {
+      "quote_id": "q01438",
+      "person_signal": "first",
+      "note": "Childhood first-person scene, consistent with the independently documented chapter in young Caelum's voice."
+    },
+    {
+      "quote_id": "q01439",
+      "person_signal": "non_base",
+      "note": "General commentary on school social groups; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q01440",
+      "person_signal": "non_base",
+      "note": "Dialogue about teaching decisions, without an outside narrative beat."
+    },
+    {
+      "quote_id": "q01441",
+      "person_signal": "first",
+      "note": "Retrospective we includes the narrator in the lives exposed to disruptive change."
+    },
+    {
+      "quote_id": "q01442",
+      "person_signal": "non_base",
+      "note": "General explanation of secondary trauma."
+    },
+    {
+      "quote_id": "q01443",
+      "person_signal": "non_base",
+      "note": "Gnomic collective reflection; our/us does not independently identify base narration."
+    },
+    {
+      "quote_id": "q01444",
+      "person_signal": "non_base",
+      "note": "General theological speculation, not diagnostic scene narration."
+    },
+    {
+      "quote_id": "q01445",
+      "person_signal": "first",
+      "note": "Caelum retrospectively questions his own failure to intervene with a troubled student."
+    },
+    {
+      "quote_id": "q01446",
+      "person_signal": "non_base",
+      "note": "Character speech recounting a visit to the speaker's father."
+    },
+    {
+      "quote_id": "q01447",
+      "person_signal": "non_base",
+      "note": "General pronouncement about men and war."
+    },
+    {
+      "quote_id": "q01448",
+      "person_signal": "non_base",
+      "note": "Expository definition without narrative-person evidence."
+    },
+    {
+      "quote_id": "q01449",
+      "person_signal": "non_base",
+      "note": "Quest maxim; he is generic rather than a narrated protagonist."
+    },
+    {
+      "quote_id": "q01450",
+      "person_signal": "first",
+      "note": "Caelum narrates his bodily response and attack on Hay; the instructional-video phrase is locally quoted."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.readinggroupguides.com/reviews/the-hour-i-first-believed/excerpt",
+      "title": "The Hour I First Believed \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Authorized Harper Perennial excerpt provides sustained participating first-person narration by the teacher and Maureen's husband. Initial descriptions of the killers are framed by this narrator."
+    },
+    {
+      "url": "https://www.readinggroupguides.com/reviews/the-hour-i-first-believed",
+      "title": "The Hour I First Believed \u2014 Review by Eileen Zimmerman Nicol",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Explicitly identifies Caelum as narrator and protagonist, describes chapter four in his childhood voice, and identifies family letters, journals, and a thesis as inserted material."
+    },
+    {
+      "url": "https://www.christiancentury.org/reviews/2009-05/hour-i-first-believed",
+      "title": "The Hour I First Believed \u2014 Review by Lawrence Wood",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Independently identifies Caelum Quirk as the narrator and discusses his development through the closing pages."
+    },
+    {
+      "url": "https://www.supersummary.com/the-hour-i-first-believed/summary/",
+      "title": "The Hour I First Believed \u2014 Plot Summary",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Explicitly says Caelum narrates his life before and after Columbine; situates ancestral documents within his investigation and corroborates the student tragedy behind q01445."
+    }
+  ],
+  "search_log": [
+    "Searched: Wally Lamb The Hour I First Believed excerpt narrator first person.",
+    "Searched: The Hour I First Believed narrative structure letters diaries Caelum.",
+    "Searched: \"The Hour I First Believed\" \"narrator\" review.",
+    "Searched: \"The Hour I First Believed\" \"Zinnia\" \"Melvin\"; results repeated the supplied quotation without additional scene context.",
+    "Bookreporter excerpt and review opens timed out. Opened the corresponding ReadingGroupGuides review and followed its excerpt link successfully.",
+    "Opened the Christian Century review and SuperSummary plot summary to check whole-book narration and embedded documents."
+  ],
+  "person_note": "Caelum Quirk controls the novel's first-person narration. The authorized opening, independent whole-book descriptions, and supplied narrative passages agree. His childhood voice retains first person; dialogue, Augustine, and inserted historical documents do not establish autonomous alternating base narration. The main limitation is that every clipped quote was not located in full context, but no credible evidence conflicts with FIRST.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_046",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T17:11:43.273273+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "122525db7f76f7a25979264b3b42a09e0624db08b92022219c44eefa671e0b91"
+  }
+}

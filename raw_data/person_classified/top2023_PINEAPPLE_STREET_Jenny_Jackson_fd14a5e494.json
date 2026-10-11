@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:PINEAPPLE STREET|Jenny Jackson",
+  "quotes": [
+    {
+      "quote_id": "q08240",
+      "person_signal": "unmarked",
+      "note": "Generic second-person family generalization within possible free indirect discourse; it does not cast a story protagonist as sustained 'you' or identify the narrator."
+    },
+    {
+      "quote_id": "q08241",
+      "person_signal": "unmarked",
+      "note": "Story-specific comparison uses generic 'you' and third-person possessives, but the short passage alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q08242",
+      "person_signal": "unmarked",
+      "note": "A single description of 'she' is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q08243",
+      "person_signal": "third",
+      "note": "Sustained access to a female character's beliefs and past experience refers to her externally as 'she,' exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q08244",
+      "person_signal": "third",
+      "note": "The narrator externally names Georgiana and Tilda while reporting Georgiana's private reaction and remembered history."
+    },
+    {
+      "quote_id": "q08245",
+      "person_signal": "unmarked",
+      "note": "Bare generalization contains no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08246",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person clause lacks enough context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q08247",
+      "person_signal": "unmarked",
+      "note": "Story-world family characterization contains no participating narrator, but is too brief to diagnose person independently."
+    },
+    {
+      "quote_id": "q08248",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in direct speech, not base narration."
+    },
+    {
+      "quote_id": "q08249",
+      "person_signal": "third",
+      "note": "The narrator reports a character's private loneliness and knowledge while referring to her externally as 'she.'"
+    },
+    {
+      "quote_id": "q08250",
+      "person_signal": "non_base",
+      "note": "The first-person statement is character dialogue rather than narration."
+    },
+    {
+      "quote_id": "q08251",
+      "person_signal": "unmarked",
+      "note": "The isolated third-person comparison does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q08252",
+      "person_signal": "non_base",
+      "note": "Corrupted but recognizable direct dialogue; the brief damaged beat does not supply reliable person evidence."
+    },
+    {
+      "quote_id": "q08253",
+      "person_signal": "non_base",
+      "note": "Predominantly direct speech; the trailing beat has only a bare third-person subject and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q08254",
+      "person_signal": "third",
+      "note": "Extended narration names Darley externally while presenting what she observes and the emotionally inflected conclusions of her viewpoint."
+    },
+    {
+      "quote_id": "q08255",
+      "person_signal": "third",
+      "note": "The passage externally names Curtis and reports a female focal character's private uncertainty and perception."
+    },
+    {
+      "quote_id": "q08256",
+      "person_signal": "unmarked",
+      "note": "A brief statement about 'her mother' lacks sufficient context to identify the narrator."
+    },
+    {
+      "quote_id": "q08257",
+      "person_signal": "third",
+      "note": "The narrator names Darley and directly reports her secret worry, a diagnostic third-person limited construction."
+    },
+    {
+      "quote_id": "q08258",
+      "person_signal": "non_base",
+      "note": "Truncated gnomic fragment lacks a recoverable narratorial structure."
+    },
+    {
+      "quote_id": "q08259",
+      "person_signal": "unmarked",
+      "note": "The excerpt begins mid-sentence and its bare 'they' narration does not independently identify the controlling person."
+    },
+    {
+      "quote_id": "q08260",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph is paratext, not the novel's base narration."
+    },
+    {
+      "quote_id": "q08261",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in direct address within dialogue."
+    },
+    {
+      "quote_id": "q08262",
+      "person_signal": "third",
+      "note": "Extended scene summary refers to the characters externally and reports their shared private sense of being outsiders."
+    },
+    {
+      "quote_id": "q08263",
+      "person_signal": "third",
+      "note": "The narrator repeatedly names Georgiana and reports her private certainty, feelings, and interpretation in third person."
+    },
+    {
+      "quote_id": "q08264",
+      "person_signal": "non_base",
+      "note": "Present-tense gnomic riff on brand mascots does not identify the story's base narrator."
+    },
+    {
+      "quote_id": "q08265",
+      "person_signal": "unmarked",
+      "note": "A short third-person comparison involving Sasha is insufficient by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q08266",
+      "person_signal": "third",
+      "note": "The narrator externally names Sasha and reports her private surprise during a narrated scene."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780593490716",
+      "title": "Pineapple Street: A GMA Book Club Pick",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The publisher's sustained excerpt covers the Prelude and the opening of Chapter One, narrating Curtis and then Sasha externally while entering their perceptions and thoughts; both sections remain third person."
+    },
+    {
+      "url": "https://lithub.com/editor-turned-author-jenny-jackson-on-the-other-side-of-the-editorial-process/",
+      "title": "Editor-Turned-Author Jenny Jackson on the Other Side of the Editorial Process",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "In an interview about Pineapple Street, Jackson describes the book's construction as rotating third-person point of view and explains the structural difficulty of moving its chapters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-pineapple-street/styles.html",
+      "title": "Jenny Jackson Writing Styles in Pineapple Street",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies third-person limited narration rotating among Sasha, Georgiana, and Darley."
+    }
+  ],
+  "search_log": [
+    "Searched \"Pineapple Street\" Jenny Jackson excerpt publisher and opened the Penguin Random House Library Marketing excerpt.",
+    "Searched \"Pineapple Street\" Jenny Jackson third person, point of view, narrators, and alternating point of view.",
+    "Opened the Literary Hub author interview establishing rotating third-person construction.",
+    "Opened the BookRags point-of-view analysis and corroborating reviews describing third-person perspectives.",
+    "Checked Kirkus audiobook coverage; it corroborated alternating character perspectives but did not explicitly establish grammatical person, so it was not used as person evidence.",
+    "A Penguin Random House spring sampler PDF appeared in search results but failed to open; the publisher's accessible HTML excerpt supplied the relevant authorized prose instead.",
+    "Targeted searches for third-person and third-person-limited descriptions found no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The diagnostic quotes repeatedly show close access to Darley, Georgiana, Sasha, and other characters while naming or pronominalizing them externally, consistent with rotating third-person limited narration. First-person forms occur only in dialogue or the attributed epigraph, and the 'you' passages are generic free-indirect generalizations rather than sustained second-person narration. The authorized publisher excerpt independently shows third-person narration in both the Prelude and Chapter One, while Jackson's interview establishes that the book as a whole uses rotating third person; the whole-book study guide agrees. No credible contrary structure was found, so the controlling label is THIRD with high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_082",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:20:42.242713+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6340e3d99bd9f4754234de383136b7d925f37d4374eb5512b4c28fc1ebf7f06e"
+  }
+}

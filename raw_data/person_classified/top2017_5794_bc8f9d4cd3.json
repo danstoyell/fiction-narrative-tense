@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:5794",
+  "quotes": [
+    {
+      "quote_id": "q01768",
+      "person_signal": "non_base",
+      "note": "Character speech; the conversational address to Wyoming does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01769",
+      "person_signal": "third",
+      "note": "The surrounding narration describes Chang as \u201cshe\u201d from a nonparticipating position; the first- and second-person wording is inside her written simile."
+    },
+    {
+      "quote_id": "q01770",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur only in character dialogue."
+    },
+    {
+      "quote_id": "q01771",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q01772",
+      "person_signal": "non_base",
+      "note": "Gnomic material with an isolated conversational \u201cI\u201d; it does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01773",
+      "person_signal": "unmarked",
+      "note": "Brief action using \u201che\u201d lacks enough context by itself to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q01774",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the third-person reporting beat is too brief to diagnose the base narrator independently."
+    },
+    {
+      "quote_id": "q01775",
+      "person_signal": "third",
+      "note": "Sustained scene description and access to what \u201che supposed\u201d expose third-person focalized narration."
+    },
+    {
+      "quote_id": "q01776",
+      "person_signal": "third",
+      "note": "Sustained narration presents Reacher\u2019s preferences and contextual knowledge through third-person \u201che.\u201d"
+    },
+    {
+      "quote_id": "q01777",
+      "person_signal": "non_base",
+      "note": "Conversational exchange; its first-person language belongs to a character."
+    },
+    {
+      "quote_id": "q01778",
+      "person_signal": "unclear",
+      "note": "The contextless demonstrative statement has no resolvable narratorial frame."
+    },
+    {
+      "quote_id": "q01779",
+      "person_signal": "third",
+      "note": "Extended scene narration names Reacher externally and renders his speculation in third person."
+    },
+    {
+      "quote_id": "q01780",
+      "person_signal": "non_base",
+      "note": "Dialogue and its reporting beat do not independently identify the controlling narration."
+    },
+    {
+      "quote_id": "q01781",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed Reacher dialogue."
+    },
+    {
+      "quote_id": "q01782",
+      "person_signal": "unclear",
+      "note": "Clipped descriptive fragment with insufficient context to identify narration."
+    },
+    {
+      "quote_id": "q01783",
+      "person_signal": "unmarked",
+      "note": "The base text reports Bramall telling a joke, but the first-person material is embedded speech and the short reporting frame is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01784",
+      "person_signal": "unclear",
+      "note": "Fragmentary thought is followed by first-person wording from an embedded joke; local structure is insufficiently clear."
+    },
+    {
+      "quote_id": "q01785",
+      "person_signal": "unclear",
+      "note": "Incomplete noun phrase with no narratorial markers."
+    },
+    {
+      "quote_id": "q01786",
+      "person_signal": "third",
+      "note": "Extended narration renders a female character\u2019s feelings, intentions, and reasoning through \u201cshe\u201d from a nonparticipating third-person position."
+    },
+    {
+      "quote_id": "q01787",
+      "person_signal": "non_base",
+      "note": "Generic gnomic \u201cyou,\u201d not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01788",
+      "person_signal": "unmarked",
+      "note": "Clipped landscape description contains no narrator-participation marker."
+    },
+    {
+      "quote_id": "q01789",
+      "person_signal": "unmarked",
+      "note": "Physical description of \u201che\u201d alone does not exclude a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.jackreacher.com/wp-content/uploads/2020/08/JR-22-The-Midnight-Line-Chpt-12.pdf",
+      "title": "The Midnight Line, Chapters 1\u20132",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The official Jack Reacher site\u2019s sustained ten-page excerpt narrates Reacher and other characters as \u201che,\u201d \u201cshe,\u201d and by name, including their perceptions and thoughts, with no participating narrator."
+    },
+    {
+      "url": "https://www.criminalelement.com/review-the-midnight-line-by-lee-child/",
+      "title": "Review: The Midnight Line by Lee Child",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The opened review reproduces multiple passages beyond the opening that narrate Reacher and his opponents externally in sustained third person."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Midnight_Line",
+      "title": "The Midnight Line",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book-level article explicitly states that the novel is written in the third person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Midnight Line Lee Child excerpt chapter\u201d and opened the official JackReacher.com Chapters 1\u20132 PDF plus the Dead Good Books three-chapter extract.",
+    "Searched \u201cThe Midnight Line Lee Child point of view third person narrator\u201d and \u201cThe Midnight Line third person Lee Child\u201d; found and opened an explicit whole-book third-person description.",
+    "Searched for publisher and bookseller excerpts; the Barnes & Noble page confirmed a permissioned Chapter 1 excerpt but added no coverage beyond the stronger official excerpt.",
+    "Searched for interior and structural evidence using \u201cThe Midnight Line multiple points of view Reacher Nakamura Bramall\u201d; opened Criminal Element\u2019s review containing interior third-person passages.",
+    "A blog search result incorrectly described the book as mostly first person while simultaneously quoting third-person practice; its claim conflicts with the actual prose and was excluded as unreliable."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. The official opening sustains external \u201che/she\u201d narration, while the Goodreads event excerpts extend that pattern into later scenes and across focal characters including Reacher and an unnamed woman. First-person forms in q01769, q01770, q01771, q01772, q01777, q01780, q01781, q01783, and q01784 belong to a written message, dialogue, gnomic material, or an embedded joke rather than autonomous first-person narration. The generic \u201cyou\u201d in q01787 is likewise not story-specific second person. An explicit whole-book description and an independently reproduced interior passage corroborate THIRD, with no credible evidence of sustained narration in another person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_062",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:42:30.936734+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6454a79971632738aaf65eacc054e1e98489370432441d88c0853edf58fb1f7b"
+  }
+}

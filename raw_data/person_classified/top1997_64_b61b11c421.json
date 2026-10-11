@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:64",
+  "quotes": [
+    {
+      "quote_id": "q00152",
+      "person_signal": "third",
+      "note": "Narration reports Kate's thought in third person and then describes Dalgliesh; the quoted police speech is local dialogue."
+    },
+    {
+      "quote_id": "q00153",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks a subject and sufficient surrounding syntax to identify narration or person."
+    },
+    {
+      "quote_id": "q00154",
+      "person_signal": "unmarked",
+      "note": "The isolated, clipped 'He felt' passage lacks an antecedent or framing context, so it cannot independently establish the narrator's person."
+    },
+    {
+      "quote_id": "q00155",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00156",
+      "person_signal": "non_base",
+      "note": "Direct character speech about God, not base narration."
+    },
+    {
+      "quote_id": "q00157",
+      "person_signal": "non_base",
+      "note": "A gnomic statement with no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00158",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic or addressee-oriented 'you'; it is not second-person base narration."
+    },
+    {
+      "quote_id": "q00159",
+      "person_signal": "third",
+      "note": "A sustained narratorial account describes a man's habitual routine externally as 'he' and 'his' without a participating narrator."
+    },
+    {
+      "quote_id": "q00160",
+      "person_signal": "non_base",
+      "note": "The first-person wording is an embedded quotation associated with advocate Sir Edward Marshall Hall, not a participating base narrator; the event bucket appears to be an upstream classification issue."
+    },
+    {
+      "quote_id": "q00161",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly dialogue. Its brief speech tags do not independently establish narrator participation or person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780593080986",
+      "title": "A Certain Justice | Penguin Random House Retail",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained opening excerpt narrates Venetia Aldridge as 'she,' enters her memories and perceptions, and describes other characters externally, establishing third-person narration for the opening."
+    },
+    {
+      "url": "https://freshairarchive.org/segments/pd-james-believed-mysteries-were-made-clues-not-coincences",
+      "title": "P.D. James Believed Mysteries Were Made Of Clues, Not Coincidences | Fresh Air Archive",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "James identifies and reads the interior scene in which Harry Norton discovers Venetia's body. The sustained passage narrates Harry as 'he' while presenting his perceptions and thoughts, independently confirming third-person narration beyond the opening."
+    },
+    {
+      "url": "https://www.latimes.com/archives/la-xpm-1998-jan-18-ls-9477-story.html",
+      "title": "P. D. James' latest, A Certain Justice... | Los Angeles Times",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The contemporary review quotes an interior Dalgliesh passage that narrates his actions, perceptions, and memories as 'he,' corroborating the novel's third-person character-centered narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"A Certain Justice\" \"P. D. James\" with excerpt, first chapter, point of view, narrator, first person, third person, perspective, and focalization terms.",
+    "Opened the Penguin Random House publisher excerpt and inspected its sustained opening narration.",
+    "Opened the Fresh Air archive and inspected P. D. James's author-read interior passage about Harry Norton discovering the body.",
+    "Opened the Los Angeles Times review and inspected its quoted interior Dalgliesh passage.",
+    "Searched exact quote fragments including \"I have no scenery to help me\" and \"out of the vivid dream of somebody else's life\"; results identify this as wording attributed to advocate Sir Edward Marshall Hall, so its first person is embedded rather than base narration.",
+    "Google Books and Open Library offered limited previews or catalog material without useful whole-book person analysis; Faber's page supplied only synopsis material.",
+    "Searches repeatedly surfaced John Lescroart's different same-title novel; those results were excluded."
+  ],
+  "person_note": "The base narration is third person with shifting character-centered access, including Venetia, Harry Norton, Dalgliesh, and Kate Miskin. Goodreads passages q00152 and q00159 corroborate the authorized publisher opening and James's author-read interior excerpt. The apparent first person in q00160 is an embedded advocacy quotation, while all other first- or second-person pronouns occur in dialogue. No evidence revealed sustained first- or second-person base sections; the only minor uncertainty is the exact local placement of the clipped or embedded Goodreads selections.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.226858+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "441697c32f9d1b14575a6a755b2ffd08ec56de325c2f8e9041d2994e76ebf0f7"
+  }
+}

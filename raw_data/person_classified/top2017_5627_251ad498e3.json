@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:5627",
+  "quotes": [
+    {
+      "quote_id": "q02131",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, not story-specific base narration."
+    },
+    {
+      "quote_id": "q02132",
+      "person_signal": "non_base",
+      "note": "Direct address within dialogue; the visible 'you' does not identify the narrator."
+    },
+    {
+      "quote_id": "q02133",
+      "person_signal": "non_base",
+      "note": "Wholly character speech."
+    },
+    {
+      "quote_id": "q02134",
+      "person_signal": "non_base",
+      "note": "Gnomic saying rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q02135",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but this short impersonal fragment does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q02136",
+      "person_signal": "non_base",
+      "note": "Author biography and jacket-style paratext."
+    },
+    {
+      "quote_id": "q02137",
+      "person_signal": "unmarked",
+      "note": "Third-person reference to a character is too brief by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02138",
+      "person_signal": "non_base",
+      "note": "Extended character dialogue without diagnostic narratorial context."
+    },
+    {
+      "quote_id": "q02139",
+      "person_signal": "third",
+      "note": "Sustained external exposition refers to Ballard and Nettles in third person without a participating-narrator frame."
+    },
+    {
+      "quote_id": "q02140",
+      "person_signal": "unmarked",
+      "note": "Extended impersonal setting exposition is compatible with third-person narration but lacks a decisive person marker on its own."
+    },
+    {
+      "quote_id": "q02141",
+      "person_signal": "third",
+      "note": "Repeated outside speech beats narrate Ballard and her interlocutor externally in third person."
+    },
+    {
+      "quote_id": "q02142",
+      "person_signal": "non_base",
+      "note": "Wholly character dialogue; its first- and second-person pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q02143",
+      "person_signal": "third",
+      "note": "Long sustained scene externally narrates Ballard's actions, knowledge, preferences, and plans in third person."
+    },
+    {
+      "quote_id": "q02144",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person statement is likely spoken and does not expose the base narrator."
+    },
+    {
+      "quote_id": "q02145",
+      "person_signal": "unclear",
+      "note": "Truncation and broken quotation boundaries prevent reliable separation of speech from the narration beat."
+    },
+    {
+      "quote_id": "q02146",
+      "person_signal": "unmarked",
+      "note": "Base exposition surrounds an embedded radio phrase, but the passage does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q02147",
+      "person_signal": "unmarked",
+      "note": "Mostly dialogue with one short external action sentence; insufficient alone to establish the controlling person."
+    },
+    {
+      "quote_id": "q02148",
+      "person_signal": "third",
+      "note": "External narration refers to both the actress and Ballard in third person and reports Ballard's knowledge."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.michaelconnelly.com/writing/late-show/the-late-show-excerpt/",
+      "title": "The Late Show Excerpt - Michael Connelly",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized Chapter 1 excerpt sustains external third-person narration focused on Ballard and Jenkins."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-late-show/styles.html",
+      "title": "Connelly, Michael Writing Styles in The Late Show",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the novel as consistently third-person limited through Ballard's perspective."
+    }
+  ],
+  "search_log": [
+    "Searched: Michael Connelly The Late Show excerpt first chapter publisher.",
+    "Searched: The Late Show Michael Connelly point of view third person review.",
+    "Searched: The Late Show Michael Connelly narrator third person.",
+    "Searched: The Late Show Michael Connelly Google Books excerpt.",
+    "Searched exact-phrase variants for \"The Late Show\" with \"third person\" and \"third-person\" plus Ballard and Connelly.",
+    "Opened and inspected the authorized Michael Connelly excerpt and the BookRags point-of-view analysis before using them.",
+    "Hachette and Google Books pages supplied publisher descriptions or limited-preview metadata but no independently usable narration-person evidence; the New York Times result was inaccessible due to robots restrictions."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third-person limited, centered on Ren\u00e9e Ballard. The authorized opening excerpt, the whole-book POV description, and several sustained interior Goodreads passages agree. First- and second-person forms in the remaining quotes occur in dialogue or gnomic material, not autonomous base-narrative sections, and no evidence of alternating narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_061",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:31:51.598605+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ddfba66ffac884502ca0075b90e4b977ef99e5fca0d8cd49836e13f226f02370"
+  }
+}

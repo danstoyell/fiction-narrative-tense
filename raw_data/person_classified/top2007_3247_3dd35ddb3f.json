@@ -1,0 +1,605 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:3247",
+  "quotes": [
+    {
+      "quote_id": "q01525",
+      "person_signal": "non_base",
+      "note": "Character speech; second-person wording does not identify the narrator."
+    },
+    {
+      "quote_id": "q01526",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue, not base narration."
+    },
+    {
+      "quote_id": "q01527",
+      "person_signal": "unmarked",
+      "note": "Narratorial aphorism without a participating or external narrator exposed."
+    },
+    {
+      "quote_id": "q01528",
+      "person_signal": "non_base",
+      "note": "Gnomic hypothetical using universal you."
+    },
+    {
+      "quote_id": "q01529",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no person evidence."
+    },
+    {
+      "quote_id": "q01530",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; its I/we does not establish base narration."
+    },
+    {
+      "quote_id": "q01531",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you passage."
+    },
+    {
+      "quote_id": "q01532",
+      "person_signal": "non_base",
+      "note": "Character speech, not narratorial evidence."
+    },
+    {
+      "quote_id": "q01533",
+      "person_signal": "unmarked",
+      "note": "Possible narration uses generic you but does not identify narrator participation."
+    },
+    {
+      "quote_id": "q01534",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you reflection."
+    },
+    {
+      "quote_id": "q01535",
+      "person_signal": "non_base",
+      "note": "Proverbial imperative, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01536",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim without narrator evidence."
+    },
+    {
+      "quote_id": "q01537",
+      "person_signal": "non_base",
+      "note": "Dialogue or embedded direct address; first person is local."
+    },
+    {
+      "quote_id": "q01538",
+      "person_signal": "non_base",
+      "note": "Isolated first-person reflection belongs to the novel's local diary-style material, not its controlling narration."
+    },
+    {
+      "quote_id": "q01539",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic person evidence."
+    },
+    {
+      "quote_id": "q01540",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim."
+    },
+    {
+      "quote_id": "q01541",
+      "person_signal": "non_base",
+      "note": "Character speech using generic and direct-address you."
+    },
+    {
+      "quote_id": "q01542",
+      "person_signal": "unmarked",
+      "note": "Generic-you reflection does not establish second-person narration."
+    },
+    {
+      "quote_id": "q01543",
+      "person_signal": "non_base",
+      "note": "Quoted proverb; we is not the base narrator."
+    },
+    {
+      "quote_id": "q01544",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a woman's perception and predicament as she/her."
+    },
+    {
+      "quote_id": "q01545",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison without narrator evidence."
+    },
+    {
+      "quote_id": "q01546",
+      "person_signal": "non_base",
+      "note": "Dialogue framed as a hypothetical question."
+    },
+    {
+      "quote_id": "q01547",
+      "person_signal": "non_base",
+      "note": "First-person message or speech addressed to another character."
+    },
+    {
+      "quote_id": "q01548",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; we is generic."
+    },
+    {
+      "quote_id": "q01549",
+      "person_signal": "third",
+      "note": "External narration reports a woman's realization and inner understanding as she."
+    },
+    {
+      "quote_id": "q01550",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using inclusive we."
+    },
+    {
+      "quote_id": "q01551",
+      "person_signal": "non_base",
+      "note": "First-person diary-style passage embedded within the third-person narrative."
+    },
+    {
+      "quote_id": "q01552",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you statement."
+    },
+    {
+      "quote_id": "q01553",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question using universal you."
+    },
+    {
+      "quote_id": "q01554",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you statement."
+    },
+    {
+      "quote_id": "q01555",
+      "person_signal": "third",
+      "note": "External narration follows an unnamed she and reports her realization about Peter."
+    },
+    {
+      "quote_id": "q01556",
+      "person_signal": "non_base",
+      "note": "Dialogue using hypothetical you."
+    },
+    {
+      "quote_id": "q01557",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison using universal you."
+    },
+    {
+      "quote_id": "q01558",
+      "person_signal": "unmarked",
+      "note": "A brief she construction and generic-you meditation do not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q01559",
+      "person_signal": "non_base",
+      "note": "Isolated first-person aside or direct thought is local material, not controlling narration."
+    },
+    {
+      "quote_id": "q01560",
+      "person_signal": "non_base",
+      "note": "Gnomic us/them formulation."
+    },
+    {
+      "quote_id": "q01561",
+      "person_signal": "third",
+      "note": "External narration names Lewis and reports his realization while he remains he."
+    },
+    {
+      "quote_id": "q01562",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question."
+    },
+    {
+      "quote_id": "q01563",
+      "person_signal": "non_base",
+      "note": "First-person diary-style entry embedded between third-person narrative sections."
+    },
+    {
+      "quote_id": "q01564",
+      "person_signal": "non_base",
+      "note": "Web structural evidence identifies this kind of first-person material as an embedded journal entry."
+    },
+    {
+      "quote_id": "q01565",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q01566",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you statement."
+    },
+    {
+      "quote_id": "q01567",
+      "person_signal": "unmarked",
+      "note": "Generic comparison using people and you does not expose the narrator."
+    },
+    {
+      "quote_id": "q01568",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Lacy's memories and intentions as she/her."
+    },
+    {
+      "quote_id": "q01569",
+      "person_signal": "third",
+      "note": "Extended scene narrates Peter externally as he and enters his dream and knowledge."
+    },
+    {
+      "quote_id": "q01570",
+      "person_signal": "non_base",
+      "note": "Gnomic inclusive-we statement."
+    },
+    {
+      "quote_id": "q01571",
+      "person_signal": "unmarked",
+      "note": "General statement about professions does not identify the narrator."
+    },
+    {
+      "quote_id": "q01572",
+      "person_signal": "non_base",
+      "note": "Quoted promise; first-person plural belongs to speakers."
+    },
+    {
+      "quote_id": "q01573",
+      "person_signal": "unmarked",
+      "note": "Rhetorical imperative and generic you are not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01574",
+      "person_signal": "third",
+      "note": "Extended scene narrates Peter and Josie externally and reports Peter's sensations."
+    },
+    {
+      "quote_id": "q01575",
+      "person_signal": "third",
+      "note": "Third-person limited narration reports what he knew and his self-persuasion."
+    },
+    {
+      "quote_id": "q01576",
+      "person_signal": "unclear",
+      "note": "Clipped fragment lacks recoverable narratorial context."
+    },
+    {
+      "quote_id": "q01577",
+      "person_signal": "unmarked",
+      "note": "Bare fragment about her does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01578",
+      "person_signal": "non_base",
+      "note": "First-person diary-style passage is embedded local material rather than base narration."
+    },
+    {
+      "quote_id": "q01579",
+      "person_signal": "third",
+      "note": "External narration names Lacy and reports her recollection as she."
+    },
+    {
+      "quote_id": "q01580",
+      "person_signal": "non_base",
+      "note": "Expert testimony or quoted exposition; first person belongs to the witness."
+    },
+    {
+      "quote_id": "q01581",
+      "person_signal": "third",
+      "note": "Dialogue is framed by external narration of Peter and Josie, including Peter's certainty."
+    },
+    {
+      "quote_id": "q01582",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about growing up."
+    },
+    {
+      "quote_id": "q01583",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim."
+    },
+    {
+      "quote_id": "q01584",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you statement."
+    },
+    {
+      "quote_id": "q01585",
+      "person_signal": "third",
+      "note": "External narration names Peter and reports his wondering as he."
+    },
+    {
+      "quote_id": "q01586",
+      "person_signal": "third",
+      "note": "Peter is narrated externally before the passage shifts to generic imperatives."
+    },
+    {
+      "quote_id": "q01587",
+      "person_signal": "unclear",
+      "note": "Clipped fragment cannot distinguish narration from local thought."
+    },
+    {
+      "quote_id": "q01588",
+      "person_signal": "unclear",
+      "note": "Isolated question lacks attribution and context."
+    },
+    {
+      "quote_id": "q01589",
+      "person_signal": "unmarked",
+      "note": "Brief he/her fragment does not establish whether a participating narrator frames it."
+    },
+    {
+      "quote_id": "q01590",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative."
+    },
+    {
+      "quote_id": "q01591",
+      "person_signal": "non_base",
+      "note": "Character speech; the short speech beat does not control the passage."
+    },
+    {
+      "quote_id": "q01592",
+      "person_signal": "third",
+      "note": "Extended external narration follows Lacy's memories, perceptions, and actions as she."
+    },
+    {
+      "quote_id": "q01593",
+      "person_signal": "unclear",
+      "note": "Nominal fragment contains no narrator evidence."
+    },
+    {
+      "quote_id": "q01594",
+      "person_signal": "third",
+      "note": "Extended third-person limited narration follows Josie's memories and realizations as she."
+    },
+    {
+      "quote_id": "q01595",
+      "person_signal": "non_base",
+      "note": "Gnomic or quoted social commentary."
+    },
+    {
+      "quote_id": "q01596",
+      "person_signal": "unmarked",
+      "note": "Short he passage lacks enough context to rule out a participating frame."
+    },
+    {
+      "quote_id": "q01597",
+      "person_signal": "non_base",
+      "note": "Lacy's direct speech; you is generic and addressed."
+    },
+    {
+      "quote_id": "q01598",
+      "person_signal": "unmarked",
+      "note": "General statement about people does not expose narrator person."
+    },
+    {
+      "quote_id": "q01599",
+      "person_signal": "third",
+      "note": "Sustained external narration enters a woman's private doubts while referring to her as she."
+    },
+    {
+      "quote_id": "q01600",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; first person occurs inside an imagined quotation."
+    },
+    {
+      "quote_id": "q01601",
+      "person_signal": "third",
+      "note": "Despite extensive dialogue, external narration names Peter and reports Lacy's felt reaction as she."
+    },
+    {
+      "quote_id": "q01602",
+      "person_signal": "third",
+      "note": "External narration reports a woman's memory and imagines Josie's future as she."
+    },
+    {
+      "quote_id": "q01603",
+      "person_signal": "non_base",
+      "note": "Lacy's first-person courtroom speech, not base narration."
+    },
+    {
+      "quote_id": "q01604",
+      "person_signal": "third",
+      "note": "Third-person limited narration reports his wishes, feelings, and uncertainty."
+    },
+    {
+      "quote_id": "q01605",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim."
+    },
+    {
+      "quote_id": "q01606",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you meditation."
+    },
+    {
+      "quote_id": "q01607",
+      "person_signal": "third",
+      "note": "External narration reports his recurring feeling and role as memory keeper."
+    },
+    {
+      "quote_id": "q01608",
+      "person_signal": "unmarked",
+      "note": "Metaphorical generalization does not identify narrator person."
+    },
+    {
+      "quote_id": "q01609",
+      "person_signal": "third",
+      "note": "Dialogue is embedded in sustained external narration of Alex and Patrick, including Alex's perceptions."
+    },
+    {
+      "quote_id": "q01610",
+      "person_signal": "third",
+      "note": "External narration reports a man's reasoning and wondering as he."
+    },
+    {
+      "quote_id": "q01611",
+      "person_signal": "third",
+      "note": "Extended narration names Lewis and renders his reasoning externally in third person."
+    },
+    {
+      "quote_id": "q01612",
+      "person_signal": "unmarked",
+      "note": "Generic-you maternal hypothetical is not sustained story-specific second person."
+    },
+    {
+      "quote_id": "q01613",
+      "person_signal": "non_base",
+      "note": "Character speech using direct-address you."
+    },
+    {
+      "quote_id": "q01614",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you statement."
+    },
+    {
+      "quote_id": "q01615",
+      "person_signal": "unmarked",
+      "note": "Brief description with generic you does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q01616",
+      "person_signal": "third",
+      "note": "Extended scene narrates Lewis externally and reports his perceptions, pain, memories, and wishes."
+    },
+    {
+      "quote_id": "q01617",
+      "person_signal": "non_base",
+      "note": "Lacy's first-person courtroom testimony, confirmed by surrounding source context."
+    },
+    {
+      "quote_id": "q01618",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Lacy's actions, knowledge, and imagined advice as she."
+    },
+    {
+      "quote_id": "q01619",
+      "person_signal": "third",
+      "note": "External narration follows Alex's perception of Josie and her private jealousy."
+    },
+    {
+      "quote_id": "q01620",
+      "person_signal": "third",
+      "note": "The narrator names Alex and reports her recurring inward amazement."
+    },
+    {
+      "quote_id": "q01621",
+      "person_signal": "unmarked",
+      "note": "Anonymous she fragment is too short to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01622",
+      "person_signal": "unmarked",
+      "note": "Brief statement about Lacy's thought is locally compatible with third person but not independently diagnostic."
+    },
+    {
+      "quote_id": "q01623",
+      "person_signal": "unmarked",
+      "note": "Brief reference to Lacy's belief shifts into generic you and remains locally nondiagnostic."
+    },
+    {
+      "quote_id": "q01624",
+      "person_signal": "non_base",
+      "note": "Gnomic universal-you reflection."
+    },
+    {
+      "quote_id": "q01625",
+      "person_signal": "third",
+      "note": "Extended scene narrates Peter, Jordan, and Selena externally and reports Jordan's consideration."
+    },
+    {
+      "quote_id": "q01626",
+      "person_signal": "third",
+      "note": "External narration names Lacy and reports her realization before shifting to generic you."
+    },
+    {
+      "quote_id": "q01627",
+      "person_signal": "unmarked",
+      "note": "Clipped generic-you wish does not identify narrator person."
+    },
+    {
+      "quote_id": "q01628",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; brief speech beats do not independently establish base person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jodipicoult.com/nineteen-minutes.html",
+      "title": "Jodi Picoult \u00b7 Nineteen Minutes (2007)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized opening excerpt moves from a generic-you preamble into sustained external narration of Alex Cormier as she, including her history and thoughts."
+    },
+    {
+      "url": "https://jodipicoult.com/nineteen-minutes.html",
+      "title": "19 Minutes excerpts and questions \u2014 by Jodi Picoult",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Authorized interior excerpts from late in the novel sustain external third-person narration around Josie, Peter, Jordan, and other characters; first-person passages are separately presented as speech or journal-style material."
+    },
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1941/page_number/3/nineteen-minutes",
+      "title": "Nineteen Minutes Excerpt: page 3",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained early interior excerpt follows Josie's actions, perceptions, and concealed feelings entirely through third-person limited narration."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/nineteen-minutes",
+      "title": "Nineteen Minutes Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly identifies the novel's point of view as third-person limited."
+    },
+    {
+      "url": "https://theeducatorsroom.com/reading-outside-canon-jodi-picoults-nineteen-minutes/",
+      "title": "Reading Outside of the Canon: Jodi Picoult\u2019s Nineteen Minutes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An educator who taught the novel states that every section is third-person limited while focalization shifts among characters."
+    },
+    {
+      "url": "https://www.supersummary.com/nineteen-minutes/part-one-chapters-1-3/",
+      "title": "Nineteen Minutes Part One, Chapters 1-3 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "Distinguishes the journal-style entry before the first chapter and an italicized journal entry after a chapter from the surrounding narrative."
+    },
+    {
+      "url": "https://www.supersummary.com/nineteen-minutes/part-one-chapters-9-10/",
+      "title": "Nineteen Minutes Part One, Chapters 9-10 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "Explains that Josie writes the diary entries dotting the narrative, resolving apparent first-person counterevidence as embedded material."
+    }
+  ],
+  "search_log": [
+    "Searched \"Nineteen Minutes Jodi Picoult excerpt first chapter\" and opened the author's authorized excerpt, Bookreporter, and BookBrowse excerpts.",
+    "Searched \"Nineteen Minutes Jodi Picoult point of view third person narrator\" and opened explicit whole-book descriptions from LitCharts and The Educators Room.",
+    "Searched \"Nineteen Minutes novel multiple narrators third person point of view\"; results consistently described multiple focal characters within third-person narration.",
+    "Searched \"Nineteen Minutes journal entries first person chapters narrator\" and opened SuperSummary chapter analyses distinguishing the diary entries from the surrounding narrative.",
+    "Searched exact first-person quote phrases, including the DVD, salt-on-slugs, monster, and courtroom-testimony passages, to test whether they were base narration or embedded material.",
+    "A school-guide PDF surfaced in POV searching but its cited narrator discussion concerned another novel, so it was rejected as irrelevant."
+  ],
+  "person_note": "The controlling narrative is third-person limited with shifting focal characters, not multiple first-person narrators. Numerous long Goodreads passages independently narrate Alex, Lacy, Peter, Josie, Lewis, Jordan, and Patrick externally while accessing their thoughts; authorized opening and interior excerpts show the same pattern, and two whole-book sources explicitly describe every section as third-person limited. The apparent contrary I passages are brief diary-style entries by Josie, courtroom testimony, dialogue, or local direct thought. They do not form an autonomous first-person base strand. Generic you in aphorisms and free-indirect reflections is likewise not sustained second-person narration. No material uncertainty remains about the controlling person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.243289+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ea259d7d4c0917e181dee6304f1c10969cfbe6dca3b832667cf2dd009484b3cd"
+  }
+}

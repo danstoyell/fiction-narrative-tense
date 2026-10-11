@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:3210",
+  "quotes": [
+    {
+      "quote_id": "q00037",
+      "person_signal": "non_base",
+      "note": "The pronouns occur entirely in character dialogue and do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "non_base",
+      "note": "This impersonal maxim is gnomic material, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "non_base",
+      "note": "Although it contains “I,” this is an isolated gnomic assertion and does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but it contains no reference that identifies the narrator’s participation."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence with its subject missing, so its narrative person cannot be responsibly determined."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "first",
+      "note": "The narrating “I” describes being followed and threatened, exposing a participating first-person narrator."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, the beat “She told me” places the narrating speaker within the story."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "unmarked",
+      "note": "The references to “she” and generic “you” do not, without wider context, distinguish third-person narration from a first-person narrator describing another character."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "non_base",
+      "note": "This is a general aphorism rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "first",
+      "note": "Despite clipping, the narratorial “I” reflects on receiving information and solving the mystery."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "This is a joke presented as quoted speech; its address to “you” is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "non_base",
+      "note": "The first-person pronouns occur in isolated dialogue and cannot identify the base narrator."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "first",
+      "note": "The narratorial aside “which I didn’t” and object “me” expose a participating first-person voice despite the clipped beginning."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nelsondemille.net/books/night-fall/chapter-one/",
+      "title": "Night Fall - Chapter One",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author’s complete Chapter One sustains external third-person narration of Bud Mitchell and Jill Winslow, including access to their thoughts."
+    },
+    {
+      "url": "https://abcnews.com/GMA/Books/story?id=274527&page=1",
+      "title": "Book Excerpt: 'Night Fall'",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The sustained Chapter Two excerpt identifies “I” as John Corey and continues through his first-person account of traveling with Kate."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-night-fall/style.html",
+      "title": "Nelson Demille Writing Styles in Night Fall",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The explicit point-of-view description says John Corey supplies the first-person narration while Chapter One uses omniscient narration for Bud and Jill."
+    },
+    {
+      "url": "https://era.ed.ac.uk/handle/1842/17598",
+      "title": "Burden of valour: the hero and the terrorist-villain in post-9/11 popular fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly source characterizes Night Fall as entirely first-person, but that generalization is directly contradicted by the author-hosted, sustained third-person Chapter One."
+    }
+  ],
+  "search_log": [
+    "Searched “Nelson DeMille Night Fall excerpt first chapter point of view” and opened the author-hosted full Chapter One.",
+    "Searched for interior and named-chapter excerpts and opened ABC News’s sustained Chapter Two excerpt.",
+    "Searched “Night Fall first person third person alternating narration” and opened BookRags’ explicit whole-book point-of-view discussion.",
+    "Checked an Edinburgh Research Archive dissertation that calls the narration entirely first-person; comparison with the primary text shows that it overlooks the third-person opening chapter.",
+    "Also checked the publisher-credited LoveReading opening extract, which corroborates the author-hosted Chapter One but is not independent whole-book evidence."
+  ],
+  "person_note": "John Corey supplies the sustained participating first-person narration that controls the novel. Chapter One is a third-person opening exception about Bud and Jill, but a single introductory chapter does not establish a co-controlling base strand. The extensive quote evidence and the continuing structure therefore support FIRST with high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_040",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T21:50:41.366773+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f6983cd158aa6eddcd8d1ee0f9f62a04c4e9b576d0c5ddc55aec0f5c107f85dc"
+  }
+}

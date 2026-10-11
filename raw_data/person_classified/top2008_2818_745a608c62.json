@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:2818",
+  "quotes": [
+    {
+      "quote_id": "q01380",
+      "person_signal": "non_base",
+      "note": "Generalized reflection on love; no diagnostic base-narrator marker."
+    },
+    {
+      "quote_id": "q01381",
+      "person_signal": "non_base",
+      "note": "Gnomic definition of love, not person-diagnostic narration."
+    },
+    {
+      "quote_id": "q01382",
+      "person_signal": "non_base",
+      "note": "General maxim about change; no story-specific narrator signal."
+    },
+    {
+      "quote_id": "q01383",
+      "person_signal": "unmarked",
+      "note": "Possible base narration, but the bare third-person subject does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q01384",
+      "person_signal": "non_base",
+      "note": "General claim about true love rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01385",
+      "person_signal": "non_base",
+      "note": "The first-person pronoun occurs inside dialogue and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01386",
+      "person_signal": "non_base",
+      "note": "Quoted proverb; not base-narrator evidence."
+    },
+    {
+      "quote_id": "q01387",
+      "person_signal": "first",
+      "note": "The participating narrator directly reports her own thought and interpretation as I/me."
+    },
+    {
+      "quote_id": "q01388",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragments about love; no person-diagnostic narration."
+    },
+    {
+      "quote_id": "q01389",
+      "person_signal": "first",
+      "note": "The narrator reports her present feelings and self-address using I."
+    },
+    {
+      "quote_id": "q01390",
+      "person_signal": "first",
+      "note": "The participating narrator expresses her own wish and decision using I/my."
+    },
+    {
+      "quote_id": "q01391",
+      "person_signal": "first",
+      "note": "The narrator compares another woman's decisions with her own using mine."
+    },
+    {
+      "quote_id": "q01392",
+      "person_signal": "non_base",
+      "note": "Generic aphoristic you, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01393",
+      "person_signal": "first",
+      "note": "The narrator describes her own physical response and action using my/I."
+    },
+    {
+      "quote_id": "q01394",
+      "person_signal": "first",
+      "note": "The narrator reflects on her past relationship using we and me outside dialogue."
+    },
+    {
+      "quote_id": "q01395",
+      "person_signal": "first",
+      "note": "The narrator explicitly marks her own thought with I think."
+    },
+    {
+      "quote_id": "q01396",
+      "person_signal": "first",
+      "note": "The narrator discusses her life, regrets, and relationship with repeated I/my/me."
+    },
+    {
+      "quote_id": "q01397",
+      "person_signal": "first",
+      "note": "The narrator describes an experience she personally had using I."
+    },
+    {
+      "quote_id": "q01398",
+      "person_signal": "non_base",
+      "note": "Although first-person framing is visible, the quote is an isolated generalized claim classified as gnomic."
+    },
+    {
+      "quote_id": "q01399",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough context to determine whether it is base narration or local material."
+    },
+    {
+      "quote_id": "q01400",
+      "person_signal": "non_base",
+      "note": "General taxonomy of apologies; no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01401",
+      "person_signal": "non_base",
+      "note": "Generalized statement about human nature, not person-diagnostic narration."
+    },
+    {
+      "quote_id": "q01402",
+      "person_signal": "non_base",
+      "note": "Generic you in an aphorism, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01403",
+      "person_signal": "first",
+      "note": "The participating narrator recounts giving herself to a lover using I/myself/me."
+    },
+    {
+      "quote_id": "q01404",
+      "person_signal": "first",
+      "note": "The narrator reports her own guilt and marriage using me and Andy's name."
+    },
+    {
+      "quote_id": "q01405",
+      "person_signal": "first",
+      "note": "The narrator states a personal preference using I."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.emilygiffin.com/preview-love-the-one-youre-with",
+      "title": "Emily Giffin | Preview: Love the One You're With",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's authorized, sustained opening preview has Ellen narrate her marriage, encounter with Leo, actions, memories, and thoughts as I."
+    },
+    {
+      "url": "https://www.ajc.com/entertainment/celebrity-news/emily-giffin-author-did-have-the-sense-that-don-belong-here/24Q50CVZHf6lY5Fge9zknO/",
+      "title": "Q&A / Emily Giffin, author: 'I did have the sense that I don't belong here'",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Atlanta Journal-Constitution identifies Ellen as the book's narrator, and Giffin explicitly discusses writing this character as a first-person narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"Love the One You're With\" \"Emily Giffin\" excerpt and opened the sustained preview on the author's official site.",
+    "Searched the title with \"first person,\" narrator, and \"point of view\"; opened the Atlanta Journal-Constitution author interview explicitly identifying Ellen's first-person narration.",
+    "Checked the official Macmillan book page; its synopsis verifies the work and protagonist but does not independently state grammatical person.",
+    "Checked Google Books and a library-catalog excerpt; these supplied bibliographic confirmation or repeated opening material rather than additional whole-book structural evidence.",
+    "Searched for epistolary, multiple-narrator, frame, and alternating-POV evidence; found no credible indication of sustained narration in another person."
+  ],
+  "person_note": "Ellen is the controlling participating narrator. Numerous event quotes from different parts of the story expose her narration through I, me, my, and mine, while the authorized opening independently shows the same first-person voice. The author interview further identifies Ellen as the narrator and explicitly describes the novel's first-person narration. The isolated he sentence is compatible with Ellen describing another character, and dialogue, aphorisms, and generic you passages are non-base evidence. No sustained contrary or alternating narrative person was found; the only residual limitation is that the authorized prose source covers the opening rather than the entire text, which is mitigated by the whole-book author interview and distributed quote evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.244475+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "bc17a33adb9ceca151871ebf5e37d299c88c6233d20938bf639f90d44ad1277a"
+  }
+}

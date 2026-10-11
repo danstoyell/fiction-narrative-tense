@@ -1,0 +1,447 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:81",
+  "quotes": [
+    {
+      "quote_id": "q02200",
+      "person_signal": "non_base",
+      "note": "Jojen's direct speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02201",
+      "person_signal": "non_base",
+      "note": "Jon Connington's unframed first-person thought, not a first-person narrative section."
+    },
+    {
+      "quote_id": "q02202",
+      "person_signal": "non_base",
+      "note": "Direct address to Jon Snow in character speech."
+    },
+    {
+      "quote_id": "q02203",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic base narration."
+    },
+    {
+      "quote_id": "q02204",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the brief third-person action beat is insufficient by itself."
+    },
+    {
+      "quote_id": "q02205",
+      "person_signal": "non_base",
+      "note": "Character speech addressing another character."
+    },
+    {
+      "quote_id": "q02206",
+      "person_signal": "non_base",
+      "note": "Cersei's first-person speech, not narratorial participation."
+    },
+    {
+      "quote_id": "q02207",
+      "person_signal": "non_base",
+      "note": "Clipped first-person free-direct thought associated with Daenerys, not base narration."
+    },
+    {
+      "quote_id": "q02208",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a narrating position."
+    },
+    {
+      "quote_id": "q02209",
+      "person_signal": "non_base",
+      "note": "Labeled exchange between Melisandre and Jon."
+    },
+    {
+      "quote_id": "q02210",
+      "person_signal": "non_base",
+      "note": "Gnomic saying without diagnostic narrator pronouns."
+    },
+    {
+      "quote_id": "q02211",
+      "person_signal": "non_base",
+      "note": "Dialogue; the speech beat does not establish narrative person."
+    },
+    {
+      "quote_id": "q02212",
+      "person_signal": "non_base",
+      "note": "Character speech about books and dead men."
+    },
+    {
+      "quote_id": "q02213",
+      "person_signal": "non_base",
+      "note": "Character declaration rather than narration."
+    },
+    {
+      "quote_id": "q02214",
+      "person_signal": "unmarked",
+      "note": "An unframed assessment of 'she'; the clipping does not establish who voices it."
+    },
+    {
+      "quote_id": "q02215",
+      "person_signal": "third",
+      "note": "Third-person framing ('she told herself') explicitly embeds the character's first-person thought."
+    },
+    {
+      "quote_id": "q02216",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about human lives."
+    },
+    {
+      "quote_id": "q02217",
+      "person_signal": "non_base",
+      "note": "Second-person character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02218",
+      "person_signal": "non_base",
+      "note": "Dialogue question and answer."
+    },
+    {
+      "quote_id": "q02219",
+      "person_signal": "non_base",
+      "note": "A character's first-person opinion in direct speech."
+    },
+    {
+      "quote_id": "q02220",
+      "person_signal": "non_base",
+      "note": "Extended character speech using generic and addressed 'you'."
+    },
+    {
+      "quote_id": "q02221",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; inclusive 'we' is universal rather than narratorial."
+    },
+    {
+      "quote_id": "q02222",
+      "person_signal": "third",
+      "note": "Narration names Asha externally while reporting her intention and anticipated death."
+    },
+    {
+      "quote_id": "q02223",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short external beats do not independently establish the book's person."
+    },
+    {
+      "quote_id": "q02224",
+      "person_signal": "non_base",
+      "note": "Universal maxim with inclusive 'we', not participating narration."
+    },
+    {
+      "quote_id": "q02225",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a narrating position."
+    },
+    {
+      "quote_id": "q02226",
+      "person_signal": "third",
+      "note": "The third-person tag 'he thought' identifies the first-person words as Jon's embedded thought."
+    },
+    {
+      "quote_id": "q02227",
+      "person_signal": "third",
+      "note": "Third-person narration reports a woman's sleeplessness, burden, and fear before a gnomic thought."
+    },
+    {
+      "quote_id": "q02228",
+      "person_signal": "non_base",
+      "note": "Wyman Manderly's direct speech."
+    },
+    {
+      "quote_id": "q02229",
+      "person_signal": "non_base",
+      "note": "Tyrion's explicitly attributed speech."
+    },
+    {
+      "quote_id": "q02230",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q02231",
+      "person_signal": "non_base",
+      "note": "First- and second-person dialogue, not narration."
+    },
+    {
+      "quote_id": "q02232",
+      "person_signal": "non_base",
+      "note": "Rhetorical character speech."
+    },
+    {
+      "quote_id": "q02233",
+      "person_signal": "non_base",
+      "note": "Character-delivered proverb."
+    },
+    {
+      "quote_id": "q02234",
+      "person_signal": "third",
+      "note": "Sustained scene narration names Dany externally, describes her actions, and embeds her first-person thought."
+    },
+    {
+      "quote_id": "q02235",
+      "person_signal": "third",
+      "note": "Sustained third-person limited narration reports Jon's desire, self-instruction, bodily response, and memory."
+    },
+    {
+      "quote_id": "q02236",
+      "person_signal": "non_base",
+      "note": "Direct advice addressed to Jon."
+    },
+    {
+      "quote_id": "q02237",
+      "person_signal": "non_base",
+      "note": "Character speech about drowning."
+    },
+    {
+      "quote_id": "q02238",
+      "person_signal": "non_base",
+      "note": "Generic 'you' in character speech, not second-person base narration."
+    },
+    {
+      "quote_id": "q02239",
+      "person_signal": "non_base",
+      "note": "Dialogue with brief external speech beats."
+    },
+    {
+      "quote_id": "q02240",
+      "person_signal": "unmarked",
+      "note": "A clipped statement about an unnamed 'she' does not expose the narrator's participation."
+    },
+    {
+      "quote_id": "q02241",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange using first and second person."
+    },
+    {
+      "quote_id": "q02242",
+      "person_signal": "non_base",
+      "note": "Extended first-person character speech."
+    },
+    {
+      "quote_id": "q02243",
+      "person_signal": "third",
+      "note": "Third-person scene framing identifies Haldon and Tyrion externally and reports Tyrion's forced response."
+    },
+    {
+      "quote_id": "q02244",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization."
+    },
+    {
+      "quote_id": "q02245",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization."
+    },
+    {
+      "quote_id": "q02246",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed character speech."
+    },
+    {
+      "quote_id": "q02247",
+      "person_signal": "unmarked",
+      "note": "A cry is followed by a generalization; the brief fragment does not securely establish narrative person."
+    },
+    {
+      "quote_id": "q02248",
+      "person_signal": "non_base",
+      "note": "Remembered speech explicitly attributed to the King-Beyond-the-Wall."
+    },
+    {
+      "quote_id": "q02249",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q02250",
+      "person_signal": "non_base",
+      "note": "Explicitly labeled Melisandre speech."
+    },
+    {
+      "quote_id": "q02251",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about kingship."
+    },
+    {
+      "quote_id": "q02252",
+      "person_signal": "non_base",
+      "note": "Gnomic insult without narratorial context."
+    },
+    {
+      "quote_id": "q02253",
+      "person_signal": "third",
+      "note": "Third-person narration describes Tyrion's action and access to what he tried to remember."
+    },
+    {
+      "quote_id": "q02254",
+      "person_signal": "third",
+      "note": "Sustained narration names Theon externally and reports his uncertainty about the scene."
+    },
+    {
+      "quote_id": "q02255",
+      "person_signal": "third",
+      "note": "Narrative framing around dialogue refers to both siblings externally and reports Asha's bodily reaction."
+    },
+    {
+      "quote_id": "q02256",
+      "person_signal": "non_base",
+      "note": "Dialogue between Irri and Jhiqui with only a brief speech frame."
+    },
+    {
+      "quote_id": "q02257",
+      "person_signal": "third",
+      "note": "The tag 'she thought' embeds Daenerys's first-person thought within third-person narration."
+    },
+    {
+      "quote_id": "q02258",
+      "person_signal": "third",
+      "note": "Third-person narration identifies Theon before shifting into his free-direct first-person thoughts."
+    },
+    {
+      "quote_id": "q02259",
+      "person_signal": "unclear",
+      "note": "Clipped address with unresolved quotation boundaries and speaker context."
+    },
+    {
+      "quote_id": "q02260",
+      "person_signal": "non_base",
+      "note": "Gnomic 'you' describes a general condition, not a story protagonist."
+    },
+    {
+      "quote_id": "q02261",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q02262",
+      "person_signal": "non_base",
+      "note": "Extended dialogue; pronouns belong to the speakers, and the small action beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q02263",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed address from Quaithe to Daenerys."
+    },
+    {
+      "quote_id": "q02264",
+      "person_signal": "non_base",
+      "note": "Gnomic exposition using universal 'we'."
+    },
+    {
+      "quote_id": "q02265",
+      "person_signal": "unmarked",
+      "note": "Aphoristic narration about bondage contains no participating or external narrator marker."
+    },
+    {
+      "quote_id": "q02266",
+      "person_signal": "third",
+      "note": "Sustained third-person narration names Barristan externally and reports his reading history and judgments."
+    },
+    {
+      "quote_id": "q02267",
+      "person_signal": "non_base",
+      "note": "Character-delivered proverb with generic 'you'."
+    },
+    {
+      "quote_id": "q02268",
+      "person_signal": "non_base",
+      "note": "First-person character speech addressing a lord."
+    },
+    {
+      "quote_id": "q02269",
+      "person_signal": "non_base",
+      "note": "Gnomic statement."
+    },
+    {
+      "quote_id": "q02270",
+      "person_signal": "non_base",
+      "note": "Speech explicitly attributed to Davos Seaworth."
+    },
+    {
+      "quote_id": "q02271",
+      "person_signal": "third",
+      "note": "Third-person narration culminates in an explicitly marked reflection by the dwarf."
+    },
+    {
+      "quote_id": "q02272",
+      "person_signal": "third",
+      "note": "After dialogue, third-person limited narration embeds Tyrion's private reckoning about his father."
+    },
+    {
+      "quote_id": "q02273",
+      "person_signal": "unmarked",
+      "note": "General narratorial maxim about power without a person-identifying frame."
+    },
+    {
+      "quote_id": "q02274",
+      "person_signal": "non_base",
+      "note": "Parodic character speech."
+    },
+    {
+      "quote_id": "q02275",
+      "person_signal": "third",
+      "note": "Sustained third-person limited narration reports what reached Tyrion, what Cersei told him, and his response."
+    },
+    {
+      "quote_id": "q02276",
+      "person_signal": "non_base",
+      "note": "Gnomic statement."
+    },
+    {
+      "quote_id": "q02277",
+      "person_signal": "third",
+      "note": "Extended scene framing presents Bran and the other characters externally around their dialogue."
+    },
+    {
+      "quote_id": "q02278",
+      "person_signal": "unmarked",
+      "note": "A single external description of Roose Bolton is too brief to establish the controlling narrator by itself."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://gupea.ub.gu.se/server/api/core/bitstreams/e55380d6-f48f-4c10-81ba-0eb501aa5551/content",
+      "title": "Magic Kingdoms beyond Disneyland: Medievalism in George R.R. Martin's A Song of Ice and Fire and Mary Gentle's Ash: A Secret History",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This University of Gothenburg literature thesis includes A Dance with Dragons in its five-novel corpus and explicitly describes the novels as using multiple third-person limited perspectives."
+    },
+    {
+      "url": "https://www.ffos.unios.hr/wp-content/uploads/2021/09/Kick-03.pdf",
+      "title": "The Effects of Worldbuilding on Storytelling in George R.R. Martin's A Song of Ice and Fire",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly journal article describes the series' non-omniscient third-person narration and specifically notes that A Dance with Dragons switches among up to eighteen POV characters."
+    },
+    {
+      "url": "https://awoiaf.westeros.org/index.php/POV_Character",
+      "title": "POV character - A Wiki of Ice and Fire",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The specialist reference explicitly says Martin uses third-person narration, explains the one-POV-per-chapter structure, and lists all A Dance with Dragons POV chapters, including its prologue and epilogue."
+    }
+  ],
+  "search_log": [
+    "Searched for \"A Dance with Dragons\" with George R. R. Martin plus excerpt, first chapter, publisher, and sample chapter; opened the Penguin Random House book page and Martin's SpectraPulse announcement.",
+    "Searched for the title and series with point of view, third person, narrator, multiple POV, alternating chapters, and epilogue; opened the specialist POV reference and its A Dance with Dragons chapter list.",
+    "Searched academic and institutional sources for narrative perspective; opened the University of Gothenburg thesis and the University of Osijek journal article that explicitly describe the series' third-person structure.",
+    "Ran targeted searches for the apparent first-person passages \"I rose too high,\" \"Keep walking,\" \"I should have been with him,\" and \"my dragons are roaring\"; results identify them as character thoughts within Jon Connington, Daenerys, and Theon POV material rather than first-person chapters.",
+    "The Penguin Random House page displayed a Read Sample control but exposed no sample prose to the research browser; Martin's page only announced a convention-distributed sample, and Google Books results did not provide a usable sustained preview."
+  ],
+  "person_note": "The book uses multiple third-person-limited viewpoint characters, but changing focal characters does not change grammatical narrative person. The diagnostic quotes repeatedly frame Jon, Daenerys, Theon, Asha, Tyrion, Barristan, and others externally while entering their thoughts. Apparent first-person counterexamples are dialogue or free-direct/internal thoughts embedded inside those third-person chapters, not autonomous first-person sections. Two scholarly structural sources independently agree, and the specialist chapter inventory confirms that the prologue, epilogue, and interior chapters follow the same POV system. The publisher sample itself was inaccessible, but the combined quote evidence and whole-series structural evidence leave no material uncertainty.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.248720+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "adec2629720decdd9919b1b4f8756ce1a44e0b954652562501504423a2cb2796"
+  }
+}

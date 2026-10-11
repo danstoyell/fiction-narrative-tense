@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1976:6971",
+  "quotes": [
+    {
+      "quote_id": "q02148",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its generalizing language does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02149",
+      "person_signal": "non_base",
+      "note": "Direct speech; first- and second-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q02150",
+      "person_signal": "non_base",
+      "note": "Conor's first-person self-identification occurs in dialogue, not narration."
+    },
+    {
+      "quote_id": "q02151",
+      "person_signal": "non_base",
+      "note": "Dialogue; the spoken we does not identify the base narrative person."
+    },
+    {
+      "quote_id": "q02152",
+      "person_signal": "non_base",
+      "note": "Direct speech about Conor and the speaker; its we is local to the conversation."
+    },
+    {
+      "quote_id": "q02153",
+      "person_signal": "non_base",
+      "note": "Direct character speech containing repeated first-person pronouns."
+    },
+    {
+      "quote_id": "q02154",
+      "person_signal": "non_base",
+      "note": "Full-text context places this sentence inside Daddo Friel's quoted historical account, not the base narration; the event bucket appears misleading."
+    },
+    {
+      "quote_id": "q02155",
+      "person_signal": "non_base",
+      "note": "A clipped historical speech delivered by a character, so its narration is embedded."
+    },
+    {
+      "quote_id": "q02156",
+      "person_signal": "unmarked",
+      "note": "Descriptive narration within a first-person Seamus scene, but the selected sentence itself only refers to a group as they."
+    },
+    {
+      "quote_id": "q02157",
+      "person_signal": "unmarked",
+      "note": "Person-neutral metaphorical commentary about Belfast."
+    },
+    {
+      "quote_id": "q02158",
+      "person_signal": "non_base",
+      "note": "Direct speech; I and you belong to a character."
+    },
+    {
+      "quote_id": "q02159",
+      "person_signal": "non_base",
+      "note": "Direct speech with only a short attribution; this does not establish the surrounding narrator's person."
+    },
+    {
+      "quote_id": "q02160",
+      "person_signal": "unmarked",
+      "note": "Person-neutral passive narration that does not expose the narrator."
+    },
+    {
+      "quote_id": "q02161",
+      "person_signal": "third",
+      "note": "The action beat belongs to a sustained third-person scene following Brigid and Conor, as confirmed by the surrounding text."
+    },
+    {
+      "quote_id": "q02162",
+      "person_signal": "non_base",
+      "note": "Extended direct speech; its first- and second-person forms belong to the speaker."
+    },
+    {
+      "quote_id": "q02163",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02164",
+      "person_signal": "non_base",
+      "note": "An attributed Eugene O'Neill epigraph, not the novel's base narration."
+    },
+    {
+      "quote_id": "q02165",
+      "person_signal": "non_base",
+      "note": "Direct character speech; our, us, and you are local to the address."
+    },
+    {
+      "quote_id": "q02166",
+      "person_signal": "non_base",
+      "note": "The full text shows this is Tomas's spoken description of Finola, despite its event bucket."
+    },
+    {
+      "quote_id": "q02167",
+      "person_signal": "non_base",
+      "note": "Direct speech by Tomas; the attribution does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q02168",
+      "person_signal": "non_base",
+      "note": "Direct explanatory speech rather than base narration."
+    },
+    {
+      "quote_id": "q02169",
+      "person_signal": "unclear",
+      "note": "The fragment has lost its opening and quotation boundaries, preventing reliable attribution."
+    },
+    {
+      "quote_id": "q02170",
+      "person_signal": "third",
+      "note": "The full-text context places this portrait of Parnell in an extended nonparticipating historical and third-person sequence."
+    },
+    {
+      "quote_id": "q02171",
+      "person_signal": "first",
+      "note": "Seamus's base narration refers to himself and Conor as us and we."
+    },
+    {
+      "quote_id": "q02172",
+      "person_signal": "unmarked",
+      "note": "Full-text context places this prose in Seamus's first-person section, but the selected sentences themselves refer only to the women; the dialogue bucket appears erroneous."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.enotes.com/topics/leon-uris/criticism/uris-leon-1924",
+      "title": "Leon Uris Criticism: Uris, Leon",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A reprinted Washington Post review identifies a recurring first-person narrator who disappears for long stretches and later reappears, describing the book's point-of-view discontinuity across its full span."
+    },
+    {
+      "url": "https://dokumen.pub/leon-uris-a-critical-companion-0313302316-9780313302312.html",
+      "title": "Leon Uris: A Critical Companion",
+      "tier": "B",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Kathleen S. Cain's scholarly study states that Part One begins with eleven-year-old Seamus O'Neill's first-person narrative. This establishes the opening component only, not the whole-book configuration."
+    },
+    {
+      "url": "https://www.scribd.com/document/908802386/epdf-pub-trinity785d178af9eb750b96252ea65b0b34b360400",
+      "title": "Leon Uris - Trinity",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Searchable full text shows sustained Seamus first-person chapters and passages alternating with extended third-person scenes following Conor, the Hubbles, the Weeds, and other characters."
+    },
+    {
+      "url": "https://www.goodreads.com/book/show/42696.Trinity",
+      "title": "Trinity by Leon Uris",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "An explicit reader description independently reports that Conor is presented through a third-person narrator as well as occasional first-person accounts by Seamus O'Neill."
+    }
+  ],
+  "search_log": [
+    "Searched \"Leon Uris Trinity novel narrator first person point of view\", \"Trinity Leon Uris excerpt first chapter\", and \"Trinity Leon Uris narrated by Conor Larkin first person\".",
+    "Searched \"Trinity point of view Leon Uris\", \"Trinity first-person narrator Uris\", \"Trinity Uris third person narrator\", and BookRags-specific variants; no relevant BookRags guide was found.",
+    "Searched exact structural phrases including \"There is a first-person narrator\", \"first-person account Seamus O'Neill\", \"multiple narrators Trinity Leon Uris\", and \"Seamus O'Neill narrator Trinity Uris\".",
+    "Opened the eNotes criticism, Cain's scholarly companion, Goodreads description, and searchable full text; checked interior occurrences of sampled passages to distinguish Seamus narration, third-person scenes, dialogue, and embedded historical speech.",
+    "Google Books and Internet Archive verified the work and edition, but their accessible catalog or preview pages did not expose sufficient narrative prose to establish the whole-book person structure."
+  ],
+  "person_note": "The novel alternates between sustained first-person narration by Seamus O'Neill and sustained third-person narration following Conor and other characters when Seamus is absent. q02171 directly exposes Seamus's participating we, while q02161 and q02170 belong to extended third-person sequences confirmed from surrounding text. Several other apparent first-person examples are dialogue or Daddo Friel's embedded historical speech and therefore do not identify the base narrator. Confidence is medium because the quote sample is sparse and only one Tier A/B source supports the exact ALTERNATING label; the Tier B evidence for a first-person opening is component evidence and does not satisfy a second exact-label source.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_019",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T06:16:23.672570+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f02c0c9197e0b0eef1f9002f44fdc66e5248378e6fe2a53551f6c1b58abd3b7f"
+  }
+}

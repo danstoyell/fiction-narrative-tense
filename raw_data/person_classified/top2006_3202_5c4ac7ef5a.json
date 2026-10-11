@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:3202",
+  "quotes": [
+    {
+      "quote_id": "q00352",
+      "person_signal": "non_base",
+      "note": "General maxim; no story-specific narrator."
+    },
+    {
+      "quote_id": "q00353",
+      "person_signal": "non_base",
+      "note": "General assertion about science, not narrative-person evidence."
+    },
+    {
+      "quote_id": "q00354",
+      "person_signal": "non_base",
+      "note": "Generic statement about human ability."
+    },
+    {
+      "quote_id": "q00355",
+      "person_signal": "non_base",
+      "note": "Character addresses another person in dialogue; you is not base narration."
+    },
+    {
+      "quote_id": "q00356",
+      "person_signal": "non_base",
+      "note": "Aphoristic judgment, not diagnostic narration."
+    },
+    {
+      "quote_id": "q00357",
+      "person_signal": "third",
+      "note": "Connected narratorial account of a man's reputation and clients' responses supports external third-person narration, corroborated by web evidence."
+    },
+    {
+      "quote_id": "q00358",
+      "person_signal": "non_base",
+      "note": "General discussion of attitudes to innovation; we and you refer broadly to people."
+    },
+    {
+      "quote_id": "q00359",
+      "person_signal": "non_base",
+      "note": "We belongs to the doctor's explicit speech; the short attribution alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00360",
+      "person_signal": "unmarked",
+      "note": "Clipped report of an unspecified group's conclusions; they alone does not identify the narrator."
+    },
+    {
+      "quote_id": "q00361",
+      "person_signal": "non_base",
+      "note": "Expository argument about gene patents; no diagnostic story narration."
+    },
+    {
+      "quote_id": "q00362",
+      "person_signal": "unmarked",
+      "note": "Reports beliefs about a gene, but the isolated exposition does not establish a participating or external narrator."
+    },
+    {
+      "quote_id": "q00363",
+      "person_signal": "non_base",
+      "note": "Dialogue describing an animal; he refers to the animal, not the narrator."
+    },
+    {
+      "quote_id": "q00364",
+      "person_signal": "unmarked",
+      "note": "Evaluative passage potentially reflecting a character's perspective; naming Valdez does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q00365",
+      "person_signal": "non_base",
+      "note": "Historical information delivered in dialogue."
+    },
+    {
+      "quote_id": "q00366",
+      "person_signal": "non_base",
+      "note": "Generalized collective we in social commentary, not a participating story narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/next/excerpt",
+      "title": "Next by Michael Crichton | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-authorized Chapter One excerpt sustains external narration of Alex Burnet, including her worries and perceptions. First-person testimony is clearly marked dialogue."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-next/style.html",
+      "title": "Michael Crichton Writing Styles in Next",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies omniscient third-person narration and explains that the narrative moves among characters while revealing their thoughts and feelings."
+    },
+    {
+      "url": "https://michaelcrichton.com/works/next/",
+      "title": "Next - Michael Crichton",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Official site describes interconnected stories incorporating cultural fragments and distinguishes the concluding Author's Note from the novel. Establishes structural context, not narrative person independently."
+    }
+  ],
+  "search_log": [
+    "Searched: Michael Crichton Next excerpt.",
+    "Searched: Michael Crichton Next novel third person narration point of view.",
+    "Opened BookRags' explicit whole-book POV description and the official author's work page.",
+    "Bookreporter's authorized excerpt initially timed out; reopening succeeded and Chapter One was inspected.",
+    "Followed the official site's Author's Note link; it returned 404."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and moves among characters in third person. The authorized opening and q00357 agree, while the explicit whole-book description confirms that changing focal characters does not entail changing narrative person. Dialogue, generalized pronouns, and expository material provide no contrary base-narration evidence. Remaining uncertainty concerns the local attribution of clipped quotations; direct authorized prose coverage is limited to Chapter One.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_044",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T00:41:39.020173+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0671fb3f1cd87e5a00108b950a046510f388ad5f2747fe501afb3ba55d3e6b9b"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1957:6200",
+  "quotes": [
+    {
+      "quote_id": "q00147",
+      "person_signal": "first",
+      "note": "John narrates his own predicament as \u201cI\u201d outside speech."
+    },
+    {
+      "quote_id": "q00148",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q00149",
+      "person_signal": "unmarked",
+      "note": "Narratorial description without a participating-narrator marker; compatible with first-person narration but not independently diagnostic."
+    },
+    {
+      "quote_id": "q00150",
+      "person_signal": "first",
+      "note": "The participating narrator recounts his realization, travels, intentions, and decision as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00151",
+      "person_signal": "non_base",
+      "note": "Character speech rather than controlling narration."
+    },
+    {
+      "quote_id": "q00152",
+      "person_signal": "first",
+      "note": "The narrator describes his own actions and companion using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00153",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using universal \u201cone,\u201d not story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00154",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor without a narratorial participant."
+    },
+    {
+      "quote_id": "q00155",
+      "person_signal": "first",
+      "note": "The narrator reflects on his own study, teaching, and relationship to France as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00156",
+      "person_signal": "first",
+      "note": "Despite embedded dialogue, the surrounding scene is explicitly framed by the participating narrator\u2019s \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q00157",
+      "person_signal": "first",
+      "note": "Although clipped, the event description directs the smell toward the narratorial \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q00158",
+      "person_signal": "non_base",
+      "note": "Character speech; \u201cwe\u201d is local dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q00159",
+      "person_signal": "first",
+      "note": "The narrator reports his confusion and asks himself what he is doing there."
+    },
+    {
+      "quote_id": "q00160",
+      "person_signal": "non_base",
+      "note": "Character speech addressing another person as \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q00161",
+      "person_signal": "non_base",
+      "note": "Character speech; the generic address does not establish narrator person."
+    },
+    {
+      "quote_id": "q00162",
+      "person_signal": "non_base",
+      "note": "Clipped character speech containing generic \u201cyou,\u201d not base narration."
+    },
+    {
+      "quote_id": "q00163",
+      "person_signal": "first",
+      "note": "The narrator directly reports his own thought as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00164",
+      "person_signal": "first",
+      "note": "Repeated \u201cI\u201d reports the controlling narrator\u2019s uncertainty and reflection."
+    },
+    {
+      "quote_id": "q00165",
+      "person_signal": "first",
+      "note": "The scene places the cattle beside the narratorial \u201cme,\u201d exposing a participating narrator."
+    },
+    {
+      "quote_id": "q00166",
+      "person_signal": "unmarked",
+      "note": "Third-person references occur within descriptive questions but do not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00167",
+      "person_signal": "unmarked",
+      "note": "A clipped third-person description of a man is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q00168",
+      "person_signal": "unclear",
+      "note": "The subject and surrounding narration are lost in this short fragment."
+    },
+    {
+      "quote_id": "q00169",
+      "person_signal": "unclear",
+      "note": "The quotation is truncated before completing its description, leaving local structure unresolved."
+    },
+    {
+      "quote_id": "q00170",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports his own thought as \u201cI.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.dumaurier.org/menu_page.php?id=109",
+      "title": "Review of The Scapegoat - Laura Varnam",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This estate-hosted literary review identifies the Englishman John as the novel\u2019s narrator, quotes his first-person opening, and follows the same narrator through the final chapter."
+    },
+    {
+      "url": "https://spectrum.library.concordia.ca/995320/1/Denhez_MA_S2024.pdf",
+      "title": "The Art of Uncertainty: Narrative Strategies in the Fiction of Daphne du Maurier",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Caroline S. Denhez\u2019s Concordia University thesis explicitly classifies The Scapegoat among novels using a masculine first-person narrator and identifies John as its narrator."
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Sue-Zlosnik-18242507/publications/5",
+      "title": "Foreign Affairs, by Avril Horner and Sue Zlosnik",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The displayed academic chapter states explicitly that The Scapegoat is a first-person narrative with a male narrator and identifies that narrator as John."
+    },
+    {
+      "url": "https://books.google.com/books/about/The_Scapegoat.html?id=cf4-iVG03pEC",
+      "title": "The Scapegoat - Daphne du Maurier - Google Books",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher-authorized book record displays a short first-person passage in which John encounters his double; its brevity limits it to corroborating the opening."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Scapegoat\u201d with Daphne du Maurier plus excerpt, first chapter, narrator, point of view, and first person; opened the Google Books record and the Virago publisher page.",
+    "The Virago \u201cRead Excerpt\u201d control resolved back to the product page, so it did not provide a sustained excerpt usable as Tier A evidence.",
+    "Opened Laura Varnam\u2019s full estate-hosted review, which identifies John as narrator and discusses the narrative from its opening through its ending.",
+    "Searched scholarly sources and opened Caroline S. Denhez\u2019s Concordia University thesis and the Horner\u2013Zlosnik chapter listing, both explicitly describing the novel\u2019s first-person male narration.",
+    "Ran targeted searches for alternating narration, multiple narrators, epistolary form, and frame narrative; found no credible evidence of a sustained change away from John\u2019s first-person narration."
+  ],
+  "person_note": "The event quotations repeatedly expose John as the participating \u201cI\u201d narrator across action, reflection, travel, and ch\u00e2teau scenes. Dialogue and gnomic quotations are local material, while third-person descriptions without a narratorial marker are unmarked rather than evidence for third person; two heavily clipped fragments remain unclear. Independent Tier B structural sources explicitly describe the whole novel as a first-person narrative told by John, and the estate-hosted review traces that narrator from the opening through the ending. No credible alternating, framed, or epistolary structure was found. The only remaining limitation is the lack of an accessible sustained publisher excerpt, but the broad quote evidence and multiple whole-book scholarly descriptions independently agree.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_010",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:39:15.261465+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8a4ebc3b6a7e1f7696fe8d44c8c7450b670724c3c99332e365dbd7e25cdb249c"
+  }
+}

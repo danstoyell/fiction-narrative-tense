@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:5955",
+  "quotes": [
+    {
+      "quote_id": "q02551",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its implied you does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02552",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first-person plurals belong to the speaker."
+    },
+    {
+      "quote_id": "q02553",
+      "person_signal": "non_base",
+      "note": "Direct character speech about Poe."
+    },
+    {
+      "quote_id": "q02554",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q02555",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02556",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q02557",
+      "person_signal": "non_base",
+      "note": "Isolated first-person character voice, apparently clipped speech or thought, not the established base narration."
+    },
+    {
+      "quote_id": "q02558",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech."
+    },
+    {
+      "quote_id": "q02559",
+      "person_signal": "non_base",
+      "note": "Quoted maxim in dialogue."
+    },
+    {
+      "quote_id": "q02560",
+      "person_signal": "non_base",
+      "note": "The reporting tag introduces a character's assertion; the passage is not diagnostic base narration."
+    },
+    {
+      "quote_id": "q02561",
+      "person_signal": "non_base",
+      "note": "First-person beliefs occur entirely in attributed dialogue."
+    },
+    {
+      "quote_id": "q02562",
+      "person_signal": "non_base",
+      "note": "Generic you occurs in character speech."
+    },
+    {
+      "quote_id": "q02563",
+      "person_signal": "non_base",
+      "note": "Question spoken by a character."
+    },
+    {
+      "quote_id": "q02564",
+      "person_signal": "third",
+      "note": "After Holly's speech, an external narrator names her, reports her emotion, and renders her reflection in third-person context."
+    },
+    {
+      "quote_id": "q02565",
+      "person_signal": "unmarked",
+      "note": "Narratorial aphorism lacks a participant or external character frame sufficient to establish person."
+    },
+    {
+      "quote_id": "q02566",
+      "person_signal": "non_base",
+      "note": "Locally attributed reflection by Alec, not a separate controlling narrator."
+    },
+    {
+      "quote_id": "q02567",
+      "person_signal": "non_base",
+      "note": "Research identifies this as Rainwater's spoken line; the first person is dialogue despite the event bucket."
+    },
+    {
+      "quote_id": "q02568",
+      "person_signal": "non_base",
+      "note": "First-person direct speech."
+    },
+    {
+      "quote_id": "q02569",
+      "person_signal": "unmarked",
+      "note": "Likely free-indirect commentary, but clipping removes the character and narratorial frame."
+    },
+    {
+      "quote_id": "q02570",
+      "person_signal": "non_base",
+      "note": "Paratextual Colin Wilson epigraph."
+    },
+    {
+      "quote_id": "q02571",
+      "person_signal": "non_base",
+      "note": "Character discourse rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q02572",
+      "person_signal": "non_base",
+      "note": "An explicitly attributed recollection of Jeannie's speech."
+    },
+    {
+      "quote_id": "q02573",
+      "person_signal": "non_base",
+      "note": "First-person direct speech."
+    },
+    {
+      "quote_id": "q02574",
+      "person_signal": "non_base",
+      "note": "Generic second-person phrasing occurs in character discourse, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02575",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q02576",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrative framing."
+    },
+    {
+      "quote_id": "q02577",
+      "person_signal": "non_base",
+      "note": "Character discourse using generic person and you."
+    },
+    {
+      "quote_id": "q02578",
+      "person_signal": "unmarked",
+      "note": "Brief free-indirect possibility without enough framing to identify narrator person."
+    },
+    {
+      "quote_id": "q02579",
+      "person_signal": "unmarked",
+      "note": "A single comparison involving a third-person woman does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02580",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation delivered in dialogue."
+    },
+    {
+      "quote_id": "q02581",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim, not diagnostic narration."
+    },
+    {
+      "quote_id": "q02582",
+      "person_signal": "third",
+      "note": "External narration describes Terry's action and interprets his look, followed by locally represented thought."
+    },
+    {
+      "quote_id": "q02583",
+      "person_signal": "unmarked",
+      "note": "A single they-centered sentence lacks enough surrounding frame to prove narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q02584",
+      "person_signal": "non_base",
+      "note": "Local first-person speech or thought, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q02585",
+      "person_signal": "non_base",
+      "note": "First-person and second-person forms occur in dialogue."
+    },
+    {
+      "quote_id": "q02586",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a male character's perception and explicitly attributes thought to him."
+    },
+    {
+      "quote_id": "q02587",
+      "person_signal": "non_base",
+      "note": "Speech explicitly attributed to she."
+    },
+    {
+      "quote_id": "q02588",
+      "person_signal": "unmarked",
+      "note": "The clipped continuation follows an unnamed he but does not independently establish the narrator's status."
+    },
+    {
+      "quote_id": "q02589",
+      "person_signal": "non_base",
+      "note": "First-person account within direct dialogue."
+    },
+    {
+      "quote_id": "q02590",
+      "person_signal": "third",
+      "note": "External narration sustains a sequence of her actions and adds narratorial/free-indirect commentary."
+    },
+    {
+      "quote_id": "q02591",
+      "person_signal": "third",
+      "note": "External narration reports his bodily state and renders his internal questions and conclusions."
+    },
+    {
+      "quote_id": "q02592",
+      "person_signal": "unmarked",
+      "note": "A lone he-centered assertion is insufficient to distinguish third-person narration from locally framed discourse."
+    },
+    {
+      "quote_id": "q02593",
+      "person_signal": "unmarked",
+      "note": "A single statement about Morris Bellamy does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q02594",
+      "person_signal": "non_base",
+      "note": "Explicitly subjective character speech."
+    },
+    {
+      "quote_id": "q02595",
+      "person_signal": "third",
+      "note": "The narrator attributes Gold's earlier speech, reports what Terry relied on, and comments externally on the outcome."
+    },
+    {
+      "quote_id": "q02596",
+      "person_signal": "non_base",
+      "note": "First-person opinions in dialogue."
+    },
+    {
+      "quote_id": "q02597",
+      "person_signal": "non_base",
+      "note": "First-person-plural explanation spoken by a character."
+    },
+    {
+      "quote_id": "q02598",
+      "person_signal": "non_base",
+      "note": "First-person recollection and generic you occur in dialogue."
+    },
+    {
+      "quote_id": "q02599",
+      "person_signal": "non_base",
+      "note": "Generic you appears in a spoken maxim."
+    },
+    {
+      "quote_id": "q02600",
+      "person_signal": "unmarked",
+      "note": "A brief figurative description of one third-person character is not sufficient by itself to establish base person."
+    },
+    {
+      "quote_id": "q02601",
+      "person_signal": "unclear",
+      "note": "The fragment lacks enough syntax and narrative framing for person attribution."
+    },
+    {
+      "quote_id": "q02602",
+      "person_signal": "non_base",
+      "note": "First-person-plural question in dialogue."
+    },
+    {
+      "quote_id": "q02603",
+      "person_signal": "unmarked",
+      "note": "Narratorial setting generalization contains no participating narrator and too little scene context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q02604",
+      "person_signal": "non_base",
+      "note": "Generic you occurs in character speech."
+    },
+    {
+      "quote_id": "q02605",
+      "person_signal": "third",
+      "note": "External narration names Holly and reports how the smell seemed to her."
+    },
+    {
+      "quote_id": "q02606",
+      "person_signal": "non_base",
+      "note": "Embedded biblical speech and generic address, not the base narrator."
+    },
+    {
+      "quote_id": "q02607",
+      "person_signal": "non_base",
+      "note": "Direct questions spoken to other characters."
+    },
+    {
+      "quote_id": "q02608",
+      "person_signal": "unclear",
+      "note": "Isolated question has no speech or narration frame."
+    },
+    {
+      "quote_id": "q02609",
+      "person_signal": "non_base",
+      "note": "Direct speech plus a locally attributed struggle not to shout; the quoted pronouns are character language."
+    },
+    {
+      "quote_id": "q02610",
+      "person_signal": "third",
+      "note": "External narration names Ralph, reports his perception, and gives his internal speculation about another man."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://stephenkingbooks.co.uk/2018/01/31/read-extract-stephen-kings-new-novel-outsider/",
+      "title": "Read an extract from Stephen King\u2019s new novel The Outsider",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The official Hodder/Stephen King Books extract sustains external narration of Marcy's actions and inability to speak, distinct from the embedded interview and dialogue."
+    },
+    {
+      "url": "https://www.simonandschuster.net/books/The-Outsider/Stephen-King/9781501180989",
+      "title": "The Outsider: A Novel \u2014 Official Publisher Page",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The official publisher's excerpt from section 5 narrates Terry Maitland and the young players externally in sustained third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-outsider-a-novel/styles.html",
+      "title": "Stephen King Writing Styles in The Outsider: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly says the majority of the novel uses a third-person omniscient narrator who follows multiple characters, including Holly and Ralph."
+    }
+  ],
+  "search_log": [
+    "Searched \"Stephen King The Outsider official excerpt chapter\" and opened the official Hodder/Stephen King Books extract.",
+    "Searched \"The Outsider Stephen King point of view third person narrator\" and opened the BookRags whole-book point-of-view description.",
+    "Searched \"The Outsider Stephen King excerpt Ralph Anderson Terry Maitland\" and opened the Simon & Schuster publisher excerpt.",
+    "Searched \"The Outsider Stephen King multiple narrators point of view\"; found no credible evidence of sustained first- or second-person base sections.",
+    "Searched exact text for the isolated first-person event quotes; results identify \"My tongue runs like a supermarket conveyor belt on payday\" as Rainwater's speech, while other isolated lines yielded no evidence of a first-person controlling narrator.",
+    "A Penguin PDF result was inspected and rejected because it was Albert Camus's different novel titled The Outsider."
+  ],
+  "person_note": "The quotes repeatedly expose a nonparticipating narrator who moves among Ralph, Holly, Terry, Marcy, and other characters and reports their perceptions or thoughts in third person. Authorized excerpts independently show the same third-person base, while the whole-book study guide explicitly describes omniscient third-person narration across multiple characters. First-person forms in the quote set occur in dialogue, attributed reflection, or clipped local thought\u2014including Rainwater's verified spoken line\u2014and therefore do not constitute sustained first-person sections. No credible evidence of alternating or second-person base narration was found; the principal limitation is that the authorized excerpts cover selected sections rather than the entire novel.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_064",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T21:37:14.222141+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4d97995ff5740512f12a8380a18318c132b4f72e03a29d56b08b2223a224d9a2"
+  }
+}

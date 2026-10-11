@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:THE FURY|Alex Michaelides",
+  "quotes": [
+    {
+      "quote_id": "q09490",
+      "person_signal": "non_base",
+      "note": "A universal aphorism using inclusive 'we'; it does not establish the story's narrating person."
+    },
+    {
+      "quote_id": "q09491",
+      "person_signal": "first",
+      "note": "The participating narrator's present reflection uses 'I know' outside speech."
+    },
+    {
+      "quote_id": "q09492",
+      "person_signal": "first",
+      "note": "The narrator recounts a personal experience through repeated story-specific 'I' statements."
+    },
+    {
+      "quote_id": "q09493",
+      "person_signal": "non_base",
+      "note": "A generalized reflection about human experience, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q09494",
+      "person_signal": "non_base",
+      "note": "The generic 'you' belongs to an aphorism, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09495",
+      "person_signal": "non_base",
+      "note": "Although introduced with 'I often think,' this is an aphoristic meditation rather than a story event."
+    },
+    {
+      "quote_id": "q09496",
+      "person_signal": "first",
+      "note": "The controlling narrator refers to 'the kid in me' and recalls Mariana's embedded speech; the surrounding narration is first person."
+    },
+    {
+      "quote_id": "q09497",
+      "person_signal": "first",
+      "note": "The narrator describes his current personal practice with 'I' and 'my own experience.'"
+    },
+    {
+      "quote_id": "q09498",
+      "person_signal": "non_base",
+      "note": "The narrator's generalized advice directly addresses a hypothetical young reader; 'you' is not a protagonist."
+    },
+    {
+      "quote_id": "q09499",
+      "person_signal": "non_base",
+      "note": "Inclusive 'we' supports a general claim about human storytelling, not a narrated event."
+    },
+    {
+      "quote_id": "q09500",
+      "person_signal": "unmarked",
+      "note": "Possible base narration introduces Mr. Levy's quoted answer, but the passage does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q09501",
+      "person_signal": "non_base",
+      "note": "Unattributed conversational speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q09502",
+      "person_signal": "non_base",
+      "note": "Mr. Levy's attributed speech is local dialogue and the attribution does not expose narratorial person."
+    },
+    {
+      "quote_id": "q09503",
+      "person_signal": "first",
+      "note": "Sustained autobiographical recollection repeatedly identifies the participating narrator as 'I' and 'me.'"
+    },
+    {
+      "quote_id": "q09504",
+      "person_signal": "non_base",
+      "note": "A brief 'I read' setup introduces a general theological proposition rather than story narration."
+    },
+    {
+      "quote_id": "q09505",
+      "person_signal": "non_base",
+      "note": "The first-person parenthetical qualifies a general claim about creativity and is not diagnostic narrative action."
+    },
+    {
+      "quote_id": "q09506",
+      "person_signal": "non_base",
+      "note": "Mariana's attributed speech uses generalized 'we' and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q09507",
+      "person_signal": "first",
+      "note": "The narrator gives a story-specific first-person description of his age, appearance, and feelings."
+    },
+    {
+      "quote_id": "q09508",
+      "person_signal": "non_base",
+      "note": "A generalized reflection on love and happiness is not diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q09509",
+      "person_signal": "first",
+      "note": "The narrator recounts his own past feelings and childhood in sustained first-person narration."
+    },
+    {
+      "quote_id": "q09510",
+      "person_signal": "non_base",
+      "note": "A conversational utterance with 'you' and 'me' is dialogue, not second-person base narration."
+    },
+    {
+      "quote_id": "q09511",
+      "person_signal": "unclear",
+      "note": "The clipped rhetorical question lacks enough context to distinguish narratorial commentary from speech or thought."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://celadonbooks.com/the-fury-excerpt-facebook/",
+      "title": "The Fury \u2013 Excerpt \u2013 Facebook - Celadon Books",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The publisher-authorized prologue has an 'I' narrator who identifies himself as one of seven people on the island and frames the ensuing externally rendered scenes as his reconstruction."
+    },
+    {
+      "url": "https://celadonbooks.com/wp-content/uploads/2024/01/9781250758989RGG.pdf",
+      "title": "The Fury Book Club Kit: An Interview with Alex Michaelides",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In the publisher's author interview, Michaelides says Elliot narrates the novel and that he rewrote it from the start in Elliot's first-person voice."
+    },
+    {
+      "url": "https://www.audible.com/blog/alex-michaelides-the-fury-audio-interview",
+      "title": "Alex Michaelides ups the ante on the classic whodunit with \u201cThe Fury\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The interviewer identifies Elliot Chase as the first-person narrator, and Michaelides confirms that he rewrote the whole book in first person with Elliot telling the tale."
+    },
+    {
+      "url": "https://www.supersummary.com/the-fury/prologue-act-1-summary/",
+      "title": "The Fury Prologue-Act 1 Summary & Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The structural analysis identifies the novel as a first-person narrative throughout and explains that Elliot imaginatively relays scenes, thoughts, and events he did not directly witness."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Fury\" \"Alex Michaelides\" excerpt Elliot narrator first person.",
+    "Searched: \"The Fury\" Alex Michaelides point of view narrator; opened the Audible author interview and a detailed structural analysis.",
+    "Searched: site:penguinrandomhouse.com/books \"The Fury\" Alex Michaelides excerpt; results were catalog or unrelated-title material rather than a usable excerpt.",
+    "Searched: site:celadonbooks.com \"The Fury\" excerpt Alex Michaelides Elliot; opened Celadon Books' authorized prologue excerpt.",
+    "Searched: site:read.macmillan.com \"The Fury\" Alex Michaelides excerpt and \"The Fury\" Alex Michaelides \"first chapter\"; located the publisher book-club kit containing Michaelides's whole-book account of the narration.",
+    "Searched for reviews describing Elliot Chase as narrator and opened the Cyprus Mail review as corroboration, but relied on the stronger publisher, author-interview, and structural sources in the evidence list."
+  ],
+  "person_note": "The event quotations repeatedly expose Elliot's participating first-person narration, while dialogue and aphoristic uses of 'we' or 'you' are local or generalized rather than competing narrative persons. The authorized opening briefly renders Lana and Kate in third person, but Elliot explicitly frames the book as his reconstruction; both Michaelides and the structural analysis confirm that the whole novel was written in Elliot's first-person voice, including scenes he did not witness. There is therefore no sustained autonomous third-person strand and no material remaining uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_087",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:27:16.440509+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "932d88dcebbef31141a6bb4d787edc8ec0f694530b689699a4637acbcba323e1"
+  }
+}

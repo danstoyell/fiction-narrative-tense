@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1966:7095",
+  "quotes": [
+    {
+      "quote_id": "q01397",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within character dialogue, not base narration."
+    },
+    {
+      "quote_id": "q01398",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; \u201cwe\u201d is universal rather than a participating narrator."
+    },
+    {
+      "quote_id": "q01399",
+      "person_signal": "non_base",
+      "note": "Character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01400",
+      "person_signal": "unmarked",
+      "note": "Generalized narratorial summary uses nonspecific people/they and does not independently establish person."
+    },
+    {
+      "quote_id": "q01401",
+      "person_signal": "non_base",
+      "note": "Imperative gnomic advice, not story-specific narration."
+    },
+    {
+      "quote_id": "q01402",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q01403",
+      "person_signal": "non_base",
+      "note": "Character dialogue with no outside narratorial beat."
+    },
+    {
+      "quote_id": "q01404",
+      "person_signal": "non_base",
+      "note": "Generic advice spoken by a character."
+    },
+    {
+      "quote_id": "q01405",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01406",
+      "person_signal": "non_base",
+      "note": "The generic \u201cyou\u201d occurs in character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01407",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection contains no diagnostic narrator pronoun or participating frame."
+    },
+    {
+      "quote_id": "q01408",
+      "person_signal": "non_base",
+      "note": "Paratextual fragment, not base story narration."
+    },
+    {
+      "quote_id": "q01409",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d appears within dialogue."
+    },
+    {
+      "quote_id": "q01410",
+      "person_signal": "third",
+      "note": "A sustained external \u201cshe\u201d passage renders a character\u2019s experience without a participating narrator."
+    },
+    {
+      "quote_id": "q01411",
+      "person_signal": "non_base",
+      "note": "Gnomic observation rather than scene narration."
+    },
+    {
+      "quote_id": "q01412",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both boundaries, preventing secure attribution of its isolated \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q01413",
+      "person_signal": "non_base",
+      "note": "General maxim, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q01414",
+      "person_signal": "non_base",
+      "note": "First-person recollection occurs in character dialogue."
+    },
+    {
+      "quote_id": "q01415",
+      "person_signal": "non_base",
+      "note": "Generic second-person language occurs within character speech."
+    },
+    {
+      "quote_id": "q01416",
+      "person_signal": "non_base",
+      "note": "Direct advice spoken by a character."
+    },
+    {
+      "quote_id": "q01417",
+      "person_signal": "unmarked",
+      "note": "Generic/free-indirect \u201cyou\u201d describes giving a party and is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01418",
+      "person_signal": "non_base",
+      "note": "Character speech, despite the clipped opening."
+    },
+    {
+      "quote_id": "q01419",
+      "person_signal": "non_base",
+      "note": "Dialogue or local rhetorical thought without a diagnostic narratorial frame."
+    },
+    {
+      "quote_id": "q01420",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed Helen Lawson dialogue."
+    },
+    {
+      "quote_id": "q01421",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed Helen Lawson dialogue."
+    },
+    {
+      "quote_id": "q01422",
+      "person_signal": "unmarked",
+      "note": "A generalized statement about girls does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q01423",
+      "person_signal": "third",
+      "note": "Extended scene narration externally describes the girl while filtering attention through Anne, with no participating narrator."
+    },
+    {
+      "quote_id": "q01424",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d occurs in character dialogue."
+    },
+    {
+      "quote_id": "q01425",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization about celebrities contains no diagnostic narrator position."
+    },
+    {
+      "quote_id": "q01426",
+      "person_signal": "unmarked",
+      "note": "A single he/her sentence is too locally limited to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q01427",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in character dialogue."
+    },
+    {
+      "quote_id": "q01428",
+      "person_signal": "unmarked",
+      "note": "An isolated \u201cshe\u201d sentence about a character\u2019s state is insufficient on its own."
+    },
+    {
+      "quote_id": "q01429",
+      "person_signal": "unmarked",
+      "note": "Impersonal narratorial observation contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q01430",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d appears in speech addressed to Anne."
+    },
+    {
+      "quote_id": "q01431",
+      "person_signal": "non_base",
+      "note": "First-person request occurs in dialogue."
+    },
+    {
+      "quote_id": "q01432",
+      "person_signal": "non_base",
+      "note": "First-person medical disclosure occurs in dialogue."
+    },
+    {
+      "quote_id": "q01433",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q01434",
+      "person_signal": "non_base",
+      "note": "Gnomic use of generic \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01435",
+      "person_signal": "non_base",
+      "note": "First-person statement occurs in dialogue."
+    },
+    {
+      "quote_id": "q01436",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur within character dialogue."
+    },
+    {
+      "quote_id": "q01437",
+      "person_signal": "non_base",
+      "note": "Extended character speech, not base narration."
+    },
+    {
+      "quote_id": "q01438",
+      "person_signal": "non_base",
+      "note": "First-person statement occurs in dialogue."
+    },
+    {
+      "quote_id": "q01439",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, the outside attribution \u201cshe prayed\u201d and surrounding remembered scene expose third-person base narration; the I/You prayer is local thought."
+    },
+    {
+      "quote_id": "q01440",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows \u201cshe\u201d and \u201cthey\u201d without a participating narrator."
+    },
+    {
+      "quote_id": "q01441",
+      "person_signal": "unmarked",
+      "note": "The \u201cyou\u201d is generalized/free-indirect reflection about New York, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q01442",
+      "person_signal": "third",
+      "note": "After direct speech, the outside narration repeatedly renders the character as \u201cshe\u201d; the dialogue bucket includes a diagnostic third-person beat."
+    },
+    {
+      "quote_id": "q01443",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d occurs in character dialogue."
+    },
+    {
+      "quote_id": "q01444",
+      "person_signal": "unclear",
+      "note": "The excerpt begins mid-sentence and ends at a broken dialogue boundary, so its isolated \u201cshe\u201d is not securely diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://groveatlantic.com/book/valley-of-the-dolls/",
+      "title": "Valley of the Dolls | Grove Atlantic",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s sustained opening excerpt narrates Anne and then Henry externally as she/he while directly presenting their thoughts, establishing third-person narration in the opening section."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-valley-of-the-dolls/style.html",
+      "title": "Jacqueline Susann Writing Styles in Valley of the Dolls",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly states that all narration is third person and that the same narrative voice follows Anne, Neely, and Jennifer across their chapters."
+    },
+    {
+      "url": "https://www.onceuponabookcase.co.uk/2016/07/valley-of-dolls-by-jacqueline-susann.html",
+      "title": "Valley of the Dolls by Jacqueline Susann Blog Tour: An Excerpt",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An interior Jennifer excerpt sustains third-person narration and close access to Jennifer\u2019s thoughts, corroborating the form outside the Anne-focused opening."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cValley of the Dolls Jacqueline Susann excerpt Anne third person\u201d and opened the authorized Grove Atlantic/NPR opening excerpt.",
+    "Searched \u201cValley of the Dolls third person narrator point of view\u201d and opened BookRags\u2019 whole-book point-of-view analysis.",
+    "Searched for Neely and Jennifer extracts and opened an interior Jennifer passage from the 50th-anniversary blog tour.",
+    "Checked Google Books, Open Library/Internet Archive, publisher, and general excerpt results; catalog or inaccessible-preview pages were useful for discovery but not used as person evidence.",
+    "Discarded plot-summary grammar, film/miniseries results, and an unauthorized full-text site as nondiagnostic or unsuitable evidence."
+  ],
+  "person_note": "The controlling narration is third person, with focalization shifting among Anne, Neely, and Jennifer rather than a change in grammatical person. Extended Goodreads passages independently show external she-based scene narration and close access to characters\u2019 perceptions; the publisher opening and an interior Jennifer extract agree, while the whole-book POV description explicitly says all narration remains third person. First-person and second-person forms in the quote set are dialogue, prayer, maxims, or generic/free-indirect \u201cyou,\u201d not autonomous base sections. Some popular quotes are clipped or too aphoristic to diagnose individually, but no credible evidence suggests first-person, second-person, or alternating base narration.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_014",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T17:02:07.065818+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "78822d2591da4ff11c5361fa56130d9698958819edc5c60af7f56858350532bc"
+  }
+}

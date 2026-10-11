@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:KATABASIS|R.F. Kuang",
+  "quotes": [
+    {
+      "quote_id": "q10560",
+      "person_signal": "unmarked",
+      "note": "Base narration with generic you; it does not cast a protagonist as second person."
+    },
+    {
+      "quote_id": "q10561",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q10562",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question; its reflexive language does not identify the narrator."
+    },
+    {
+      "quote_id": "q10563",
+      "person_signal": "third",
+      "note": "External narration frames a female character's explicitly quoted first-person thought."
+    },
+    {
+      "quote_id": "q10564",
+      "person_signal": "third",
+      "note": "Sustained close-third narration presents her anxiety and perceptions externally."
+    },
+    {
+      "quote_id": "q10565",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the short speech attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q10566",
+      "person_signal": "third",
+      "note": "Close-third narration externally describes her memory and imagination."
+    },
+    {
+      "quote_id": "q10567",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q10568",
+      "person_signal": "third",
+      "note": "The narrator refers to Alice externally while conveying an ironic assessment of her condition."
+    },
+    {
+      "quote_id": "q10569",
+      "person_signal": "third",
+      "note": "Close-third narration refers to Alice as her and summarizes her experience."
+    },
+    {
+      "quote_id": "q10570",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; you is direct address."
+    },
+    {
+      "quote_id": "q10571",
+      "person_signal": "unclear",
+      "note": "An isolated first-person sentence with no surviving attribution or quotation boundary; it cannot be assigned to base narration responsibly."
+    },
+    {
+      "quote_id": "q10572",
+      "person_signal": "third",
+      "note": "Sustained close-third narration presents a female character's response to death."
+    },
+    {
+      "quote_id": "q10573",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Alice; you identifies the addressee, not a second-person protagonist."
+    },
+    {
+      "quote_id": "q10574",
+      "person_signal": "unclear",
+      "note": "First-person language is diagnostic only if narratorial, but the clipped quote lacks attribution and conflicts with the established close-third base."
+    },
+    {
+      "quote_id": "q10575",
+      "person_signal": "third",
+      "note": "Close-third narration reports her vocation and uses you only generically within free-indirect reflection."
+    },
+    {
+      "quote_id": "q10576",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection using universal you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q10577",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization without narrator-person evidence."
+    },
+    {
+      "quote_id": "q10578",
+      "person_signal": "non_base",
+      "note": "Gnomic philosophical speculation without a participating narrator."
+    },
+    {
+      "quote_id": "q10579",
+      "person_signal": "non_base",
+      "note": "Character speech and reaction, not base-narrator person evidence."
+    },
+    {
+      "quote_id": "q10580",
+      "person_signal": "non_base",
+      "note": "Extended character speech; you is generalized or addressed within the speech."
+    },
+    {
+      "quote_id": "q10581",
+      "person_signal": "non_base",
+      "note": "Gnomic exposition; you is generic and does not establish narrative person."
+    },
+    {
+      "quote_id": "q10582",
+      "person_signal": "third",
+      "note": "Close-third narration describes her safety and emotional perception externally."
+    },
+    {
+      "quote_id": "q10583",
+      "person_signal": "non_base",
+      "note": "Dialogue; repeated you is direct address."
+    },
+    {
+      "quote_id": "q10584",
+      "person_signal": "third",
+      "note": "Sustained narration names Alice and reports her ambitions and internal stakes in third person."
+    },
+    {
+      "quote_id": "q10585",
+      "person_signal": "third",
+      "note": "Close-third narration reports what she thought she had learned to embody."
+    },
+    {
+      "quote_id": "q10586",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative passage using universal you rather than story-specific second person."
+    },
+    {
+      "quote_id": "q10587",
+      "person_signal": "unmarked",
+      "note": "Generic you occurs within Alice's third-person interior context but does not itself expose narrative person."
+    },
+    {
+      "quote_id": "q10588",
+      "person_signal": "unmarked",
+      "note": "A short statement about she is compatible with several larger narrative configurations and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q10589",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization about hauntings contains no narrator-participation evidence."
+    },
+    {
+      "quote_id": "q10590",
+      "person_signal": "non_base",
+      "note": "Direct speech without diagnostic narration."
+    },
+    {
+      "quote_id": "q10591",
+      "person_signal": "third",
+      "note": "Sustained close-third narration alternates external she references with Alice's marked thought."
+    },
+    {
+      "quote_id": "q10592",
+      "person_signal": "third",
+      "note": "Extended close-third passage presents her bodily experience and self-conception externally."
+    },
+    {
+      "quote_id": "q10593",
+      "person_signal": "non_base",
+      "note": "Elspeth's extended first-person speech is explicitly attributed and is not the base narrator."
+    },
+    {
+      "quote_id": "q10594",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization about academia contains no grammatical-person evidence."
+    },
+    {
+      "quote_id": "q10595",
+      "person_signal": "unmarked",
+      "note": "A hypothetical quotation and generalized they do not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q10596",
+      "person_signal": "unmarked",
+      "note": "Narratorial generalization contains no participating or externally named story character."
+    },
+    {
+      "quote_id": "q10597",
+      "person_signal": "non_base",
+      "note": "Gnomic questions use generic you and do not establish second-person narration."
+    },
+    {
+      "quote_id": "q10598",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without narrator-person evidence."
+    },
+    {
+      "quote_id": "q10599",
+      "person_signal": "third",
+      "note": "Sustained close-third narration names Alice and describes her bodily and emotional response."
+    },
+    {
+      "quote_id": "q10600",
+      "person_signal": "third",
+      "note": "Close-third narration reports her hurt and self-conception from outside the story."
+    },
+    {
+      "quote_id": "q10601",
+      "person_signal": "unmarked",
+      "note": "The brief she/him statement alone is not enough to establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q10602",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q10603",
+      "person_signal": "non_base",
+      "note": "Dialogue between Peter and another character; you is direct address."
+    },
+    {
+      "quote_id": "q10604",
+      "person_signal": "non_base",
+      "note": "Character speech using generalized people, they, and us."
+    },
+    {
+      "quote_id": "q10605",
+      "person_signal": "third",
+      "note": "Close-third narration summarizes her life and knowledge externally."
+    },
+    {
+      "quote_id": "q10606",
+      "person_signal": "non_base",
+      "note": "Spoken logical joke, not base narration."
+    },
+    {
+      "quote_id": "q10607",
+      "person_signal": "third",
+      "note": "Sustained close-third narration presents a male character's bodily hatred and desire."
+    },
+    {
+      "quote_id": "q10608",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using universal you."
+    },
+    {
+      "quote_id": "q10609",
+      "person_signal": "non_base",
+      "note": "A remembered conversation explicitly attributes the first-person speech to Peter and Alice."
+    },
+    {
+      "quote_id": "q10610",
+      "person_signal": "non_base",
+      "note": "Character dialogue with a brief action beat; I belongs to Alice's speech."
+    },
+    {
+      "quote_id": "q10611",
+      "person_signal": "unmarked",
+      "note": "A generalized statement about Alice's generation does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q10612",
+      "person_signal": "non_base",
+      "note": "Direct rhetorical speech using generic everyone."
+    },
+    {
+      "quote_id": "q10613",
+      "person_signal": "non_base",
+      "note": "Direct speech referring to another person as that one."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/5093/page_number/1/katabasis",
+      "title": "Katabasis Excerpt: Read free excerpt of Katabasis by R. F. Kuang",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained Chapter One excerpt, reproduced by permission of Harper Voyager, narrates Alice Law externally as she/her while freely presenting her knowledge, motives, and perceptions."
+    },
+    {
+      "url": "https://www.tournamentofbooks.com/2026/katabasis-v-the-catch",
+      "title": "Katabasis v. The Catch \u2014 The Tournament of Books",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A named reviewer explicitly describes Katabasis as using a close-third-person narrator, noting that only short contemplative chapters depart from that close perspective; those departures are not described as first- or second-person character narration."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Katabasis R.F. Kuang\" with excerpt, first chapter, point of view, third person, narrator, and HarperCollins terms.",
+    "Opened and inspected BookBrowse's four-page authorized Harper Voyager excerpt; the sustained opening is close-third narration centered on Alice.",
+    "Opened Google Books; its publisher metadata verified the edition and offered a broad preview index, but the catalog synopsis was not used as person evidence.",
+    "Opened a whole-book Tournament of Books review that explicitly identifies the close-third-person narrator and discusses the short contemplative interchapters.",
+    "Opened a review describing Alice as the main POV for most of the novel and Peter as receiving a few later POV chapters; because it did not explicitly name grammatical person, it was used only as corroborative context and not recorded as standalone evidence.",
+    "Ran exact-quote searches for the isolated first-person and generic-you Goodreads passages. Context recovered for generic-you passages placed them inside Alice-centered third-person narration, while the first-person snippets remained insufficiently attributed.",
+    "Indigo's advertised chapter-one excerpt returned a 404 when opened; unauthorized full-text and chapter-mirror results were not used as cited evidence."
+  ],
+  "person_note": "The controlling narration is close third person, chiefly centered on Alice, with some later Peter focalization that remains compatible with THIRD. The Goodreads evidence repeatedly supplies sustained she/her close narration, and the authorized opening independently shows the same form. Generic you passages are aphoristic or free-indirect generalizations, not sustained second-person narration. Two isolated I passages lack quotation boundaries or attribution in the quote export; given the explicit whole-book close-third description and absence of evidence for sustained first-person sections, they are treated as locally unclear rather than as competing base narration. The short contemplative interchapters vary focal distance or voice but available structural evidence does not establish a change of grammatical person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_089",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:45:10.481821+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "310c03b50ba74f396fc263c9cbbc1ae49013ecd1b120d50df3a32b4be4530c57"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:FOURTH WING|Rebecca Yarros",
+  "quotes": [
+    {
+      "quote_id": "q07645",
+      "person_signal": "non_base",
+      "note": "Epigraph-style maxim from the Dragon Rider\u2019s Codex; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q07646",
+      "person_signal": "non_base",
+      "note": "Character speech addressing \u201cViolence\u201d; the speaker\u2019s I/you pronouns are not narratorial."
+    },
+    {
+      "quote_id": "q07647",
+      "person_signal": "non_base",
+      "note": "Romantic speech addressed to another character, not base narration."
+    },
+    {
+      "quote_id": "q07648",
+      "person_signal": "non_base",
+      "note": "Universal aphorism using generic you; it is not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q07649",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue, not narratorial evidence."
+    },
+    {
+      "quote_id": "q07650",
+      "person_signal": "non_base",
+      "note": "A multi-speaker romantic exchange whose first- and second-person pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q07651",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement without a narrating participant."
+    },
+    {
+      "quote_id": "q07652",
+      "person_signal": "first",
+      "note": "Specific first-person interior narration or self-declaration exposes the participating narrator as I."
+    },
+    {
+      "quote_id": "q07653",
+      "person_signal": "non_base",
+      "note": "Generalized aphoristic material rather than a story-specific narratorial passage."
+    },
+    {
+      "quote_id": "q07654",
+      "person_signal": "non_base",
+      "note": "Marked dialogue between characters; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q07655",
+      "person_signal": "non_base",
+      "note": "Proverbial statement with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q07656",
+      "person_signal": "non_base",
+      "note": "Creed or epigraph-like material about the Archives, not the controlling narration."
+    },
+    {
+      "quote_id": "q07657",
+      "person_signal": "first",
+      "note": "Story-specific interior resolve uses I for the participating narrator."
+    },
+    {
+      "quote_id": "q07658",
+      "person_signal": "non_base",
+      "note": "Direct-address romantic speech, not base narration."
+    },
+    {
+      "quote_id": "q07659",
+      "person_signal": "first",
+      "note": "The narrator describes Xaden\u2019s relationship to her using me and my, establishing participating first-person narration."
+    },
+    {
+      "quote_id": "q07660",
+      "person_signal": "non_base",
+      "note": "Multi-turn dialogue; the visible pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q07661",
+      "person_signal": "first",
+      "note": "First-person body perception and self-reminder occur within story-specific base narration."
+    },
+    {
+      "quote_id": "q07662",
+      "person_signal": "non_base",
+      "note": "Imperative character speech using direct-address you."
+    },
+    {
+      "quote_id": "q07663",
+      "person_signal": "non_base",
+      "note": "A character\u2019s direct-address declaration, not controlling narration."
+    },
+    {
+      "quote_id": "q07664",
+      "person_signal": "non_base",
+      "note": "Direct-address speech whose implied speaker is local rather than narratorial."
+    },
+    {
+      "quote_id": "q07665",
+      "person_signal": "non_base",
+      "note": "Extended first-person romantic confession addressed to you; it is character speech."
+    },
+    {
+      "quote_id": "q07666",
+      "person_signal": "first",
+      "note": "Although dialogue dominates the quote, the intervening narration beats\u2014\u201cI call,\u201d \u201cI scoff,\u201d and \u201cI gawk\u201d\u2014diagnostically expose first-person base narration."
+    },
+    {
+      "quote_id": "q07667",
+      "person_signal": "non_base",
+      "note": "Direct-address question spoken by a character."
+    },
+    {
+      "quote_id": "q07668",
+      "person_signal": "non_base",
+      "note": "First-person declaration addressed to another character; it is dialogue rather than narration."
+    },
+    {
+      "quote_id": "q07669",
+      "person_signal": "non_base",
+      "note": "Direct address to Liam, classified upstream as dialogue, does not identify the base narrator."
+    },
+    {
+      "quote_id": "q07670",
+      "person_signal": "non_base",
+      "note": "A dialogue exchange about Xaden; its he and me references are not narratorial evidence."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/tra-rgfe/assets/3134/Fourth_Wing__First_Chapter.pdf",
+      "title": "Fourth Wing \u2014 First Chapter",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "This authorized Piatkus/Little, Brown excerpt sustains Violet\u2019s participating I/my narration throughout Chapter One."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-fourth-wing-the-empyrean-1/styles.html",
+      "title": "Rebecca Yarros Writing Styles in Fourth Wing (The Empyrean, 1)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly identifies Violet as the primary first-person narrator and says the final chapter switches to Xaden, also as a first-person narrator."
+    },
+    {
+      "url": "https://www.gradesaver.com/fourth-wing/study-guide/literary-elements",
+      "title": "Fourth Wing Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The narrator-and-point-of-view section identifies the novel as primarily told from Violet\u2019s first-person perspective."
+    },
+    {
+      "url": "https://uk.news.yahoo.com/fourth-wing-author-rebecca-yarros-214022660.html",
+      "title": "\u2018Fourth Wing\u2019 Author Rebecca Yarros Answers 28 Burning Questions About Sequel \u2018Iron Flame,\u2019 Talks Amazon TV Series",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Yarros confirms that Fourth Wing ends in Xaden\u2019s POV and explains that she originally drafted that ending in Violet\u2019s POV, corroborating the final-chapter narrator switch described by the study guide."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cFourth Wing Rebecca Yarros official excerpt first chapter publisher\u201d and opened the authorized Piatkus/Little, Brown first-chapter PDF.",
+    "Searched \u201cFourth Wing Rebecca Yarros point of view first person narrator\u201d and opened the BookRags and GradeSaver point-of-view pages.",
+    "Searched \u201csite:rebeccayarros.com Fourth Wing excerpt\u201d and \u201csite:entangledpublishing.com Fourth Wing excerpt Rebecca Yarros\u201d; the author synopsis and catalog material were nondiagnostic, while the publisher preview corroborated the first-person opening.",
+    "Searched \u201cFourth Wing last chapter Xaden first person narrator,\u201d \u201cFourth Wing Xaden becomes narrator last chapter,\u201d and \u201cFourth Wing narrator Violet Xaden final chapter point of view\u201d; BookRags explicitly identified both narrators as first person, and an author interview confirmed the ending\u2019s Xaden-POV switch.",
+    "Opened the Hachette catalog/excerpt page; its promotional copy did not independently describe narrative person."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly show Violet participating in the story and narrating as I/me/my, including clear interior and action beats. The authorized opening independently sustains the same first-person narration. Whole-book descriptions identify Violet as the primary first-person narrator and Xaden as the first-person narrator of the final chapter. Because both sustained narrators use first person, the narrator switch does not warrant ALTERNATING. Dialogue, epigraphs, and aphorisms were treated as non-base material. The authorized prose evidence is limited to the opening, but interior quote evidence and explicit whole-book structural descriptions corroborate it, with no credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.271123+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e91aecd2a7ea19e97a0102479a929286d6e01759ca35bb42f2b5955de775b1d7"
+  }
+}

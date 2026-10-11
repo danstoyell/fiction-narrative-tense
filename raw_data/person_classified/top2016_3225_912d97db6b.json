@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:3225",
+  "quotes": [
+    {
+      "quote_id": "q00961",
+      "person_signal": "non_base",
+      "note": "Dialogue; the brief Reacher speech beat does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00962",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q00963",
+      "person_signal": "non_base",
+      "note": "Dialogue, including a first-person reply, not narratorial self-reference."
+    },
+    {
+      "quote_id": "q00964",
+      "person_signal": "unclear",
+      "note": "Truncated present-tense fragment with unresolved speech or thought attribution."
+    },
+    {
+      "quote_id": "q00965",
+      "person_signal": "non_base",
+      "note": "Sustained speech addressed to 'Ma'am'; first-person wording belongs to the speaker."
+    },
+    {
+      "quote_id": "q00966",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Reacher's actions and describes him by name and third-person pronouns."
+    },
+    {
+      "quote_id": "q00967",
+      "person_signal": "non_base",
+      "note": "Unmarked imperative speech, not evidence of the base narrator."
+    },
+    {
+      "quote_id": "q00968",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00969",
+      "person_signal": "non_base",
+      "note": "Dialogue; the short speech beat alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q00970",
+      "person_signal": "non_base",
+      "note": "Character speech addressing a colonel as 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00971",
+      "person_signal": "unmarked",
+      "note": "Narrative-looking passage uses an unanchored 'he' and does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00972",
+      "person_signal": "unclear",
+      "note": "Unmarked deliberation could be dialogue or free-indirect thought; local structure is unresolved."
+    },
+    {
+      "quote_id": "q00973",
+      "person_signal": "third",
+      "note": "Extended external narration describes a male character's actions, observations, and surroundings in third person."
+    },
+    {
+      "quote_id": "q00974",
+      "person_signal": "non_base",
+      "note": "Proverbial biblical statement rather than base narration."
+    },
+    {
+      "quote_id": "q00975",
+      "person_signal": "unmarked",
+      "note": "Historical exposition lacks a diagnostic narrator or focal-character reference."
+    },
+    {
+      "quote_id": "q00976",
+      "person_signal": "unclear",
+      "note": "Severely clipped fragment does not preserve enough context to identify narrative person."
+    },
+    {
+      "quote_id": "q00977",
+      "person_signal": "unmarked",
+      "note": "Clipped narrative and speech-boundary material contains no diagnostic narrator self-reference or sustained external scene."
+    },
+    {
+      "quote_id": "q00978",
+      "person_signal": "unmarked",
+      "note": "Subordinate-clause fragment with a bare 'he' is insufficient to establish narrator person."
+    },
+    {
+      "quote_id": "q00979",
+      "person_signal": "third",
+      "note": "Sustained external narration names Reacher and reports his later judgment and hypothetical response in third person."
+    },
+    {
+      "quote_id": "q00980",
+      "person_signal": "non_base",
+      "note": "Reacher's first-person plural wording occurs inside dialogue."
+    },
+    {
+      "quote_id": "q00981",
+      "person_signal": "non_base",
+      "note": "Two-sided dialogue; first- and second-person pronouns belong to speakers."
+    },
+    {
+      "quote_id": "q00982",
+      "person_signal": "third",
+      "note": "External narration and indirect discourse describe Reacher and another character using third-person forms."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/night-school-9780857502704/extracts/1036-night-school",
+      "title": "Extract | Night School by Lee Child",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized Penguin extract sustains third-person narration across the opening and into chapter two, externally narrating Reacher and other characters while reserving first and second person for dialogue or represented thought."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Night_School_(novel)",
+      "title": "Night School (novel)",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book-level description explicitly states that the novel is written in the third person."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/57211d2f-189d-498e-a243-3fda110badb4",
+      "title": "Review of Night School by Lee Child",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An individual reader review explicitly calls the novel third-person omniscient and discusses access to multiple characters' thoughts; useful corroboration, but Tier D under the methodology."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Lee Child Night School 2016 official excerpt chapter\" and \"site:penguinrandomhouse.com Night School Lee Child excerpt\"; found and opened Penguin's authorized extract.",
+    "Searched: \"Night School Lee Child third person point of view narrator\" and \"Night School Lee Child POV Reacher Wiley\"; found explicit whole-book third-person descriptions on Wikipedia and StoryGraph.",
+    "Searched exact interior phrases \"Afterward Reacher conceded\" and \"He changed his final wad\"; no usable authorized interior source was returned.",
+    "Opened Penguin Random House and Penguin Random House Higher Education results, but the relevant pages timed out or did not expose additional readable excerpt evidence.",
+    "Independent audit reopened the Penguin extract and verified sustained third person from the opening through the beginning of Chapter 2; reopened Wikipedia's explicit whole-book statement and the StoryGraph reader review, correcting the latter from Tier C to D."
+  ],
+  "person_note": "The diagnostic interior passages repeatedly present Reacher and other characters through sustained external third-person narration; first- and second-person forms elsewhere are dialogue, aphorism, or unresolved local material. Penguin's authorized extract confirms the same mode from the opening through the start of Chapter 2, and Wikipedia explicitly describes the whole novel as third person. The label remains THIRD, but confidence is medium because the Tier A evidence is opening-only, Wikipedia is Tier C, and the other whole-book claim is an individual reader review (Tier D), not an independent high-quality authority. Independent audit: verified the source language and coverage, downgraded StoryGraph from C to D, and avoided double-counting weak whole-book descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_056",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T15:51:46.820273+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3110e081488949c7b85bc11e47ef54298e876fc5ac83a7acc15bcf379b63b7f7"
+  }
+}

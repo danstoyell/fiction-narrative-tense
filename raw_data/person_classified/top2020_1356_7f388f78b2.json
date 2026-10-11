@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:1356",
+  "quotes": [
+    {
+      "quote_id": "q04922",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement; it does not expose the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q04923",
+      "person_signal": "non_base",
+      "note": "General claim about human community, not character-specific narration."
+    },
+    {
+      "quote_id": "q04924",
+      "person_signal": "third",
+      "note": "The external tag \u201cshe thinks\u201d presents a character\u2019s thought through third-person narration."
+    },
+    {
+      "quote_id": "q04925",
+      "person_signal": "non_base",
+      "note": "Hortatory maxim with no story-specific narrator or addressee."
+    },
+    {
+      "quote_id": "q04926",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed directly to Edward; its pronouns belong to a speaker."
+    },
+    {
+      "quote_id": "q04927",
+      "person_signal": "non_base",
+      "note": "Quoted speech dominates; the brief \u201cshe says\u201d attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q04928",
+      "person_signal": "non_base",
+      "note": "Speech addressed to Edward; first and second person are local dialogue."
+    },
+    {
+      "quote_id": "q04929",
+      "person_signal": "non_base",
+      "note": "Imperative speech addressed to Edward, not base narration."
+    },
+    {
+      "quote_id": "q04930",
+      "person_signal": "non_base",
+      "note": "Character speech addressed to Eddie; \u201cyou\u201d does not indicate second-person narration."
+    },
+    {
+      "quote_id": "q04931",
+      "person_signal": "non_base",
+      "note": "Attributed epigraph by Pema Ch\u00f6dr\u00f6n, outside the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q04932",
+      "person_signal": "non_base",
+      "note": "Attributed George Eliot epigraph, not the novel\u2019s narrator."
+    },
+    {
+      "quote_id": "q04933",
+      "person_signal": "non_base",
+      "note": "First-person dialogue dominates; the short third-person action beat is insufficient by itself."
+    },
+    {
+      "quote_id": "q04934",
+      "person_signal": "unmarked",
+      "note": "Narrates Eddie and his father, but this isolated sentence does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q04935",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection about memory, not sustained story-specific address."
+    },
+    {
+      "quote_id": "q04936",
+      "person_signal": "non_base",
+      "note": "Extended speech addressed to Edward; the single \u201cEdward nods\u201d beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q04937",
+      "person_signal": "non_base",
+      "note": "Aphoristic first-person-plural statement rather than participating narration."
+    },
+    {
+      "quote_id": "q04938",
+      "person_signal": "third",
+      "note": "Sustained narration externally identifies Edward and repeatedly renders his perception as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q04939",
+      "person_signal": "non_base",
+      "note": "Generalization about people rather than a narrated story event."
+    },
+    {
+      "quote_id": "q04940",
+      "person_signal": "non_base",
+      "note": "Essayistic generic address about schools; \u201cyou\u201d is universal rather than protagonist-specific."
+    },
+    {
+      "quote_id": "q04941",
+      "person_signal": "third",
+      "note": "Third-person narration gives direct access to the male character\u2019s sadness and fear."
+    },
+    {
+      "quote_id": "q04942",
+      "person_signal": "non_base",
+      "note": "Dialogue supplies the meaningful pronouns; the short speech and pause tags are nondiagnostic."
+    },
+    {
+      "quote_id": "q04943",
+      "person_signal": "third",
+      "note": "Sustained third-person rendering of the character\u2019s perception and emotional interiority."
+    },
+    {
+      "quote_id": "q04944",
+      "person_signal": "non_base",
+      "note": "Vocative \u201cson\u201d establishes character speech."
+    },
+    {
+      "quote_id": "q04945",
+      "person_signal": "non_base",
+      "note": "Second-person address to a particular listener occurs in dialogue."
+    },
+    {
+      "quote_id": "q04946",
+      "person_signal": "non_base",
+      "note": "Character speech addressed as \u201cyou,\u201d not controlling second-person narration."
+    },
+    {
+      "quote_id": "q04947",
+      "person_signal": "non_base",
+      "note": "General psychological claim with no story-specific narrating position."
+    },
+    {
+      "quote_id": "q04948",
+      "person_signal": "unclear",
+      "note": "A clipped subordinate fragment lacks enough surrounding syntax to establish the narrator."
+    },
+    {
+      "quote_id": "q04949",
+      "person_signal": "unmarked",
+      "note": "Possible narration about an unspecified group, but it does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q04950",
+      "person_signal": "unmarked",
+      "note": "The isolated \u201che\u201d sentence is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q04951",
+      "person_signal": "third",
+      "note": "Outside the dialogue, paired beats externally render both characters as \u201cshe\u201d and \u201che,\u201d including his thought."
+    },
+    {
+      "quote_id": "q04952",
+      "person_signal": "non_base",
+      "note": "Imperative character speech using Edward\u2019s full name as a vocative."
+    },
+    {
+      "quote_id": "q04953",
+      "person_signal": "non_base",
+      "note": "Bare hortatory precept without a story-specific narrator or addressee."
+    },
+    {
+      "quote_id": "q04954",
+      "person_signal": "third",
+      "note": "External third-person tags identify Florida and report what \u201cshe thinks.\u201d"
+    },
+    {
+      "quote_id": "q04955",
+      "person_signal": "non_base",
+      "note": "Quoted conversation dominates; \u201cHe says\u201d is only a brief attribution."
+    },
+    {
+      "quote_id": "q04956",
+      "person_signal": "third",
+      "note": "Extended third-person narration follows Edward\u2019s knowledge, loss, and anticipated future."
+    },
+    {
+      "quote_id": "q04957",
+      "person_signal": "non_base",
+      "note": "Generalized description of air travel and passenger behavior, not diagnostic of narrator participation."
+    },
+    {
+      "quote_id": "q04958",
+      "person_signal": "unmarked",
+      "note": "Pronounless fragment with no narrator-identifying context."
+    },
+    {
+      "quote_id": "q04959",
+      "person_signal": "non_base",
+      "note": "Direct question and first-person explanation belong to character speech."
+    },
+    {
+      "quote_id": "q04960",
+      "person_signal": "unmarked",
+      "note": "Focalized scene description omits its subject and does not independently reveal grammatical person."
+    },
+    {
+      "quote_id": "q04961",
+      "person_signal": "third",
+      "note": "The authorized excerpt situates this exact line inside sustained third-person narration focalized through Bruce."
+    },
+    {
+      "quote_id": "q04962",
+      "person_signal": "unmarked",
+      "note": "Describes a woman\u2019s habitual mental action, but an isolated \u201cshe\u201d does not alone establish the narrator."
+    },
+    {
+      "quote_id": "q04963",
+      "person_signal": "non_base",
+      "note": "First-person statement to a specific \u201cyou\u201d is character speech."
+    },
+    {
+      "quote_id": "q04964",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism rather than story-specific narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241985892/9780241985892-sample.pdf",
+      "title": "Dear Edward sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin\u2019s sustained 35-page sample narrates multiple characters and the post-crash timeline externally in third person, while entering their thoughts; no participating narrator frames the prose."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-dear-edward/styles.html",
+      "title": "Ann Napolitano Writing Styles in Dear Edward",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis explicitly says both storylines use third person, with shifting character focus on the plane and Edward-focused narration in the other storyline."
+    },
+    {
+      "url": "https://www.supersummary.com/dear-edward/summary/",
+      "title": "Dear Edward Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Describes the two timelines as third-person omniscient prose exploring the experiences and emotions of multiple characters."
+    },
+    {
+      "url": "https://www.gradesaver.com/dear-edward/study-guide/literary-elements",
+      "title": "Dear Edward Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies the novel\u2019s narrator and point of view as third person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDear Edward Ann Napolitano excerpt first chapter publisher\u201d and found Penguin\u2019s authorized 35-page sample.",
+    "Searched \u201cDear Edward Ann Napolitano point of view third person narrator\u201d and opened BookRags, GradeSaver, and SuperSummary whole-book descriptions.",
+    "Searched \u201cDear Edward alternating timeline narration point of view\u201d; sources describe two timelines and shifting focal characters, but consistently retain third person rather than alternating grammatical person.",
+    "Searched Penguin Random House for an excerpt; its product page confirmed the edition and publisher but supplied synopsis rather than diagnostic prose.",
+    "Searched exact quote strings including \u201cFatherhood is, for him, one jolt of terror after another\u201d and matched the quote to its sustained third-person context in the Penguin sample.",
+    "Opened Ann Napolitano\u2019s book-club Q&A; it corroborated the plane-chapter/Edward-chapter structure but did not explicitly identify narrative person."
+  ],
+  "person_note": "The diagnostic event passages repeatedly render Edward and other characters externally as he or she while accessing their thoughts. Penguin\u2019s authorized opening sample independently demonstrates sustained third-person narration across multiple focal characters and across both the flight and post-crash material. Whole-book study sources explicitly confirm that both timelines remain in third person. First- and second-person forms in the quote set occur in dialogue, epigraphs, or generic maxims; the letters mentioned by sources are embedded objects rather than a constitutive first-person narrative strand. The main limitation is that the authorized prose source covers only the opening, but the explicit whole-book sources and interior Goodreads passages remove meaningful uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_070",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:55:33.175053+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "882529ddbb8062c890e2f30969a64875f8add182a54e090ba95c0ad78a0b454f"
+  }
+}

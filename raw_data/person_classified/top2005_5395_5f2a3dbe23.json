@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:5395",
+  "quotes": [
+    {
+      "quote_id": "q01276",
+      "person_signal": "unmarked",
+      "note": "Possible experiential narration, but the sentence contains no participating-narrator pronoun."
+    },
+    {
+      "quote_id": "q01277",
+      "person_signal": "non_base",
+      "note": "General maxim about handling books; the generic you does not identify narrative person."
+    },
+    {
+      "quote_id": "q01278",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its addressed you is not second-person narration."
+    },
+    {
+      "quote_id": "q01279",
+      "person_signal": "first",
+      "note": "The note-to-reader narrator identifies herself as a historian and describes what I have learned."
+    },
+    {
+      "quote_id": "q01280",
+      "person_signal": "first",
+      "note": "Narratorial me marks the speaker as the participant affected by being trusted."
+    },
+    {
+      "quote_id": "q01281",
+      "person_signal": "non_base",
+      "note": "General reflection on humankind and mortality without diagnostic base narration."
+    },
+    {
+      "quote_id": "q01282",
+      "person_signal": "first",
+      "note": "Retrospective I narrates a personally experienced moment of comprehension."
+    },
+    {
+      "quote_id": "q01283",
+      "person_signal": "first",
+      "note": "The narrator recalls her father and explicitly reflects on what I understand now."
+    },
+    {
+      "quote_id": "q01284",
+      "person_signal": "first",
+      "note": "A constitutive first-person document narrates the writer's present actions and attachment as I."
+    },
+    {
+      "quote_id": "q01285",
+      "person_signal": "non_base",
+      "note": "Spoken direct address; you does not designate a second-person protagonist."
+    },
+    {
+      "quote_id": "q01286",
+      "person_signal": "first",
+      "note": "The adult narrator explicitly reflects on experiences she has often known."
+    },
+    {
+      "quote_id": "q01287",
+      "person_signal": "first",
+      "note": "Participating I reports wondering and remembering within the story."
+    },
+    {
+      "quote_id": "q01288",
+      "person_signal": "first",
+      "note": "The explicit reporting clause I reflected identifies participating narration."
+    },
+    {
+      "quote_id": "q01289",
+      "person_signal": "first",
+      "note": "The event-bucket passage presents the narrator's own continuing interest and belief as I."
+    },
+    {
+      "quote_id": "q01290",
+      "person_signal": "first",
+      "note": "The narrator describes an event changing my mind and my understanding of fear."
+    },
+    {
+      "quote_id": "q01291",
+      "person_signal": "first",
+      "note": "The narrator's reading and my own tear place the speaker within the narrated event."
+    },
+    {
+      "quote_id": "q01292",
+      "person_signal": "first",
+      "note": "Participating narration reports the speaker's own observation with I've noticed."
+    },
+    {
+      "quote_id": "q01293",
+      "person_signal": "first",
+      "note": "I describes the narrator's prayer for admission to the place being recalled."
+    },
+    {
+      "quote_id": "q01294",
+      "person_signal": "first",
+      "note": "Repeated I and me expose the participating narrator's perceptions and judgments."
+    },
+    {
+      "quote_id": "q01295",
+      "person_signal": "first",
+      "note": "The narrator recounts her own first experience using I."
+    },
+    {
+      "quote_id": "q01296",
+      "person_signal": "non_base",
+      "note": "A general statement about historians; inclusive we in gnomic material is not diagnostic base narration."
+    },
+    {
+      "quote_id": "q01297",
+      "person_signal": "first",
+      "note": "The narrator invokes goodness in my own past and describes how I have lived."
+    },
+    {
+      "quote_id": "q01298",
+      "person_signal": "unmarked",
+      "note": "Possible narration about history, but no narrator participation is grammatically exposed."
+    },
+    {
+      "quote_id": "q01299",
+      "person_signal": "non_base",
+      "note": "Character speech directly addresses your century; it is not second-person base narration."
+    },
+    {
+      "quote_id": "q01300",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition contains no narrator pronoun or other diagnostic person marker."
+    },
+    {
+      "quote_id": "q01301",
+      "person_signal": "first",
+      "note": "The writer's I and my memory establish first-person narration; you is an addressee, not the protagonist's narrative person."
+    },
+    {
+      "quote_id": "q01302",
+      "person_signal": "unmarked",
+      "note": "The third-person subject is Dracula inside Rossi's first-person captivity account; this clipped sentence does not expose that account's narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1589/page_number/1/the-historian",
+      "title": "Excerpt from The Historian by Elizabeth Kostova",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A copyright-authorized multi-page opening has the unnamed daughter retrospectively narrate her own life as I; it also embeds Rossi's first-person letter."
+    },
+    {
+      "url": "https://jpic.mta.ro/assets/JPIC-Vol2_No2.pdf",
+      "title": "Campus Novels in an Age of the Global Campus: The Historian by Elizabeth Kostova",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly article identifies the woman historian as the retrospective storyteller, analyzes her personal first-person account and nested correspondence, and shows that the closing third-person historical tableau is her brief imaginative reconstruction."
+    },
+    {
+      "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=wuhonors1617982997535422&disposition=inline",
+      "title": "Biting Back: A Feminist Analysis of Dracula and The Historian",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This university honors thesis describes the novel as an epistolary account composed primarily of the narrator's and her father's letters and diary material, with the older participating narrator telling her personal story."
+    },
+    {
+      "url": "https://www.westmountindependent.com/VMv1.7.pdf",
+      "title": "Vampires Are Forever: The Historian by Elizabeth Kostova and Dracula by Bram Stoker",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly calls the daughter an unnamed first-person narrator, describes the whole novel as her account, and says journals and letters constitute most of it."
+    },
+    {
+      "url": "https://wstag.jcu.cz/StagPortletsJSR168/PagesDispatcherServlet?pp_destElement=%23ssSouboryStudentuDivId_6214&pp_locale=en&pp_nameSpace=G235238&pp_page=souboryStudentuDownloadPage&pp_portlet=souboryStudentuPagesPortlet&pp_reqType=render&soubidno=318698",
+      "title": "The Epistolary Form in Bram Stoker's Dracula and Elizabeth Kostova's The Historian",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The thesis calls the daughter's narration primarily first person and documents the framed letters, diary, and indirect reconstructions. It mentions third-person shifts when she reconstructs Paul and Rossi but does not establish autonomous sustained third-person sections."
+    }
+  ],
+  "search_log": [
+    "Searched: The Historian Elizabeth Kostova official excerpt first chapter narrator letters.",
+    "Searched: The Historian Elizabeth Kostova point of view first person narrator epistolary.",
+    "Searched: The Historian Kostova narrative structure first-person letters scholarly.",
+    "Searched exact passages including \"He brought his great hand to rest\" and \"The dome of the tower has long openings\" to identify embedded and reconstructed contexts.",
+    "Opened the BookBrowse excerpt across multiple pages, scholarly PDFs from JPIC, OhioLINK, and the University of South Bohemia, and the Westmount review before using them.",
+    "Discarded a Penguin Random House result because its first-/third-person discussion concerned The Shadow Land, not The Historian; also discarded an unsupported GradeSaver third-person assertion and inaccessible Radboud preview as usable evidence."
+  ],
+  "person_note": "The controlling account is the unnamed daughter-historian's retrospective story of events she personally experienced, narrated as I. Paul and Rossi contribute extensive first-person letters, diary-like material, and oral accounts; because these documents constitute the layered novel and remain first person, multiple narrators do not make it ALTERNATING. The quote set repeatedly corroborates participating first-person narration. Bare he-sentences such as q01302 occur within a first-person document and are therefore unmarked rather than third-person evidence. Scholarly research notes occasional third-person reconstruction, including a brief imagined historical tableau at the end, but does not show a sustained autonomous third-person narrative section. The remaining uncertainty is only the precise extent of these local reconstructions, not the controlling first-person form.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_043",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-04T05:41:04.503551+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "88d70741d20341f87866c66cf130b648253cf90d2854f9d7bdc8a63b9287afb5"
+  }
+}

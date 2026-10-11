@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:4678",
+  "quotes": [
+    {
+      "quote_id": "q00591",
+      "person_signal": "non_base",
+      "note": "Gnomic warning with generic 'you'; it does not identify a story narrator."
+    },
+    {
+      "quote_id": "q00592",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection without a participating narrator or enough contextual third-person narration."
+    },
+    {
+      "quote_id": "q00593",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed character speech; its pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q00594",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than person-diagnostic story narration."
+    },
+    {
+      "quote_id": "q00595",
+      "person_signal": "non_base",
+      "note": "Gnomic advice using universal 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00596",
+      "person_signal": "non_base",
+      "note": "Aphoristic statement with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q00597",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not outside narratorial prose."
+    },
+    {
+      "quote_id": "q00598",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but the unanchored 'they' does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q00599",
+      "person_signal": "non_base",
+      "note": "Dialogue containing a recited poem; both voices are locally quoted."
+    },
+    {
+      "quote_id": "q00600",
+      "person_signal": "non_base",
+      "note": "Gnomic, inclusive 'we' refers generally to people rather than a participating narrator."
+    },
+    {
+      "quote_id": "q00601",
+      "person_signal": "non_base",
+      "note": "Aphoristic comparison with no person marker."
+    },
+    {
+      "quote_id": "q00602",
+      "person_signal": "non_base",
+      "note": "General advice using universal 'you,' not story-specific second person."
+    },
+    {
+      "quote_id": "q00603",
+      "person_signal": "third",
+      "note": "Third-person limited narration names Ruth and renders her private puzzling and imagined comparison."
+    },
+    {
+      "quote_id": "q00604",
+      "person_signal": "non_base",
+      "note": "Gnomic instruction with generic 'you'; the clipped final 'I' cannot establish base person."
+    },
+    {
+      "quote_id": "q00605",
+      "person_signal": "unmarked",
+      "note": "Abstract narratorial reflection contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q00606",
+      "person_signal": "non_base",
+      "note": "Gnomic or incantatory generic 'you/we,' not controlling narration."
+    },
+    {
+      "quote_id": "q00607",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial reflection, but 'you' is universal rather than a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00608",
+      "person_signal": "non_base",
+      "note": "General maxim using generic 'you,' with no base-narrator evidence."
+    },
+    {
+      "quote_id": "q00609",
+      "person_signal": "third",
+      "note": "Third-person limited narration reports a focal woman's perception and private self-reminder."
+    },
+    {
+      "quote_id": "q00610",
+      "person_signal": "non_base",
+      "note": "LuLing directly addresses Precious Auntie in dialogue; this local speech is not narratorial evidence."
+    },
+    {
+      "quote_id": "q00611",
+      "person_signal": "third",
+      "note": "The novel's ending refers externally to Ruth through 'her' and 'herself,' continuing the Ruth section's third-person narration."
+    },
+    {
+      "quote_id": "q00612",
+      "person_signal": "unmarked",
+      "note": "A contextless question contains no narrator or protagonist person marker."
+    },
+    {
+      "quote_id": "q00613",
+      "person_signal": "first",
+      "note": "Sustained participating narration uses 'we' for shared knowledge, action, and a kiss within LuLing's constitutive memoir."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780345457370",
+      "title": "The Bonesetter's Daughter | Penguin Random House Secondary Education",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "The publisher's sustained excerpt headed 'TRUTH' identifies LuLing and repeatedly narrates her remembered life as 'I,' establishing the first-person LuLing strand."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-bonesetters-daughter/excerpt",
+      "title": "The Bonesetter's Daughter by Amy Tan | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained Chapter One excerpt, expressly reprinted with Ballantine Books' permission, narrates Ruth externally in third-person limited prose."
+    },
+    {
+      "url": "https://academic.oup.com/dsh/article-abstract/38/3/1281/6965700",
+      "title": "A multidimensional and digital humanistic analysis of style in Amy Tan's novels",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The Oxford Academic journal study explicitly identifies a third-person narrative attached to Ruth and a first-person narrative by LuLing, with third person comprising the larger share."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/176371/the-bonesetters-daughter-by-amy-tan/readers-guide/",
+      "title": "The Bonesetter's Daughter Reader's Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The publisher's guide describes a story-within-a-story frame and distinguishes LuLing speaking in her own manuscript from Ruth's point of view."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/bonesetters-daughter/facts/",
+      "title": "The Bonesetter's Daughter: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The reference explicitly states that present-day Ruth sections use an anonymous third-person narrator while LuLing's nested life narrative is first person."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Amy Tan The Bonesetter's Daughter excerpt Part One Part Two Ruth LuLing narrator point of view\" and related narrator/structure queries.",
+    "Searched publisher, Google Books, excerpt, first-chapter, manuscript, frame-narrative, and alternating-point-of-view combinations for the verified title and author.",
+    "Opened Penguin Random House's reader guide and education-page excerpt, the permissioned Bookreporter Chapter One excerpt, Oxford Academic/ResearchGate article text, SparkNotes key facts, EBSCO Research Starter, and SuperSummary.",
+    "Google Books supplied catalog metadata but no usable sustained prose; a Cambridge examination-PDF mirror timed out and was not used as evidence."
+  ],
+  "person_note": "The novel sustains two base persons in major sections: an anonymous third-person limited narrator presents Ruth's contemporary story, while LuLing's substantial manuscript narrates her own past in first person. The authorized excerpts independently demonstrate each person, and the Oxford Academic study explicitly confirms the whole-book two-perspective structure. The Goodreads material agrees through third-person Ruth passages (especially q00603 and q00609) and the constitutive first-person memoir passage q00613. First-person dialogue and generic aphoristic 'I,' 'we,' or 'you' were treated as local or nondiagnostic. No credible contrary structural evidence remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_036",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:06:26.148054+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d31c840c2396fbf1bc8ea2c67e4c9f60a6c7639fbabfa6165afdaf7e560ab42f"
+  }
+}

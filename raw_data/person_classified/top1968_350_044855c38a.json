@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1968:350",
+  "quotes": [
+    {
+      "quote_id": "q01534",
+      "person_signal": "non_base",
+      "note": "Aphoristic material; generic \u201cyou\u201d refers to an audience or jury and does not identify the novel\u2019s narrator."
+    },
+    {
+      "quote_id": "q01535",
+      "person_signal": "unmarked",
+      "note": "The first-person and second-person forms occur in dialogue; the brief attribution to Demerest does not by itself establish narrator person."
+    },
+    {
+      "quote_id": "q01536",
+      "person_signal": "non_base",
+      "note": "A general maxim about human progress; its generic \u201cyou\u201d is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01537",
+      "person_signal": "non_base",
+      "note": "Direct speech with no diagnostic narratorial text."
+    },
+    {
+      "quote_id": "q01538",
+      "person_signal": "unmarked",
+      "note": "Possible authorial narration, but this general statement about the psychopathic mind contains no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q01539",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about the human brain rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01540",
+      "person_signal": "third",
+      "note": "External narration evaluates a rumor about Patroni and summarizes Marie\u2019s marital experience, exposing the novel\u2019s nonparticipating third-person narrating position."
+    },
+    {
+      "quote_id": "q01541",
+      "person_signal": "unmarked",
+      "note": "Most of the passage is Danny\u2019s direct speech; the clipped attribution beat names Danny but does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q01542",
+      "person_signal": "third",
+      "note": "Although clipped, the matching authorized excerpt restores \u201cMel nodded\u201d and confirms that this is external third-person narration of Mel\u2019s action and impulse."
+    },
+    {
+      "quote_id": "q01543",
+      "person_signal": "unclear",
+      "note": "Both ends are clipped; the surviving reference to Mel is insufficient to determine narrator participation responsibly."
+    },
+    {
+      "quote_id": "q01544",
+      "person_signal": "unmarked",
+      "note": "Impersonal description of the storm\u2019s movement contains no participating narrator or story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q01545",
+      "person_signal": "unmarked",
+      "note": "The opening \u201cyou\u201d is generic or free-indirect rather than sustained second-person narration; the later names and third-person pronoun alone are not diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://el2019.kimep.kz/pluginfile.php?file=/66266/mod_resource/content/1/Hailey.+Airport.pdf",
+      "title": "Airport \u2014 Arthur Hailey, Level 5, retold by Rosalie Kerr",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete authorized Pearson/Penguin adaptation consistently uses an external third-person narrator while moving among Mel, Vernon, Keith, Guerrero, Patroni, Tanya, Elliott, and other characters; no sustained first- or second-person base section appears."
+    },
+    {
+      "url": "https://litres.com/book/artur-heyli/airport-aeroport-71703700/read/",
+      "title": "Read the book: Airport \u2014 Arthur Hailey",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Publisher-copyrighted adapted excerpt opens with external narration of Lincoln International and Mel Bakersfeld, including Mel\u2019s actions, knowledge, and thoughts in third person."
+    },
+    {
+      "url": "https://jetreidliterary.blogspot.com/2015/06/query-question-revealing-numbers-of-pov.html?showComment=1434467204329",
+      "title": "Query question: revealing numbers of POV in a query",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Literary agent Janet Reid explicitly identifies Airport and Hailey\u2019s other novels as third-person omniscient, distinguishing their many character strands from alternating grammatical person."
+    },
+    {
+      "url": "https://www.scholieren.com/verslag/boekverslag-engels-airport-door-arthur-hailey-43605",
+      "title": "Boekverslag Engels Airport door Arthur Hailey",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book report explicitly describes a he/she perspective that shifts among Mel, Keith, Vernon, Tanya, Ada, Guerrero, Patroni, and Freemantle, corroborating multiple focal characters within third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cArthur Hailey Airport novel excerpt first chapter\u201d and opened the LitRes publisher-copyrighted adapted opening.",
+    "Searched \u201cAirport Arthur Hailey narrator third person multiple viewpoints\u201d and opened explicit whole-book POV descriptions.",
+    "Searched \u201cAirport Arthur Hailey third-person\u201d and \u201cAirport Arthur Hailey omniscient narrator\u201d; found Janet Reid\u2019s explicit third-person-omniscient identification.",
+    "Opened the 140-page KIMEP-hosted Pearson/Penguin authorized adaptation and checked opening and interior chapters involving multiple focal characters.",
+    "Checked Google Books for the 1968 Doubleday edition; it verified title, author, edition, and length but offered only bibliographic/snippet material, so it was not used as person evidence.",
+    "Checked eNotes and general plot summaries; they did not expose sufficiently explicit, accessible narrator-person evidence and were not used.",
+    "Searched exact quote fragments, including the Patroni and Libby passages; no stronger authorized original-edition match was accessible."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person, with omniscient or shifting focal access to numerous characters. The Goodreads evidence includes unmistakable external narration of Patroni and, once its clipped context is restored by the authorized excerpt, Mel. Generic \u201cyou\u201d in aphorisms and q01545 is not sustained second-person narration, while first-person forms occur only in speech. A complete authorized adaptation, an authorized opening excerpt, and explicit whole-book POV descriptions all agree on third person; no evidence indicates a sustained first- or second-person base section. The main limitation is that the strongest continuous web text is an authorized adaptation rather than the unabridged 1968 edition, but it agrees with the original Goodreads passages and the independent structural descriptions.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_015",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T01:39:00.861300+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5c908f9a1ccb79dcc485a5b0c47fec857ef65ec3347c18a6e98b25c3b0c81a7f"
+  }
+}

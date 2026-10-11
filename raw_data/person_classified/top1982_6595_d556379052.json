@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1982:6595",
+  "quotes": [
+    {
+      "quote_id": "q02583",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic and story-specific you; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q02584",
+      "person_signal": "non_base",
+      "note": "Jondalar's first-person declaration to Ayla is character speech."
+    },
+    {
+      "quote_id": "q02585",
+      "person_signal": "non_base",
+      "note": "Gnomic observation with no diagnostic base narration."
+    },
+    {
+      "quote_id": "q02586",
+      "person_signal": "non_base",
+      "note": "Extended direct address to Ayla is character speech, not second-person narration."
+    },
+    {
+      "quote_id": "q02587",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur entirely within dialogue."
+    },
+    {
+      "quote_id": "q02588",
+      "person_signal": "third",
+      "note": "After the dialogue, the external narrator calls Ayla 'the woman' and reports what she could understand and felt."
+    },
+    {
+      "quote_id": "q02589",
+      "person_signal": "non_base",
+      "note": "Generic comparison is gnomic and does not identify the narrator."
+    },
+    {
+      "quote_id": "q02590",
+      "person_signal": "non_base",
+      "note": "Prophetic direct address is dialogue, not controlling second-person narration."
+    },
+    {
+      "quote_id": "q02591",
+      "person_signal": "third",
+      "note": "Sustained external narration summarizes Jondalar's emotions, childhood actions, and relationships as he/his."
+    },
+    {
+      "quote_id": "q02592",
+      "person_signal": "unmarked",
+      "note": "The passage is mostly dialogue; its brief he/she speech beats alone do not securely establish narrator person."
+    },
+    {
+      "quote_id": "q02593",
+      "person_signal": "unmarked",
+      "note": "Impersonal setting description contains no character or participating-narrator reference."
+    },
+    {
+      "quote_id": "q02594",
+      "person_signal": "non_base",
+      "note": "Dialogue-bucket report about what 'he thought' lacks reliable narrative boundaries and is not usable as base narration."
+    },
+    {
+      "quote_id": "q02595",
+      "person_signal": "non_base",
+      "note": "Generic medicinal exposition is gnomic rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q02596",
+      "person_signal": "unclear",
+      "note": "The quote begins mid-sentence and has damaged speech boundaries, preventing reliable separation of dialogue and narration."
+    },
+    {
+      "quote_id": "q02597",
+      "person_signal": "non_base",
+      "note": "The inclusive we appears in character speech."
+    },
+    {
+      "quote_id": "q02598",
+      "person_signal": "non_base",
+      "note": "Instructional you is spoken direct address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02599",
+      "person_signal": "unmarked",
+      "note": "This translated one-sentence fragment uses third-person objects but is too short to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02600",
+      "person_signal": "unmarked",
+      "note": "Two short sentences about Shamud and his thought suggest narration but provide insufficient local context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q02601",
+      "person_signal": "non_base",
+      "note": "Generic religious maxim is gnomic and does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02602",
+      "person_signal": "non_base",
+      "note": "Both first-person statements are direct dialogue between Jondalar and Ayla."
+    },
+    {
+      "quote_id": "q02603",
+      "person_signal": "third",
+      "note": "An external narrator states what a male character did not know and supplies an omniscient explanation of panic."
+    },
+    {
+      "quote_id": "q02604",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narrator reports Jondalar's gesture, Ayla's judgment, and his private thought in third person."
+    },
+    {
+      "quote_id": "q02605",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally describes Ayla's sensations, actions, location, and resolve as she/her."
+    },
+    {
+      "quote_id": "q02606",
+      "person_signal": "unmarked",
+      "note": "General anthropological exposition contains no diagnostic reference to a participating or nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02607",
+      "person_signal": "third",
+      "note": "Sustained external narration names Ayla and reports her emotional exhaustion, wishes, and thoughts."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookrags.com/studyguide-the-valley-of-horses/style.html",
+      "title": "Jean M. Auel Writing Styles in The Valley of Horses",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies third-person omniscient narration and explains that chapters alternate focal attention between Ayla and Jondalar while remaining in the same grammatical person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-valley-of-horses/quotes.html",
+      "title": "The Valley of Horses Quotes",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Quoted passages attributed to Chapters 1, 2, and 4 narrate Ayla and Jondalar externally in third person, corroborating the whole-book POV description across both storylines."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Valley of Horses\" \"Jean M. Auel\" official excerpt publisher, first chapter, and Google Books preview; Penguin Random House supplied only synopsis copy, while Google Books exposed only a limited-preview record.",
+    "Searched \"The Valley of Horses\" point of view, third person, omniscient, and narrator; opened the BookRags style analysis, which explicitly describes the novel's whole-book third-person omniscient structure.",
+    "Searched exact opening text and chapter excerpts; opened the BookRags quotation page containing third-person passages from Chapters 1, 2, and 4.",
+    "Opened the Open Library record for the 1982 Crown first edition; it exposed only the first sentence and a preview-only notice. Its linked Library of Congress sample returned HTTP 403, so neither was used as diagnostic prose evidence.",
+    "Searched for epistolary, diary, frame narrative, first-person narration, multiple narrators, and alternating point of view. Results described parallel or alternating Ayla/Jondalar storylines but produced no evidence of sustained first- or second-person base sections.",
+    "Opened publisher, Kirkus, and other structural-summary results; their synopsis grammar was treated as nondiagnostic, and an unauthorized online transcription was not used as evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. Multiple Goodreads passages independently show external access to Ayla's and Jondalar's actions, memories, sensations, and private thoughts. The many I, we, and you forms occur in dialogue or gnomic material, not base narration. Web research explicitly describes third-person omniscient narration with alternating Ayla- and Jondalar-focused chapters; alternating focal characters therefore do not warrant ALTERNATING. No credible contrary person evidence was found. Confidence is medium because the explicit whole-book web description and corroborating chapter quotations are Tier C, and the authorized library sample could not be accessed.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_022",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T19:46:26.753800+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "147a8adf172c54f5d6f6f550b9143e04772071531388e56aef0a5e9cf534a7f6"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:THE HOTEL NANTUCKET|Elin Hilderbrand",
+  "quotes": [
+    {
+      "quote_id": "q07221",
+      "person_signal": "non_base",
+      "note": "General aphorism/epigraph; it does not expose the novel's narrator."
+    },
+    {
+      "quote_id": "q07222",
+      "person_signal": "non_base",
+      "note": "Gnomic observation about August and Sunday afternoons, not story-specific narratorial person evidence."
+    },
+    {
+      "quote_id": "q07223",
+      "person_signal": "non_base",
+      "note": "Predominantly character speech; the brief third-person attribution does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q07224",
+      "person_signal": "non_base",
+      "note": "Playlist paratext rather than narrative prose."
+    },
+    {
+      "quote_id": "q07225",
+      "person_signal": "non_base",
+      "note": "Character speech with a brief attribution; its pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q07226",
+      "person_signal": "non_base",
+      "note": "Character dialogue, including direct address; the speech pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q07227",
+      "person_signal": "unmarked",
+      "note": "Possible narration about a character's mother, but the isolated third-person subject does not establish narrator participation."
+    },
+    {
+      "quote_id": "q07228",
+      "person_signal": "non_base",
+      "note": "Authorial travel-guide back matter, not narration constituting the novel."
+    },
+    {
+      "quote_id": "q07229",
+      "person_signal": "non_base",
+      "note": "Universal rhetorical questions about heartbreak, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q07230",
+      "person_signal": "unclear",
+      "note": "Truncated fragment lacks enough syntax and context to identify the narrating position."
+    },
+    {
+      "quote_id": "q07231",
+      "person_signal": "unclear",
+      "note": "Quotation boundaries and provenance are unresolved; the passage appears promotional rather than securely attributable to base narration."
+    },
+    {
+      "quote_id": "q07232",
+      "person_signal": "third",
+      "note": "Sustained external narration presents Magda's history, thoughts, and circumstances in third person without a participating-narrator frame."
+    },
+    {
+      "quote_id": "q07233",
+      "person_signal": "unmarked",
+      "note": "A single metaphorical statement about 'She' is insufficient to establish the narrator's person."
+    },
+    {
+      "quote_id": "q07234",
+      "person_signal": "unmarked",
+      "note": "The brief third-person action and evaluation are compatible with several narrating positions when isolated."
+    },
+    {
+      "quote_id": "q07235",
+      "person_signal": "non_base",
+      "note": "Predominantly character speech; the short action beat does not independently establish base person."
+    },
+    {
+      "quote_id": "q07236",
+      "person_signal": "unmarked",
+      "note": "The clipped sentence names characters externally but contains no locally visible marker of narrator participation; web context places it within the collective-voice opening section."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.hachettebookgroup.com/titles/elin-hilderbrand/the-hotel-nantucket/9780316259088/?lens=little-brown",
+      "title": "The Hotel Nantucket by Elin Hilderbrand | Hachette Book Group",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The publisher's sustained Chapter 1 excerpt alternates a participating collective narrator using 'us' and 'we' with extended third-person focalized narration about Jill, Lizbet, Jordan, and other characters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-hotel-nantucket/styles.html",
+      "title": "Elin Hilderbrand Writing Styles in The Hotel Nantucket",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural point-of-view analysis identifies the main narration as third-person limited while specifying that recurring chapters titled 'The Cobblestone Telegraph' use an active communal narrator speaking as 'us' and 'we'."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Hotel Nantucket\" \"point of view\" narrator and opened the explicit BookRags whole-book point-of-view analysis.",
+    "Searched \"The Hotel Nantucket\" excerpt Elin Hilderbrand and opened the authorized Hachette/Little, Brown Chapter 1 excerpt.",
+    "Searched for combinations involving \"The Cobblestone Telegraph,\" \"third-person limited,\" \"us,\" and \"we\" to verify that the collective voice recurs as named chapters rather than appearing only as an isolated phrase.",
+    "Reviewed SuperSummary quote analysis and Hachette catalog material; these corroborated third-person passages and multiple viewpoints but were not counted as additional exact ALTERNATING Tier A/B support."
+  ],
+  "person_note": "The novel sustains two base-person modes: a participating communal first-person-plural voice in recurring 'The Cobblestone Telegraph' sections and third-person limited narration elsewhere. The authorized excerpt directly displays both modes, while a Tier C whole-book guide identifies the recurring first-plural chapters alongside the third-person narration. These are recurring structural sections rather than a brief framing exception, so ALTERNATING remains appropriate. Confidence is medium because the Goodreads set does not expose both modes and the whole-book structural source is Tier C.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_080",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T00:54:50.741317+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "db6c027246ee9b0aea9a3a849277cd6eead6174744b965f5d38a676dbc04f8fc"
+  }
+}

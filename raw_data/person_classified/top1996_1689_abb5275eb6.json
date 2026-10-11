@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:1689",
+  "quotes": [
+    {
+      "quote_id": "q00083",
+      "person_signal": "non_base",
+      "note": "Dedication; paratext does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q00084",
+      "person_signal": "non_base",
+      "note": "Jack Ryan's speech followed by his local first-person thought, not first-person base narration."
+    },
+    {
+      "quote_id": "q00085",
+      "person_signal": "non_base",
+      "note": "Gnomic historical assertion with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00086",
+      "person_signal": "non_base",
+      "note": "Direct speech; its wording does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00087",
+      "person_signal": "non_base",
+      "note": "Sustained presidential speech; first-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q00088",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q00089",
+      "person_signal": "non_base",
+      "note": "Dedication; paratext does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q00090",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial exposition, but it contains no participating or externally narrated protagonist."
+    },
+    {
+      "quote_id": "q00091",
+      "person_signal": "unmarked",
+      "note": "Story-world generalization compatible with either first- or third-person narration."
+    },
+    {
+      "quote_id": "q00092",
+      "person_signal": "unmarked",
+      "note": "A bare third-person plural subject is insufficient to establish narrator person."
+    },
+    {
+      "quote_id": "q00093",
+      "person_signal": "unmarked",
+      "note": "Narratorial-looking exposition, but the generalized subject does not diagnose person."
+    },
+    {
+      "quote_id": "q00094",
+      "person_signal": "unmarked",
+      "note": "The second-person wording is universal analogy, not sustained narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q00095",
+      "person_signal": "unmarked",
+      "note": "The single externally phrased reference to he is insufficient on its own."
+    },
+    {
+      "quote_id": "q00096",
+      "person_signal": "unmarked",
+      "note": "Generalized political commentary does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00097",
+      "person_signal": "non_base",
+      "note": "Direct dialogue; the third-person speech beat is too brief to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00098",
+      "person_signal": "unmarked",
+      "note": "Narratorial aphoristic exposition without diagnostic person marking."
+    },
+    {
+      "quote_id": "q00099",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within direct speech."
+    },
+    {
+      "quote_id": "q00100",
+      "person_signal": "unmarked",
+      "note": "Generalized exposition does not reveal whether a narrator participates."
+    },
+    {
+      "quote_id": "q00101",
+      "person_signal": "unmarked",
+      "note": "Expository assertion with no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00102",
+      "person_signal": "unmarked",
+      "note": "Generalized assertion about commanders, not sufficient third-person context."
+    },
+    {
+      "quote_id": "q00103",
+      "person_signal": "unmarked",
+      "note": "Story-world generalization with no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q00104",
+      "person_signal": "non_base",
+      "note": "Clipped direct address from speech, not base second-person narration."
+    },
+    {
+      "quote_id": "q00105",
+      "person_signal": "non_base",
+      "note": "First-person pronouns belong to a speaking character."
+    },
+    {
+      "quote_id": "q00106",
+      "person_signal": "unmarked",
+      "note": "Extended institutional generalization remains compatible with multiple narrator persons."
+    },
+    {
+      "quote_id": "q00107",
+      "person_signal": "unmarked",
+      "note": "A single he-subject sentence is insufficient to establish third-person narration."
+    },
+    {
+      "quote_id": "q00108",
+      "person_signal": "unmarked",
+      "note": "General observation about stories without diagnostic narrator marking."
+    },
+    {
+      "quote_id": "q00109",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased he-subject sentence is insufficient by itself."
+    },
+    {
+      "quote_id": "q00110",
+      "person_signal": "unmarked",
+      "note": "Named-character statement alone does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q00111",
+      "person_signal": "non_base",
+      "note": "Attributed-style gnomic saying, not story narration."
+    },
+    {
+      "quote_id": "q00112",
+      "person_signal": "third",
+      "note": "Sustained narration refers externally to a focal character as he while rendering his beliefs and judgments, exposing third-person base narration."
+    },
+    {
+      "quote_id": "q00113",
+      "person_signal": "non_base",
+      "note": "Rhetorical question in direct speech; no base-narrator signal."
+    },
+    {
+      "quote_id": "q00114",
+      "person_signal": "unmarked",
+      "note": "Extended factual anecdote lacks diagnostic narrator participation or framing."
+    },
+    {
+      "quote_id": "q00115",
+      "person_signal": "unmarked",
+      "note": "Focalized reflection uses his, but this isolated sentence does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00116",
+      "person_signal": "unmarked",
+      "note": "A single focalized he/himself passage is insufficient without wider narratorial context."
+    },
+    {
+      "quote_id": "q00117",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection does not identify the story's base narrator."
+    },
+    {
+      "quote_id": "q00118",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, sustained outside speech beats and thought tags refer to Jack and Winston externally, exposing third-person narration."
+    },
+    {
+      "quote_id": "q00119",
+      "person_signal": "third",
+      "note": "Long dialogue is framed by sustained external beats and access to Ryan's inner state, diagnostic of third-person base narration."
+    },
+    {
+      "quote_id": "q00120",
+      "person_signal": "unmarked",
+      "note": "Historical and generic exposition does not by itself identify narrator participation."
+    },
+    {
+      "quote_id": "q00121",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation of magic rather than diagnostic event narration."
+    },
+    {
+      "quote_id": "q00122",
+      "person_signal": "unclear",
+      "note": "Quotation boundaries are absent, so speech, maxim, and narration cannot be resolved."
+    },
+    {
+      "quote_id": "q00123",
+      "person_signal": "unmarked",
+      "note": "A single he-subject sentence is insufficient to establish third-person narration."
+    },
+    {
+      "quote_id": "q00124",
+      "person_signal": "unmarked",
+      "note": "Narratorial-looking social commentary uses only generic you and does not diagnose narrator person."
+    },
+    {
+      "quote_id": "q00125",
+      "person_signal": "non_base",
+      "note": "Titled verse or epigraph-like paratext; its I/you voice is not the novel's base narration."
+    },
+    {
+      "quote_id": "q00126",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00127",
+      "person_signal": "non_base",
+      "note": "Gnomic statement uses universal you, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q00128",
+      "person_signal": "non_base",
+      "note": "Gnomic animal analogy with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q00129",
+      "person_signal": "unclear",
+      "note": "The unattributed second-person fragment could be speech, thought, or narration; local structure is unresolved."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.enotes.com/topics/executive-orders/in-depth",
+      "title": "Executive Orders Analysis",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Structural analysis describes the novel's episodic narration shifting among unframed scenes and characters across multiple countries, corroborating a mobile, nonparticipating narrating position."
+    },
+    {
+      "url": "https://sobrief.com/books/executive-orders",
+      "title": "Executive Orders | Summary, Audio, Analysis, FAQ",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies the book's broad omniscient third-person perspective and explains that it moves among numerous characters and global locations."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/entertainment/books/1996/08/18/president-jack-ryan/19e9b697-5b9b-4cf4-a7a5-1d55762f05b1/",
+      "title": "President Jack Ryan",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Contemporary review reproduces an interior narratorial passage that refers externally to Jack and reports what he saw, corroborating third-person narration away from the opening."
+    },
+    {
+      "url": "https://tomclancy.com/product/executive-orders",
+      "title": "Executive Orders, Jack Ryan",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "Official product page verifies the work but supplies catalog copy rather than a sustained excerpt; its isolated first-person questions represent Ryan's local thought and do not establish first-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Executive Orders\" \"Tom Clancy\" excerpt, first chapter, and read sample; opened Penguin Random House, Hachette UK, Google Books, and Open Library records.",
+    "Publisher sample controls and Google Books/Open Library previews did not expose sustained searchable prose, so their catalog descriptions were not treated as person evidence.",
+    "Searched \"Executive Orders\" third-person, omniscient, point of view, narrator, and narrative perspective; opened the eNotes structural analysis and SoBrief's explicit POV analysis.",
+    "Opened the official Tom Clancy product page and the contemporary Washington Post review to distinguish Ryan's embedded first-person thought from the book's third-person narration.",
+    "A non-authorized full-text result was discovered during excerpt searching but was not relied upon because stronger attributable sources were available."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person, moving among Jack Ryan and many other characters while sometimes entering their thoughts. The clearest quote evidence is q00112 and the narratorial framing in q00118-q00119; most shorter event quotations are conservatively unmarked because a name or he alone cannot diagnose narrator person. First-person language in q00084, the speeches, and the official product-page teaser belongs to character speech or direct thought, while second-person instances are dialogue or universal maxims. Whole-book structural analysis and an explicit POV source agree with an interior passage reproduced by a contemporary review. No credible evidence indicates sustained first- or second-person base sections; the only material uncertainty is that accessible authorized sample prose was limited.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.226479+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "27085e62f09b290ddb1e29f2b5defb8c30b795e1ec444e5374f6a0e55e8a3bf4"
+  }
+}

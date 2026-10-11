@@ -1,0 +1,545 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:5452",
+  "quotes": [
+    {
+      "quote_id": "q02839",
+      "person_signal": "unmarked",
+      "note": "Aphoristic narration contains no participating narrator or sustained third-person context."
+    },
+    {
+      "quote_id": "q02840",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; first-person plural is generic rather than a participating narrator."
+    },
+    {
+      "quote_id": "q02841",
+      "person_signal": "unclear",
+      "note": "Second-person address is clipped and could be speech or internal self-address."
+    },
+    {
+      "quote_id": "q02842",
+      "person_signal": "unmarked",
+      "note": "Aphoristic statement does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q02843",
+      "person_signal": "unmarked",
+      "note": "Reflective prose lacks a securely attributed narrating subject."
+    },
+    {
+      "quote_id": "q02844",
+      "person_signal": "third",
+      "note": "Extended narration reports a woman's perceptions and thoughts as she/her; generic our/you occurs within her reflection."
+    },
+    {
+      "quote_id": "q02845",
+      "person_signal": "non_base",
+      "note": "Gnomic second person refers generically to anyone, not a story-specific protagonist."
+    },
+    {
+      "quote_id": "q02846",
+      "person_signal": "unmarked",
+      "note": "Brief reference to her is insufficient by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02847",
+      "person_signal": "unmarked",
+      "note": "Generalized second person is reflective rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q02848",
+      "person_signal": "third",
+      "note": "Narration externally identifies her while reporting her longing and evaluation of her life."
+    },
+    {
+      "quote_id": "q02849",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a woman's mental state as her/she."
+    },
+    {
+      "quote_id": "q02850",
+      "person_signal": "unmarked",
+      "note": "Proverb-like sentence does not identify narrative person."
+    },
+    {
+      "quote_id": "q02851",
+      "person_signal": "third",
+      "note": "External narration presents he and her while reporting her subjective sensation."
+    },
+    {
+      "quote_id": "q02852",
+      "person_signal": "third",
+      "note": "External she narration gives direct access to the focal character's understanding."
+    },
+    {
+      "quote_id": "q02853",
+      "person_signal": "unmarked",
+      "note": "Generic you appears in an aphoristic example, not as the narrated protagonist."
+    },
+    {
+      "quote_id": "q02854",
+      "person_signal": "unmarked",
+      "note": "The brief speculative reflection or unframed thought does not independently establish narrator participation; its local pronouns should not inherit the book-level label."
+    },
+    {
+      "quote_id": "q02855",
+      "person_signal": "unmarked",
+      "note": "Generic self-address uses you but does not establish sustained second-person base narration."
+    },
+    {
+      "quote_id": "q02856",
+      "person_signal": "third",
+      "note": "External she/her narration reports knowledge of her moral limits."
+    },
+    {
+      "quote_id": "q02857",
+      "person_signal": "non_base",
+      "note": "Gnomic you refers generically to mothers."
+    },
+    {
+      "quote_id": "q02858",
+      "person_signal": "unmarked",
+      "note": "A single externally named character statement is not sufficient third-person evidence."
+    },
+    {
+      "quote_id": "q02859",
+      "person_signal": "unmarked",
+      "note": "I appears only in a phrase being discussed; generic you does not identify the narrator."
+    },
+    {
+      "quote_id": "q02860",
+      "person_signal": "third",
+      "note": "Sustained Cecilia/she narration includes her observations and free-indirect reactions."
+    },
+    {
+      "quote_id": "q02861",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical questions contain no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q02862",
+      "person_signal": "unclear",
+      "note": "Generic you may be reflection or local thought, and the clipped context does not resolve its status."
+    },
+    {
+      "quote_id": "q02863",
+      "person_signal": "unmarked",
+      "note": "The isolated she statement does not provide enough local context for a diagnostic signal."
+    },
+    {
+      "quote_id": "q02864",
+      "person_signal": "third",
+      "note": "Sustained external narration names Cecilia and reports her perceptions, priorities, and thoughts."
+    },
+    {
+      "quote_id": "q02865",
+      "person_signal": "unmarked",
+      "note": "Generic you and quoted I occur within a general proposition rather than narrator self-reference."
+    },
+    {
+      "quote_id": "q02866",
+      "person_signal": "non_base",
+      "note": "Gnomic myth retelling is outside the novel's base story narration."
+    },
+    {
+      "quote_id": "q02867",
+      "person_signal": "non_base",
+      "note": "Character dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02868",
+      "person_signal": "third",
+      "note": "External she narration reports the focal character's sustained desires."
+    },
+    {
+      "quote_id": "q02869",
+      "person_signal": "non_base",
+      "note": "First and second person occur in character dialogue."
+    },
+    {
+      "quote_id": "q02870",
+      "person_signal": "unmarked",
+      "note": "Generalized evaluative statement does not identify the narrator's participation."
+    },
+    {
+      "quote_id": "q02871",
+      "person_signal": "unmarked",
+      "note": "A brief she reference alone is insufficient to establish the controlling person."
+    },
+    {
+      "quote_id": "q02872",
+      "person_signal": "non_base",
+      "note": "First person occurs in character dialogue."
+    },
+    {
+      "quote_id": "q02873",
+      "person_signal": "unmarked",
+      "note": "General observation lacks a diagnostic narrating position."
+    },
+    {
+      "quote_id": "q02874",
+      "person_signal": "unmarked",
+      "note": "The brief speculative reflection or unframed thought does not independently establish narrator participation; its local pronouns should not inherit the book-level label."
+    },
+    {
+      "quote_id": "q02875",
+      "person_signal": "third",
+      "note": "Dialogue is enclosed by third-person narration identifying Cecilia as she and another character as he."
+    },
+    {
+      "quote_id": "q02876",
+      "person_signal": "third",
+      "note": "External her/she narration renders the focal character's present sadness."
+    },
+    {
+      "quote_id": "q02877",
+      "person_signal": "third",
+      "note": "Narration names Tess externally and reports her internal sensation and habitual response."
+    },
+    {
+      "quote_id": "q02878",
+      "person_signal": "third",
+      "note": "External she narration sustains intimate access to the focal character's anticipated grief."
+    },
+    {
+      "quote_id": "q02879",
+      "person_signal": "unmarked",
+      "note": "The short passage implies a focal character but does not overtly establish narrative person."
+    },
+    {
+      "quote_id": "q02880",
+      "person_signal": "third",
+      "note": "Base narration repeatedly calls the character she; I appears only in an explicitly attributed thought."
+    },
+    {
+      "quote_id": "q02881",
+      "person_signal": "non_base",
+      "note": "First and second person occur entirely in dialogue."
+    },
+    {
+      "quote_id": "q02882",
+      "person_signal": "third",
+      "note": "Sustained she/Tess narration reports self-questioning, memories, and social anxiety."
+    },
+    {
+      "quote_id": "q02883",
+      "person_signal": "third",
+      "note": "External she narration reports the focal character's response; embedded you is generic."
+    },
+    {
+      "quote_id": "q02884",
+      "person_signal": "unmarked",
+      "note": "The brief speculative reflection or unframed thought does not independently establish narrator participation; its local pronouns should not inherit the book-level label."
+    },
+    {
+      "quote_id": "q02885",
+      "person_signal": "third",
+      "note": "Sustained her/she narration presents the focal character's changing grief."
+    },
+    {
+      "quote_id": "q02886",
+      "person_signal": "third",
+      "note": "Extended she/her narration gives intimate access to memory and desire; my God is local thought."
+    },
+    {
+      "quote_id": "q02887",
+      "person_signal": "third",
+      "note": "External Cecilia/she narration frames a hypothetical complaint; its you/me language is embedded."
+    },
+    {
+      "quote_id": "q02888",
+      "person_signal": "unmarked",
+      "note": "Generalized assertion does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02889",
+      "person_signal": "unmarked",
+      "note": "Generic rhetorical you is compatible with free-indirect reflection but does not itself establish person."
+    },
+    {
+      "quote_id": "q02890",
+      "person_signal": "third",
+      "note": "External narration names Tess and Cecilia and reports Cecilia's desire."
+    },
+    {
+      "quote_id": "q02891",
+      "person_signal": "third",
+      "note": "Sustained she narration reports a character's memories, knowledge, hatred, and continuing love."
+    },
+    {
+      "quote_id": "q02892",
+      "person_signal": "unmarked",
+      "note": "Brief evaluative sentence lacks an overtly identified narrator or focal character."
+    },
+    {
+      "quote_id": "q02893",
+      "person_signal": "unmarked",
+      "note": "Generic you appears in a generalized reflection rather than sustained second-person narration."
+    },
+    {
+      "quote_id": "q02894",
+      "person_signal": "third",
+      "note": "External Tess/she narration frames quoted speech and generic internalized prescriptions."
+    },
+    {
+      "quote_id": "q02895",
+      "person_signal": "unmarked",
+      "note": "Generic you expresses a rule for marriage, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02896",
+      "person_signal": "unmarked",
+      "note": "Aphoristic statement does not identify narrative person."
+    },
+    {
+      "quote_id": "q02897",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person plural refers generally to people, not a participating narrator."
+    },
+    {
+      "quote_id": "q02898",
+      "person_signal": "third",
+      "note": "External Cecilia/she narration reports her observations and wishes."
+    },
+    {
+      "quote_id": "q02899",
+      "person_signal": "unmarked",
+      "note": "Free-indirect generalization lacks an overt narratorial person marker."
+    },
+    {
+      "quote_id": "q02900",
+      "person_signal": "third",
+      "note": "External she narration presents perception and comparisons across the focal character's life."
+    },
+    {
+      "quote_id": "q02901",
+      "person_signal": "third",
+      "note": "Sustained her/she/Cecilia narration reports memories and expectations; I appears in a stylized embedded attitude."
+    },
+    {
+      "quote_id": "q02902",
+      "person_signal": "third",
+      "note": "External she/her narration summarizes the focal character's past insecurity and concerns."
+    },
+    {
+      "quote_id": "q02903",
+      "person_signal": "third",
+      "note": "External he narration reports his inability to understand Rachel's outlook."
+    },
+    {
+      "quote_id": "q02904",
+      "person_signal": "third",
+      "note": "Generic you forms part of a reflection subsequently attributed to she, revealing third-person base narration."
+    },
+    {
+      "quote_id": "q02905",
+      "person_signal": "third",
+      "note": "First person is quoted speech, while the surrounding she/Cecilia narration is externally third person."
+    },
+    {
+      "quote_id": "q02906",
+      "person_signal": "third",
+      "note": "External her/she narration summarizes the focal character's identity and self-conception."
+    },
+    {
+      "quote_id": "q02907",
+      "person_signal": "third",
+      "note": "External narration names Cecilia and reports her thought and figurative perception."
+    },
+    {
+      "quote_id": "q02908",
+      "person_signal": "third",
+      "note": "Although mostly dialogue and an embedded letter, the outside beats identify Tess externally and narrate her reaction."
+    },
+    {
+      "quote_id": "q02909",
+      "person_signal": "non_base",
+      "note": "Gnomic second person refers generically to anyone experiencing tragedy."
+    },
+    {
+      "quote_id": "q02910",
+      "person_signal": "unmarked",
+      "note": "A single her reference does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q02911",
+      "person_signal": "unmarked",
+      "note": "General observation contains no diagnostic person marker."
+    },
+    {
+      "quote_id": "q02912",
+      "person_signal": "third",
+      "note": "Sustained they/he/Will narration describes the couple externally before quoted dialogue."
+    },
+    {
+      "quote_id": "q02913",
+      "person_signal": "unmarked",
+      "note": "Fragmentary internal emphasis does not expose narrative person."
+    },
+    {
+      "quote_id": "q02914",
+      "person_signal": "non_base",
+      "note": "Second person occurs in quoted client speech; the attribution alone is not used as controlling evidence."
+    },
+    {
+      "quote_id": "q02915",
+      "person_signal": "third",
+      "note": "First person is explicitly marked as her thought, while she thought supplies the third-person base frame."
+    },
+    {
+      "quote_id": "q02916",
+      "person_signal": "unmarked",
+      "note": "General evaluative statement does not identify narrator person."
+    },
+    {
+      "quote_id": "q02917",
+      "person_signal": "third",
+      "note": "Extended she/Tess narration recounts childhood, growth, and internal anxiety; you is embedded speech."
+    },
+    {
+      "quote_id": "q02918",
+      "person_signal": "unmarked",
+      "note": "The isolated she action is insufficient third-person evidence by itself."
+    },
+    {
+      "quote_id": "q02919",
+      "person_signal": "third",
+      "note": "Sustained their/she narration reports the focal character's knowledge, pleasure, and reason for marrying."
+    },
+    {
+      "quote_id": "q02920",
+      "person_signal": "third",
+      "note": "External she narration presents the focal character's anticipated lifelong burden."
+    },
+    {
+      "quote_id": "q02921",
+      "person_signal": "third",
+      "note": "External she/her narration reports bodily sensations and anxious thought."
+    },
+    {
+      "quote_id": "q02922",
+      "person_signal": "third",
+      "note": "Narration names Tess externally and renders her subjective emotional balance."
+    },
+    {
+      "quote_id": "q02923",
+      "person_signal": "third",
+      "note": "External her/she narration explains the focal character's sense of separation."
+    },
+    {
+      "quote_id": "q02924",
+      "person_signal": "third",
+      "note": "Cecilia's first-person-like thought is attributed within external Cecilia/she narration; you is generic."
+    },
+    {
+      "quote_id": "q02925",
+      "person_signal": "non_base",
+      "note": "First and second person occur in character dialogue."
+    },
+    {
+      "quote_id": "q02926",
+      "person_signal": "third",
+      "note": "Sustained she/her narration presents memory, resolve, and imagined consequences for Liam."
+    },
+    {
+      "quote_id": "q02927",
+      "person_signal": "third",
+      "note": "External she/her narration reports a habitual response to private terror."
+    },
+    {
+      "quote_id": "q02928",
+      "person_signal": "third",
+      "note": "Sustained Cecilia/she/her narration gives external narration and evaluative access."
+    },
+    {
+      "quote_id": "q02929",
+      "person_signal": "third",
+      "note": "External he/she/her narration reports certainty, irritation, and an impulse to strike him."
+    },
+    {
+      "quote_id": "q02930",
+      "person_signal": "third",
+      "note": "External Rachel/she narration frames memory fragments and direct address to Janie as local thought."
+    },
+    {
+      "quote_id": "q02931",
+      "person_signal": "third",
+      "note": "External she/her narration reports the focal character's past social difficulty and perceptions."
+    },
+    {
+      "quote_id": "q02932",
+      "person_signal": "third",
+      "note": "External he narration asserts the man's future conduct, needs, and recent feelings."
+    },
+    {
+      "quote_id": "q02933",
+      "person_signal": "third",
+      "note": "Sustained she/her narration follows the focal character's actions and indecision."
+    },
+    {
+      "quote_id": "q02934",
+      "person_signal": "third",
+      "note": "External she narration reports the focal character's self-doubt and prediction."
+    },
+    {
+      "quote_id": "q02935",
+      "person_signal": "unmarked",
+      "note": "Generic you expresses a general observation, not sustained second-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.panmacmillan.com.au/wp-content/uploads/2023/11/9781742613949-notes.pdf",
+      "title": "Book Notes: Liane Moriarty | The Husband\u2019s Secret",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Macmillan Australia's structural notes explicitly state that the novel is told in third person and explain that its alternate narratives remain focused on three women."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-husbands-secret/excerpt",
+      "title": "The Husband's Secret by Liane Moriarty | Excerpt",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The opened Chapter 1 excerpt sustains external Cecilia/she narration while rendering Cecilia's thoughts; it establishes the opening's third-person mode."
+    },
+    {
+      "url": "https://lauralizbuckley.net/book-reviews/book-review-the-husbands-secret/",
+      "title": "Book Review: The Husband's Secret",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes every chapter as close third person, shifting among Cecilia, Tess, and Rachel and later switching at scene breaks."
+    },
+    {
+      "url": "https://bookishbarrister.wordpress.com/2015/06/12/book-review-the-husbands-secret-by-liane-moriarty/comment-page-1/",
+      "title": "Book Review: \u201cThe Husband\u2019s Secret\u201d by Liane Moriarty",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The reviewer explicitly says the book switches among characters while remaining entirely in third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Husband's Secret Liane Moriarty official excerpt chapter\"; opened the Bookreporter Chapter 1 excerpt.",
+    "Searched \"The Husband's Secret Liane Moriarty point of view third person multiple perspectives\"; opened Macmillan Australia book notes and two explicit whole-book reviews.",
+    "Searched \"The Husband's Secret Liane Moriarty narrator third person review\"; results consistently described rotating or close third-person perspectives.",
+    "Searched site:lianemoriarty.com.au for a title excerpt; no usable author-hosted excerpt was found.",
+    "Opened a Goodreads-hosted PDF result, but it returned an internal access error and was not used as evidence. Plot summaries and search-result snippets were also excluded as person evidence."
+  ],
+  "person_note": "The quotes repeatedly show a nonparticipating narrator rendering Cecilia's, Tess's, Rachel's, and other characters' inner states through close third-person narration. Apparent I passages are explicitly framed as dialogue or thought, while most uses of you and we are generic or gnomic rather than a second- or first-person base voice. Macmillan Australia's whole-book structural notes independently identify third person and alternate stories focused on three women; the opened excerpt and two explicit reviews corroborate that all focal shifts remain third person. There is no credible evidence of sustained first- or second-person sections, so multiple focal characters do not make the book ALTERNATING. Remaining uncertainty is limited to a few clipped quotes whose local voice cannot be resolved and does not affect the strongly established whole-book structure. Quote audit: q02854, q02874, and q02884 were conservatively marked unmarked because their local framing is insufficient.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_053",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T10:25:43.744290+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5876c65a3503421af1a4469cc1db1f275fa748c65f29746fb8480527a05d4758"
+  }
+}

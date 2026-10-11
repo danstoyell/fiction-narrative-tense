@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:137",
+  "quotes": [
+    {
+      "quote_id": "q02269",
+      "person_signal": "non_base",
+      "note": "Generalized aphorism using universal \u201cyou\u201d; it does not identify the narrator."
+    },
+    {
+      "quote_id": "q02270",
+      "person_signal": "first",
+      "note": "Guillam directly narrates his own sexual encounter as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02271",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Peter; the speaker\u2019s \u201cI\u201d is not base narration."
+    },
+    {
+      "quote_id": "q02272",
+      "person_signal": "non_base",
+      "note": "Gnomic advice with generalized \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q02273",
+      "person_signal": "unmarked",
+      "note": "A scene statement with no diagnostic narrator-participation marker."
+    },
+    {
+      "quote_id": "q02274",
+      "person_signal": "non_base",
+      "note": "An impersonal maxim about interrogation rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q02275",
+      "person_signal": "non_base",
+      "note": "Quoted recruitment speech; its first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q02276",
+      "person_signal": "non_base",
+      "note": "Dialogue quoting a generalized saying, not the base narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02277",
+      "person_signal": "first",
+      "note": "The participating narrator identifies George through his own memory: \u201cI remembered.\u201d"
+    },
+    {
+      "quote_id": "q02278",
+      "person_signal": "non_base",
+      "note": "Direct speech to Peter; the speaker\u2019s \u201cwe\u201d is local dialogue."
+    },
+    {
+      "quote_id": "q02279",
+      "person_signal": "non_base",
+      "note": "Rhetorical speech whose \u201cwe\u201d and \u201cyou\u201d belong to the quoted exchange."
+    },
+    {
+      "quote_id": "q02280",
+      "person_signal": "first",
+      "note": "Within the recollection, the narrator reports his own words with \u201cI said.\u201d"
+    },
+    {
+      "quote_id": "q02281",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration uses \u201cI\u201d and \u201cwe\u201d for Guillam and his experience."
+    },
+    {
+      "quote_id": "q02282",
+      "person_signal": "first",
+      "note": "Outside the quoted exchange, the narration says \u201cI have mispronounced it,\u201d exposing the participating narrator."
+    },
+    {
+      "quote_id": "q02283",
+      "person_signal": "first",
+      "note": "Sustained scene narration places the narrator among the workers as \u201cwe\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02284",
+      "person_signal": "first",
+      "note": "The exterior speech beat says another character shoves \u201cme,\u201d identifying the participating narrator despite the dialogue-heavy passage."
+    },
+    {
+      "quote_id": "q02285",
+      "person_signal": "non_base",
+      "note": "A quoted exchange addressed to Peter; it does not expose the base narrating position."
+    },
+    {
+      "quote_id": "q02286",
+      "person_signal": "first",
+      "note": "The narrator describes Control and explicitly states that \u201cI have spoken to him.\u201d"
+    },
+    {
+      "quote_id": "q02287",
+      "person_signal": "first",
+      "note": "The narrator situates himself within the scene through \u201camong us.\u201d"
+    },
+    {
+      "quote_id": "q02288",
+      "person_signal": "first",
+      "note": "The narrator participates in the represented organization and contrasts Connie with \u201cminds like mine.\u201d"
+    },
+    {
+      "quote_id": "q02289",
+      "person_signal": "unmarked",
+      "note": "Historical summary without a diagnostic narrator pronoun; compatible with Guillam\u2019s first-person account."
+    },
+    {
+      "quote_id": "q02290",
+      "person_signal": "unmarked",
+      "note": "Third-person summary of Tulip\u2019s arrival does not by itself establish a nonparticipating base narrator."
+    },
+    {
+      "quote_id": "q02291",
+      "person_signal": "first",
+      "note": "The narrator participates directly in the cremation: \u201cWe cremated her.\u201d"
+    },
+    {
+      "quote_id": "q02292",
+      "person_signal": "first",
+      "note": "Guillam explicitly narrates his thoughts, feelings, and similarity to Smiley as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02293",
+      "person_signal": "unmarked",
+      "note": "Description of Smiley contains only a generalized comparative \u201cyou,\u201d not controlling second-person narration."
+    },
+    {
+      "quote_id": "q02294",
+      "person_signal": "first",
+      "note": "Extended self-questioning repeatedly refers to the narrator\u2019s experience as \u201cI\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q02295",
+      "person_signal": "non_base",
+      "note": "A labeled transcript of several speakers embedded in the novel."
+    },
+    {
+      "quote_id": "q02296",
+      "person_signal": "non_base",
+      "note": "A sustained third-person documentary account of Alec and Tulip embedded within Guillam\u2019s first-person frame."
+    },
+    {
+      "quote_id": "q02297",
+      "person_signal": "non_base",
+      "note": "A labeled transcript whose first-person language belongs to the recorded speakers."
+    },
+    {
+      "quote_id": "q02298",
+      "person_signal": "first",
+      "note": "Guillam narrates his own surveillance reasoning through repeated \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02299",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports his current act of remembering as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02300",
+      "person_signal": "first",
+      "note": "Sustained present-tense narration follows Guillam\u2019s own movements as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02301",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the outer indirect narration repeatedly identifies the interviewer as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02302",
+      "person_signal": "first",
+      "note": "The participating narrator frames the reported explanation with \u201cI ask her.\u201d"
+    },
+    {
+      "quote_id": "q02303",
+      "person_signal": "first",
+      "note": "The participating narrator initiates and reports the exchange as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02304",
+      "person_signal": "first",
+      "note": "The outer narration says her third identity is the one \u201cI see\u201d; the longer inner \u201cI\u201d passage is her speech."
+    },
+    {
+      "quote_id": "q02305",
+      "person_signal": "non_base",
+      "note": "A case-file-style profile summarizes Mayflower\u2019s reported testimony and quotations rather than exposing the base voice."
+    },
+    {
+      "quote_id": "q02306",
+      "person_signal": "first",
+      "note": "Guillam explicitly recalls and evaluates his own earlier encounter as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02307",
+      "person_signal": "unmarked",
+      "note": "Impersonal safe-house description contains no diagnostic marker of narrator participation."
+    },
+    {
+      "quote_id": "q02308",
+      "person_signal": "unmarked",
+      "note": "A report-derived description about Mayflower does not independently identify the base narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02309",
+      "person_signal": "first",
+      "note": "The narrator describes a safe flat he occupied and what \u201cI automatically assumed.\u201d"
+    },
+    {
+      "quote_id": "q02310",
+      "person_signal": "unmarked",
+      "note": "Direct speech is followed by an unmarked narratorial reaction; neither identifies person by itself."
+    },
+    {
+      "quote_id": "q02311",
+      "person_signal": "first",
+      "note": "The narrator recalls constructing the birdhouse with Mendel as \u201cMendel and I.\u201d"
+    },
+    {
+      "quote_id": "q02312",
+      "person_signal": "non_base",
+      "note": "Direct speech addressing Guillam as \u201cyou\u201d; it is not second-person base narration."
+    },
+    {
+      "quote_id": "q02313",
+      "person_signal": "non_base",
+      "note": "A quoted exchange whose \u201cI\u201d and \u201cyou\u201d belong to dialogue."
+    },
+    {
+      "quote_id": "q02314",
+      "person_signal": "first",
+      "note": "The passage is anchored in what happened to \u201cme\u201d and then shifts into Guillam\u2019s self-projected \u201cyou\u201d; it remains first-person recollection."
+    },
+    {
+      "quote_id": "q02315",
+      "person_signal": "unmarked",
+      "note": "General observation and description of an envelope do not identify narrator participation."
+    },
+    {
+      "quote_id": "q02316",
+      "person_signal": "first",
+      "note": "Explicit autobiographical narration concerns how \u201cI came to be recruited\u201d and the mystery of \u201cmy birth.\u201d"
+    },
+    {
+      "quote_id": "q02317",
+      "person_signal": "non_base",
+      "note": "Dialogue addressing Guillam as \u201cyou,\u201d not controlling second-person narration."
+    },
+    {
+      "quote_id": "q02318",
+      "person_signal": "non_base",
+      "note": "Paratextual phrase with no narratorial person evidence."
+    },
+    {
+      "quote_id": "q02319",
+      "person_signal": "first",
+      "note": "The narrator includes himself among the participants through \u201cthose of us who endured them.\u201d"
+    },
+    {
+      "quote_id": "q02320",
+      "person_signal": "non_base",
+      "note": "A clipped dialogue exchange; its \u201cour\u201d and \u201cwe\u201d belong to a speaker."
+    },
+    {
+      "quote_id": "q02321",
+      "person_signal": "non_base",
+      "note": "Control\u2019s extended direct speech and its pronouns are local dialogue."
+    },
+    {
+      "quote_id": "q02322",
+      "person_signal": "unmarked",
+      "note": "Impersonal, case-file-style site description provides no diagnostic base-narrator marker."
+    },
+    {
+      "quote_id": "q02323",
+      "person_signal": "first",
+      "note": "The outer scene includes something being handed to \u201cme\u201d; the letter\u2019s first-person language is embedded and not the basis of the signal."
+    },
+    {
+      "quote_id": "q02324",
+      "person_signal": "first",
+      "note": "Sustained narration of Guillam\u2019s own movements and memories repeatedly uses \u201cI\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q02325",
+      "person_signal": "first",
+      "note": "Guillam narrates his own approach and memories as \u201cI,\u201d with brief imagined dialogue embedded."
+    },
+    {
+      "quote_id": "q02326",
+      "person_signal": "unmarked",
+      "note": "Comment about Bill contains no diagnostic reference to narrator participation."
+    },
+    {
+      "quote_id": "q02327",
+      "person_signal": "non_base",
+      "note": "A direct exchange about Control; its collective pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q02328",
+      "person_signal": "first",
+      "note": "Autobiographical narration recounts when Smiley entered the narrator\u2019s life, repeatedly using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02329",
+      "person_signal": "non_base",
+      "note": "Persian-language dialogue rhetorically addresses George; its first-person content is local speech."
+    },
+    {
+      "quote_id": "q02330",
+      "person_signal": "non_base",
+      "note": "Persian-language invective addressed to spies is dialogue, not base narration."
+    },
+    {
+      "quote_id": "q02331",
+      "person_signal": "non_base",
+      "note": "Gnomic advice using generalized \u201cyou,\u201d duplicating an aphoristic line."
+    },
+    {
+      "quote_id": "q02332",
+      "person_signal": "first",
+      "note": "The opening explicitly defines the book as the narrator\u2019s truthful account of \u201cmy role\u201d in Windfall."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241396384/9780241396384-sample.pdf",
+      "title": "A Legacy of Spies \u2014 Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized 29-page Penguin sample sustains Peter Guillam\u2019s participating \u201cI/my\u201d narration across the opening chapters. Its temporary \u201cyou\u201d passage is a self-projected reconstruction within that first-person account."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/558020/a-legacy-of-spies-by-john-le-carre/",
+      "title": "A Legacy of Spies by John le Carr\u00e9",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The official publisher description identifies Peter Guillam as the book\u2019s narrator and describes the past and present as parts of one interwoven plot."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2017/sep/10/a-legacy-of-spies-john-le-carre-review",
+      "title": "A Legacy of Spies review \u2013 a final turn from Smiley\u2019s Circus?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Observer review explicitly says the novel is narrated by retired Circus officer Peter Guillam and notes that he reviews case documents during his account."
+    },
+    {
+      "url": "https://www.standard.co.uk/culture/books/a-legacy-of-spies-by-john-le-carre-review-a3629656.html",
+      "title": "A Legacy of Spies by John le Carr\u00e9 - review",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly calls the novel first person, with Guillam writing in the present and recalling events fifty years earlier; it also explains that contemporaneous reports and documents are incorporated verbatim."
+    }
+  ],
+  "search_log": [
+    "Searched site:penguinrandomhouse.com and site:penguin.co.uk for \u201cA Legacy of Spies\u201d samples and extracts; found the official book page and a sustained Penguin sample PDF.",
+    "Searched \u201cA Legacy of Spies\u201d with \u201cfirst person,\u201d \u201cnarrator,\u201d and \u201cnarrated by Peter Guillam\u201d; found explicit whole-book descriptions in the Standard and Observer/Guardian reviews.",
+    "Searched the title with \u201cepistolary,\u201d \u201cdocuments,\u201d and \u201cstructure\u201d; sources described embedded case files and written reports within Guillam\u2019s narration, not an autonomous narratorial person.",
+    "Searched the title with \u201cmultiple narrators\u201d and \u201calternating point of view\u201d; found no credible evidence of sustained base sections controlled by a second narrator or a different grammatical person.",
+    "Opened the Penguin sample, Penguin Random House book page, Observer/Guardian review, and Standard review before using them; Bookreporter, BookRags, Wikipedia, Google Books, and search-only snippets were reviewed as corroboration or discovery but omitted as unnecessary weaker evidence."
+  ],
+  "person_note": "The controlling narrator is retired spy Peter Guillam, who participates in both the present inquiry and the remembered Windfall events and narrates them as \u201cI.\u201d Numerous event quotes independently expose that voice, including the programmatic opening q02332. The novel incorporates dialogue, transcripts, letters, reports, and third-person case-file passages; these are subordinate documents or locally unmarked material, not sustained changes in base narrator. Guillam\u2019s extended use of \u201cyou\u201d in q02314 is a self-projected reconstruction anchored by \u201cme/I,\u201d not second-person control. The quote evidence, authorized publisher sample, official publisher identification, and explicit whole-book reviews agree, with no credible structural conflict.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.258964+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "6b16616c39f1e946c0a9924c96d300b366e85140c8c4549498e3dd05da15a5d1"
+  }
+}

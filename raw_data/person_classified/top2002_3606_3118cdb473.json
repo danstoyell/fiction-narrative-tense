@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:3606",
+  "quotes": [
+    {
+      "quote_id": "q00998",
+      "person_signal": "non_base",
+      "note": "A universal gnomic statement using generic 'we'; it does not identify a participating story narrator."
+    },
+    {
+      "quote_id": "q00999",
+      "person_signal": "first",
+      "note": "The narrator's unquoted 'I'm afraid' is a personal comment within the novel's closing reflection."
+    },
+    {
+      "quote_id": "q01000",
+      "person_signal": "first",
+      "note": "Jack narrates his own childhood comparison and present observations with repeated 'I' and 'we' references."
+    },
+    {
+      "quote_id": "q01001",
+      "person_signal": "non_base",
+      "note": "General evolutionary exposition using humanity-wide 'we,' not story-specific narrator participation."
+    },
+    {
+      "quote_id": "q01002",
+      "person_signal": "non_base",
+      "note": "A general psychological observation; 'as far as I know' marks an essayistic aside rather than a narrated event."
+    },
+    {
+      "quote_id": "q01003",
+      "person_signal": "first",
+      "note": "The participating narrator identifies his age and former work directly as 'I.'"
+    },
+    {
+      "quote_id": "q01004",
+      "person_signal": "non_base",
+      "note": "A general aphorism about children and adolescence with no narratorial-person evidence."
+    },
+    {
+      "quote_id": "q01005",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary uses species-wide 'we' and does not establish story participation."
+    },
+    {
+      "quote_id": "q01006",
+      "person_signal": "first",
+      "note": "The narrator refers to what he had personally seen at Xymos using 'I'd seen.'"
+    },
+    {
+      "quote_id": "q01007",
+      "person_signal": "unmarked",
+      "note": "Base expository narration contrasts virtual and real agents without grammatically exposing the narrator."
+    },
+    {
+      "quote_id": "q01008",
+      "person_signal": "unmarked",
+      "note": "Impersonal exposition about centralized command does not reveal whether the narrator participates in the story."
+    },
+    {
+      "quote_id": "q01009",
+      "person_signal": "unmarked",
+      "note": "Base technical exposition is followed by another programmer's quoted analogy; neither portion identifies the base narrator's person."
+    },
+    {
+      "quote_id": "q01010",
+      "person_signal": "non_base",
+      "note": "Generic aphoristic 'you' is universal address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01011",
+      "person_signal": "non_base",
+      "note": "Hypothetical generic 'you' introduces a scientific timescale and is not story-specific second person."
+    },
+    {
+      "quote_id": "q01012",
+      "person_signal": "unmarked",
+      "note": "Evolutionary exposition and third-person references to thinkers and animals do not establish the narrator's position."
+    },
+    {
+      "quote_id": "q01013",
+      "person_signal": "unmarked",
+      "note": "Technical exposition about Xymos contains no narrator-participation marker."
+    },
+    {
+      "quote_id": "q01014",
+      "person_signal": "first",
+      "note": "Despite the clipped opening, the unquoted present-tense 'I have' exposes the participating narrator's physical experience."
+    },
+    {
+      "quote_id": "q01015",
+      "person_signal": "unmarked",
+      "note": "A general observation about parents and children has no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q01016",
+      "person_signal": "unmarked",
+      "note": "The collective 'we' refers generically to human behavior, so it does not by itself establish narrator participation."
+    },
+    {
+      "quote_id": "q01017",
+      "person_signal": "non_base",
+      "note": "A gnomic attribution to Winston Churchill contains no base-narrator evidence."
+    },
+    {
+      "quote_id": "q01018",
+      "person_signal": "non_base",
+      "note": "Universal questions and generic 'we' form an aphoristic observation, not story-specific narration."
+    },
+    {
+      "quote_id": "q01019",
+      "person_signal": "unmarked",
+      "note": "Scientific exposition about evolution and bacteria does not grammatically identify the narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1121/page_number/1/prey",
+      "title": "Excerpt from Prey by Michael Crichton",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "A sustained, rights-holder-authorized excerpt from Day 6 shows an acting narrator repeatedly using 'I'; dialogue addresses him as Jack Forman, establishing Jack as the participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-prey/style.html",
+      "title": "Michael Crichton Writing Styles in Prey",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis explicitly says the book is written in first person, limited to Jack's viewpoint, and that Jack tells the seven-day story."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780060536961",
+      "title": "PREY: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly's unabridged-audio review describes George Wilson's performance as a first-person reading in the role of Jack."
+    },
+    {
+      "url": "https://www.ourtownny.com/news/crichtons-prey-LWNP1120021224312249990",
+      "title": "Crichton's Prey",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly characterizes Prey as a rare first-person narrative and consistently identifies Jack as the narrating center."
+    }
+  ],
+  "search_log": [
+    "Searched \"Michael Crichton Prey excerpt first chapter official publisher\"; located BookBrowse's HarperCollins-authorized Day 6 excerpt rather than an opening chapter.",
+    "Searched \"Michael Crichton Prey first person narrator Jack Forman point of view\" and \"Prey Michael Crichton review first-person narration\"; found explicit whole-book descriptions from BookRags, Publishers Weekly, and Our Town.",
+    "Searched \"Prey Michael Crichton Google Books excerpt narrator Jack I\"; the limited-preview page exposed metadata and indexed terms but no readable diagnostic passage.",
+    "Searched site:michaelcrichton.com for a Prey excerpt; the official work page contained a synopsis, author Q&A, and a nonfiction Parade excerpt, but no diagnostic novel passage or explicit POV description.",
+    "Searched the distinctive closing lines about the human race and ringing in the narrator's ears to check the clipped Goodreads material; the tombstone passage was independently identified as the novel's ending, while no accessible authoritative context for the ringing fragment was found."
+  ],
+  "person_note": "The Goodreads evidence repeatedly exposes Jack's participating 'I' narration, including personal history, observations at Xymos, and closing reflection. A sustained authorized Day 6 excerpt independently confirms that the speaking 'I' is Jack Forman, while three explicit whole-book sources describe the novel as first person or Jack's first-person account. Generic 'we' and 'you' in scientific or aphoristic passages are nondiagnostic rather than alternate narrative persons. No source indicates sustained second- or third-person sections. The only minor uncertainty is that the authorized excerpt samples one named section rather than every chapter, but the whole-book descriptions and distributed first-person quotes resolve that limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_037",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:23:52.106907+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0e3104ae3f3a1604de5124b0026546d2f4319b20379b70116e5204470a8e8d57"
+  }
+}

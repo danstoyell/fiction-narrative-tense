@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1944:6102",
+  "quotes": [
+    {
+      "quote_id": "q00262",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00263",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q00264",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; generic you and third-person nouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q00265",
+      "person_signal": "non_base",
+      "note": "Aphorism with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q00266",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies this as Larry's embedded account to Maugham."
+    },
+    {
+      "quote_id": "q00267",
+      "person_signal": "non_base",
+      "note": "Generic aphorism rather than base narration."
+    },
+    {
+      "quote_id": "q00268",
+      "person_signal": "non_base",
+      "note": "Direct speech; generic you is not second-person narration."
+    },
+    {
+      "quote_id": "q00269",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator evidence."
+    },
+    {
+      "quote_id": "q00270",
+      "person_signal": "non_base",
+      "note": "Larry speaks about his time with the monks in an embedded narrative."
+    },
+    {
+      "quote_id": "q00271",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed character dialogue and quoted thought."
+    },
+    {
+      "quote_id": "q00272",
+      "person_signal": "non_base",
+      "note": "Aphoristic comparison, not narrative-person evidence."
+    },
+    {
+      "quote_id": "q00273",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q00274",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story narration."
+    },
+    {
+      "quote_id": "q00275",
+      "person_signal": "first",
+      "note": "Although mostly dialogue, the outside attribution 'I said' exposes the participating base narrator."
+    },
+    {
+      "quote_id": "q00276",
+      "person_signal": "non_base",
+      "note": "Direct speech using generic you."
+    },
+    {
+      "quote_id": "q00277",
+      "person_signal": "non_base",
+      "note": "Character speech; first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q00278",
+      "person_signal": "non_base",
+      "note": "Gnomic observation, not controlling narration."
+    },
+    {
+      "quote_id": "q00279",
+      "person_signal": "non_base",
+      "note": "A philosophical assertion voiced locally, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00280",
+      "person_signal": "non_base",
+      "note": "Collective generalization about Americans, not narrator evidence."
+    },
+    {
+      "quote_id": "q00281",
+      "person_signal": "non_base",
+      "note": "Aphorism about love and passion."
+    },
+    {
+      "quote_id": "q00282",
+      "person_signal": "non_base",
+      "note": "Gnomic theological statement."
+    },
+    {
+      "quote_id": "q00283",
+      "person_signal": "non_base",
+      "note": "A direct exchange between characters, including an embedded conjecture."
+    },
+    {
+      "quote_id": "q00284",
+      "person_signal": "non_base",
+      "note": "Aphorism about business and art."
+    },
+    {
+      "quote_id": "q00285",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about art."
+    },
+    {
+      "quote_id": "q00286",
+      "person_signal": "non_base",
+      "note": "Direct speech about Larry."
+    },
+    {
+      "quote_id": "q00287",
+      "person_signal": "non_base",
+      "note": "Direct character speech; generic you does not establish second person."
+    },
+    {
+      "quote_id": "q00288",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to another character."
+    },
+    {
+      "quote_id": "q00289",
+      "person_signal": "first",
+      "note": "Participating narrator observes Isabel, repeatedly using I, my, and me outside speech."
+    },
+    {
+      "quote_id": "q00290",
+      "person_signal": "first",
+      "note": "The narrator explicitly identifies himself as the person writing about Larry."
+    },
+    {
+      "quote_id": "q00291",
+      "person_signal": "first",
+      "note": "Participating narrator recounts his own question and action."
+    },
+    {
+      "quote_id": "q00292",
+      "person_signal": "first",
+      "note": "Base narrator reports his own thought in first person."
+    },
+    {
+      "quote_id": "q00293",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; the third-person speech beat does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00294",
+      "person_signal": "first",
+      "note": "The controlling narrator addresses the reader and describes his own conversation and book."
+    },
+    {
+      "quote_id": "q00295",
+      "person_signal": "first",
+      "note": "Amid the dialogue, the base narration identifies I as the participant speaking with Larry."
+    },
+    {
+      "quote_id": "q00296",
+      "person_signal": "non_base",
+      "note": "Gnomic religious advice with generic you."
+    },
+    {
+      "quote_id": "q00297",
+      "person_signal": "non_base",
+      "note": "Extended aphorism about passion."
+    },
+    {
+      "quote_id": "q00298",
+      "person_signal": "non_base",
+      "note": "Full-text quotation boundaries show this is Larry recounting Kosti's ideas."
+    },
+    {
+      "quote_id": "q00299",
+      "person_signal": "non_base",
+      "note": "Gray's explicitly attributed speech."
+    },
+    {
+      "quote_id": "q00300",
+      "person_signal": "non_base",
+      "note": "Part of Larry's sustained embedded account of his spiritual experience."
+    },
+    {
+      "quote_id": "q00301",
+      "person_signal": "non_base",
+      "note": "Direct character speech despite stripped quotation marks."
+    },
+    {
+      "quote_id": "q00302",
+      "person_signal": "non_base",
+      "note": "Gnomic use of we, not participating event narration."
+    },
+    {
+      "quote_id": "q00303",
+      "person_signal": "non_base",
+      "note": "Full-text context places this in Larry's speech to Maugham."
+    },
+    {
+      "quote_id": "q00304",
+      "person_signal": "first",
+      "note": "Participating narrator reports what he saw during the scene."
+    },
+    {
+      "quote_id": "q00305",
+      "person_signal": "non_base",
+      "note": "Gnomic theological questions."
+    },
+    {
+      "quote_id": "q00306",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech."
+    },
+    {
+      "quote_id": "q00307",
+      "person_signal": "non_base",
+      "note": "Gnomic collective statement."
+    },
+    {
+      "quote_id": "q00308",
+      "person_signal": "non_base",
+      "note": "Philosophical reflection in local speech, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q00309",
+      "person_signal": "unmarked",
+      "note": "Base-narrative conclusion about Larry, but this extracted sentence alone does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00310",
+      "person_signal": "non_base",
+      "note": "Direct philosophical speech using generic you."
+    },
+    {
+      "quote_id": "q00311",
+      "person_signal": "non_base",
+      "note": "Explicit dialogue exchange."
+    },
+    {
+      "quote_id": "q00312",
+      "person_signal": "first",
+      "note": "The narrator personally mourns Elliott and recounts his own thought."
+    },
+    {
+      "quote_id": "q00313",
+      "person_signal": "non_base",
+      "note": "Direct question addressed to another character."
+    },
+    {
+      "quote_id": "q00314",
+      "person_signal": "non_base",
+      "note": "Dialogue between the narrator and Elliott; the visible first person remains inside speech."
+    },
+    {
+      "quote_id": "q00315",
+      "person_signal": "non_base",
+      "note": "Gnomic discussion of passion."
+    },
+    {
+      "quote_id": "q00316",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies this as Larry's long embedded account."
+    },
+    {
+      "quote_id": "q00317",
+      "person_signal": "non_base",
+      "note": "Rhetorical gnomic question, not event narration."
+    },
+    {
+      "quote_id": "q00318",
+      "person_signal": "first",
+      "note": "Base narrator recounts his own extended reflection outside dialogue."
+    },
+    {
+      "quote_id": "q00319",
+      "person_signal": "first",
+      "note": "Participating narrator reports his inference about the characters."
+    },
+    {
+      "quote_id": "q00320",
+      "person_signal": "non_base",
+      "note": "Proverbial statement with no narrator evidence."
+    },
+    {
+      "quote_id": "q00321",
+      "person_signal": "non_base",
+      "note": "General exposition of Hindu belief."
+    },
+    {
+      "quote_id": "q00322",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; collective we is not participating narration."
+    },
+    {
+      "quote_id": "q00323",
+      "person_signal": "first",
+      "note": "The supplied paratext bucket appears upstream-misassigned: the full text locates this as Chapter One's controlling first-person opening."
+    },
+    {
+      "quote_id": "q00324",
+      "person_signal": "non_base",
+      "note": "Larry recounts his wartime experience within a long conversation."
+    },
+    {
+      "quote_id": "q00325",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies Suzanne as the speaker."
+    },
+    {
+      "quote_id": "q00326",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to another character."
+    },
+    {
+      "quote_id": "q00327",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; its I and you are local."
+    },
+    {
+      "quote_id": "q00328",
+      "person_signal": "non_base",
+      "note": "Full-text context places this in Larry's embedded account of Kosti."
+    },
+    {
+      "quote_id": "q00329",
+      "person_signal": "non_base",
+      "note": "A clipped continuation of Larry's embedded description of Kosti."
+    },
+    {
+      "quote_id": "q00330",
+      "person_signal": "unmarked",
+      "note": "Base narration about Elliott, but a third-person subject alone cannot identify narrator person."
+    },
+    {
+      "quote_id": "q00331",
+      "person_signal": "first",
+      "note": "The narrator explicitly states his affection for Gray before recording dialogue."
+    },
+    {
+      "quote_id": "q00332",
+      "person_signal": "non_base",
+      "note": "Larry's embedded account of his spiritual realization."
+    },
+    {
+      "quote_id": "q00333",
+      "person_signal": "non_base",
+      "note": "Larry recounts his flying experience within quoted speech."
+    },
+    {
+      "quote_id": "q00334",
+      "person_signal": "non_base",
+      "note": "Generic gnomic statement."
+    },
+    {
+      "quote_id": "q00335",
+      "person_signal": "first",
+      "note": "Base narrator compares Larry's Seville experience with his own earlier visit."
+    },
+    {
+      "quote_id": "q00336",
+      "person_signal": "first",
+      "note": "Participating narrator reports his sustained personal observation of Elliott."
+    },
+    {
+      "quote_id": "q00337",
+      "person_signal": "first",
+      "note": "The narrator describes his own thought during his interview with the police inspector."
+    },
+    {
+      "quote_id": "q00338",
+      "person_signal": "unmarked",
+      "note": "Atmospheric base description without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00339",
+      "person_signal": "unmarked",
+      "note": "Base description of Suzanne, but the third-person subject alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q00340",
+      "person_signal": "non_base",
+      "note": "Full-text attribution identifies Larry as the speaker."
+    },
+    {
+      "quote_id": "q00341",
+      "person_signal": "first",
+      "note": "Participating narrator recounts his own reaction and action."
+    },
+    {
+      "quote_id": "q00342",
+      "person_signal": "non_base",
+      "note": "Isabel's direct speech; its first person is local."
+    },
+    {
+      "quote_id": "q00343",
+      "person_signal": "unclear",
+      "note": "Quotation boundaries and speaker context are stripped, so the visible we cannot be assigned responsibly."
+    },
+    {
+      "quote_id": "q00344",
+      "person_signal": "non_base",
+      "note": "Despite the event bucket, the full text attributes this statement to Larry in dialogue."
+    },
+    {
+      "quote_id": "q00345",
+      "person_signal": "unmarked",
+      "note": "Controlling narrator's concluding description of Larry, but this extract contains no diagnostic first-person marker."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.ca/ebooks/maughamws-razorsedge/maughamws-razorsedge-00-h.html",
+      "title": "The Razor's Edge by W. Somerset Maugham",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The complete primary text establishes a participating I-narrator from the Chapter One declaration that the book records his recollections through his meetings, actions, and final Chapter Seven account."
+    },
+    {
+      "url": "https://www.languageinindia.com/march2020/v20i3march2020.pdf",
+      "title": "Somerset Maugham: Mirroring Human Life and Human Weaknesses",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly article explicitly identifies The Razor's Edge as first-person narrative and explains that Maugham gathers information through personal contact with the characters."
+    },
+    {
+      "url": "https://www.nybooks.com/articles/1990/02/01/maughams-half-half/",
+      "title": "Maugham's Half & Half",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Gore Vidal's critical essay explicitly calls the book's narrator first-person and identifies the narrating character as Mr. Maugham."
+    },
+    {
+      "url": "https://www.supersummary.com/the-razors-edge/literary-devices/",
+      "title": "The Razor's Edge Literary Devices",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The structural analysis identifies fictional Maugham as the framing storyteller and distinguishes Larry's and Suzanne's first-person accounts as embedded narratives within that frame."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Razor's Edge\" \"Somerset Maugham\" narrator first person point of view and opened explicit critical descriptions from LitCharts, EBSCO, Language in India, and The New York Review of Books.",
+    "Searched the verified title and author with excerpt and first-chapter terms; opened the complete Project Gutenberg Canada text and inspected the opening, interior Chapter Six, Chapter Seven, and the ending.",
+    "Ran targeted full-text searches for clipped Goodreads passages to distinguish Maugham's base narration from Larry's, Suzanne's, Isabel's, and other characters' quoted accounts.",
+    "Searched \"The Razor's Edge\" alternating point of view, multiple narrators, frame narrative, and epistolary; found a first-person Maugham frame containing embedded character narratives, not autonomous alternating base sections.",
+    "Searched publisher, Google Books, Open Library, and Internet Archive routes; Google Books and Open Library supplied catalog or inaccessible preview material and were not used as diagnostic person evidence.",
+    "Opened a Ball State repository study of the Maugham persona, but the direct document fetch timed out, so it was not included as web evidence."
+  ],
+  "person_note": "The controlling narrator is a fictionalized Somerset Maugham who participates as a peripheral witness, converses with the characters, and recounts his own observations and actions as I. Numerous first-person passages in the quote set belong instead to Larry, Suzanne, Isabel, or other speakers and were treated as local or embedded material. Maugham sometimes reconstructs unwitnessed scenes in third person and includes long embedded first-person accounts, but the complete text and structural sources show that these remain under his first-person frame rather than forming autonomous third-person sections; therefore the book is FIRST, not ALTERNATING. Remaining uncertainty is limited to a few Goodreads excerpts with stripped quotation marks, whose consequential attributions were resolved against the complete text.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_005",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:07:55.848029+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8882eb5647fd557a00d80616d05524639b7527050074f13671828916318d0fe5"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:480",
+  "quotes": [
+    {
+      "quote_id": "q00152",
+      "person_signal": "third",
+      "note": "The permission-noted Chapter One excerpt places this sentence within sustained third-person base narration of Faith's thoughts."
+    },
+    {
+      "quote_id": "q00153",
+      "person_signal": "unclear",
+      "note": "The fragment omits its subject and surrounding sentence, so neither its narrator nor its local function can be established."
+    },
+    {
+      "quote_id": "q00154",
+      "person_signal": "unmarked",
+      "note": "This appears to be an external speech beat followed by dialogue, but the isolated she and clipped context do not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00155",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech; you and he belong to character dialogue rather than the base narrator."
+    },
+    {
+      "quote_id": "q00156",
+      "person_signal": "non_base",
+      "note": "The first-person pronouns occur in clipped character dialogue and do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00157",
+      "person_signal": "unclear",
+      "note": "Severe clipping obscures the quotation boundary; the visible first person is likely speech, and the upstream event bucket may be mistaken."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9780375728235/Answered-Prayers-Danielle-Steel-0375728236/plp",
+      "title": "Answered Prayers (Danielle Steel) - AbeBooks",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The permission-noted Chapter One excerpt sustains external she/he narration, including access to Faith's thoughts, and contains q00152 in that third-person context."
+    },
+    {
+      "url": "https://libcat.ru/knigi/starinnaya-literatura/76907-71-danielle-steel-answered-prayers.html",
+      "title": "Danielle Steel - Answered Prayers, page 71",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "A late Chapter 24 passage continues external third-person narration of Brad, Faith, and Zoe through the novel's concluding scene, corroborating the opening's person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Answered Prayers\" \"Danielle Steel\" with excerpt, first chapter, point of view, narrator, first person, third person, epistolary, and alternating-narration terms.",
+    "Opened the Penguin Random House, Penguin Random House Canada, AbeBooks, BingeBooks, Google Books, Open Library, Kirkus, and Goodreads pages; publisher and review synopses verified the work but their summary grammar was not treated as person evidence.",
+    "Targeted searches for an explicit scholarly or reputable whole-book POV description found no usable source; results were dominated by Truman Capote's different book of the same title.",
+    "Google Books offered only snippets and Open Library was preview-only. A late Chapter 24 passage was therefore checked as lower-tier interior corroboration, and no contrary first-, second-, or alternating-person structure was found."
+  ],
+  "person_note": "The controlling narration is third person: the authorized opening excerpt externally narrates Faith and Alex while reporting their thoughts, and a late Chapter 24 passage retains the same external she/he position for Faith, Brad, and Zoe. q00152 is directly contextualized as part of that base narration. The I, we, and you forms in q00155-q00157 are dialogue or boundary-clipped material and do not establish a participating narrator. No searched source indicated sustained first- or second-person sections. Confidence is medium because the strongest authorized evidence is limited to the opening and the late-book corroboration is lower-tier rather than an explicit whole-book structural account.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.235020+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "55f1dcd446b5a3b075c809708960b325bb24d7ddcdce928b8b634b0d283ec719"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:YOU LIKE IT DARKER|Stephen King",
+  "quotes": [
+    {
+      "quote_id": "q08910",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, not story-specific narration."
+    },
+    {
+      "quote_id": "q08911",
+      "person_signal": "non_base",
+      "note": "General aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08912",
+      "person_signal": "non_base",
+      "note": "Authorial first person from the afterword, not a story narrator."
+    },
+    {
+      "quote_id": "q08913",
+      "person_signal": "non_base",
+      "note": "General aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08914",
+      "person_signal": "non_base",
+      "note": "General aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08915",
+      "person_signal": "non_base",
+      "note": "General proposition without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08916",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; the isolated I-frame does not establish a story's base narration."
+    },
+    {
+      "quote_id": "q08917",
+      "person_signal": "unmarked",
+      "note": "A thought attributed to he, which remains compatible with either first- or third-person framing outside the clip."
+    },
+    {
+      "quote_id": "q08918",
+      "person_signal": "non_base",
+      "note": "The authorized excerpt shows this is Laird's quoted funeral speech inside first-person narration."
+    },
+    {
+      "quote_id": "q08919",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection rather than diagnostic event narration."
+    },
+    {
+      "quote_id": "q08920",
+      "person_signal": "unmarked",
+      "note": "Bare third-person subject does not establish the narrator's participation."
+    },
+    {
+      "quote_id": "q08921",
+      "person_signal": "first",
+      "note": "Specific retrospective we places the narrator among the story participants."
+    },
+    {
+      "quote_id": "q08922",
+      "person_signal": "unclear",
+      "note": "Clipped passage cannot be securely separated between story narration and authorial commentary."
+    },
+    {
+      "quote_id": "q08923",
+      "person_signal": "non_base",
+      "note": "General statement about couples, not story-specific narration."
+    },
+    {
+      "quote_id": "q08924",
+      "person_signal": "non_base",
+      "note": "General aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08925",
+      "person_signal": "non_base",
+      "note": "Explicitly axiomatic generalization, not base narration."
+    },
+    {
+      "quote_id": "q08926",
+      "person_signal": "non_base",
+      "note": "General statement about people, not story-specific narration."
+    },
+    {
+      "quote_id": "q08927",
+      "person_signal": "non_base",
+      "note": "Personifying aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08928",
+      "person_signal": "unmarked",
+      "note": "Scene description contains no participating narrator or diagnostic external frame."
+    },
+    {
+      "quote_id": "q08929",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech, not narrator-level second person."
+    },
+    {
+      "quote_id": "q08930",
+      "person_signal": "first",
+      "note": "The narrating participant reports what Mr. Ito told me."
+    },
+    {
+      "quote_id": "q08931",
+      "person_signal": "non_base",
+      "note": "Universal reader-directed you, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q08932",
+      "person_signal": "non_base",
+      "note": "Interlocutive dialogue, not base narration."
+    },
+    {
+      "quote_id": "q08933",
+      "person_signal": "first",
+      "note": "A participating narrator explicitly recalls a past thought."
+    },
+    {
+      "quote_id": "q08934",
+      "person_signal": "third",
+      "note": "External narration proleptically reports what will occur to him; you is generic within that reported realization."
+    },
+    {
+      "quote_id": "q08935",
+      "person_signal": "unmarked",
+      "note": "A bare he-centered characterization does not by itself establish the narrator's person."
+    },
+    {
+      "quote_id": "q08936",
+      "person_signal": "unmarked",
+      "note": "Expository sentence contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q08937",
+      "person_signal": "non_base",
+      "note": "Universal you in a generalization, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08938",
+      "person_signal": "third",
+      "note": "External narration identifies Lloyd, attributes his thought, and continues through third-person free-indirect discourse; the embedded I belongs to his thought."
+    },
+    {
+      "quote_id": "q08939",
+      "person_signal": "non_base",
+      "note": "General aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08940",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection; its I think frame is not diagnostic story narration."
+    },
+    {
+      "quote_id": "q08941",
+      "person_signal": "non_base",
+      "note": "General aphorism without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08942",
+      "person_signal": "first",
+      "note": "The participating narrator characterizes a man who once spoke to me."
+    },
+    {
+      "quote_id": "q08943",
+      "person_signal": "first",
+      "note": "The narrator knows Butch and explicitly wonders about his final preference."
+    },
+    {
+      "quote_id": "q08944",
+      "person_signal": "non_base",
+      "note": "Reader-directed rhetorical aside in gnomic material, not second-person base narration."
+    },
+    {
+      "quote_id": "q08945",
+      "person_signal": "unmarked",
+      "note": "Atmospheric scene description does not identify whether the narrator participates."
+    },
+    {
+      "quote_id": "q08946",
+      "person_signal": "non_base",
+      "note": "General simile presented as an aphorism."
+    },
+    {
+      "quote_id": "q08947",
+      "person_signal": "non_base",
+      "note": "General simile presented as an aphorism."
+    },
+    {
+      "quote_id": "q08948",
+      "person_signal": "unmarked",
+      "note": "The first-person wording belongs to an embedded written note; the surrounding narration does not identify its own person."
+    },
+    {
+      "quote_id": "q08949",
+      "person_signal": "first",
+      "note": "Our annual bottle places the narrator among the participants associated with the supplies."
+    },
+    {
+      "quote_id": "q08950",
+      "person_signal": "first",
+      "note": "Specific remembered action is narrated by participating we."
+    },
+    {
+      "quote_id": "q08951",
+      "person_signal": "third",
+      "note": "Outside the dialogue, the narrative beat directly renders Wilson's thought in third-person present narration."
+    },
+    {
+      "quote_id": "q08952",
+      "person_signal": "non_base",
+      "note": "Universal generalization; you is nonspecific."
+    },
+    {
+      "quote_id": "q08953",
+      "person_signal": "non_base",
+      "note": "Essayistic gnomic reflection, not a diagnostic story event."
+    },
+    {
+      "quote_id": "q08954",
+      "person_signal": "unclear",
+      "note": "A decontextualized historical statement does not reveal whether it is narration, speech, or commentary."
+    },
+    {
+      "quote_id": "q08955",
+      "person_signal": "unmarked",
+      "note": "Third-person character references alone do not establish narrator participation."
+    },
+    {
+      "quote_id": "q08956",
+      "person_signal": "non_base",
+      "note": "Aphoristic wordplay without narratorial-person evidence."
+    },
+    {
+      "quote_id": "q08957",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and the brief he-beat does not independently identify the base narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/You-Like-It-Darker/Stephen-King/9781668037720",
+      "title": "You Like It Darker | Book by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher identifies the work as a collection of twelve separate stories, so it lacks one book-level base narrative and is ineligible for a single-work person classification."
+    },
+    {
+      "url": "https://www.esquire.com/entertainment/books/a60743849/stephen-king-you-like-it-darker-excerpt/",
+      "title": "Read an Excerpt from Stephen King\u2019s You Like It Darker",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Authorized, sustained excerpt from \u201cTwo Talented Bastids\u201d shows Mark narrating as a participating I; it also establishes that q08918 is embedded funeral speech."
+    },
+    {
+      "url": "https://bingebooks.com/book/you-like-it-darker",
+      "title": "You Like It Darker by Stephen King",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Publisher-attributed excerpt from \u201cRattlesnakes\u201d sustains Vic Trenton's participating I narration, while the page separately describes the volume as twelve stories."
+    },
+    {
+      "url": "https://apnews.com/article/stephen-king-darker-book-review-2e4d80589bb0112cd940645a9b2f8931",
+      "title": "Book Review: \u2018Cujo\u2019 character returns as one of 12 stories in Stephen King\u2019s \u2018You Like It Darker\u2019",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Independent review confirms that the book comprises twelve stories, including individually named and differently centered works."
+    }
+  ],
+  "search_log": [
+    "Searched the official publisher site for \u201cYou Like It Darker\u201d and opened its book page; it identifies the volume as a twelve-story collection.",
+    "Searched for authorized excerpts and opened the sustained Esquire/Scribner excerpt from \u201cTwo Talented Bastids.\u201d",
+    "Searched for the \u201cRattlesnakes\u201d excerpt and opened the publisher-attributed text reproduced by BingeBooks.",
+    "Searched for point-of-view, first-person, third-person, narrator, frame, and alternating-narration descriptions; results corroborated first-person narration in individual stories but yielded no single collection-wide narrator.",
+    "Opened the AP review as independent confirmation of the twelve-story structure; plot summaries and search snippets were not treated as person evidence."
+  ],
+  "person_note": "This eligible prose collection uses different controlling persons across its autonomous stories, so it is ALTERNATING at book level, consistent with the project's treatment of other prose story collections. The quotes and authorized excerpts expose participating first-person narration in stories such as \u201cTwo Talented Bastids\u201d and \u201cRattlesnakes,\u201d while other sampled stories sustain third-person narration. These are full narrative components rather than dialogue or embedded documents. Confidence is medium because the authorized excerpts establish the first-person strand, while the third-person strand is established primarily by distributed quote evidence rather than an authorized full-story excerpt.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_088",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:35:33.727496+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "058ad8468fc0dc9471147725b77137a2212bb73346ee739c922362b9dad2ccb9"
+  }
+}

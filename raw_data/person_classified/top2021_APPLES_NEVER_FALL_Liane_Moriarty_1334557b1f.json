@@ -1,0 +1,460 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:APPLES NEVER FALL|Liane Moriarty",
+  "quotes": [
+    {
+      "quote_id": "q06062",
+      "person_signal": "non_base",
+      "note": "Universal second-person tennis maxim; not story-specific narration."
+    },
+    {
+      "quote_id": "q06063",
+      "person_signal": "unmarked",
+      "note": "Narratorial comparison uses generic you but does not identify the narrator."
+    },
+    {
+      "quote_id": "q06064",
+      "person_signal": "unmarked",
+      "note": "Story-world aphorism contains no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q06065",
+      "person_signal": "unmarked",
+      "note": "Bare third-person character reference is insufficient by itself."
+    },
+    {
+      "quote_id": "q06066",
+      "person_signal": "third",
+      "note": "Sustained close narration presents her memories and hopes externally."
+    },
+    {
+      "quote_id": "q06067",
+      "person_signal": "third",
+      "note": "Sustained narration externally relates both spouses' feelings and history."
+    },
+    {
+      "quote_id": "q06068",
+      "person_signal": "third",
+      "note": "Third-person narrative frame explicitly embeds the character's first-person thoughts."
+    },
+    {
+      "quote_id": "q06069",
+      "person_signal": "third",
+      "note": "Close third-person recollection contains only a subordinate generic you."
+    },
+    {
+      "quote_id": "q06070",
+      "person_signal": "unmarked",
+      "note": "Bare description of she does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q06071",
+      "person_signal": "unmarked",
+      "note": "Single third-person statement is compatible with more than one narrating frame."
+    },
+    {
+      "quote_id": "q06072",
+      "person_signal": "third",
+      "note": "Extended close narration recounts her ambitions externally; the present generalization is subordinate."
+    },
+    {
+      "quote_id": "q06073",
+      "person_signal": "unmarked",
+      "note": "Brief habitual description of their mother is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06074",
+      "person_signal": "unmarked",
+      "note": "Generic you and they occur in free-indirect commentary without exposing narrator participation."
+    },
+    {
+      "quote_id": "q06075",
+      "person_signal": "unmarked",
+      "note": "Brief third-person reflection does not independently establish the base person."
+    },
+    {
+      "quote_id": "q06076",
+      "person_signal": "unmarked",
+      "note": "Single report of a character's belief is insufficient alone."
+    },
+    {
+      "quote_id": "q06077",
+      "person_signal": "non_base",
+      "note": "Gnomic we and you express a universal claim rather than base narration."
+    },
+    {
+      "quote_id": "q06078",
+      "person_signal": "third",
+      "note": "Extended external narration enters her fear while continuing to call her she."
+    },
+    {
+      "quote_id": "q06079",
+      "person_signal": "non_base",
+      "note": "Reported family saying is embedded speech."
+    },
+    {
+      "quote_id": "q06080",
+      "person_signal": "unmarked",
+      "note": "Short third-person statement is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06081",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim is gnomic, not story-specific narration."
+    },
+    {
+      "quote_id": "q06082",
+      "person_signal": "unmarked",
+      "note": "Brief narrative frame and summarized speech do not expose narrator participation."
+    },
+    {
+      "quote_id": "q06083",
+      "person_signal": "third",
+      "note": "Narration externally coordinates Amy, Brooke, and Logan around embedded speech."
+    },
+    {
+      "quote_id": "q06084",
+      "person_signal": "third",
+      "note": "Close narration reports Stan's knowledge and family history from outside him."
+    },
+    {
+      "quote_id": "q06085",
+      "person_signal": "third",
+      "note": "Third-person narration presents a character's projected testimony; the first-person wording is embedded."
+    },
+    {
+      "quote_id": "q06086",
+      "person_signal": "third",
+      "note": "Sustained close narration presents her uncertainty and changing feelings externally."
+    },
+    {
+      "quote_id": "q06087",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment has no controlling narrative frame."
+    },
+    {
+      "quote_id": "q06088",
+      "person_signal": "unmarked",
+      "note": "Impersonal evaluative sentence does not identify the narrator."
+    },
+    {
+      "quote_id": "q06089",
+      "person_signal": "unmarked",
+      "note": "Logan is named externally, but the generic you and short context are not independently diagnostic."
+    },
+    {
+      "quote_id": "q06090",
+      "person_signal": "unmarked",
+      "note": "Impersonal reflection about their past does not expose narrator participation."
+    },
+    {
+      "quote_id": "q06091",
+      "person_signal": "third",
+      "note": "Long close-third passage narrates Stan and Joy externally while embedding Stan's speech and Joy's judgments."
+    },
+    {
+      "quote_id": "q06092",
+      "person_signal": "third",
+      "note": "Narration explicitly attributes an extended realization to Jacob while referring to him as he."
+    },
+    {
+      "quote_id": "q06093",
+      "person_signal": "unmarked",
+      "note": "Brief description with generic you does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q06094",
+      "person_signal": "third",
+      "note": "Extended narration names Joy, calls her she, and embeds her free-indirect questions."
+    },
+    {
+      "quote_id": "q06095",
+      "person_signal": "third",
+      "note": "Close third-person narration presents her plans and expectations across two sentences."
+    },
+    {
+      "quote_id": "q06096",
+      "person_signal": "unmarked",
+      "note": "Single report of her fantasy is possible base narration but not independently diagnostic."
+    },
+    {
+      "quote_id": "q06097",
+      "person_signal": "third",
+      "note": "Extended habitual narration depicts the Delaney parents and children externally."
+    },
+    {
+      "quote_id": "q06098",
+      "person_signal": "unmarked",
+      "note": "Brief report of what she thought is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06099",
+      "person_signal": "unmarked",
+      "note": "Free-indirect question lacks enough local framing to identify the narrator."
+    },
+    {
+      "quote_id": "q06100",
+      "person_signal": "unclear",
+      "note": "Clipped present-tense speculation could be dialogue or free-indirect narration."
+    },
+    {
+      "quote_id": "q06101",
+      "person_signal": "third",
+      "note": "Free-indirect exclamation is followed by sustained narration of her feelings as she."
+    },
+    {
+      "quote_id": "q06102",
+      "person_signal": "non_base",
+      "note": "Stan's first-person speech dominates the quotation."
+    },
+    {
+      "quote_id": "q06103",
+      "person_signal": "third",
+      "note": "Narration supplies family history and Joy's recurring emotional response from outside her."
+    },
+    {
+      "quote_id": "q06104",
+      "person_signal": "third",
+      "note": "Extended close-third account of Amy shifts into generic-you free-indirect reflection."
+    },
+    {
+      "quote_id": "q06105",
+      "person_signal": "third",
+      "note": "Third-person narration frames Nico's speech and Christina's private rebuttal."
+    },
+    {
+      "quote_id": "q06106",
+      "person_signal": "third",
+      "note": "Sustained free-indirect narration refers to the focal couple as they and names Stan parenthetically."
+    },
+    {
+      "quote_id": "q06107",
+      "person_signal": "unmarked",
+      "note": "Bare they statement lacks sufficient local context."
+    },
+    {
+      "quote_id": "q06108",
+      "person_signal": "unmarked",
+      "note": "Single contextual sentence about they does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q06109",
+      "person_signal": "unmarked",
+      "note": "Embedded trading maxim and brief past-tense frame contain no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q06110",
+      "person_signal": "third",
+      "note": "Close narration reports what she knew; the you clause is a universal constraint."
+    },
+    {
+      "quote_id": "q06111",
+      "person_signal": "third",
+      "note": "Extended third-person narration frames family speech and Joy's embedded direct thought."
+    },
+    {
+      "quote_id": "q06112",
+      "person_signal": "non_base",
+      "note": "Universal second-person tennis maxim is gnomic rather than story-specific."
+    },
+    {
+      "quote_id": "q06113",
+      "person_signal": "non_base",
+      "note": "Vocative and direct address identify character speech."
+    },
+    {
+      "quote_id": "q06114",
+      "person_signal": "third",
+      "note": "Sustained narration repeatedly names Joy and presents her interpretation of the dog externally."
+    },
+    {
+      "quote_id": "q06115",
+      "person_signal": "non_base",
+      "note": "Savannah's first-person statement is explicitly tagged dialogue."
+    },
+    {
+      "quote_id": "q06116",
+      "person_signal": "non_base",
+      "note": "Gnomic we expresses a general maxim, not participating narration."
+    },
+    {
+      "quote_id": "q06117",
+      "person_signal": "third",
+      "note": "Third-person narrative frame embeds Joy's first-person direct thought and returns to Amy and her."
+    },
+    {
+      "quote_id": "q06118",
+      "person_signal": "non_base",
+      "note": "Present-tense generic-you generalization is gnomic."
+    },
+    {
+      "quote_id": "q06119",
+      "person_signal": "third",
+      "note": "Close third-person narration names Joy and conveys her private ironic judgment."
+    },
+    {
+      "quote_id": "q06120",
+      "person_signal": "unmarked",
+      "note": "Brief they description does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q06121",
+      "person_signal": "unmarked",
+      "note": "Generic you and the quoted I-memory are embedded in an otherwise nondiagnostic comparison."
+    },
+    {
+      "quote_id": "q06122",
+      "person_signal": "unmarked",
+      "note": "Bare he and her references are insufficient alone."
+    },
+    {
+      "quote_id": "q06123",
+      "person_signal": "unmarked",
+      "note": "A single third-person memory report with an embedded anecdote is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06124",
+      "person_signal": "third",
+      "note": "Narration frames Amy's speech and Joy's unspoken response externally; you is generic."
+    },
+    {
+      "quote_id": "q06125",
+      "person_signal": "non_base",
+      "note": "Vocative and direct questions mark character speech."
+    },
+    {
+      "quote_id": "q06126",
+      "person_signal": "third",
+      "note": "Extended narration follows Brooke's memory, realization, and changed behavior while calling her she."
+    },
+    {
+      "quote_id": "q06127",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both boundaries, preventing reliable attribution."
+    },
+    {
+      "quote_id": "q06128",
+      "person_signal": "non_base",
+      "note": "Dictionary-style epigraph or definition is paratextual/gnomic."
+    },
+    {
+      "quote_id": "q06129",
+      "person_signal": "third",
+      "note": "Sustained narration presents her coping strategy and her mother's revision of the past externally."
+    },
+    {
+      "quote_id": "q06130",
+      "person_signal": "unmarked",
+      "note": "Brief report of her realization is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06131",
+      "person_signal": "third",
+      "note": "Extended free-indirect narration calls the focal character she and then names Joy."
+    },
+    {
+      "quote_id": "q06132",
+      "person_signal": "non_base",
+      "note": "Abstract gnomic analogy contains no story narrator or focal character."
+    },
+    {
+      "quote_id": "q06133",
+      "person_signal": "unmarked",
+      "note": "Free-indirect question lacks a character tag or other diagnostic frame."
+    },
+    {
+      "quote_id": "q06134",
+      "person_signal": "unclear",
+      "note": "Missing subject and clipped opening prevent reliable local attribution."
+    },
+    {
+      "quote_id": "q06135",
+      "person_signal": "non_base",
+      "note": "Clipped but explicitly quoted student speech is not base narration."
+    },
+    {
+      "quote_id": "q06136",
+      "person_signal": "unmarked",
+      "note": "Brief he/she relationship reflection does not independently expose the narrator."
+    },
+    {
+      "quote_id": "q06137",
+      "person_signal": "unmarked",
+      "note": "Free-indirect question lacks enough framing to identify its narrator or focalizer."
+    },
+    {
+      "quote_id": "q06138",
+      "person_signal": "non_base",
+      "note": "The girl's first-person account is explicitly introduced as speech."
+    },
+    {
+      "quote_id": "q06139",
+      "person_signal": "non_base",
+      "note": "Spoken register and first-person ending belong to an unmarked but embedded speech passage."
+    },
+    {
+      "quote_id": "q06140",
+      "person_signal": "unmarked",
+      "note": "Single report of what she sensed is insufficient by itself."
+    },
+    {
+      "quote_id": "q06141",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the short intervening narrative beat is nondiagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://us.macmillan.com/books/9781250220264/applesneverfall/",
+      "title": "Apples Never Fall \u2014 Macmillan",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates the siblings and waitress externally, including the waitress's perceptions and thoughts, in third person."
+    },
+    {
+      "url": "https://images.macmillan.com/folio-assets/readers-guides/9781250220257RG(1).pdf",
+      "title": "Apples Never Fall Book Club Kit",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Macmillan's official whole-book guide explicitly says the story is told in third person through the major characters' eyes in turn and across two timelines."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-apples-never-fall/styles.html",
+      "title": "Liane Moriarty Writing Styles in Apples Never Fall",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies third-person narration from the main characters' respective points of view."
+    },
+    {
+      "url": "https://www.supersummary.com/apples-never-fall/literary-devices/",
+      "title": "Apples Never Fall Literary Devices",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The structural analysis describes chapters rotating among characters' limited perspectives and explicitly distinguishes the design from first-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Apples Never Fall\" \"Liane Moriarty\" excerpt first chapter and opened the Macmillan publisher excerpt.",
+    "Searched \"Apples Never Fall\" \"third person\" point of view and opened explicit BookRags and publisher-guide descriptions.",
+    "Searched \"Apples Never Fall\" narrator multiple perspectives third-person and opened SuperSummary's structural analysis.",
+    "Searched site:penguinrandomhouse.com \"Apples Never Fall\" excerpt; the useful authorized result was instead the Henry Holt/Macmillan edition page and its linked official book-club PDF.",
+    "Attempted to open the Newtown Review of Books multiple-perspectives review, but the page returned HTTP 403 and was not used; synopsis-only and television-adaptation results were also discarded."
+  ],
+  "person_note": "The controlling narration is third person with rotating close or limited focalization across Joy, Stan, their children, and minor observers, plus shifts between timelines. The numerous sustained quote passages that refer to focal characters as she, he, or they while rendering their private thoughts agree with the authorized opening and Macmillan's explicit whole-book description. First-person and second-person forms in the quote set occur in dialogue, direct thought, memories, or universal maxims, not sustained base sections, so multiple viewpoints do not make the book ALTERNATING. A few clipped passages remain locally unclear, but no credible evidence conflicts with the third-person structure.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.267191+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "32680e8a30ac1f3b9ec9a0cfa5887cc6f8952fc208346f3445c77d85519d115c"
+  }
+}

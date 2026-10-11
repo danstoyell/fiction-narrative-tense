@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2010:3859",
+  "quotes": [
+    {
+      "quote_id": "q02125",
+      "person_signal": "non_base",
+      "note": "Gnomic direct address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02126",
+      "person_signal": "first",
+      "note": "Jack narrates his own perceptions and reflections using I."
+    },
+    {
+      "quote_id": "q02127",
+      "person_signal": "non_base",
+      "note": "General aphorism contains no diagnostic base-narrator marker."
+    },
+    {
+      "quote_id": "q02128",
+      "person_signal": "first",
+      "note": "The participating narrator describes a hypothetical action using I."
+    },
+    {
+      "quote_id": "q02129",
+      "person_signal": "non_base",
+      "note": "Gnomic statement does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q02130",
+      "person_signal": "first",
+      "note": "The narrator recounts his childhood and present age using I."
+    },
+    {
+      "quote_id": "q02131",
+      "person_signal": "first",
+      "note": "The participating narrator reports his experience and present state using I."
+    },
+    {
+      "quote_id": "q02132",
+      "person_signal": "first",
+      "note": "Jack narrates his actions and perceptions around the brief dialogue using I."
+    },
+    {
+      "quote_id": "q02133",
+      "person_signal": "first",
+      "note": "The narrator directly reports his own thought using I."
+    },
+    {
+      "quote_id": "q02134",
+      "person_signal": "non_base",
+      "note": "Gnomic observation is not independently diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q02135",
+      "person_signal": "non_base",
+      "note": "Generalized gnomic statement contains no narrator marker."
+    },
+    {
+      "quote_id": "q02136",
+      "person_signal": "first",
+      "note": "Story-specific perception is explicitly anchored by the narrator's I."
+    },
+    {
+      "quote_id": "q02137",
+      "person_signal": "first",
+      "note": "Jack narrates his thoughts, physical state, and reaction around embedded dialogue."
+    },
+    {
+      "quote_id": "q02138",
+      "person_signal": "first",
+      "note": "The narrator describes his continuing experience of the world using I."
+    },
+    {
+      "quote_id": "q02139",
+      "person_signal": "first",
+      "note": "After Ma's quoted maxim, the narrator comments on his own experience using me and I."
+    },
+    {
+      "quote_id": "q02140",
+      "person_signal": "first",
+      "note": "Although dialogue dominates, the external speech beat 'I say' exposes the participating narrator."
+    },
+    {
+      "quote_id": "q02141",
+      "person_signal": "first",
+      "note": "The narrator describes reciprocal communication with Ma using I and me."
+    },
+    {
+      "quote_id": "q02142",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports his own remembering using I."
+    },
+    {
+      "quote_id": "q02143",
+      "person_signal": "non_base",
+      "note": "Gnomic observation lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02144",
+      "person_signal": "first",
+      "note": "Following dialogue, Jack narrates his own judgment and belonging using I."
+    },
+    {
+      "quote_id": "q02145",
+      "person_signal": "first",
+      "note": "Sustained story-specific reflection identifies Jack through repeated I, me, and we."
+    },
+    {
+      "quote_id": "q02146",
+      "person_signal": "non_base",
+      "note": "Direct address in dialogue does not establish second-person base narration."
+    },
+    {
+      "quote_id": "q02147",
+      "person_signal": "first",
+      "note": "The participating narrator describes his agreement with Ma using me and we."
+    },
+    {
+      "quote_id": "q02148",
+      "person_signal": "first",
+      "note": "Jack narrates his past beliefs and current situation using I."
+    },
+    {
+      "quote_id": "q02149",
+      "person_signal": "first",
+      "note": "The narrator reflects on his own identity using I and me."
+    },
+    {
+      "quote_id": "q02150",
+      "person_signal": "first",
+      "note": "Jack narrates his physical response and rejects Ma's quoted claim using I and me."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/2477/index.cfm/fuseaction/printable/book_number/2477/room",
+      "title": "Room: A Novel \u2014 Excerpt",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reproduced with Little, Brown's permission shows Jack continuously narrating his actions, memories, perceptions, and thoughts as I."
+    },
+    {
+      "url": "https://olh.openlibhums.org/article/id/8774/download/pdf/",
+      "title": "Confinement and the Transnational in Emma Donoghue's Room",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This peer-reviewed structural analysis explicitly identifies Jack as a first-person narrator and says both the Room and Outside portions are filtered through his viewpoint."
+    },
+    {
+      "url": "https://www.panmacmillan.com/authors/emma-donoghue/room/9781529077247",
+      "title": "Room by Emma Donoghue",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The publisher describes the novel as told in five-year-old Jack's voice and from his perspective."
+    },
+    {
+      "url": "https://www.bookbrowse.com/author_interviews/full/index.cfm/author_number/1599/Emma-Donoghue",
+      "title": "An Interview with Emma Donoghue",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Donoghue states that Jack tells the story, calls him the child narrator, and says he tells the whole story across the novel's two halves."
+    },
+    {
+      "url": "https://kenyonreview.org/kr-online-issue/2010-fall/selections/review-of-room-by-emma-donoghue/",
+      "title": "Review of Room by Emma Donoghue",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Kenyon Review identifies Jack as the novel's narrator and analyzes the book's sustained narration in his child voice before and after the escape."
+    }
+  ],
+  "search_log": [
+    "Searched: Emma Donoghue Room novel official excerpt narrator Jack first person.",
+    "Searched: Room Emma Donoghue extract publisher first chapter.",
+    "Searched: Room Emma Donoghue point of view narrator Jack scholarly.",
+    "Searched: \"Room\" \"first-person narrator\" Emma Donoghue Jack scholarly.",
+    "Opened and checked the BookBrowse authorized excerpt, Pan Macmillan publisher page, Open Library of Humanities article, Emma Donoghue interview, and Kenyon Review review before using them.",
+    "The Emma Donoghue official book page returned an access-check page, and a Psychiatric Services review returned HTTP 403; neither was used as evidence."
+  ],
+  "person_note": "The Goodreads material repeatedly exposes Jack as a participating I-narrator in scene narration, reflection, recollection, and speech beats. The authorized excerpt independently demonstrates the same first-person voice, while a peer-reviewed whole-book analysis explicitly identifies Jack as the first-person narrator across both the Room and Outside portions. Publisher copy, Donoghue's interview, and the Kenyon Review corroborate that Jack tells the whole story. Gnomic sayings and unframed direct speech were treated as non-base material, and the isolated dialogue-address 'you' is not second-person narration. No credible evidence indicates another sustained base person; the main limitation is that the authorized prose excerpt covers only a local portion, resolved by the whole-book structural sources.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_049",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-07T20:06:56.509290+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "53875e8f2ff51506bdabb6cb8dbabffab9a0fed3d5ac19d58fc37273b377a429"
+  }
+}

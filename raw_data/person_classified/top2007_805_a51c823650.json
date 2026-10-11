@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:805",
+  "quotes": [
+    {
+      "quote_id": "q00430",
+      "person_signal": "non_base",
+      "note": "A general aphorism with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00431",
+      "person_signal": "non_base",
+      "note": "A clipped gnomic quotation, not base narration."
+    },
+    {
+      "quote_id": "q00432",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs inside character speech."
+    },
+    {
+      "quote_id": "q00433",
+      "person_signal": "third",
+      "note": "After Scarpetta's quoted first-person speech, sustained external narration describes Scarpetta and Lucy as she/her and supplies their actions and history."
+    },
+    {
+      "quote_id": "q00434",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns belong to a character's threatening speech."
+    },
+    {
+      "quote_id": "q00435",
+      "person_signal": "non_base",
+      "note": "Universal gnomic we, not participating story narration."
+    },
+    {
+      "quote_id": "q00436",
+      "person_signal": "unmarked",
+      "note": "Dialogue dominates; the brief she/he action beats are compatible with third person but too slight and unnamed to establish the base narrator independently."
+    },
+    {
+      "quote_id": "q00437",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Lucy's history, perceptions, and actions in third person around dialogue."
+    },
+    {
+      "quote_id": "q00438",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a female focal character's outrage, discoveries, and evaluative thoughts as she rather than as a participating narrator."
+    },
+    {
+      "quote_id": "q00439",
+      "person_signal": "third",
+      "note": "A sustained scene narrates the focal character's actions, knowledge, and wishful thinking externally as she."
+    },
+    {
+      "quote_id": "q00440",
+      "person_signal": "non_base",
+      "note": "Second person and first person occur within character speech."
+    },
+    {
+      "quote_id": "q00441",
+      "person_signal": "non_base",
+      "note": "Universal gnomic you does not designate a story protagonist."
+    },
+    {
+      "quote_id": "q00442",
+      "person_signal": "non_base",
+      "note": "Imperative gnomic address, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q00443",
+      "person_signal": "non_base",
+      "note": "Second person occurs only in dialogue expressing a maxim."
+    },
+    {
+      "quote_id": "q00444",
+      "person_signal": "non_base",
+      "note": "The passage is dialogue; the proper-name speech attributions alone do not diagnose narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/book-of-the-dead/excerpt",
+      "title": "Book of the Dead by Patricia Cornwell | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained Rome opening externally narrates both victim and killer as she/he and enters the killer's memories and perceptions without a participating narrator."
+    },
+    {
+      "url": "https://abcnews.com/amp/GMA/Books/story?id=3760255&page=1",
+      "title": "Excerpt: 'Book of the Dead'",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The opened Chapter 1 excerpt sustains third-person narration around Kay Scarpetta, Benton Wesley, and Italian investigators, including Scarpetta's knowledge and reactions."
+    },
+    {
+      "url": "https://abcnews.com/Entertainment/crime-novelist-patricia-cornwell-blood-boundaries-book/story?id=15097357",
+      "title": "Crime Novelist Patricia Cornwell on Blood, 'Boundaries' and Her Next Book",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "ABC explicitly identifies Book of the Dead as replacing Scarpetta's first-person narration with omniscient third person that can expose the perpetrator's thoughts."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780399153938",
+      "title": "Book of the Dead by Patricia D. Cornwell",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Publishers Weekly describes Cornwell's switch from first- to third-person narration and notes shifts among viewpoints, corroborating a multifocal third-person structure rather than alternating grammatical persons."
+    },
+    {
+      "url": "https://www.lotl.com/episode-patricia-cornwell",
+      "title": "Patricia Cornwell Interview",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "In the interview, Cornwell herself identifies Book of the Dead as one of the books in which she went to third-person point of view."
+    }
+  ],
+  "search_log": [
+    "Searched \"Book of the Dead\" \"Patricia Cornwell\" excerpt; opened sustained excerpts at Bookreporter and ABC News.",
+    "Searched \"Book of the Dead\" Patricia Cornwell \"third person\" and \"omniscient third person\"; opened explicit whole-book descriptions from ABC News, Publishers Weekly, and a Patricia Cornwell interview.",
+    "Searched the title with point of view, narrator, multiple narrators, alternating point of view, epistolary, diary, and frame narrative terms; found corroboration of multiple focal viewpoints within third-person narration and no credible evidence of sustained first- or second-person base sections.",
+    "Checked Patricia Cornwell's official Scarpetta-series page, which verified the work and date but supplied no diagnostic narration evidence.",
+    "Opened Google Books search material, but its accessible catalog and synopsis text did not establish narrative person and was not used as evidence."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly show a nonparticipating narrator presenting Scarpetta, Lucy, and other focal characters externally while also accessing their perceptions and histories. First- and second-person forms in the remaining quotes are dialogue or generic aphorisms, not competing base narration. Two sustained web excerpts independently show third-person narration, and several credible whole-book descriptions\u2014including Cornwell's own account\u2014identify the novel's structure as third-person and omniscient or multifocal. The web excerpts themselves cover only the opening and Chapter 1, but the whole-book structural sources and varied interior quote passages resolve that scope limitation; no credible contrary person evidence was found.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.242541+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "0518ad61f7ab20c740b03693e3387b54f315dab66a64cf1ea78ad09700a8c553"
+  }
+}

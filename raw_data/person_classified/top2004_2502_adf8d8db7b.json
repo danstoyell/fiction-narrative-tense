@@ -1,0 +1,620 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:2502",
+  "quotes": [
+    {
+      "quote_id": "q00001",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in character dialogue; the outside beat does not establish the narrator's participation."
+    },
+    {
+      "quote_id": "q00002",
+      "person_signal": "non_base",
+      "note": "Dialogue between Wellington and Strange; its pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "unclear",
+      "note": "An unframed first-person utterance is clipped from its surrounding scene, so its local speaker cannot be securely identified."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "unmarked",
+      "note": "A bare external description of an unnamed woman does not by itself identify the narrator's person."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; the speech beats do not expose a participating narrator."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to the embedded Raven King prophecy, not the base narrator."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "unmarked",
+      "note": "Authorial comparison of a house to a person contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "unmarked",
+      "note": "A single externally rendered realization is compatible with several narrating arrangements."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "third",
+      "note": "Narratorial self-comment by the book's nonparticipating omniscient authorial voice; grammatical I does not make the narrator a story participant."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "unmarked",
+      "note": "Fragmentary descriptive clarification contains no diagnostic person evidence."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person reference to an argument does not establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "third",
+      "note": "The self-styled present author comments from outside Miss Wintertowne's story and then narrates her events externally."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "unmarked",
+      "note": "External character portrait and comic aside are locally compatible with more than one narrator type."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "unmarked",
+      "note": "Descriptive authorial observation contains no participating narrator or sustained external scene."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "unmarked",
+      "note": "Landscape description contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "third",
+      "note": "Sustained external scene narration moves through Stephen's perception and then into dialogue without a participating narrator."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "non_base",
+      "note": "Direct character speech about English novels."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "Direct address and first-person plural occur within character speech."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "third",
+      "note": "An external narrator reports the actors, the impossible action, and that no character observed it."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "non_base",
+      "note": "First-person opinion is character dialogue."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "unmarked",
+      "note": "Brief external description with an attributed comparison does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "Research places this first-person threat in the gentleman with the thistle-down hair's speech; the event bucket is an upstream mismatch."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "First person belongs to embedded verse, not the base narration."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "non_base",
+      "note": "First-person confession occurs in direct address by a character."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "third",
+      "note": "Sustained external narration encompasses Norrell's decision, dialogue, Childermass's response, and an authorial aside about Norrell."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "unmarked",
+      "note": "Single descriptive simile lacks diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "unmarked",
+      "note": "Brief character description plus a general aside does not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "First-person plural belongs to a speaking magician."
+    },
+    {
+      "quote_id": "q00030",
+      "person_signal": "non_base",
+      "note": "First-person explanation is character dialogue."
+    },
+    {
+      "quote_id": "q00031",
+      "person_signal": "non_base",
+      "note": "Question and reply are explicitly attributed dialogue."
+    },
+    {
+      "quote_id": "q00032",
+      "person_signal": "non_base",
+      "note": "Research identifies the unframed first-person assertion as Vinculus's speech to Childermass."
+    },
+    {
+      "quote_id": "q00033",
+      "person_signal": "non_base",
+      "note": "Strange's first-person comparison is explicitly attributed speech."
+    },
+    {
+      "quote_id": "q00034",
+      "person_signal": "non_base",
+      "note": "First-person reflection belongs to a character discussing his skin and social treatment."
+    },
+    {
+      "quote_id": "q00035",
+      "person_signal": "unmarked",
+      "note": "External description and comic geographical aside do not independently identify narrator person."
+    },
+    {
+      "quote_id": "q00036",
+      "person_signal": "non_base",
+      "note": "Sustained first-person account is character speech or correspondence, not base narration."
+    },
+    {
+      "quote_id": "q00037",
+      "person_signal": "non_base",
+      "note": "First and second person occur in direct character address."
+    },
+    {
+      "quote_id": "q00038",
+      "person_signal": "third",
+      "note": "The narrator externally reports an episode and the shared perceptions of several named characters."
+    },
+    {
+      "quote_id": "q00039",
+      "person_signal": "non_base",
+      "note": "Generalizing character speech, not controlling narration."
+    },
+    {
+      "quote_id": "q00040",
+      "person_signal": "non_base",
+      "note": "The first-person form occurs inside explicitly attributed speech."
+    },
+    {
+      "quote_id": "q00041",
+      "person_signal": "unmarked",
+      "note": "Brief external report about the Ministers does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q00042",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Strange's perceptions and thoughts, with his quoted thought clearly embedded."
+    },
+    {
+      "quote_id": "q00043",
+      "person_signal": "non_base",
+      "note": "First-person reference occurs in direct character speech."
+    },
+    {
+      "quote_id": "q00044",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00045",
+      "person_signal": "non_base",
+      "note": "First- and second-person language belongs to an extended exchange between Childermass and Lascelles."
+    },
+    {
+      "quote_id": "q00046",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator describes the man's conduct, changing expressions, and imagined internal conversation."
+    },
+    {
+      "quote_id": "q00047",
+      "person_signal": "non_base",
+      "note": "Inclusive we appears in a universal maxim, not participating story narration."
+    },
+    {
+      "quote_id": "q00048",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person description is too slight to establish the base narrator."
+    },
+    {
+      "quote_id": "q00049",
+      "person_signal": "third",
+      "note": "Opening scene narration presents the York magicians externally; the authorized chapter context sustains this position."
+    },
+    {
+      "quote_id": "q00050",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates, and its first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q00051",
+      "person_signal": "non_base",
+      "note": "General magical maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00052",
+      "person_signal": "non_base",
+      "note": "The passage is chiefly dialogue; first-person forms belong to the frightened speaker."
+    },
+    {
+      "quote_id": "q00053",
+      "person_signal": "non_base",
+      "note": "General aphorism about travellers rather than base narrative action."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "unmarked",
+      "note": "Very short external description does not identify narrator person."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "non_base",
+      "note": "Prophetic wording and direct address occur within dialogue."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "unmarked",
+      "note": "Single external action by Byron is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "First and second person belong to sustained direct character speech."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "non_base",
+      "note": "Pronouns occur in dialogue between Strange and Dr Greysteel."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "unmarked",
+      "note": "External conditional portrait is too brief to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "unmarked",
+      "note": "A single externally reported military anecdote does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "unmarked",
+      "note": "Brief report of Mrs Honeyfoot's statement does not by itself identify the narrator's person."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "non_base",
+      "note": "First-person self-reference and second-person address belong to a character speaking to Stephen."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts a man's private alarm, concealed action, and the later consequence for the cat."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "non_base",
+      "note": "Question and answer are direct dialogue."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "unmarked",
+      "note": "Authorial comment on a spell contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "non_base",
+      "note": "First-person promise is explicitly attributed character speech."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "non_base",
+      "note": "Extended first-person speculation belongs to a speaking character."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "non_base",
+      "note": "General comic maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "third",
+      "note": "The narrator addresses readers and then identifies Segundus's thoughts from outside the story; I is authorial intrusion, not participation."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "non_base",
+      "note": "Unframed first-person opinion is dialogue-like and supplies no base-narrator evidence."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "third",
+      "note": "Omniscient external narration surveys what Childermass knows about multiple classes of people and comments on his response."
+    },
+    {
+      "quote_id": "q00072",
+      "person_signal": "non_base",
+      "note": "First-person identity claim is explicitly Vinculus's dialogue."
+    },
+    {
+      "quote_id": "q00073",
+      "person_signal": "non_base",
+      "note": "Rhetorical first-person appeal occurs in character speech."
+    },
+    {
+      "quote_id": "q00074",
+      "person_signal": "unmarked",
+      "note": "Single external statement about Norrell does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00075",
+      "person_signal": "non_base",
+      "note": "General rhetorical question rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00076",
+      "person_signal": "unmarked",
+      "note": "Brief external report about Childermass is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00077",
+      "person_signal": "unmarked",
+      "note": "External rendering of Segundus's suspicion is locally compatible with more than one framing narrator."
+    },
+    {
+      "quote_id": "q00078",
+      "person_signal": "unclear",
+      "note": "The first-person remark lacks speech framing, and clipping prevents secure attribution to narrator or character."
+    },
+    {
+      "quote_id": "q00079",
+      "person_signal": "non_base",
+      "note": "General maxim about smiles rather than base narration."
+    },
+    {
+      "quote_id": "q00080",
+      "person_signal": "third",
+      "note": "Sustained ironic narration externally characterizes a group and reports its collective assumptions."
+    },
+    {
+      "quote_id": "q00081",
+      "person_signal": "third",
+      "note": "The omniscient narrator's hypothetical you and I directly addresses readers, then returns to externally narrated characters; it is not participant narration."
+    },
+    {
+      "quote_id": "q00082",
+      "person_signal": "non_base",
+      "note": "Extended conversation between Norrell and Lascelles; all first- and second-person forms belong to speakers."
+    },
+    {
+      "quote_id": "q00083",
+      "person_signal": "unmarked",
+      "note": "Brief historical report about Napoleon does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00084",
+      "person_signal": "unmarked",
+      "note": "Single metaphorical statement about an unnamed he is not diagnostic."
+    },
+    {
+      "quote_id": "q00085",
+      "person_signal": "unmarked",
+      "note": "Universal we occurs in reported teaching about humanity, not as a participating story narrator."
+    },
+    {
+      "quote_id": "q00086",
+      "person_signal": "non_base",
+      "note": "First-person possessive and second-person address belong to a character's exclamation."
+    },
+    {
+      "quote_id": "q00087",
+      "person_signal": "third",
+      "note": "Sustained external narration enters a male character's plans, doubts, reading history, and anticipated incapacity."
+    },
+    {
+      "quote_id": "q00088",
+      "person_signal": "non_base",
+      "note": "General wartime maxim rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00089",
+      "person_signal": "non_base",
+      "note": "Generalizing statement is presented as dialogue."
+    },
+    {
+      "quote_id": "q00090",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a character's sensations, distress, preferences, and private reaction."
+    },
+    {
+      "quote_id": "q00091",
+      "person_signal": "third",
+      "note": "External narration follows Childermass's private hallucination, supposition, and perception without a participating narrator."
+    },
+    {
+      "quote_id": "q00092",
+      "person_signal": "third",
+      "note": "Although dialogue opens the quote, the outside narration explicitly renders Norrell's private admission."
+    },
+    {
+      "quote_id": "q00093",
+      "person_signal": "non_base",
+      "note": "The first-person plural belongs to the church stones' embedded spoken tale."
+    },
+    {
+      "quote_id": "q00094",
+      "person_signal": "non_base",
+      "note": "The passage is an embedded polemical statement associated with Strange's book, not base narration."
+    },
+    {
+      "quote_id": "q00095",
+      "person_signal": "third",
+      "note": "A long externally narrated visionary sequence repeatedly renders an unnamed man's changing thoughts and perceptions."
+    },
+    {
+      "quote_id": "q00096",
+      "person_signal": "unmarked",
+      "note": "Brief external introduction of Longridge and Stephen does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00097",
+      "person_signal": "third",
+      "note": "External narration renders the character's inference and then marks the first-person sentence as quoted thought."
+    },
+    {
+      "quote_id": "q00098",
+      "person_signal": "non_base",
+      "note": "First-person magical explanation belongs to direct character speech."
+    },
+    {
+      "quote_id": "q00099",
+      "person_signal": "third",
+      "note": "Sustained external narration reports a male character's uncertainty, fear, and perception of the sky."
+    },
+    {
+      "quote_id": "q00100",
+      "person_signal": "third",
+      "note": "First-person dialogue is framed by sustained external narration of Childermass's pause, weakened state, intention, and unspoken thoughts."
+    },
+    {
+      "quote_id": "q00101",
+      "person_signal": "third",
+      "note": "Sustained external narration reports the character's isolation, prior belief, glimpse, and private feeling."
+    },
+    {
+      "quote_id": "q00102",
+      "person_signal": "third",
+      "note": "The narrator openly addresses male and female readers while externally narrating Mrs Brandy's life; my and me belong to a nonparticipating authorial voice."
+    },
+    {
+      "quote_id": "q00103",
+      "person_signal": "third",
+      "note": "External omniscient narration contrasts Norrell's ability and manner with the impression formed in Sir Walter's mind."
+    },
+    {
+      "quote_id": "q00104",
+      "person_signal": "third",
+      "note": "External narration enters Norrell's suspicions and dramatizes his private alarm about what soldiers might do."
+    },
+    {
+      "quote_id": "q00105",
+      "person_signal": "non_base",
+      "note": "First-person judgment about Norrell and Jonathan is character speech."
+    },
+    {
+      "quote_id": "q00106",
+      "person_signal": "third",
+      "note": "An external authorial narrator comments on successive governments and reports the Foreign Secretary's claim."
+    },
+    {
+      "quote_id": "q00107",
+      "person_signal": "unmarked",
+      "note": "External description plus a general linguistic aside does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q00108",
+      "person_signal": "non_base",
+      "note": "Dictionary-style paratext, not narrative voice."
+    },
+    {
+      "quote_id": "q00109",
+      "person_signal": "unmarked",
+      "note": "The first-person aside is speech and the only outside beat is a bare he; the ending is also clipped."
+    },
+    {
+      "quote_id": "q00110",
+      "person_signal": "unmarked",
+      "note": "A single comic external characterization of a politician is not independently diagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm?book_number=1463&fuseaction=printable",
+      "title": "Jonathan Strange & Mr Norrell by Susanna Clarke \u2014 Chapter 1: The Library at Hurtfew",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained excerpt of pages 3\u201315, reproduced with Bloomsbury's permission, externally narrates the York magicians, Segundus, Honeyfoot, and Norrell and enters characters' thoughts without a participating narrator."
+    },
+    {
+      "url": "https://www.henryfarrell.net/clarkeseminar.pdf",
+      "title": "Jonathan Strange and Mr. Norrell: A Crooked Timber Seminar",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "In her response to the seminar's narrator discussion, Clarke describes the voice as an ordinary nineteenth-century, all-seeing and all-knowing narrator, resolving speculation that it is a participating future character."
+    },
+    {
+      "url": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/MR20241.PDF",
+      "title": "Fantasy and Realism: Tolkien, the Eucatastrophe, and Fantastic Realism",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly analysis quotes Clarke's all-seeing, all-knowing description and explicitly states that the narrator is not a participating character, despite having a personality and making first-person comments."
+    },
+    {
+      "url": "https://janefriedman.com/point-of-view/",
+      "title": "The Basics of Point of View for Fiction Writers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies the novel as using an omniscient narrator to manage its large cast and treats its strong narrating personality as third-person omniscience."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/from-the-archives-fiction-reviews-1933-2023/",
+      "title": "From the Archives: Fiction Reviews, 1933\u20132023",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Kirkus's review characterizes the novel as having a witty, congenial omniscient authorial presence, corroborating a controlling external narrator."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with excerpt, first chapter, point of view, third person, narrator, omniscient, epistolary, frame narrative, and multiple-narrator terms.",
+    "Searched publisher and author domains for an authorized excerpt; the Bloomsbury product and reading-guide pages verified the work but did not themselves provide enough sustained narrative prose.",
+    "Opened and assessed the BookBrowse chapter-one excerpt, which reproduces pages 3\u201315 with explicit permission from Bloomsbury Press.",
+    "Searched for explicit whole-book narrator descriptions and opened Jane Friedman's POV analysis and Kirkus's archived review; both identify an omniscient external voice.",
+    "Located the Crooked Timber seminar containing Susanna Clarke's response to speculation about the narrator and a University of Regina thesis preserved by Library and Archives Canada that quotes and interprets that response.",
+    "Checked Google Books previews and selected-page listings; they verified edition and chapter structure but yielded little accessible prose beyond the stronger opened excerpt.",
+    "Ran targeted searches for potentially contrary first-person quotes. These identified q00023 as the gentleman with the thistle-down hair's speech and q00032 as Vinculus's speech; searches for q00003, q00010, and q00078 did not recover sufficient surrounding text for all local attributions."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person omniscient narrator with an unusually visible authorial personality. Numerous quotes sustain external access to Norrell, Strange, Childermass, Stephen, and other characters, while the authorized opening excerpt independently shows the same arrangement. The narrator sometimes says I, my readers, or you and I, but q00013, q00069, q00081, and q00102 show that these are intrusions by an authorial observer who continues to narrate the characters externally; they do not make the narrator a participant or create alternating first-person sections. Other first-person material is dialogue, prophecy, verse, quoted thought, or an embedded document. The remaining uncertainty concerns the narrator's precise fictional identity and a few context-clipped quotations, not the controlling narrative person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_040",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T21:50:41.365418+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c47b420e4a83569cc55c54909aa77a5198f374f539de8431700ba97fcdad417e"
+  }
+}

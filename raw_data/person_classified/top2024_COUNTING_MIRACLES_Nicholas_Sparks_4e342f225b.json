@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:COUNTING MIRACLES|Nicholas Sparks",
+  "quotes": [
+    {
+      "quote_id": "q08810",
+      "person_signal": "non_base",
+      "note": "Jasper's first-person speech to Tanner, not base narration."
+    },
+    {
+      "quote_id": "q08811",
+      "person_signal": "non_base",
+      "note": "Imperative written by Tanner's grandmother within the story."
+    },
+    {
+      "quote_id": "q08812",
+      "person_signal": "non_base",
+      "note": "Quoted biblical maxim, not base narration."
+    },
+    {
+      "quote_id": "q08813",
+      "person_signal": "unclear",
+      "note": "Clipped quotation boundary and brief speech beat prevent reliable local attribution."
+    },
+    {
+      "quote_id": "q08814",
+      "person_signal": "non_base",
+      "note": "Character dialogue incorporating biblical quotations."
+    },
+    {
+      "quote_id": "q08815",
+      "person_signal": "unclear",
+      "note": "Truncated subordinate clause lacks enough context to establish the narrating position."
+    },
+    {
+      "quote_id": "q08816",
+      "person_signal": "unmarked",
+      "note": "Possible narration or free-indirect commentary, but it contains no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q08817",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q08818",
+      "person_signal": "unmarked",
+      "note": "A brief external reference to a character and his recalled scripture is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q08819",
+      "person_signal": "non_base",
+      "note": "Biblical quotations presented as gnomic material."
+    },
+    {
+      "quote_id": "q08820",
+      "person_signal": "unmarked",
+      "note": "Reports a character's feelings in third-person grammar, but the isolated passage does not independently identify the controlling narrator."
+    },
+    {
+      "quote_id": "q08821",
+      "person_signal": "unmarked",
+      "note": "Mixed biblical material and a brief character statement do not independently establish narrator person."
+    },
+    {
+      "quote_id": "q08822",
+      "person_signal": "unmarked",
+      "note": "Embedded scripture and a short account about Jasper and his father are locally compatible with more than one narrating position."
+    },
+    {
+      "quote_id": "q08823",
+      "person_signal": "non_base",
+      "note": "First-person dialogue by a parent character, not participating base narration."
+    },
+    {
+      "quote_id": "q08824",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q08825",
+      "person_signal": "third",
+      "note": "Sustained scene framing externally names Tanner, reports his perceptions, and surrounds character dialogue with third-person narration."
+    },
+    {
+      "quote_id": "q08826",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Kaitlyn externally as 'she' and embeds dialogue without a participating narrator."
+    },
+    {
+      "quote_id": "q08827",
+      "person_signal": "non_base",
+      "note": "Isolated gnomic fact, not diagnostic narration."
+    },
+    {
+      "quote_id": "q08828",
+      "person_signal": "non_base",
+      "note": "Direct first-person character speech."
+    },
+    {
+      "quote_id": "q08829",
+      "person_signal": "non_base",
+      "note": "Tanner's dialogue about Cameroon, not base narration."
+    },
+    {
+      "quote_id": "q08830",
+      "person_signal": "unmarked",
+      "note": "Character backstory is narrated without enough local context or diagnostic narrator reference to establish person independently."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2024/01/excerpt-25.2024.09-counting-miracles.pdf",
+      "title": "Counting Miracles: A Novel \u2014 Official Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized excerpt on the author's site sustains third-person narration focused on Tanner throughout the opening chapter."
+    },
+    {
+      "url": "https://www.supersummary.com/counting-miracles/chapters-1-3-summary/",
+      "title": "Counting Miracles Chapters 1-3 Summary & Analysis",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Structural analysis explicitly states that all chapters use third-person narration, with limited viewpoint shifting among Tanner, Kaitlyn, and Jasper."
+    },
+    {
+      "url": "https://www.supersummary.com/counting-miracles/chapter-10-epilogue-summary/",
+      "title": "Counting Miracles Chapter 10-Epilogue Summary & Analysis",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Analysis of the novel's latter portion and epilogue identifies the continuing third-person narrator and explains its shifts among the three protagonists."
+    }
+  ],
+  "search_log": [
+    "Searched \"Counting Miracles\" \"Nicholas Sparks\" excerpt and first chapter; opened the authorized Nicholas Sparks PDF and the ReadingGroupGuides reproduction.",
+    "Searched \"Counting Miracles\" \"third person\", point of view, narrator, multiple narrators, and alternating point of view; opened SuperSummary analyses covering Chapters 1-3 and Chapter 10 through the epilogue.",
+    "Searched exact text from the apparent first-person quotes; results identified q08810 as Jasper's speech, q08823 as quoted character speech, and q08829 as Tanner's dialogue rather than alternate first-person narration.",
+    "Checked Google Books and general publisher/catalog results; their synopses described the characters but were not used as narrator-person evidence."
+  ],
+  "person_note": "The controlling narration is third person, shifting limited focalization among Tanner, Kaitlyn, and Jasper. The authorized opening establishes sustained third-person narration, the structural analyses describe that form across the opening and final sections, and the substantial Goodreads scene excerpts corroborate it. Apparent first-person counterexamples are local character speech, including Jasper's reflection about his broken heart and the parenting and Cameroon remarks; they do not form autonomous first-person narrative sections. No credible evidence of sustained first- or second-person base narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_084",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T02:57:03.133690+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9a7d55f5c5a9c226b9e0546ae3864dc0f51766301a1562ffdbef1c0889948ca8"
+  }
+}

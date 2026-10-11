@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2018:6105",
+  "quotes": [
+    {
+      "quote_id": "q02446",
+      "person_signal": "unmarked",
+      "note": "Base-scene narration uses names and third-person subjects, but this short external-action passage alone does not establish whether a participating narrator frames it."
+    },
+    {
+      "quote_id": "q02447",
+      "person_signal": "non_base",
+      "note": "The first clause is character speech; the brief third-person speech tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02448",
+      "person_signal": "non_base",
+      "note": "Severed character dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02449",
+      "person_signal": "unmarked",
+      "note": "Narratorial social exposition contains no participating narrator or sustained character-specific person marker."
+    },
+    {
+      "quote_id": "q02450",
+      "person_signal": "third",
+      "note": "The surrounding narration continuously depicts Nix and Pete externally around their dialogue, with no participating narrator frame."
+    },
+    {
+      "quote_id": "q02451",
+      "person_signal": "unmarked",
+      "note": "Free-indirect reflection is compatible with third-person narration but contains no locally identifying narrator-person marker."
+    },
+    {
+      "quote_id": "q02452",
+      "person_signal": "unmarked",
+      "note": "The clipped atmospheric fragment contains no diagnostic person evidence."
+    },
+    {
+      "quote_id": "q02453",
+      "person_signal": "third",
+      "note": "Free-indirect narration renders a character's private concerns while referring to him as 'he,' indicating a nonparticipating local narrator."
+    },
+    {
+      "quote_id": "q02454",
+      "person_signal": "non_base",
+      "note": "This is first-person character speech, not evidence of first-person base narration."
+    },
+    {
+      "quote_id": "q02455",
+      "person_signal": "third",
+      "note": "Sustained jury-selection narration moves among Lindsey, Wilbanks, and Truitt and reports the lawyers' intentions externally."
+    },
+    {
+      "quote_id": "q02456",
+      "person_signal": "non_base",
+      "note": "An extended character exchange; first-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q02457",
+      "person_signal": "unmarked",
+      "note": "The isolated moral summary refers to characters in third person but does not alone exclude a participating narrator."
+    },
+    {
+      "quote_id": "q02458",
+      "person_signal": "third",
+      "note": "The narrator externally names Liza while reporting her private decision and circumstances unknown to others."
+    },
+    {
+      "quote_id": "q02459",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Liza's decision is consistent with third person but too brief to establish the controlling narrating position alone."
+    },
+    {
+      "quote_id": "q02460",
+      "person_signal": "unmarked",
+      "note": "External actions by a named character alone are not diagnostic of narrator participation."
+    },
+    {
+      "quote_id": "q02461",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; 'Joel asked' is only a short, nondiagnostic speech beat."
+    },
+    {
+      "quote_id": "q02462",
+      "person_signal": "unclear",
+      "note": "The unquoted clinical account may be a report, testimony, or locally de-quoted speech, so its relationship to base narration is unresolved."
+    },
+    {
+      "quote_id": "q02463",
+      "person_signal": "third",
+      "note": "Despite its clipped opening, the passage sustains external narration of John, the lawyer, and the client and their opposed positions."
+    },
+    {
+      "quote_id": "q02464",
+      "person_signal": "unmarked",
+      "note": "This truncated will-summary sentence refers to Pete and Liza externally but is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q02465",
+      "person_signal": "third",
+      "note": "Sustained estate exposition narrates Pete, Liza, Wilbanks, Joel, and Stella externally without a participating frame."
+    },
+    {
+      "quote_id": "q02466",
+      "person_signal": "third",
+      "note": "The narrator reports Pete's inner reaction and anticipates how it will change while referring to him externally."
+    },
+    {
+      "quote_id": "q02467",
+      "person_signal": "unmarked",
+      "note": "Historical exposition about General King's surrender contains no diagnostic narrator-participation marker."
+    },
+    {
+      "quote_id": "q02468",
+      "person_signal": "unmarked",
+      "note": "Historical battle exposition uses collective third-person nouns but does not independently identify the narrator."
+    },
+    {
+      "quote_id": "q02469",
+      "person_signal": "unmarked",
+      "note": "Historical exposition about governments and Japan contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q02470",
+      "person_signal": "unmarked",
+      "note": "The antecedent of 'they' is absent, and the brief biographical statement does not establish narrator participation."
+    },
+    {
+      "quote_id": "q02471",
+      "person_signal": "unmarked",
+      "note": "Statistical historical exposition contains no participating narrator or sustained character-specific perspective."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.hachette.com.au/resources/The%20Reckoning%20First%20Chapter.pdf",
+      "title": "The Reckoning \u2014 First Chapter",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-hosted 21-page first-chapter PDF sustains external narration of Pete Banning, including access to his thoughts, entirely in third person."
+    },
+    {
+      "url": "https://crimereads.com/the-reckoning/",
+      "title": "The Reckoning by John Grisham \u2014 Exclusive Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "This authorized Doubleday excerpt sustains third-person narration from Pete's awakening through the killing and identifies the text as reproduced by publisher permission."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-reckoning-a-novel/styles.html",
+      "title": "John Grisham Writing Styles in The Reckoning: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies a third-person narrator and explains that the narration accommodates Pete, Joel, Stella, Liza, and Florry across portions of the novel where Pete is absent or dead."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Reckoning\" \"John Grisham\" excerpt first chapter publisher.",
+    "Searched: \"The Reckoning\" \"John Grisham\" point of view third person narrator.",
+    "Searched: \"The Reckoning\" \"John Grisham\" novel excerpt Pete Banning.",
+    "Searched: \"The Reckoning\" \"John Grisham\" multiple narrators point of view.",
+    "Opened and inspected the Hachette/Hodder first-chapter PDF, the authorized CrimeReads/Doubleday excerpt, the BookRags point-of-view analysis, and the Penguin Random House title page.",
+    "The Penguin Random House page verified the edition and offered a sample interface but its accessible page text supplied description rather than diagnostic prose, so it was not used as person evidence.",
+    "Search results included unrelated books titled The Reckoning and audiobook-narrator discussions; these were discarded as title collisions or performance-narrator evidence."
+  ],
+  "person_note": "Multiple sampled passages from the opening, trial, wartime history, and post-trial family material consistently use a nonparticipating narrator who moves among characters and sometimes reports private thoughts. The publisher excerpt independently confirms sustained third-person narration in the opening, while the whole-book study guide explicitly describes the same structure across several focal characters. First-person forms in q02450, q02454, q02456, and q02461 are character speech, and q02462 is an unresolved local clinical voice rather than evidence of an alternate base section. No credible evidence of sustained first- or second-person narration was found; the only material uncertainty is the exact local status of q02462, which does not affect the book-level result.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_065",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T21:46:34.018325+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "715c4823ef4accd1b595af173271008239fe1abd633e7715e4c033b3f00cfb20"
+  }
+}

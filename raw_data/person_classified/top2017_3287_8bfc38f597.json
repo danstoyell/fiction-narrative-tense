@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:3287",
+  "quotes": [
+    {
+      "quote_id": "q01676",
+      "person_signal": "non_base",
+      "note": "Thor's first-person statement is direct speech, not narrator evidence."
+    },
+    {
+      "quote_id": "q01677",
+      "person_signal": "unmarked",
+      "note": "The clipped free-indirect comment concerns Loki but does not independently expose the narrator's participation."
+    },
+    {
+      "quote_id": "q01678",
+      "person_signal": "unmarked",
+      "note": "The brief third-person speech beat and appended proverb do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01679",
+      "person_signal": "non_base",
+      "note": "General commentary from the author's introduction, outside the narrated myths."
+    },
+    {
+      "quote_id": "q01680",
+      "person_signal": "unmarked",
+      "note": "External characterization of Loki is compatible with third person but is too brief to establish narrator participation by itself."
+    },
+    {
+      "quote_id": "q01681",
+      "person_signal": "unmarked",
+      "note": "The generic, reader-inclusive 'you' describes reactions to Loki; it is not sustained second-person protagonist narration."
+    },
+    {
+      "quote_id": "q01682",
+      "person_signal": "third",
+      "note": "The surrounding narration treats Freya, Thor, Loki, and Tyr externally and supplies a narratorial joke outside their speech."
+    },
+    {
+      "quote_id": "q01683",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally reports Thor's actions, deliberation, and habitual responses."
+    },
+    {
+      "quote_id": "q01684",
+      "person_signal": "non_base",
+      "note": "This character profile belongs to the front-matter section 'The Players,' not the controlling tale narration."
+    },
+    {
+      "quote_id": "q01685",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in dialogue between Thor and Loki."
+    },
+    {
+      "quote_id": "q01686",
+      "person_signal": "non_base",
+      "note": "The visible first- and second-person pronouns belong to Loki and Idunn's dialogue; the short speech beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q01687",
+      "person_signal": "non_base",
+      "note": "Thor's first-person threat and address to another character are direct speech."
+    },
+    {
+      "quote_id": "q01688",
+      "person_signal": "third",
+      "note": "The narrator externally names Loki and reports his inner admiration, love of tricks, and hatred of being fooled."
+    },
+    {
+      "quote_id": "q01689",
+      "person_signal": "non_base",
+      "note": "The author directly addresses the reader in the introduction, outside the myths."
+    },
+    {
+      "quote_id": "q01690",
+      "person_signal": "non_base",
+      "note": "The vocative 'Loki' marks character speech rather than base narration."
+    },
+    {
+      "quote_id": "q01691",
+      "person_signal": "non_base",
+      "note": "A storyteller's rhetorical preamble addresses listeners generally; its 'you' does not cast a story protagonist."
+    },
+    {
+      "quote_id": "q01692",
+      "person_signal": "third",
+      "note": "The external storyteller omnisciently summarizes the future destruction and destiny of the worlds and gods."
+    },
+    {
+      "quote_id": "q01693",
+      "person_signal": "third",
+      "note": "The tale narrates Odin and Suttung externally; the closing 'you' directly addresses the listener and is not second-person story narration."
+    },
+    {
+      "quote_id": "q01694",
+      "person_signal": "third",
+      "note": "Outside dialogue, the narrator reports Thor's ignorance, impulse, and characteristic behavior from an external position."
+    },
+    {
+      "quote_id": "q01695",
+      "person_signal": "non_base",
+      "note": "A universal observation about insults is gnomic rather than diagnostic narrative."
+    },
+    {
+      "quote_id": "q01696",
+      "person_signal": "non_base",
+      "note": "The first person is Neil Gaiman discussing his imaginative process in the introduction."
+    },
+    {
+      "quote_id": "q01697",
+      "person_signal": "unmarked",
+      "note": "The externally observed description of Loki's smile is too brief to rule out a participating observer by itself."
+    },
+    {
+      "quote_id": "q01698",
+      "person_signal": "non_base",
+      "note": "The author recounts his childhood reading and uncertainty in the introduction, not within the myths."
+    },
+    {
+      "quote_id": "q01699",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Thor's action and the differing feelings of Thor and the dwarfs."
+    },
+    {
+      "quote_id": "q01700",
+      "person_signal": "third",
+      "note": "An external, omniscient storyteller recounts future cosmological events involving Heimdall and the gods."
+    },
+    {
+      "quote_id": "q01701",
+      "person_signal": "third",
+      "note": "The narrator supplies external cosmological exposition about Ratatosk, Nidhogg, and the eagle, including Ratatosk's motives."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9781526634825_A40456688/preview-9781526634825_A40456688.pdf",
+      "title": "Norse Mythology \u2014 Bloomsbury edition preview",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The authorized edition preview distinguishes Gaiman's signed, first-person introduction from 'The Players' and the opening myth, where Odin, Thor, Loki, and Surtr are narrated externally in third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-norse-mythology-stories/styles.html",
+      "title": "Neil Gaiman Writing Styles in Norse Mythology (Stories)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Its point-of-view analysis explicitly states that the book generally maintains third-person omniscient narration, with focal attention shifting among Loki, Odin, and Thor."
+    },
+    {
+      "url": "https://www.ignitedinkwriting.com/ignite-your-ink-blog-for-writers/omniscient-point-of-view-definition-pros-and-cons/2018",
+      "title": "Omniscient Point of View: Benefits and Pitfalls",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "An editor identifies Norse Mythology as omniscient narration and analyzes an interior passage from 'Mimir's Head and Odin's Eye' in which the narrator externally reports multiple characters' responses."
+    },
+    {
+      "url": "https://jimleeauthor.wordpress.com/2017/03/07/reviewed-norse-mythology/",
+      "title": "REVIEWED: Norse Mythology",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes a third-person narrator linking events across the fifteen tales and making them resemble one continuous episodic story."
+    }
+  ],
+  "search_log": [
+    "Searched for \"Neil Gaiman Norse Mythology official excerpt chapter publisher\" and opened the Bloomsbury-edition preview.",
+    "Searched for \"Norse Mythology Neil Gaiman point of view third person narration review\" and opened explicit BookRags, Ignited Ink, and Jim Lee analyses.",
+    "Searched for interior excerpts using \"Mimir's Head and Odin's Eye\" and \"The Master Builder\"; the Ignited Ink analysis supplied a usable interior passage, while marketplace, podcast, and unauthorized flipbook results were not relied upon.",
+    "Checked Google Books, Google Play, W. W. Norton, PBS, NPR/KCBX, Kirkus, and Guardian material; these confirmed the work's identity and linked-story structure but generally did not directly establish grammatical narrative person."
+  ],
+  "person_note": "The myth-tale body uses a nonparticipating third-person storyteller, often with omniscient access to different gods' thoughts and feelings. Multiple Goodreads passages from separate tales expose that position, and the authorized early-book preview plus explicit whole-book and interior analyses agree. First-person passages in the sample belong to Gaiman's signed introduction or to character dialogue, while apparent second person is reader address or generic phrasing rather than sustained narration of a protagonist. No credible evidence indicates sustained first- or second-person tale sections; the only scope limitation is that the Tier A preview covers the introduction and early sections rather than the entire book.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_060",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:40:01.156178+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a8adf7099ce12de66bf16860fd448780c275d3c6163a63e1eabd8a1003bac790"
+  }
+}

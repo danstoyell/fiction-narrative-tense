@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2001:916",
+  "quotes": [
+    {
+      "quote_id": "q00580",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no story-specific narrator; its implied address does not establish narrative person."
+    },
+    {
+      "quote_id": "q00581",
+      "person_signal": "non_base",
+      "note": "Gnomic advice rather than story-specific narration; the implied second person is nondiagnostic."
+    },
+    {
+      "quote_id": "q00582",
+      "person_signal": "non_base",
+      "note": "Philomene's direct speech is a local character voice, while the brief speech tag alone cannot establish the base narrator."
+    },
+    {
+      "quote_id": "q00583",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial commentary, but it contains no participating narrator or sustained external narration."
+    },
+    {
+      "quote_id": "q00584",
+      "person_signal": "non_base",
+      "note": "General maxim with no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00585",
+      "person_signal": "unmarked",
+      "note": "The fragment describes several women but does not establish whether the controlling narrator participates in the story."
+    },
+    {
+      "quote_id": "q00586",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial summary, but 'He' denotes the Lord and does not identify the narrator's relationship to the story."
+    },
+    {
+      "quote_id": "q00587",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Emily is a character utterance, not base narration."
+    },
+    {
+      "quote_id": "q00588",
+      "person_signal": "non_base",
+      "note": "Provenance error: the sentence occurs in Kathleen Grissom's first-person novel The Kitchen House, not in Cane River."
+    },
+    {
+      "quote_id": "q00589",
+      "person_signal": "unmarked",
+      "note": "Generalized commentary about the women; third-person pronouns alone do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q00590",
+      "person_signal": "unmarked",
+      "note": "An isolated sentence about 'she' lacks enough context to establish base narrative person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/803/cane-river",
+      "title": "Excerpt from Cane River by Lalita Tademy",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized sustained Chapter One excerpt narrates Suzette externally as 'she' while presenting her actions, perceptions, and thoughts, establishing third-person narration for the opening."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-cane-river/style.html",
+      "title": "Lalita Tademy Writing Styles in Cane River",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly identifies the story as third-person limited and explains that its focal perspective moves from Suzette to Philomene and then Emily without changing grammatical person."
+    },
+    {
+      "url": "https://cdn.waterstones.com/special/pdf/9780552779128.pdf",
+      "title": "The Kitchen House extract by Kathleen Grissom",
+      "tier": "A",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "This retailer-hosted extract contains q00588 verbatim and identifies its actual source as The Kitchen House, demonstrating that the apparent first-person evidence is contamination rather than a Cane River narrative section."
+    }
+  ],
+  "search_log": [
+    "Searched \"Cane River\" \"Lalita Tademy\" excerpt, first chapter, narrator, and point of view; opened the sustained BookBrowse Chapter One excerpt.",
+    "Searched \"Cane River\" with \"first person,\" \"third person,\" and \"third-person limited\"; opened BookRags' explicit whole-book point-of-view analysis.",
+    "Searched the exact phrases \"The two women worked easily together\" and \"Mama Mae was in charge of Belle\"; results located the passage in The Kitchen House, and the Waterstones extract was opened for provenance verification.",
+    "Searched university, scholarly, publisher, author, library, Google Books, frame-narrative, and alternating-POV variants; results described the novel's three focal sections but yielded no second independent Tier A/B source explicitly establishing whole-book grammatical person."
+  ],
+  "person_note": "Cane River's opening is sustained third-person narration, and the whole-book structural source says the novel remains third-person limited while shifting focal perspective among Suzette, Philomene, and Emily. The supplied Cane River quotations are otherwise gnomic, dialogic, or too context-poor to independently diagnose third person. The sole apparent first-person event quote, q00588, is a Goodreads provenance error copied from The Kitchen House and therefore is not contrary Cane River evidence. The label is THIRD, but confidence is med because quote evidence does not support that label and the web record contains only one Tier A source supporting THIRD; the second supporting source is Tier C, so the required two-Tier-A/B threshold for high confidence is not met.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_035",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:55:19.384553+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "37d6a9ce7a90d5ec7a0aa6e1ba02751b5dac5145bacde6ffa222540811c863ca"
+  }
+}

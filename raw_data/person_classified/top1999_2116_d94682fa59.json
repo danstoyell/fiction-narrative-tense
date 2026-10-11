@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1999:2116",
+  "quotes": [
+    {
+      "quote_id": "q00575",
+      "person_signal": "non_base",
+      "note": "Dumbledore's direct speech; first-person plurals belong to the speaker, not the base narrator."
+    },
+    {
+      "quote_id": "q00576",
+      "person_signal": "non_base",
+      "note": "Character speech with no narratorial framing."
+    },
+    {
+      "quote_id": "q00577",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00578",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech."
+    },
+    {
+      "quote_id": "q00579",
+      "person_signal": "non_base",
+      "note": "Mr. Weasley's speech dominates; the brief attribution does not establish narrative person."
+    },
+    {
+      "quote_id": "q00580",
+      "person_signal": "unmarked",
+      "note": "Dialogue is followed by a brief external description of Snape, but that isolated sentence is compatible with either first- or third-person narration."
+    },
+    {
+      "quote_id": "q00581",
+      "person_signal": "non_base",
+      "note": "Harry's direct speech, not base narration."
+    },
+    {
+      "quote_id": "q00582",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally tracks Hermione, Harry, and Ron and refers to Harry in the third person."
+    },
+    {
+      "quote_id": "q00583",
+      "person_signal": "unclear",
+      "note": "The unframed I/you line is likely speech, but clipping removes the attribution needed to resolve it."
+    },
+    {
+      "quote_id": "q00584",
+      "person_signal": "unmarked",
+      "note": "Mostly dialogue with a short scene-setting beat; the beat alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q00585",
+      "person_signal": "non_base",
+      "note": "Character speech containing generic and direct-address pronouns."
+    },
+    {
+      "quote_id": "q00586",
+      "person_signal": "non_base",
+      "note": "Diegetic verse/song rather than controlling narration."
+    },
+    {
+      "quote_id": "q00587",
+      "person_signal": "third",
+      "note": "Extended scene narration presents Fred, George, Percy, Ginny, and Harry externally, with dialogue embedded inside it."
+    },
+    {
+      "quote_id": "q00588",
+      "person_signal": "non_base",
+      "note": "Dumbledore's direct speech; story-specific you is an addressee, not a second-person protagonist."
+    },
+    {
+      "quote_id": "q00589",
+      "person_signal": "non_base",
+      "note": "Character speech with no base-narrator evidence."
+    },
+    {
+      "quote_id": "q00590",
+      "person_signal": "non_base",
+      "note": "Direct speech plus a minimal attribution beat."
+    },
+    {
+      "quote_id": "q00591",
+      "person_signal": "unmarked",
+      "note": "Dialogue includes brief external action beats, but the local context is too limited to diagnose narrator participation."
+    },
+    {
+      "quote_id": "q00592",
+      "person_signal": "third",
+      "note": "Sustained narration depicts Mrs. Weasley, Fred, and Harry externally around the quoted speech."
+    },
+    {
+      "quote_id": "q00593",
+      "person_signal": "non_base",
+      "note": "Unframed character question."
+    },
+    {
+      "quote_id": "q00594",
+      "person_signal": "third",
+      "note": "Scene narration externally describes the trio falling silent and Hermione posing a question before dialogue begins."
+    },
+    {
+      "quote_id": "q00595",
+      "person_signal": "third",
+      "note": "Extended external narration follows Harry's perceptions and actions and introduces Snape in third person."
+    },
+    {
+      "quote_id": "q00596",
+      "person_signal": "non_base",
+      "note": "Uncle Vernon's shouted speech; I and your belong to the character exchange."
+    },
+    {
+      "quote_id": "q00597",
+      "person_signal": "non_base",
+      "note": "Malfoy's direct speech with only a short attribution."
+    },
+    {
+      "quote_id": "q00598",
+      "person_signal": "non_base",
+      "note": "Character speech; first-person pronouns identify the speaker only."
+    },
+    {
+      "quote_id": "q00599",
+      "person_signal": "non_base",
+      "note": "Dialogue between Malfoy and Harry with minimal speech tags."
+    },
+    {
+      "quote_id": "q00600",
+      "person_signal": "non_base",
+      "note": "Diegetic chant or song, not base narration."
+    },
+    {
+      "quote_id": "q00601",
+      "person_signal": "non_base",
+      "note": "Character dialogue with no diagnostic narratorial passage."
+    },
+    {
+      "quote_id": "q00602",
+      "person_signal": "non_base",
+      "note": "Character speech; repeated I does not belong to the narrator."
+    },
+    {
+      "quote_id": "q00603",
+      "person_signal": "unmarked",
+      "note": "A single external description of Snape lacks enough context to establish the controlling narrator's participation."
+    },
+    {
+      "quote_id": "q00604",
+      "person_signal": "non_base",
+      "note": "Ron's direct speech."
+    },
+    {
+      "quote_id": "q00605",
+      "person_signal": "non_base",
+      "note": "Character exchange with brief speech attributions."
+    },
+    {
+      "quote_id": "q00606",
+      "person_signal": "unmarked",
+      "note": "Narratorial comparison describes an activity but contains no participating narrator or sufficiently developed third-person scene."
+    },
+    {
+      "quote_id": "q00607",
+      "person_signal": "third",
+      "note": "Narration refers to Harry externally and directly renders what he needed, diagnostic of close third-person narration."
+    },
+    {
+      "quote_id": "q00608",
+      "person_signal": "non_base",
+      "note": "Character speech and speech tags without sustained base narration."
+    },
+    {
+      "quote_id": "q00609",
+      "person_signal": "non_base",
+      "note": "Dumbledore's speech; the brief attribution is nondiagnostic."
+    },
+    {
+      "quote_id": "q00610",
+      "person_signal": "non_base",
+      "note": "Dumbledore's explanatory speech."
+    },
+    {
+      "quote_id": "q00611",
+      "person_signal": "third",
+      "note": "The narrator reports Harry's private thought while referring to him externally, then narrates the bird's action."
+    },
+    {
+      "quote_id": "q00612",
+      "person_signal": "third",
+      "note": "Outside Riddle's quoted speech, the narrator describes his actions externally in a continuing third-person scene."
+    },
+    {
+      "quote_id": "q00613",
+      "person_signal": "unclear",
+      "note": "Clipping leaves unresolved whether the warning is spoken or written, so its you cannot identify base narration."
+    },
+    {
+      "quote_id": "q00614",
+      "person_signal": "third",
+      "note": "External narration describes Dobby and Mr. Malfoy's actions around the dialogue."
+    },
+    {
+      "quote_id": "q00615",
+      "person_signal": "third",
+      "note": "Sustained external narration follows the travelers and explicitly attributes an interior judgment to Harry."
+    },
+    {
+      "quote_id": "q00616",
+      "person_signal": "non_base",
+      "note": "Contextual research identifies this as Ron's spoken joke about Tom Riddle's award, not narration."
+    },
+    {
+      "quote_id": "q00617",
+      "person_signal": "third",
+      "note": "Extended narration describes Ginny, Harry's judgment, and Fred and George externally."
+    },
+    {
+      "quote_id": "q00618",
+      "person_signal": "non_base",
+      "note": "Dobby's direct speech with a speech tag."
+    },
+    {
+      "quote_id": "q00619",
+      "person_signal": "third",
+      "note": "Sustained narration refers to Harry as he and reports his feelings and memories from outside the story."
+    },
+    {
+      "quote_id": "q00620",
+      "person_signal": "non_base",
+      "note": "Contextual research places this sentence inside a Daily Prophet newspaper clipping embedded in the novel."
+    },
+    {
+      "quote_id": "q00621",
+      "person_signal": "non_base",
+      "note": "This is the diegetic writing daubed on a Hogwarts wall, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00622",
+      "person_signal": "third",
+      "note": "Sustained external narration depicts Filch's repeated actions and the students he targets."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.scholastic.com/hpread/HP_Book2_Chapter_Excerpt.pdf",
+      "title": "Harry Potter and the Chamber of Secrets: Chapter One excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Scholastic's authorized excerpt opens with sustained narration about the Dursleys and Harry from an external third-person position."
+    },
+    {
+      "url": "https://thescholarship.ecu.edu/server/api/core/bitstreams/1ee0b095-124c-4cda-a0e3-cb1e94d477ec/content",
+      "title": "Word Magic: Defining Harry Potter's World in New Terms",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This East Carolina University master's thesis analyzes an interior Chamber of Secrets passage and explicitly identifies Rowling's technique as third-person limited through Harry."
+    },
+    {
+      "url": "https://files.eric.ed.gov/fulltext/ED459865.pdf",
+      "title": "Discovering by Analysis: Harry Potter and Youth Fantasy",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This Kent State University master's research paper states that the Harry Potter series employs third-person point of view; its study includes the first four novels, including Chamber of Secrets."
+    },
+    {
+      "url": "https://www.merriam-webster.com/grammar/point-of-view-first-second-third-person-difference",
+      "title": "First, Second and Third Person Explained",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Merriam-Webster explicitly describes Rowling's Harry Potter narration as third-person limited and demonstrates it with an interior passage from Chamber of Secrets that refers to Harry as he while revealing his thoughts."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/potter2/facts/",
+      "title": "Harry Potter and the Chamber of Secrets: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The book-level guide identifies the narrator as third person following Harry and explains that the narrative reveals Harry's private thoughts."
+    }
+  ],
+  "search_log": [
+    "Searched for authorized excerpts using queries including \"Harry Potter and the Chamber of Secrets J.K. Rowling official excerpt\" and exact opening language; found and inspected Scholastic's Chapter One excerpt.",
+    "Searched for explicit narrator and point-of-view analysis using \"Harry Potter and the Chamber of Secrets third person point of view scholarly\" and related queries; opened the East Carolina University and ERIC theses, Merriam-Webster, SparkNotes, and LitCharts results.",
+    "Checked Google Books for a preview; the opened edition reported that no preview was available, so its catalog description was not used as person evidence.",
+    "Ran targeted searches for epistolary form, diary/frame narrative, multiple narrators, alternating point of view, and first-person narration; results consistently described third-person narration, while the diary was discussed as an embedded magical object rather than the novel's constitutive form.",
+    "Searched exact clipped quotations to resolve local structure: q00616 was identified as Ron's joke, q00620 as text inside a Daily Prophet clipping, and q00621 as the writing on the wall; none is base narration."
+  ],
+  "person_note": "The controlling narrator is nonparticipating, close third person centered on Harry. Multiple sampled interior passages externally name Harry while reporting his thoughts, feelings, and perceptions, and these agree with an authorized Scholastic opening, two scholarly sources, and explicit whole-book reference descriptions. First- and second-person forms in the sample occur in dialogue, verse, warnings, or embedded documents; Tom Riddle's diary and the Daily Prophet clipping are local diegetic material rather than sustained alternative narration. No credible evidence of first-person, second-person, or alternating base sections was found. The authorized excerpt covers only the opening, but the interior quotes and scholarly analyses remove that scope limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.230655+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e2c9e5180a9868d80542d5a70edb91c90f75a17982d8508b7ba8e26cf14b9cf6"
+  }
+}

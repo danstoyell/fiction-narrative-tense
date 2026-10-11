@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2014:2048",
+  "quotes": [
+    {
+      "quote_id": "q03196",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q03197",
+      "person_signal": "unmarked",
+      "note": "Narratorial description of Appalachia contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q03198",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough syntax or context for attribution."
+    },
+    {
+      "quote_id": "q03199",
+      "person_signal": "non_base",
+      "note": "Gnomic claim about companies, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q03200",
+      "person_signal": "non_base",
+      "note": "General expository definition of black lung, not person-diagnostic narration."
+    },
+    {
+      "quote_id": "q03201",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts the heroine's history and emotional state as her/she."
+    },
+    {
+      "quote_id": "q03202",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-clause and is too clipped to establish a narrating position."
+    },
+    {
+      "quote_id": "q03203",
+      "person_signal": "non_base",
+      "note": "Direct speech; second-person address does not identify the narrator."
+    },
+    {
+      "quote_id": "q03204",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed she is compatible with more than one narrating frame."
+    },
+    {
+      "quote_id": "q03205",
+      "person_signal": "non_base",
+      "note": "General legal exposition, not person-diagnostic story narration."
+    },
+    {
+      "quote_id": "q03206",
+      "person_signal": "non_base",
+      "note": "First person occurs entirely within character dialogue."
+    },
+    {
+      "quote_id": "q03207",
+      "person_signal": "non_base",
+      "note": "Second- and first-person pronouns are confined to direct speech."
+    },
+    {
+      "quote_id": "q03208",
+      "person_signal": "non_base",
+      "note": "General legal exposition about black-lung claims is nondiagnostic."
+    },
+    {
+      "quote_id": "q03209",
+      "person_signal": "unmarked",
+      "note": "The isolated she sentence suggests external focalization but is not sufficient alone."
+    },
+    {
+      "quote_id": "q03210",
+      "person_signal": "unclear",
+      "note": "A participial fragment omits its subject and surrounding narration."
+    },
+    {
+      "quote_id": "q03211",
+      "person_signal": "unmarked",
+      "note": "A single she sentence about a projected future does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q03212",
+      "person_signal": "third",
+      "note": "Connected external narration names Samantha, describes her actions, and renders her decision."
+    },
+    {
+      "quote_id": "q03213",
+      "person_signal": "unmarked",
+      "note": "Generic observation about women in Big Law contains no diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q03214",
+      "person_signal": "non_base",
+      "note": "First-person plural appears only in direct speech."
+    },
+    {
+      "quote_id": "q03215",
+      "person_signal": "unclear",
+      "note": "The clipped clause cannot be reliably attributed."
+    },
+    {
+      "quote_id": "q03216",
+      "person_signal": "unclear",
+      "note": "The fragment omits its subject and surrounding quotation boundaries."
+    },
+    {
+      "quote_id": "q03217",
+      "person_signal": "non_base",
+      "note": "Second person occurs in direct speech about a firearm."
+    },
+    {
+      "quote_id": "q03218",
+      "person_signal": "third",
+      "note": "Connected narration refers externally to Samantha and her mother without a participating narrator."
+    },
+    {
+      "quote_id": "q03219",
+      "person_signal": "non_base",
+      "note": "Aphoristic legal wordplay is not diagnostic narration."
+    },
+    {
+      "quote_id": "q03220",
+      "person_signal": "unclear",
+      "note": "The clipped question may be free-indirect thought, but its local structure is missing."
+    },
+    {
+      "quote_id": "q03221",
+      "person_signal": "third",
+      "note": "Outside the dialogue, a nonparticipating narrator frames the drive and renders Samantha's wondering."
+    },
+    {
+      "quote_id": "q03222",
+      "person_signal": "non_base",
+      "note": "The you address and first person occur within direct speech."
+    },
+    {
+      "quote_id": "q03223",
+      "person_signal": "unmarked",
+      "note": "Landscape and community description does not reveal whether a narrator participates."
+    },
+    {
+      "quote_id": "q03224",
+      "person_signal": "unclear",
+      "note": "The passage resembles a character's oral account, but lost quotation boundaries prevent secure attribution."
+    },
+    {
+      "quote_id": "q03225",
+      "person_signal": "unclear",
+      "note": "The isolated aside 'come to think of it' lacks enough context to distinguish narration from local thought or speech."
+    },
+    {
+      "quote_id": "q03226",
+      "person_signal": "third",
+      "note": "Although dialogue-heavy, sustained outside beats externally narrate Samantha, Mrs. Crump, and the documents."
+    },
+    {
+      "quote_id": "q03227",
+      "person_signal": "non_base",
+      "note": "Second-person address and first-person reference occur entirely in speech."
+    },
+    {
+      "quote_id": "q03228",
+      "person_signal": "third",
+      "note": "Extended scene-level beats externally narrate the speakers' actions and Samantha's reaction."
+    },
+    {
+      "quote_id": "q03229",
+      "person_signal": "unclear",
+      "note": "The anecdotal account appears locally voiced, but missing quotation boundaries leave its status unresolved."
+    },
+    {
+      "quote_id": "q03230",
+      "person_signal": "third",
+      "note": "Outside the quoted conversation, third-person scene narration frames Chester, Samantha, and Mattie."
+    },
+    {
+      "quote_id": "q03231",
+      "person_signal": "third",
+      "note": "Sustained external narration describes the room and recounts the partners' earlier actions."
+    },
+    {
+      "quote_id": "q03232",
+      "person_signal": "non_base",
+      "note": "First and second person occur only within dialogue."
+    },
+    {
+      "quote_id": "q03233",
+      "person_signal": "non_base",
+      "note": "The first-person coal-country account is Donovan's direct speech, not base narration."
+    },
+    {
+      "quote_id": "q03234",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs within direct speech."
+    },
+    {
+      "quote_id": "q03235",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to a character's explanatory speech."
+    },
+    {
+      "quote_id": "q03236",
+      "person_signal": "third",
+      "note": "Connected external narration describes Donovan's conduct and Samantha's response."
+    },
+    {
+      "quote_id": "q03237",
+      "person_signal": "non_base",
+      "note": "The you/we forms occur in a character's extended explanation."
+    },
+    {
+      "quote_id": "q03238",
+      "person_signal": "non_base",
+      "note": "First and second person are confined to an extended spoken history of mining."
+    },
+    {
+      "quote_id": "q03239",
+      "person_signal": "third",
+      "note": "Despite opening dialogue, sustained outside narration externally describes Donovan and recounts Romey's actions."
+    },
+    {
+      "quote_id": "q03240",
+      "person_signal": "third",
+      "note": "A sustained action scene externally narrates the driver, cop, and Samantha."
+    },
+    {
+      "quote_id": "q03241",
+      "person_signal": "third",
+      "note": "Sustained scene narration refers to Samantha as she and externally describes the officer."
+    },
+    {
+      "quote_id": "q03242",
+      "person_signal": "third",
+      "note": "An extended sequence externally follows Samantha through multiple actions and locations."
+    },
+    {
+      "quote_id": "q03243",
+      "person_signal": "third",
+      "note": "The narrator externally characterizes Marshall Kofer and his relationship to his daughter."
+    },
+    {
+      "quote_id": "q03244",
+      "person_signal": "third",
+      "note": "Connected narration supplies Samantha's preferences and contrasts her former and present settings."
+    },
+    {
+      "quote_id": "q03245",
+      "person_signal": "third",
+      "note": "Sustained external narration renders Samantha's perceptions, circumstances, and emotional state."
+    },
+    {
+      "quote_id": "q03246",
+      "person_signal": "non_base",
+      "note": "The present-tense sentence is immediate character thought within the past-tense third-person narrative."
+    },
+    {
+      "quote_id": "q03247",
+      "person_signal": "unclear",
+      "note": "The excerpt starts mid-word or mid-sentence and provides only a clipped speech beat."
+    },
+    {
+      "quote_id": "q03248",
+      "person_signal": "unclear",
+      "note": "The clipped fragment ends before its narratorial context develops."
+    },
+    {
+      "quote_id": "q03249",
+      "person_signal": "non_base",
+      "note": "The epistolary address is a local embedded message, not the novel's controlling narration."
+    },
+    {
+      "quote_id": "q03250",
+      "person_signal": "third",
+      "note": "Connected external narration names Samantha and summarizes her actions, relief, and unresolved decisions."
+    },
+    {
+      "quote_id": "q03251",
+      "person_signal": "unmarked",
+      "note": "The isolated she sentence conveys emotion but does not independently establish the controlling narrator."
+    },
+    {
+      "quote_id": "q03252",
+      "person_signal": "unmarked",
+      "note": "Reflective narration about Brady contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q03253",
+      "person_signal": "unclear",
+      "note": "The clipped infinitive fragment cannot establish person or voice."
+    },
+    {
+      "quote_id": "q03254",
+      "person_signal": "unmarked",
+      "note": "A single sentence about her destination does not independently diagnose narrator participation."
+    },
+    {
+      "quote_id": "q03255",
+      "person_signal": "third",
+      "note": "Sustained external narration names Samantha and recounts her actions, history, and current situation."
+    },
+    {
+      "quote_id": "q03256",
+      "person_signal": "third",
+      "note": "Extended external narration gives Samantha's financial history; generic you is a maxim, not second-person storytelling."
+    },
+    {
+      "quote_id": "q03257",
+      "person_signal": "unclear",
+      "note": "The noun-phrase fragment lacks a narrating clause."
+    },
+    {
+      "quote_id": "q03258",
+      "person_signal": "unmarked",
+      "note": "A bare named-character action is insufficient by itself to diagnose the narrator."
+    },
+    {
+      "quote_id": "q03259",
+      "person_signal": "unmarked",
+      "note": "General evaluative exposition contains no narrator-person marker."
+    },
+    {
+      "quote_id": "q03260",
+      "person_signal": "unmarked",
+      "note": "The isolated she sentence conveys Samantha's outlook but is not independently decisive."
+    },
+    {
+      "quote_id": "q03261",
+      "person_signal": "third",
+      "note": "External narration frames Samantha's behavior and marks the first-person words as her quoted thought."
+    },
+    {
+      "quote_id": "q03262",
+      "person_signal": "non_base",
+      "note": "The first-person passage is a clipped embedded message, signaled by its letter-like wording and 'FYI.'"
+    },
+    {
+      "quote_id": "q03263",
+      "person_signal": "unclear",
+      "note": "The noun-phrase fragment contains no narrating clause."
+    },
+    {
+      "quote_id": "q03264",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about suicide is not person-diagnostic narration."
+    },
+    {
+      "quote_id": "q03265",
+      "person_signal": "unmarked",
+      "note": "Description of a funeral custom contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q03266",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks both its beginning and continuation."
+    },
+    {
+      "quote_id": "q03267",
+      "person_signal": "third",
+      "note": "Outside the opening speech, the narrator externally describes Snowden and Samantha's uncertainty."
+    },
+    {
+      "quote_id": "q03268",
+      "person_signal": "unclear",
+      "note": "The incomplete noun phrase cannot be attributed responsibly."
+    },
+    {
+      "quote_id": "q03269",
+      "person_signal": "third",
+      "note": "Sustained external narration renders Samantha's physical sensations, action, and response."
+    },
+    {
+      "quote_id": "q03270",
+      "person_signal": "unclear",
+      "note": "The present-tense explanation appears locally spoken, but missing quotation boundaries prevent secure attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/gray-mountain/",
+      "title": "Gray Mountain by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized Chapter 1 excerpt sustains external narration and refers to Samantha as she/her, with no participating narrator."
+    },
+    {
+      "url": "https://www.penguinlibros.com/es/tematicas/31003-libro-el-secreto-de-gray-mountain-9788401015434/fragmento",
+      "title": "El secreto de Gray Mountain \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized Spanish Chapter 1 extract independently sustains third-person narration of Samantha and other characters."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-gray-mountain/styles.html",
+      "title": "John Grisham Writing Styles in Gray Mountain",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly describes the novel as third person, mainly limited to Samantha, with a few brief omniscient passages that remain third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Gray Mountain John Grisham excerpt first chapter publisher\" and opened the author, Hachette/Penguin, Bookreporter, and Google Books results.",
+    "Searched \"Gray Mountain John Grisham third person narrator point of view\" and opened the explicit BookRags point-of-view analysis.",
+    "Searched exact opening text, including \"The horror was in the waiting,\" which located and confirmed the authorized English excerpt on John Grisham's site.",
+    "Searched \"Gray Mountain alternating narration multiple narrators,\" \"epistolary diary frame narrative,\" and narrator/omniscient variants; found no evidence of sustained first- or second-person base sections.",
+    "Google Books exposed bibliographic data and a section list but not usable sustained prose in the opened page, so it was retained only as a research dead end rather than evidence.",
+    "Targeted exact-quote searches showed that q03262 is letter-like embedded material and did not reveal any whole-book first-person structure."
+  ],
+  "person_note": "The quote set repeatedly supplies sustained, externally narrated scenes centered on Samantha Kofer and other characters, while the authorized English and Spanish openings independently show the same third-person base. The whole-book point-of-view description confirms that the dominant mode is third-person limited to Samantha, with brief omniscient shifts that remain third person. First-person forms in dialogue, quoted thought, and the embedded message at q03262 are local material, not autonomous base sections. Some clipped passages retain uncertain quotation boundaries, but none provides credible evidence of alternating person; the remaining uncertainty is limited to those local fragments, not the book-level classification.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.254059+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cfd1ede143efc6a7d5d690499b58920195cbb745425a838a9d863ca07e1f91d2"
+  }
+}

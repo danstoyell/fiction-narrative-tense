@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:CALL US WHAT WE CARRY|Amanda Gorman",
+  "quotes": [
+    {
+      "quote_id": "q06248",
+      "person_signal": "non_base",
+      "note": "Collective first-person language in a poem, not eligible prose base narration."
+    },
+    {
+      "quote_id": "q06249",
+      "person_signal": "non_base",
+      "note": "Gnomic verse from a poetry collection, not prose base narration."
+    },
+    {
+      "quote_id": "q06250",
+      "person_signal": "non_base",
+      "note": "Collective lyric statement in verse, not prose base narration."
+    },
+    {
+      "quote_id": "q06251",
+      "person_signal": "non_base",
+      "note": "Collective lyric reflection in a poem, not prose base narration."
+    },
+    {
+      "quote_id": "q06252",
+      "person_signal": "non_base",
+      "note": "Poetic personification and maxim, not prose base narration."
+    },
+    {
+      "quote_id": "q06253",
+      "person_signal": "non_base",
+      "note": "Lyric direct address in verse, not prose base narration."
+    },
+    {
+      "quote_id": "q06254",
+      "person_signal": "non_base",
+      "note": "Collective exhortation from a poem, not prose base narration."
+    },
+    {
+      "quote_id": "q06255",
+      "person_signal": "non_base",
+      "note": "Aphoristic poetic line, not prose base narration."
+    },
+    {
+      "quote_id": "q06256",
+      "person_signal": "non_base",
+      "note": "Aphoristic poetic line, not prose base narration."
+    },
+    {
+      "quote_id": "q06257",
+      "person_signal": "non_base",
+      "note": "Wordplay presented as verse, not prose base narration."
+    },
+    {
+      "quote_id": "q06258",
+      "person_signal": "non_base",
+      "note": "First-person plural voice in the included inaugural poem, not prose base narration."
+    },
+    {
+      "quote_id": "q06259",
+      "person_signal": "non_base",
+      "note": "Aphoristic lyric reflection, not prose base narration."
+    },
+    {
+      "quote_id": "q06260",
+      "person_signal": "non_base",
+      "note": "Collective first-person exhortation in verse, not prose base narration."
+    },
+    {
+      "quote_id": "q06261",
+      "person_signal": "non_base",
+      "note": "Collective lyric statement in a poem, not prose base narration."
+    },
+    {
+      "quote_id": "q06262",
+      "person_signal": "non_base",
+      "note": "Metapoetic first-person plural voice, not prose base narration."
+    },
+    {
+      "quote_id": "q06263",
+      "person_signal": "non_base",
+      "note": "Gnomic verse from a poetry collection, not prose base narration."
+    },
+    {
+      "quote_id": "q06264",
+      "person_signal": "non_base",
+      "note": "Aphoristic poetic line, not prose base narration."
+    },
+    {
+      "quote_id": "q06265",
+      "person_signal": "non_base",
+      "note": "Aphoristic poetic line, not prose base narration."
+    },
+    {
+      "quote_id": "q06266",
+      "person_signal": "non_base",
+      "note": "Collective exhortation in verse, not prose base narration."
+    },
+    {
+      "quote_id": "q06267",
+      "person_signal": "non_base",
+      "note": "Historical exposition embedded in a formally inventive poetry collection, not a prose narrative base."
+    },
+    {
+      "quote_id": "q06268",
+      "person_signal": "non_base",
+      "note": "Collective first-person line from a poem, not prose base narration."
+    },
+    {
+      "quote_id": "q06269",
+      "person_signal": "non_base",
+      "note": "Collective lyric question in verse, not prose base narration."
+    },
+    {
+      "quote_id": "q06270",
+      "person_signal": "non_base",
+      "note": "Collective lyric reflection and wordplay, not prose base narration."
+    },
+    {
+      "quote_id": "q06271",
+      "person_signal": "non_base",
+      "note": "Aphoristic first-person plural verse, not prose base narration."
+    },
+    {
+      "quote_id": "q06272",
+      "person_signal": "non_base",
+      "note": "Lyric address and collective voice in a poem, not prose base narration."
+    },
+    {
+      "quote_id": "q06273",
+      "person_signal": "non_base",
+      "note": "Collective lyric reflection in verse, not prose base narration."
+    }
+  ],
+  "person_label": "EXCLUDED",
+  "person_confidence": "",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.com/books/688816/call-us-what-we-carry-by-amanda-gorman/",
+      "title": "Call Us What We Carry by Amanda Gorman",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher explicitly categorizes the work as a poetry collection featuring poems in varied styles and structures; it is not eligible prose narrative."
+    },
+    {
+      "url": "https://global.penguinrandomhouse.com/announcements/viking-to-publish-amanda-gormans-call-us-what-we-carry-poetry-collection-in-december/",
+      "title": "Viking to Publish Amanda Gorman\u2019s CALL US WHAT WE CARRY Poetry Collection in December",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Viking's announcement identifies the book as a collection of poems and names The Hill We Climb as one included poem."
+    },
+    {
+      "url": "https://www.penguin.co.uk/discover/articles/amanda-gorman-poem-call-us-what-we-carry",
+      "title": "Amanda Gorman: read a poem from Call Us What We Carry",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The authorized publisher excerpt presents Fury & Faith as lineated verse, corroborating the book's poetic rather than prose-narrative form."
+    }
+  ],
+  "search_log": [
+    "Searched \"Call Us What We Carry Amanda Gorman publisher poetry collection\" and found publisher and reference descriptions identifying it as poetry.",
+    "Searched \"site:penguinrandomhouse.com Call Us What We Carry Amanda Gorman\" and opened the official book page and Viking announcement.",
+    "Searched \"site:amandacgorman.com Call Us What We Carry\"; no useful author-hosted narrative-person evidence surfaced.",
+    "Searched \"Call Us What We Carry excerpt poems Amanda Gorman\" and opened Penguin's authorized excerpt of Fury & Faith.",
+    "Opened the Poetry Foundation review result, but the page returned HTTP 403; it was not used as evidence.",
+    "Attempted to open Penguin's book sample PDF, but retrieval timed out; it was not used as evidence."
+  ],
+  "person_note": "The item is an ineligible poetry collection rather than prose narrative, so it has no controlling prose narrator to classify. The input passages are consistently verse, including collective first-person, direct-address, and gnomic poetic voices; these do not establish base narrative person. Even the prose-set influenza passage occurs within the formally varied poetic collection and does not create a book-level prose narrative. Publisher descriptions and an authorized poem excerpt independently confirm the form, leaving no material eligibility uncertainty.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.268505+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "29348f6eccf0f00ba8dd0229042541835e4b426281e0f5ac007a498cd63d3f79"
+  }
+}

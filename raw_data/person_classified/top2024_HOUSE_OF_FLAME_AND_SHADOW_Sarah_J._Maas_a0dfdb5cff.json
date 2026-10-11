@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:HOUSE OF FLAME AND SHADOW|Sarah J. Maas",
+  "quotes": [
+    {
+      "quote_id": "q09073",
+      "person_signal": "unmarked",
+      "note": "A brief story-world summary followed by an aphorism; no participating narrator appears, but the isolated sentence does not establish third-person base narration."
+    },
+    {
+      "quote_id": "q09074",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in direct romantic speech, not base narration."
+    },
+    {
+      "quote_id": "q09075",
+      "person_signal": "non_base",
+      "note": "The second-person question addresses a listener within dialogue and is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09076",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short third-person action beat is insufficient by itself to identify the base narrator."
+    },
+    {
+      "quote_id": "q09077",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to dialogue; the brief 'She smiled' beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q09078",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in sarcastic character speech rather than narration."
+    },
+    {
+      "quote_id": "q09079",
+      "person_signal": "unclear",
+      "note": "The clipped dependent fragment beginning 'Why she had named' lacks enough surrounding syntax to determine its local narrative function responsibly."
+    },
+    {
+      "quote_id": "q09080",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents Nesta and Azriel externally in third person, includes dialogue attribution and action, and contains no participating narratorial frame."
+    },
+    {
+      "quote_id": "q09081",
+      "person_signal": "non_base",
+      "note": "The first-person declarations are dialogue; the intervening action beat does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q09082",
+      "person_signal": "non_base",
+      "note": "The first-person complaint is character speech or local direct thought, not demonstrated base narration."
+    },
+    {
+      "quote_id": "q09083",
+      "person_signal": "non_base",
+      "note": "A general aphorism about love and eternity does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q09084",
+      "person_signal": "non_base",
+      "note": "This is a two-speaker exchange with no diagnostic narratorial text."
+    },
+    {
+      "quote_id": "q09085",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in sustained direct address between characters."
+    },
+    {
+      "quote_id": "q09086",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short third-person perception beat is not enough to establish base narrative person."
+    },
+    {
+      "quote_id": "q09087",
+      "person_signal": "non_base",
+      "note": "The passage is a multi-speaker exchange; third-person names appear chiefly in dialogue tags."
+    },
+    {
+      "quote_id": "q09088",
+      "person_signal": "non_base",
+      "note": "First-person statements are spoken by Irithys, while the accompanying attribution and descriptive beat are too brief to be diagnostic."
+    },
+    {
+      "quote_id": "q09089",
+      "person_signal": "non_base",
+      "note": "The first-person declaration is character speech rather than narration."
+    },
+    {
+      "quote_id": "q09090",
+      "person_signal": "third",
+      "note": "A sustained scene is narrated externally through named characters and an otter, with only a short embedded line of dialogue and no participating narrator."
+    },
+    {
+      "quote_id": "q09091",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur in direct character speech."
+    },
+    {
+      "quote_id": "q09092",
+      "person_signal": "non_base",
+      "note": "The first-person joke is attributable to Bryce as speech or local thought, not controlling narration."
+    },
+    {
+      "quote_id": "q09093",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms are dialogue, followed by a conventional third-person speech tag."
+    },
+    {
+      "quote_id": "q09094",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates the two brief third-person action beats, which do not independently establish narrative person."
+    },
+    {
+      "quote_id": "q09095",
+      "person_signal": "unmarked",
+      "note": "This isolated scenic sentence uses third-person subjects but is too short to exclude a participating narrator elsewhere."
+    },
+    {
+      "quote_id": "q09096",
+      "person_signal": "non_base",
+      "note": "Second-person address occurs in dialogue and does not represent second-person base narration."
+    },
+    {
+      "quote_id": "q09097",
+      "person_signal": "non_base",
+      "note": "The second-person possessive and third-person references occur within dialogue; the brief 'Nesta snorted' beat is nondiagnostic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.waterstones.com/images/1/5536/pages%20from%209781408884447_txt_print%20%281%29.pdf",
+      "title": "House of Flame and Shadow \u2014 publisher preview pages",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A 65-page authorized retail preview contains sustained third-person narration and rotates among several focal characters, including Lidia, Bryce, Tharion, Ithan, Hunt, and Ruhn; no first- or second-person base strand appears."
+    },
+    {
+      "url": "https://www.supersummary.com/house-of-flame-and-shadow/summary/",
+      "title": "House of Flame and Shadow Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The full-book study guide explicitly identifies the novel as told through third-person limited perspectives and names its six principal viewpoint characters."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/6c36dcce-b46d-477c-be2e-f1aedf810df2",
+      "title": "Review by sarahlouiseharding \u2014 House of Flame and Shadow",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A reader who completed the novel explicitly describes the series' third-person POV and reports approximately six viewpoints in this volume."
+    },
+    {
+      "url": "https://janaandbooks.com/2024/02/24/spoiler-free-fantasy-review-house-of-flame-and-shadow/",
+      "title": "Spoiler Free Fantasy Review: House of Flame and Shadow",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review confirms that Book 3 switches among multiple viewpoints, even within chapters; it corroborates the structure but does not itself explicitly state grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"House of Flame and Shadow\" Sarah J. Maas excerpt and located a 65-page Waterstones-hosted publisher preview; opened and inspected its sustained prose.",
+    "Searched \"House of Flame and Shadow\" third person POV and point of view multiple POV; opened explicit whole-book descriptions from SuperSummary, StoryGraph, and Jana and Books.",
+    "Searched the Bloomsbury and Sarah J. Maas sites for an authorized first chapter; Bloomsbury's product page supplied synopsis and a Look Inside link but no directly usable prose in the indexed page.",
+    "Checked additional searches for third-person limited narration, six viewpoints, epistolary form, frame narrative, and alternating person; found no credible evidence of sustained first- or second-person base sections."
+  ],
+  "person_note": "The diagnostic Goodreads passages and the authorized preview agree on nonparticipating third-person narration. The preview also demonstrates that changes among Lidia, Bryce, Tharion, Ithan, Hunt, and Ruhn are changes of third-person focal character, not changes of grammatical person. Whole-book sources explicitly confirm multiple third-person-limited perspectives. First- and second-person forms in the supplied quotations are dialogue, aphorism, or local thought and therefore do not create an alternating-person structure. The only meaningful limitation is that the Tier A prose covers the opening rather than the entire novel, but the whole-book descriptions resolve that scope issue without contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_085",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:07:01.115373+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "485341274a26f8401d2736a2771c6f381a55752c05bdb0bdc56b2d799f18a48d"
+  }
+}

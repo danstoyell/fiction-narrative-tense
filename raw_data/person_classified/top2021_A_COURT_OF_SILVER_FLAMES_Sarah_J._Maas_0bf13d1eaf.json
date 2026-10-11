@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:A COURT OF SILVER FLAMES|Sarah J. Maas",
+  "quotes": [
+    {
+      "quote_id": "q06508",
+      "person_signal": "third",
+      "note": "Narratorial action beats describe Gwyn and Nesta externally; Gwyn's first-person words are dialogue."
+    },
+    {
+      "quote_id": "q06509",
+      "person_signal": "non_base",
+      "note": "Authorial dedication addressing readers, not story narration."
+    },
+    {
+      "quote_id": "q06510",
+      "person_signal": "non_base",
+      "note": "Amren's speech dominates; the brief third-person tags do not independently establish the base narrator."
+    },
+    {
+      "quote_id": "q06511",
+      "person_signal": "third",
+      "note": "Third-person free-indirect narration renders Nesta's resolve through repeated references to 'she'."
+    },
+    {
+      "quote_id": "q06512",
+      "person_signal": "non_base",
+      "note": "Character dialogue with only brief third-person speech beats."
+    },
+    {
+      "quote_id": "q06513",
+      "person_signal": "third",
+      "note": "Third-person narration directly reports Nesta's sustained inner feelings and beliefs."
+    },
+    {
+      "quote_id": "q06514",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to one character addressing another."
+    },
+    {
+      "quote_id": "q06515",
+      "person_signal": "non_base",
+      "note": "Cassian's first-person recollection is quoted speech; the tag is only a brief framing beat."
+    },
+    {
+      "quote_id": "q06516",
+      "person_signal": "non_base",
+      "note": "The first-person sentences are explicitly Nesta's unvoiced local thought, framed by third-person narration."
+    },
+    {
+      "quote_id": "q06517",
+      "person_signal": "third",
+      "note": "Extended third-person narrative summary metaphorically recounts Nesta's actions and deterioration."
+    },
+    {
+      "quote_id": "q06518",
+      "person_signal": "non_base",
+      "note": "Second-person address to the vocatively named Nesta is character speech."
+    },
+    {
+      "quote_id": "q06519",
+      "person_signal": "non_base",
+      "note": "First-person promise addressed to another character, not narratorial discourse."
+    },
+    {
+      "quote_id": "q06520",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; the short tag does not establish narrative person by itself."
+    },
+    {
+      "quote_id": "q06521",
+      "person_signal": "third",
+      "note": "Third-person free-indirect narration states Nesta's determination and self-conception."
+    },
+    {
+      "quote_id": "q06522",
+      "person_signal": "non_base",
+      "note": "Sustained first- and second-person forms are direct character reassurance to Nesta."
+    },
+    {
+      "quote_id": "q06523",
+      "person_signal": "unmarked",
+      "note": "The brief metaphorical statement contains only an isolated third-person possessive and cannot establish narrator participation."
+    },
+    {
+      "quote_id": "q06524",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally tracks Nesta and Cassian around a short spoken greeting."
+    },
+    {
+      "quote_id": "q06525",
+      "person_signal": "non_base",
+      "note": "First- and second-person mate declarations are Cassian's quoted speech."
+    },
+    {
+      "quote_id": "q06526",
+      "person_signal": "non_base",
+      "note": "Greeting addressed directly to Nesta Archeron is character speech."
+    },
+    {
+      "quote_id": "q06527",
+      "person_signal": "third",
+      "note": "Narratorial beats externally describe two characters and frame their dialogue without a participating narrator."
+    },
+    {
+      "quote_id": "q06528",
+      "person_signal": "third",
+      "note": "Extended third-person scene narration follows Rhys, Nesta, and Cassian and includes Cassian's knowledge."
+    },
+    {
+      "quote_id": "q06529",
+      "person_signal": "non_base",
+      "note": "A character's first-person wish addressed to companions, not base narration."
+    },
+    {
+      "quote_id": "q06530",
+      "person_signal": "unmarked",
+      "note": "Single brief clause about Nesta naming the sword is too thin to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q06531",
+      "person_signal": "third",
+      "note": "Third-person action beats frame Nesta's spoken self-directed remarks."
+    },
+    {
+      "quote_id": "q06532",
+      "person_signal": "non_base",
+      "note": "Gnomic descriptive fragment with no diagnostic narrator-person marking."
+    },
+    {
+      "quote_id": "q06533",
+      "person_signal": "non_base",
+      "note": "First-person proposal addressed to two companions is character speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9781526634696_A43251766/preview-9781526634696_A43251766.pdf",
+      "title": "A Court of Silver Flames \u2014 Bloomsbury ePDF preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Sustained commercial preview of Chapters 1\u20135 uses third-person narration and moves between Nesta- and Cassian-centered passages, demonstrating that alternating focalization remains third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-a-court-of-silver-flames/styles.html",
+      "title": "Sarah J. Maas Writing Styles in A Court of Silver Flames",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide's point-of-view analysis explicitly identifies the novel as third-person limited with perspectives switching between Nesta and Cassian."
+    },
+    {
+      "url": "https://www.supersummary.com/a-court-of-silver-flames/summary/",
+      "title": "A Court of Silver Flames Summary and Study Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Whole-book structural guide describes a limited third-person technique with alternating Nesta and Cassian perspectives and provides coverage across all four parts."
+    },
+    {
+      "url": "https://www.bookishwayfarer.com/blog/review-a-court-of-silver-flames-by-sarah-j-maas",
+      "title": "Review: A Court of Silver Flames by Sarah J. Maas",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Detailed review explicitly contrasts the earlier books' first person with this novel's third-person narration from Nesta's and Cassian's viewpoints."
+    }
+  ],
+  "search_log": [
+    "Searched \"A Court of Silver Flames\" \"third person\" POV and opened explicit whole-book POV analyses rather than relying on snippets.",
+    "Searched Bloomsbury, Sarah J. Maas, Google Books, and retailer domains for authorized excerpts; opened a 78-page Bloomsbury ePDF preview covering Chapters 1\u20135.",
+    "Searched for Cassian point-of-view and alternating-narrator descriptions to test whether the book changes grammatical person; sources consistently describe dual third-person-limited focalization.",
+    "Opened Bloomsbury's A Court of Silver Flames event-kit excerpt; it was mostly instructional framing and dialogue, so it was not used as diagnostic person evidence.",
+    "Opened the Google Books record, but its accessible page supplied catalog copy rather than sustained prose, so it was treated as a discovery dead end."
+  ],
+  "person_note": "The diagnostic Goodreads passages consistently show a nonparticipating third-person narrator, often with free-indirect access to Nesta or Cassian. First- and second-person forms in the quote set occur in dialogue, direct thought, or paratext and therefore do not contradict the base narration. The sustained authorized preview independently shows third-person narration across both focal characters, while whole-book structural sources confirm that the Nesta/Cassian perspective switches remain third person throughout. Alternating focalizers do not warrant ALTERNATING because the grammatical narrative person does not change. No credible contrary evidence remains.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.266660+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cc0ed773cb8803b76b0ef2dda54b33f9131d3f19c7e455a05f0a356f6a8d78dc"
+  }
+}

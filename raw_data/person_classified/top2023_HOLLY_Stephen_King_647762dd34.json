@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:HOLLY|Stephen King",
+  "quotes": [
+    {
+      "quote_id": "q08026",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism; it does not cast a story protagonist as you."
+    },
+    {
+      "quote_id": "q08027",
+      "person_signal": "non_base",
+      "note": "Generic second-person observation, possibly clipped speech, rather than base-narrator evidence."
+    },
+    {
+      "quote_id": "q08028",
+      "person_signal": "third",
+      "note": "Third-person narration reports Holly's knowledge and renders her interpretation of addiction."
+    },
+    {
+      "quote_id": "q08029",
+      "person_signal": "non_base",
+      "note": "Universal second-person advice, not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q08030",
+      "person_signal": "unmarked",
+      "note": "The brief she-subject sequence lacks enough context to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q08031",
+      "person_signal": "non_base",
+      "note": "First-person authorial paratext about King's fiction, not the novel's narrator."
+    },
+    {
+      "quote_id": "q08032",
+      "person_signal": "non_base",
+      "note": "General aphorism about age with no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q08033",
+      "person_signal": "unmarked",
+      "note": "A short third-person character description alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q08034",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08035",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about types of people."
+    },
+    {
+      "quote_id": "q08036",
+      "person_signal": "non_base",
+      "note": "Epigraph-like imperative rather than base narration."
+    },
+    {
+      "quote_id": "q08037",
+      "person_signal": "non_base",
+      "note": "Universal second-person advice about aging, not narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q08038",
+      "person_signal": "unmarked",
+      "note": "Narratorial commentary is present, but the fragment does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q08039",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about artistic work."
+    },
+    {
+      "quote_id": "q08040",
+      "person_signal": "third",
+      "note": "Third-person narration reports a female character's recurring internal response."
+    },
+    {
+      "quote_id": "q08041",
+      "person_signal": "third",
+      "note": "Holly is named in third person and her private evaluation is explicitly attributed as thought."
+    },
+    {
+      "quote_id": "q08042",
+      "person_signal": "non_base",
+      "note": "First person and you occur in direct-address speech, not base narration."
+    },
+    {
+      "quote_id": "q08043",
+      "person_signal": "non_base",
+      "note": "Universal rhetorical questions do not identify the base narrator."
+    },
+    {
+      "quote_id": "q08044",
+      "person_signal": "non_base",
+      "note": "General aphorism about old age."
+    },
+    {
+      "quote_id": "q08045",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, the surrounding beats narrate Holly as she and report her private thoughts in third person."
+    },
+    {
+      "quote_id": "q08046",
+      "person_signal": "non_base",
+      "note": "You is direct address within speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08047",
+      "person_signal": "third",
+      "note": "Extended third-person narration follows Holly's drive and reports her private realization."
+    },
+    {
+      "quote_id": "q08048",
+      "person_signal": "non_base",
+      "note": "Universal second-person statement about writing."
+    },
+    {
+      "quote_id": "q08049",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition contains no character-relative person evidence."
+    },
+    {
+      "quote_id": "q08050",
+      "person_signal": "unmarked",
+      "note": "A brief they-subject action alone cannot establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q08051",
+      "person_signal": "third",
+      "note": "Third-person narration gives direct access to a male character's situational wishes."
+    },
+    {
+      "quote_id": "q08052",
+      "person_signal": "third",
+      "note": "Sustained third-person scene narration reports the character's sensations, motivation, and hoped-for poem."
+    },
+    {
+      "quote_id": "q08053",
+      "person_signal": "non_base",
+      "note": "Promotional paratext rather than novel narration."
+    },
+    {
+      "quote_id": "q08054",
+      "person_signal": "third",
+      "note": "Third-person narration attributes a settled belief to Holly before elaborating it."
+    },
+    {
+      "quote_id": "q08055",
+      "person_signal": "non_base",
+      "note": "Age-related aphorism without a diagnostic narrator."
+    },
+    {
+      "quote_id": "q08056",
+      "person_signal": "non_base",
+      "note": "First-person marital testimony is character speech."
+    },
+    {
+      "quote_id": "q08057",
+      "person_signal": "non_base",
+      "note": "First person and you belong to conversational direct address."
+    },
+    {
+      "quote_id": "q08058",
+      "person_signal": "non_base",
+      "note": "Clipped general claim, likely speech or gnomic material, with no base-person evidence."
+    },
+    {
+      "quote_id": "q08059",
+      "person_signal": "non_base",
+      "note": "Generic case-solving lecture uses universal you rather than narrating a protagonist."
+    },
+    {
+      "quote_id": "q08060",
+      "person_signal": "third",
+      "note": "The dialogue frame contains sustained third-person narration of Barbara's perception and Olivia's actions."
+    },
+    {
+      "quote_id": "q08061",
+      "person_signal": "non_base",
+      "note": "Bracketed, epigraph-like quotation from an embedded source."
+    },
+    {
+      "quote_id": "q08062",
+      "person_signal": "unclear",
+      "note": "The subject has been clipped, preventing reliable attribution of the visible thought report."
+    },
+    {
+      "quote_id": "q08063",
+      "person_signal": "third",
+      "note": "Third-person narration reports a female character's recurring thought and remembered lyric."
+    },
+    {
+      "quote_id": "q08064",
+      "person_signal": "non_base",
+      "note": "Imperative artistic advice is gnomic rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08065",
+      "person_signal": "non_base",
+      "note": "Scriptural discussion and quoted you are gnomic or embedded material."
+    },
+    {
+      "quote_id": "q08066",
+      "person_signal": "non_base",
+      "note": "Imperative direct-address speech does not identify the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ew.com/books/stephen-king-holly-exclusive-book-excerpt/",
+      "title": "Holly Gibney is back on the case in Stephen King's new novel: Read an excerpt from Holly",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Scribner-authorized opening excerpt sustains third-person narration around Jorge Castro, including access to his thoughts; its you-statements are generic reflections within that third-person passage."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-holly/styles.html",
+      "title": "Stephen King Writing Styles in Holly",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel's narrator as third person and describes its access to character knowledge as omniscient."
+    },
+    {
+      "url": "https://www.washingtonpost.com/books/2023/09/23/stephen-king-autism-holly/",
+      "title": "Stephen King's 'Holly' is admirably nuanced about autism",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Washington Post review explicitly characterizes the novel's narration as third-person limited."
+    },
+    {
+      "url": "https://www.artisansdelafiction.com/strategie-narrative-quel-point-de-vue-choisir/",
+      "title": "Strat\u00e9gie narrative : Quel point de vue choisir ?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The narrative-craft analysis identifies Holly as using multiple focal characters within third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched: Stephen King Holly novel official excerpt chapter; Holly Stephen King third person point of view narrator; Holly Stephen King alternating perspectives third person; site:stephenking.com Holly excerpt novel.",
+    "Opened Stephen King's official 2023 news archive and followed its link to the authorized Entertainment Weekly/Scribner excerpt.",
+    "Opened the official Simon & Schuster book page; its synopsis and reading-group guide establish multiple character threads but do not directly state grammatical narrative person.",
+    "Searched for Google Books, Penguin Random House, and additional English-language publisher excerpts; no usable sustained interior English excerpt surfaced. A German publisher PDF appeared but was not used because translation can alter grammatical person.",
+    "Searched exact combinations of Holly with third-person narrator, third-person present, and multiple points of view; opened explicit whole-book descriptions from BookRags, The Washington Post, and Les Artisans de la Fiction.",
+    "Reviewed AP's full-book discussion of flashbacks and separate character arcs; it was useful structural context but was not treated as direct person evidence because it does not explicitly identify narrative person."
+  ],
+  "person_note": "The authorized opening is sustained third-person narration, and the Goodreads material independently corroborates third-person base narration in later scenes involving Holly, Barbara, Olivia, male characters, and the antagonists. Explicit whole-book sources likewise describe third-person narration with multiple focal characters. The novel's shifts among character viewpoints remain within third person, so they do not warrant ALTERNATING. First-person forms in the quote set belong to dialogue or authorial paratext, while visible you-forms are universal aphorisms, direct address, or focalized generalizations rather than sustained second-person narration. The main limitation is that the Tier A prose source covers only the opening, but the interior quote evidence and several explicit whole-book descriptions resolve that scope limitation without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_081",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:11:20.534826+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b0e9ac65f451d01cbdb12a003d6839917ba5925095316d42fb4063a6b97a8cfd"
+  }
+}

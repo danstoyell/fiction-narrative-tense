@@ -1,0 +1,460 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:YELLOWFACE|R.F. Kuang",
+  "quotes": [
+    {
+      "quote_id": "q08267",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; generic \u201cwe\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08268",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q08269",
+      "person_signal": "non_base",
+      "note": "Generalization containing a quoted phrase, not story narration."
+    },
+    {
+      "quote_id": "q08270",
+      "person_signal": "non_base",
+      "note": "General maxim without narrator-person evidence."
+    },
+    {
+      "quote_id": "q08271",
+      "person_signal": "non_base",
+      "note": "General social-media observation; generic address is nondiagnostic."
+    },
+    {
+      "quote_id": "q08272",
+      "person_signal": "non_base",
+      "note": "Gnomic discussion of writers; \u201cyou\u201d is generic rather than a story protagonist."
+    },
+    {
+      "quote_id": "q08273",
+      "person_signal": "non_base",
+      "note": "Rhetorical generalization; inclusive \u201cwe\u201d does not establish narrative person."
+    },
+    {
+      "quote_id": "q08274",
+      "person_signal": "first",
+      "note": "The participating narrator refers to herself as \u201cI\u201d in base narration."
+    },
+    {
+      "quote_id": "q08275",
+      "person_signal": "non_base",
+      "note": "Analogy using generic \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08276",
+      "person_signal": "non_base",
+      "note": "Gnomic collective claim; \u201cus\u201d alone does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q08277",
+      "person_signal": "non_base",
+      "note": "General maxim without narrator-person evidence."
+    },
+    {
+      "quote_id": "q08278",
+      "person_signal": "first",
+      "note": "Narrator describes her own action with \u201cI've added.\u201d"
+    },
+    {
+      "quote_id": "q08279",
+      "person_signal": "unmarked",
+      "note": "Base-compatible account of Athena as \u201cshe,\u201d but this alone cannot distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q08280",
+      "person_signal": "non_base",
+      "note": "General rhetorical question without narrator-person evidence."
+    },
+    {
+      "quote_id": "q08281",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question; generic \u201cwe\u201d is nondiagnostic."
+    },
+    {
+      "quote_id": "q08282",
+      "person_signal": "first",
+      "note": "Participating narrator reports her present feelings and circumstances as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08283",
+      "person_signal": "non_base",
+      "note": "General observation using generic \u201cyou,\u201d not story-specific second person."
+    },
+    {
+      "quote_id": "q08284",
+      "person_signal": "first",
+      "note": "Narrator directly describes her own creative urge with repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08285",
+      "person_signal": "first",
+      "note": "Sustained narration of the speaker's jealousy, reactions, and relationship to Athena uses \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q08286",
+      "person_signal": "non_base",
+      "note": "General claim about publishing and social media, without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q08287",
+      "person_signal": "first",
+      "note": "Narrator explicitly reports her speculation with \u201cI wonder.\u201d"
+    },
+    {
+      "quote_id": "q08288",
+      "person_signal": "non_base",
+      "note": "Fragmentary gnomic aside without narrator-person evidence."
+    },
+    {
+      "quote_id": "q08289",
+      "person_signal": "unmarked",
+      "note": "Base-compatible commentary about online accounts; generic \u201cyou\u201d does not establish second person."
+    },
+    {
+      "quote_id": "q08290",
+      "person_signal": "first",
+      "note": "Narrator describes her own counterfactual preference using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08291",
+      "person_signal": "first",
+      "note": "Narrator describes her own writing problem and manuscript with \u201cI've,\u201d \u201cI,\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q08292",
+      "person_signal": "first",
+      "note": "Narrator marks her own prior reading with \u201cI've read.\u201d"
+    },
+    {
+      "quote_id": "q08293",
+      "person_signal": "first",
+      "note": "Parenthetical base narration reports the narrator's contemplated action as \u201cI thought.\u201d"
+    },
+    {
+      "quote_id": "q08294",
+      "person_signal": "first",
+      "note": "Extended participating self-narration uses repeated \u201cI\u201d and names Juniper Song as the speaker."
+    },
+    {
+      "quote_id": "q08295",
+      "person_signal": "first",
+      "note": "Narrator states what she loves about writing with \u201cI,\u201d followed by inclusive reflection."
+    },
+    {
+      "quote_id": "q08296",
+      "person_signal": "first",
+      "note": "Narrator describes her immediate need and culpability using \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q08297",
+      "person_signal": "non_base",
+      "note": "Direct accusation spoken to June; its pronouns belong to dialogue."
+    },
+    {
+      "quote_id": "q08298",
+      "person_signal": "first",
+      "note": "Narrator reports her realization with \u201cI see\u201d; subsequent \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q08299",
+      "person_signal": "unclear",
+      "note": "Clipped sentence lacks the antecedent and boundaries needed to identify the narrating position."
+    },
+    {
+      "quote_id": "q08300",
+      "person_signal": "non_base",
+      "note": "Gnomic observation; generic \u201cyou\u201d is not story-specific second person."
+    },
+    {
+      "quote_id": "q08301",
+      "person_signal": "first",
+      "note": "Narrator introduces her own coined category with \u201cI dub.\u201d"
+    },
+    {
+      "quote_id": "q08302",
+      "person_signal": "first",
+      "note": "First-person self-description explicitly identifies the speaking self."
+    },
+    {
+      "quote_id": "q08303",
+      "person_signal": "first",
+      "note": "Narrator places herself and Athena in a shared friendship using \u201cwe\u201d and \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q08304",
+      "person_signal": "non_base",
+      "note": "General maxim about the internet, without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q08305",
+      "person_signal": "first",
+      "note": "Narrator recounts her own past refuge and reading with \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08306",
+      "person_signal": "non_base",
+      "note": "General thematic statement using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q08307",
+      "person_signal": "non_base",
+      "note": "Fragmentary generalization about anxiety, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q08308",
+      "person_signal": "non_base",
+      "note": "General prescriptive statement; collective \u201cwe\u201d is nondiagnostic."
+    },
+    {
+      "quote_id": "q08309",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical discussion of ghosts; generic address is nondiagnostic."
+    },
+    {
+      "quote_id": "q08310",
+      "person_signal": "first",
+      "note": "Narrator directly states her ambitions with repeated \u201cI want.\u201d"
+    },
+    {
+      "quote_id": "q08311",
+      "person_signal": "non_base",
+      "note": "Quoted speech attributed to Justin; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q08312",
+      "person_signal": "first",
+      "note": "Extended base narration reports the narrator's feelings, plans, and writing in repeated first person."
+    },
+    {
+      "quote_id": "q08313",
+      "person_signal": "non_base",
+      "note": "Rhetorical generalization; \u201cwe\u201d does not by itself identify narrative person."
+    },
+    {
+      "quote_id": "q08314",
+      "person_signal": "first",
+      "note": "Narrator participates in the remembered exchange as \u201cwe\u201d and addresses the other participant generically within reflection."
+    },
+    {
+      "quote_id": "q08315",
+      "person_signal": "first",
+      "note": "Despite a clipped opening, \u201cI think\u201d diagnostically exposes the narrator's ongoing thought."
+    },
+    {
+      "quote_id": "q08316",
+      "person_signal": "first",
+      "note": "Narrator repeatedly describes her own identity, attitudes, and history as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08317",
+      "person_signal": "first",
+      "note": "Narrator defends her own labor and ownership with \u201cI've,\u201d \u201cmine,\u201d and \u201cI'm.\u201d"
+    },
+    {
+      "quote_id": "q08318",
+      "person_signal": "first",
+      "note": "Narrator participates in the editing process as \u201cwe\u201d and explicitly comments as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08319",
+      "person_signal": "first",
+      "note": "Narrator defends her own conduct and beliefs with repeated \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q08320",
+      "person_signal": "first",
+      "note": "Direct self-narration uses \u201cI\u201d and \u201chim.\u201d"
+    },
+    {
+      "quote_id": "q08321",
+      "person_signal": "first",
+      "note": "Although speech-heavy, the external attribution \u201cI say\u201d exposes the participating base narrator."
+    },
+    {
+      "quote_id": "q08322",
+      "person_signal": "non_base",
+      "note": "General claim about writing and reading; inclusive \u201cus\u201d is nondiagnostic."
+    },
+    {
+      "quote_id": "q08323",
+      "person_signal": "non_base",
+      "note": "Gnomic account of storytellers; collective \u201cwe\u201d does not establish base person."
+    },
+    {
+      "quote_id": "q08324",
+      "person_signal": "unmarked",
+      "note": "Narratorial assessment uses generic reader-address \u201cyou,\u201d not a sustained second-person protagonist."
+    },
+    {
+      "quote_id": "q08325",
+      "person_signal": "first",
+      "note": "Narrator identifies her presence at Athena's death and calls the account \u201cmy story.\u201d"
+    },
+    {
+      "quote_id": "q08326",
+      "person_signal": "first",
+      "note": "Narrator describes her own inability and interests with \u201cI\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q08327",
+      "person_signal": "non_base",
+      "note": "First-person language belongs to the explicitly quoted poet."
+    },
+    {
+      "quote_id": "q08328",
+      "person_signal": "non_base",
+      "note": "General maxim using generic \u201cyou,\u201d not second-person base narration."
+    },
+    {
+      "quote_id": "q08329",
+      "person_signal": "unmarked",
+      "note": "Base-compatible assertion about Athena, but a named third-person subject alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q08330",
+      "person_signal": "non_base",
+      "note": "Generalization about authors; collective \u201cus\u201d does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q08331",
+      "person_signal": "first",
+      "note": "Narrator reports her own compulsion and thought process with \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q08332",
+      "person_signal": "first",
+      "note": "After a short spoken line, base narration repeatedly states what \u201cI want.\u201d"
+    },
+    {
+      "quote_id": "q08333",
+      "person_signal": "first",
+      "note": "Narrator participates in the scene with Athena as \u201cme\u201d and \u201cI'm.\u201d"
+    },
+    {
+      "quote_id": "q08334",
+      "person_signal": "non_base",
+      "note": "General quip using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q08335",
+      "person_signal": "non_base",
+      "note": "Standalone Ukrainian maxim without narrator-person evidence."
+    },
+    {
+      "quote_id": "q08336",
+      "person_signal": "unmarked",
+      "note": "Narration about a woman as \u201cshe\u201d does not alone distinguish a first-person narrator describing her from third person."
+    },
+    {
+      "quote_id": "q08337",
+      "person_signal": "first",
+      "note": "Narrator predicts consequences for \u201cmy name\u201d and identifies herself as the accused writer."
+    },
+    {
+      "quote_id": "q08338",
+      "person_signal": "first",
+      "note": "Although dialogue-heavy, external beats such as \u201cI murmur\u201d and \u201cit makes me feel\u201d expose the base narrator."
+    },
+    {
+      "quote_id": "q08339",
+      "person_signal": "first",
+      "note": "Narrator includes herself in the proposed strategy and refers to \u201cme and my story.\u201d"
+    },
+    {
+      "quote_id": "q08340",
+      "person_signal": "first",
+      "note": "Sustained account of the narrator's editing decisions and confusion uses \u201cwe\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08341",
+      "person_signal": "non_base",
+      "note": "Direct-address speech aimed at June; its \u201cyou\u201d is dialogue, not second-person narration."
+    },
+    {
+      "quote_id": "q08342",
+      "person_signal": "first",
+      "note": "Narrator recalls her own school days, notebook, and creative experience with \u201cI,\u201d \u201cmy,\u201d and \u201cmyself.\u201d"
+    },
+    {
+      "quote_id": "q08343",
+      "person_signal": "first",
+      "note": "Base commentary includes the narrator in a collective \u201cwe\u201d; the preceding \u201cshe\u201d remains the object of that commentary."
+    },
+    {
+      "quote_id": "q08344",
+      "person_signal": "non_base",
+      "note": "Gnomic contrast between offline and online writers; repeated \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q08345",
+      "person_signal": "non_base",
+      "note": "Explicitly general rhetorical question; \u201cyou\u201d does not denote a story-specific protagonist."
+    },
+    {
+      "quote_id": "q08346",
+      "person_signal": "first",
+      "note": "Narrator speculates about reception of her own work using \u201cI\u201d and \u201cmy.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://static.indigoimages.ca/loyalty/excerpt_yellowface_by_r-f-kuang.pdf",
+      "title": "Chapter Excerpt: Yellowface",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Authorized Chapter One excerpt begins with June narrating Athena's death as \u201cI\u201d and sustains her participating first-person account throughout the available opening."
+    },
+    {
+      "url": "https://lithub.com/yellowface/",
+      "title": "Yellowface by R. F. Kuang",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "William Morrow/HarperCollins-authorized interior excerpt sustains June's first-person narration through Athena's funeral, manuscript submission, and June's publishing success."
+    },
+    {
+      "url": "https://ecampus.ius.edu.ba/publication/narrative-authority-paratext-and-identity-r-f-kuangs-yellowface",
+      "title": "Narrative Authority, Paratext, and Identity in R. F. Kuang\u2019s Yellowface",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Refereed narratological article identifies June Hayward as the novel's first-person narrator and analyzes that narration across the work."
+    },
+    {
+      "url": "https://thecoachellareview.com/2023/05/18/review-yellowface-by-r-f-kuang/",
+      "title": "Review: Yellowface by R.F. Kuang",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Literary review explicitly discusses Kuang's choice of first-person point of view and June's controlling perspective across the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cYellowface R.F. Kuang excerpt first chapter publisher\u201d and opened the Indigo Chapter One PDF.",
+    "Searched \u201cYellowface R.F. Kuang first-person narrator\u201d and \u201cYellowface novel point of view June Hayward first person\u201d; results included explicit reviews, study guides, and scholarly analysis.",
+    "Searched \u201csite:harpercollins.com Yellowface R.F. Kuang excerpt\u201d; no directly usable HarperCollins excerpt page surfaced, but the Literary Hub extract states that it is reprinted courtesy of HarperCollinsPublishers.",
+    "Opened the Literary Hub authorized extract, the Indigo opening excerpt, the International University of Sarajevo record for a refereed narratological article, and The Coachella Review's whole-book discussion.",
+    "A search result describing the book as limited third person was contradicted by its own discussion of June's reliability and by the authorized prose, the refereed article, and multiple explicit sources; it was treated as a reviewer error rather than credible contrary structural evidence."
+  ],
+  "person_note": "The Goodreads material repeatedly exposes June/Juniper as a participating \u201cI\u201d narrator across scenes, memories, reactions, and writing activity. Authorized opening and interior excerpts independently sustain that same voice, while a refereed whole-book analysis explicitly identifies June's first-person narration. Third-person references to Athena occur inside June's account, and second-person forms in the quotes are generic address, maxims, or dialogue rather than sustained narration of a protagonist. No credible evidence of alternating base-person sections remains; the only notable contrary web description appears to be an isolated reviewer misclassification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_084",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T02:57:03.133124+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "239dfa75dcd3276c9f51b968aeaeee084ec6d59179de38aea3acf979abd0162b"
+  }
+}

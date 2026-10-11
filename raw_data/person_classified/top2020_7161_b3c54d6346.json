@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:7161",
+  "quotes": [
+    {
+      "quote_id": "q04784",
+      "person_signal": "third",
+      "note": "Sustained external narration names Decker, reports what he hears, and refers to him as \u201chis,\u201d exposing third-person limited narration."
+    },
+    {
+      "quote_id": "q04785",
+      "person_signal": "third",
+      "note": "Although dialogue dominates, multiple external beats consistently narrate Jamison, Dawson, and Decker in third person."
+    },
+    {
+      "quote_id": "q04786",
+      "person_signal": "non_base",
+      "note": "Truncated character speech followed by a stray attribution fragment; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q04787",
+      "person_signal": "unclear",
+      "note": "The isolated conditional could be narration or speech, and lost context prevents attribution."
+    },
+    {
+      "quote_id": "q04788",
+      "person_signal": "non_base",
+      "note": "Character speech dominates; the single \u201cDecker said\u201d tag is insufficient by itself to diagnose the controlling narrator."
+    },
+    {
+      "quote_id": "q04789",
+      "person_signal": "unmarked",
+      "note": "Atmospheric setting narration contains no participating narrator or externally narrated character."
+    },
+    {
+      "quote_id": "q04790",
+      "person_signal": "non_base",
+      "note": "Conversational speech whose first-person implications belong to a character, not the base narrator."
+    },
+    {
+      "quote_id": "q04791",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q04792",
+      "person_signal": "non_base",
+      "note": "Direct speech with a minimal attribution tag; it does not independently establish narrative person."
+    },
+    {
+      "quote_id": "q04793",
+      "person_signal": "unmarked",
+      "note": "Story-world exposition lacks a participating narrator and provides too little local context to establish third-person narration."
+    },
+    {
+      "quote_id": "q04794",
+      "person_signal": "non_base",
+      "note": "First-person idiomatic retort is character speech, not base narration."
+    },
+    {
+      "quote_id": "q04795",
+      "person_signal": "non_base",
+      "note": "Universal hypothetical \u201cyou\u201d is gnomic and not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04796",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates, and the isolated action tag about Blue Man is insufficient to diagnose the base narrator."
+    },
+    {
+      "quote_id": "q04797",
+      "person_signal": "third",
+      "note": "A sustained scene combines dialogue with repeated external narration of Jamison, Decker, and their actions in third person."
+    },
+    {
+      "quote_id": "q04798",
+      "person_signal": "non_base",
+      "note": "An attributed general saying does not identify the base narrator."
+    },
+    {
+      "quote_id": "q04799",
+      "person_signal": "unmarked",
+      "note": "The clipped reference to \u201che\u201d and one action are insufficient to establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q04800",
+      "person_signal": "unmarked",
+      "note": "Plot exposition about an unnamed \u201cthey\u201d contains no narrator reference and too little context for a diagnostic person signal."
+    },
+    {
+      "quote_id": "q04801",
+      "person_signal": "non_base",
+      "note": "Two clipped speech fragments belong to character dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q04802",
+      "person_signal": "non_base",
+      "note": "The first-person wording and address to Alex are character speech, not narratorial self-reference."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://crimereads.com/excerpt-walk-the-wire/",
+      "title": "Walk the Wire \u2014 David Baldacci",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A sustained excerpt explicitly reprinted with Grand Central Publishing\u2019s permission externally narrates Decker and Jamison as \u201che,\u201d \u201cshe,\u201d and \u201cthey\u201d; it includes q04797 and continues in the same third-person mode."
+    },
+    {
+      "url": "https://www.hbgacademic.com/titles/david-baldacci/walk-the-wire/9781538761472/",
+      "title": "Walk the Wire by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher page verifies the title, author, series, protagonists, and edition, but its synopsis grammar does not independently establish narrative person."
+    },
+    {
+      "url": "https://books.google.com/books/about/Walk_the_Wire.html?id=Nma8DwAAQBAJ",
+      "title": "Walk the Wire: The Sunday Times Number One Bestseller \u2014 Google Books",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The bibliographic record confirms the 2020 Pan Macmillan edition and advertises a limited preview, but the accessible page supplied only catalog copy and common-term snippets, not a usable continuous passage."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cWalk the Wire\u201d David Baldacci excerpt/chapter and opened the CrimeReads authorized excerpt; it provides sustained third-person interior prose.",
+    "Searched \u201cWalk the Wire\u201d with \u201cthird person,\u201d \u201cpoint of view,\u201d \u201cnarrator,\u201d and \u201calternating point of view\u201d; results yielded reviews and summaries but no credible explicit whole-book POV analysis.",
+    "Searched the author and publisher domains for an excerpt; the Hachette page was opened but contained synopsis and catalog information rather than book prose.",
+    "Searched Google Books, Open Library, and Internet Archive; Google Books was opened but exposed no continuous preview text through the accessible page, and no useful Open Library or Internet Archive edition surfaced.",
+    "Opened the Bookey result after it surfaced later-chapter third-person snippets, but the page fetch failed, so it was not used as evidence."
+  ],
+  "person_note": "The controlling narration is third person. q04784, q04785, and q04797 provide sustained external narration of Decker, Jamison, and other characters, while the authorized CrimeReads interior excerpt confirms the same mode. First- and second-person forms elsewhere occur in dialogue or general sayings, not autonomous narrative sections. No evidence of a participating narrator, sustained second-person narration, or alternating-person structure was found. The main limitation is the absence of an explicit whole-book structural description, but the authorized sustained excerpt and distinct Goodreads passages agree without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_073",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:09:00.340943+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7d4f540926cd1f8c633a668af7cb8fe7d902fa2e4467719fddaa760783edb356"
+  }
+}

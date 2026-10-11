@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1941:3715",
+  "quotes": [
+    {
+      "quote_id": "q00503",
+      "person_signal": "non_base",
+      "note": "Direct character speech; generic and addressee-directed \u201cyou\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00504",
+      "person_signal": "non_base",
+      "note": "Direct character speech without an outside narratorial beat."
+    },
+    {
+      "quote_id": "q00505",
+      "person_signal": "unmarked",
+      "note": "The clipped generalization uses \u201cthey\u201d without enough local context to identify the narrating position."
+    },
+    {
+      "quote_id": "q00506",
+      "person_signal": "third",
+      "note": "Sustained external description from the third-person backstory presents Blampied and London through nonparticipating narration."
+    },
+    {
+      "quote_id": "q00507",
+      "person_signal": "third",
+      "note": "External narration about Smith\u2019s writing occurs within the sustained third-person Part Four narrative."
+    },
+    {
+      "quote_id": "q00508",
+      "person_signal": "non_base",
+      "note": "An exchange of direct speech; neither speaker is functioning as the base narrator here."
+    },
+    {
+      "quote_id": "q00509",
+      "person_signal": "unmarked",
+      "note": "The passage describes an unnamed \u201che,\u201d but the isolated characterization does not establish whether a participating narrator frames it."
+    },
+    {
+      "quote_id": "q00510",
+      "person_signal": "non_base",
+      "note": "Direct character speech; the rhetorical \u201cyou\u201d is not second-person narration."
+    },
+    {
+      "quote_id": "q00511",
+      "person_signal": "third",
+      "note": "The introductory past-perfect beat about his governess belongs to the external third-person backstory; the following maxim is quoted speech."
+    },
+    {
+      "quote_id": "q00512",
+      "person_signal": "non_base",
+      "note": "Direct character speech, including generic \u201cthem\u201d and \u201cthey,\u201d rather than base narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.ca/ebooks/hiltonj-randomharvest/hiltonj-randomharvest-00-h.html",
+      "title": "Random Harvest by James Hilton, Project Gutenberg Canada ebook #1599",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The complete text opens Part One with Harrison narrating as \u201cI,\u201d shifts to sustained external \u201che\u201d narration in Part Two, returns to Harrison\u2019s \u201cwe\u201d and \u201cI\u201d in Part Three, and likewise contains a third-person backstory followed by Harrison\u2019s first-person Part Five."
+    },
+    {
+      "url": "https://dokumen.pub/novel-to-film-an-introduction-to-the-theory-of-adaptation-1nbsped-0198711514-9780198711513.html",
+      "title": "Novel to Film: An Introduction to the Theory of Adaptation",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Brian McFarlane\u2019s Clarendon Press structural analysis explicitly identifies Parts One, Three, and Five as narrated by Harrison and Parts Two and Four as third-person narration, including the novel\u2019s movement between the two persons."
+    },
+    {
+      "url": "https://nighthawknews.wordpress.com/2015/03/18/best-adapted-screenplay-1942/",
+      "title": "Best Adapted Screenplay: 1942",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A review comparing novel and film independently describes the novel\u2019s first-person Harrison narration and its subsequent movement into third person for Charles Rainier\u2019s story."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cRandom Harvest\u201d \u201cJames Hilton\u201d with \u201cthird person,\u201d \u201cnarrator,\u201d and \u201cpoint of view.\u201d",
+    "Searched for \u201cRandom Harvest\u201d excerpts, first chapter, full text, and archival/library copies; the Online Books Page supplied only a copyright/access warning, while Project Gutenberg Canada exposed the text and part structure.",
+    "Searched the complete-text index for Parts Three, Four, and Five and for distinctive passages from the supplied quotes to place them within the novel\u2019s frame and backstories.",
+    "Searched for structural and adaptation scholarship; Brian McFarlane\u2019s Clarendon Press study explicitly resolved the person used in all five parts.",
+    "Opened and checked the full-text edition, the scholarly structural analysis, and the adaptation review before recording them; Goodreads and general plot-summary snippets were treated as discovery rather than decisive evidence."
+  ],
+  "person_note": "The novel deliberately alternates sustained narrative persons: Harrison, a participating character, narrates Parts One, Three, and Five in the first person, while Parts Two and Four recount Rainier\u2019s past in sustained third person. The supplied event excerpts chiefly come from the third-person backstory, whereas the dialogue excerpts do not identify narration; their lack of first-person evidence therefore does not contradict the full-book structure. The complete text and scholarly whole-book analysis independently agree, leaving only minor uncertainty about the local provenance of isolated q00509, not about the alternating classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_004",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T22:51:24.303173+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "15512047b10721ddde1d116fc74fa9222c383e9e07964b4d88c7fbfe4524a5b3"
+  }
+}

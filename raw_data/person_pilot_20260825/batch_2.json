@@ -1,0 +1,1454 @@
+{
+  "batch": 2,
+  "model": "gpt-5.6-terra",
+  "reasoning_effort": "medium",
+  "books": [
+    {
+      "sample_id": "top2021:GOLDEN GIRL|Elin Hilderbrand",
+      "year": 2021,
+      "title": "GOLDEN GIRL",
+      "person_label": "UNCLEAR",
+      "person_confidence": "",
+      "person_signal_counts": {
+        "first_explicit": {
+          "event": 1,
+          "beat": 0
+        },
+        "third_pattern": {
+          "event": 8,
+          "beat": 0
+        },
+        "unmarked": {
+          "event": 2,
+          "beat": 2
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "third",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q06043",
+            "q06044",
+            "q06048",
+            "q06051",
+            "q06052",
+            "q06053",
+            "q06054",
+            "q06061"
+          ],
+          "contradicting_quote_ids": [
+            "q06058"
+          ],
+          "rationale": "Recurring scene and interior-state narration represents Vivi, Willa, and other focal characters in the third person; one unframed first-person event prevents resolving whether it is a separate layer."
+        },
+        {
+          "strand_id": "B",
+          "person_hypothesis": "first",
+          "role": "unclear",
+          "supporting_quote_ids": [
+            "q06058"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "The event excerpt has narratorial I/me/my, but occurs only once and cannot establish a base or autonomous strand."
+        }
+      ],
+      "person_note": "Eight coherent third-person-pattern observations meet the third-pattern count, but the exposed first-person event has no context to place it; neither FIRST nor ALTERNATING meets its first-person-strand floor.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "single explicit first-person event conflicts with otherwise recurring third-person pattern",
+        "layer/strand placement is unresolved"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q06043",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Vivi is the focal subject of a character-state generalization.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06044",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Sustained future interior-state narration around Willa.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06047",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "The beat merely attributes speech to he; it does not identify narrator person.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06048",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Third-person focal character is given emotions and recovery process.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06049",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "He looks at Willa is a simple external beat, not person-diagnostic narration.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06051",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "She is represented in a focal interior realization.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06052",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Willa's recurring private action supports the third-person scene pattern.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06053",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Sustained scene narration follows Brett and Vivi.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06054",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Extended scene centers third-person characters.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06055",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Simple proper-name fact is compatible with any narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06058",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Outside speech, I/my explicitly refer to the narrating voice; only one such excerpt is available.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06059",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Book-list fragment does not expose the narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q06061",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Third-person narration evaluates Vivi's death and alternative outcome.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top2001:182",
+      "year": 2001,
+      "title": "A PAINTED HOUSE",
+      "person_label": "FIRST",
+      "person_confidence": "high",
+      "person_signal_counts": {
+        "first_explicit": {
+        "event": 14,
+          "beat": 0
+        },
+        "third_pattern": {
+          "event": 3,
+          "beat": 0
+        },
+        "unmarked": {
+        "event": 3,
+          "beat": 1
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "first",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q00888",
+            "q00889",
+            "q00890",
+            "q00892",
+            "q00893",
+            "q00894",
+            "q00895",
+            "q00896",
+            "q00898",
+            "q00900",
+            "q00902",
+            "q00904",
+            "q00905",
+            "q00906"
+          ],
+          "contradicting_quote_ids": [
+            "q00897",
+            "q00899",
+            "q00901",
+            "q00908"
+          ],
+          "rationale": "Many non-duplicate event excerpts use narratorial I/me/my, including perception, action, and memory. Third-person-looking passages can describe people in that narrator's world and do not establish another strand."
+        }
+      ],
+      "person_note": "The base first-person strand comfortably exceeds the evidence floor. The few third-person focal passages have no independent chronology or autonomous narrator evidence.",
+      "suspicious": false,
+      "suspicious_reasons": [],
+      "quote_signals": [
+        {
+          "quote_id": "q00888",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Narratorial I reports feeling and action.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00889",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Narratorial I reports perception and thought.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00890",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/me and remembered perception identify narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00891",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Landscape description has no narrator self-reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00892",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/me narrate actions and prayer.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00893",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I narrates private question and recollection.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00894",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my explicitly narrate emotion and relationship.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00895",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I recounts prior action and consequence.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00896",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I narrates a continuous personal action scene.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00897",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Third-person account includes her pride, but no autonomous strand is established.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00898",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I narrates wish and current action.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00899",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Extended character history and probable thought form a local third-person pattern.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00900",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I narrates experience and inference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00901",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Third-person community scene is locally compatible with the established I narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00902",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I narrates intention and plan.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00903",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "She added is a simple attribution beat, not third-person narrator evidence.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00904",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I reports evaluation.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00905",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I narrates memory and imagined loss.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00906",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Narrating we/us is explicit first-person plural reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00907",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Community custom is not person-diagnostic.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00908",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Descriptive proper-name/group sentence does not itself prove third narration.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top1954:6168",
+      "year": 1954,
+      "title": "THE ROYAL BOX",
+      "person_label": "INSUFFICIENT",
+      "person_confidence": "",
+      "person_signal_counts": {
+        "first_explicit": {
+          "event": 1,
+          "beat": 0
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "first",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q00563"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "One event uses me/I, but there are fewer than five usable observations."
+        }
+      ],
+      "person_note": "One explicit first-person event cannot meet either the five-observation or two-excerpt FIRST floor.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "only one usable narrative observation"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q00563",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Me/I are outside speech, but appear in only one excerpt.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top1944:50",
+      "year": 1944,
+      "title": "A BELL FOR ADANO",
+      "person_label": "INSUFFICIENT",
+      "person_confidence": "",
+      "person_signal_counts": {
+        "third_pattern": {
+          "event": 2,
+          "beat": 0
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "third",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q00349",
+            "q00350"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "Two scene excerpts sustain third-person character representation, far below the THIRD floor."
+        }
+      ],
+      "person_note": "Only two usable event excerpts are available; neither can prove the narrator's person alone.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "fewer than five usable observations",
+        "thin third-person evidence"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q00349",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Scene follows Cacopardo, including his aged memory.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00350",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Narration represents his preference and habitual speech.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top2002:1936",
+      "year": 2002,
+      "title": "FROM A BUICK 8",
+      "person_label": "FIRST",
+      "person_confidence": "med",
+      "person_signal_counts": {
+        "first_explicit": {
+          "event": 3,
+          "beat": 2
+        },
+        "third_pattern": {
+          "event": 2,
+          "beat": 1
+        },
+        "unmarked": {
+        "event": 5,
+          "beat": 1
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "first",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q00248",
+            "q00252",
+            "q00253",
+            "q00259",
+            "q00268"
+          ],
+          "contradicting_quote_ids": [
+            "q00256",
+            "q00260",
+            "q00266"
+          ],
+          "rationale": "Several event and narratorial-beat excerpts explicitly use I, while third-person passages lack an independently supported autonomous scene line."
+        }
+      ],
+      "person_note": "The first-person evidence floor is met in non-duplicate events and beats, but the excerpts may include multiple recounting contexts; confidence is medium.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "third-person focal passages and varied speaking contexts leave strand structure somewhat thin"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q00248",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I thought and I think expose narrating self-reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00250",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Impersonal fragment does not expose narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00252",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I narrates action and response.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00253",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I said is narratorial material outside the quoted speech.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00256",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Curtis and Sandy are represented with evaluative thought; no separate strand is established.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00257",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Character reference and rhetorical question are not a sustained third-person pattern.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00258",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Reported saying is not sufficient narrator evidence.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00259",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I told him is a first-person narratorial beat.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00260",
+          "person_signal": "third_pattern",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "Outside speech, Sandy's thought is represented in third person.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00261",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Generic advisory construction is not narrator self-reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00263",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Single he action is third-compatible only.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00264",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "Tony said/Curtis nodding only attributes dialogue.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00266",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "He is given a prior decision, a local third-person focal pattern.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q00268",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I felt and I am at it explicitly identify the narrating voice.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top1992:2060",
+      "year": 1992,
+      "title": "GRIFFIN & SABINE",
+      "person_label": "INSUFFICIENT",
+      "person_confidence": "",
+      "person_signal_counts": {
+        "first_explicit": {
+          "event": 1,
+          "beat": 0
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "first",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q03286"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "The event's our/we is explicit first-person plural, but there is only one usable narrative excerpt."
+        }
+      ],
+      "person_note": "Dialogue records have no narratorial beat and are excluded; the sole event cannot meet evidence floors.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "only one usable narrative observation",
+        "dialogue-heavy excerpts offer no usable beats"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q03286",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Our/we explicitly refer to a narrating group, but only once.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top2021:THE WISH|Nicholas Sparks",
+      "year": 2021,
+      "title": "THE WISH",
+      "person_label": "ALTERNATING",
+      "person_confidence": "med",
+      "person_signal_counts": {
+        "first_explicit": {
+          "event": 11,
+          "beat": 1
+        },
+        "third_pattern": {
+          "event": 8,
+          "beat": 0
+        },
+        "unmarked": {
+          "event": 6,
+          "beat": 3
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "first",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q05711",
+            "q05712",
+            "q05719",
+            "q05720",
+            "q05722",
+            "q05728",
+            "q05735",
+            "q05736",
+            "q05737",
+            "q05740",
+            "q05742",
+            "q05745"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "Recurring concrete action, memory, thought, and a narratorial beat use I/me/my in a coherent first-person position."
+        },
+        {
+          "strand_id": "B",
+          "person_hypothesis": "third",
+          "role": "autonomous",
+          "supporting_quote_ids": [
+            "q05715",
+            "q05727",
+            "q05731",
+            "q05733",
+            "q05739",
+            "q05744",
+            "q05748",
+            "q05750"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "Multiple separate scenes represent Maggie and other focal characters in third person, including interior access and independent chronology."
+        }
+      ],
+      "person_note": "Both first-person and third-person strands comfortably exceed their diagnostic floors and recur across distinct scenes. Exact section arrangement is not visible in excerpts.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "alternating-person inference from excerpted strands",
+        "some excerpts contain embedded dialogue/thought"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q05711",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I thought back and self-evaluation are narratorial.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05712",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I remember/I wanted/I knew identify narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05715",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Third-person focal narration of her illness; final I is embedded thought.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05716",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Abstract statement does not expose narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05717",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "She said is simple character attribution, not a sustained pattern.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05719",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "My own silence identifies narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05720",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "We/other in reflective narration supplies first-person plural evidence.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05721",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Abstract fragment is non-diagnostic.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05722",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I found myself remembering identifies narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05723",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Outer speech attribution is not narrator-person evidence.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05724",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "B",
+          "person_note": "He answered is a simple beat outside speech.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05725",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "B",
+          "person_note": "She said is a simple beat outside speech.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05727",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Maggie's sensations and knowledge sustain third-person focal scene before quoted story.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05728",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate understanding and family perception.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05731",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Extended independent third-person scene gives Maggie perceptions and thoughts; dialogue is embedded.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05733",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Maggie is given prior decision and family interpretation.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05734",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "She agreed is only a dialogue attribution beat.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05735",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Me and narrator's evaluation are explicit first-person evidence.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05736",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I was napping/I slept identify narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05737",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate a continuous personal scene; direct speech is embedded.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05738",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Single third-person fact is not a pattern.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05739",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Third-person scene includes her emotional response.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05740",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I nodded/I said are narratorial beats outside speech.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05741",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Third-person external action is not independently diagnostic.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05742",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I whispered and mine are outside the embedded reply.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05744",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Extended third-person illness chronology and treatment account.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05745",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I knew/ours supplies first-person narration.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05748",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "She is represented with ongoing wishes and imagination.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q05750",
+          "person_signal": "third_pattern",
+          "person_source": "event",
+          "strand_id": "B",
+          "person_note": "Extended travel history of she supports autonomous third-person scene line.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top2009:4576",
+      "year": 2009,
+      "title": "THE ASSOCIATE",
+      "person_label": "INSUFFICIENT",
+      "person_confidence": "",
+      "person_signal_counts": {
+        "first_explicit": {
+          "event": 1,
+          "beat": 0
+        },
+        "unmarked": {
+          "event": 1,
+          "beat": 0
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "first",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q01467"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "One event contains repeated I/my self-reference; the other is an unmarked fragment."
+        }
+      ],
+      "person_note": "Only two usable event observations; the first-person floor is not met.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "fewer than five usable observations"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q01467",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Repeated I/my refer to narrator's own past and state.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q01468",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Clipped third-person fragment is non-diagnostic.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top2025:SAY YOU'LL REMEMBER ME|Abby Jimenez",
+      "year": 2025,
+      "title": "SAY YOU'LL REMEMBER ME",
+      "person_label": "FIRST",
+      "person_confidence": "high",
+      "person_signal_counts": {
+        "first_explicit": {
+        "event": 30,
+          "beat": 5
+        },
+        "unmarked": {
+          "event": 1,
+        "beat": 2
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "first",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q10340",
+            "q10342",
+            "q10345",
+            "q10346",
+            "q10350",
+            "q10351",
+            "q10353",
+            "q10355",
+            "q10356",
+            "q10359",
+            "q10360",
+            "q10362",
+            "q10363",
+            "q10367",
+            "q10368",
+            "q10370",
+            "q10371",
+            "q10373",
+            "q10379",
+            "q10382",
+            "q10384",
+            "q10385",
+            "q10390",
+            "q10393",
+            "q10394",
+            "q10398",
+            "q10399",
+            "q10401"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "Numerous separate event scenes and beats use I/me/my to narrate perception, action, history, and relationships. Different first-person speakers do not alter the book-level person label."
+        }
+      ],
+      "person_note": "First-person self-reference is abundant across events and beats. One event appears to be unmarked direct speech and is withheld for bucket review; it does not affect the label.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "q10372 is plausibly dialogue despite its event bucket"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q10340",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "My/I explicitly narrate personal desire.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10342",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I'd/I narrate a personal future reflection.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10345",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate the speaker's life and perception.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10346",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I said is a narratorial beat outside speech.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10348",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "She laughed and her smile are simple dialogue beats, not narrator evidence.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10350",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Me/I explicitly narrate relationship and action.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10351",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I think supplies narratorial self-reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10353",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate mental state and experience.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10355",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I is the experiencing protagonist.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10356",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I wondered supplies first-person interior narration.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10359",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I hated identifies narrator despite quoted-film reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10360",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I hated identifies narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10362",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I loved/my narrate present personal life.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10363",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I asked/I lost are narration outside the spoken exchange.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10364",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I said is a narratorial beat.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10367",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Me/I narrate desire and comparison.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10368",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "My father/my mother identify narrator's personal account.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10370",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I could think and my wife identify narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10371",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Me and focal evaluation occur in personal narration.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10372",
+          "person_signal": "",
+          "person_source": "",
+          "strand_id": "",
+          "person_note": "Unquoted first-person declaration appears to be direct speech within an event bucket; withhold person signal pending upstream bucket review.",
+          "bucket_review": true
+        },
+        {
+          "quote_id": "q10373",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/me narrate personal preferences.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10375",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Final I in the fragment supplies narratorial self-reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10377",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I said and I will are narratorial material outside the reply.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10378",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Single she action is compatible with any narrator.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10379",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate sustained personal waiting and choices.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10382",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/me identify narrator within third-person family scene.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10384",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate character history and reflection.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10385",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I hated is explicit self-reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10387",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I should supplies first-person narration.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10388",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I've supplies first-person self-reference.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10389",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I'd been identifies narrator's state.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10390",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I could/I narrate deliberation and action.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10392",
+          "person_signal": "unmarked",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "She said contains first-person words inside speech, but no outside I; this beat is unmarked.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10393",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/me narrate relationship judgment.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10394",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate self-description and reflection.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10395",
+          "person_signal": "first_explicit",
+          "person_source": "beat",
+          "strand_id": "A",
+          "person_note": "I said is narratorial beat.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10398",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate preferences and aversions.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10399",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/my narrate perception, purpose, and intention.",
+          "bucket_review": false
+        },
+        {
+          "quote_id": "q10401",
+          "person_signal": "first_explicit",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "I/me narrate reaction and realization.",
+          "bucket_review": false
+        }
+      ]
+    },
+    {
+      "sample_id": "top1972:6743",
+      "year": 1972,
+      "title": "THE WORD",
+      "person_label": "INSUFFICIENT",
+      "person_confidence": "",
+      "person_signal_counts": {
+        "unmarked": {
+          "event": 1,
+          "beat": 0
+        }
+      },
+      "person_strands": [
+        {
+          "strand_id": "A",
+          "person_hypothesis": "unclear",
+          "role": "base",
+          "supporting_quote_ids": [
+            "q01876"
+          ],
+          "contradicting_quote_ids": [],
+          "rationale": "The sole impersonal future-prediction excerpt is non-diagnostic."
+        }
+      ],
+      "person_note": "Only one usable, unmarked event observation is available.",
+      "suspicious": true,
+      "suspicious_reasons": [
+        "only one usable narrative observation"
+      ],
+      "quote_signals": [
+        {
+          "quote_id": "q01876",
+          "person_signal": "unmarked",
+          "person_source": "event",
+          "strand_id": "A",
+          "person_note": "Impersonal passive future statements do not identify narrator person.",
+          "bucket_review": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:1045",
+  "quotes": [
+    {
+      "quote_id": "q01164",
+      "person_signal": "first",
+      "note": "Jesus narrates his own experience as \u201cI\u201d outside dialogue, exposing the participating base narrator."
+    },
+    {
+      "quote_id": "q01165",
+      "person_signal": "non_base",
+      "note": "The second-person references occur within a character\u2019s direct speech to Jesus and do not identify the narrator."
+    },
+    {
+      "quote_id": "q01166",
+      "person_signal": "non_base",
+      "note": "This is authorial paratext in Anne Rice\u2019s voice, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q01167",
+      "person_signal": "first",
+      "note": "Sustained first-person narration and reflection present Jesus as the participating narrator."
+    },
+    {
+      "quote_id": "q01168",
+      "person_signal": "unclear",
+      "note": "The clipped passage does not preserve enough context to distinguish speech from base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.com/books/153671/christ-the-lord-out-of-egypt-by-anne-rice/audio/",
+      "title": "Christ the Lord: Out of Egypt by Anne Rice",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The official publisher\u2019s author interview explicitly identifies Jesus as the book\u2019s first-person narrator."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/christ-the-lord-out-of-egypt/excerpt",
+      "title": "Christ the Lord: Out of Egypt by Anne Rice \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained excerpt reprinted with Random House permission opens with Jesus narrating his childhood as \u201cI\u201d and continues in first person."
+    },
+    {
+      "url": "https://www.publishersweekly.com/978-0-7393-1376-3",
+      "title": "Christ the Lord: Out of Egypt by Anne Rice",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Publishers Weekly describes the novel as a first-person account narrated retrospectively by an older Jesus."
+    },
+    {
+      "url": "https://www.salon.com/2005/11/03/rice_22/",
+      "title": "Interview with \u2026 Jesus?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Salon\u2019s detailed review says the novel is told in Jesus\u2019s voice and consistently identifies Jesus as its narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cChrist the Lord: Out of Egypt Anne Rice excerpt first chapter\u201d and opened the authorized Bookreporter excerpt.",
+    "Searched \u201cChrist the Lord: Out of Egypt first person narrator\u201d and opened explicit descriptions from Publishers Weekly and the Christian Research Institute.",
+    "Searched for an Anne Rice interview about the narrator and opened Penguin Random House\u2019s author interview, where Rice directly identifies Jesus as the first-person narrator.",
+    "Opened corroborating whole-book discussions from CBS News and Salon; both describe the novel as written in Jesus\u2019s first-person voice.",
+    "Searched specifically for alternating narrators, multiple narrators, frame narration, and epistolary structure; found no credible evidence of another sustained narrative person.",
+    "An Anne Rice official-site result described the book as told in Jesus\u2019s voice, but one attempted page open returned an internal error, so it was not relied upon."
+  ],
+  "person_note": "The controlling narrator is Jesus, recounting his own childhood in the first person. Both event quotes independently expose that base voice, while the dialogue and authorial paratext are non-base material and the clipped final quote remains locally unresolved. An official publisher interview establishes the whole-book structure, and the authorized opening plus multiple credible reviews corroborate it. No evidence of sustained third-person, second-person, framed, or alternating narration was found; the only remaining uncertainty concerns the local attribution of q01168, not the book-level person.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.239949+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "271fd3d146b9c0ba9edd3ef329c0b5b9fa9e67641adfcae0a966ca122c4bb8c2"
+  }
+}

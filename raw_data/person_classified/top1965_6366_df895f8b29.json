@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1965:6366",
+  "quotes": [
+    {
+      "quote_id": "q01344",
+      "person_signal": "non_base",
+      "note": "Extended dialogue containing Rabbi Gimzo's embedded anecdote; its speech pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01345",
+      "person_signal": "non_base",
+      "note": "Eliav's directly quoted reflection uses \u201cwe\u201d; the brief attribution is not enough to diagnose base person."
+    },
+    {
+      "quote_id": "q01346",
+      "person_signal": "non_base",
+      "note": "Universal gnomic statement; \u201cus\u201d does not denote a participating story narrator."
+    },
+    {
+      "quote_id": "q01347",
+      "person_signal": "third",
+      "note": "An external, sweeping historical narrator describes God's actions across centuries without participating in the story."
+    },
+    {
+      "quote_id": "q01348",
+      "person_signal": "unclear",
+      "note": "The sentence is clipped at both ends, preventing responsible attribution of its narrative person."
+    },
+    {
+      "quote_id": "q01349",
+      "person_signal": "third",
+      "note": "External narration presents an unnamed male character's questions and realization as \u201che,\u201d including access to his reasoning."
+    },
+    {
+      "quote_id": "q01350",
+      "person_signal": "non_base",
+      "note": "Character speech; first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q01351",
+      "person_signal": "non_base",
+      "note": "Primarily dialogue, including Cullinane's first-person reply; the short external attribution is nondiagnostic by itself."
+    },
+    {
+      "quote_id": "q01352",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism with no story-specific narrator."
+    },
+    {
+      "quote_id": "q01353",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism with no participating narrator."
+    },
+    {
+      "quote_id": "q01354",
+      "person_signal": "unmarked",
+      "note": "Scenic description of the Sea of Galilee contains no participating narrator or sufficiently contextualized character narration."
+    },
+    {
+      "quote_id": "q01355",
+      "person_signal": "third",
+      "note": "External narration reports Cullinane's evaluation and generalizes beyond him, exposing a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q01356",
+      "person_signal": "non_base",
+      "note": "Clipped character speech followed by a minimal action beat; the beat does not independently establish base person."
+    },
+    {
+      "quote_id": "q01357",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in character speech, not base narration."
+    },
+    {
+      "quote_id": "q01358",
+      "person_signal": "non_base",
+      "note": "First-person statement is character speech, not base narration."
+    },
+    {
+      "quote_id": "q01359",
+      "person_signal": "non_base",
+      "note": "Gnomic theological instruction; reflexive pronouns do not reveal narrative person."
+    },
+    {
+      "quote_id": "q01360",
+      "person_signal": "third",
+      "note": "The external narrator accesses Ur's anguish and connects it omnisciently to the present world."
+    },
+    {
+      "quote_id": "q01361",
+      "person_signal": "unmarked",
+      "note": "Brief impersonal historical statement lacks enough local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q01362",
+      "person_signal": "third",
+      "note": "External scene narration reports a man's repeated pleading and the circulation of a joke among Safed's community."
+    },
+    {
+      "quote_id": "q01363",
+      "person_signal": "non_base",
+      "note": "Quoted character speech; \u201che said\u201d is only a minimal attribution."
+    },
+    {
+      "quote_id": "q01364",
+      "person_signal": "third",
+      "note": "Broad external exposition explains Turkish rule and its effects on multiple communities from a nonparticipating position."
+    },
+    {
+      "quote_id": "q01365",
+      "person_signal": "third",
+      "note": "Sustained historical narration summarizes the earthquake, massacre, displacement, and executions without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9780375760389",
+      "title": "The Source | Penguin Random House Higher Education",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized publisher excerpt sustains external narration of Cullinane's arrival, perceptions, thoughts, and actions in the opening frame."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-source-a-novel/style.html",
+      "title": "James A. Michener Writing Styles in The Source; a Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly identifies the novel as third person and describes Michener's external storytelling from Ur's era through the 1960s."
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/source-analysis-major-characters",
+      "title": "The Source: Analysis of Major Characters",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "This authored research overview maps the 1964 frame and flashbacks spanning roughly twelve thousand years; it helps establish coverage and structure but does not explicitly label narrative person."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/james-a-michener/the-source/",
+      "title": "THE SOURCE | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The contemporary review confirms the present-day excavation frame, artifact-linked historical sequences, and that most of the novel consists of historical reconstructions; it does not explicitly name the POV."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Source\u201d \u201cJames A. Michener\u201d excerpt, first chapter, point of view, third person, narrator, and narration.",
+    "Opened the Penguin Random House Higher Education page and inspected its authorized opening excerpt; the sustained prose is third-person narration centered on Cullinane.",
+    "Opened the BookRags point-of-view page; it explicitly describes the whole novel as third person from Ur's era through the 1960s.",
+    "Searched for \u201cfirst person,\u201d \u201cmultiple narrators,\u201d \u201cframe narrative,\u201d and \u201comniscient narrator\u201d with the title and author; no credible evidence of sustained first- or second-person base sections was found.",
+    "Opened EBSCO and Kirkus structural accounts to verify that the modern frame alternates with historical reconstructions across the book.",
+    "Checked Google Books and Open Library/Internet Archive records; previews or search-inside interfaces were limited and yielded no additional sustained usable prose."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person. The authorized publisher opening establishes third-person narration in the modern Cullinane frame, while numerous event quotes independently show external or omniscient narration in both contemporary and historical material. BookRags explicitly describes the entire novel as third person, and the structural sources confirm that the frame and historical reconstructions comprise the whole-book design. First-person forms in the quote set occur in dialogue, direct reflection, or gnomic language and are therefore local rather than autonomous narrative sections. The main limitation is that the Tier A excerpt covers only the opening, but the interior quote coverage and explicit whole-book POV description resolve that scope limitation; no credible alternating-person evidence emerged.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_014",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T17:02:07.062946+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d5a83c4f6432f51f59c7679bc543554984fff7ed2478d71004f6c8069673af88"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:4316",
+  "quotes": [
+    {
+      "quote_id": "q01365",
+      "person_signal": "non_base",
+      "note": "Proverbial statement; no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01366",
+      "person_signal": "non_base",
+      "note": "Dialogue; rhetorical you does not establish second-person narration."
+    },
+    {
+      "quote_id": "q01367",
+      "person_signal": "unmarked",
+      "note": "Narrative fragment about Maeve followed by her speech; neither identifies the narrator's person."
+    },
+    {
+      "quote_id": "q01368",
+      "person_signal": "non_base",
+      "note": "Web context identifies this as Seamus's speech about Eileen, not base narration. Possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01369",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in dialogue."
+    },
+    {
+      "quote_id": "q01370",
+      "person_signal": "non_base",
+      "note": "Web context places this generalization within Seamus's speech."
+    },
+    {
+      "quote_id": "q01371",
+      "person_signal": "non_base",
+      "note": "Web context identifies this as Seamus's continuing speech to Michael. Possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01372",
+      "person_signal": "unmarked",
+      "note": "Description of named children does not itself identify narrator participation."
+    },
+    {
+      "quote_id": "q01373",
+      "person_signal": "first",
+      "note": "Behind me identifies the participating narrator; the chapter-one excerpt confirms Michael Bennett's narration."
+    },
+    {
+      "quote_id": "q01374",
+      "person_signal": "unmarked",
+      "note": "Description of a book and its contents leaves narrative person unspecified."
+    },
+    {
+      "quote_id": "q01375",
+      "person_signal": "first",
+      "note": "The outside speech beat I whispered identifies the participating narrator."
+    },
+    {
+      "quote_id": "q01376",
+      "person_signal": "first",
+      "note": "The outside beat I said, laughing with her identifies the narrator; nested speech is nondiagnostic."
+    },
+    {
+      "quote_id": "q01377",
+      "person_signal": "first",
+      "note": "Our team commander places the narrating voice within the police team in this event passage."
+    },
+    {
+      "quote_id": "q01378",
+      "person_signal": "non_base",
+      "note": "Martelli's spoken introduction; us and we belong to the speaker."
+    },
+    {
+      "quote_id": "q01379",
+      "person_signal": "unmarked",
+      "note": "Dialogue has only a he said beat outside it; that beat cannot distinguish first- from third-person narration."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/step-on-a-crack/excerpt",
+      "title": "Step on a Crack by James Patterson and Michael Ledwidge \u2014 Excerpt",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Sustained chapter-one narration establishes Michael Bennett as a participating first-person narrator and reproduces q01373 in context. This chapter alone cannot establish the entire structure."
+    },
+    {
+      "url": "https://consideringstories.wordpress.com/2025/12/23/step-on-a-crack-book/",
+      "title": "Grind It Out Until You\u2019re Dead: James Patterson and Michael Ledwidge\u2019s Step on a Crack",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Daniel R. Robichaud explicitly describes Bennett's first-person chapters alternating with limited third-person chapters about antagonists and hostages. Cited passages from pages 60\u201362 demonstrate sustained third-person Rooney narration; pages 336\u2013337 show first-person Bennett narration surrounding Seamus's speech, resolving q01368 and q01371."
+    },
+    {
+      "url": "https://www.jamespatterson.com/titles/james-patterson/step-on-a-crack/9780316610674/",
+      "title": "Step on a Crack by James Patterson & Michael Ledwidge",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Official author listing confirms title, coauthors, and Michael Bennett series identity; the accessible promotional material does not establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched: James Patterson Step on a Crack excerpt; Step on a Crack first third person narration.",
+    "Opened Bookreporter's chapter-one excerpt, the official author listing, and an AbeBooks listing; AbeBooks yielded no usable excerpt.",
+    "Searched: \"Step on a Crack\" \"third person\"; \"Step on a Crack\" \"excerpt\" \"Prologue\".",
+    "Opened Robichaud's Considering Stories review and inspected its explicit structural discussion and page-referenced interior passages.",
+    "Attempted the Capital Area District Libraries excerpt record; access failed with HTTP 403."
+  ],
+  "person_note": "Michael Bennett narrates his chapters in first person, while autonomous third-person chapters follow antagonists and hostages. The authorized chapter excerpt and Goodreads speech beats establish Bennett's strand; the detailed review supplies explicit structural evidence and an interior third-person passage. Seamus's first-person remarks in q01368 and q01371 are dialogue, not another narrating strand. ALTERNATING is supported, with medium confidence because whole-book alternation and interior third-person coverage rely on one credible review rather than independently verified authorized interior excerpts.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_045",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T13:26:01.524723+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1892df1e2989a3cae8710f10326b014bb05291d63b87aa3682050cfece98a0ca"
+  }
+}

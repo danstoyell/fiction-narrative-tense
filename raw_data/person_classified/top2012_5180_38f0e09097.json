@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:5180",
+  "quotes": [
+    {
+      "quote_id": "q00680",
+      "person_signal": "non_base",
+      "note": "General reflection with no story-participating narrator."
+    },
+    {
+      "quote_id": "q00681",
+      "person_signal": "non_base",
+      "note": "Character speech; its second-person address does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00682",
+      "person_signal": "unmarked",
+      "note": "Anaphoric third-person subjects alone do not establish the narrator's participation."
+    },
+    {
+      "quote_id": "q00683",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Puller, reports his capabilities and circumstances, and refers to him consistently as he."
+    },
+    {
+      "quote_id": "q00684",
+      "person_signal": "third",
+      "note": "External exposition introduces Carson as she and describes her institutional role without a participating narrator."
+    },
+    {
+      "quote_id": "q00685",
+      "person_signal": "third",
+      "note": "The narrator externally identifies Puller's thought and renders his circumstances and feelings as he."
+    },
+    {
+      "quote_id": "q00686",
+      "person_signal": "unmarked",
+      "note": "Possible base narration uses only an unidentified she and does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00687",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally tracks Puller, Landry, and Boyd; the embedded dialogue is local speech."
+    },
+    {
+      "quote_id": "q00688",
+      "person_signal": "third",
+      "note": "The surrounding narration externally describes the boat operator as he; the initial you-statements are his direct thought, not second-person base narration."
+    },
+    {
+      "quote_id": "q00689",
+      "person_signal": "unmarked",
+      "note": "Setting comparison contains no participating narrator or diagnostic character treatment."
+    },
+    {
+      "quote_id": "q00690",
+      "person_signal": "unmarked",
+      "note": "Narratorial observation about humans does not reveal whether the narrator participates in the story."
+    },
+    {
+      "quote_id": "q00691",
+      "person_signal": "unclear",
+      "note": "The clipped fragment has insufficient syntax or context for person attribution."
+    },
+    {
+      "quote_id": "q00692",
+      "person_signal": "non_base",
+      "note": "Dedication is paratext rather than story narration."
+    },
+    {
+      "quote_id": "q00693",
+      "person_signal": "unclear",
+      "note": "The clipped noun phrase provides no recoverable narrating position."
+    },
+    {
+      "quote_id": "q00694",
+      "person_signal": "third",
+      "note": "Sustained external narration describes a male character's actions, schedule, and decision as he."
+    },
+    {
+      "quote_id": "q00695",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks a subject and usable narrative context."
+    },
+    {
+      "quote_id": "q00696",
+      "person_signal": "third",
+      "note": "External narration follows Diaz and the group as they, followed by locally embedded dialogue."
+    },
+    {
+      "quote_id": "q00697",
+      "person_signal": "unclear",
+      "note": "The clipped location phrase has no identifiable narrator or complete narrative structure."
+    },
+    {
+      "quote_id": "q00698",
+      "person_signal": "unmarked",
+      "note": "The clipped sentence supplies only an unidentified he and does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00699",
+      "person_signal": "unclear",
+      "note": "The truncated descriptive phrase provides no diagnostic person evidence."
+    },
+    {
+      "quote_id": "q00700",
+      "person_signal": "non_base",
+      "note": "General maxim rather than diagnostic story narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/the-forgotten-0/excerpt",
+      "title": "The Forgotten by David Baldacci | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained Chapter 1 excerpt uses external he/they narration, moves through the captain's perceptions and thoughts, and contains no participating narrator."
+    },
+    {
+      "url": "https://bingebooks.com/book/the-forgotten",
+      "title": "The Forgotten by David Baldacci",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A long sample continues external third-person narration across the captain, an escaping man, and Betsy Puller Simon, but it extends the same opening sequence as the Bookreporter excerpt rather than providing independent interior or whole-book coverage."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/david-baldacci/the-forgotten/9780446573047/?lens=grand-central-publishing",
+      "title": "The Forgotten by David Baldacci | Hachette Book Group",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher page verifies the work, author, series, publisher, and protagonist but its synopsis does not itself establish narrative person."
+    },
+    {
+      "url": "https://books.google.com/books/about/The_Forgotten.html?id=h1KCJdMH0-sC",
+      "title": "The Forgotten - David Baldacci - Google Books",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The bibliographic record verifies the Grand Central edition and chapter structure, but the accessible landing page supplies synopsis material rather than usable narrative prose."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Forgotten\" \"David Baldacci\" excerpt, first chapter, and Puller; opened the Bookreporter sustained Chapter 1 excerpt and the BingeBooks multi-chapter sample.",
+    "Searched the author, Hachette, Grand Central Publishing, and Pan Macmillan domains for an authorized excerpt; the Hachette publisher page verified the edition but exposed only synopsis copy.",
+    "Searched \"The Forgotten\" \"David Baldacci\" with point of view, narrator, third person, omniscient, multiple points of view, and alternating narration; no credible explicit whole-book POV analysis or evidence of person alternation was found.",
+    "Opened the Google Books record and attempted chapter links; the record showed the book's chapter structure and indexed interior terms, but the opened chapter pages did not render usable prose."
+  ],
+  "person_note": "The controlling narration is third person. Multiple Goodreads passages from different story situations externally narrate Puller and other characters and enter their thoughts without introducing a participating narrator. A sustained Tier A opening excerpt independently shows the same third-person method across a complete scene; the BingeBooks sample extends that same opening rather than supplying an independent interior route. The isolated first-person sentence in the web opening and the second-person commands in q00688 are direct thoughts embedded within third-person narration, while dialogue, maxims, and paratext are non-base material. Confidence is med because no credible whole-book POV source was found and the web evidence is opening-only, despite strong dispersed Goodreads corroboration. Audit: independent review retained THIRD and downgraded high to med after avoiding double-counting the overlapping opening samples.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_051",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T04:13:50.004210+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5a8ffd039b9e28296b335008b6c0215077900f7ee716a0e6c39818c2d0e08195"
+  }
+}

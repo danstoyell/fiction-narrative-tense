@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1980:3696",
+  "quotes": [
+    {
+      "quote_id": "q02472",
+      "person_signal": "non_base",
+      "note": "Aphoristic character speech; it does not expose the narrator."
+    },
+    {
+      "quote_id": "q02473",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur within character speech, not base narration."
+    },
+    {
+      "quote_id": "q02474",
+      "person_signal": "third",
+      "note": "The external narrator describes a female character's attempt to understand her past."
+    },
+    {
+      "quote_id": "q02475",
+      "person_signal": "non_base",
+      "note": "The first-person plural occurs in a character's spoken analogy."
+    },
+    {
+      "quote_id": "q02476",
+      "person_signal": "non_base",
+      "note": "Direct thought attributed to Adam is a local character voice, not the base narrator."
+    },
+    {
+      "quote_id": "q02477",
+      "person_signal": "non_base",
+      "note": "Paratextual slogan; it supplies no narrative-person evidence."
+    },
+    {
+      "quote_id": "q02478",
+      "person_signal": "non_base",
+      "note": "Paratext quoting Gordon Gekko from Wall Street, not narration from this novel."
+    },
+    {
+      "quote_id": "q02479",
+      "person_signal": "non_base",
+      "note": "Direct thought attributed to Jennifer is an embedded character voice."
+    },
+    {
+      "quote_id": "q02480",
+      "person_signal": "third",
+      "note": "Third-person narration presents Jennifer's juror-selection practice and rationale."
+    },
+    {
+      "quote_id": "q02481",
+      "person_signal": "unmarked",
+      "note": "Impersonal metaphorical narration contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02482",
+      "person_signal": "non_base",
+      "note": "Repeated first-person forms occur wholly within character speech."
+    },
+    {
+      "quote_id": "q02483",
+      "person_signal": "non_base",
+      "note": "A universal gnomic statement does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q02484",
+      "person_signal": "non_base",
+      "note": "First-person speech explicitly attributed to Adam Warner, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.litres.ru/book/sidni-sheldon/rage-of-angels-39803913/chitat-onlayn/",
+      "title": "Rage of Angels \u2014 online excerpt (LitRes)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "An authorized retail excerpt provides sustained Chapter One prose in which a nonparticipating narrator describes Moretti, Di Silva, Jennifer, and the courtroom externally."
+    },
+    {
+      "url": "https://studfile.net/preview/6311717/page:41/",
+      "title": "From Rage of Angels by Sidney Sheldon",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A substantial teaching extract from an interior Jennifer\u2013Mary Beth scene consistently narrates Jennifer and other characters in the third person."
+    },
+    {
+      "url": "https://itexts.net/avtor-sidney-sheldon/144575-rage-of-angels-sidney-sheldon/read/page-20.html",
+      "title": "Rage of Angels by Sidney Sheldon \u2014 page 20",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A long late-novel passage spanning Chapters 49\u201350 uses third-person narration across General Wallace and Jennifer scenes; first-person direct thoughts remain locally embedded."
+    }
+  ],
+  "search_log": [
+    "Searched \"Rage of Angels\" \"Sidney Sheldon\" excerpt, first chapter, and publisher/library sources; opened LitRes, Google Books, Open Library, and HarperCollins results.",
+    "Searched \"Rage of Angels\" point of view, third person, narrator, and narration; found no credible explicit whole-book POV statement, but located and opened sustained opening and interior prose.",
+    "Searched for epistolary, diary, frame narrative, multiple narrators, and alternating point of view; found no evidence of sustained narration in another grammatical person.",
+    "Checked scholarly and educational material, including an Atlantis Press article and a Studfile analytical-reading extract; the article discussed narrative technique without explicitly naming person, while the extract supplied usable interior prose.",
+    "Opened a late-book iTexts passage covering Chapters 49\u201350 to test whether the third-person pattern continued beyond the opening; it did, although the host is not an authorized publisher source."
+  ],
+  "person_note": "The base narration is third person. The authorized opening sustains an external narrator, and separated interior and late-book passages preserve that structure while moving among characters and rendering Jennifer's interiority. Goodreads event quotes q02474 and q02480 corroborate this third-person limited/omniscient pattern. All visible narratorial-looking I/we material in the remaining quotes is speech, direct thought, gnomic text, or paratext rather than an autonomous first-person section. No epistolary, framed, or alternating-person structure was found. The main limitation is the absence of an explicit whole-book POV declaration, but the authorized opening, widely separated interior evidence, and diagnostic quote evidence agree without credible contradiction.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_021",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T07:21:42.164464+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "846b21fbf482201b6c92911da81d5b11d5a6352363e677846bb832806bbb8433"
+  }
+}

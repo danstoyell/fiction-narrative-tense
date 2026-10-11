@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:7027",
+  "quotes": [
+    {
+      "quote_id": "q01846",
+      "person_signal": "third",
+      "note": "Third-person limited narration reports Bosch's knowledge and develops it outside speech."
+    },
+    {
+      "quote_id": "q01847",
+      "person_signal": "third",
+      "note": "Sustained external summary names Bosch and narrates his history and decision as he/him."
+    },
+    {
+      "quote_id": "q01848",
+      "person_signal": "non_base",
+      "note": "Standalone proverb; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q01849",
+      "person_signal": "non_base",
+      "note": "Quoted character speech; first-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q01850",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech, not base narration."
+    },
+    {
+      "quote_id": "q01851",
+      "person_signal": "non_base",
+      "note": "Gnomic material with no diagnostic story-specific narrator."
+    },
+    {
+      "quote_id": "q01852",
+      "person_signal": "unmarked",
+      "note": "Impersonal exposition contains no participating narrator or sufficiently contextualized character narration."
+    },
+    {
+      "quote_id": "q01853",
+      "person_signal": "unmarked",
+      "note": "General legal exposition does not identify the narrator's participation."
+    },
+    {
+      "quote_id": "q01854",
+      "person_signal": "non_base",
+      "note": "Two-character dialogue; its I and you forms belong to the speakers."
+    },
+    {
+      "quote_id": "q01855",
+      "person_signal": "third",
+      "note": "An external thought tag and subsequent free-indirect questions reveal third-person limited narration of Bosch."
+    },
+    {
+      "quote_id": "q01856",
+      "person_signal": "unmarked",
+      "note": "The brief she-based summary lacks enough local context by itself to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01857",
+      "person_signal": "third",
+      "note": "Sustained external narration recounts Bosch's career and gives access to his fear as he."
+    },
+    {
+      "quote_id": "q01858",
+      "person_signal": "non_base",
+      "note": "Dialogue-bucket utterance; we belongs to a local speaker rather than the narrator."
+    },
+    {
+      "quote_id": "q01859",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Bosch externally by name while describing his actions and music."
+    },
+    {
+      "quote_id": "q01860",
+      "person_signal": "unmarked",
+      "note": "A brief free-indirect generalization without an identified subject is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01861",
+      "person_signal": "third",
+      "note": "Continuous external scene narration describes the chief's actions and habitual saying as he."
+    },
+    {
+      "quote_id": "q01862",
+      "person_signal": "unmarked",
+      "note": "Aphoristic free-indirect sentence does not independently identify narrative person."
+    },
+    {
+      "quote_id": "q01863",
+      "person_signal": "unmarked",
+      "note": "The clipped he-knew fragment suggests third-person context but is too incomplete to establish it independently."
+    },
+    {
+      "quote_id": "q01864",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short speech tags do not independently establish the controlling narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.michaelconnelly.com/writing/two-kinds-truth/two-kinds-of-truth-excerpt/",
+      "title": "Two Kinds Of Truth Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized, sustained opening excerpt narrates Bosch externally as he while repeatedly presenting his perceptions, knowledge, and thoughts."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-two-kinds-of-truth/styles.html",
+      "title": "Michael Connelly Writing Styles in Two Kinds of Truth",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly describes the entire novel as third-person limited narration focused exclusively on Harry Bosch."
+    },
+    {
+      "url": "https://irresistibletargets.blogspot.com/2020/11/michael-connellys-law-of-innocence.html",
+      "title": "Michael Connelly's Law of Innocence",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Critic Michael Carlson explicitly contrasts this novel's third-person Bosch viewpoint with Mickey Haller's first-person narration in The Law of Innocence."
+    }
+  ],
+  "search_log": [
+    "Searched \"Michael Connelly Two Kinds of Truth excerpt publisher first chapter\" and opened the sustained authorized excerpt on Michael Connelly's official site.",
+    "Searched \"Two Kinds of Truth Michael Connelly point of view third person narrator\" and opened BookRags' whole-book point-of-view analysis.",
+    "Searched exact combinations of \"Two Kinds of Truth\" with \"third-person\", \"third person limited\", \"point of view\", and \"narrator perspective\"; opened Michael Carlson's explicit critical comparison.",
+    "Checked author-site announcement, audiobook, review, Google Books/Play, library, Wikipedia, and scholarly-search results; announcements, catalog copy, customer reviews, generic series claims, and unrelated truth/narrative scholarship were not used as controlling evidence.",
+    "Targeted searches found no credible indication of sustained first-person, second-person, epistolary, frame, or alternating-person sections in this novel."
+  ],
+  "person_note": "The controlling narration is third-person limited through Harry Bosch. Multiple interior Goodreads passages independently show external he/Bosch narration with access to his knowledge and thoughts; dialogue and aphorisms were kept non-base, and terse or clipped passages were treated conservatively as unmarked. The authorized opening uses the same sustained third-person pattern, while two explicit whole-book sources confirm that this perspective controls the novel. No credible contrary or alternating-person structure was found; the only limitation is that the Tier A excerpt covers the opening rather than every chapter.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_062",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:42:30.937951+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1c705aa3287b40128aed8c044806b4010e520e6a2af74fdeaa6fe2559badafbc"
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:TOMORROW, AND TOMORROW, AND TOMORROW|Gabrielle Zevin",
+  "quotes": [
+    {
+      "quote_id": "q06796",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the first-person plural belongs to Marx's speech."
+    },
+    {
+      "quote_id": "q06797",
+      "person_signal": "non_base",
+      "note": "Character dialogue and a speech tag do not identify the base narrator."
+    },
+    {
+      "quote_id": "q06798",
+      "person_signal": "non_base",
+      "note": "Gnomic relationship advice with generic pronouns, not story-specific narration."
+    },
+    {
+      "quote_id": "q06799",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator attributes the reflection to an externally referenced she; its we and you are embedded generalizations."
+    },
+    {
+      "quote_id": "q06800",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect reflection using generic you, without enough context to identify the base narrator's person."
+    },
+    {
+      "quote_id": "q06801",
+      "person_signal": "third",
+      "note": "External narration names Sam and frames his first-person words as thought."
+    },
+    {
+      "quote_id": "q06802",
+      "person_signal": "non_base",
+      "note": "Generic aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q06803",
+      "person_signal": "non_base",
+      "note": "Gnomic account of time and memory; no participating narrator or story-specific addressee."
+    },
+    {
+      "quote_id": "q06804",
+      "person_signal": "non_base",
+      "note": "Narratorial-sounding aphorism that does not expose narrative person."
+    },
+    {
+      "quote_id": "q06805",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Marx and Sadie, including Sadie's thoughts, without a participating narrator."
+    },
+    {
+      "quote_id": "q06806",
+      "person_signal": "non_base",
+      "note": "General maxim using we, not participating character narration."
+    },
+    {
+      "quote_id": "q06807",
+      "person_signal": "non_base",
+      "note": "Quoted speech with a local action tag."
+    },
+    {
+      "quote_id": "q06808",
+      "person_signal": "non_base",
+      "note": "General advice about artistic development, not story-specific narration."
+    },
+    {
+      "quote_id": "q06809",
+      "person_signal": "third",
+      "note": "The narrator externally situates Sam's later interview and public response; first and second person occur inside maxim, quotation, or generic analogy."
+    },
+    {
+      "quote_id": "q06810",
+      "person_signal": "non_base",
+      "note": "Character conversation; the surrounding speech tags are not sufficiently diagnostic."
+    },
+    {
+      "quote_id": "q06811",
+      "person_signal": "third",
+      "note": "The narrator reports Marx's private evaluative perspective from outside him."
+    },
+    {
+      "quote_id": "q06812",
+      "person_signal": "unmarked",
+      "note": "Past-tense aphoristic narration with generic you but no story-specific person marker."
+    },
+    {
+      "quote_id": "q06813",
+      "person_signal": "unmarked",
+      "note": "An isolated he and reported preference do not alone establish the controlling narrator."
+    },
+    {
+      "quote_id": "q06814",
+      "person_signal": "non_base",
+      "note": "First-person language occurs entirely within character dialogue."
+    },
+    {
+      "quote_id": "q06815",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue and a character's embedded thought; the brief tags are not independently diagnostic."
+    },
+    {
+      "quote_id": "q06816",
+      "person_signal": "non_base",
+      "note": "Predominantly character dialogue; brief external action beats do not provide enough narratorial context."
+    },
+    {
+      "quote_id": "q06817",
+      "person_signal": "non_base",
+      "note": "Gnomic moral statement; we is universal rather than a participating narrator."
+    },
+    {
+      "quote_id": "q06818",
+      "person_signal": "non_base",
+      "note": "Generalized reflection using generic you, not a story-specific narrated protagonist."
+    },
+    {
+      "quote_id": "q06819",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to Simon's dialogue."
+    },
+    {
+      "quote_id": "q06820",
+      "person_signal": "non_base",
+      "note": "A character's aphoristic speech."
+    },
+    {
+      "quote_id": "q06821",
+      "person_signal": "non_base",
+      "note": "Unframed dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q06822",
+      "person_signal": "second",
+      "note": "Story-specific you narrates Marx's act of remembering in the sustained second-person NPC section."
+    },
+    {
+      "quote_id": "q06823",
+      "person_signal": "non_base",
+      "note": "First-person wording belongs to Dov's speech."
+    },
+    {
+      "quote_id": "q06824",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Sadie's actions and thoughts; generic you appears within her reflection."
+    },
+    {
+      "quote_id": "q06825",
+      "person_signal": "third",
+      "note": "Sustained narration externally follows Sam and explicitly frames his first-person direct thought."
+    },
+    {
+      "quote_id": "q06826",
+      "person_signal": "non_base",
+      "note": "A clipped generic maxim, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q06827",
+      "person_signal": "non_base",
+      "note": "Impersonal gnomic statement."
+    },
+    {
+      "quote_id": "q06828",
+      "person_signal": "third",
+      "note": "The narrator externally reports what she had read; later you forms are generic within the summarized idea."
+    },
+    {
+      "quote_id": "q06829",
+      "person_signal": "non_base",
+      "note": "Generic gnomic claim rather than base-narrator participation."
+    },
+    {
+      "quote_id": "q06830",
+      "person_signal": "second",
+      "note": "Story-specific questions about your life belong to the novel's sustained second-person Marx section."
+    },
+    {
+      "quote_id": "q06831",
+      "person_signal": "non_base",
+      "note": "General aphorism without a narratorial person marker."
+    },
+    {
+      "quote_id": "q06832",
+      "person_signal": "unmarked",
+      "note": "Generic you and an isolated she do not provide enough local context to establish narrator person."
+    },
+    {
+      "quote_id": "q06833",
+      "person_signal": "unclear",
+      "note": "The isolated first-person future line lacks reliable speech, thought, or narrative framing."
+    },
+    {
+      "quote_id": "q06834",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in character speech."
+    },
+    {
+      "quote_id": "q06835",
+      "person_signal": "third",
+      "note": "Free-indirect counterfactual narration follows an externally referenced male character without narrator participation."
+    },
+    {
+      "quote_id": "q06836",
+      "person_signal": "non_base",
+      "note": "General aphorism."
+    },
+    {
+      "quote_id": "q06837",
+      "person_signal": "non_base",
+      "note": "General aphorism."
+    },
+    {
+      "quote_id": "q06838",
+      "person_signal": "third",
+      "note": "External narration reports a male character's experience and wish in sustained local context."
+    },
+    {
+      "quote_id": "q06839",
+      "person_signal": "third",
+      "note": "Sustained external narration describes both friends and their privately motivated conduct."
+    },
+    {
+      "quote_id": "q06840",
+      "person_signal": "third",
+      "note": "The first-person questions are explicitly framed as a male character's thought by an external narrator."
+    },
+    {
+      "quote_id": "q06841",
+      "person_signal": "non_base",
+      "note": "First-person language is character dialogue."
+    },
+    {
+      "quote_id": "q06842",
+      "person_signal": "non_base",
+      "note": "Second-person language occurs inside character speech."
+    },
+    {
+      "quote_id": "q06843",
+      "person_signal": "third",
+      "note": "An external narrator frames the first-person sentences as a female character's direct thought."
+    },
+    {
+      "quote_id": "q06844",
+      "person_signal": "second",
+      "note": "Sustained story-specific you narrates a scene involving the protagonist's parents in the NPC section."
+    },
+    {
+      "quote_id": "q06845",
+      "person_signal": "third",
+      "note": "The narrator externally describes Sam, his grandfather, and their beliefs."
+    },
+    {
+      "quote_id": "q06846",
+      "person_signal": "non_base",
+      "note": "Generic you occurs in dialogue."
+    },
+    {
+      "quote_id": "q06847",
+      "person_signal": "non_base",
+      "note": "Gnomic speculation about human play, without a diagnostic narrator."
+    },
+    {
+      "quote_id": "q06848",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, sustained external scene narration tracks Mrs. Watanabe and Sadie between speeches."
+    },
+    {
+      "quote_id": "q06849",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person plural generalization, not narrator participation."
+    },
+    {
+      "quote_id": "q06850",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to Sam and Sadie's dialogue."
+    },
+    {
+      "quote_id": "q06851",
+      "person_signal": "third",
+      "note": "The first-person lament is explicitly identified as a male character's thought by an external narrator."
+    },
+    {
+      "quote_id": "q06852",
+      "person_signal": "third",
+      "note": "External narration reports a male character's realization and prior mistaken belief."
+    },
+    {
+      "quote_id": "q06853",
+      "person_signal": "unmarked",
+      "note": "An isolated she and reported motive are insufficient on their own to establish controlling person."
+    },
+    {
+      "quote_id": "q06854",
+      "person_signal": "non_base",
+      "note": "Unframed dialogue or quoted maxim, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q06855",
+      "person_signal": "non_base",
+      "note": "Gnomic we refers universally rather than to a participating narrator."
+    },
+    {
+      "quote_id": "q06856",
+      "person_signal": "non_base",
+      "note": "Generic rhetorical aphorism."
+    },
+    {
+      "quote_id": "q06857",
+      "person_signal": "non_base",
+      "note": "Generic second-person gnomic statement, with a source typo, not sustained story narration."
+    },
+    {
+      "quote_id": "q06858",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in dialogue."
+    },
+    {
+      "quote_id": "q06859",
+      "person_signal": "third",
+      "note": "External narration frames Sadie's thought and knowledge; you is generic within her reflection."
+    },
+    {
+      "quote_id": "q06860",
+      "person_signal": "non_base",
+      "note": "All first- and second-person forms occur in extended character dialogue."
+    },
+    {
+      "quote_id": "q06861",
+      "person_signal": "non_base",
+      "note": "Character speech stated as an aphorism."
+    },
+    {
+      "quote_id": "q06862",
+      "person_signal": "third",
+      "note": "Sustained external narration summarizes Sam's lifelong attitude and experience of pain."
+    },
+    {
+      "quote_id": "q06863",
+      "person_signal": "non_base",
+      "note": "Direct address in character dialogue."
+    },
+    {
+      "quote_id": "q06864",
+      "person_signal": "third",
+      "note": "After Sadie's dialogue, the base narrator comments externally on the vows made by the young characters."
+    },
+    {
+      "quote_id": "q06865",
+      "person_signal": "non_base",
+      "note": "Character dialogue with a speech tag."
+    },
+    {
+      "quote_id": "q06866",
+      "person_signal": "unclear",
+      "note": "Fragment lacks sufficient narrative or speech framing."
+    },
+    {
+      "quote_id": "q06867",
+      "person_signal": "unclear",
+      "note": "Unframed rhetorical question cannot be securely assigned to narration, speech, or thought."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.com/articles/tomorrow-and-tomorrow-and-tomorrow-excerpt/",
+      "title": "Start Reading Tomorrow and Tomorrow and Tomorrow",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained authorized opening narrates Sam externally in third person and reports his interior thoughts."
+    },
+    {
+      "url": "https://www.opb.org/article/2024/04/03/author-gabrielle-zevin-discusses-tomorrow-and-tomorrow-and-tomorrow-at-portland-high-school/",
+      "title": "REBROADCAST: Author Gabrielle Zevin discusses \u2018Tomorrow, and Tomorrow, and Tomorrow\u2019 at Portland high school",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "In a structural discussion of the novel, Zevin explicitly says she designed the named NPC section in second-person 'you' narration; the interview also discusses the novel's otherwise novelistic interior narration."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/audiobook-reviews/gabrielle-zevin/tomorrow-and-tomorrow-and-tomorrow/",
+      "title": "TOMORROW, AND TOMORROW, AND TOMORROW by Gabrielle Zevin",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review identifies a distinct short second-person section from Marx's point of view, separately voiced in the audiobook, within the larger narrative."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-tomorrow-and-tomorrow-and-tomorrow/styles.html",
+      "title": "Gabrielle Zevin Writing Styles in Tomorrow and Tomorrow and Tomorrow",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the novel as predominantly third person and says that narration accesses Sam's, Sadie's, and other characters' private experiences."
+    },
+    {
+      "url": "https://www.tournamentofbooks.com/2023/notes-on-your-sudden-disappearance-v-tomorrow-and-tomorrow-and-tomorrow",
+      "title": "Notes on Your Sudden Disappearance v. Tomorrow, and Tomorrow, and Tomorrow",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The review explicitly describes The NPC as a shift from the novel's close-third narration into a sustained second-person chapter and reproduces its story-specific opening."
+    }
+  ],
+  "search_log": [
+    "Searched \"Tomorrow and Tomorrow and Tomorrow Gabrielle Zevin point of view third person second person chapters\"; found explicit predominantly-third descriptions and references to the Marx section.",
+    "Searched \"Tomorrow and Tomorrow and Tomorrow Gabrielle Zevin excerpt publisher\" and opened the Penguin Random House authorized excerpt; it establishes third-person opening narration.",
+    "Searched \"Tomorrow and Tomorrow and Tomorrow novel narration second person section Pioneers\"; results distinguished formal game-related sections but Pioneers material did not independently establish a different narrative person.",
+    "Searched \"The NPC\" \"second person\" \"Tomorrow, and Tomorrow, and Tomorrow\" and \"Tomorrow, and Tomorrow, and Tomorrow\" \"second-person\" Marx NPC; found the author interview and multiple structural reviews confirming the named second-person section.",
+    "Searched site:edu and author-interview variants for scholarly or primary structural evidence; no useful scholarly analysis surfaced, but the OPB transcript supplied the author's direct explanation.",
+    "Opened source pages before use. Publisher catalog copy, general synopses, inaccessible PDF previews, search snippets, Reddit comments, and Goodreads user discussion were treated as discovery material rather than evidence."
+  ],
+  "person_note": "The novel's sustained base narration is close/omniscient third person, independently shown by numerous quote passages and the authorized publisher excerpt. A named NPC section briefly shifts to story-specific second person centered on Marx, but this comparatively short formal exception is not a co-controlling base strand under the clarified aggregation rule. First-person forms elsewhere are dialogue, direct thought, or gnomic language. The book-level base label is therefore THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_081",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:11:20.533098+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fdfd456e11223e3892bd3dcbcc27d8f67e8d473bd4a0bba90ea3294ebe106a8f"
+  }
+}

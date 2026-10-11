@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1937:6761",
+  "quotes": [
+    {
+      "quote_id": "q00005",
+      "person_signal": "third",
+      "note": "Third-person narration frames and describes her private thought; the visible \u201cwe\u201d belongs to that thought."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "third",
+      "note": "The opening \u201cI\u201d is a character\u2019s direct thought, followed by sustained third-person narration of her mental state."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "non_base",
+      "note": "An unframed philosophical question using generic \u201cwe\u201d; it does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "non_base",
+      "note": "Character thought with only brief attribution; its pronouns do not independently identify the base narration."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "third",
+      "note": "Sustained third-person narration frames her reflections and perceptions; \u201cme\u201d and \u201cI\u201d occur inside her thought."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "An isolated first-person character thought with no diagnostic narratorial context."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "third",
+      "note": "Third-person psychonarration renders what returns to her mind without a participating narrator."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "third",
+      "note": "Third-person narration describes her bodily perception before shifting into her direct thought."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "non_base",
+      "note": "Direct speech with a short third-person speech beat, insufficient by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "non_base",
+      "note": "An unframed rhetorical utterance using \u201cwe,\u201d not diagnostic base narration."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "third",
+      "note": "Extended third-person scene narration surrounds Eleanor\u2019s explicitly tagged first-person thoughts."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "A character\u2019s thought with a brief action tag; the local voice is not the controlling narrator."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "third",
+      "note": "Sustained third-person scene narration reports his perceptions, wishes, and the surrounding conversation."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "third",
+      "note": "External third-person narration frames his private speculation; \u201cwe deduce\u201d is explicitly what he says to himself while imagining a novel."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "third",
+      "note": "Third-person narration reports her perception and mental repetition across several clauses."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "non_base",
+      "note": "A character\u2019s generalizing thought with only a minimal attribution tag."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "third",
+      "note": "Third-person narration frames the journey and the character\u2019s explicitly tagged first-person questions."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "unmarked",
+      "note": "Impersonal weather description contains no participating narrator or character reference diagnostic of person."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "third",
+      "note": "Extended third-person scene narration moves through his perceptions and thoughts; \u201cwe\u201d is confined to his thought."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "Remembered dialogue; both instances of \u201cyou\u201d belong to quoted speech."
+    },
+    {
+      "quote_id": "q00025",
+      "person_signal": "third",
+      "note": "Sustained external narration describes several characters\u2019 actions and closes with narratorial summary."
+    },
+    {
+      "quote_id": "q00026",
+      "person_signal": "non_base",
+      "note": "The first-person statement is explicitly a character\u2019s thought, not narratorial self-reference."
+    },
+    {
+      "quote_id": "q00027",
+      "person_signal": "third",
+      "note": "A tagged first-person thought returns to third-person narration describing her present activity."
+    },
+    {
+      "quote_id": "q00028",
+      "person_signal": "non_base",
+      "note": "A character\u2019s extended interior reflection; its first-person forms are local thought rather than base narration."
+    },
+    {
+      "quote_id": "q00029",
+      "person_signal": "non_base",
+      "note": "Direct dialogue with a brief speech beat; story-specific \u201cyou\u201d is addressed by Peggy, not used by the narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.pala.ac.uk/uploads/2/5/1/0/25105678/nasu2010.pdf",
+      "title": "Can We Appreciate her \u2018Moments of Being\u2019? \u2014 A Stylistic Analysis of Woolf\u2019s Short Fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Scholarly stylistic analysis explicitly states that The Years is narrated by a third-person narrator, contrasting it with the first-person method of The Waves."
+    },
+    {
+      "url": "https://openlibrary.org/works/OL39575W/The_years?edition=yearswoolrich",
+      "title": "The years. by Virginia Woolf | Open Library",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The library work description explicitly says the novel is written in the third person and that its narrative voice roves among different characters\u2019 viewpoints."
+    },
+    {
+      "url": "https://www.virginiawoolfproject.com/the-years-by-virginia-woolf-1937/",
+      "title": "The Years by Virginia Woolf \u2014 1937 \u2014 Virginia Woolf Project",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The complete online text shows third-person scene narration across the opening, interior years, and final section; first-person wording is consistently attributable to dialogue or tagged interior thought."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cVirginia Woolf The Years novel excerpt publisher\u201d; Google Books and publisher records yielded only snippets or catalog copy, not a usable publisher-hosted extract.",
+    "Searched \u201cVirginia Woolf The Years narrative point of view third person scholarly\u201d and variants involving narrator and free indirect discourse; opened the PALA scholarly PDF and Open Library description.",
+    "Searched for the full text through Internet Archive and Open Library; the library edition was preview-only, while the Virginia Woolf Project supplied a readable complete text that was sampled in the opening, middle, and final section.",
+    "Ran targeted site:.edu and site:.ac.uk searches for The Years with \u201cthird person\u201d and \u201cnarrator\u201d; UCL and Westminster dissertation PDFs timed out or provided only search snippets, so they were not used as evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person, moving among the Pargiter characters through external narration, psychonarration, and free-indirect discourse. Numerous first-person forms in the quotes are explicitly tagged character thoughts, remembered speech, or direct dialogue, and the apparent narratorial \u201cwe\u201d in q00018 is itself a character\u2019s imagined novelist voice. Quote evidence agrees independently with scholarly whole-book analysis, the Open Library structural description, and prose sampled across the complete online text. No sustained first- or second-person base section was found; the only residual limitation is that the complete web transcription is not publisher-hosted.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_002",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T19:17:37.131962+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "af8b940359817f81ab03674b7f4ae61877a7604691e15370f5b6ba4ba7b5d650"
+  }
+}

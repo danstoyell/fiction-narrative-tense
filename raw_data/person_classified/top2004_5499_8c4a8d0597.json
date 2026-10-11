@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:5499",
+  "quotes": [
+    {
+      "quote_id": "q01051",
+      "person_signal": "non_base",
+      "note": "Gnomic use of generic your/you does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q01052",
+      "person_signal": "non_base",
+      "note": "This isolated first-person singular character remark is not the collective base narration."
+    },
+    {
+      "quote_id": "q01053",
+      "person_signal": "unmarked",
+      "note": "Narratorial commentary about Allegra and Austen contains no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01054",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in dialogue; the brief Bernadette speech beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q01055",
+      "person_signal": "unmarked",
+      "note": "Commentary about Austen and marriage does not expose the narrator's person."
+    },
+    {
+      "quote_id": "q01056",
+      "person_signal": "non_base",
+      "note": "Direct speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01057",
+      "person_signal": "first",
+      "note": "The closing we refers to the participating book-club chorus and diagnostically exposes first-person plural narration."
+    },
+    {
+      "quote_id": "q01058",
+      "person_signal": "non_base",
+      "note": "Bernadette's first-person account of her marriages is character speech, not an autonomous base-narration section."
+    },
+    {
+      "quote_id": "q01059",
+      "person_signal": "non_base",
+      "note": "Aphoristic character speech using we and people is not base-narrator evidence."
+    },
+    {
+      "quote_id": "q01060",
+      "person_signal": "unmarked",
+      "note": "Generic/free-indirect you about school experience is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01061",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the third-person speech beats and collective evaluative asides do not explicitly identify narrator person."
+    },
+    {
+      "quote_id": "q01062",
+      "person_signal": "unmarked",
+      "note": "Hypothetical commentary about a character and author contains no diagnostic narrator pronoun."
+    },
+    {
+      "quote_id": "q01063",
+      "person_signal": "non_base",
+      "note": "This continues Bernadette's first-person spoken account of her marriages rather than base narration."
+    },
+    {
+      "quote_id": "q01064",
+      "person_signal": "non_base",
+      "note": "The singular-I childhood memory is a local character account, not the novel's collective narrator."
+    },
+    {
+      "quote_id": "q01065",
+      "person_signal": "third",
+      "note": "A sustained scene narrates Jocelyn externally while rendering her perceptions and judgments, exposing a third-person section."
+    },
+    {
+      "quote_id": "q01066",
+      "person_signal": "non_base",
+      "note": "Gnomic speculation does not identify narrative person."
+    },
+    {
+      "quote_id": "q01067",
+      "person_signal": "third",
+      "note": "Sustained narration follows Prudie externally and renders her private perceptions in third person."
+    },
+    {
+      "quote_id": "q01068",
+      "person_signal": "non_base",
+      "note": "General aphorism about integrity is nondiagnostic."
+    },
+    {
+      "quote_id": "q01069",
+      "person_signal": "unmarked",
+      "note": "Unattributed rhetorical questions contain no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01070",
+      "person_signal": "non_base",
+      "note": "The extended singular-I ant anecdote is a character's embedded recollection, not base narration."
+    },
+    {
+      "quote_id": "q01071",
+      "person_signal": "non_base",
+      "note": "Gnomic statement is nondiagnostic."
+    },
+    {
+      "quote_id": "q01072",
+      "person_signal": "non_base",
+      "note": "Generic you in an aphorism about reading is not second-person story narration."
+    },
+    {
+      "quote_id": "q01073",
+      "person_signal": "third",
+      "note": "The sustained montage externally attributes perceptions and private first impressions to all six characters in third person."
+    },
+    {
+      "quote_id": "q01074",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur wholly in direct speech."
+    },
+    {
+      "quote_id": "q01075",
+      "person_signal": "third",
+      "note": "External narration identifies Sylvia and reports her private mental note in third person."
+    },
+    {
+      "quote_id": "q01076",
+      "person_signal": "non_base",
+      "note": "The we and you occur in direct speech, not narration."
+    },
+    {
+      "quote_id": "q01077",
+      "person_signal": "third",
+      "note": "Sustained free-indirect questions remain centered on a protagonist designated as she, exposing third-person focalized narration."
+    },
+    {
+      "quote_id": "q01078",
+      "person_signal": "third",
+      "note": "External narration names Jocelyn and reports her private inability to think before her dialogue."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1422/page_number/1/the-jane-austen-book-club",
+      "title": "The Jane Austen Book Club Excerpt: Read free excerpt of The Jane Austen Book Club by Karen Joy Fowler",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "Publisher-authorized six-page Chapter One excerpt begins with an extended book-club scene narrated as we, then after a section break gives several pages of sustained third-person Jocelyn backstory."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-jane-austen-book-club/excerpt",
+      "title": "The Jane Austen Book Club by Karen Joy Fowler | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Putnam-authorized prologue repeatedly uses us, our, and we for the participating collective voice; its opening-only scope cannot establish the third-person sections."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9781593160272",
+      "title": "THE JANE AUSTEN BOOK CLUB by Karen Joy Fowler",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The audiobook review explicitly distinguishes chapters told from the we perspective from third-person sections and notes numerous point-of-view shifts."
+    },
+    {
+      "url": "https://ueaeprints.uea.ac.uk/64175/1/2016BrossMPhD.pdf",
+      "title": "The Role of Bestsellers in Women's Self-Fashioning",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Scholarly structural analysis states that most chapters use third-person narration focused on individual characters while recurrent we/us passages create an unidentified participating group voice."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2004/oct/30/fiction.janeausten",
+      "title": "An altogether bad idea",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The review explains that every book-club gathering is narrated with we while the meetings are interleaved with third-person private histories inaccessible to that collective voice."
+    },
+    {
+      "url": "https://www.sfgate.com/books/article/a-sextet-with-one-voice-makes-a-book-club-that-2764051.php",
+      "title": "A sextet with one voice makes a book club that book clubs will love",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review broadly describes the novel as first-person plural and identifies its ambiguous voice as the club or someone within it; this captures the recurrent chorus but does not separately classify the extended backstory sections."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with excerpt, first chapter, narrator, point of view, first person plural, third person, and narrative structure terms.",
+    "Opened BookBrowse's publisher-permission Chapter One excerpt and followed all six excerpt pages; the text contains both a recurrent we scene and a sustained third-person Jocelyn section.",
+    "Opened the authorized Bookreporter prologue excerpt, which confirms the participating first-person plural chorus at the opening.",
+    "Opened the Publishers Weekly audiobook review, the Guardian review, the SFGate review, and the University of East Anglia thesis; the first three provide explicit critical descriptions and the thesis provides whole-book scholarly structural analysis.",
+    "Checked the Penguin Random House title page, but its accessible text supplied description and sample controls rather than usable narration, so it was not cited as person evidence.",
+    "Found Karen Joy Fowler's Strange Horizons essay about her first-person plural narrator, but the page timed out when opened; following the open-source requirement, it was not used as evidence.",
+    "Ran targeted searches for the isolated singular-I quotations; results largely reproduced Goodreads quotations without reliable surrounding text, while the authorized excerpt and whole-book structural sources established that singular-I anecdotes are local character material rather than the collective base voice."
+  ],
+  "person_note": "The novel has sustained base sections in two persons: a participating, unidentified first-person plural chorus narrates the recurring book-club gatherings, while section-separated backstories and private scenes use third-person focalization. Quote q01057 directly exposes the collective we, and q01065, q01067, q01073, q01075, q01077, and q01078 expose third-person scenes. The singular-I quotations are character remarks or embedded autobiographical anecdotes, especially Bernadette's marriage account, and therefore do not add another autonomous base strand. The authorized Chapter One excerpt independently displays both modes, while Publishers Weekly, the Guardian, and the scholarly thesis confirm that this pattern extends across the book. Reviews calling the novel simply first-person plural are best read as shorthand for its distinctive chorus, not as evidence that the sustained third-person sections are absent. The identity of the we voice remains deliberately ambiguous, but that uncertainty does not affect the ALTERNATING classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_041",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T22:04:07.886424+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c0b139e76a839585c12ea830aff1703f18239dbf6276650263a90fdd34dabca2"
+  }
+}

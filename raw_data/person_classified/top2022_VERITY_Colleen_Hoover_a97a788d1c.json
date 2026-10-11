@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:VERITY|Colleen Hoover",
+  "quotes": [
+    {
+      "quote_id": "q07254",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d identifies a participating first-person voice."
+    },
+    {
+      "quote_id": "q07255",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic base narration."
+    },
+    {
+      "quote_id": "q07256",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative does not identify the narrator."
+    },
+    {
+      "quote_id": "q07257",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d recounts the speaker\u2019s own character and relationship."
+    },
+    {
+      "quote_id": "q07258",
+      "person_signal": "non_base",
+      "note": "Direct speech; its pronouns do not establish base narration."
+    },
+    {
+      "quote_id": "q07259",
+      "person_signal": "non_base",
+      "note": "Universal gnomic address rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q07260",
+      "person_signal": "non_base",
+      "note": "Direct speech about writing, not base narration."
+    },
+    {
+      "quote_id": "q07261",
+      "person_signal": "unmarked",
+      "note": "A statement about Verity does not expose whether its narrator is first or third person."
+    },
+    {
+      "quote_id": "q07262",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q07263",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; \u201cus\u201d is rhetorical rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q07264",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d identifies the speaker as a participating writer."
+    },
+    {
+      "quote_id": "q07265",
+      "person_signal": "non_base",
+      "note": "Direct speech does not identify base narration."
+    },
+    {
+      "quote_id": "q07266",
+      "person_signal": "non_base",
+      "note": "Direct speech with generic reference to people."
+    },
+    {
+      "quote_id": "q07267",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d recounts the participating narrator\u2019s past."
+    },
+    {
+      "quote_id": "q07268",
+      "person_signal": "non_base",
+      "note": "Direct speech and generalization are nondiagnostic."
+    },
+    {
+      "quote_id": "q07269",
+      "person_signal": "non_base",
+      "note": "Quoted first-person material is local speech or embedded material, not demonstrated base narration."
+    },
+    {
+      "quote_id": "q07270",
+      "person_signal": "unmarked",
+      "note": "The event description contains no reference exposing the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q07271",
+      "person_signal": "non_base",
+      "note": "Direct speech about autobiography is not base narration."
+    },
+    {
+      "quote_id": "q07272",
+      "person_signal": "non_base",
+      "note": "Extended direct speech uses generic \u201cyou,\u201d not sustained second-person narration."
+    },
+    {
+      "quote_id": "q07273",
+      "person_signal": "non_base",
+      "note": "Direct speech contains a local first-person attribution only."
+    },
+    {
+      "quote_id": "q07274",
+      "person_signal": "non_base",
+      "note": "Direct address within speech is nondiagnostic."
+    },
+    {
+      "quote_id": "q07275",
+      "person_signal": "non_base",
+      "note": "The supplied quotation is direct speech, so its first-person language is local."
+    },
+    {
+      "quote_id": "q07276",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about writers does not identify base narration."
+    },
+    {
+      "quote_id": "q07277",
+      "person_signal": "non_base",
+      "note": "First-person direct speech is not evidence of the controlling narrator."
+    },
+    {
+      "quote_id": "q07278",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d recounts the participant\u2019s embodied and emotional experience."
+    },
+    {
+      "quote_id": "q07279",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech is local rather than base narration."
+    },
+    {
+      "quote_id": "q07280",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech is nondiagnostic."
+    },
+    {
+      "quote_id": "q07281",
+      "person_signal": "non_base",
+      "note": "Direct speech, including its nested quotation, does not identify base narration."
+    },
+    {
+      "quote_id": "q07282",
+      "person_signal": "non_base",
+      "note": "First-person direct speech about Verity is local."
+    },
+    {
+      "quote_id": "q07283",
+      "person_signal": "non_base",
+      "note": "Quoted first-person material is not demonstrated controlling narration."
+    },
+    {
+      "quote_id": "q07284",
+      "person_signal": "non_base",
+      "note": "Direct speech and its generalized definition of love are nondiagnostic."
+    },
+    {
+      "quote_id": "q07285",
+      "person_signal": "non_base",
+      "note": "First-person direct speech is local."
+    },
+    {
+      "quote_id": "q07286",
+      "person_signal": "first",
+      "note": "Although \u201cyou\u201d is generic, narratorial \u201cme\u201d identifies a participating first-person narrator."
+    },
+    {
+      "quote_id": "q07287",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes the participant\u2019s decision to keep reading."
+    },
+    {
+      "quote_id": "q07288",
+      "person_signal": "non_base",
+      "note": "Direct speech makes a generic claim about people."
+    },
+    {
+      "quote_id": "q07289",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d and \u201cme\u201d place the narrator inside the opening event."
+    },
+    {
+      "quote_id": "q07290",
+      "person_signal": "non_base",
+      "note": "Quoted first-person material is local speech or embedded writing."
+    },
+    {
+      "quote_id": "q07291",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Jeremy does not establish base narration."
+    },
+    {
+      "quote_id": "q07292",
+      "person_signal": "non_base",
+      "note": "Gnomic imperative is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q07293",
+      "person_signal": "non_base",
+      "note": "Quoted first-person recollection is local or embedded rather than demonstrated base narration."
+    },
+    {
+      "quote_id": "q07294",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d and \u201cme\u201d identify the participating narrator."
+    },
+    {
+      "quote_id": "q07295",
+      "person_signal": "unclear",
+      "note": "Clipping and lost boundaries leave the warning unresolved as narration, speech, or paratext."
+    },
+    {
+      "quote_id": "q07296",
+      "person_signal": "non_base",
+      "note": "Quoted first-person material is local speech or embedded writing."
+    },
+    {
+      "quote_id": "q07297",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the exterior beat \u201cI shake my head\u201d exposes first-person base narration."
+    },
+    {
+      "quote_id": "q07298",
+      "person_signal": "non_base",
+      "note": "Direct speech and its nested quotation do not identify base narration."
+    },
+    {
+      "quote_id": "q07299",
+      "person_signal": "unmarked",
+      "note": "The assertion contains no narratorial pronoun or framing that identifies person."
+    },
+    {
+      "quote_id": "q07300",
+      "person_signal": "non_base",
+      "note": "Direct speech discussing Verity\u2019s fictional point of view is not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q07301",
+      "person_signal": "first",
+      "note": "The exterior action \u201cI scroll\u201d identifies a participating first-person narrator despite the clipped opening."
+    },
+    {
+      "quote_id": "q07302",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d reports the participant\u2019s developing judgment of Verity."
+    },
+    {
+      "quote_id": "q07303",
+      "person_signal": "first",
+      "note": "The exterior action beat \u201cI spin and look at him\u201d exposes first-person base narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.researchgate.net/publication/392508633_Authorial_economics_in_fiction_A_study_of_authors_in_Colleen_Hoover%27s_Verity_2018",
+      "title": "Authorial economics in fiction: A study of authors in Colleen Hoover's Verity (2018)",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Scholarly textual analysis explicitly identifies Lowen\u2019s first-person narration and Verity\u2019s first-person narration in the embedded fictionalized autobiography."
+    },
+    {
+      "url": "https://www.supersummary.com/verity/summary/",
+      "title": "Verity Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The overview explicitly says the novel transitions between Verity\u2019s and Lowen\u2019s first-person points of view."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-verity/styles.html",
+      "title": "Colleen Hoover Writing Styles in Verity",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis states that the novel has two narrators, with Lowen narrating in first person and Verity\u2019s narration contained in her memoir and letter."
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/wp-content/uploads/2022/09/Verity-RGG.pdf",
+      "title": "Verity Reading Group Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher\u2019s guide corroborates the structural distinction between Lowen\u2019s experience and Verity\u2019s embedded autobiography, but it does not independently state the grammatical person."
+    },
+    {
+      "url": "https://www.colleenhoover.com/products/verity",
+      "title": "Verity",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author\u2019s official synopsis verifies the work, Lowen\u2019s role, and the embedded unfinished autobiography, but does not explicitly describe narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cVerity Colleen Hoover official excerpt first chapter Lowen I\u201d and opened the author\u2019s official book page; it supplied structural synopsis but no sustained excerpt.",
+    "Searched \u201cVerity Colleen Hoover point of view first person alternating manuscript narrator\u201d and opened BookRags and SuperSummary analyses explicitly describing the first-person narrators.",
+    "Searched publisher domains for an authorized excerpt, including Grand Central and Hachette; no sustained official prose excerpt was located, but the Hachette reading-group guide corroborated the autobiography-within-the-novel structure.",
+    "Searched \u201cVerity 2022 collector's edition bonus chapter point of view Jeremy narration\u201d; results described an edition-specific added chapter but produced no credible evidence of a change away from Lowen\u2019s first-person narration.",
+    "Searched \u201cVerity Colleen Hoover narrative perspective Lowen first-person academic\u201d and opened a scholarly article explicitly analyzing Lowen\u2019s and Verity\u2019s first-person narrations."
+  ],
+  "person_note": "The controlling narrative is Lowen\u2019s participating first-person account, repeatedly exposed by event narration and exterior dialogue beats using \u201cI\u201d and \u201cme.\u201d The novel also contains substantial passages from Verity\u2019s memoir and letter, but research establishes that these embedded texts are likewise first person. Multiple narrators in the same grammatical person remain FIRST rather than ALTERNATING under the methodology. Dialogue, aphorisms, and generic \u201cyou\u201d statements were not treated as narrator evidence. The quote snippets do not always reveal whether a first-person passage belongs to Lowen or Verity, but the whole-book structural sources resolve that uncertainty, and no credible third- or second-person narrative strand was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_081",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:11:20.534079+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "684ccac84cd1f3385d3f644fac754b73d4a84e4e74fe484f9ff43ead6284b247"
+  }
+}

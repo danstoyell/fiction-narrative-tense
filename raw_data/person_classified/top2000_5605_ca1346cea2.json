@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2000:5605",
+  "quotes": [
+    {
+      "quote_id": "q00516",
+      "person_signal": "non_base",
+      "note": "Universal gnomic statement; inclusive \u201cwe\u201d does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q00517",
+      "person_signal": "first",
+      "note": "Scarpetta narrates her own changing emotions with \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00518",
+      "person_signal": "first",
+      "note": "The narration identifies Anna\u2019s action and refers to the participating narrator as \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q00519",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about truth contains no diagnostic base-narrator reference."
+    },
+    {
+      "quote_id": "q00520",
+      "person_signal": "non_base",
+      "note": "Gnomic moral statement rather than person-marked story narration."
+    },
+    {
+      "quote_id": "q00521",
+      "person_signal": "non_base",
+      "note": "The \u201cyou\u201d is generic advice, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00522",
+      "person_signal": "first",
+      "note": "The participating narrator directly reports her feeling with \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00523",
+      "person_signal": "first",
+      "note": "Although clipped at the beginning, the narratorial \u201cme\u201d identifies a participating observer."
+    },
+    {
+      "quote_id": "q00524",
+      "person_signal": "unmarked",
+      "note": "Possible narration or remembered thought, but no grammatical feature identifies the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q00525",
+      "person_signal": "first",
+      "note": "The narrator describes \u201cmy deepest psyche\u201d and an action she resists with \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00526",
+      "person_signal": "first",
+      "note": "Scarpetta frames the generalization about killers with the narratorial \u201cI realize.\u201d"
+    },
+    {
+      "quote_id": "q00527",
+      "person_signal": "unmarked",
+      "note": "Impersonal \u201cone\u201d and broadly collective \u201cus\u201d do not establish participation in the narrated story."
+    },
+    {
+      "quote_id": "q00528",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about people, with no diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q00529",
+      "person_signal": "unmarked",
+      "note": "Brief description of Arnold by name does not distinguish first-person narration from third-person narration."
+    },
+    {
+      "quote_id": "q00530",
+      "person_signal": "first",
+      "note": "The participating narrator reports her own craving and others\u2019 demands using \u201cI\u201d and \u201cme.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/645/the-last-precinct",
+      "title": "Excerpt from The Last Precinct by Patricia Cornwell",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "An eleven-page Chapter 1 excerpt, explicitly reprinted with G. P. Putnam\u2019s Sons\u2019 permission, sustains Kay Scarpetta\u2019s participating narration through \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d"
+    },
+    {
+      "url": "https://osuva.uwasa.fi/bitstreams/597a02d9-97b9-4af2-ad83-12ae9dc6a50b/download",
+      "title": "Tag Questions in Patricia Cornwell\u2019s Novels Black Notice and The Last Precinct",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A University of Vaasa thesis based on both complete novels explicitly states that they are told in first person from Virginia Chief Medical Examiner Kay Scarpetta\u2019s point of view."
+    },
+    {
+      "url": "https://eprints.lancs.ac.uk/id/eprint/808/1/Body_Language.pdf",
+      "title": "Body Language: Corporeal Semiotics, Literary Resistance",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly analysis discusses first-person narration as intensifying Scarpetta\u2019s inner struggles and expressly includes The Last Precinct among the Cornwell novels under discussion."
+    },
+    {
+      "url": "https://itsacrimeuk.wordpress.com/2005/11/16/patricia_cornwe_1/",
+      "title": "Patricia Cornwell speaks about Predator and answers her critics in London, UK",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A report of Cornwell\u2019s public remarks says that through completion of The Last Precinct she had written the Scarpetta books in first person, restricting experience to scenes where Scarpetta was present, and changed person afterward."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2006/10/11/cornwell-abandons-forensics-and-scarpetta-in/",
+      "title": "Cornwell Abandons Forensics and Scarpetta in \u2018At Risk\u2019",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Harvard Crimson identifies Blow Fly, the novel following The Last Precinct, as the point where Cornwell abandoned Scarpetta\u2019s first-person narration for multiple viewpoints."
+    },
+    {
+      "url": "https://www.latimes.com/archives/la-xpm-2008-dec-09-et-patricia-cornwell8-story.html",
+      "title": "Queen of forensic fiction",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "This retrospective alone says multiple, more omniscient perspectives began with The Last Precinct. Its claim conflicts with the authorized prose, book-specific scholarship, and sources that place the change at Blow Fly."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Last Precinct Patricia Cornwell excerpt first chapter\u201d; opened BookBrowse\u2019s eleven-page, publisher-permitted Chapter 1 excerpt and the publisher pages from Penguin Random House and Hachette.",
+    "Searched \u201cThe Last Precinct first person Patricia Cornwell\u201d and \u201cThe Last Precinct narrator point of view Kay Scarpetta\u201d; found and opened University of Vaasa and Lancaster University scholarship identifying first-person narration.",
+    "Searched \u201cThe Last Precinct third person multiple perspectives review\u201d and related narrative-change queries to investigate contrary evidence; opened the Los Angeles Times claim and sources placing the third-person/multiple-viewpoint change at Blow Fly.",
+    "The Penguin Random House and Hachette title pages verified the work and protagonist but did not explicitly establish narrative person; synopsis grammar was not used as person evidence.",
+    "Searches for epistolary, diary, frame-narrative, and alternating-POV structure produced no evidence that The Last Precinct contains sustained base sections in another person."
+  ],
+  "person_note": "The Goodreads passages repeatedly expose Kay Scarpetta as the participating \u201cI\u201d narrator, and the authorized opening independently sustains that voice. Two scholarly sources describe the book as first-person, while a report of Cornwell\u2019s own remarks and a separate review locate her move to third-person multiple viewpoints in the following novel, Blow Fly. The lone Los Angeles Times statement that the shift began with The Last Precinct is inconsistent with the displayed prose and book-specific scholarship and appears to conflate this novel\u2019s shift to present tense with the later shift in person. Gnomic uses of \u201cwe\u201d or \u201cyou,\u201d and brief references to other characters, are local nondiagnostic material rather than alternate narration. The controlling narration is therefore first-person Scarpetta narration; no meaningful structural uncertainty remains.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_034",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T05:38:30.957553+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "acba24a10766933469d506293b1a9886c126cd3a6d1728fbc2b075d9216e3526"
+  }
+}

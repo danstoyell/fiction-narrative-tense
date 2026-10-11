@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1942:450",
+  "quotes": [
+    {
+      "quote_id": "q00193",
+      "person_signal": "first",
+      "note": "Emily's retrospective base narration uses \u201cI\u201d for her own response to the new year."
+    },
+    {
+      "quote_id": "q00194",
+      "person_signal": "non_base",
+      "note": "A gnomic reflection on love; \u201cI think\u201d and inclusive \u201cwe\u201d do not independently identify the story narrator."
+    },
+    {
+      "quote_id": "q00195",
+      "person_signal": "non_base",
+      "note": "The \u201cyou\u201d and \u201cwe\u201d are generic within a gnomic observation, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q00196",
+      "person_signal": "first",
+      "note": "The narrator recounts her own story-specific realization using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00197",
+      "person_signal": "non_base",
+      "note": "A general aphorism about hope without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q00198",
+      "person_signal": "first",
+      "note": "The participating narrator describes the miracle in her own life and her resistance to it."
+    },
+    {
+      "quote_id": "q00199",
+      "person_signal": "non_base",
+      "note": "A generalized aphorism whose inclusive \u201cwe\u201d is not diagnostic of narrative person."
+    },
+    {
+      "quote_id": "q00200",
+      "person_signal": "non_base",
+      "note": "A generalized aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00201",
+      "person_signal": "first",
+      "note": "The narrator directly recounts her own action and its effect on the surrounding group."
+    },
+    {
+      "quote_id": "q00202",
+      "person_signal": "first",
+      "note": "Emily narrates her own thought and subsequent autobiographical reflection using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00203",
+      "person_signal": "first",
+      "note": "The general reflection is anchored to a specific experience that \u201chappened to me then,\u201d exposing participating narration."
+    },
+    {
+      "quote_id": "q00204",
+      "person_signal": "first",
+      "note": "The narrator recounts her own remembered parting, feelings, and responsibility in sustained first person."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://gutenberg.net.au/ebooks07/0700261.txt",
+      "title": "And Now Tomorrow \u2014 Project Gutenberg Australia full text",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The complete 34-chapter library text consistently presents Emily Blair's retrospective account as \u201cI,\u201d including Chapters 1, 10, 20, 23, and 34 and the final paragraphs; no sustained change of base person appears."
+    },
+    {
+      "url": "https://www.legimi.de/e-book-and-now-tomorrow-rachel-field,b2925240.html",
+      "title": "And Now Tomorrow E-Book",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The authorized ebook retailer's extended sample opens with Emily writing an autobiographical account and continues in first person through the sampled early chapters."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/a/rachel-field-5/and-now-tomorrow/",
+      "title": "AND NOW TOMORROW by Rachel Field",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The contemporary Kirkus review explicitly describes Emily as the character who tells her own story."
+    },
+    {
+      "url": "https://isuu00001library102stg.blob.core.windows.net/digital-objects/kitchenklatter/pdf/kitchenklatter16392.pdf",
+      "title": "Kitchen-Klatter Magazine, July 1942 \u2014 Shall We Read: And Now Tomorrow",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The contemporary review states that Emily tells the story herself and reproduces first-person material spanning her childhood, illness, treatment, romantic crisis, and concluding decision."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cAnd Now Tomorrow\u201d \u201cRachel Field\u201d with excerpt, first chapter, full text, narrator, point of view, and first-person terms.",
+    "Opened the Legimi ebook sample and verified first-person autobiographical narration across the opening chapters.",
+    "Opened the Project Gutenberg Australia plain-text edition and checked the opening, Chapters 10, 20, 23, and 34, and the ending for continued first-person narration.",
+    "Searched specifically for \u201cEmily Blair\u201d with narrator, \u201ctells her own story,\u201d \u201cEmily's first-person,\u201d and \u201cfirst-person POV\u201d; Kirkus and a 1942 Kitchen-Klatter review independently described Emily as telling the story herself.",
+    "Film pages and adaptation synopses were inspected as discovery results but were not used because their third-person plot-summary grammar does not establish the novel's narrative person.",
+    "No credible source indicated alternating, second-person, or third-person base narration."
+  ],
+  "person_note": "The base narrator is protagonist Emily Blair, who retrospectively writes her own life story in first person. The diagnostic Goodreads passages repeatedly expose Emily's participating \u201cI,\u201d while the gnomic quotations use generic \u201cwe\u201d or \u201cyou\u201d and were not treated as person evidence. A complete library text confirms the same narrator from the opening through multiple interior chapters and the ending, and independent contemporary reviews explicitly say that Emily tells the story herself. No sustained section in another person was found; the only minor limitation is that several supplied quotes are aphoristic rather than narratively diagnostic.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_004",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T22:51:24.303548+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "44febfd83a3349e35345571cb243ccecaa75bfa6fc2a1c516d67b5021f7c0ede"
+  }
+}

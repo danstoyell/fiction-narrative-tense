@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1971:6709",
+  "quotes": [
+    {
+      "quote_id": "q01750",
+      "person_signal": "non_base",
+      "note": "Gnomic epigraph-like statement; it does not expose the story narrator."
+    },
+    {
+      "quote_id": "q01751",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using universal \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01752",
+      "person_signal": "unmarked",
+      "note": "A single external reference to \u201che\u201d is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q01753",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01754",
+      "person_signal": "non_base",
+      "note": "Typographically marked paratextual maxim rather than narrative."
+    },
+    {
+      "quote_id": "q01755",
+      "person_signal": "third",
+      "note": "Sustained panoramic narration surveys time, the globe, and humanity from a nonparticipating external position."
+    },
+    {
+      "quote_id": "q01756",
+      "person_signal": "non_base",
+      "note": "Extended direct speech; the visible pronouns belong to a character."
+    },
+    {
+      "quote_id": "q01757",
+      "person_signal": "non_base",
+      "note": "Direct speech, not narratorial evidence."
+    },
+    {
+      "quote_id": "q01758",
+      "person_signal": "unclear",
+      "note": "Severely clipped fragment with lost boundaries and unresolved speaker or narrator."
+    },
+    {
+      "quote_id": "q01759",
+      "person_signal": "unmarked",
+      "note": "This is from a recurring World Empire Lost chapter, but the excerpt itself lacks the section narrator\u2019s diagnostic I/we."
+    },
+    {
+      "quote_id": "q01760",
+      "person_signal": "non_base",
+      "note": "Direct speech, not base narration."
+    },
+    {
+      "quote_id": "q01761",
+      "person_signal": "unclear",
+      "note": "The quotation begins mid-sentence and combines a clipped narrative fragment with speech, preventing secure attribution."
+    },
+    {
+      "quote_id": "q01762",
+      "person_signal": "third",
+      "note": "Outside the dialogue, sustained scene narration describes Natalie, Briny, the ward, and its patients externally."
+    },
+    {
+      "quote_id": "q01763",
+      "person_signal": "unmarked",
+      "note": "Brief focalization through \u201che thought\u201d is suggestive but does not by itself rule out an offstage participating narrator."
+    },
+    {
+      "quote_id": "q01764",
+      "person_signal": "non_base",
+      "note": "Direct first-person speech by a character."
+    },
+    {
+      "quote_id": "q01765",
+      "person_signal": "unmarked",
+      "note": "The passage belongs to a recurring World Empire Lost section, but its visible sentences do not expose that section\u2019s first-person narrator."
+    },
+    {
+      "quote_id": "q01766",
+      "person_signal": "third",
+      "note": "Third-person focalization and free-indirect questioning present a character\u2019s reflection without a participating narrator."
+    },
+    {
+      "quote_id": "q01767",
+      "person_signal": "non_base",
+      "note": "Explicitly signed translator\u2019s note by V.H.; this local paratextual voice does not identify the family-story narrator."
+    },
+    {
+      "quote_id": "q01768",
+      "person_signal": "non_base",
+      "note": "Character speech reporting another person\u2019s argument."
+    },
+    {
+      "quote_id": "q01769",
+      "person_signal": "non_base",
+      "note": "Direct dialogue containing a quoted historical passage; the local speakers do not identify base narration."
+    },
+    {
+      "quote_id": "q01770",
+      "person_signal": "third",
+      "note": "Sustained external scene narration enters Pug\u2019s memories and feelings while referring to him in the third person."
+    },
+    {
+      "quote_id": "q01771",
+      "person_signal": "third",
+      "note": "Extended historical narration describes Churchill externally from a nonparticipating position."
+    },
+    {
+      "quote_id": "q01772",
+      "person_signal": "non_base",
+      "note": "Direct character speech."
+    },
+    {
+      "quote_id": "q01773",
+      "person_signal": "non_base",
+      "note": "Direct character speech despite its collective first-person pronoun."
+    },
+    {
+      "quote_id": "q01774",
+      "person_signal": "non_base",
+      "note": "Extended philosophical speech by a character, not narratorial discourse."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://adebiportal.kz/upload/iblock/711/711ec68d18d65d45f457c2d8d6156d80.pdf",
+      "title": "The Winds of War",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The government-supported electronic literary portal provides the complete text. Ordinary chapters sustain third-person narration, while recurring chapter-length World Empire Lost sections include Victor Henry\u2019s first-person Translator\u2019s Foreword and General von Roon\u2019s participating I/we memoir voice."
+    },
+    {
+      "url": "https://www.enotes.com/topics/winds-war/in-depth",
+      "title": "The Winds of War Analysis",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis explicitly describes the novel as weaving third-person narration together with first-person perspectives in fictional journals and memoirs, including the German general\u2019s material edited by Pug Henry."
+    },
+    {
+      "url": "https://www.goodreads.com/questions/479993-who-is-the-narrator-in-the-book-he-talks",
+      "title": "Who is the narrator in the book? \u2014 The Winds of War Q&A",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "A reader\u2019s explicit whole-book description says most of the novel is third person but periodically changes to first-person sections from von Roon\u2019s translated analysis."
+    },
+    {
+      "url": "https://bookscafe.net/read/wouk_herman-the_winds_of_war-223568.html",
+      "title": "The Winds of War \u2014 Table of Contents",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The full table of contents independently exposes nine recurring World Empire Lost chapters among the novel\u2019s fifty-eight chapters, showing that the embedded documentary strand is sustained rather than an isolated quotation."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Winds of War Herman Wouk excerpt first chapter,\u201d \u201cthird person narrator,\u201d and \u201cpoint of view.\u201d",
+    "Searched Google Books, Open Library, and Internet Archive editions; Google Books exposed only catalog copy and limited preview material, while Open Library supplied edition verification and an opening sentence but not enough prose to establish the whole-book structure.",
+    "Opened and inspected the complete Adebiportal text, including the third-person opening, Chapter 9\u2019s first-person Translator\u2019s Foreword, later World Empire Lost passages, and recurring translator\u2019s notes.",
+    "Searched for \u201cChapter 9 \u2014 World Empire Lost,\u201d \u201cfirst-person World Empire Lost,\u201d and structural criticism; opened the eNotes analysis, Goodreads narrator discussion, and a full table of contents.",
+    "Verified that Adebiportal identifies itself as an electronic literary portal created by Qazcontent with support from Kazakhstan\u2019s communications authorities."
+  ],
+  "person_note": "The Henry-family story and authorial historical transitions are controlled by third-person narration, as the diagnostic event quotes show. The novel also makes World Empire Lost a substantial recurring strand: nine named chapters present von Roon\u2019s participating first-person military memoir, beginning with Victor Henry\u2019s first-person Translator\u2019s Foreword and punctuated by his notes. Because these are sustained, chapter-length sections rather than isolated speech, letters, or quotations, the methodology\u2019s rule for sustained sections in different persons yields ALTERNATING. The quote sample happens not to include an explicit narratorial I/we from those chapters, but the complete text and independent structural analysis establish them. The only interpretive uncertainty is whether to subordinate the fictional treatise as an embedded document; its repeated chapter-level placement makes it constitutive enough to satisfy the alternating-person rule.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_017",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T02:07:14.975329+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "22c066eeedbeefaa33b36cd4478b1aab24d44aac78377e1d58441132414653ab"
+  }
+}

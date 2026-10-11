@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:REMARKABLY BRIGHT CREATURES|Shelby Van Pelt",
+  "quotes": [
+    {
+      "quote_id": "q06732",
+      "person_signal": "non_base",
+      "note": "Gnomic address to humans from Marcellus; not diagnostic base narration."
+    },
+    {
+      "quote_id": "q06733",
+      "person_signal": "non_base",
+      "note": "General observation about humans; no story-specific narrator-person evidence."
+    },
+    {
+      "quote_id": "q06734",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about human behavior."
+    },
+    {
+      "quote_id": "q06735",
+      "person_signal": "third",
+      "note": "Sustained third-person-limited narration identifies Tova and reports her understanding."
+    },
+    {
+      "quote_id": "q06736",
+      "person_signal": "non_base",
+      "note": "General maxim using universal you."
+    },
+    {
+      "quote_id": "q06737",
+      "person_signal": "first",
+      "note": "Marcellus participates and narrates his actions and intentions as I."
+    },
+    {
+      "quote_id": "q06738",
+      "person_signal": "first",
+      "note": "Marcellus's participating narration repeatedly uses I."
+    },
+    {
+      "quote_id": "q06739",
+      "person_signal": "non_base",
+      "note": "Character dialogue; its pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q06740",
+      "person_signal": "non_base",
+      "note": "Standalone figurative maxim."
+    },
+    {
+      "quote_id": "q06741",
+      "person_signal": "first",
+      "note": "Constitutive Marcellus section heading uses first-person possessive My Captivity."
+    },
+    {
+      "quote_id": "q06742",
+      "person_signal": "non_base",
+      "note": "Gnomic Marcellus commentary about humans."
+    },
+    {
+      "quote_id": "q06743",
+      "person_signal": "third",
+      "note": "Third-person-limited narration names Tova and renders her remembered despair."
+    },
+    {
+      "quote_id": "q06744",
+      "person_signal": "non_base",
+      "note": "Character speech rather than narratorial evidence."
+    },
+    {
+      "quote_id": "q06745",
+      "person_signal": "non_base",
+      "note": "Character dialogue containing we and me."
+    },
+    {
+      "quote_id": "q06746",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary and rhetorical address, not story-specific base narration."
+    },
+    {
+      "quote_id": "q06747",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the brief external speech beats are insufficient to establish person independently."
+    },
+    {
+      "quote_id": "q06748",
+      "person_signal": "third",
+      "note": "Third-person-limited narration identifies Tova and reports her private sense of alienation."
+    },
+    {
+      "quote_id": "q06749",
+      "person_signal": "first",
+      "note": "Marcellus directly narrates his own condition as I."
+    },
+    {
+      "quote_id": "q06750",
+      "person_signal": "unmarked",
+      "note": "Predictive reflection about generic parents does not expose narrator participation."
+    },
+    {
+      "quote_id": "q06751",
+      "person_signal": "first",
+      "note": "Marcellus narrates his anatomy and thoughts with my and I."
+    },
+    {
+      "quote_id": "q06752",
+      "person_signal": "first",
+      "note": "Participating Marcellus narration uses I and describes his experience."
+    },
+    {
+      "quote_id": "q06753",
+      "person_signal": "first",
+      "note": "Marcellus states his own sensory action as I."
+    },
+    {
+      "quote_id": "q06754",
+      "person_signal": "non_base",
+      "note": "Standalone generalization about parenthood."
+    },
+    {
+      "quote_id": "q06755",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement."
+    },
+    {
+      "quote_id": "q06756",
+      "person_signal": "first",
+      "note": "Marcellus describes his own knowledge and possible happiness as I and me."
+    },
+    {
+      "quote_id": "q06757",
+      "person_signal": "first",
+      "note": "Direct-address wording is local, while repeated I establishes participating first-person narration."
+    },
+    {
+      "quote_id": "q06758",
+      "person_signal": "unmarked",
+      "note": "A single statement about Marcellus is compatible with either participating or nonparticipating narration."
+    },
+    {
+      "quote_id": "q06759",
+      "person_signal": "non_base",
+      "note": "General observation about young humans."
+    },
+    {
+      "quote_id": "q06760",
+      "person_signal": "third",
+      "note": "Sustained third-person-limited narration contrasts the women with Tova's private grief."
+    },
+    {
+      "quote_id": "q06761",
+      "person_signal": "unmarked",
+      "note": "The clipped sentence about her life lacks enough context to establish narrator participation."
+    },
+    {
+      "quote_id": "q06762",
+      "person_signal": "non_base",
+      "note": "Generalized commentary about young women and possessions."
+    },
+    {
+      "quote_id": "q06763",
+      "person_signal": "third",
+      "note": "Extended scene externally narrates Tova, Cameron, and Marcellus while rendering Cameron's perceptions."
+    },
+    {
+      "quote_id": "q06764",
+      "person_signal": "unmarked",
+      "note": "Fragmentary reflection lacks an identified focal character or sufficient narrative context."
+    },
+    {
+      "quote_id": "q06765",
+      "person_signal": "third",
+      "note": "Sustained retrospective scene externally narrates Terry, Mackenzie, and Dr. Santiago."
+    },
+    {
+      "quote_id": "q06766",
+      "person_signal": "third",
+      "note": "Third-person-limited narration follows Tova's aging and renders her private question."
+    },
+    {
+      "quote_id": "q06767",
+      "person_signal": "first",
+      "note": "Marcellus participates as the I who heard the remarks and imagines being plump."
+    },
+    {
+      "quote_id": "q06768",
+      "person_signal": "non_base",
+      "note": "First-person forms occur within character dialogue."
+    },
+    {
+      "quote_id": "q06769",
+      "person_signal": "first",
+      "note": "Marcellus narrates his own contentment and misery as I."
+    },
+    {
+      "quote_id": "q06770",
+      "person_signal": "non_base",
+      "note": "Quoted speech with a brief attribution."
+    },
+    {
+      "quote_id": "q06771",
+      "person_signal": "first",
+      "note": "Marcellus narrates his prior consideration and question about death as I."
+    },
+    {
+      "quote_id": "q06772",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about keeping busy and cleaning."
+    },
+    {
+      "quote_id": "q06773",
+      "person_signal": "unmarked",
+      "note": "The third-person opening and universal we do not by themselves establish the narrator's participation."
+    },
+    {
+      "quote_id": "q06774",
+      "person_signal": "unmarked",
+      "note": "Clipped metaphorical fragments about Mary Ann's decline do not securely expose person."
+    },
+    {
+      "quote_id": "q06775",
+      "person_signal": "non_base",
+      "note": "Gnomic Marcellus commentary on human language."
+    },
+    {
+      "quote_id": "q06776",
+      "person_signal": "non_base",
+      "note": "Standalone generalization."
+    },
+    {
+      "quote_id": "q06777",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short external beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06778",
+      "person_signal": "non_base",
+      "note": "General maxim about entering a home."
+    },
+    {
+      "quote_id": "q06779",
+      "person_signal": "first",
+      "note": "Marcellus narrates his confusion, body, and observation of Tova as I."
+    },
+    {
+      "quote_id": "q06780",
+      "person_signal": "third",
+      "note": "Sustained third-person scene externally follows Tova and supplies knowledge about Mary Ann and the Knit-Wits."
+    },
+    {
+      "quote_id": "q06781",
+      "person_signal": "non_base",
+      "note": "Gnomic list-making commentary about human food."
+    },
+    {
+      "quote_id": "q06782",
+      "person_signal": "third",
+      "note": "Third-person-limited narration renders a woman's private hesitation and family rationale."
+    },
+    {
+      "quote_id": "q06783",
+      "person_signal": "non_base",
+      "note": "Standalone opinion rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q06784",
+      "person_signal": "third",
+      "note": "Third-person narration names Tova and supplies her reason for nodding."
+    },
+    {
+      "quote_id": "q06785",
+      "person_signal": "third",
+      "note": "Sustained third-person-limited narration follows Tova and explains her private need for solitude."
+    },
+    {
+      "quote_id": "q06786",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence with unresolved pronouns, so its local narrative structure is clipped."
+    },
+    {
+      "quote_id": "q06787",
+      "person_signal": "non_base",
+      "note": "Universal gnomic we does not establish a participating narrator."
+    },
+    {
+      "quote_id": "q06788",
+      "person_signal": "third",
+      "note": "Third-person-limited narration explicitly attributes a private wondering to Cameron."
+    },
+    {
+      "quote_id": "q06789",
+      "person_signal": "non_base",
+      "note": "Rhetorical gnomic question about a captive cephalopod."
+    },
+    {
+      "quote_id": "q06790",
+      "person_signal": "third",
+      "note": "Extended third-person-limited passage attributes reflection and remembered grief to Tova."
+    },
+    {
+      "quote_id": "q06791",
+      "person_signal": "third",
+      "note": "Chapter-style prose names Cameron and renders his immediate perception in third person."
+    },
+    {
+      "quote_id": "q06792",
+      "person_signal": "non_base",
+      "note": "General reflection using universal you."
+    },
+    {
+      "quote_id": "q06793",
+      "person_signal": "unmarked",
+      "note": "Bare he and her references in a short action do not establish narrator participation."
+    },
+    {
+      "quote_id": "q06794",
+      "person_signal": "third",
+      "note": "External action and free-indirect commentary present Cameron and Aunt Jeanne through third-person narration."
+    },
+    {
+      "quote_id": "q06795",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; brief speech attributions do not independently establish base person."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/tra-rgfe/assets/2962/Remarkably_Bright_Creatures_-_extract.pdf",
+      "title": "Remarkably Bright Creatures \u2014 extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "The authorized Bloomsbury extract opens with Marcellus narrating as I, then switches to sustained third-person narration centered on Tova."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/remarkably-bright-creatures",
+      "title": "Remarkably Bright Creatures Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The guide's book-level key facts explicitly identify the point of view as both third person and first person."
+    },
+    {
+      "url": "https://www.supersummary.com/remarkably-bright-creatures/chapters-1-12-summary/",
+      "title": "Remarkably Bright Creatures Chapters 1\u201312 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The chapter analysis states that Marcellus's sections are first person while Tova's, Cameron's, and other chapters use third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \"Remarkably Bright Creatures Shelby Van Pelt excerpt publisher Marcellus Tova chapter\" and opened the Bloomsbury extract PDF.",
+    "Searched \"Remarkably Bright Creatures point of view first person third person alternating narrator\" and opened LitCharts and SuperSummary structural descriptions.",
+    "Searched for publisher, author-interview, reading-guide, multiple-narrator, epistolary, and frame-narrative evidence; publisher synopsis and review results described perspectives but were less grammatically explicit than the retained sources."
+  ],
+  "person_note": "The novel sustains two base-narration persons: Marcellus's recurring captivity sections are participating first person, while the Tova, Cameron, and other human-centered sections are third-person limited. The Goodreads evidence repeatedly contains both Marcellus's I-narration and extended third-person human scenes, and the authorized opening extract displays the same switch directly. Whole-book and chapter-level web descriptions corroborate that structure. Gnomic observations, dialogue, universal you/we, and clipped bare-pronoun passages were not promoted to book-level evidence. No credible second-person strand or unresolved structural conflict was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_079",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-14T05:06:09.634261+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2ebb67b45f41079034610b448d0702952d2f431f6185f45cf7c6a19ee62363c1"
+  }
+}

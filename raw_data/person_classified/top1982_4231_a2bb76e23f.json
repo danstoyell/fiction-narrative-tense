@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1982:4231",
+  "quotes": [
+    {
+      "quote_id": "q02608",
+      "person_signal": "non_base",
+      "note": "General aphorism with no story-specific narrator or character context."
+    },
+    {
+      "quote_id": "q02609",
+      "person_signal": "non_base",
+      "note": "Imperative maxim; the addressed reader is generic, not a second-person protagonist."
+    },
+    {
+      "quote_id": "q02610",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to John; its first- and second-person pronouns belong to a character."
+    },
+    {
+      "quote_id": "q02611",
+      "person_signal": "unmarked",
+      "note": "Likely narratorial fragment, but the isolated third-person subject does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q02612",
+      "person_signal": "unclear",
+      "note": "Severely clipped fragment with lost preceding syntax and attribution."
+    },
+    {
+      "quote_id": "q02613",
+      "person_signal": "unmarked",
+      "note": "Historical narrative statement without a participating narrator or sufficiently contextualized character narration."
+    },
+    {
+      "quote_id": "q02614",
+      "person_signal": "unmarked",
+      "note": "Collective retrospective 'we' is an isolated social observation; it does not establish a story-participating base narrator."
+    },
+    {
+      "quote_id": "q02615",
+      "person_signal": "non_base",
+      "note": "Quoted conditional statement; 'we' belongs to an unidentified speaker."
+    },
+    {
+      "quote_id": "q02616",
+      "person_signal": "non_base",
+      "note": "Standalone prediction or aphorism with no diagnostic narrative context."
+    },
+    {
+      "quote_id": "q02617",
+      "person_signal": "unmarked",
+      "note": "Possible external narration about academics, but the sentence is clipped and third-person subjects alone are nondiagnostic."
+    },
+    {
+      "quote_id": "q02618",
+      "person_signal": "non_base",
+      "note": "Universal maxim about humanity rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02619",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with generic second-person implication, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02620",
+      "person_signal": "non_base",
+      "note": "The third-person speech beat is too brief to diagnose the narrator, while the first-person material is character dialogue."
+    },
+    {
+      "quote_id": "q02621",
+      "person_signal": "non_base",
+      "note": "Clipped direct speech; 'you' addresses another character."
+    },
+    {
+      "quote_id": "q02622",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange whose first- and third-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q02623",
+      "person_signal": "non_base",
+      "note": "Clipped continuation of direct speech, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/769803548/Space-A-Novel",
+      "title": "Space: A Novel \u2014 James A. Michener",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained licensed preview externally narrates Mott and other characters, moves among locations, and reports Mott's knowledge and thoughts without a participating narrator."
+    },
+    {
+      "url": "https://dokumen.pub/james-a-michener-a-critical-companion-1996-0313295387.html",
+      "title": "James A. Michener: A Critical Companion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly book-length study's Space chapter follows the novel across its four families and late interior sections, quoting external third-person narration of Mott, Pope, and other characters; its structural account reveals no participating frame narrator or sustained change of person."
+    },
+    {
+      "url": "https://variety-sf.blogspot.com/2008/11/james-michener-space-novel-chapter-1.html",
+      "title": "James A Michener's Space (novel), Chapter 1: Four Men",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The chapter analysis identifies four separately focalized character threads, including a Kolff-centered thread, corroborating the opening excerpt's external multi-character narration."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/114106/space-by-james-a-michener/9780812986761/",
+      "title": "Space by James A. Michener",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Publisher page verifies the work and its ensemble of central characters, but its synopsis does not directly establish narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \"James A. Michener Space novel excerpt first chapter\" and opened the licensed Everand preview and publisher page.",
+    "Searched \"James A. Michener Space novel point of view narrator third person\" and related narrator/omniscient queries; no credible source explicitly labeling the POV was found.",
+    "Searched exact quote strings including \"As an engineer he favored blunt speech\" and \"In those days we believed we could do anything\" to test whether apparent first-person material was dialogue or base narration; only the opening passage supplied recoverable context.",
+    "Opened James A. Michener: A Critical Companion and examined its whole-novel Space analysis and interior quotations.",
+    "Checked Google Books, AbeBooks, Kirkus, and chapter-review results; Google Books and publisher synopses verified identity and structure but were not treated as direct person evidence."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator that moves among Mott, Grant, Pope, Kolff, and their families and can report characters' thoughts. The licensed opening independently demonstrates this mode, while the scholarly whole-book analysis shows it continuing through interior and concluding sections. The Goodreads set is dominated by dialogue and aphorisms; its isolated 'we' statement is collective commentary, not evidence of a participating narrator or a sustained first-person section. No credible source indicated alternating base narration.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_022",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T19:46:26.753215+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "bd4a2c8a759701c2e96bea8465dc87757a602bfab2811b70ebd99ae469be6ccb"
+  }
+}

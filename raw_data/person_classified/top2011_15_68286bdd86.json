@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:15",
+  "quotes": [
+    {
+      "quote_id": "q02379",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no story-specific narrator."
+    },
+    {
+      "quote_id": "q02380",
+      "person_signal": "non_base",
+      "note": "Generalized aphoristic \u201cwe\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q02381",
+      "person_signal": "non_base",
+      "note": "Character speech; its first-person plural pronouns are local to the speaker."
+    },
+    {
+      "quote_id": "q02382",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q02383",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02384",
+      "person_signal": "first",
+      "note": "The participating narrator describes his own thinking and writing as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02385",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization without story-specific narration."
+    },
+    {
+      "quote_id": "q02386",
+      "person_signal": "non_base",
+      "note": "First-person language occurs within character speech."
+    },
+    {
+      "quote_id": "q02387",
+      "person_signal": "unmarked",
+      "note": "Possible narration, but \u201cyou\u201d and \u201cwe\u201d are universalizing rather than story-specific person evidence."
+    },
+    {
+      "quote_id": "q02388",
+      "person_signal": "non_base",
+      "note": "Character speech with generalized first-person plural language."
+    },
+    {
+      "quote_id": "q02389",
+      "person_signal": "non_base",
+      "note": "First-person phrase occurs within character speech."
+    },
+    {
+      "quote_id": "q02390",
+      "person_signal": "first",
+      "note": "The narratorial action beat \u201cHe stared at me\u201d places the participating narrator in the scene outside the dialogue."
+    },
+    {
+      "quote_id": "q02391",
+      "person_signal": "first",
+      "note": "Sustained scene narration repeatedly presents the participating narrator as \u201cI\u201d and \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q02392",
+      "person_signal": "non_base",
+      "note": "First-person reflection is presented as character speech."
+    },
+    {
+      "quote_id": "q02393",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q02394",
+      "person_signal": "non_base",
+      "note": "Direct address occurs within character speech and does not establish second-person narration."
+    },
+    {
+      "quote_id": "q02395",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; generalized \u201cwe\u201d is nondiagnostic."
+    },
+    {
+      "quote_id": "q02396",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without story-specific narrator reference."
+    },
+    {
+      "quote_id": "q02397",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q02398",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic person evidence."
+    },
+    {
+      "quote_id": "q02399",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q02400",
+      "person_signal": "non_base",
+      "note": "First-person language occurs within character speech."
+    },
+    {
+      "quote_id": "q02401",
+      "person_signal": "first",
+      "note": "The participating narrator reports his own past perception as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02402",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d occurs within character speech and is not sustained second-person narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.simonandschuster.com/books/11-22-63/Stephen-King/9781451627305",
+      "title": "11/22/63 eBook by Stephen King | Official Publisher Page",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "The publisher's substantial interior excerpt from sections 8\u20139 is narrated throughout by the story participant as \u201cI,\u201d including his surveillance of Oswald and relationship with Sadie."
+    },
+    {
+      "url": "https://www.cambridge.org/core/books/abs/vote-with-a-bullet/112263-2011/E73241B28103B696BDB63AACE391A8B9",
+      "title": "11/22/63 (2011) \u2014 Vote with a Bullet",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This scholarly Cambridge University Press chapter explicitly states that main character Jake Epping narrates the story as a whole and binds readers to his perspective."
+    },
+    {
+      "url": "https://www.ethangilsdorf.com/ethanfreak-blog/2011/11/23/change-the-past-a-review-of-stephen-kings-112263.html",
+      "title": "Change the past: A review of Stephen King's 11/22/63",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A review originally published in the Boston Globe explicitly identifies protagonist Jake Epping as the novel's first-person narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-11-22-63-a-novel/styles.html",
+      "title": "King, Stephen Writing Styles in 11/22/63: A Novel",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide identifies Jake Epping's retrospective first-person manuscript as the story's narration; it also notes one localized shift to third person during Sadie's attack."
+    },
+    {
+      "url": "https://bookanalysis.com/stephen-king/11-22-63/historical-context/",
+      "title": "11/22/63 Historical Context",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "This secondary analysis mentions a transition from first- to third-person narration but does not establish its duration or an autonomous sustained third-person base strand; a related review on the site says first person dominates."
+    }
+  ],
+  "search_log": [
+    "Searched \u201c11/22/63 Stephen King official excerpt first chapter narrator\u201d and found the authorized Simon & Schuster interior excerpt plus StephenKing.com audiobook-sample pages.",
+    "Searched \u201c11/22/63 Stephen King point of view first person narrator Jake Epping\u201d and found explicit whole-book descriptions from BookRags, Book Analysis, GradeSaver, and a Boston Globe review reprint.",
+    "Searched \u201c11/22/63 narratology first person third person Jake Epping academic\u201d and found the Cambridge University Press chapter stating that Jake narrates the story as a whole.",
+    "Ran targeted follow-up searches for \u201c11/22/63 third person Sadie attacked narration\u201d and \u201cnarration switches 11/22/63 Sadie\u201d to investigate the reported local third-person shift.",
+    "Searched StephenKing.com and Google Books for additional excerpts; the author site offered opening-chapter audio without a usable transcript, while the Google Books result was for an unrelated book of the same title."
+  ],
+  "person_note": "The diagnostic Goodreads passages show Jake as a participating \u201cI\u201d narrator, including sustained scene narration with Sadie and a narratorial action beat embedded among dialogue. The authorized publisher excerpt independently shows the same first-person voice in an interior Oswald/Sadie section, and the Cambridge scholarly source explicitly says Jake narrates the story as a whole. Secondary guides report a singular third-person shift around Sadie's attack, but they still identify Jake's retrospective manuscript as the controlling narration and do not establish a sustained autonomous third-person base section. That localized exception therefore does not warrant ALTERNATING. The only residual uncertainty is the precise extent and framing of that isolated shift, which is outweighed by the whole-book structural evidence.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.247854+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "294934a23feb9a8120cd9a434b7d7d9f8ed6a114b1ec168249172298bff24901"
+  }
+}

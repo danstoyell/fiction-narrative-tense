@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2013:5397",
+  "quotes": [
+    {
+      "quote_id": "q00490",
+      "person_signal": "unmarked",
+      "note": "The repeated \u201cyou\u201d is generic reflection about childhood trauma, not sustained address to a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00491",
+      "person_signal": "third",
+      "note": "Sustained scene narration refers to Robie as \u201che,\u201d reports his perceptions and reasoning, and contains no participating narrator."
+    },
+    {
+      "quote_id": "q00492",
+      "person_signal": "non_base",
+      "note": "A clipped gnomic statement within quotation marks does not expose the base narrator."
+    },
+    {
+      "quote_id": "q00493",
+      "person_signal": "unmarked",
+      "note": "Narratorial-sounding generalization about planning contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00494",
+      "person_signal": "unmarked",
+      "note": "The short passage describes a woman and attributes a rule to Robie's knowledge, but without a wider frame it does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00495",
+      "person_signal": "non_base",
+      "note": "Character speech cannot identify the base narrator."
+    },
+    {
+      "quote_id": "q00496",
+      "person_signal": "unmarked",
+      "note": "This general proposition has no diagnostic person marking."
+    },
+    {
+      "quote_id": "q00497",
+      "person_signal": "third",
+      "note": "Continuous external scene description presents the motorcades, police, and Mounties through a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q00498",
+      "person_signal": "unclear",
+      "note": "The fragment is too truncated to determine its local structure or narrator."
+    },
+    {
+      "quote_id": "q00499",
+      "person_signal": "unclear",
+      "note": "The incomplete conditional clause provides no recoverable narrator-person evidence."
+    },
+    {
+      "quote_id": "q00500",
+      "person_signal": "unclear",
+      "note": "The missing subject and surrounding context prevent responsible attribution."
+    },
+    {
+      "quote_id": "q00501",
+      "person_signal": "non_base",
+      "note": "The quoted question is dialogue rather than base narration."
+    },
+    {
+      "quote_id": "q00502",
+      "person_signal": "unmarked",
+      "note": "The passage is clipped before its subject and does not identify the narrator's person."
+    },
+    {
+      "quote_id": "q00503",
+      "person_signal": "unmarked",
+      "note": "A bare \u201che\u201d statement without sufficient local context does not by itself establish third-person base narration."
+    },
+    {
+      "quote_id": "q00504",
+      "person_signal": "unmarked",
+      "note": "The short passage combines a bare \u201cshe\u201d statement with an aphorism and is insufficient locally to identify the narrator."
+    },
+    {
+      "quote_id": "q00505",
+      "person_signal": "third",
+      "note": "Sustained external narration names Robie and Reel, enters Robie's reasoning, and embeds his first-person hypothetical thoughts within an otherwise third-person scene."
+    },
+    {
+      "quote_id": "q00506",
+      "person_signal": "third",
+      "note": "Sustained action narration externally depicts the woman and Robie as third-person characters."
+    },
+    {
+      "quote_id": "q00507",
+      "person_signal": "unmarked",
+      "note": "This isolated inference about \u201cher\u201d is too brief to establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q00508",
+      "person_signal": "unclear",
+      "note": "The truncated fragment lacks enough syntax and context for attribution."
+    },
+    {
+      "quote_id": "q00509",
+      "person_signal": "unclear",
+      "note": "The truncated fragment cannot distinguish narration from another local context."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/uy/novela-negra-misterio-y-thriller/140503-libro-maximo-impacto-will-robie-2-9788466661089/fragmento",
+      "title": "M\u00e1ximo impacto (Will Robie 2) \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-hosted Spanish edition excerpt identifies the original as The Hit and supplies sustained narration across several opening chapters. It externally narrates Doug Jacobs, Will Robie, and Jessica Reel, shifts focalization among them, and marks their first-person thoughts as local interior material within third-person base narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cDavid Baldacci The Hit excerpt chapter 1\u201d and publisher/author-domain variants; found an independently reproduced English opening but did not use it because the page could not be opened.",
+    "Searched \u201cThe Hit David Baldacci point of view third person narration\u201d and study-guide variants; results did not yield a usable explicit whole-book POV analysis.",
+    "Searched exact opening phrases including \u201cFeeling energized by the death that was about to happen\u201d and \u201cDoug Jacobs adjusted his headset\u201d; located the Grand Central Publishing Google Books free preview of the first eight chapters, but its page failed to open in the research tool.",
+    "Opened Penguin Libros' authorized translated excerpt for M\u00e1ximo impacto, explicitly identified there as a translation of The Hit, and inspected sustained prose from multiple chapters.",
+    "Checked audiobook, official-site, library-preview, scholarly, epistolary, frame-narrative, multiple-narrator, and alternating-POV leads; these produced synopsis-only, inaccessible, irrelevant, or nondiagnostic material and no evidence of a first- or second-person base strand."
+  ],
+  "person_note": "The strongest diagnostic quotes show a nonparticipating narrator describing Robie, Reel, and other characters while accessing their perceptions and reasoning. In q00505, the first-person hypothetical sentences occur inside a sustained passage framed by Robie's reading and reasoning, then return to external references to Robie; they are direct interior thought rather than a base-person switch. q00490 uses generic rather than story-specific you, and the shorter q00494 passage is unmarked rather than independently third-person. The authorized publisher excerpt shows the same third-person method across several opening chapters and focal characters. No credible evidence indicated sustained first- or second-person sections. Confidence is med because the sole strong web source is a Spanish translation confined to the opening, while the remaining support comes from Goodreads interiors; this matches the methodology's opening-only calibration. Audit: independent review retained THIRD, changed high to med, corrected the excerpt scope from named_section to opening, and demoted q00494 from third to unmarked.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_053",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T10:25:43.743660+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9e0e6279fad144bd4d643b7d3028cc5d6c0f40504e315baadc3db701abd6bb8a"
+  }
+}

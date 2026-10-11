@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1983:5671",
+  "quotes": [
+    {
+      "quote_id": "q00896",
+      "person_signal": "non_base",
+      "note": "A standalone gnomic maxim does not expose the narrator."
+    },
+    {
+      "quote_id": "q00897",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first- and second-person pronouns are nondiagnostic."
+    },
+    {
+      "quote_id": "q00898",
+      "person_signal": "third",
+      "note": "Sustained external narration describes Schulmann and his sidekick without a participating narrator."
+    },
+    {
+      "quote_id": "q00899",
+      "person_signal": "third",
+      "note": "Restored context places this sentence within sustained third-person narration about Charlie and Joseph."
+    },
+    {
+      "quote_id": "q00900",
+      "person_signal": "non_base",
+      "note": "The clipped Goodreads text conflates a saying recited to Charlie with Becker's free-direct first-person thought; neither is the base narrator."
+    },
+    {
+      "quote_id": "q00901",
+      "person_signal": "third",
+      "note": "Narratorial commentary treats Nick Armory and the Armory type externally; the reader-directed 'you' is not second-person story narration."
+    },
+    {
+      "quote_id": "q00902",
+      "person_signal": "non_base",
+      "note": "Gnomic political commentary with generic address, not diagnostic story narration."
+    },
+    {
+      "quote_id": "q00903",
+      "person_signal": "third",
+      "note": "Although bucketed as dialogue, the closing narration externally reports Charlie's anger, wishes, and bewilderment."
+    },
+    {
+      "quote_id": "q00904",
+      "person_signal": "non_base",
+      "note": "A standalone generalization about demonstrations does not identify the narrator."
+    },
+    {
+      "quote_id": "q00905",
+      "person_signal": "third",
+      "note": "Extended close-third narration reports Charlie's feelings and the emptiness within her."
+    },
+    {
+      "quote_id": "q00906",
+      "person_signal": "non_base",
+      "note": "Direct speech about Charlie; speaker pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00907",
+      "person_signal": "unmarked",
+      "note": "A clipped definition with a chapter tag lacks enough narrative context to establish person."
+    },
+    {
+      "quote_id": "q00908",
+      "person_signal": "non_base",
+      "note": "Standalone aphoristic material, including an embedded attribution to Auden."
+    },
+    {
+      "quote_id": "q00909",
+      "person_signal": "non_base",
+      "note": "Attributed dialogue from Litvak."
+    },
+    {
+      "quote_id": "q00910",
+      "person_signal": "non_base",
+      "note": "Full-text context identifies this first-person sentence as Ned Quilley's dialogue, not narration."
+    },
+    {
+      "quote_id": "q00911",
+      "person_signal": "third",
+      "note": "Dialogue is surrounded by sustained external narration of his expression and her actions."
+    },
+    {
+      "quote_id": "q00912",
+      "person_signal": "unmarked",
+      "note": "A single externally described action using 'he' is too short by itself to establish narrator participation."
+    },
+    {
+      "quote_id": "q00913",
+      "person_signal": "third",
+      "note": "The narrator externally reports his calculated intention and her underlying desire."
+    },
+    {
+      "quote_id": "q00914",
+      "person_signal": "non_base",
+      "note": "A character's habitual saying; 'we' and generic 'you' belong to that local speech."
+    },
+    {
+      "quote_id": "q00915",
+      "person_signal": "third",
+      "note": "The third-person frame explicitly attributes the first-person words to Charlie's direct thought."
+    },
+    {
+      "quote_id": "q00916",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally coordinates Charlie's and Joseph's behavior around dialogue."
+    },
+    {
+      "quote_id": "q00917",
+      "person_signal": "third",
+      "note": "The dialogue is framed by external narration of Kurtz and his search for salvation."
+    },
+    {
+      "quote_id": "q00918",
+      "person_signal": "third",
+      "note": "Externally narrated biographical and psychological account of the male character."
+    },
+    {
+      "quote_id": "q00919",
+      "person_signal": "non_base",
+      "note": "Exact-context research locates this first-person passage in John le Carr\u00e9's 1982 foreword, not the novel's base story."
+    },
+    {
+      "quote_id": "q00920",
+      "person_signal": "non_base",
+      "note": "Standalone gnomic statement; 'we' does not establish a controlling narrator."
+    },
+    {
+      "quote_id": "q00921",
+      "person_signal": "non_base",
+      "note": "Direct address spoken to Charlie."
+    },
+    {
+      "quote_id": "q00922",
+      "person_signal": "unclear",
+      "note": "A noun-phrase fragment with no recoverable narrator or action."
+    },
+    {
+      "quote_id": "q00923",
+      "person_signal": "unclear",
+      "note": "The omitted subject and opening conjunction prevent attribution of the fragment."
+    },
+    {
+      "quote_id": "q00924",
+      "person_signal": "third",
+      "note": "Sustained external narration introduces Joseph and Charlie and supplies an omniscient historical aside."
+    },
+    {
+      "quote_id": "q00925",
+      "person_signal": "third",
+      "note": "Extended external narration identifies Schulmann/Kurtz and comments on his identity and intentions."
+    },
+    {
+      "quote_id": "q00926",
+      "person_signal": "unclear",
+      "note": "A clipped question lacks boundaries and an identifiable speaker or narrator."
+    },
+    {
+      "quote_id": "q00927",
+      "person_signal": "unmarked",
+      "note": "A short third-person action about 'they' and 'her' does not independently establish the narrator."
+    },
+    {
+      "quote_id": "q00928",
+      "person_signal": "unclear",
+      "note": "Fragmentary comparison with generic reader address and no recoverable narrative frame."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.com.au/books/the-little-drummer-girl-9780241322376/extracts/1949-the-little-drummer-girl",
+      "title": "Extract | The Little Drummer Girl by John le Carr\u00e9",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized sustained opening narrates the Bad Godesberg bombing setting and its residents externally in third person; occasional generic reader-address does not cast a protagonist as 'you'."
+    },
+    {
+      "url": "https://dokumen.pub/language-ideology-and-point-of-view.html",
+      "title": "Language, Ideology and Point of View",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The scholarly stylistic analysis examines the penultimate chapter, distinguishing the narrator's voice from Charlie as the focal reflector and quoting the scene's repeated third-person 'she saw' construction."
+    },
+    {
+      "url": "https://www.lrb.co.uk/the-paper/v05/n06/philip-horne/maids",
+      "title": "Maids",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Philip Horne's contemporary London Review of Books review explicitly characterizes the novel's narration as omniscient and discusses recurring narrator-supplied ironic knowledge across the book."
+    },
+    {
+      "url": "https://readerslibrary.org/wp-content/uploads/The-Little-Drummer-Girl.pdf",
+      "title": "The Little Drummer Girl",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "An unofficial searchable copy was used only to restore clipped local context: q00900 contains recitation and Becker's thought, q00910 is Ned's speech, and q00919 is in the authorial foreword. It was not relied upon as book-level person evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Little Drummer Girl\" with John le Carr\u00e9 plus excerpt, first chapter, point of view, narrator, first person, and third person; opened Penguin's authorized extract.",
+    "Searched for epistolary form, multiple narrators, alternating narration, diary, and frame narrative; found no credible evidence of sustained first- or second-person base sections.",
+    "Opened the scholarly Language, Ideology and Point of View analysis and the London Review of Books review; both distinguish a nonparticipating narrator from character focalization and support third person.",
+    "Searched exact phrases from q00900, q00910, and q00919 to test apparent first-person counterevidence; restored context showed character recitation/thought, character speech, and an authorial foreword respectively.",
+    "Searched JSTOR and Oxford Academic for structural criticism. The JSTOR listing for Woman as Agent and an Oxford chapter were relevant to the novel but their accessible material did not state narrative person, so they were not used as evidence.",
+    "A Popular Culture Review PDF search result also associated q00919 with le Carr\u00e9's prefatory remarks, but opening the PDF timed out; it was not used."
+  ],
+  "person_note": "The controlling story narration is nonparticipating third person, often omniscient or closely focalized through Charlie and other characters. Multiple substantial quote passages from widely separated scenes agree with Penguin's authorized third-person opening, a scholarly analysis of an interior penultimate-chapter scene, and a reputable whole-book review describing omniscient narration. Apparent first-person exceptions are local material: q00900 combines quoted ideology with Becker's direct thought, q00910 is Ned's speech, q00915 is explicitly Charlie's thought inside a third-person frame, and q00919 belongs to le Carr\u00e9's foreword. Generic reader-address is not sustained second-person narration. Some Goodreads clippings remain too short or damaged to diagnose individually, but they do not create credible structural uncertainty.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_023",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T20:04:07.648659+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b9dd518db7f453b4f535383884582a87d65e03fdeb80f939594b6df01db6c171"
+  }
+}

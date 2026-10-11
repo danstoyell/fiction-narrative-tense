@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2006:7008",
+  "quotes": [
+    {
+      "quote_id": "q01282",
+      "person_signal": "first",
+      "note": "Narratorial self-characterization uses I and myself."
+    },
+    {
+      "quote_id": "q01283",
+      "person_signal": "first",
+      "note": "Outside dialogue, eyes fixed on me and I said identify the participating narrator."
+    },
+    {
+      "quote_id": "q01284",
+      "person_signal": "first",
+      "note": "The attribution my father said places the narrator within the family relationship."
+    },
+    {
+      "quote_id": "q01285",
+      "person_signal": "first",
+      "note": "The narrator reports taking and concealing the panic button in first person."
+    },
+    {
+      "quote_id": "q01286",
+      "person_signal": "first",
+      "note": "The self-directed commands are thought; the framing I told myself identifies participating narration."
+    },
+    {
+      "quote_id": "q01287",
+      "person_signal": "first",
+      "note": "I said and the accompanying description of insight identify the narrator outside speech."
+    },
+    {
+      "quote_id": "q01288",
+      "person_signal": "non_base",
+      "note": "Generalization about arson offers no diagnostic narrative-person evidence."
+    },
+    {
+      "quote_id": "q01289",
+      "person_signal": "first",
+      "note": "I told him and I said frame the conversation in participating narration."
+    },
+    {
+      "quote_id": "q01290",
+      "person_signal": "unmarked",
+      "note": "Description of they does not establish whether the narrator participates."
+    },
+    {
+      "quote_id": "q01291",
+      "person_signal": "non_base",
+      "note": "Lula and Connie speak; their named speech tags do not identify narrator participation."
+    },
+    {
+      "quote_id": "q01292",
+      "person_signal": "non_base",
+      "note": "First-person pronouns belong to Ranger's speech."
+    },
+    {
+      "quote_id": "q01293",
+      "person_signal": "first",
+      "note": "The narrator recounts waking in Ranger's arms and evaluating the experience."
+    },
+    {
+      "quote_id": "q01294",
+      "person_signal": "first",
+      "note": "I started pressing buttons reports the narrator's action outside dialogue."
+    },
+    {
+      "quote_id": "q01295",
+      "person_signal": "first",
+      "note": "I sensed and references to the narrator's body establish participation."
+    },
+    {
+      "quote_id": "q01296",
+      "person_signal": "first",
+      "note": "The comparison taller than me locates the describing narrator within the story."
+    },
+    {
+      "quote_id": "q01297",
+      "person_signal": "first",
+      "note": "I said identifies the narrator in a speech attribution."
+    },
+    {
+      "quote_id": "q01298",
+      "person_signal": "first",
+      "note": "Ranger turned to me places the narrator in the narrated scene."
+    },
+    {
+      "quote_id": "q01299",
+      "person_signal": "non_base",
+      "note": "First-person claims occur entirely in Ranger's dialogue."
+    },
+    {
+      "quote_id": "q01300",
+      "person_signal": "first",
+      "note": "My bag, my shoulder, and looked at me identify the narrator outside speech."
+    },
+    {
+      "quote_id": "q01301",
+      "person_signal": "non_base",
+      "note": "The rhetorical generic you does not designate a second-person protagonist."
+    },
+    {
+      "quote_id": "q01302",
+      "person_signal": "non_base",
+      "note": "Generalized conversational assertion; we does not establish base narration."
+    },
+    {
+      "quote_id": "q01303",
+      "person_signal": "non_base",
+      "note": "All first-person language belongs to the dialogue exchange."
+    },
+    {
+      "quote_id": "q01304",
+      "person_signal": "first",
+      "note": "The narrator reports turning, being carried, and lying on the bed outside dialogue."
+    },
+    {
+      "quote_id": "q01305",
+      "person_signal": "first",
+      "note": "My wrist and pulled me identify the narrator as the recipient of the narrated actions."
+    },
+    {
+      "quote_id": "q01306",
+      "person_signal": "first",
+      "note": "I wasn't that well adjusted is the participating narrator's self-assessment."
+    },
+    {
+      "quote_id": "q01307",
+      "person_signal": "first",
+      "note": "The opening reports the narrator's reluctance and phone call before quoted speech."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://evanovich.com/twelve-sharp-excerpt/",
+      "title": "Twelve Sharp Excerpt \u2013 Janet Evanovich",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The author's sustained Chapter One excerpt explicitly identifies Stephanie Plum as the narrating I and follows her actions, perceptions, and relationships. Several supplied quotes occur within this continuous first-person context."
+    },
+    {
+      "url": "https://www.bookrags.com/questions/english-and-literature/Twelve_Sharp/what-is-the-authors-style-in-twelve-sharp-by-janet-evanovich--49692",
+      "title": "What is the author's style in Twelve Sharp by Janet Evanovich?",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The explicit structural description identifies Stephanie as the first-person narrator throughout the novel. This secondary Q&A corroborates, but carries less weight than, the authorized prose."
+    }
+  ],
+  "search_log": [
+    "Searched: Janet Evanovich Twelve Sharp excerpt chapter one.",
+    "Searched: Twelve Sharp narrative first person Stephanie narrator.",
+    "Opened the author's Chapter One excerpt and the BookRags whole-book point-of-view description; both supported Stephanie's first-person narration."
+  ],
+  "person_note": "Stephanie Plum is the participating base narrator. Repeated action narration and speech attributions in the supplied quotes agree with the sustained authorized excerpt and the secondary whole-book description. Other characters' first-person dialogue, generic you, and descriptions of Ranger do not indicate alternate narrative persons. The main limitation is that the authorized web excerpt covers Chapter One rather than the entire novel; the broader quote evidence and explicit structural description supply corroboration, with no credible contrary evidence found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_044",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T00:41:39.021260+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fffef457a8ab319089e4f30fa5779f91c6479ee9053e1f3327e12df96328fafe"
+  }
+}

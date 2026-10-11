@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:3237",
+  "quotes": [
+    {
+      "quote_id": "q00269",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00270",
+      "person_signal": "non_base",
+      "note": "First-person language from one of Paul\u2019s embedded letters, not the base narration."
+    },
+    {
+      "quote_id": "q00271",
+      "person_signal": "unmarked",
+      "note": "Generalized narratorial observation with no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q00272",
+      "person_signal": "non_base",
+      "note": "Gnomic observation; its grammar does not establish narrative person."
+    },
+    {
+      "quote_id": "q00273",
+      "person_signal": "non_base",
+      "note": "The authorized excerpt places this passage inside Paul\u2019s letter to Adrienne."
+    },
+    {
+      "quote_id": "q00274",
+      "person_signal": "unmarked",
+      "note": "Reports a woman\u2019s belief in third-person wording, but this single sentence does not independently establish the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q00275",
+      "person_signal": "non_base",
+      "note": "The authorized excerpt identifies this as a sentence from Paul\u2019s embedded letter."
+    },
+    {
+      "quote_id": "q00276",
+      "person_signal": "non_base",
+      "note": "Adrienne says this to Amanda in dialogue; the first person belongs to a character."
+    },
+    {
+      "quote_id": "q00277",
+      "person_signal": "non_base",
+      "note": "First-person declaration contained in Paul\u2019s embedded letter."
+    },
+    {
+      "quote_id": "q00278",
+      "person_signal": "non_base",
+      "note": "A clipped portion of Adrienne\u2019s direct speech to Paul, not base narration."
+    },
+    {
+      "quote_id": "q00279",
+      "person_signal": "non_base",
+      "note": "Adrienne says this to Amanda during their framed conversation."
+    },
+    {
+      "quote_id": "q00280",
+      "person_signal": "unmarked",
+      "note": "Possible third-person narration, but the isolated sentence about an unnamed woman is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00281",
+      "person_signal": "non_base",
+      "note": "First-person passage quoted from Paul\u2019s correspondence with Adrienne."
+    },
+    {
+      "quote_id": "q00282",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about love; it does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00283",
+      "person_signal": "non_base",
+      "note": "The passage explicitly belongs to the lovers\u2019 embedded correspondence."
+    },
+    {
+      "quote_id": "q00284",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q00285",
+      "person_signal": "unmarked",
+      "note": "Third-person wording focalized through a woman, but the isolated generalization does not by itself prove narrator person."
+    },
+    {
+      "quote_id": "q00286",
+      "person_signal": "non_base",
+      "note": "Direct speech by Adrienne to Amanda."
+    },
+    {
+      "quote_id": "q00287",
+      "person_signal": "unmarked",
+      "note": "A single third-person summary sentence; without broader local context it is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00288",
+      "person_signal": "third",
+      "note": "Sustained narration externally names Adrienne as \u201cshe\u201d while presenting her memories and private perspective."
+    },
+    {
+      "quote_id": "q00289",
+      "person_signal": "third",
+      "note": "Narratorial beats and access to his reaction surround the dialogue in sustained third-person narration."
+    },
+    {
+      "quote_id": "q00290",
+      "person_signal": "unclear",
+      "note": "The third-person-looking sentence is cut off at \u201cBy,\u201d leaving its local structure incomplete."
+    },
+    {
+      "quote_id": "q00291",
+      "person_signal": "unclear",
+      "note": "The passage ends at \u201cAnd,\u201d so clipping prevents a responsible local signal."
+    },
+    {
+      "quote_id": "q00292",
+      "person_signal": "unclear",
+      "note": "A clipped participial fragment with no narrated subject or narrator reference."
+    },
+    {
+      "quote_id": "q00293",
+      "person_signal": "unclear",
+      "note": "The extract is severed after \u201cIt,\u201d leaving too little intact context for an independent person signal."
+    },
+    {
+      "quote_id": "q00294",
+      "person_signal": "unmarked",
+      "note": "A contextless fragment about \u201che\u201d and his attitude; third-person reference alone is insufficient."
+    },
+    {
+      "quote_id": "q00295",
+      "person_signal": "unmarked",
+      "note": "Reports a man\u2019s disposition in third-person wording, but the isolated sentence alone does not establish the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-6.2002.09-nights-in-rodanthe.pdf",
+      "title": "Nights in Rodanthe PDF Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author-hosted, sustained opening narrates Adrienne externally as \u201cshe\u201d and clearly sets Paul\u2019s first-person letter apart from the surrounding third-person prose."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/nights-in-rodanthe/excerpt",
+      "title": "Nights in Rodanthe by Nicholas Sparks \u2014 Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "This chapter-one excerpt, reprinted with Warner Books\u2019 permission, sustains third-person narration and explicitly brackets Paul\u2019s letter between third-person scenes."
+    },
+    {
+      "url": "https://nicholassparks.com/notes-from-nick/2002/nights-in-rodanthe-writing-notes/",
+      "title": "Nicholas Sparks Nights in Rodanthe Writing Notes",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "Sparks describes the whole-book structure as Adrienne telling her past to her daughter and separately identifies letters and conversations as devices, helping explain why local first-person passages are not a change in base person."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nights_in_Rodanthe_(novel)",
+      "title": "Nights in Rodanthe (novel)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The article explicitly describes the novel\u2019s prose as third person and its main body as Adrienne\u2019s flashback, while also noting the frame and embedded letters."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cNights in Rodanthe Nicholas Sparks excerpt,\u201d \u201cfirst chapter,\u201d and publisher/author-site variants; found the author-hosted PDF and the permission-reprinted Bookreporter excerpt.",
+    "Searched \u201cNights in Rodanthe third person point of view,\u201d \u201cnarrator,\u201d and \u201calternating point of view\u201d; found an explicit whole-book third-person description, while school blogs and synopsis-only results were treated as weak discovery material.",
+    "Searched the official Nicholas Sparks work page and writing notes for frame, letter, diary, and structural evidence; the author confirms quoted letters and describes Adrienne\u2019s storytelling frame.",
+    "Ran exact-phrase searches for the apparent first-person quotes; available context located q00270, q00273, q00275, q00277, q00281, and q00283 in letters and q00276, q00278, and q00279 in character dialogue. Unofficial full-text snippets were used only to locate context, not as primary person evidence.",
+    "No credible evidence of sustained first- or second-person base sections or alternating narrative person was found."
+  ],
+  "person_note": "The controlling prose is third person, with sustained external narration of Adrienne and Paul. The strongest quote evidence is q00288 and q00289, corroborated by the authorized opening excerpt and the explicit whole-book description. The numerous first-person quotations are local material\u2014principally Paul\u2019s letters and dialogue by Adrienne\u2014and therefore do not create a first-person strand or an alternating structure. Several clipped or isolated third-person-looking quotes remain locally nondiagnostic, but that uncertainty does not affect the well-supported book-level classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_037",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T06:23:52.106469+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4dd898fbd240d310d435466d33f5003706f258438e207beab8dc77f2bc1e0a02"
+  }
+}

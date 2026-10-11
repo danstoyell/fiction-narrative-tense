@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:257",
+  "quotes": [
+    {
+      "quote_id": "q01426",
+      "person_signal": "non_base",
+      "note": "Research identifies this as a translated seventeenth-century poem quoted within the novel, not base narration."
+    },
+    {
+      "quote_id": "q01427",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01428",
+      "person_signal": "non_base",
+      "note": "General maxim rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q01429",
+      "person_signal": "non_base",
+      "note": "Character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01430",
+      "person_signal": "non_base",
+      "note": "Direct advice addressed to Mariam within dialogue."
+    },
+    {
+      "quote_id": "q01431",
+      "person_signal": "non_base",
+      "note": "Religious maxim without diagnostic base-narrator evidence."
+    },
+    {
+      "quote_id": "q01432",
+      "person_signal": "non_base",
+      "note": "Direct pledge by a character despite stripped quotation marks."
+    },
+    {
+      "quote_id": "q01433",
+      "person_signal": "third",
+      "note": "Sustained external narration repeatedly presents Mariam as she and reports her thoughts without a participating narrator."
+    },
+    {
+      "quote_id": "q01434",
+      "person_signal": "unclear",
+      "note": "The unframed fragment does not reveal whether it is speech, thought, or narration."
+    },
+    {
+      "quote_id": "q01435",
+      "person_signal": "non_base",
+      "note": "Character speech using instructional and generic you."
+    },
+    {
+      "quote_id": "q01436",
+      "person_signal": "non_base",
+      "note": "An exchange of direct dialogue; first- and second-person pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q01437",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection that does not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q01438",
+      "person_signal": "unmarked",
+      "note": "Possible base narration names Laila externally, but this short fragment alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q01439",
+      "person_signal": "third",
+      "note": "Sustained narration externally presents Mariam and her repeated actions as she, with no participating narrator frame."
+    },
+    {
+      "quote_id": "q01440",
+      "person_signal": "third",
+      "note": "Extended third-person scene narration follows Mariam's action and memory; Nana's final words are embedded speech."
+    },
+    {
+      "quote_id": "q01441",
+      "person_signal": "unmarked",
+      "note": "The sentence focalizes through Laila but is too brief by itself to prove the controlling narrator's person."
+    },
+    {
+      "quote_id": "q01442",
+      "person_signal": "non_base",
+      "note": "General statement about love rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01443",
+      "person_signal": "unmarked",
+      "note": "Brief external presentation of Laila is compatible with third-person narration but is not independently conclusive."
+    },
+    {
+      "quote_id": "q01444",
+      "person_signal": "non_base",
+      "note": "Proverbial direct address, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01445",
+      "person_signal": "unmarked",
+      "note": "The short third-person speech beat is possible base narration, while the first- and second-person language is dialogue."
+    },
+    {
+      "quote_id": "q01446",
+      "person_signal": "unmarked",
+      "note": "The narration briefly presents Laila's perceptions externally, but the local context is too short to establish person independently; I occurs only in speech."
+    },
+    {
+      "quote_id": "q01447",
+      "person_signal": "unmarked",
+      "note": "A single externally focalized statement about Mariam does not by itself establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01448",
+      "person_signal": "unmarked",
+      "note": "The isolated external reference to Laila is compatible with, but not diagnostic of, third-person base narration."
+    },
+    {
+      "quote_id": "q01449",
+      "person_signal": "third",
+      "note": "Sustained external narration forecasts a woman's later experience and inner responses without any participating narrator."
+    },
+    {
+      "quote_id": "q01450",
+      "person_signal": "non_base",
+      "note": "Character speech about Afghanistan; first-person plural belongs to the speaker."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://ilkogretim-online.org/index.php/pub/article/download/4887/4734/9362",
+      "title": "Narratological and Artistic Analysis of Khaled Hossieni\u2019s A Thousand Splendid Suns",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly narratological analysis explicitly identifies third-person narration and an anonymous heterodiegetic narrator who is not a character in the story."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/a-thousand-splendid-suns",
+      "title": "A Thousand Splendid Suns Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly describes the whole novel as third person, with focalization alternating between Mariam and Laila while the narrator remains outside both characters."
+    },
+    {
+      "url": "https://www.tpet.com/content/NovelUnitsSamples/ThousandSplendidSuns-NUT-sample.pdf",
+      "title": "A Thousand Splendid Suns Novel Units Sample",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The educational publisher's guide explicitly lists the novel's point of view as third-person omniscient."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/391566/a-thousand-splendid-suns-by-khaled-hosseini/",
+      "title": "A Thousand Splendid Suns by Khaled Hosseini",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher-hosted author interview confirms the novel's dual perspective and identifies the title verse as a translated poem used within a scene; it supports the structural interpretation but does not itself name the grammatical person."
+    },
+    {
+      "url": "https://media.bloomsbury.com/rep/files/Re%20Read%20Along%20A%20Thousand%20Splendid%20Suns.pdf",
+      "title": "A Thousand Splendid Suns Reading Group Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Bloomsbury's guide reproduces short passages from the opening and several interior pages that consistently present Mariam and Laila in third person."
+    }
+  ],
+  "search_log": [
+    "Searched \"A Thousand Splendid Suns Khaled Hosseini excerpt publisher\" and opened the author, Penguin Random House, and Bloomsbury pages; the author site's excerpt link redirected to a PRH Look Inside interface without accessible sustained sample text.",
+    "Searched \"A Thousand Splendid Suns point of view third person narrator scholarly\" and opened two journal analyses, LitCharts, and publisher-produced teaching materials.",
+    "Searched \"A Thousand Splendid Suns first chapter excerpt Mariam third person\" and verified Bloomsbury's opening sentence and additional short interior passages.",
+    "Searched \"A Thousand Splendid Suns alternating point of view Mariam Laila third person\"; credible sources consistently described alternating focalization within third-person narration.",
+    "Searched the title with \"epistolary,\" \"diary,\" \"frame narrative,\" \"first person narration,\" \"second person narration,\" and \"multiple narrators\"; no credible evidence of sustained first- or second-person base sections emerged. A few low-quality generic PDFs mislabeled the narration as first person, but their assertions conflict with the primary-text passages and explicit scholarly analysis."
+  ],
+  "person_note": "The controlling narrator is anonymous, nonparticipating, and third person. Focalization shifts between Mariam and Laila, but this is not ALTERNATING because the grammatical person remains third throughout those sections. Sustained event quotations q01433, q01439, q01440, and q01449 independently expose external narration, agreeing with the scholarly whole-book analysis and explicit reference guides. First- and second-person pronouns elsewhere belong to dialogue, maxims, or the embedded title poem. No material conflict remains; the only uncertainty concerns isolated or clipped quotations that cannot establish person on their own.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.242223+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4a4cf35f16bc85b30e7183dfb8f680ab309ca691563e27681aa240fa2be845ab"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1951:4907",
+  "quotes": [
+    {
+      "quote_id": "q00781",
+      "person_signal": "third",
+      "note": "The authorized opening restores the clipped context: this is external description of Ericson within sustained third-person narration."
+    },
+    {
+      "quote_id": "q00782",
+      "person_signal": "third",
+      "note": "Base narration refers to Ericson as \u201cHe\u201d while presenting his inward attitude toward the sea from an external narrating position."
+    },
+    {
+      "quote_id": "q00783",
+      "person_signal": "unmarked",
+      "note": "Authorial commentary about the Atlantic contains no character-narrator or otherwise decisive person marker."
+    },
+    {
+      "quote_id": "q00784",
+      "person_signal": "non_base",
+      "note": "The gnomic \u201cYou\u201d means people generally and is not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00785",
+      "person_signal": "third",
+      "note": "Extended panoramic base narration observes waves, ships, and endangered men from a nonparticipating external position."
+    },
+    {
+      "quote_id": "q00786",
+      "person_signal": "third",
+      "note": "Panoramic historical narration surveys nations and the Atlantic campaign from outside the represented action."
+    },
+    {
+      "quote_id": "q00787",
+      "person_signal": "unclear",
+      "note": "The severe mid-sentence clipping leaves neither boundaries nor enough local narration to determine person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/283854292/The-Cruel-Sea",
+      "title": "The Cruel Sea by Nicholas Monsarrat (Ebook)",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized House of Stratus ebook preview includes \u201cBefore the Curtain\u201d and sustained early chapters: it introduces Ericson externally, narrates his private doubts, and shifts among Ericson, Lockhart, Ferraby, and other crewmen without a participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/shortguide-cruel-sea/techniques.html",
+      "title": "Writing Techniques in The Cruel Sea",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The Gale-derived structural study explicitly says the chronologically organized novel has a third-person narrator following both ships and their crews, with shifting focus and omniscient access to characters."
+    },
+    {
+      "url": "https://www.enotes.com/topics/cruel-sea/in-depth",
+      "title": "The Cruel Sea Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The whole-book analysis describes one chronological narrative that transfers between ships, shifts among multiple characters, and supplies omniscient insight into their inner worlds."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Cruel Sea Nicholas Monsarrat excerpt,\u201d \u201cfirst chapter,\u201d \u201cread sample,\u201d and opened the Everand/House of Stratus preview plus Google Books and Open Library records.",
+    "Searched \u201cThe Cruel Sea third person,\u201d \u201cthird-person narrator,\u201d \u201comniscient narrator,\u201d \u201cpoint of view,\u201d and opened the BookRags/Gale and eNotes structural analyses.",
+    "Searched \u201cThe Cruel Sea epistolary,\u201d \u201cdiary,\u201d \u201cframe narrative,\u201d \u201cmultiple narrators,\u201d and \u201calternating narration\u201d; results described shifting character viewpoints within one omniscient narrative, not sustained changes of grammatical person.",
+    "Google Books exposed bibliographic data and contents but no useful continuous prose; Open Library offered a borrowable edition rather than an accessible evidentiary passage. Search results about radio narrators were adaptation-specific and were not used."
+  ],
+  "person_note": "The controlling voice is a nonparticipating omniscient third-person narrator. The authorized opening and several Goodreads event passages independently show external narration with access to characters and broad historical or panoramic commentary, while the Gale structural account explicitly identifies the narrator as third person across the seven-part novel. Shifts among Ericson, Lockhart, Ferraby, other crewmen, and families ashore are changes in focalization, not person alternation. The universal \u201cyou\u201d in q00784 is gnomic rather than second person, and no researched source indicated a first-person frame, epistolary structure, or sustained alternate-person section.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_008",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T04:12:56.490171+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "b1aa79e74e22ec3b164d6fee959ca20740b6b1fa73a074c432167bee7bddf7d3"
+  }
+}

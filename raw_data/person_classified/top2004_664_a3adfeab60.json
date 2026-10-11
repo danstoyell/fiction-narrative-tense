@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2004:664",
+  "quotes": [
+    {
+      "quote_id": "q00975",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism; generic 'you' does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q00976",
+      "person_signal": "non_base",
+      "note": "Fensler's direct speech is a local character voice; the third-person speech tag does not establish base narration."
+    },
+    {
+      "quote_id": "q00977",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using universal 'you,' not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00978",
+      "person_signal": "first",
+      "note": "The participating narrator uses 'I' in story-anchored reflection matching the novel's controlling voice."
+    },
+    {
+      "quote_id": "q00979",
+      "person_signal": "non_base",
+      "note": "General advice using universal 'you'; it is not narrative evidence."
+    },
+    {
+      "quote_id": "q00980",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with generic 'you,' not sustained second-person narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.lovereading.co.uk/extract/368/Bergdorf-Blondes-by-Plum-Sykes.html",
+      "title": "Bergdorf Blondes \u2014 Chapter 1 extract",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A Penguin-attributed Chapter 1 extract sustains the heroine's participating narration through 'I,' 'my,' and references to her best friend and social life."
+    },
+    {
+      "url": "https://dokumen.pub/the-cultural-politics-of-chick-lit-popular-fiction-postfeminism-and-representation-1nbsped-1138648248-9781138648241.html",
+      "title": "The Cultural Politics of Chick Lit: Popular Fiction, Postfeminism and Representation",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Heike Missler's scholarly close reading identifies the nameless heroine 'Moi' as both an integral participant and the narrator whose account and perspective continue through the novel."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/plum-sykes/bergdorf-blondes/",
+      "title": "BERGDORF BLONDES | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The full-book review identifies the fashion-journalist narrator as the character who dates, becomes engaged, and undergoes the novel's later crises and resolution."
+    },
+    {
+      "url": "https://www.the-independent.com/arts-entertainment/books/reviews/bergdorf-blondes-by-plum-sykes-563264.html",
+      "title": "Bergdorf Blondes, by Plum Sykes | The Independent",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly calls Moi the novel's narrator and follows her actions and relationships across the plot, confirming that the narrator is the participating heroine."
+    }
+  ],
+  "search_log": [
+    "Searched \"Bergdorf Blondes\" \"Plum Sykes\" excerpt and opened the Penguin-attributed Chapter 1 extract hosted by LoveReading.",
+    "Searched \"Bergdorf Blondes\" first person, point of view, and narrator; opened Kirkus, The Independent, Bloomsbury, and Google Books results.",
+    "Searched for scholarly structural analysis and opened Heike Missler's close reading in The Cultural Politics of Chick Lit; Routledge's official preview URL returned a 403, while the accessible text contained the relevant whole-book analysis.",
+    "Searched \"Bergdorf Blondes\" multiple narrators, alternating narration, epistolary, diary, and frame narrative; found no evidence of sustained narration in another person.",
+    "Google Books supplied bibliographic and synopsis material but only a limited preview, so it was not used as diagnostic prose evidence."
+  ],
+  "person_note": "The evidence consistently identifies the unnamed heroine, called Moi, as the participating controlling narrator. Quote q00978 independently exposes her first-person base voice, while the authorized opening sustains that voice and scholarly whole-book analysis describes the heroine's continuing account. The remaining quotes are dialogue or universal maxims, not competing narration. Reviews covering the plot likewise treat Moi as both narrator and protagonist, and targeted searches found no alternating, framed, or epistolary structure. No material uncertainty remains.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.238707+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1eaacd7b4323c935665d0737e977676f243484cda5d064831f3e9702a6bce960"
+  }
+}

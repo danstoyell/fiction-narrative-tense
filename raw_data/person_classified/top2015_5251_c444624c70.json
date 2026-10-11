@@ -1,0 +1,423 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2015:5251",
+  "quotes": [
+    {
+      "quote_id": "q03426",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes the speaker\u2019s therapy and life."
+    },
+    {
+      "quote_id": "q03427",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d states a personal judgment."
+    },
+    {
+      "quote_id": "q03428",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes loss of control."
+    },
+    {
+      "quote_id": "q03429",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic base narration."
+    },
+    {
+      "quote_id": "q03430",
+      "person_signal": "non_base",
+      "note": "Universal maxim using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q03431",
+      "person_signal": "first",
+      "note": "After a quoted question, narratorial \u201cI\u201d reflects on lost strength."
+    },
+    {
+      "quote_id": "q03432",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about suspicion."
+    },
+    {
+      "quote_id": "q03433",
+      "person_signal": "non_base",
+      "note": "Gnomic literary quotation/allusion, not base narration."
+    },
+    {
+      "quote_id": "q03434",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes a personal impulse and shame."
+    },
+    {
+      "quote_id": "q03435",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes the speaker\u2019s experience as a wife."
+    },
+    {
+      "quote_id": "q03436",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d recounts becoming sadder."
+    },
+    {
+      "quote_id": "q03437",
+      "person_signal": "non_base",
+      "note": "Generalized social claim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q03438",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d evaluates the speaker\u2019s life."
+    },
+    {
+      "quote_id": "q03439",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes coping with personal pain."
+    },
+    {
+      "quote_id": "q03440",
+      "person_signal": "first",
+      "note": "Sustained narratorial \u201cI\u201d describes the speaker\u2019s changed appearance."
+    },
+    {
+      "quote_id": "q03441",
+      "person_signal": "non_base",
+      "note": "Nursery rhyme rather than base narrative discourse."
+    },
+    {
+      "quote_id": "q03442",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about strangers."
+    },
+    {
+      "quote_id": "q03443",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d frames the generic \u201cyou\u201d reflections."
+    },
+    {
+      "quote_id": "q03444",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d reports personal behavior and emotion."
+    },
+    {
+      "quote_id": "q03445",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes current living conditions; \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q03446",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d states a personal resolution."
+    },
+    {
+      "quote_id": "q03447",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI\u201d examines the speaker\u2019s decline."
+    },
+    {
+      "quote_id": "q03448",
+      "person_signal": "first",
+      "note": "Narratorial \u201cme\u201d identifies the speaker as a participant."
+    },
+    {
+      "quote_id": "q03449",
+      "person_signal": "first",
+      "note": "Sustained narratorial \u201cI\u201d renders the speaker\u2019s immediate perceptions."
+    },
+    {
+      "quote_id": "q03450",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d states personal loss and aspiration."
+    },
+    {
+      "quote_id": "q03451",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d considers fleeing; final \u201cyou\u201d is generic self-address."
+    },
+    {
+      "quote_id": "q03452",
+      "person_signal": "non_base",
+      "note": "Existing dialogue bucket; second-person speech does not identify narration."
+    },
+    {
+      "quote_id": "q03453",
+      "person_signal": "unmarked",
+      "note": "Experiential comparison lacks a narrator-identifying pronoun."
+    },
+    {
+      "quote_id": "q03454",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d recounts mutual destruction."
+    },
+    {
+      "quote_id": "q03455",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d admits being fooled; \u201cyou\u201d occurs in a maxim."
+    },
+    {
+      "quote_id": "q03456",
+      "person_signal": "unmarked",
+      "note": "Brief evaluative fragment does not identify narrator person."
+    },
+    {
+      "quote_id": "q03457",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d reflects on Anna and the speaker\u2019s own history."
+    },
+    {
+      "quote_id": "q03458",
+      "person_signal": "non_base",
+      "note": "Gnomic speculation about jealous drinkers."
+    },
+    {
+      "quote_id": "q03459",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d asks who the speaker wants to become."
+    },
+    {
+      "quote_id": "q03460",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d reflects on being pitied."
+    },
+    {
+      "quote_id": "q03461",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using generic second person."
+    },
+    {
+      "quote_id": "q03462",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes the speaker\u2019s love."
+    },
+    {
+      "quote_id": "q03463",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes reluctance to leave the house."
+    },
+    {
+      "quote_id": "q03464",
+      "person_signal": "first",
+      "note": "Narratorial \u201cme\u201d and \u201cI\u201d recount relationship damage."
+    },
+    {
+      "quote_id": "q03465",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d reports an immediate feeling."
+    },
+    {
+      "quote_id": "q03466",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d and \u201cme\u201d describe the speaker\u2019s shame."
+    },
+    {
+      "quote_id": "q03467",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d considers being unable to speak."
+    },
+    {
+      "quote_id": "q03468",
+      "person_signal": "first",
+      "note": "Sustained narratorial \u201cI\u201d reports waking and bodily sensations."
+    },
+    {
+      "quote_id": "q03469",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes renewed interest and purpose."
+    },
+    {
+      "quote_id": "q03470",
+      "person_signal": "first",
+      "note": "Narratorial \u201cme\u201d places the speaker inside the relationship."
+    },
+    {
+      "quote_id": "q03471",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes personal determination."
+    },
+    {
+      "quote_id": "q03472",
+      "person_signal": "first",
+      "note": "Despite an initially clipped word, narratorial \u201cI\u201d reports lying awake."
+    },
+    {
+      "quote_id": "q03473",
+      "person_signal": "first",
+      "note": "Narratorial \u201cmy\u201d and \u201cI\u201d describe remembered pain; \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q03474",
+      "person_signal": "non_base",
+      "note": "Existing dialogue bucket; direct second-person reassurance is local speech."
+    },
+    {
+      "quote_id": "q03475",
+      "person_signal": "first",
+      "note": "Narratorial \u201cme\u201d and \u201cI\u201d describe the speaker\u2019s relationship."
+    },
+    {
+      "quote_id": "q03476",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI\u201d describes the speaker\u2019s current state."
+    },
+    {
+      "quote_id": "q03477",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d considers contacting people from the past."
+    },
+    {
+      "quote_id": "q03478",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d contrasts memory with reality."
+    },
+    {
+      "quote_id": "q03479",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d frames a personal evaluative question."
+    },
+    {
+      "quote_id": "q03480",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d observes and imagines a couple\u2019s relationship."
+    },
+    {
+      "quote_id": "q03481",
+      "person_signal": "first",
+      "note": "Despite clipping, repeated narratorial \u201cI\u201d describes fluctuating desires."
+    },
+    {
+      "quote_id": "q03482",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d identifies the courage the speaker needs."
+    },
+    {
+      "quote_id": "q03483",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d explains secretly marking a woman\u2019s grave."
+    },
+    {
+      "quote_id": "q03484",
+      "person_signal": "unclear",
+      "note": "The beginning is clipped, obscuring whether an initial narratorial \u201cI\u201d was present."
+    },
+    {
+      "quote_id": "q03485",
+      "person_signal": "first",
+      "note": "Sustained narratorial \u201cI\u201d recounts isolation, drinking, and loss."
+    },
+    {
+      "quote_id": "q03486",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI\u201d recounts love and a changed decision."
+    },
+    {
+      "quote_id": "q03487",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d describes sitting and reflecting."
+    },
+    {
+      "quote_id": "q03488",
+      "person_signal": "non_base",
+      "note": "Existing dialogue bucket; direct address to Anna is speech."
+    },
+    {
+      "quote_id": "q03489",
+      "person_signal": "first",
+      "note": "Sustained narratorial \u201cI\u201d describes rejection and self-conception."
+    },
+    {
+      "quote_id": "q03490",
+      "person_signal": "first",
+      "note": "First-person possessive \u201cmy\u201d places the narrator inside the conflict."
+    },
+    {
+      "quote_id": "q03491",
+      "person_signal": "first",
+      "note": "Narratorial \u201cI\u201d explicitly identifies the speaker as the titular girl."
+    },
+    {
+      "quote_id": "q03492",
+      "person_signal": "first",
+      "note": "Repeated narratorial \u201cI\u201d reports insomnia and immediate impulses."
+    },
+    {
+      "quote_id": "q03493",
+      "person_signal": "unmarked",
+      "note": "Third-person self-distancing about Rachel lacks enough local framing to diagnose person alone."
+    },
+    {
+      "quote_id": "q03494",
+      "person_signal": "non_base",
+      "note": "Gnomic statement defining invasive behavior."
+    },
+    {
+      "quote_id": "q03495",
+      "person_signal": "first",
+      "note": "Narratorial \u201cme\u201d evaluates the speaker\u2019s job and decline."
+    },
+    {
+      "quote_id": "q03496",
+      "person_signal": "first",
+      "note": "Sustained narratorial \u201cI\u201d states a personal resolution."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.goodreads.com/notes/22754100-the-girl-on-the-train/37109324-paula-hawkins",
+      "title": "Paula Hawkins\u2019s Kindle Notes & Highlights for The Girl on the Train",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The author identifies three narrators and says Rachel carries most of the action; the accompanying novel passage is explicitly first-person. This is an author annotation plus a short passage, not a sustained excerpt or an explicit description of all three narrators' grammatical person."
+    },
+    {
+      "url": "https://elibrary.tucl.edu.np/bitstreams/b821e95b-ec52-4aaf-80d9-5a557eb8f77b/download",
+      "title": "Exploring the Subaltern in Paula Hawkins\u2019 The Girl on the Train",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A university English thesis explicitly describes Rachel, Megan, and Anna as the novel\u2019s three first-person narrators."
+    },
+    {
+      "url": "https://www.washingtonpost.com/entertainment/books/mysteries-review-paula-hawkinss-the-girl-on-the-train-and-harriet-lanes-her/2015/02/01/97362332-a803-11e4-a7c2-03d37af98440_story.html",
+      "title": "Mysteries review: Paula Hawkins\u2019s \u2018The Girl on the Train\u2019 and Harriet Lane\u2019s \u2018Her\u2019",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly states that the first-person narrator alternates among Rachel, Anna, and Megan."
+    },
+    {
+      "url": "https://www.penguin.co.uk/books/434488/the-girl-on-the-train-by-hawkins-paula/9781473510890",
+      "title": "The Girl on the Train by Paula Hawkins",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Penguin\u2019s book page reproduces the Irish Times\u2019 explicit description of the novel as comprising multiple first-person narratives."
+    },
+    {
+      "url": "https://gradesaver-website-prod-tql6r.ondigitalocean.app/the-girl-on-the-train/study-guide/literary-elements",
+      "title": "The Girl on the Train Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view section names Rachel, Megan, and Anna and explicitly says each narrates in first person."
+    }
+  ],
+  "search_log": [
+    "Searched Penguin Random House and Paula Hawkins sources for an authorized excerpt or structural description; opened the US and UK publisher pages.",
+    "Searched \u201cThe Girl on the Train\u201d with \u201cthree narrators,\u201d \u201cpoint of view,\u201d and \u201cfirst-person narrators\u201d; opened the Washington Post review, GradeSaver analysis, and the author\u2019s Goodreads notes.",
+    "Searched scholarly and university sources for first-person narration; opened full University of Helsinki and Tribhuvan University theses.",
+    "The US Penguin Random House page confirmed multiple narrators through review material but its interactive Read Sample text was not exposed; the UK publisher page supplied an explicit first-person description.",
+    "Targeted searches found no credible evidence of sustained second- or third-person base sections."
+  ],
+  "person_note": "The quote set repeatedly exposes participating narration through \u201cI,\u201d \u201cme,\u201d and \u201cmy,\u201d while the few second-person forms are generic or occur in dialogue. Scholarly analysis and multiple explicit reviews establish that Rachel, Megan, and Anna are all first-person narrators, so their alternation is among narrators rather than grammatical persons and the book remains FIRST. The clipped q03484 and locally unmarked passages do not contradict that structure. No material uncertainty remains beyond the quotes\u2019 lack of narrator-name headings. Source audit: the author's Goodreads annotation is contextual Tier C evidence rather than a Tier A excerpt; explicit scholarly and review descriptions support FIRST independently.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_055",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T03:31:40.506650+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "869d83efd4b8f41e09433662c2480a924f3438b11872a9ec8623add73d37b151"
+  }
+}

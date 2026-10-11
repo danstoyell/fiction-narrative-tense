@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1990:4003",
+  "quotes": [
+    {
+      "quote_id": "q01091",
+      "person_signal": "non_base",
+      "note": "General aphorism using universal 'you'; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q01092",
+      "person_signal": "non_base",
+      "note": "Gnomic first-person address about death; the I/you voice is quoted or local material, not base narration."
+    },
+    {
+      "quote_id": "q01093",
+      "person_signal": "non_base",
+      "note": "Standalone personified aphorism with no story-specific narrator."
+    },
+    {
+      "quote_id": "q01094",
+      "person_signal": "third",
+      "note": "Third-person narration reports a female character's realization and develops her free-indirect reflection; the generic 'you' is not second-person narration."
+    },
+    {
+      "quote_id": "q01095",
+      "person_signal": "non_base",
+      "note": "Standalone maxim addressed to a universal 'you,' not story narration."
+    },
+    {
+      "quote_id": "q01096",
+      "person_signal": "unmarked",
+      "note": "Clipped third-person material about an elderly woman, but the fragment is too short to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q01097",
+      "person_signal": "non_base",
+      "note": "General historical and cultural reflection; 'your' and 'you' are universal rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01098",
+      "person_signal": "third",
+      "note": "External narration presents a woman's family concerns and her private sense of helplessness in the third person."
+    },
+    {
+      "quote_id": "q01099",
+      "person_signal": "third",
+      "note": "External narration reports a male character's plan and then renders his private rules as free-indirect thought."
+    },
+    {
+      "quote_id": "q01100",
+      "person_signal": "unclear",
+      "note": "Sentence fragment lacks enough surrounding structure to determine whether it is narration or local material."
+    },
+    {
+      "quote_id": "q01101",
+      "person_signal": "non_base",
+      "note": "Standalone conversational or gnomic reflection; no controlling narrator is exposed."
+    },
+    {
+      "quote_id": "q01102",
+      "person_signal": "non_base",
+      "note": "Present-tense assessment of an absent woman appears to be character speech or another local voice; its event bucket may be an upstream issue."
+    },
+    {
+      "quote_id": "q01103",
+      "person_signal": "non_base",
+      "note": "Generic observation about aging with universal 'you'; it does not identify narrative person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinlibros.com/uy/tematicas/25814-ebook-septiembre-9788499893013/fragmento",
+      "title": "Septiembre \u2014 Fragmento",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin Random House's authorized Spanish excerpt contains the opening two chapters. It sustains third-person narration first around Violet Aird and then Noel Keeling, including externally reported actions, perceptions, and private thoughts; no participating narrator frames either chapter."
+    }
+  ],
+  "search_log": [
+    "Searched \"Rosamunde Pilcher September novel excerpt\", \"first chapter excerpt\", and Google Books preview; found an authorized Penguin Random House translated extract covering Chapters 1 and 2.",
+    "Searched \"September Rosamunde Pilcher point of view\", \"third person\", and \"narrator\"; results were mostly catalog summaries or audiobook-reader metadata rather than explicit narrative-person analysis.",
+    "Opened the Hachette UK publisher page and followed its Read Excerpt control, but the control returned the same product page without accessible prose.",
+    "Checked Google Books editions, a French publisher extract link, Booknode passages, library records, and review results; Google Books offered only limited snippets, the French extract timed out, and summaries/reviews did not independently establish narrative person."
+  ],
+  "person_note": "The book's base narration is third person. Three Goodreads passages independently expose characters' private realizations or plans through third-person external narration/free-indirect discourse, while the remaining I/you material is gnomic, conversational, fragmentary, or otherwise non-base. The authorized opening corroborates this across two chapters and two focal characters, Violet and Noel, without any first-person frame. The main limitation is that the Tier A source covers only the opening, but the interior quote evidence agrees and no credible source indicates sustained first- or second-person sections.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_026",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:39:41.606148+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2a18c3f3cf1280b00c613ff447720d19efba45616b73d0117f5e156f6327a8d1"
+  }
+}

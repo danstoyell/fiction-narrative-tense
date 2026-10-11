@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:5543",
+  "quotes": [
+    {
+      "quote_id": "q01087",
+      "person_signal": "unmarked",
+      "note": "The golf club is described as \u201cit,\u201d but this inanimate third-person reference does not establish whether the controlling narrator participates in the story."
+    },
+    {
+      "quote_id": "q01088",
+      "person_signal": "non_base",
+      "note": "A general aphorism about wealthy people, with no story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q01089",
+      "person_signal": "unmarked",
+      "note": "This narratorial exposition describes OPD lawyers as they/them, but the short general description alone does not exclude a participating narrator."
+    },
+    {
+      "quote_id": "q01090",
+      "person_signal": "unmarked",
+      "note": "Impersonal exposition about mass-tort practice contains no narrator-identifying pronoun or frame."
+    },
+    {
+      "quote_id": "q01091",
+      "person_signal": "third",
+      "note": "The narration externally identifies a male focal character as he/him while presenting his shame and self-assessment, diagnosing close third-person narration."
+    },
+    {
+      "quote_id": "q01092",
+      "person_signal": "unclear",
+      "note": "The fragment lacks a subject and enough surrounding syntax to identify narration or person."
+    },
+    {
+      "quote_id": "q01093",
+      "person_signal": "unmarked",
+      "note": "Impersonal exposition about street life may belong to base narration but contains no diagnostic narrator-person marker."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/the-king-of-torts",
+      "title": "The King of Torts by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's official site reproduces the opening, which uses sustained external narration of the gunman, witnesses, and other characters as he/they, with no participating narrator."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-king-of-torts/excerpt",
+      "title": "The King of Torts by John Grisham | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "This Dell-authorized extended opening maintains third-person narration across several characters and then Clay Carter. Its isolated \u201cI'm quitting\u201d is explicitly Clay's thought within third-person narration, not a first-person narrator."
+    },
+    {
+      "url": "https://www.supersummary.com/the-king-of-torts/chapters-1-8-summary/",
+      "title": "The King of Torts Chapters 1-8 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The analysis explicitly identifies Chapters 1\u20138 as using a close third-person perspective centered on Clay's perceptions."
+    },
+    {
+      "url": "https://www.christian-sauve.com/2006/06/the-king-of-torts-john-grisham/",
+      "title": "The King of Torts, John Grisham \u2013 Christian Sauv\u00e9",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A full-book review explicitly describes the novel's usual mode as restricted third-person, with occasional shifts to a broader perspective; both modes remain third person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe King of Torts John Grisham excerpt first chapter\u201d and opened authorized opening excerpts on the author's site, Bookreporter, and BookBrowse.",
+    "Searched \u201cThe King of Torts third person narrator\u201d and \u201cThe King of Torts point of view narration\u201d; found explicit close/restricted-third descriptions from SuperSummary and Christian Sauv\u00e9.",
+    "Searched \u201cThe King of Torts alternating narrator OR multiple narrators,\u201d \u201cepistolary diary frame narrative,\u201d \u201cnarration first person,\u201d and \u201comniscient narrator\u201d; found no credible evidence of sustained first-person, second-person, epistolary, or alternating sections.",
+    "Opened the Google Books record, but it exposed catalog copy, contents, and common terms rather than usable sustained narrative or structural POV evidence.",
+    "A purported interior excerpt at Hopkins and Company appeared in search results, but the page timed out when opened and was therefore not used."
+  ],
+  "person_note": "The diagnostic quote q01091 shows close third-person access to the focal character, while the remaining narrative quotes are too impersonal or brief to identify person securely. Authorized opening prose independently establishes third-person narration, and explicit section-level and whole-book analyses describe close or restricted third person with occasional broader third-person passages. The first-person wording visible inside the authorized excerpt is marked as Clay's direct thought, not controlling narration. No evidence indicates sustained narration in another person; the main limitation is that the authorized prose is opening-only, mitigated by the whole-book POV description and corroborating Goodreads passage.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_039",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T20:53:26.968057+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "e0b093e7af56fbcb1659f370c2b003af2530df4b6d1c3c48769aea7726f98bb9"
+  }
+}

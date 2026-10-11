@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1943:263",
+  "quotes": [
+    {
+      "quote_id": "q00535",
+      "person_signal": "unmarked",
+      "note": "Brief third-person reference to an unnamed character does not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q00536",
+      "person_signal": "non_base",
+      "note": "Gnomic advice uses universal you, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q00537",
+      "person_signal": "non_base",
+      "note": "First-person language occurs inside Francie's quoted prayer."
+    },
+    {
+      "quote_id": "q00538",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns do not expose the narrator."
+    },
+    {
+      "quote_id": "q00539",
+      "person_signal": "non_base",
+      "note": "The passage is explicitly presented as Francie's direct thought."
+    },
+    {
+      "quote_id": "q00540",
+      "person_signal": "third",
+      "note": "Sustained external narration describes the heroine's habits and suffering as she."
+    },
+    {
+      "quote_id": "q00541",
+      "person_signal": "third",
+      "note": "Extended external characterization of Francie and her family establishes third-person narration."
+    },
+    {
+      "quote_id": "q00542",
+      "person_signal": "non_base",
+      "note": "Gnomic exclamation rather than a narrated scene."
+    },
+    {
+      "quote_id": "q00543",
+      "person_signal": "non_base",
+      "note": "Character speech; generic and first-person pronouns are local to the speaker."
+    },
+    {
+      "quote_id": "q00544",
+      "person_signal": "non_base",
+      "note": "Mary Rommely's quoted speech, including I, is not base narration."
+    },
+    {
+      "quote_id": "q00545",
+      "person_signal": "non_base",
+      "note": "Character advice and embedded quoted proposal."
+    },
+    {
+      "quote_id": "q00546",
+      "person_signal": "non_base",
+      "note": "Character speech, not the controlling narrator."
+    },
+    {
+      "quote_id": "q00547",
+      "person_signal": "non_base",
+      "note": "Standalone maxim supplies no narrative-person evidence."
+    },
+    {
+      "quote_id": "q00548",
+      "person_signal": "non_base",
+      "note": "Generic you appears in character speech."
+    },
+    {
+      "quote_id": "q00549",
+      "person_signal": "non_base",
+      "note": "First-person character speech without narratorial framing."
+    },
+    {
+      "quote_id": "q00550",
+      "person_signal": "non_base",
+      "note": "Direct thought addressed to oneself; the short she-thought tag is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00551",
+      "person_signal": "unmarked",
+      "note": "Narratorial statement contains no character or participating-narrator marker."
+    },
+    {
+      "quote_id": "q00552",
+      "person_signal": "unmarked",
+      "note": "A single she-centered scene sentence is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q00553",
+      "person_signal": "non_base",
+      "note": "Character speech uses generic you."
+    },
+    {
+      "quote_id": "q00554",
+      "person_signal": "non_base",
+      "note": "Quoted advice, not base narration."
+    },
+    {
+      "quote_id": "q00555",
+      "person_signal": "unmarked",
+      "note": "Brief reference to they/their lacks enough local context to establish narrator position."
+    },
+    {
+      "quote_id": "q00556",
+      "person_signal": "non_base",
+      "note": "First-person character speech or thought."
+    },
+    {
+      "quote_id": "q00557",
+      "person_signal": "third",
+      "note": "Extended narration accesses the nurse's knowledge, future regret, motives, and moral character externally."
+    },
+    {
+      "quote_id": "q00558",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism does not identify the narrator."
+    },
+    {
+      "quote_id": "q00559",
+      "person_signal": "non_base",
+      "note": "Character speech with local we, our, and me."
+    },
+    {
+      "quote_id": "q00560",
+      "person_signal": "non_base",
+      "note": "Character speech with local we."
+    },
+    {
+      "quote_id": "q00561",
+      "person_signal": "non_base",
+      "note": "Gnomic tree description; its generic presentation does not diagnose person."
+    },
+    {
+      "quote_id": "q00562",
+      "person_signal": "third",
+      "note": "The narrator externally contrasts Katie and Johnny and summarizes their defining traits."
+    },
+    {
+      "quote_id": "q00563",
+      "person_signal": "non_base",
+      "note": "The visible I occurs in a clearly tagged direct thought; generic you remains within that thought."
+    },
+    {
+      "quote_id": "q00564",
+      "person_signal": "unmarked",
+      "note": "Brief third-person summary about her books is not independently diagnostic."
+    },
+    {
+      "quote_id": "q00565",
+      "person_signal": "third",
+      "note": "Continuous scene narration follows Francie's actions and reports her private sensory preferences externally."
+    },
+    {
+      "quote_id": "q00566",
+      "person_signal": "third",
+      "note": "Outside the opening speech, the narrator names Francie and reports her wishes and private reasoning in third person."
+    },
+    {
+      "quote_id": "q00567",
+      "person_signal": "third",
+      "note": "Sustained omniscient commentary generalizes across women's and men's conduct without a participating narrator."
+    },
+    {
+      "quote_id": "q00568",
+      "person_signal": "non_base",
+      "note": "Character speech presenting a general claim."
+    },
+    {
+      "quote_id": "q00569",
+      "person_signal": "non_base",
+      "note": "Quoted advice uses generic you."
+    },
+    {
+      "quote_id": "q00570",
+      "person_signal": "third",
+      "note": "Third-person narration describes Francie's love of books and frames her ensuing direct thought."
+    },
+    {
+      "quote_id": "q00571",
+      "person_signal": "non_base",
+      "note": "Francie's words are explicitly marked as her decision or direct thought."
+    },
+    {
+      "quote_id": "q00572",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00573",
+      "person_signal": "non_base",
+      "note": "A dialogue exchange; I, you, and mother belong to the speakers."
+    },
+    {
+      "quote_id": "q00574",
+      "person_signal": "non_base",
+      "note": "Francie's quoted speech."
+    },
+    {
+      "quote_id": "q00575",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00576",
+      "person_signal": "unmarked",
+      "note": "Most of the passage is quoted advice; the final brief Francie sentence does not independently establish person."
+    },
+    {
+      "quote_id": "q00577",
+      "person_signal": "third",
+      "note": "Extended omniscient characterization narrates Sissy's conduct, feelings, motives, and private beliefs externally."
+    },
+    {
+      "quote_id": "q00578",
+      "person_signal": "unmarked",
+      "note": "Short action tags surrounding dialogue use only she and he and do not independently identify the narrator."
+    },
+    {
+      "quote_id": "q00579",
+      "person_signal": "third",
+      "note": "Narration externally reports her abandoned effort, consolation, vow, and imagined adulthood."
+    },
+    {
+      "quote_id": "q00580",
+      "person_signal": "non_base",
+      "note": "Explicitly tagged direct thought with character-specific you."
+    },
+    {
+      "quote_id": "q00581",
+      "person_signal": "third",
+      "note": "A sustained narrated scene names Katie and Francie, summarizes past family behavior, and embeds their dialogue."
+    },
+    {
+      "quote_id": "q00582",
+      "person_signal": "non_base",
+      "note": "First-person character exclamation."
+    },
+    {
+      "quote_id": "q00583",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; I belongs to Francie."
+    },
+    {
+      "quote_id": "q00584",
+      "person_signal": "non_base",
+      "note": "A character's direct lament or address to time."
+    },
+    {
+      "quote_id": "q00585",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed to Francie, not second-person base narration."
+    },
+    {
+      "quote_id": "q00586",
+      "person_signal": "non_base",
+      "note": "Extended first-person character speech."
+    },
+    {
+      "quote_id": "q00587",
+      "person_signal": "non_base",
+      "note": "Character dialogue framed as rhetorical questions."
+    },
+    {
+      "quote_id": "q00588",
+      "person_signal": "non_base",
+      "note": "Francie's conclusion is presented as her direct thought; the attribution is too brief to diagnose person."
+    },
+    {
+      "quote_id": "q00589",
+      "person_signal": "third",
+      "note": "Sustained external narration reports the heroine's actions, knowledge, prediction, and desired memory."
+    },
+    {
+      "quote_id": "q00590",
+      "person_signal": "non_base",
+      "note": "Francie's rhetorical questions are direct thought."
+    },
+    {
+      "quote_id": "q00591",
+      "person_signal": "non_base",
+      "note": "Extended character speech; first-person references are local to its speaker."
+    },
+    {
+      "quote_id": "q00592",
+      "person_signal": "non_base",
+      "note": "Verse paratext, not prose base narration."
+    },
+    {
+      "quote_id": "q00593",
+      "person_signal": "non_base",
+      "note": "First-person character speech."
+    },
+    {
+      "quote_id": "q00594",
+      "person_signal": "third",
+      "note": "Extended scene narration names Francie and externally depicts her perceptions, bodily response, desire, and actions."
+    },
+    {
+      "quote_id": "q00595",
+      "person_signal": "unmarked",
+      "note": "Brief she-centered commentary is compatible with more than one controlling narrator."
+    },
+    {
+      "quote_id": "q00596",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to a character."
+    },
+    {
+      "quote_id": "q00597",
+      "person_signal": "unmarked",
+      "note": "Descriptive base prose about the tree contains no participating-narrator or story-specific protagonist marker."
+    },
+    {
+      "quote_id": "q00598",
+      "person_signal": "unmarked",
+      "note": "A single she-centered belief report is too short to establish the controlling person by itself."
+    },
+    {
+      "quote_id": "q00599",
+      "person_signal": "non_base",
+      "note": "Character speech about the tree."
+    },
+    {
+      "quote_id": "q00600",
+      "person_signal": "non_base",
+      "note": "Character speech contrasting countries and using generic a man/he."
+    },
+    {
+      "quote_id": "q00601",
+      "person_signal": "third",
+      "note": "Sustained narration externally explains community speech, names Francie, and reports her perception and knowledge."
+    },
+    {
+      "quote_id": "q00602",
+      "person_signal": "unmarked",
+      "note": "Brief internal realization described with she/her is not independently conclusive."
+    },
+    {
+      "quote_id": "q00603",
+      "person_signal": "unmarked",
+      "note": "A single sentence naming Francie's thought does not alone establish the narrator's person."
+    },
+    {
+      "quote_id": "q00604",
+      "person_signal": "non_base",
+      "note": "Character advice with generic you."
+    },
+    {
+      "quote_id": "q00605",
+      "person_signal": "non_base",
+      "note": "Character dialogue presenting a generalization."
+    },
+    {
+      "quote_id": "q00606",
+      "person_signal": "unmarked",
+      "note": "Brief she-centered perception and supposition lack enough contextual framing."
+    },
+    {
+      "quote_id": "q00607",
+      "person_signal": "unmarked",
+      "note": "Single she-centered scene sentence does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q00608",
+      "person_signal": "third",
+      "note": "Sustained external narration describes the heroine's belonging, identity, and private desire as she."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.vpm.org/npr-news/2008-02-18/excerpt-a-tree-grows-in-brooklyn/",
+      "title": "Excerpt: A Tree Grows in Brooklyn",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Authorized Chapter One excerpt, reprinted with HarperCollins permission, sustains external narration of Francie and other characters; its occasional you is generic neighborhood description."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/brooklyn/section3/",
+      "title": "A Tree Grows in Brooklyn: Chapters 7\u20139 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The analysis explicitly identifies the novel's point of view as omniscient and explains how the narrator supplies information Francie does not know."
+    },
+    {
+      "url": "https://www.tpet.com/content/NovelUnitsSamples/TreeGrowsBrooklyn-NUT-sample.pdf",
+      "title": "A Tree Grows in Brooklyn Teacher Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide's book-level literary overview explicitly lists the point of view as third-person omniscient."
+    },
+    {
+      "url": "https://wacevault.com/english-lit/book_notes/LitCharts%20-%20Textual%20Analyses/T/A-Tree-Grows-in-Brooklyn-LitChart.pdf",
+      "title": "A Tree Grows in Brooklyn LitChart",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide's key-facts section explicitly identifies the novel's point of view as third-person omniscient."
+    },
+    {
+      "url": "https://www.gradesaver.com/a-tree-grows-in-brooklyn/study-guide/literary-elements",
+      "title": "A Tree Grows in Brooklyn Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The narrator-and-point-of-view entry identifies an anonymous third-person omniscient narrator."
+    }
+  ],
+  "search_log": [
+    "Searched: \"A Tree Grows in Brooklyn\" \"Betty Smith\" excerpt, first chapter, narrator, point of view, third person, and omniscient.",
+    "Searched specifically for epistolary, diary, frame narrative, multiple narrators, and alternating point of view; results showed only local diary material and no sustained person alternation.",
+    "Opened the authorized VPM/NPR Chapter One excerpt and explicit POV discussions from SparkNotes, Novel Units, LitCharts, and GradeSaver.",
+    "Searched HarperCollins and Google Books for additional authorized or interior previews; Google Books supplied catalog material rather than diagnostic prose, and the ReadingGroupGuides print page timed out when opened."
+  ],
+  "person_note": "The controlling narrator is a nonparticipating third-person omniscient voice. Numerous interior Goodreads passages sustain external narration of Francie, Katie, Johnny, Sissy, and the nurse while reporting private thoughts or knowledge; these agree with the authorized third-person opening and several explicit whole-book POV guides. First-person and story-specific-looking you forms in the quote set are confined to dialogue, prayer, direct thought, or generic advice. Francie's diary is local story material rather than a constitutive frame, and research found no sustained first- or second-person section. The principal limitation is that the authorized excerpt covers only the opening, but the interior quotes and multiple whole-book descriptions resolve that scope limitation without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_005",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:07:55.846113+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9036f227cae650f88bbd7a604efcace5c50c572be571fd13a01076d674a0ec79"
+  }
+}

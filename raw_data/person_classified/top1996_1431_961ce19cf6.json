@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1996:1431",
+  "quotes": [
+    {
+      "quote_id": "q00096",
+      "person_signal": "unmarked",
+      "note": "Narratorial observation, but no participating or nonparticipating narrator is exposed."
+    },
+    {
+      "quote_id": "q00097",
+      "person_signal": "non_base",
+      "note": "Second-person pronouns occur in character speech; the brief third-person action beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q00098",
+      "person_signal": "third",
+      "note": "External narration gives sustained access to an unnamed male character's layered consciousness."
+    },
+    {
+      "quote_id": "q00099",
+      "person_signal": "non_base",
+      "note": "General proverb rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q00100",
+      "person_signal": "non_base",
+      "note": "Quoted character speech."
+    },
+    {
+      "quote_id": "q00101",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms belong to the policeman's speech; the short speaker tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q00102",
+      "person_signal": "non_base",
+      "note": "Quoted character speech."
+    },
+    {
+      "quote_id": "q00103",
+      "person_signal": "unmarked",
+      "note": "Story-specific rhetorical reflection about 'he,' but its short context does not securely distinguish narration from local thought."
+    },
+    {
+      "quote_id": "q00104",
+      "person_signal": "third",
+      "note": "Extended external narration identifies Johnny Marinville by name and enters his fears; generic 'you' is free-indirect generalization, not second-person base narration."
+    },
+    {
+      "quote_id": "q00105",
+      "person_signal": "third",
+      "note": "External scene narration follows one male character while reporting Johnny's perception of him."
+    },
+    {
+      "quote_id": "q00106",
+      "person_signal": "non_base",
+      "note": "Conversational exchange; first- and second-person pronouns are spoken."
+    },
+    {
+      "quote_id": "q00107",
+      "person_signal": "unclear",
+      "note": "Clipped infinitive fragment lacks enough structure to locate its voice."
+    },
+    {
+      "quote_id": "q00108",
+      "person_signal": "non_base",
+      "note": "General aphorism rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00109",
+      "person_signal": "non_base",
+      "note": "Quoted speech with only a brief, nondiagnostic attribution."
+    },
+    {
+      "quote_id": "q00110",
+      "person_signal": "non_base",
+      "note": "Quoted character speech."
+    },
+    {
+      "quote_id": "q00111",
+      "person_signal": "non_base",
+      "note": "A character reports God's direct speech; the visible persons do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00112",
+      "person_signal": "third",
+      "note": "Despite substantial dialogue, the intervening narration externally depicts the cop and Johnny and reports Johnny's observation."
+    },
+    {
+      "quote_id": "q00113",
+      "person_signal": "non_base",
+      "note": "General comic aphorism."
+    },
+    {
+      "quote_id": "q00114",
+      "person_signal": "unclear",
+      "note": "Nominal fragments provide no recoverable narrator or quotation context."
+    },
+    {
+      "quote_id": "q00115",
+      "person_signal": "unmarked",
+      "note": "A brief external description of 'she' alone does not establish the controlling narrator's person."
+    },
+    {
+      "quote_id": "q00116",
+      "person_signal": "third",
+      "note": "A sustained externally narrated action sequence presents the male character as 'he' without a participating frame."
+    },
+    {
+      "quote_id": "q00117",
+      "person_signal": "third",
+      "note": "External narration follows his action and inability to suppress laughter while also referring to another character as 'she.'"
+    },
+    {
+      "quote_id": "q00118",
+      "person_signal": "unmarked",
+      "note": "The ellipsis and short third-person action leave insufficient context to establish narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://unbscholar.dspace.lib.unb.ca/server/api/core/bitstreams/64039633-52b8-4988-ade5-4177e11d04bc/content",
+      "title": "Speaking Out of Turn: Paraleptical Paralipsis and the Millennial Bildungsroman",
+      "tier": "B",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The University of New Brunswick dissertation's Desperation analysis identifies an interior diegesis as delivered by the third-person narrator and treats characters' first-person interior reactions as voices framed within that narration."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-desperation2/style.html",
+      "title": "Stephen King Writing Styles in Desperation",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly calls the narrator third-person omniscient and states that third person is used in every scene and chapter."
+    },
+    {
+      "url": "https://hjuoz.uoz.edu.krd/index.php/hum/article/download/87/51/108",
+      "title": "Narrative Embedding in the Postmodern American Novel with Reference to Stephen King's Desperation",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "This scholarly structural study distinguishes the novel's framing discourse from subordinated character-told chronicles and other embedded narratives, helping prevent local first-person material from being mistaken for an alternating base person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Stephen King Desperation excerpt official publisher\", \"first chapter excerpt\", and Google Books preview; opened the Simon & Schuster page and Google Books preview, but neither exposed a sustained prose excerpt in accessible page text.",
+    "Searched \"Desperation Stephen King point of view\", \"third person\", and \"narrator\"; opened BookRags' style analysis and its separate answer page, both explicitly identifying third-person omniscient narration.",
+    "Searched the University of New Brunswick repository for Desperation and \"third-person narrator\"; opened the dissertation record and attempted the full PDF, whose indexed Desperation chapter analyzes the third-person frame and locally embedded character voices.",
+    "Searched \"Desperation Stephen King epistolary diary alternating narrator point of view\" and \"frame narrative\"; found and opened the Journal of University of Zakho article documenting localized embedded chronicles, with no evidence of sustained base sections in another grammatical person."
+  ],
+  "person_note": "The controlling narration is third person: multiple quotes externally narrate characters while moving into David's or Johnny's consciousness, and the whole-book POV description agrees. The 'you' in q00104 is a generic free-indirect maxim within third-person narration, while other first- and second-person forms are dialogue. Scholarly structural sources show that character-told histories and interior first-person voices are embedded within the frame, not autonomous base sections, so they do not justify ALTERNATING. No accessible authorized sustained excerpt was found, but the concordance of diagnostic quotations, a scholarly narratological analysis, and an explicit whole-book account leaves no substantive person conflict.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.226161+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ba4e01f60fb50da2bd1d91c6e6c2829698112b1a7d752150cdec742cbc219036"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:THE GAMES GODS PLAY|Abigail Owen",
+  "quotes": [
+    {
+      "quote_id": "q09612",
+      "person_signal": "non_base",
+      "note": "A general maxim without a story-specific narrating voice."
+    },
+    {
+      "quote_id": "q09613",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection, possibly stripped speech; its first-person idiom does not establish base narration."
+    },
+    {
+      "quote_id": "q09614",
+      "person_signal": "non_base",
+      "note": "A direct-address romantic avowal assigned to dialogue, not the controlling narrator."
+    },
+    {
+      "quote_id": "q09615",
+      "person_signal": "non_base",
+      "note": "Vocative romantic speech to 'you'; the speaker is local dialogue."
+    },
+    {
+      "quote_id": "q09616",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, the participating narrator says 'I tell him' and 'I'm talking,' exposing first-person base narration."
+    },
+    {
+      "quote_id": "q09617",
+      "person_signal": "non_base",
+      "note": "Direct-address romantic speech rather than narratorial address."
+    },
+    {
+      "quote_id": "q09618",
+      "person_signal": "unmarked",
+      "note": "A scene-specific evaluative observation, but it contains no grammatical marker that independently identifies narrator person."
+    },
+    {
+      "quote_id": "q09619",
+      "person_signal": "non_base",
+      "note": "Motto-like aphoristic material rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q09620",
+      "person_signal": "unclear",
+      "note": "The first-person counterfactual could be narration, thought, or speech because its local boundaries are missing."
+    },
+    {
+      "quote_id": "q09621",
+      "person_signal": "first",
+      "note": "The story-specific narrator describes her own history as 'I've failed,' identifying a participating first-person voice."
+    },
+    {
+      "quote_id": "q09622",
+      "person_signal": "non_base",
+      "note": "Part-level gnomic framing about mortals; the collective 'we' is not used as evidence for the controlling narrator."
+    },
+    {
+      "quote_id": "q09623",
+      "person_signal": "first",
+      "note": "The narrator participates in the scene and explicitly reports 'I envy' while observing another character."
+    },
+    {
+      "quote_id": "q09624",
+      "person_signal": "non_base",
+      "note": "A short line of stripped dialogue with no usable narratorial beat."
+    },
+    {
+      "quote_id": "q09625",
+      "person_signal": "first",
+      "note": "Although dialogue dominates, intervening base narration includes 'I tell him,' 'I feel,' and 'I don't know,' identifying the participating narrator."
+    },
+    {
+      "quote_id": "q09626",
+      "person_signal": "unmarked",
+      "note": "The narratorial material describes Hades externally but contains no reliable marker distinguishing first-person from third-person narration; the explicit first person is in speech."
+    },
+    {
+      "quote_id": "q09627",
+      "person_signal": "unmarked",
+      "note": "Scene-specific evaluation of Hades is compatible with first-person narration but has no explicit narrator-person marker."
+    },
+    {
+      "quote_id": "q09628",
+      "person_signal": "non_base",
+      "note": "A generalized rhetorical question filed as gnomic rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q09629",
+      "person_signal": "first",
+      "note": "The spoken 'I'm' is local, but the outside dialogue tag 'I insist' directly exposes first-person narration."
+    },
+    {
+      "quote_id": "q09630",
+      "person_signal": "non_base",
+      "note": "Direct-address romantic speech by a character, not base narration."
+    },
+    {
+      "quote_id": "q09631",
+      "person_signal": "first",
+      "note": "Sustained scene narration uses 'I make it home,' 'I'm switching,' and 'I sigh,' clearly identifying a participating narrator."
+    },
+    {
+      "quote_id": "q09632",
+      "person_signal": "first",
+      "note": "The narratorial beat outside the dialogue describes his thumb moving over 'my cheekbone,' identifying the narrator as a participant."
+    },
+    {
+      "quote_id": "q09633",
+      "person_signal": "first",
+      "note": "After a spoken line, the base narration continues with 'I lift my head' and the narrator's own action."
+    },
+    {
+      "quote_id": "q09634",
+      "person_signal": "non_base",
+      "note": "A generalized maxim about handling a type of person, not a narrated story event."
+    },
+    {
+      "quote_id": "q09635",
+      "person_signal": "non_base",
+      "note": "A direct-address romantic declaration assigned to dialogue; its 'you' is not second-person base narration."
+    },
+    {
+      "quote_id": "q09636",
+      "person_signal": "non_base",
+      "note": "An imperative-framed aphorism without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q09637",
+      "person_signal": "non_base",
+      "note": "Direct-address dialogue containing an insult; its pronouns identify the speaker and addressee, not the base narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://reactormag.com/excerpts-the-games-gods-play-by-abigail-owen/",
+      "title": "Read an Excerpt From Abigail Owen\u2019s The Games Gods Play",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "A sustained Chapter 3 excerpt, reprinted with permission from Red Tower Books, presents Lyra's participating narration consistently as 'I' in scene action, perception, and reflection."
+    },
+    {
+      "url": "https://twohalvesonebrian.com/2025/12/13/the-games-gods-play-by-abigail-owen-summary-and-review-no-spoilers/",
+      "title": "The Games Gods Play by Abigail Owen: Summary and Review \u2013 (NO SPOILERS)",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review's book statistics explicitly identify first-person narration and state that the entire novel is from the main female character's point of view."
+    },
+    {
+      "url": "https://www.supersummary.com/the-games-gods-play/important-quotes/",
+      "title": "The Games Gods Play Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Attributed passages spanning Parts 1 through 6 repeatedly present Lyra's interior observations and actions as 'I,' corroborating continuation of her first-person voice well beyond the opening."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Games Gods Play\" Abigail Owen excerpt first chapter; found the author's Chapter 1 page and Reactor's authorized Chapter 3 excerpt.",
+    "Searched \"The Games Gods Play\" Abigail Owen \"first person\" and \"The Games Gods Play\" Abigail Owen point of view narrator; found an explicit whole-book first-person/single-POV description and weaker catalog-style assertions.",
+    "Searched site:entangledpublishing.com \"The Games Gods Play\" excerpt; the publisher listing surfaced through Reactor but did not provide additional accessible structural evidence.",
+    "Opened the Reactor excerpt, the explicit POV review, and SuperSummary's cross-book quotation page before using them. The author's own book page returned HTTP 429 when opened, so it was not used as evidence."
+  ],
+  "person_note": "The controlling narrator is Lyra, a story participant narrating in first person. Multiple Goodreads quotations expose first-person narratorial beats outside dialogue, including material associated with later parts of the novel, while the authorized Chapter 3 excerpt independently sustains the same voice and a whole-book review explicitly reports that all chapters use the main female character's first-person POV. Romantic lines addressed as 'you' are local dialogue, not second-person narration, and the few unmarked descriptions are fully compatible with Lyra's first-person narration. No credible evidence of sustained third-person or second-person sections was found. The only minor limitation is the absence of an accessible publisher statement explicitly describing the entire book's structure, but the convergent excerpt, distributed quotations, and whole-book POV description support high confidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_087",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:27:16.440848+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "eaffb9336b8b3f383313943b4dfffbaaed6fdfd5a17560568315099629131625"
+  }
+}

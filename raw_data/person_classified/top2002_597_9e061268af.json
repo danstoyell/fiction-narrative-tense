@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2002:597",
+  "quotes": [
+    {
+      "quote_id": "q00004",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its first-person pronouns do not independently identify the base narrator."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "Primarily direct dialogue; the third-person speech beat does not establish the base narrator's person."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "first",
+      "note": "The participating narrator directly describes his effect on another character using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "unmarked",
+      "note": "Base narration describes Race Maggad in third person, but named characters and third-person pronouns are compatible with a first-person narrator."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "first",
+      "note": "Extended autobiographical narration repeatedly identifies the narrator as a participating journalist using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "non_base",
+      "note": "A generalization about journalists; its collective \u201cwe/us\u201d is gnomic rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "Gnomic commentary about newspaper work does not expose the controlling narrator's grammatical person."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "unmarked",
+      "note": "Possible base scene narration refers to Ellis and Jimmy externally, but contains no diagnostic narrator reference."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/28340-pw-talks-with-carl-hiaasen.html",
+      "title": "PW Talks with Carl Hiaasen",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In a primary author interview, Hiaasen says he chose first person and remained inside one character's perspective for the entire novel."
+    },
+    {
+      "url": "https://dailynexus.com/2002-01-31/book-review-carl-hiaasen-basket-case/",
+      "title": "Book Review: Carl Hiaasen | Basket Case",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A contemporary review explicitly states that the novel uses first-person narration and stays with Jack Tagger."
+    },
+    {
+      "url": "https://www.whichbook.net/book/2237/Basket-Case-Carl-Hiaasen/",
+      "title": "Basket Case by Carl Hiaasen",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "FIRST",
+      "note": "An interior extract shows Jack narrating his own actions and family history as \u201cI,\u201d corroborating the sampled passages."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cBasket Case\u201d \u201cCarl Hiaasen\u201d with excerpt, first chapter, point of view, first person, narrator, and narrated-by terms.",
+    "Opened the Publishers Weekly author interview, the Daily Nexus contemporary review, an interior Whichbook extract, Google Books, Penguin Random House, and Carl Hiaasen's official book page.",
+    "Targeted searches for alternating narration, multiple narrators, epistolary form, frame narrative, and third-person sections found no credible contrary structure.",
+    "Bookreporter's chapter-one excerpt timed out when opened, and the official-site Amazon preview returned an internal error; neither inaccessible preview was used as evidence.",
+    "Google Books and the publisher/author pages verified the work but did not themselves explicitly establish narrative person."
+  ],
+  "person_note": "The diagnostic event passages q00006 and q00008 expose Jack Tagger as a participating first-person narrator. Third-person references to other characters in q00007 and q00011 are unmarked rather than evidence of third-person narration; dialogue and gnomic passages are local or nondiagnostic. Hiaasen's whole-book account of his narrative choice, an independent contemporary review, and an interior extract all agree that the novel remains in Jack's first-person perspective. No credible evidence of sustained narration in another person was found; the only minor uncertainty is that the accessible extracts do not reproduce every section of the book.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.235689+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "29e9b973aa62a56020969204e2c29631ccd757ee340fab422ddbe848cbe6b29d"
+  }
+}

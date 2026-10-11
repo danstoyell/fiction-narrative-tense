@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:HARLEM SHUFFLE|Colson Whitehead",
+  "quotes": [
+    {
+      "quote_id": "q06274",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic base narration."
+    },
+    {
+      "quote_id": "q06275",
+      "person_signal": "non_base",
+      "note": "Character dialogue; the short speech beat does not establish narrator person."
+    },
+    {
+      "quote_id": "q06276",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using generic second person."
+    },
+    {
+      "quote_id": "q06277",
+      "person_signal": "third",
+      "note": "Third-person focalization reports how the character sees life; the 'you' is generic."
+    },
+    {
+      "quote_id": "q06278",
+      "person_signal": "non_base",
+      "note": "Quoted character advice, including its repeated generic 'you.'"
+    },
+    {
+      "quote_id": "q06279",
+      "person_signal": "unmarked",
+      "note": "Bare statement about Carney is too short to establish the narrating position."
+    },
+    {
+      "quote_id": "q06280",
+      "person_signal": "unmarked",
+      "note": "Possible narration includes a rhetorical communal 'we,' not a participating story narrator."
+    },
+    {
+      "quote_id": "q06281",
+      "person_signal": "non_base",
+      "note": "Gnomic explanation using hypothetical second person."
+    },
+    {
+      "quote_id": "q06282",
+      "person_signal": "third",
+      "note": "Sustained external narration names Carney and renders his evaluation in third person."
+    },
+    {
+      "quote_id": "q06283",
+      "person_signal": "unmarked",
+      "note": "Brief characterization of Alma does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q06284",
+      "person_signal": "non_base",
+      "note": "Standalone maxim with generic second person."
+    },
+    {
+      "quote_id": "q06285",
+      "person_signal": "third",
+      "note": "Extended third-person narration externally follows the boys and directly renders Carney's feelings."
+    },
+    {
+      "quote_id": "q06286",
+      "person_signal": "non_base",
+      "note": "Character speech; its 'we' does not identify the base narrator."
+    },
+    {
+      "quote_id": "q06287",
+      "person_signal": "non_base",
+      "note": "Standalone figurative observation rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q06288",
+      "person_signal": "non_base",
+      "note": "Standalone maxim."
+    },
+    {
+      "quote_id": "q06289",
+      "person_signal": "non_base",
+      "note": "Gnomic material using generic second person."
+    },
+    {
+      "quote_id": "q06290",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Carney as 'he' and renders his discrimination between meanings."
+    },
+    {
+      "quote_id": "q06291",
+      "person_signal": "third",
+      "note": "Third-person narration reports the character's puzzlement and conceptual response."
+    },
+    {
+      "quote_id": "q06292",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not narratorial 'I.'"
+    },
+    {
+      "quote_id": "q06293",
+      "person_signal": "third",
+      "note": "Extended external family-scene narration consistently presents the characters in third person."
+    },
+    {
+      "quote_id": "q06294",
+      "person_signal": "unclear",
+      "note": "Malformed quotation boundaries make the local voice and attribution uncertain."
+    },
+    {
+      "quote_id": "q06295",
+      "person_signal": "unmarked",
+      "note": "Brief comparison involving Carney and Big Mike is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q06296",
+      "person_signal": "unmarked",
+      "note": "An unidentified 'he' and generic 'you' do not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q06297",
+      "person_signal": "unmarked",
+      "note": "Historical commentary uses hypothetical second person rather than story-specific second-person narration."
+    },
+    {
+      "quote_id": "q06298",
+      "person_signal": "unmarked",
+      "note": "Carney is mentioned externally, but the passage is brief and its 'you' is generic."
+    },
+    {
+      "quote_id": "q06299",
+      "person_signal": "third",
+      "note": "Extended free-indirect passage renders Carney's self-reassessment while referring to him as 'he.'"
+    },
+    {
+      "quote_id": "q06300",
+      "person_signal": "unmarked",
+      "note": "Brief third-person description of Carney's interpretation is locally suggestive but not independently decisive."
+    },
+    {
+      "quote_id": "q06301",
+      "person_signal": "third",
+      "note": "Sustained third-person narration follows Carney's feelings and perceptions during the riots; 'you' is hypothetical."
+    },
+    {
+      "quote_id": "q06302",
+      "person_signal": "non_base",
+      "note": "Character speech using generic second person."
+    },
+    {
+      "quote_id": "q06303",
+      "person_signal": "non_base",
+      "note": "Gnomic material with generic second person."
+    },
+    {
+      "quote_id": "q06304",
+      "person_signal": "non_base",
+      "note": "Standalone explanatory analogy; 'you' is generic."
+    },
+    {
+      "quote_id": "q06305",
+      "person_signal": "unmarked",
+      "note": "Descriptive fragment contains no diagnostic narrator participation or protagonist address."
+    },
+    {
+      "quote_id": "q06306",
+      "person_signal": "unmarked",
+      "note": "Brief opening statements use third-person subjects and generic 'you,' but alone do not prove whole-book person."
+    },
+    {
+      "quote_id": "q06307",
+      "person_signal": "third",
+      "note": "Extended third-person narration reports Carney's memories, questions, and uncertainty without a participating frame."
+    },
+    {
+      "quote_id": "q06308",
+      "person_signal": "unmarked",
+      "note": "Short third-person account and thought are locally suggestive but not sufficient alone."
+    },
+    {
+      "quote_id": "q06309",
+      "person_signal": "unmarked",
+      "note": "Character description uses generic perceptual 'you,' not sustained second-person narration."
+    },
+    {
+      "quote_id": "q06310",
+      "person_signal": "non_base",
+      "note": "General reflection about parents and witnesses."
+    },
+    {
+      "quote_id": "q06311",
+      "person_signal": "unmarked",
+      "note": "Brief external statement about Carney and his aunt does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q06312",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Carney's grief; first-person imperatives belong to the personified grief's quoted voice."
+    },
+    {
+      "quote_id": "q06313",
+      "person_signal": "unmarked",
+      "note": "Brief statement of Carney's attitude is not enough by itself to identify the base narrator."
+    },
+    {
+      "quote_id": "q06314",
+      "person_signal": "unmarked",
+      "note": "Historical exposition contains no diagnostic narratorial self-reference or protagonist address."
+    },
+    {
+      "quote_id": "q06315",
+      "person_signal": "unmarked",
+      "note": "Short third-person statement followed by generic 'you.'"
+    },
+    {
+      "quote_id": "q06316",
+      "person_signal": "unmarked",
+      "note": "External exposition is followed by locally communal 'we,' not an established participating narrator."
+    },
+    {
+      "quote_id": "q06317",
+      "person_signal": "third",
+      "note": "Extended scene narration externally follows Rusty, Carney, and Elizabeth around embedded dialogue."
+    },
+    {
+      "quote_id": "q06318",
+      "person_signal": "unmarked",
+      "note": "Brief rendering of Carney's admiration includes idiomatic 'you watch,' not second-person narration."
+    },
+    {
+      "quote_id": "q06319",
+      "person_signal": "unmarked",
+      "note": "Short descriptive sentence has no person marker for the narrator."
+    },
+    {
+      "quote_id": "q06320",
+      "person_signal": "third",
+      "note": "External action and Carney-centered comparison are sustained in third person."
+    },
+    {
+      "quote_id": "q06321",
+      "person_signal": "non_base",
+      "note": "Character speech; its second-person forms are conversational."
+    },
+    {
+      "quote_id": "q06322",
+      "person_signal": "third",
+      "note": "Third-person narration follows Carney's perception and directly reports his entertained proposition."
+    },
+    {
+      "quote_id": "q06323",
+      "person_signal": "unmarked",
+      "note": "Brief character portrait does not independently establish the narrating position."
+    },
+    {
+      "quote_id": "q06324",
+      "person_signal": "non_base",
+      "note": "Character dialogue with an attributive speech beat."
+    },
+    {
+      "quote_id": "q06325",
+      "person_signal": "non_base",
+      "note": "Conversation among characters; pronouns belong to their speech."
+    },
+    {
+      "quote_id": "q06326",
+      "person_signal": "third",
+      "note": "Sustained historical scene narration presents Gilligan and Powell externally before embedded dialogue."
+    },
+    {
+      "quote_id": "q06327",
+      "person_signal": "third",
+      "note": "Extended third-person/free-indirect narration renders the character inventing an explanation."
+    },
+    {
+      "quote_id": "q06328",
+      "person_signal": "non_base",
+      "note": "Standalone maxim."
+    },
+    {
+      "quote_id": "q06329",
+      "person_signal": "unmarked",
+      "note": "Fragmentary satirical-historical narration lacks enough context to identify narrator person."
+    },
+    {
+      "quote_id": "q06330",
+      "person_signal": "unmarked",
+      "note": "Clipped description and a bare 'he' are nondiagnostic."
+    },
+    {
+      "quote_id": "q06331",
+      "person_signal": "unmarked",
+      "note": "Brief report of an unidentified character's thought is suggestive but not independently decisive."
+    },
+    {
+      "quote_id": "q06332",
+      "person_signal": "unmarked",
+      "note": "Generic 'you' and an unanchored possessive do not establish second- or third-person base narration."
+    },
+    {
+      "quote_id": "q06333",
+      "person_signal": "non_base",
+      "note": "Zippo's attributed first-person speech."
+    },
+    {
+      "quote_id": "q06334",
+      "person_signal": "non_base",
+      "note": "Gnomic material using generic second person."
+    },
+    {
+      "quote_id": "q06335",
+      "person_signal": "unmarked",
+      "note": "Short description of an unidentified character's disdain is insufficient to identify narrator person."
+    },
+    {
+      "quote_id": "q06336",
+      "person_signal": "unmarked",
+      "note": "Atmospheric description uses generic experiential 'you,' not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q06337",
+      "person_signal": "unmarked",
+      "note": "Brief external physical description is nondiagnostic at book level."
+    },
+    {
+      "quote_id": "q06338",
+      "person_signal": "unmarked",
+      "note": "Brief characterization of Sandra does not independently exclude a participating narrator."
+    },
+    {
+      "quote_id": "q06339",
+      "person_signal": "unclear",
+      "note": "The quote ends mid-sentence, preventing responsible assessment of its local structure."
+    },
+    {
+      "quote_id": "q06340",
+      "person_signal": "unmarked",
+      "note": "Short reference to an unidentified character's thoughts is insufficient alone."
+    },
+    {
+      "quote_id": "q06341",
+      "person_signal": "unmarked",
+      "note": "Brief metaphorical statement with unresolved context."
+    },
+    {
+      "quote_id": "q06342",
+      "person_signal": "non_base",
+      "note": "Conversation containing character-address 'you' and Carney's attributed speech."
+    },
+    {
+      "quote_id": "q06343",
+      "person_signal": "third",
+      "note": "Sustained third-person focalization renders the male character's perception and memory of the woman."
+    },
+    {
+      "quote_id": "q06344",
+      "person_signal": "non_base",
+      "note": "Standalone maxim using generic second person."
+    },
+    {
+      "quote_id": "q06345",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question with communal 'we.'"
+    },
+    {
+      "quote_id": "q06346",
+      "person_signal": "third",
+      "note": "Extended external description presents Park Avenue and Freddie's reaction in third person; 'you' is generic."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.com/articles/harlem-shuffle-by-colson-whitehead-excerpt/",
+      "title": "Harlem Shuffle by Colson Whitehead Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter One excerpt narrates Carney externally as 'he' while entering his perceptions and thoughts."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/print/20210517/86326-a-useful-front-pw-talks-with-colson-whitehead.html",
+      "title": "A Useful Front: PW Talks with Colson Whitehead",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The interviewer explicitly identifies Harlem Shuffle among Whitehead's tight third-person-limited novels, and Whitehead says the book told him to remain with Carney."
+    },
+    {
+      "url": "https://thegrio.com/2021/12/20/book-review-colson-whitehead-harlem-shuffle/",
+      "title": "'Harlem Shuffle' is Colson Whitehead's great American dream",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly states that Whitehead tells the story in third person and identifies Carney as its controlling perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \"Harlem Shuffle Colson Whitehead excerpt publisher first chapter\" and opened the Penguin Random House and permissioned Literary Hub excerpts.",
+    "Searched \"Harlem Shuffle Colson Whitehead point of view third person narrator\" and opened the Publishers Weekly author interview, TheGrio review, and LitCharts guide.",
+    "Searched \"Harlem Shuffle alternating narrator point of view\", \"Harlem Shuffle first person narration\", and \"Harlem Shuffle frame narrative narrator\"; found no credible evidence of sustained first-person, second-person, alternating, epistolary, or frame narration.",
+    "Searched Google Books for a preview; the result confirmed the edition but added no stronger person evidence than the authorized publisher excerpt."
+  ],
+  "person_note": "The Goodreads evidence repeatedly shows nonparticipating third-person narration closely focalized through Carney, including sustained access to his perceptions, memories, and judgments. First-person forms occur in dialogue, personified quoted voices, maxims, or local communal rhetoric; the many instances of 'you' are conversational, hypothetical, or generic rather than sustained address to a protagonist. The authorized opening and the whole-book Publishers Weekly interview independently corroborate tight third-person narration, with no credible evidence of alternating sections. The principal limitation is that the Tier A prose covers the opening rather than every section, but the author interview and numerous interior quotes resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_074",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:20:51.293835+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5e8a8162749551e4fb83118023e27f7f10d619fd1570215ce98e53ae130ad778"
+  }
+}

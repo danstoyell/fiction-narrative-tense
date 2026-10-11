@@ -11,6 +11,11 @@ dataset in — these are a derived, presentable view of the same data, kept in s
 
 For what the classification judgments mean, see [`../METHODOLOGY.md`](../METHODOLOGY.md).
 
+The independent person pipeline can additionally generate `person_books.csv`
+and `person_quotes.csv`. Those files are derived from
+`raw_data/person_classified/` with `python3 person/person_harness.py export` and
+are governed by [`../PERSON_METHODOLOGY.md`](../PERSON_METHODOLOGY.md).
+
 ## `books.csv` — one row per book
 
 | Column | Meaning |

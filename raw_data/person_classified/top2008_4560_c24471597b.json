@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:4560",
+  "quotes": [
+    {
+      "quote_id": "q01714",
+      "person_signal": "non_base",
+      "note": "Rhetorical generalization; the parallel q01718 identifies this wording as character speech."
+    },
+    {
+      "quote_id": "q01715",
+      "person_signal": "non_base",
+      "note": "Gnomic observation with no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01716",
+      "person_signal": "third",
+      "note": "Sustained external account of Rudd's ignorance and indifference, combined with broader narratorial commentary, supports nonparticipating narration."
+    },
+    {
+      "quote_id": "q01717",
+      "person_signal": "third",
+      "note": "External description moves into Carl's explicitly attributed thoughts and free-indirect questions; the character's perspective remains within third-person narration."
+    },
+    {
+      "quote_id": "q01718",
+      "person_signal": "non_base",
+      "note": "Character speech; the brief 'she said' beat does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q01719",
+      "person_signal": "non_base",
+      "note": "Generic 'you' in an analogy about trials, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q01720",
+      "person_signal": "third",
+      "note": "Extended funeral narration combines character history, private unawareness, and community actions without a participating narrator; the clipped ending does not obscure this pattern."
+    },
+    {
+      "quote_id": "q01721",
+      "person_signal": "unmarked",
+      "note": "Brief description of a woman's fatigue and abandoned hopes is compatible with third person but insufficient alone to establish the narrating position."
+    },
+    {
+      "quote_id": "q01722",
+      "person_signal": "unmarked",
+      "note": "An isolated evaluation of his rally does not identify who narrates."
+    },
+    {
+      "quote_id": "q01723",
+      "person_signal": "unmarked",
+      "note": "Clipped fundraising exposition names characters and reports plans but provides insufficient local context to establish narrator participation."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/the-appeal",
+      "title": "The Appeal by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Author-hosted Chapter One excerpt narrates the jury's collective feelings and the bailiff's actions externally. Establishes the opening only."
+    },
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780099537045/9780099537045-sample.pdf",
+      "title": "The Appeal \u2014 publisher sample",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Publisher sample includes Chapters 1\u20132. Inspected passages move from Trudeau and Ratzlaff to Jeannette, reporting actions and private thoughts through nonparticipating narration. Chapter 2's first-person plural passage is explicitly Jeannette speaking to herself, not a new base narrator."
+    },
+    {
+      "url": "https://www.novel-software.com/third-person-point-of-view/",
+      "title": "Third Person Point of View Types Explained",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Writing-craft article explicitly classifies The Appeal as distant third person and illustrates its claim with a Trudeau scene. Its illustration is local, so this is corroboration rather than exhaustive structural proof."
+    }
+  ],
+  "search_log": [
+    "Searched 'John Grisham The Appeal excerpt chapter' and 'John Grisham The Appeal third person narrator point of view'; opened the author excerpt and Novel Factory POV discussion.",
+    "Opened Bookreporter's excerpt URL, but fetching timed out; did not rely on its search snippet.",
+    "Opened the Penguin publisher sample and inspected sustained prose across the Chapter 1\u20132 transition and within Chapter 2.",
+    "Searched '\"The Appeal\" \"Grisham\" \"narration\" \"first\"' and '\"The Appeal\" \"Grisham\" \"alternating\" narrator'; results supplied no credible evidence of sustained alternate-person narration."
+  ],
+  "person_note": "A nonparticipating narrator reports multiple characters' actions and thoughts. Diagnostic Goodreads passages independently agree with authorized prose across two chapters and an explicit third-person description. Generic 'you', dialogue, and Jeannette's locally attributed 'we' thoughts do not establish alternate base narration. The remaining limitation is that the authorized sample does not cover the entire novel; no credible contradictory structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_046",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T17:11:43.272303+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "41f26f889a776d42f9effe51ebd12785b0b2529723d4a1d33371abde04d34657"
+  }
+}

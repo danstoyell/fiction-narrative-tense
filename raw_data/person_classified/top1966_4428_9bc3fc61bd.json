@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1966:4428",
+  "quotes": [
+    {
+      "quote_id": "q01447",
+      "person_signal": "non_base",
+      "note": "Gnomic conditional uses generic \u201cyou,\u201d not a story-specific narratee."
+    },
+    {
+      "quote_id": "q01448",
+      "person_signal": "non_base",
+      "note": "General maxim without diagnostic base narration."
+    },
+    {
+      "quote_id": "q01449",
+      "person_signal": "non_base",
+      "note": "First-person wording belongs to character dialogue."
+    },
+    {
+      "quote_id": "q01450",
+      "person_signal": "non_base",
+      "note": "Character speech does not expose the narrator."
+    },
+    {
+      "quote_id": "q01451",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01452",
+      "person_signal": "third",
+      "note": "Although the opening phrase is direct thought, the outside beat narrates his thought and knowledge in third person."
+    },
+    {
+      "quote_id": "q01453",
+      "person_signal": "non_base",
+      "note": "First-person wording occurs entirely in dialogue."
+    },
+    {
+      "quote_id": "q01454",
+      "person_signal": "non_base",
+      "note": "Gnomic sexual instruction does not diagnostically expose the base narrator."
+    },
+    {
+      "quote_id": "q01455",
+      "person_signal": "non_base",
+      "note": "General metaphor rather than story-specific narration."
+    },
+    {
+      "quote_id": "q01456",
+      "person_signal": "non_base",
+      "note": "The first-person pronouns are spoken by a character."
+    },
+    {
+      "quote_id": "q01457",
+      "person_signal": "non_base",
+      "note": "Both first- and second-person forms occur within dialogue."
+    },
+    {
+      "quote_id": "q01458",
+      "person_signal": "third",
+      "note": "Sustained external narration enters a character\u2019s private spiritual self-conception while referring to him as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q01459",
+      "person_signal": "non_base",
+      "note": "Dialectal first- and second-person forms belong to character speech."
+    },
+    {
+      "quote_id": "q01460",
+      "person_signal": "non_base",
+      "note": "Character dialogue, not narrator self-reference."
+    },
+    {
+      "quote_id": "q01461",
+      "person_signal": "non_base",
+      "note": "Generic gnomic \u201cyou\u201d is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01462",
+      "person_signal": "non_base",
+      "note": "Political assertion presented as dialogue."
+    },
+    {
+      "quote_id": "q01463",
+      "person_signal": "third",
+      "note": "Despite a clipped speech tail, the surrounding narration names Culum and reports his guilt and memory externally in third person."
+    },
+    {
+      "quote_id": "q01464",
+      "person_signal": "third",
+      "note": "Third-person base narration frames the embedded newspaper material and returns to Struan\u2019s action and speech."
+    },
+    {
+      "quote_id": "q01465",
+      "person_signal": "unmarked",
+      "note": "Authorial clan-law exposition contains no participating narrator, but the collective third-person subject alone is not decisive."
+    },
+    {
+      "quote_id": "q01466",
+      "person_signal": "third",
+      "note": "A sustained external action sequence narrates Brock and Nagrek without a participating narrator."
+    },
+    {
+      "quote_id": "q01467",
+      "person_signal": "non_base",
+      "note": "Short character declaration without narratorial evidence."
+    },
+    {
+      "quote_id": "q01468",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical observation uses generic people rather than base narration."
+    },
+    {
+      "quote_id": "q01469",
+      "person_signal": "non_base",
+      "note": "Second-person forms are directed at another character in dialogue."
+    },
+    {
+      "quote_id": "q01470",
+      "person_signal": "third",
+      "note": "Extended scene narration externally tracks Struan and May-may, including sensations and reactions, in third person."
+    },
+    {
+      "quote_id": "q01471",
+      "person_signal": "non_base",
+      "note": "General aphorism without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01472",
+      "person_signal": "unclear",
+      "note": "The syntactically incomplete fragment lacks enough context to identify narrative person."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9780440184621/Tai-Pan-James-Clavell-0440184622/plp",
+      "title": "Tai-Pan (Asian Saga) - Clavell, James: 9780440184621",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The permissioned Chapter One excerpt sustains third-person narration and enters the thoughts or feelings of several characters, including Cooper, Tillman, and Brock."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-tai-pan/style.html",
+      "title": "James Clavell Writing Styles in Tai-Pan",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide\u2019s Point of View section explicitly identifies the book as third person and distinguishes its narration from its extensive dialogue."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cJames Clavell Tai-Pan excerpt first chapter\u201d and opened the AbeBooks permissioned Chapter One excerpt.",
+    "Searched \u201cTai-Pan James Clavell point of view third person narrator\u201d and opened the BookRags whole-book Point of View discussion.",
+    "Searched Penguin Random House and Random House domains for an official Tai-Pan sample; no accessible publisher-hosted narrative excerpt was found.",
+    "Opened the Google Books Random House edition page; its accessible text was bibliographic and promotional rather than narrative prose, so it was not used as person evidence.",
+    "Searched for Tai-Pan with \u201cepistolary,\u201d \u201cdiary,\u201d \u201cframe narrative,\u201d \u201cmultiple narrators,\u201d and \u201calternating point of view\u201d; no credible evidence of sustained narration in another grammatical person was found.",
+    "Checked Open Library/Internet Archive results, but the located edition required borrowing and supplied no accessible prose for evaluation.",
+    "Opened a bookstore reproduction of the same Chapter One material; it was redundant with the permissioned AbeBooks excerpt and was not separately counted."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person. Multiple interior Goodreads passages narrate Culum, Struan, Brock, and other characters externally, sometimes reporting private thought or sensation. The many visible instances of \u201cI\u201d and \u201cyou\u201d occur in dialogue, direct thought, or maxims and therefore do not establish first- or second-person base narration. The permissioned opening independently shows a third-person narrator moving among several characters\u2019 inner states, while the whole-book study guide explicitly confirms third-person point of view. Targeted searches found no epistolary frame or sustained first- or second-person sections. The authorized web excerpt covers only the opening, but the interior quote evidence and explicit whole-book description offset that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_014",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T17:02:07.064981+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "cd08848caaacfd6b69a620b294e4ea7e32ddc3df4d1737a082d7b53f66f7329e"
+  }
+}

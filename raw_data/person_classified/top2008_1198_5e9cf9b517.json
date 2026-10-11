@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:1198",
+  "quotes": [
+    {
+      "quote_id": "q01451",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical statement with no participating narrator or sustained scene context; it does not diagnose base person."
+    },
+    {
+      "quote_id": "q01452",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; \u201cyou\u201d is generic rather than story-specific second-person narration. Its location before Alex Cross\u2019s first-person chapter does not make the clipped sentence independently diagnostic."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookreporter.com/reviews/cross-country/excerpt",
+      "title": "Cross Country by James Patterson | Excerpt | Bookreporter.com",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "ALTERNATING",
+      "note": "A sustained excerpt reprinted with Little, Brown\u2019s permission opens with third-person narration focalized through the Tiger, then shifts to an extended first-person section narrated by Alex Cross."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alex_Cross",
+      "title": "Alex Cross - Wikipedia",
+      "tier": "C",
+      "scope": "unknown",
+      "supports": "ALTERNATING",
+      "note": "The structural description says the Alex Cross series is typically first-person through Cross with shifts to villains\u2019 third-person perspectives; Cross Country is listed in the series. This is corroborative but not title-specific."
+    },
+    {
+      "url": "https://www.bookey.app/book/cross-country",
+      "title": "Cross Country Chapter Summary | James Patterson",
+      "tier": "D",
+      "scope": "interior",
+      "supports": "ALTERNATING",
+      "note": "Detailed interior chapter summaries describe Tiger-focalized chapters and explicitly report switches back to Alex Cross\u2019s perspective, weakly corroborating that the opening\u2019s person change recurs beyond the opening."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cCross Country\u201d \u201cJames Patterson\u201d excerpt, first chapter, and Alex Cross chapter; found and opened the permission-reprinted Bookreporter excerpt.",
+    "Searched the title with first-person, third-person, point-of-view, narrator, and alternating-narration terms; no strong title-specific scholarly POV analysis was found.",
+    "Searched for Tiger chapters and perspective shifts; opened Bookey\u2019s interior chapter summaries, which were retained only as Tier D corroboration.",
+    "Opened the Alex Cross series description that explicitly identifies first-person Cross narration with third-person villain shifts; its scope is series-wide rather than specific to this volume.",
+    "Located publisher/author pages, Open Library previews, and a Penguin sample PDF; catalog copy was nondiagnostic, the Open Library preview did not expose prose, and the large Penguin PDF could not be opened in the research interface."
+  ],
+  "person_note": "The Goodreads quotes are gnomic and do not identify the narrator. The authorized sustained opening independently shows two base narrative modes: third-person chapters following the Tiger and first-person chapters narrated by participating protagonist Alex Cross. A series-level structural description and weaker interior summaries corroborate recurring villain/Cross perspective shifts, so the book is ALTERNATING rather than FIRST. Confidence is medium because the strongest title-specific prose evidence is limited to the opening and the evidence for whole-book recurrence is weaker.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.244256+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "9b27f1446f35d86c5a5958a45f2a829e773081d4a245fe6a69a6d54062bb05da"
+  }
+}

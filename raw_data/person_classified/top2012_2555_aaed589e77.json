@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2012:2555",
+  "quotes": [
+    {
+      "quote_id": "q01957",
+      "person_signal": "third",
+      "note": "Sustained character-aligned narration refers to the focal character as \u201che\u201d; the hypothetical \u201cyou\u201d is generic, not second-person story narration."
+    },
+    {
+      "quote_id": "q01958",
+      "person_signal": "unmarked",
+      "note": "A single sentence with \u201che\u201d does not independently establish the narrator\u2019s participation or nonparticipation."
+    },
+    {
+      "quote_id": "q01959",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally names Rapp, reports his actions and training, and contains no participating narrator."
+    },
+    {
+      "quote_id": "q01960",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01961",
+      "person_signal": "third",
+      "note": "The authorized sample locates this character-aligned sentence within sustained third-person narration about Rapp."
+    },
+    {
+      "quote_id": "q01962",
+      "person_signal": "unmarked",
+      "note": "The clipped fragment contains only a named character and \u201cshe,\u201d which is insufficient by itself to establish narrative person."
+    },
+    {
+      "quote_id": "q01963",
+      "person_signal": "unclear",
+      "note": "The severe clipping leaves neither a complete sentence nor recoverable local narrative structure."
+    },
+    {
+      "quote_id": "q01964",
+      "person_signal": "third",
+      "note": "Several sentences narrate Simon\u2019s act of imagining Mutz and describe Mutz externally; the final quotation mark begins subsequent speech."
+    },
+    {
+      "quote_id": "q01965",
+      "person_signal": "third",
+      "note": "Sustained scene narration names several characters and separately reports Neville\u2019s and Simon\u2019s perceptions without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/224274540/Kill-Shot-An-American-Assassin-Thriller",
+      "title": "Kill Shot: An American Assassin Thriller by Vince Flynn",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed ebook sample presents a sustained Kennedy scene followed by Chapter 1, consistently narrating Kennedy, Lewis, and Rapp as third-person characters while moving among their perspectives."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/kill-shot-an-american-assassin-thriller/excerpt",
+      "title": "Kill Shot: An American Assassin Thriller by Vince Flynn | Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The complete Chapter 1 excerpt sustains third-person narration centered on Rapp, including his actions, memories, and thoughts, with no participating narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cKill Shot\u201d \u201cVince Flynn\u201d with excerpt, first chapter, point of view, third person, narrator, alternating narration, epistolary, and interior-excerpt terms.",
+    "Opened and inspected the sustained Bookreporter Chapter 1 excerpt and the licensed Everand ebook sample rather than relying on search snippets.",
+    "Checked Simon & Schuster US/UK publisher pages, Google Books, and OverDrive; they verified the work but supplied synopsis, metadata, or inaccessible preview controls rather than explicit whole-book POV evidence.",
+    "Ran targeted searches using exact Goodreads fragments, locating q01961 in Chapter 1 and q01962 in the Everand sample; searches found no credible evidence of first-, second-, or alternating-person base sections.",
+    "Searches for an explicit credible whole-book structural or POV description produced no usable source; the web evidence is therefore opening-scoped and was reconciled with the varied Goodreads scenes."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and narrates Rapp, Kennedy, Simon, Neville, and other characters in third person. The long event quotations expose sustained third-person scenes from multiple parts of the novel, while q01960 is local dialogue, q01957\u2019s \u201cyou\u201d is a generic hypothetical, and the shortest fragments are nondiagnostic. Two sustained web samples independently confirm third-person narration across the opening Kennedy material and Chapter 1. Although no explicit whole-book POV analysis was found and the web excerpts are opening-scoped, the interior Goodreads scenes corroborate the same person and reveal no credible first-, second-, or alternating-person base narration.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.250577+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "1b3ecfd5f059d2874f6d7da0b41333654cceca5554e027dc495209901da00934"
+  }
+}

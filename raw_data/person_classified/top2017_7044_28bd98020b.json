@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2017:7044",
+  "quotes": [
+    {
+      "quote_id": "q01820",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Sue and Bob Roy in third person; generic \u201cyou\u201d occurs within Bob\u2019s advice."
+    },
+    {
+      "quote_id": "q01821",
+      "person_signal": "unmarked",
+      "note": "Generic second-person phrasing describes New York conditions, not a story-specific protagonist or narrator."
+    },
+    {
+      "quote_id": "q01822",
+      "person_signal": "first",
+      "note": "The participating narrator describes being Anna\u2019s boyfriend and losing \u201cmy\u201d naps."
+    },
+    {
+      "quote_id": "q01823",
+      "person_signal": "third",
+      "note": "After local speech, sustained external narration describes Bob typing Sue\u2019s r\u00e9sum\u00e9."
+    },
+    {
+      "quote_id": "q01824",
+      "person_signal": "third",
+      "note": "The opening first-person words are dialogue; the governing narration externally describes Sue and her circumstances."
+    },
+    {
+      "quote_id": "q01825",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Kirk does not establish whether the controlling narrator participates elsewhere."
+    },
+    {
+      "quote_id": "q01826",
+      "person_signal": "non_base",
+      "note": "Predominantly direct dialogue; the short speech beat does not establish narrative person."
+    },
+    {
+      "quote_id": "q01827",
+      "person_signal": "third",
+      "note": "Sustained external scene narration describes Sue entering and Bob preparing tea."
+    },
+    {
+      "quote_id": "q01828",
+      "person_signal": "first",
+      "note": "Although clipped, \u201cus\u201d and \u201cMy dad\u201d expose the participating narrator of the verified first-person story."
+    },
+    {
+      "quote_id": "q01829",
+      "person_signal": "unclear",
+      "note": "Both ends are truncated and the surviving words contain no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01830",
+      "person_signal": "first",
+      "note": "A participating narrator states what \u201cI\u2019ll ask him\u201d and reflects on the result."
+    },
+    {
+      "quote_id": "q01831",
+      "person_signal": "first",
+      "note": "The narrator contrasts time \u201cI spend\u201d and \u201cmy\u201d chores with Anna\u2019s activity."
+    },
+    {
+      "quote_id": "q01832",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical address uses universal \u201cyou,\u201d not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q01833",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization marked gnomic upstream; its \u201cI think\u201d frame does not securely expose a story\u2019s base narrator."
+    },
+    {
+      "quote_id": "q01834",
+      "person_signal": "non_base",
+      "note": "A direct question in dialogue does not identify the narrator."
+    },
+    {
+      "quote_id": "q01835",
+      "person_signal": "third",
+      "note": "After dialogue, sustained external narration follows Sue and describes the radio and room."
+    },
+    {
+      "quote_id": "q01836",
+      "person_signal": "third",
+      "note": "External exposition consistently refers to Sue Gliebe and Bob Roy in third person."
+    },
+    {
+      "quote_id": "q01837",
+      "person_signal": "third",
+      "note": "Sustained external narration supplies Bob Roy\u2019s history and relationship to Sue."
+    },
+    {
+      "quote_id": "q01838",
+      "person_signal": "non_base",
+      "note": "A standalone aphorism contains no diagnostic base-narrator evidence."
+    },
+    {
+      "quote_id": "q01839",
+      "person_signal": "first",
+      "note": "The participating narrator recounts \u201cMy first game\u201d and why \u201cwe\u201d stopped caring."
+    },
+    {
+      "quote_id": "q01840",
+      "person_signal": "unmarked",
+      "note": "One sentence about an unnamed man\u2019s dream is too isolated to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01841",
+      "person_signal": "non_base",
+      "note": "Russian translation leakage is paratext rather than evidence from the English base narration."
+    },
+    {
+      "quote_id": "q01842",
+      "person_signal": "unclear",
+      "note": "The sentence is cut off before enough context appears to determine narrative person."
+    },
+    {
+      "quote_id": "q01843",
+      "person_signal": "unclear",
+      "note": "Corrupted quotation boundaries and a minimal action beat prevent reliable separation of speech and narration."
+    },
+    {
+      "quote_id": "q01844",
+      "person_signal": "non_base",
+      "note": "Mixed Russian translation leakage is paratext and cannot identify the English base narration."
+    },
+    {
+      "quote_id": "q01845",
+      "person_signal": "non_base",
+      "note": "Direct dialogue between Anna and another character does not identify the narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://parnassusmusing.net/2017/10/17/tom-hanks-uncommon-type/",
+      "title": "Tom Hanks: \u201cGod gave all of us burdens, and some of us typewriters\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "In an interview with One Story editor Patrick Ryan, Hanks says roughly seven collection stories are first-person, while Ryan and Hanks explicitly discuss \u201cA Month on Greene Street\u201d as third-person; this establishes sustained stories in different persons."
+    },
+    {
+      "url": "https://www.theguardian.com/film/ng-interactive/2017/oct/14/three-exhausting-weeks-an-exclusive-short-story-from-tom-hanks-uncommon-type",
+      "title": "An exclusive short story from Tom Hanks' Uncommon Type: Three Exhausting Weeks",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Authorized publication of the complete collection story sustains a participating unnamed narrator using I, me, my, and we."
+    },
+    {
+      "url": "https://one-story.com/product/a-month-on-greene-street/",
+      "title": "A Month on Greene Street",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The magazine that first published this collection story provides an excerpt sustaining external third-person narration centered on Bette Monk."
+    },
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781786091338/9781786091338-sample.pdf",
+      "title": "Uncommon Type publisher sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "Penguin\u2019s authorized 43-page sample identifies \u201cThree Exhausting Weeks\u201d as the opening story and reproduces sustained first-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched: Tom Hanks Uncommon Type first person third person stories point of view review.",
+    "Searched authorized excerpts using Penguin Random House, Penguin UK, Guardian, One Story, and New Yorker queries.",
+    "Opened and inspected Penguin\u2019s 43-page publisher sample, the Guardian\u2019s complete \u201cThree Exhausting Weeks,\u201d One Story\u2019s \u201cA Month on Greene Street\u201d excerpt, and the Hanks\u2013Patrick Ryan interview reproduced by Parnassus Musing.",
+    "Checked Kirkus and publisher descriptions for collection structure; Kirkus corroborated an unnamed first-person narrator across three recurring-character stories but did not alone establish the third-person strand.",
+    "Found a BookRags point-of-view summary but did not rely on it because stronger authorized and author-interview evidence was available."
+  ],
+  "person_note": "This eligible prose collection alternates at book level because different complete stories use different controlling persons. The quote set independently contains sustained first-person narration involving Anna and the recurring friends, plus sustained third-person narration involving Sue and Bob Roy. Tier A excerpts verify a complete first-person story and a third-person story, while a commercial repost of an author/editor interview explicitly describes both modes across the collection. First-person words inside Sue/Bob dialogue and generic uses of \u201cyou\u201d are local material, not additional base strands. Confidence is medium because the collection-level structural source is Tier C even though the two constituent modes are confirmed by authorized excerpts.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_062",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-12T18:42:30.938222+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8b50e24a9cf35e9dc11bc211d1626dc6ecc591f6a96cefdec17ead7686d0201d"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1964:6381",
+  "quotes": [
+    {
+      "quote_id": "q01226",
+      "person_signal": "non_base",
+      "note": "Leamas's first-person language occurs inside direct speech; the attribution does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01227",
+      "person_signal": "non_base",
+      "note": "Direct speech by a character; I, we, and you do not represent base narration."
+    },
+    {
+      "quote_id": "q01228",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q01229",
+      "person_signal": "non_base",
+      "note": "First-person language is contained in character speech."
+    },
+    {
+      "quote_id": "q01230",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q01231",
+      "person_signal": "unmarked",
+      "note": "Brief third-person characterization of an unnamed man is compatible with multiple base narrating positions."
+    },
+    {
+      "quote_id": "q01232",
+      "person_signal": "non_base",
+      "note": "Extended character speech; its pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q01233",
+      "person_signal": "non_base",
+      "note": "Character speech containing an embedded quotation attributed to Stalin."
+    },
+    {
+      "quote_id": "q01234",
+      "person_signal": "non_base",
+      "note": "Instructions spoken to Alec; second-person forms are direct address."
+    },
+    {
+      "quote_id": "q01235",
+      "person_signal": "third",
+      "note": "Sustained narration presents Leamas externally as he while reporting his knowledge and prospective intentions."
+    },
+    {
+      "quote_id": "q01236",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; most of us is generic rather than participating story narration."
+    },
+    {
+      "quote_id": "q01237",
+      "person_signal": "unmarked",
+      "note": "A short externally phrased characterization lacks enough local context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01238",
+      "person_signal": "third",
+      "note": "The narratorial frame reports a woman's thought as she; generic you occurs within the represented thought and is not second-person narration."
+    },
+    {
+      "quote_id": "q01239",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; the short speech beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01240",
+      "person_signal": "third",
+      "note": "Extended scene narration identifies Leamas externally and reports his difficulty and manner around the dialogue."
+    },
+    {
+      "quote_id": "q01241",
+      "person_signal": "third",
+      "note": "Sustained external narration characterizes Ashe and presents Leamas's perception and reaction in third person."
+    },
+    {
+      "quote_id": "q01242",
+      "person_signal": "unmarked",
+      "note": "A single sentence about what Leamas saw is too brief by itself to establish base person."
+    },
+    {
+      "quote_id": "q01243",
+      "person_signal": "non_base",
+      "note": "First-person plural appears in direct speech."
+    },
+    {
+      "quote_id": "q01244",
+      "person_signal": "third",
+      "note": "Sustained external narration contrasts prisoners with Leamas and repeatedly refers to him as he."
+    },
+    {
+      "quote_id": "q01245",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with generic your, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01246",
+      "person_signal": "non_base",
+      "note": "Character speech rather than base narration."
+    },
+    {
+      "quote_id": "q01247",
+      "person_signal": "unmarked",
+      "note": "Historical exposition contains no participating narrator marker and does not alone prove person."
+    },
+    {
+      "quote_id": "q01248",
+      "person_signal": "non_base",
+      "note": "First-person plural occurs in dialogue."
+    },
+    {
+      "quote_id": "q01249",
+      "person_signal": "unmarked",
+      "note": "Brief narration of they walking does not independently distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q01250",
+      "person_signal": "non_base",
+      "note": "Dialogue containing impersonal one, not narrator evidence."
+    },
+    {
+      "quote_id": "q01251",
+      "person_signal": "non_base",
+      "note": "First-person plural is spoken by a character; the brief he grinned beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q01252",
+      "person_signal": "non_base",
+      "note": "Character speech."
+    },
+    {
+      "quote_id": "q01253",
+      "person_signal": "unmarked",
+      "note": "A single sentence about her response is insufficient by itself to establish base person."
+    },
+    {
+      "quote_id": "q01254",
+      "person_signal": "non_base",
+      "note": "Quoted speech with a short attribution."
+    },
+    {
+      "quote_id": "q01255",
+      "person_signal": "third",
+      "note": "Narration presents Leamas externally and reports his suspicion about the intelligence hierarchy."
+    },
+    {
+      "quote_id": "q01256",
+      "person_signal": "third",
+      "note": "Sustained third-person scene narration reports Leamas's actions, calm, and memories; the second-person dictum is embedded recollection."
+    },
+    {
+      "quote_id": "q01257",
+      "person_signal": "third",
+      "note": "External narration describes another man through what Leamas remembered and experienced."
+    },
+    {
+      "quote_id": "q01258",
+      "person_signal": "non_base",
+      "note": "Historical explanatory paratext, not the novel's base narrative."
+    },
+    {
+      "quote_id": "q01259",
+      "person_signal": "non_base",
+      "note": "Authorial first-person afterword or introduction, not participating narration in the novel."
+    },
+    {
+      "quote_id": "q01260",
+      "person_signal": "third",
+      "note": "Despite a clipped opening, the long passage consistently narrates Leamas externally and summarizes what neighbors observed and thought."
+    },
+    {
+      "quote_id": "q01261",
+      "person_signal": "unmarked",
+      "note": "Impersonal descriptive observation without a diagnostic narrator marker."
+    },
+    {
+      "quote_id": "q01262",
+      "person_signal": "non_base",
+      "note": "First-person authorial paratext, not the fictional base narration."
+    },
+    {
+      "quote_id": "q01263",
+      "person_signal": "non_base",
+      "note": "Paratextual rhetorical question; we is not a story narrator."
+    },
+    {
+      "quote_id": "q01264",
+      "person_signal": "third",
+      "note": "Narration names Leamas externally and renders the airport through his memory and perception."
+    },
+    {
+      "quote_id": "q01265",
+      "person_signal": "non_base",
+      "note": "Third-person references occur within character speech."
+    },
+    {
+      "quote_id": "q01266",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim using impersonal one."
+    },
+    {
+      "quote_id": "q01267",
+      "person_signal": "third",
+      "note": "Substantial narration outside the dialogue follows Leamas's actions, nervousness, and comparison in third person."
+    },
+    {
+      "quote_id": "q01268",
+      "person_signal": "third",
+      "note": "Although bucketed as dialogue, most of the passage is sustained third-person narration of Liz's memories, beliefs, and emotional response."
+    },
+    {
+      "quote_id": "q01269",
+      "person_signal": "third",
+      "note": "The dialogue is framed by third-person narration that reports Liz's action and private intention."
+    },
+    {
+      "quote_id": "q01270",
+      "person_signal": "third",
+      "note": "Dialogue is embedded in an externally narrated scene that follows the woman's actions and emotional state in third person."
+    },
+    {
+      "quote_id": "q01271",
+      "person_signal": "non_base",
+      "note": "Dialogue only; you is character address."
+    },
+    {
+      "quote_id": "q01272",
+      "person_signal": "third",
+      "note": "Despite its dialogue bucket, this is sustained third-person and free-indirect narration of Liz's memories, wishes, and self-deception; generic you is not second-person base narration."
+    },
+    {
+      "quote_id": "q01273",
+      "person_signal": "non_base",
+      "note": "Character speech; he and you occur inside the spoken account."
+    },
+    {
+      "quote_id": "q01274",
+      "person_signal": "non_base",
+      "note": "Fiedler's first-person speech and direct address do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01275",
+      "person_signal": "third",
+      "note": "Sustained reflective narration presents Leamas as he and recounts men he had observed."
+    },
+    {
+      "quote_id": "q01276",
+      "person_signal": "unmarked",
+      "note": "A single third-person action sentence is locally consistent with third person but not independently diagnostic."
+    },
+    {
+      "quote_id": "q01277",
+      "person_signal": "third",
+      "note": "External summary ranges beyond Leamas's immediate awareness to narrate how his departure was forgotten."
+    },
+    {
+      "quote_id": "q01278",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim rather than diagnostic narration."
+    },
+    {
+      "quote_id": "q01279",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; I, you, and they belong to the speakers."
+    },
+    {
+      "quote_id": "q01280",
+      "person_signal": "unmarked",
+      "note": "Brief free-indirect or predictive statement lacks enough context to establish the narrator's participation."
+    },
+    {
+      "quote_id": "q01281",
+      "person_signal": "unmarked",
+      "note": "Generalized prediction about what they would know does not independently identify base person."
+    },
+    {
+      "quote_id": "q01282",
+      "person_signal": "unmarked",
+      "note": "Brief perception or recollection associated with she is compatible with multiple narrating positions when isolated."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241330920/9780241330920-sample.pdf",
+      "title": "The Spy Who Came in from the Cold \u2014 Penguin sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized 25-page sample sustains external narration of Leamas as he, including his perceptions, memories, and thoughts, across the opening chapters."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/370669802_Times_Out_of_Joint_The_Spy_Who_Came_in_from_the_Cold",
+      "title": "Times Out of Joint: The Spy Who Came in from the Cold",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Michael Benskin's peer-reviewed Anglia article explicitly describes the novel's framework as past-tense third-person narration by an undefined, all-knowing, detached narrator, with the remainder largely dialogue."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2010/jul/24/carre-spy-came-cold-boyd",
+      "title": "Rereading: The Spy Who Came in from the Cold by John le Carr\u00e9",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "William Boyd's whole-novel analysis identifies an omniscient authorial point of view that enters selected characters' thoughts and notes changes of focal character, not changes to a participating narrator."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/the-spy-who-came-in-from-the-cold",
+      "title": "The Spy Who Came in From the Cold Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide's key facts explicitly identify the novel's point of view as third-person omniscient."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Spy Who Came in from the Cold\" with \"third person,\" \"narrator,\" and \"point of view\"; found explicit whole-book descriptions in the Anglia article, Guardian analysis, LitCharts, GradeSaver, and BookRags.",
+    "Searched publisher, excerpt, first chapter, and Google Books combinations; opened Penguin's authorized sample, which provides sustained third-person prose from the opening chapters.",
+    "Searched the title with \"multiple narrators,\" \"alternating point of view,\" \"frame narrative,\" \"epistolary,\" and \"diary\"; found no credible indication of sustained first- or second-person base sections.",
+    "Searched specifically for narration involving Liz Gold; sources describe shifts of access or focalization between Leamas and Liz within third person, not alternating grammatical person.",
+    "The De Gruyter HTML endpoint initially returned an internal fetch error, so the full open-access Anglia article was opened through its ResearchGate publication page; an unrelated blog result was inaccessible with HTTP 429 and was not used."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator. Numerous Goodreads passages sustain external narration of Leamas, Liz, and other characters while rendering their perceptions or thoughts; the authorized Penguin opening independently shows the same pattern. The scholarly whole-book analysis explicitly identifies a third-person framework, and other opened sources corroborate it. First-person and second-person forms in the quote set belong to dialogue, generic maxims, remembered speech, or authorial paratext, not autonomous base-narrative sections. Shifts between Leamas and Liz are shifts of focalization within third person, so they do not warrant ALTERNATING. Sources vary between calling the narration omniscient, objective, or limited, but that unresolved subtype does not affect the THIRD classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_014",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T17:02:07.061701+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "15035ee9780f78fd50a9ce871ec77ef73becb6dfa468eecfe39c6c21f67c0367"
+  }
+}

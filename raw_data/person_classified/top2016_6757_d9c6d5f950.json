@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:6757",
+  "quotes": [
+    {
+      "quote_id": "q01006",
+      "person_signal": "unmarked",
+      "note": "Free-indirect reflection attributed to Bosch by context, but the clipped passage itself lacks enough narratorial framing to establish person."
+    },
+    {
+      "quote_id": "q01007",
+      "person_signal": "non_base",
+      "note": "Two-sided character dialogue; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01008",
+      "person_signal": "third",
+      "note": "The narrator externally frames the reflection as Bosch\u2019s experience, with the generic \u201cyou\u201d embedded inside that third-person focalization."
+    },
+    {
+      "quote_id": "q01009",
+      "person_signal": "third",
+      "note": "Base narration refers to Bosch as \u201che\u201d while reporting his private knowledge and sense of purpose."
+    },
+    {
+      "quote_id": "q01010",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Bosch externally as \u201che\u201d while entering his perceptions, knowledge, and inferences."
+    },
+    {
+      "quote_id": "q01011",
+      "person_signal": "third",
+      "note": "Narration names Bosch, then follows him as \u201che\u201d and reports his experience and past reading."
+    },
+    {
+      "quote_id": "q01012",
+      "person_signal": "unmarked",
+      "note": "The clipped action sequence names Bosch but lacks sufficient local framing to establish narrator participation."
+    },
+    {
+      "quote_id": "q01013",
+      "person_signal": "unmarked",
+      "note": "Impersonal place exposition contains no participating narrator or sustained character-address pattern."
+    },
+    {
+      "quote_id": "q01014",
+      "person_signal": "non_base",
+      "note": "Character dialogue dominates; the brief, truncated Bosch speech beat is insufficient to establish person independently."
+    },
+    {
+      "quote_id": "q01015",
+      "person_signal": "unclear",
+      "note": "An appositive fragment naming Bosch has lost too much surrounding syntax to diagnose the narrating position."
+    },
+    {
+      "quote_id": "q01016",
+      "person_signal": "third",
+      "note": "Extended base narration repeatedly follows Bosch as \u201che,\u201d reports his memories and realizations, and encloses only a brief local line of dialogue."
+    },
+    {
+      "quote_id": "q01017",
+      "person_signal": "unclear",
+      "note": "The severely clipped sentence lacks the antecedents and boundaries needed to determine whether this is base narration or locally reported material."
+    },
+    {
+      "quote_id": "q01018",
+      "person_signal": "non_base",
+      "note": "A universal aphorism about humans does not identify the story\u2019s narrator."
+    },
+    {
+      "quote_id": "q01019",
+      "person_signal": "third",
+      "note": "A sustained action sequence externally follows Bosch, repeatedly referring to him as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q01020",
+      "person_signal": "non_base",
+      "note": "First-person courtroom boast is character speech, not base narration."
+    },
+    {
+      "quote_id": "q01021",
+      "person_signal": "non_base",
+      "note": "A generic second-person saying is gnomic or spoken material, not sustained narration of a protagonist as \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q01022",
+      "person_signal": "non_base",
+      "note": "This gnomic fragment is too incomplete and non-narrative to identify base person."
+    },
+    {
+      "quote_id": "q01023",
+      "person_signal": "unclear",
+      "note": "The truncated clause has lost its subject and surrounding narration, preventing responsible attribution."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.michaelconnelly.com/writing/the-wrong-side-of-goodbye/the-wrong-side-of-goodbye-excerpt/",
+      "title": "The Wrong Side Of Goodbye Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author\u2019s official sustained excerpt covers chapters 1 and 2 and consistently narrates Bosch externally as \u201che,\u201d while freely reporting his perceptions, memories, and thoughts."
+    },
+    {
+      "url": "https://www.irishtimes.com/culture/books/the-wrong-side-of-goodbye-review-one-of-us-crime-fiction-s-great-detectives-1.2867248",
+      "title": "The Wrong Side of Goodbye review: One of US crime fiction\u2019s great detectives",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "This reputable review reproduces third-person Bosch narration from the novel\u2019s climax, corroborating that the third-person mode continues well beyond the opening."
+    }
+  ],
+  "search_log": [
+    "Searched the verified title and author with \u201cexcerpt\u201d and \u201cfirst chapter\u201d; found and opened Michael Connelly\u2019s authorized multi-chapter excerpt.",
+    "Searched the title with \u201cpoint of view,\u201d \u201cthird person,\u201d \u201cnarrator,\u201d and \u201cthird-person narration\u201d; results included an explicit user review, general reviews, and audiobook-narrator pages, but most were not independently diagnostic of grammatical narrative person.",
+    "Opened the Google Books record and preview metadata; its publisher synopsis and common-term index were useful for title verification but not used as person evidence.",
+    "Searched for alternating point of view, multiple narrators, epistolary form, diaries, and frame narrative; results described two alternating investigations or the audiobook performer, not sustained narration in different grammatical persons, and revealed no credible contrary structure."
+  ],
+  "person_note": "The controlling narration is third person, centered closely on Harry Bosch. Multiple interior Goodreads passages sustain external \u201cBosch/he\u201d narration with access to his perceptions and thoughts, and the author-authorized opening independently shows the same mode across two chapters. The Irish Times supplies corroborating third-person prose from near the climax. First- and second-person forms in the quote set occur only in dialogue or generic maxims, not autonomous narrative sections. Searches found no credible evidence of first-person, second-person, epistolary, framed, or person-alternating base narration; the only material limitation is that the strongest authorized web excerpt covers the opening rather than the entire book.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_058",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-10T01:12:40.965865+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2140abc4ec84ef12c6cba224bcd59660d6defb69fbd781a3854c33c489047a60"
+  }
+}

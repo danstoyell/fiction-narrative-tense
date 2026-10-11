@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1961:4764",
+  "quotes": [
+    {
+      "quote_id": "q01151",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim; its generic pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q01152",
+      "person_signal": "non_base",
+      "note": "Gnomic observation with generic 'you,' not story-specific narration."
+    },
+    {
+      "quote_id": "q01153",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, 'He smiled at me' places a participating narrator in the scene."
+    },
+    {
+      "quote_id": "q01154",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur only within unattributed direct speech."
+    },
+    {
+      "quote_id": "q01155",
+      "person_signal": "first",
+      "note": "Sustained event narration uses 'I' for the character performing the scene's actions."
+    },
+    {
+      "quote_id": "q01156",
+      "person_signal": "non_base",
+      "note": "The visible 'you' occurs in direct speech; the surrounding beat does not expose narrator person."
+    },
+    {
+      "quote_id": "q01157",
+      "person_signal": "first",
+      "note": "The exterior attribution 'I said' identifies the participating narrator as the speaker."
+    },
+    {
+      "quote_id": "q01158",
+      "person_signal": "unclear",
+      "note": "The passage begins after a missing subject, so clipping prevents attribution of the narration around the speech."
+    },
+    {
+      "quote_id": "q01159",
+      "person_signal": "first",
+      "note": "The exterior action beat uses 'my' and 'I'd,' exposing participating first-person narration despite the clipped initial subject."
+    },
+    {
+      "quote_id": "q01160",
+      "person_signal": "first",
+      "note": "The exterior scene narration uses 'my,' 'me,' and 'I' for the character experiencing the action."
+    },
+    {
+      "quote_id": "q01161",
+      "person_signal": "first",
+      "note": "Before the doctor's speech, sustained narration uses 'we' and 'my father' from a participating viewpoint."
+    },
+    {
+      "quote_id": "q01162",
+      "person_signal": "unclear",
+      "note": "The only person marker is a dangling final 'We'; the clipped continuation prevents a secure local classification."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookrags.com/shortguide-carpetbaggers/techniques.html",
+      "title": "Writing Techniques in The Carpetbaggers",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "This Gale-credited structural guide explicitly states that the novel has nine books: odd-numbered books are narrated in first person by Jonas Cord, while even-numbered books use third-person narration focused on Nevada Smith, Rina Marlowe, David Woolf, and Jennie Denton."
+    },
+    {
+      "url": "https://www.enotes.com/topics/carpetbaggers/in-depth",
+      "title": "The Carpetbaggers Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The analysis independently describes the same book-level pattern: first-person Jonas Cord narration in odd-numbered books and third-person narration in even-numbered books."
+    },
+    {
+      "url": "https://loisweisbergbookreviews.wordpress.com/about/the-carpetbaggers-by-harold-robbins/",
+      "title": "The Carpetbaggers by Harold Robbins",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review says the story moves among five characters' points of view, but it does not distinguish grammatical narrative person and therefore cannot by itself support ALTERNATING."
+    },
+    {
+      "url": "https://us.macmillan.com/books/9781466833715/thecarpetbaggers/",
+      "title": "The Carpetbaggers",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "The publisher page verifies the work and edition but provides only third-person promotional synopsis, not diagnostic narrative prose or a POV description."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Carpetbaggers\" Harold Robbins excerpt, first chapter, point of view, first person, third person, narrator, and alternating narration.",
+    "Opened the BookRags/Gale writing-techniques page and found an explicit whole-book description of the odd-book first-person/even-book third-person structure.",
+    "Opened the eNotes analysis and found a second explicit description of the alternating structure, but treated it as Tier C rather than a second strong independent Tier A/B source.",
+    "Checked Google Books and Open Library/Internet Archive records; they verified the nine-book edition and preview availability but exposed no usable sustained prose establishing both narrative persons.",
+    "Checked the Macmillan publisher page; its synopsis verifies the title but is not narrative-person evidence.",
+    "Checked a reader review describing five points of view; because focal viewpoint does not establish grammatical narrative person, it was recorded as supporting none."
+  ],
+  "person_note": "The sampled passages repeatedly expose Jonas Cord's participating first-person narration, including exterior action and speech beats, but they contain no diagnostic passage from the third-person books. Whole-book structural research resolves this sampling limitation: the odd-numbered books use Jonas's first-person narration and the even-numbered books use sustained third-person narration, so the correct book-level label is ALTERNATING. Confidence is med because quote evidence supports only the FIRST component and only one web source is Tier A/B with supports exactly ALTERNATING; the second explicit ALTERNATING source is Tier C, so the required two-source threshold for high confidence is not met.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_012",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-30T16:31:19.473941+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fef85f291aa943bbc4ab7707973e69a9ce10ce5c0f4193d7d58a3654ecca36c5"
+  }
+}

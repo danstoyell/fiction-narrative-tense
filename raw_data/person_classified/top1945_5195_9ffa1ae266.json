@@ -1,0 +1,356 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1945:5195",
+  "quotes": [
+    {
+      "quote_id": "q00053",
+      "person_signal": "non_base",
+      "note": "Labeled character dialogue; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00054",
+      "person_signal": "non_base",
+      "note": "First-person declarations occur in character speech, not base narration."
+    },
+    {
+      "quote_id": "q00055",
+      "person_signal": "non_base",
+      "note": "Gnomic definition with no story-specific narrator."
+    },
+    {
+      "quote_id": "q00056",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; the quoted word \u201cI\u201d is not narratorial."
+    },
+    {
+      "quote_id": "q00057",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without person evidence."
+    },
+    {
+      "quote_id": "q00058",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech is not base narration."
+    },
+    {
+      "quote_id": "q00059",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to character speech."
+    },
+    {
+      "quote_id": "q00060",
+      "person_signal": "non_base",
+      "note": "Participating language occurs in character dialogue."
+    },
+    {
+      "quote_id": "q00061",
+      "person_signal": "non_base",
+      "note": "The speech attribution is third-person, but the diagnostic \u201cI\u201d passage is Roark\u2019s dialogue."
+    },
+    {
+      "quote_id": "q00062",
+      "person_signal": "non_base",
+      "note": "Direct character speech does not expose the narrator."
+    },
+    {
+      "quote_id": "q00063",
+      "person_signal": "non_base",
+      "note": "First-person address is an isolated spoken declaration."
+    },
+    {
+      "quote_id": "q00064",
+      "person_signal": "non_base",
+      "note": "Extended speech and its generic examples do not identify base narration."
+    },
+    {
+      "quote_id": "q00065",
+      "person_signal": "non_base",
+      "note": "Philosophical character speech is not narratorial evidence."
+    },
+    {
+      "quote_id": "q00066",
+      "person_signal": "non_base",
+      "note": "First-person love declaration is character speech."
+    },
+    {
+      "quote_id": "q00067",
+      "person_signal": "non_base",
+      "note": "Second-person and generic pronouns occur in character speech."
+    },
+    {
+      "quote_id": "q00068",
+      "person_signal": "non_base",
+      "note": "The inclusive \u201cwe\u201d occurs in dialogue, not controlling narration."
+    },
+    {
+      "quote_id": "q00069",
+      "person_signal": "non_base",
+      "note": "Gnomic definition without narrative-person evidence."
+    },
+    {
+      "quote_id": "q00070",
+      "person_signal": "non_base",
+      "note": "Extended first-person passage is character dialogue."
+    },
+    {
+      "quote_id": "q00071",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical statement."
+    },
+    {
+      "quote_id": "q00072",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim without a story narrator."
+    },
+    {
+      "quote_id": "q00073",
+      "person_signal": "non_base",
+      "note": "Historical generalization delivered as character speech."
+    },
+    {
+      "quote_id": "q00074",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed speech by Howard Roark."
+    },
+    {
+      "quote_id": "q00075",
+      "person_signal": "non_base",
+      "note": "Impersonal gnomic statement."
+    },
+    {
+      "quote_id": "q00076",
+      "person_signal": "unmarked",
+      "note": "Possible base narration reports a woman\u2019s knowledge, but this single third-person subject does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00077",
+      "person_signal": "non_base",
+      "note": "Conversation only; \u201cyou\u201d is direct address."
+    },
+    {
+      "quote_id": "q00078",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narration."
+    },
+    {
+      "quote_id": "q00079",
+      "person_signal": "non_base",
+      "note": "First-person assertion is character speech."
+    },
+    {
+      "quote_id": "q00080",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur within dialogue."
+    },
+    {
+      "quote_id": "q00081",
+      "person_signal": "non_base",
+      "note": "Named dialogue exchange; its pronouns belong to Toohey and Roark."
+    },
+    {
+      "quote_id": "q00082",
+      "person_signal": "non_base",
+      "note": "Gnomic definition of art."
+    },
+    {
+      "quote_id": "q00083",
+      "person_signal": "non_base",
+      "note": "Generalization presented as dialogue."
+    },
+    {
+      "quote_id": "q00084",
+      "person_signal": "unmarked",
+      "note": "The sentence reports a woman\u2019s thought but is too brief to rule out an unseen participating frame by itself."
+    },
+    {
+      "quote_id": "q00085",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without a story-specific narrator."
+    },
+    {
+      "quote_id": "q00086",
+      "person_signal": "non_base",
+      "note": "First-person reflection is an extended character utterance."
+    },
+    {
+      "quote_id": "q00087",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question."
+    },
+    {
+      "quote_id": "q00088",
+      "person_signal": "third",
+      "note": "Sustained scene narration refers to both characters as he and her while disclosing his knowledge and motives, with no participating narrator."
+    },
+    {
+      "quote_id": "q00089",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without base-person evidence."
+    },
+    {
+      "quote_id": "q00090",
+      "person_signal": "non_base",
+      "note": "Gnomic definition."
+    },
+    {
+      "quote_id": "q00091",
+      "person_signal": "third",
+      "note": "After the dialogue, sustained outside narration describes the words, her feelings, and the man in third person."
+    },
+    {
+      "quote_id": "q00092",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim."
+    },
+    {
+      "quote_id": "q00093",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to character speech."
+    },
+    {
+      "quote_id": "q00094",
+      "person_signal": "non_base",
+      "note": "Gnomic aphorism."
+    },
+    {
+      "quote_id": "q00095",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed first-person speech by Howard Roark."
+    },
+    {
+      "quote_id": "q00096",
+      "person_signal": "non_base",
+      "note": "First-person address to Dominique is character dialogue."
+    },
+    {
+      "quote_id": "q00097",
+      "person_signal": "non_base",
+      "note": "Historical example delivered in character speech."
+    },
+    {
+      "quote_id": "q00098",
+      "person_signal": "third",
+      "note": "Outside the quoted conversation, repeated scene beats narrate Roark and the Dean externally in third person."
+    },
+    {
+      "quote_id": "q00099",
+      "person_signal": "third",
+      "note": "Sustained scene narration renders both participants, physical actions, perceptions, and motives in third person without a participating narrator."
+    },
+    {
+      "quote_id": "q00100",
+      "person_signal": "non_base",
+      "note": "Philosophical character speech using generic persons."
+    },
+    {
+      "quote_id": "q00101",
+      "person_signal": "non_base",
+      "note": "Gnomic claim without narrative-person evidence."
+    },
+    {
+      "quote_id": "q00102",
+      "person_signal": "non_base",
+      "note": "Extended philosophical speech is not base narration."
+    },
+    {
+      "quote_id": "q00103",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison."
+    },
+    {
+      "quote_id": "q00104",
+      "person_signal": "non_base",
+      "note": "Direct-address question and generalization occur in dialogue."
+    },
+    {
+      "quote_id": "q00105",
+      "person_signal": "non_base",
+      "note": "First-person self-description is character speech."
+    },
+    {
+      "quote_id": "q00106",
+      "person_signal": "non_base",
+      "note": "Second-person imperatives occur in dialogue."
+    },
+    {
+      "quote_id": "q00107",
+      "person_signal": "non_base",
+      "note": "First-person assertion is character speech."
+    },
+    {
+      "quote_id": "q00108",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms belong to a character\u2019s speech."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.doe.mass.edu/mcas/pdf/2011/222998.pdf",
+      "title": "from The Fountainhead by Ayn Rand",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "A sustained excerpt reprinted by permission narrates Roark and the Dean externally, including the Dean\u2019s expectation, through a nonparticipating third-person narrator."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/fountainhead/facts/",
+      "title": "The Fountainhead: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly identifies the point of view as third person and the narrator as omniscient, providing psychological analyses of the characters."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/the-fountainhead",
+      "title": "The Fountainhead Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide\u2019s whole-book key facts explicitly identify the point of view as third-person omniscient."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-fountainhead/styles.html",
+      "title": "Ayn Rand Writing Styles in The Fountainhead",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section states that the novel remains third-person omniscient throughout, despite its four character-named parts."
+    },
+    {
+      "url": "https://www.coursehero.com/lit/The-Fountainhead/",
+      "title": "The Fountainhead Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Explicitly describes third-person omniscient narration filtered through several main characters."
+    },
+    {
+      "url": "https://aynrand.org/novels/the-fountainhead/",
+      "title": "The Fountainhead \u2013 Expert Insights & Free Copy",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The official Ayn Rand Institute page was opened, but its displayed novel excerpt is predominantly dialogue and does not independently reveal narrative person."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Fountainhead Ayn Rand official excerpt first chapter\u201d and opened the Massachusetts education-department excerpt reprinted by permission.",
+    "Searched \u201cThe Fountainhead Ayn Rand point of view third person narrator\u201d; opened explicit whole-book descriptions from SparkNotes, LitCharts, BookRags, and Course Hero.",
+    "Searched \u201csite:aynrand.org The Fountainhead excerpt\u201d and opened the official Ayn Rand Institute page; the displayed extract was mainly dialogue and therefore nondiagnostic.",
+    "Searched \u201cThe Fountainhead Google Books preview Ayn Rand\u201d; the opened Google Books record supplied bibliographic and synopsis material but no usable sustained preview text.",
+    "Checked searches for epistolary, frame, multiple-narrator, and alternating-point-of-view structure; found no credible indication of sustained first- or second-person base sections."
+  ],
+  "person_note": "The diagnostic Goodreads passages repeatedly show a nonparticipating narrator rendering characters\u2019 actions, perceptions, and motives in third person. Most first- and second-person forms in the quote set are dialogue or gnomic material and therefore local rather than narratorial. A sustained permission-cleared web excerpt independently shows the same third-person technique, while several explicit whole-book guides identify the novel as third-person omniscient throughout or across its character-centered parts. No credible evidence of an epistolary frame or sustained narration in another person was found; the main limitation is that the Tier A excerpt covers only one section, but the independent whole-book descriptions and interior quote evidence resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_006",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:21:42.962115+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "ce582eff8a954261987e52bfa7fd29625b3da666d361def614f90f1dba81435f"
+  }
+}

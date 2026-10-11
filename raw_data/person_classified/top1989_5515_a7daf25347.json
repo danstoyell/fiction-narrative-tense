@@ -1,0 +1,531 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1989:5515",
+  "quotes": [
+    {
+      "quote_id": "q03012",
+      "person_signal": "non_base",
+      "note": "Direct instruction in dialogue does not identify the base narrator."
+    },
+    {
+      "quote_id": "q03013",
+      "person_signal": "non_base",
+      "note": "Aphoristic dialogue question is nondiagnostic."
+    },
+    {
+      "quote_id": "q03014",
+      "person_signal": "non_base",
+      "note": "Quoted turtle speech; the external speech beat does not identify narrator person."
+    },
+    {
+      "quote_id": "q03015",
+      "person_signal": "non_base",
+      "note": "Generic-you dialogue about wounds is not second-person narration."
+    },
+    {
+      "quote_id": "q03016",
+      "person_signal": "non_base",
+      "note": "Statement attributed to Suyuan is local speech, not her own controlling chapter narration."
+    },
+    {
+      "quote_id": "q03017",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, this sustained self-reflection uses participating I and my as base narration."
+    },
+    {
+      "quote_id": "q03018",
+      "person_signal": "first",
+      "note": "Lindo narrates her own past experience as I."
+    },
+    {
+      "quote_id": "q03019",
+      "person_signal": "non_base",
+      "note": "Direct advice attributed to An-mei uses generic you."
+    },
+    {
+      "quote_id": "q03020",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports what occurs to me and identifies herself within the scene."
+    },
+    {
+      "quote_id": "q03021",
+      "person_signal": "first",
+      "note": "Rose's reflective base narration explicitly uses I."
+    },
+    {
+      "quote_id": "q03022",
+      "person_signal": "unmarked",
+      "note": "A third-person reference to she lacks enough context to establish narrator person."
+    },
+    {
+      "quote_id": "q03023",
+      "person_signal": "first",
+      "note": "Outside the embedded maternal explanation, the narrator refers to me, my family, and myself."
+    },
+    {
+      "quote_id": "q03024",
+      "person_signal": "non_base",
+      "note": "Direct maternal advice uses addressee you, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q03025",
+      "person_signal": "non_base",
+      "note": "Short quoted declaration attributed to Jing-mei is speech."
+    },
+    {
+      "quote_id": "q03026",
+      "person_signal": "non_base",
+      "note": "The passage is explicitly introduced as speech with she said."
+    },
+    {
+      "quote_id": "q03027",
+      "person_signal": "first",
+      "note": "The participating narrator contrasts herself with her mother using I and me."
+    },
+    {
+      "quote_id": "q03028",
+      "person_signal": "first",
+      "note": "The passage develops into sustained maternal self-narration using I, me, and my daughter."
+    },
+    {
+      "quote_id": "q03029",
+      "person_signal": "non_base",
+      "note": "Generic-you advice attributed to An-mei is local speech."
+    },
+    {
+      "quote_id": "q03030",
+      "person_signal": "first",
+      "note": "Ying-ying recounts her own conduct using I and my."
+    },
+    {
+      "quote_id": "q03031",
+      "person_signal": "non_base",
+      "note": "Gnomic observation contains no narrative-person evidence."
+    },
+    {
+      "quote_id": "q03032",
+      "person_signal": "non_base",
+      "note": "Dialogue about an absent she does not identify the narrator."
+    },
+    {
+      "quote_id": "q03033",
+      "person_signal": "non_base",
+      "note": "Attributed dialogue fragment is not base narration."
+    },
+    {
+      "quote_id": "q03034",
+      "person_signal": "first",
+      "note": "The narrator recounts her life, memories, and wish using I."
+    },
+    {
+      "quote_id": "q03035",
+      "person_signal": "first",
+      "note": "The narrator evaluates her own life and feelings using I and my."
+    },
+    {
+      "quote_id": "q03036",
+      "person_signal": "first",
+      "note": "The narrator frames another woman's explanation with told me and recounts what I learned."
+    },
+    {
+      "quote_id": "q03037",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange and generic you do not constitute second-person narration."
+    },
+    {
+      "quote_id": "q03038",
+      "person_signal": "first",
+      "note": "Lindo narrates her own changed emotional state as I."
+    },
+    {
+      "quote_id": "q03039",
+      "person_signal": "non_base",
+      "note": "Generic-you maxim in dialogue is nondiagnostic."
+    },
+    {
+      "quote_id": "q03040",
+      "person_signal": "non_base",
+      "note": "An isolated first-person rhetorical question in the dialogue bucket cannot securely expose base narration."
+    },
+    {
+      "quote_id": "q03041",
+      "person_signal": "first",
+      "note": "The reflective narrator includes herself in the relationship as we and she and I."
+    },
+    {
+      "quote_id": "q03042",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, this sustained passage narrates the speaker's knowledge and mother's history as I."
+    },
+    {
+      "quote_id": "q03043",
+      "person_signal": "non_base",
+      "note": "Direct address in character speech is not second-person base narration."
+    },
+    {
+      "quote_id": "q03044",
+      "person_signal": "first",
+      "note": "The narrator recounts her own realization, fear, and perception using I and my."
+    },
+    {
+      "quote_id": "q03045",
+      "person_signal": "non_base",
+      "note": "Explicitly shouted maternal speech is non-base."
+    },
+    {
+      "quote_id": "q03046",
+      "person_signal": "first",
+      "note": "Reflective maternal narration identifies the participant through me and my daughter."
+    },
+    {
+      "quote_id": "q03047",
+      "person_signal": "non_base",
+      "note": "Generic-you advice in dialogue is not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q03048",
+      "person_signal": "unmarked",
+      "note": "The third-person subject and unframed question do not securely identify narrator person."
+    },
+    {
+      "quote_id": "q03049",
+      "person_signal": "non_base",
+      "note": "Direct quoted confrontation is character speech."
+    },
+    {
+      "quote_id": "q03050",
+      "person_signal": "non_base",
+      "note": "First-person-plural explanation occurs in dialogue and is locally addressed."
+    },
+    {
+      "quote_id": "q03051",
+      "person_signal": "first",
+      "note": "A mother narrator reports what my daughter said to me."
+    },
+    {
+      "quote_id": "q03052",
+      "person_signal": "first",
+      "note": "The passage begins with the narrator's own hypothetical experience as I before shifting to generic you."
+    },
+    {
+      "quote_id": "q03053",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, this sustained maternal account uses I, my, and my daughter as chapter narration."
+    },
+    {
+      "quote_id": "q03054",
+      "person_signal": "first",
+      "note": "The narrator describes what I saw and have experienced."
+    },
+    {
+      "quote_id": "q03055",
+      "person_signal": "first",
+      "note": "The narrator recounts playing and recognizing the songs using I."
+    },
+    {
+      "quote_id": "q03056",
+      "person_signal": "first",
+      "note": "The narrator recounts her childhood and what her mother taught me."
+    },
+    {
+      "quote_id": "q03057",
+      "person_signal": "first",
+      "note": "The narrator participates in the mother-daughter relationship as I and we."
+    },
+    {
+      "quote_id": "q03058",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration repeatedly uses I and we outside the opening quoted question."
+    },
+    {
+      "quote_id": "q03059",
+      "person_signal": "first",
+      "note": "Jing-mei narrates the closing family scene as I and we."
+    },
+    {
+      "quote_id": "q03060",
+      "person_signal": "first",
+      "note": "The narrator reports her own discovery using I."
+    },
+    {
+      "quote_id": "q03061",
+      "person_signal": "first",
+      "note": "The narrator describes her fear and perception of her partner using I and my."
+    },
+    {
+      "quote_id": "q03062",
+      "person_signal": "non_base",
+      "note": "Gnomic statement is not person-diagnostic narration."
+    },
+    {
+      "quote_id": "q03063",
+      "person_signal": "first",
+      "note": "The narrator includes herself in the past relationship through we and us."
+    },
+    {
+      "quote_id": "q03064",
+      "person_signal": "non_base",
+      "note": "This is clipped third-person material from a brief section-prefacing parable, not the controlling serial narration."
+    },
+    {
+      "quote_id": "q03065",
+      "person_signal": "non_base",
+      "note": "A question-and-answer dialogue exchange is nondiagnostic."
+    },
+    {
+      "quote_id": "q03066",
+      "person_signal": "first",
+      "note": "The narrator reports her own fear and perception using I and me."
+    },
+    {
+      "quote_id": "q03067",
+      "person_signal": "non_base",
+      "note": "Generic-you aphorism in dialogue is not second-person narration."
+    },
+    {
+      "quote_id": "q03068",
+      "person_signal": "non_base",
+      "note": "The explicit address to you marks local character speech."
+    },
+    {
+      "quote_id": "q03069",
+      "person_signal": "first",
+      "note": "The narrator explicitly reports an enduring internal reflection with I think to myself."
+    },
+    {
+      "quote_id": "q03070",
+      "person_signal": "non_base",
+      "note": "Direct address to Ying-ying is character speech."
+    },
+    {
+      "quote_id": "q03071",
+      "person_signal": "first",
+      "note": "Jing-mei narrates her own reaction to the tests using I."
+    },
+    {
+      "quote_id": "q03072",
+      "person_signal": "first",
+      "note": "The narrator metaphorically describes what I was and became."
+    },
+    {
+      "quote_id": "q03073",
+      "person_signal": "non_base",
+      "note": "Generic-you statement in dialogue does not identify base person."
+    },
+    {
+      "quote_id": "q03074",
+      "person_signal": "first",
+      "note": "The narrator asks about her own identity and recounts what I realized."
+    },
+    {
+      "quote_id": "q03075",
+      "person_signal": "first",
+      "note": "The narrator describes her own feelings and imagined pursuit as I and me."
+    },
+    {
+      "quote_id": "q03076",
+      "person_signal": "first",
+      "note": "Sustained narration recounts the speaker's actions, knowledge, and strength as I."
+    },
+    {
+      "quote_id": "q03077",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, this sustained account describes the narrator's feelings, language, and storytelling as I."
+    },
+    {
+      "quote_id": "q03078",
+      "person_signal": "unmarked",
+      "note": "Third-person scene description lacks a participating-narrator marker and is too clipped to prove third-person control."
+    },
+    {
+      "quote_id": "q03079",
+      "person_signal": "first",
+      "note": "The surrounding narration recounts the speaker's feelings and actions as I; the final you-sentences are a local curse."
+    },
+    {
+      "quote_id": "q03080",
+      "person_signal": "first",
+      "note": "The narrator reports her own judgment and includes herself among the three travelers."
+    },
+    {
+      "quote_id": "q03081",
+      "person_signal": "first",
+      "note": "The narrator anticipates a conversation and evaluates her marriage using I and me."
+    },
+    {
+      "quote_id": "q03082",
+      "person_signal": "first",
+      "note": "A mother narrator identifies herself and her daughter through repeated I and me."
+    },
+    {
+      "quote_id": "q03083",
+      "person_signal": "first",
+      "note": "The narrator reports her own understanding of another woman's story using I."
+    },
+    {
+      "quote_id": "q03084",
+      "person_signal": "first",
+      "note": "The narrator recounts shared history and her unasked questions as we and I."
+    },
+    {
+      "quote_id": "q03085",
+      "person_signal": "first",
+      "note": "Outside the quoted speech, the beat identifies the participating narrator through my mother."
+    },
+    {
+      "quote_id": "q03086",
+      "person_signal": "first",
+      "note": "Sustained scene narration describes the narrator's mother, knowledge, memories, and actions using I and my."
+    },
+    {
+      "quote_id": "q03087",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, this airport reflection explicitly reports what I think and how the narrator leaves others."
+    },
+    {
+      "quote_id": "q03088",
+      "person_signal": "non_base",
+      "note": "Gnomic stairs comparison is not base-person evidence."
+    },
+    {
+      "quote_id": "q03089",
+      "person_signal": "non_base",
+      "note": "A direct generic-you question in dialogue is nondiagnostic."
+    },
+    {
+      "quote_id": "q03090",
+      "person_signal": "non_base",
+      "note": "Gnomic statement using one does not identify narrative person."
+    },
+    {
+      "quote_id": "q03091",
+      "person_signal": "first",
+      "note": "The narrator recounts her own thought process and beliefs using I."
+    },
+    {
+      "quote_id": "q03092",
+      "person_signal": "first",
+      "note": "The narrator describes her own physical and emotional state using I and my."
+    },
+    {
+      "quote_id": "q03093",
+      "person_signal": "first",
+      "note": "The narrator recounts her thoughts, upbringing, therapy, and reading using I and my."
+    },
+    {
+      "quote_id": "q03094",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, this maternal reflection identifies the narrator's responsibility and children through I and my."
+    },
+    {
+      "quote_id": "q03095",
+      "person_signal": "non_base",
+      "note": "Gnomic wordplay about Auntie Yang is not narrator-person evidence."
+    },
+    {
+      "quote_id": "q03096",
+      "person_signal": "first",
+      "note": "The narrator recounts her own worry and imagined discovery using I and me."
+    },
+    {
+      "quote_id": "q03097",
+      "person_signal": "first",
+      "note": "The narrator describes a partner's attention to me and my mind."
+    },
+    {
+      "quote_id": "q03098",
+      "person_signal": "first",
+      "note": "The narrator explains her own choices, knowledge, and intentions using I."
+    },
+    {
+      "quote_id": "q03099",
+      "person_signal": "first",
+      "note": "The participating narrator includes herself in the remembered community through we all."
+    },
+    {
+      "quote_id": "q03100",
+      "person_signal": "non_base",
+      "note": "The old-woman-and-swan passage is a brief third-person prefatory myth, not a sustained controlling narrative section."
+    },
+    {
+      "quote_id": "q03101",
+      "person_signal": "first",
+      "note": "Jing-mei narrates her present emotional response as I."
+    },
+    {
+      "quote_id": "q03102",
+      "person_signal": "first",
+      "note": "The narrator recounts what she learned about chess using I."
+    },
+    {
+      "quote_id": "q03103",
+      "person_signal": "first",
+      "note": "Sustained present-tense scene narration uses I and my around embedded dialogue."
+    },
+    {
+      "quote_id": "q03104",
+      "person_signal": "first",
+      "note": "The narrator describes her own shadow and nature using I, me, and my."
+    },
+    {
+      "quote_id": "q03105",
+      "person_signal": "first",
+      "note": "The narrator reflects on her relationship with her mother using I and we."
+    },
+    {
+      "quote_id": "q03106",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration repeatedly identifies the speaker through me, my, and I."
+    },
+    {
+      "quote_id": "q03107",
+      "person_signal": "first",
+      "note": "The reflective speaker's I and personal belief are consistent with the novel's first-person chapter narration."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.arts.gov/sites/default/files/Tan_TG2014.pdf",
+      "title": "The Big Read: The Joy Luck Club Teacher's Guide",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The National Endowment for the Arts explicitly describes the novel as serial first-person narration moving among multiple participating narrators."
+    },
+    {
+      "url": "https://www.enotes.com/topics/joy-luck-club/criticism/criticism/marina-heung-essay-date-fall-1993",
+      "title": "Daughter-Text/Mother-Text: Matrilineage in Amy Tan's Joy Luck Club",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Marina Heung's scholarly structural analysis states that all sixteen chapters are narrated in first person and interweave seven voices."
+    },
+    {
+      "url": "https://www.penguinrandomhouse.com/books/300526/the-joy-luck-club-by-amy-tan/9781101502730/readers-guide/",
+      "title": "The Joy Luck Club Reading Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher's author interview confirms sixteen stories arranged in four groups, each preceded by a brief mythlike tale; this explains the local third-person parable passages without establishing an alternating controlling person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Joy Luck Club Amy Tan narrative point of view first person multiple narrators\" and opened the NEA guide, Marina Heung analysis, and an explicit point-of-view reference.",
+    "Searched \"The Joy Luck Club excerpt first chapter publisher\" and opened Penguin Random House's book and reading-guide pages.",
+    "Searched \"The Joy Luck Club structure four sections parables narrators first person scholarly\" to distinguish the sixteen main narratives from the four brief prefatory tales.",
+    "Checked Google Books previews for the 1990 and 2006 editions; access was limited and added no stronger sustained excerpt than the supplied quotations."
+  ],
+  "person_note": "The sixteen main narratives are controlled by participating first-person voices; having seven narrators does not change the label because all use the same narrative person. Numerous event quotations independently expose sustained I/we narration, and two whole-book Tier B sources confirm the structure. The apparent contrary material in q03064 and q03100 belongs to brief third-person prefatory myths rather than sustained base sections, while other third-person snippets are locally unmarked. Some dialogue buckets appear to contain clipped first-person chapter narration, but this upstream noise does not create a credible person conflict.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_026",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T17:39:41.602432+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "7f06cbaa60980eed357d31150ee9487506e1983b3176e7badae4bcd66057b407"
+  }
+}

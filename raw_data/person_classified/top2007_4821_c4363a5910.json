@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2007:4821",
+  "quotes": [
+    {
+      "quote_id": "q01308",
+      "person_signal": "non_base",
+      "note": "General maxim; no diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q01309",
+      "person_signal": "non_base",
+      "note": "Character declaration presented as an aphorism; not narratorial I."
+    },
+    {
+      "quote_id": "q01310",
+      "person_signal": "non_base",
+      "note": "Exhortation, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01311",
+      "person_signal": "non_base",
+      "note": "General reflection on victory."
+    },
+    {
+      "quote_id": "q01312",
+      "person_signal": "non_base",
+      "note": "Character-directed counsel, not narration of a protagonist as you."
+    },
+    {
+      "quote_id": "q01313",
+      "person_signal": "non_base",
+      "note": "General saying about deathbed speech."
+    },
+    {
+      "quote_id": "q01314",
+      "person_signal": "non_base",
+      "note": "Context identifies T\u00farin speaking to Sador. Possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01315",
+      "person_signal": "unmarked",
+      "note": "Morgoth's first-person curse is speech; the brief introductory beat alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q01316",
+      "person_signal": "non_base",
+      "note": "General advice; you does not establish narrative person."
+    },
+    {
+      "quote_id": "q01317",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about grief."
+    },
+    {
+      "quote_id": "q01318",
+      "person_signal": "non_base",
+      "note": "Spoken imperative."
+    },
+    {
+      "quote_id": "q01319",
+      "person_signal": "non_base",
+      "note": "Context identifies Beleg addressing T\u00farin."
+    },
+    {
+      "quote_id": "q01320",
+      "person_signal": "unmarked",
+      "note": "First-person plural belongs to dialogue; Sador's short speech tag is nondiagnostic."
+    },
+    {
+      "quote_id": "q01321",
+      "person_signal": "non_base",
+      "note": "Asgon's speech about Aerin; us denotes his community. Possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01322",
+      "person_signal": "non_base",
+      "note": "A character describes his past to N\u00edniel in dialogue."
+    },
+    {
+      "quote_id": "q01323",
+      "person_signal": "unmarked",
+      "note": "Narratorial retrospective statement, but too brief to establish narrator participation independently."
+    },
+    {
+      "quote_id": "q01324",
+      "person_signal": "third",
+      "note": "Extended external characterization encompasses T\u00farin's disposition, inheritance, and emotional responses."
+    },
+    {
+      "quote_id": "q01325",
+      "person_signal": "non_base",
+      "note": "T\u00farin rebukes his outlaw companions; we is spoken. Possible upstream event-bucket issue."
+    },
+    {
+      "quote_id": "q01326",
+      "person_signal": "non_base",
+      "note": "General maxim about war and fear."
+    },
+    {
+      "quote_id": "q01327",
+      "person_signal": "non_base",
+      "note": "Spoken warning about marriage; we and you belong to the interlocutors."
+    },
+    {
+      "quote_id": "q01328",
+      "person_signal": "unmarked",
+      "note": "Thingol and Mablung exchange dialogue; brief tags do not independently identify the narrator."
+    },
+    {
+      "quote_id": "q01329",
+      "person_signal": "non_base",
+      "note": "Character's direct challenge to Morgoth."
+    },
+    {
+      "quote_id": "q01330",
+      "person_signal": "non_base",
+      "note": "Context places this warning within quoted speech."
+    },
+    {
+      "quote_id": "q01331",
+      "person_signal": "non_base",
+      "note": "Melian's advice to T\u00farin, not second-person base narration."
+    },
+    {
+      "quote_id": "q01332",
+      "person_signal": "unmarked",
+      "note": "Sador's speech contains we and you; its short attribution is nondiagnostic."
+    },
+    {
+      "quote_id": "q01333",
+      "person_signal": "third",
+      "note": "External narration recounts Hunthor's death and evaluates his valour; Turambar's lament is clearly speech."
+    },
+    {
+      "quote_id": "q01334",
+      "person_signal": "third",
+      "note": "Scene narration reports the woman's fear and faltering, then Thingol's response; first-person forms remain dialogue."
+    },
+    {
+      "quote_id": "q01335",
+      "person_signal": "non_base",
+      "note": "Collective first-person character speech about migration and hope."
+    },
+    {
+      "quote_id": "q01336",
+      "person_signal": "third",
+      "note": "Sustained narration moves between the travellers and Beleg, reporting their circumstances and his emotions externally."
+    },
+    {
+      "quote_id": "q01337",
+      "person_signal": "unmarked",
+      "note": "Mablung's judgment is dialogue; the introductory beat is too short to establish person."
+    },
+    {
+      "quote_id": "q01338",
+      "person_signal": "unmarked",
+      "note": "Clipped external action involving M\u00eem; insufficient context to identify narrator participation."
+    },
+    {
+      "quote_id": "q01339",
+      "person_signal": "third",
+      "note": "Narration connects T\u00farin's satisfaction and changed behaviour with the community's response from an external position."
+    },
+    {
+      "quote_id": "q01340",
+      "person_signal": "non_base",
+      "note": "Editorial introduction discussing the intended readership."
+    },
+    {
+      "quote_id": "q01341",
+      "person_signal": "non_base",
+      "note": "Christopher Tolkien's editorial voice; my father is paratextual."
+    },
+    {
+      "quote_id": "q01342",
+      "person_signal": "non_base",
+      "note": "Expository material in the editorial introduction."
+    },
+    {
+      "quote_id": "q01343",
+      "person_signal": "non_base",
+      "note": "Aphoristic saying about malice."
+    },
+    {
+      "quote_id": "q01344",
+      "person_signal": "unmarked",
+      "note": "Morwen's promise is speech; the short farewell beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01345",
+      "person_signal": "non_base",
+      "note": "Closing quotation boundary identifies a clipped character utterance about approaching the Dragon."
+    },
+    {
+      "quote_id": "q01346",
+      "person_signal": "non_base",
+      "note": "Context identifies Turambar's spoken counsel."
+    },
+    {
+      "quote_id": "q01347",
+      "person_signal": "non_base",
+      "note": "Fragment of Melian's spoken advice to T\u00farin."
+    },
+    {
+      "quote_id": "q01348",
+      "person_signal": "non_base",
+      "note": "Direct accusation and threat addressed to a character."
+    },
+    {
+      "quote_id": "q01349",
+      "person_signal": "non_base",
+      "note": "Explicitly attributed to Mablung in context. Possible upstream event-bucket issue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/2016/the-children-of-h%C3%BArin",
+      "title": "The Children of H\u00farin Excerpt",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Publisher-authorized excerpt begins with T\u00farin aged seventeen and externally recounts his grief, Morgoth's growing power, and Thingol's protection. Establishes third-person interior narration."
+    },
+    {
+      "url": "https://www.abebooks.com/9780007252251/Children-Hurin-Tolkien-0007252250/plp",
+      "title": "The Children of Hurin \u2014 J. R. R. Tolkien",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Substantial Chapter One excerpt surveys several family members, their dispositions and histories, then redirects the tale to H\u00farin and Huor. Corroborates an external narrator at the opening."
+    },
+    {
+      "url": "https://jcmurraybooks.com/2021/06/08/nostalgia-review-children-of-hurin/",
+      "title": "Nostalgia Review: Children of Hurin",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Review explicitly describes the book's narrative style as third person, corroborating the primary excerpts."
+    },
+    {
+      "url": "https://repositorio.unesp.br/server/api/core/bitstreams/25557ea0-c03a-4010-8aea-855f58e9d0ef/content",
+      "title": "UNESP dissertation on Tolkien's tragic hero",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "none",
+      "note": "Page 93 contextualizes q01325 as T\u00farin's rebuke of the outlaws after their treatment of Beleg. Resolves its first-person plural as dialogue."
+    },
+    {
+      "url": "https://abcdocz.com/doc/55175/",
+      "title": "Document 55175 \u2014 The Children of H\u00farin transcription",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Lower-provenance transcription supplies several corroborating contexts: q01314 is T\u00farin's speech, q01321 Asgon's, q01349 Mablung's, and q01331/q01347 Melian's advice. Used for local attribution alongside authorized prose."
+    },
+    {
+      "url": "https://thetolkien.forum/threads/beleg-strongbow.16311/?amp=1",
+      "title": "Beleg Strongbow",
+      "tier": "D",
+      "scope": "unknown",
+      "supports": "none",
+      "note": "Forum quotation explicitly attributes q01319 to Beleg; ancillary attribution evidence, not independent proof of the 2007 book's structure."
+    }
+  ],
+  "search_log": [
+    "Searched The Children of Hurin Tolkien excerpt chapter; found and opened BookBrowse's authorized interior excerpt and AbeBooks' opening excerpt.",
+    "Searched the title with narrator third person; opened JC Murray's explicit third-person review. Audiobook-narrator results were not treated as narrative-person evidence.",
+    "Searched exact phrases from q01314, q01319, q01321, q01325 and q01349 to resolve apparent first-person narration.",
+    "Opened the UNESP dissertation and inspected its discussion of T\u00farin addressing the outlaws.",
+    "Opened the ABCdocz transcription and located speech contexts for the ambiguous quotations, including Melian's advice and Mablung's lament.",
+    "Opened Korpua's Constructive Mythopoetics dissertation; its parallel Mablung quotation cites a 1999 Tolkien text, so it was not treated as direct evidence for the 2007 edition.",
+    "The Hopkins and Company interior-excerpt result failed to open and was not used as evidence."
+  ],
+  "person_note": "The controlling narrator recounts the characters externally, including their motives and emotions. Diagnostic Goodreads passages agree with the authorized interior excerpt, the opening, and an explicit whole-book review. Apparent first-person event quotations resolve into character dialogue; Christopher Tolkien's first-person editorial introduction is paratext. These do not establish alternating narration. Existing upstream classifications remain unchanged, with possible speech-versus-event issues noted. The main limitation is that authorized web coverage is excerpt-based rather than a complete edition; no credible contrary narrative structure emerged.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_045",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-06T13:26:01.526604+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "540716434469277f1656f241044d2d94d7874f2bd84f2944fdb896717f333d33"
+  }
+}

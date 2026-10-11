@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2024:TABLE FOR TWO|Amor Towles",
+  "quotes": [
+    {
+      "quote_id": "q09367",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection framed as Charlie's thought; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q09368",
+      "person_signal": "non_base",
+      "note": "Generalized comic reflection; the hypothetical 'your' is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09369",
+      "person_signal": "non_base",
+      "note": "General observation explicitly framed as Charlie's thought."
+    },
+    {
+      "quote_id": "q09370",
+      "person_signal": "non_base",
+      "note": "Essayistic observation without diagnostic base-narrator participation."
+    },
+    {
+      "quote_id": "q09371",
+      "person_signal": "non_base",
+      "note": "Character speech does not identify the base narrator."
+    },
+    {
+      "quote_id": "q09372",
+      "person_signal": "non_base",
+      "note": "Generalized instructional satire; 'you' is universal rather than a story-specific protagonist."
+    },
+    {
+      "quote_id": "q09373",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor without diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q09374",
+      "person_signal": "unmarked",
+      "note": "Possible scene narration, but 'she' alone does not establish a nonparticipating narrator and 'you' is generic within the simile."
+    },
+    {
+      "quote_id": "q09375",
+      "person_signal": "non_base",
+      "note": "Predominantly dialogue; the short attribution does not independently establish the section's controlling person."
+    },
+    {
+      "quote_id": "q09376",
+      "person_signal": "non_base",
+      "note": "Generalized reflection whose 'you' is generic, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q09377",
+      "person_signal": "first",
+      "note": "The narrating witness participates as 'we' in a specific performance scene from the first-person story 'The Bootlegger.'"
+    },
+    {
+      "quote_id": "q09378",
+      "person_signal": "non_base",
+      "note": "Direct character speech to Jerry."
+    },
+    {
+      "quote_id": "q09379",
+      "person_signal": "non_base",
+      "note": "Aphoristic generalization without narrator-person evidence."
+    },
+    {
+      "quote_id": "q09380",
+      "person_signal": "non_base",
+      "note": "Unattributed conversational exchange."
+    },
+    {
+      "quote_id": "q09381",
+      "person_signal": "non_base",
+      "note": "Spoken first-person utterance, not base narration."
+    },
+    {
+      "quote_id": "q09382",
+      "person_signal": "unmarked",
+      "note": "Possible participating-narrator commentary, but the generic 'you' and absence of 'I' do not conclusively expose person in this clipped passage."
+    },
+    {
+      "quote_id": "q09383",
+      "person_signal": "non_base",
+      "note": "First-person character speech addressed to a friend."
+    },
+    {
+      "quote_id": "q09384",
+      "person_signal": "third",
+      "note": "Extended external narration coordinates actions in separate locations and addresses Timothy from outside the story; research confirms 'The Ballad of Timothy Touchett' is third-person."
+    },
+    {
+      "quote_id": "q09385",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about opinion-givers rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q09386",
+      "person_signal": "unmarked",
+      "note": "Character exposition using names alone cannot distinguish third-person narration from a participating narrator describing others."
+    },
+    {
+      "quote_id": "q09387",
+      "person_signal": "unclear",
+      "note": "Fragmentary music-title text contains no recoverable narrative context."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.bookrags.com/studyguide-table-for-two/styles.html",
+      "title": "Writing Styles in Table For Two",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The structural analysis explicitly maps 'The Line' and 'The Ballad of Timothy Touchett' to omniscient third person; four New York stories to first person; and 'Eve in Hollywood' to third person with shifting character perspectives."
+    },
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781804949504/9781804949504-sample.pdf",
+      "title": "Table for Two \u2014 Penguin Books authorized sample",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The publisher's sustained authorized excerpt of 'The Line' narrates Pushkin and Irina externally in third person across many pages."
+    },
+    {
+      "url": "https://www.amortowles.com/table-for-two-q-and-a/",
+      "title": "Table for Two: Q and A \u2014 Amor Towles",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "FIRST",
+      "note": "Towles identifies Mary Elizabeth Harkness as the narrator of 'The Bootlegger,' calls Percy the narrator of 'The DiDomenico Fragment,' and describes the former narrator hearing the culminating cello performance; this primary-source account corroborates autonomous participating narrators in named stories."
+    }
+  ],
+  "search_log": [
+    "Searched site:amortowles.com Table for Two excerpt Ballad Timothy Touchett; opened Towles's Q&A and found narrator information for named stories.",
+    "Searched site:penguinrandomhouse.com and Penguin domains for Table for Two excerpts; opened Penguin's 46-page authorized sample containing sustained third-person narration from 'The Line.'",
+    "Searched \"Table for Two\" Amor Towles \"first person\" narrator and point-of-view variants; opened BookRags' whole-collection structural analysis.",
+    "Searched Table for Two Amor Towles omniscient narrator, first-person narrator, and narration reviews for corroboration.",
+    "A Yahoo-hosted author interview search result described varying narrator perspectives, but the page returned HTTP 429 and was not used as evidence.",
+    "WNYC and Penguin catalogue result pages were unavailable or nondiagnostic; synopsis-only results were not used to infer narrative person."
+  ],
+  "person_note": "This prose collection has sustained components in different narrative persons, so ALTERNATING applies at book level. The quoted 'we' from 'The Bootlegger' exposes a participating first-person witness, while the Timothy Touchett passage and authorized Penguin sample expose third-person narration. A commercial whole-book guide maps four stories to first person and two stories plus the novella to third person; Towles's Q&A corroborates named first-person narrators. Confidence is medium because the source that supplies the complete component-by-component map is commercial, not Tier B.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_086",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T03:18:49.071243+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d02ba2c3276643b9538a99d7572e0e8cd25c018238c23ac15b93ec6feb1a5188"
+  }
+}

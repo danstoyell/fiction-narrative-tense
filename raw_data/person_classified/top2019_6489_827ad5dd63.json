@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2019:6489",
+  "quotes": [
+    {
+      "quote_id": "q03522",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim; it does not cast a story protagonist as you."
+    },
+    {
+      "quote_id": "q03523",
+      "person_signal": "non_base",
+      "note": "Attributed historical maxim with no diagnostic base narrator."
+    },
+    {
+      "quote_id": "q03524",
+      "person_signal": "non_base",
+      "note": "Universal second-person reflection, not sustained story-specific narration."
+    },
+    {
+      "quote_id": "q03525",
+      "person_signal": "first",
+      "note": "Story-specific retrospective narration explicitly identifies a participating I."
+    },
+    {
+      "quote_id": "q03526",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03527",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03528",
+      "person_signal": "non_base",
+      "note": "Becka's attributed speech; the third-person tag alone does not establish base narration."
+    },
+    {
+      "quote_id": "q03529",
+      "person_signal": "non_base",
+      "note": "A stylized gnomic parody containing a local I/my voice, insufficient by itself to identify base narration."
+    },
+    {
+      "quote_id": "q03530",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection with no narrator-person marker."
+    },
+    {
+      "quote_id": "q03531",
+      "person_signal": "non_base",
+      "note": "Generic reflection about a person, not diagnostic narration."
+    },
+    {
+      "quote_id": "q03532",
+      "person_signal": "non_base",
+      "note": "Universal gnomic we, not a story-participating narrator."
+    },
+    {
+      "quote_id": "q03533",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03534",
+      "person_signal": "first",
+      "note": "The narrator cites her own experience using I, exposing participating narration."
+    },
+    {
+      "quote_id": "q03535",
+      "person_signal": "first",
+      "note": "Story-specific collective experience is narrated through we/us."
+    },
+    {
+      "quote_id": "q03536",
+      "person_signal": "first",
+      "note": "The reporting clause 'I told myself' identifies the participant narrator; you is embedded self-address."
+    },
+    {
+      "quote_id": "q03537",
+      "person_signal": "unmarked",
+      "note": "Story-world summary contains no participating or external narrator marker."
+    },
+    {
+      "quote_id": "q03538",
+      "person_signal": "first",
+      "note": "Retrospective desire and belief are narrated explicitly as I."
+    },
+    {
+      "quote_id": "q03539",
+      "person_signal": "non_base",
+      "note": "General historical maxim with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q03540",
+      "person_signal": "first",
+      "note": "A story narrator states a present personal stance as I."
+    },
+    {
+      "quote_id": "q03541",
+      "person_signal": "first",
+      "note": "The narrator recounts her own earlier age using I."
+    },
+    {
+      "quote_id": "q03542",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03543",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained narration of a protagonist."
+    },
+    {
+      "quote_id": "q03544",
+      "person_signal": "first",
+      "note": "The participating narrator comments on her past social condition using I."
+    },
+    {
+      "quote_id": "q03545",
+      "person_signal": "non_base",
+      "note": "Aphoristic evaluation with no explicit narrator-person evidence."
+    },
+    {
+      "quote_id": "q03546",
+      "person_signal": "non_base",
+      "note": "The apparent I is part of a hypothetical question assigned to you, not secure narrator self-reference."
+    },
+    {
+      "quote_id": "q03547",
+      "person_signal": "first",
+      "note": "The narrator describes her own past strategy using I."
+    },
+    {
+      "quote_id": "q03548",
+      "person_signal": "first",
+      "note": "Although centered on dialogue, the outside reporting clause 'I said' exposes a participating narrator."
+    },
+    {
+      "quote_id": "q03549",
+      "person_signal": "first",
+      "note": "The narrator describes her own bodily condition through my."
+    },
+    {
+      "quote_id": "q03550",
+      "person_signal": "first",
+      "note": "The narrator explicitly compares her former self with the addressee using I."
+    },
+    {
+      "quote_id": "q03551",
+      "person_signal": "non_base",
+      "note": "Gnomic moral statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03552",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03553",
+      "person_signal": "first",
+      "note": "The narrator addresses a future reader while identifying the manuscript as mine and herself as I."
+    },
+    {
+      "quote_id": "q03554",
+      "person_signal": "first",
+      "note": "The narrator recounts her own choices using I."
+    },
+    {
+      "quote_id": "q03555",
+      "person_signal": "first",
+      "note": "Story-specific enforced forgetting is narrated through we."
+    },
+    {
+      "quote_id": "q03556",
+      "person_signal": "first",
+      "note": "The reporting tag 'I said' identifies the participating narrator despite the dialogue bucket."
+    },
+    {
+      "quote_id": "q03557",
+      "person_signal": "first",
+      "note": "Extended retrospective account of the narrator's own perceptions and feelings uses I."
+    },
+    {
+      "quote_id": "q03558",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03559",
+      "person_signal": "unclear",
+      "note": "Insufficient context leaves the addressed sentence unresolved between speech and narration."
+    },
+    {
+      "quote_id": "q03560",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03561",
+      "person_signal": "unmarked",
+      "note": "A story-specific perception is presented without enough context to identify narrator person."
+    },
+    {
+      "quote_id": "q03562",
+      "person_signal": "first",
+      "note": "The narrator frames an embedded self-address with 'I thought' and refers to later events happening to me."
+    },
+    {
+      "quote_id": "q03563",
+      "person_signal": "first",
+      "note": "The observer retrospectively describes what she saw and failed to realize using I."
+    },
+    {
+      "quote_id": "q03564",
+      "person_signal": "first",
+      "note": "The narrator states her own fear using I; subsequent you is generic explanatory address."
+    },
+    {
+      "quote_id": "q03565",
+      "person_signal": "non_base",
+      "note": "Personal wording occurs within a compressed gnomic joke and is not independently secure base evidence."
+    },
+    {
+      "quote_id": "q03566",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03567",
+      "person_signal": "first",
+      "note": "The narrator recounts her childhood actions and realization repeatedly using I/me."
+    },
+    {
+      "quote_id": "q03568",
+      "person_signal": "non_base",
+      "note": "Generic second-person moral observation, not sustained protagonist narration."
+    },
+    {
+      "quote_id": "q03569",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q03570",
+      "person_signal": "first",
+      "note": "The narrator recounts a specific shared childhood condition through we/us."
+    },
+    {
+      "quote_id": "q03571",
+      "person_signal": "non_base",
+      "note": "Aphoristic reader address using me/yourself, not a sustained narrated event."
+    },
+    {
+      "quote_id": "q03572",
+      "person_signal": "non_base",
+      "note": "Universal second-person rhetorical question, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q03573",
+      "person_signal": "first",
+      "note": "The narrator directly addresses her reader and identifies the pages as mine and the relationship as our."
+    },
+    {
+      "quote_id": "q03574",
+      "person_signal": "non_base",
+      "note": "Attributed male speech; its pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q03575",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrator-person evidence."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781784708214/9781784708214-sample.pdf",
+      "title": "The Testaments \u2014 official Vintage/Penguin sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained publisher-authorized sample interleaves the Ardua Hall Holograph and Witness Testimony 369A; both Aunt Lydia and Agnes narrate their story-world experiences in first person."
+    },
+    {
+      "url": "https://aisberg.unibg.it/retrieve/e40f7b8a-2bdb-afca-e053-6605fe0aeaf2/Tesi%20di%20dottorato%20ROMANZI%20VALENTINA%20-%20American%20Nightmares_1.pdf",
+      "title": "American Nightmares: Dystopia in Twenty-First-Century US Fiction",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The scholarly structural analysis states that Aunt Lydia, Agnes Jemima, and Daisy provide three first-person narratives as a holograph and two witness-testimony transcripts, followed by a symposium coda."
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/testaments/facts/",
+      "title": "The Testaments: Key Facts",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Explicitly identifies all three narrators and states that each speaks from her own perspective using first-person I; it also identifies the final historian section."
+    },
+    {
+      "url": "https://www.palatinate.org.uk/review-the-testaments-by-margaret-atwood/",
+      "title": "Review: The Testaments by Margaret Atwood",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes the novel as using multiple first-person narrators whose testaments function as primary historical sources."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2019/sep/20/margaret-atwood-moving-away-from-gilead-testaments",
+      "title": "Margaret Atwood: \u2018For a long time we were moving away from Gilead. Then we started going back towards it\u2019",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The author interview identifies the three constitutive voices as Aunt Lydia's testament and the testimonies of Agnes and Daisy, corroborating the document-based narrator structure."
+    }
+  ],
+  "search_log": [
+    "Searched: \"The Testaments\" Margaret Atwood official excerpt Aunt Lydia Agnes Daisy narrators first person.",
+    "Searched: \"The Testaments\" point of view three narrators first person review.",
+    "Searched publisher and author domains for an excerpt; Margaret Atwood's official book page supplied only synopsis material, while the Vintage/Penguin PDF supplied sustained prose.",
+    "Opened the Vintage/Penguin sample and verified first-person narration in both the Ardua Hall Holograph and Transcript of Witness Testimony 369A.",
+    "Searched for interior Agnes and Daisy testimony excerpts; unauthorized reproductions and summary pages were treated as discovery material rather than evidence.",
+    "Searched scholarly repositories for \"The Testaments\" and \"three first-person narrators\"; opened a University of Bergamo doctoral thesis giving an explicit whole-book structural account.",
+    "Opened explicit whole-book POV descriptions from SparkNotes and Palatinate and an author interview in The Guardian.",
+    "Checked the symposium/frame issue through structural sources; it is a concluding transcript that contextualizes the three first-person documents, not evidence of sustained third-person base narration."
+  ],
+  "person_note": "The diagnostic quotations repeatedly expose participating I/we narration, and the authorized sample independently confirms sustained first-person accounts by Aunt Lydia and Agnes. Whole-book scholarly and explicit reference evidence establishes that Daisy's third constitutive testimony is also first person. Thus the novel has three narrators but not multiple grammatical persons: under the methodology, multiple first-person narrators remain FIRST rather than ALTERNATING. Dialogue, generic you, and aphoristic material were not promoted to narrator evidence. The concluding historical symposium frames and evaluates the three documents but does not create a sustained third-person story strand. Remaining uncertainty is minimal and concerns only the sparse quote coverage of Daisy, resolved by the whole-book structural evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_069",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T06:43:38.680765+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "29abdfb150b3d9336f38a9be1529503120963baea853df373790d09e506c772e"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2011:5670",
+  "quotes": [
+    {
+      "quote_id": "q02476",
+      "person_signal": "unmarked",
+      "note": "Impersonal narration about a tested product; no participating or nonparticipating narrator is exposed."
+    },
+    {
+      "quote_id": "q02477",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur entirely in character dialogue."
+    },
+    {
+      "quote_id": "q02478",
+      "person_signal": "non_base",
+      "note": "Generic second-person expression in a maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q02479",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Abner's pride, actions, and habitual behavior without a participating narrator."
+    },
+    {
+      "quote_id": "q02480",
+      "person_signal": "unmarked",
+      "note": "A single sentence about an unnamed he could occur within either first- or third-person narration."
+    },
+    {
+      "quote_id": "q02481",
+      "person_signal": "non_base",
+      "note": "The first-person pronoun is spoken by Massey; the attribution does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q02482",
+      "person_signal": "unmarked",
+      "note": "Clipped descriptive narration contains no narrator-identifying person signal."
+    },
+    {
+      "quote_id": "q02483",
+      "person_signal": "non_base",
+      "note": "A definitional, gnomic fragment rather than diagnostic event narration."
+    },
+    {
+      "quote_id": "q02484",
+      "person_signal": "unmarked",
+      "note": "Impersonal explanatory narration with no narrator-identifying pronoun or frame."
+    },
+    {
+      "quote_id": "q02485",
+      "person_signal": "unmarked",
+      "note": "The clipped third-person subject alone does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q02486",
+      "person_signal": "non_base",
+      "note": "Advice using generic imperatives and implied you, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q02487",
+      "person_signal": "non_base",
+      "note": "General exposition about psychological breaking points is gnomic and does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02488",
+      "person_signal": "third",
+      "note": "After a local line of dialogue and a chapter break, sustained narration externally introduces Judge and Caroline Zinc, their family, occupations, and history."
+    },
+    {
+      "quote_id": "q02489",
+      "person_signal": "unclear",
+      "note": "The clipped phrase lacks boundaries needed to determine whether it is narration or speech."
+    },
+    {
+      "quote_id": "q02490",
+      "person_signal": "non_base",
+      "note": "The pronouns belong to dialogue; the brief external beat is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02491",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, substantial outside narration reports Rochelle's doubts and her attempt to minimize the conversation, exposing third-person base narration."
+    },
+    {
+      "quote_id": "q02492",
+      "person_signal": "unmarked",
+      "note": "A clipped sentence about David does not alone exclude a participating narrator."
+    },
+    {
+      "quote_id": "q02493",
+      "person_signal": "unmarked",
+      "note": "A single externally phrased action about Jerry Alisandros is insufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q02494",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in a local message or spoken statement, not base narration."
+    },
+    {
+      "quote_id": "q02495",
+      "person_signal": "unmarked",
+      "note": "Impersonal narration about a document and its recipients does not identify narrator participation."
+    },
+    {
+      "quote_id": "q02496",
+      "person_signal": "unmarked",
+      "note": "A single sentence focalized through David is compatible with both first- and third-person base narration."
+    },
+    {
+      "quote_id": "q02497",
+      "person_signal": "unmarked",
+      "note": "The clipped billing statement contains no narrator-identifying person signal."
+    },
+    {
+      "quote_id": "q02498",
+      "person_signal": "unmarked",
+      "note": "The clipped report of Gant's call does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q02499",
+      "person_signal": "non_base",
+      "note": "Second-person forms are direct address within character dialogue."
+    },
+    {
+      "quote_id": "q02500",
+      "person_signal": "non_base",
+      "note": "The first-person form is spoken by Gant; the short speech attribution is not independently diagnostic."
+    },
+    {
+      "quote_id": "q02501",
+      "person_signal": "unmarked",
+      "note": "A single sentence locating Reuben Massey does not alone establish the narrator's relationship to the story."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.randomhousebooks.com/books/213068/",
+      "title": "The Litigators | Random House Publishing Group",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained Chapter 1 excerpt narrates Finley, Figg, Gibson, and the firm externally in third person, including characters' histories, attitudes, and desires, with no participating narrator."
+    },
+    {
+      "url": "https://www.bookreporter.com/reviews/the-litigators/excerpt",
+      "title": "The Litigators by John Grisham | Excerpt | Bookreporter.com",
+      "tier": "D",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A long Chapter 1 excerpt corroborates continuous external third-person narration across multiple characters; its opening-only scope does not by itself establish the entire novel."
+    },
+    {
+      "url": "https://celsius233.com/onlysummary/book-summary/english/fiction/thriller/the-litigators-john-grisham-2011/",
+      "title": "The Litigators - John Grisham (2011) - Summary at Celsius 233",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The site describes third-person omniscient narration, but it is an unfamiliar summary site with unclear editorial authority and reproduces many of the sampled Goodreads quotes. It is retained only as a discovery lead, not independent whole-book POV evidence."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Litigators John Grisham official excerpt first chapter\" and opened the Random House publisher excerpt and Bookreporter excerpt.",
+    "Searched \"The Litigators John Grisham point of view third person narrator\", \"The Litigators third person\", and \"The Litigators omniscient narrator\"; found an explicit whole-book third-person-omniscient description at Celsius 233.",
+    "Searched publisher and book-preview domains, including Penguin Random House, Random House Books, Hachette/Hodder, and Google Books terms; Penguin Random House and Hodder catalog pages supplied synopsis or sample links, but no additional independently diagnostic interior passage was accessible.",
+    "Searched for epistolary, diary, frame narrative, multiple narrators, and alternating-point-of-view evidence; found no credible indication of sustained first- or second-person base sections."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third-person. The authorized Chapter 1 excerpt sustains external narration across several characters, while the Goodreads evidence independently includes interior material from Chapter 15 and later scenes that similarly narrates the Zinc family, Rochelle, David, Wally, Gant, and others externally. First- and second-person forms in the sample occur in dialogue, advice, or a local message and therefore do not indicate alternate base narration. Confidence is med because Random House and Bookreporter present the same opening rather than independent coverage, and the Celsius 233 whole-book claim comes from an unfamiliar summary site that reproduces many sampled Goodreads quotes, so it is Tier D discovery material rather than credible corroboration. Audit: independent review retained THIRD, downgraded high to med, and corrected Celsius 233 from Tier C support to Tier D/none.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_050",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-08T03:17:09.387767+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "a868f813637db1e8f6636850c4fe4b98766944df4f29d72a45c05443d70462cc"
+  }
+}

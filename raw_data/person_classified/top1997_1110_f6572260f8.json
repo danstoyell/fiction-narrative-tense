@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1997:1110",
+  "quotes": [
+    {
+      "quote_id": "q00002",
+      "person_signal": "third",
+      "note": "Sustained external narration enters Buffalo Hump\u2019s knowledge and evaluates his son without a participating narrator."
+    },
+    {
+      "quote_id": "q00003",
+      "person_signal": "non_base",
+      "note": "First-person pronouns occur in Scull\u2019s direct speech; the attribution alone is not diagnostic."
+    },
+    {
+      "quote_id": "q00004",
+      "person_signal": "third",
+      "note": "Extended external narration presents Buffalo Hump\u2019s memories, values, and actions in the third person."
+    },
+    {
+      "quote_id": "q00005",
+      "person_signal": "non_base",
+      "note": "An unattributed line of character speech, not base narration."
+    },
+    {
+      "quote_id": "q00006",
+      "person_signal": "third",
+      "note": "Sustained narration follows Blue Duck\u2019s fear, knowledge, memories, and restraint from outside the story."
+    },
+    {
+      "quote_id": "q00007",
+      "person_signal": "third",
+      "note": "Despite the dialogue bucket, this contains extensive base narration of Kicking Wolf\u2019s realization, feelings, and historical situation in third person."
+    },
+    {
+      "quote_id": "q00008",
+      "person_signal": "third",
+      "note": "External narration moves through Famous Shoes\u2019s observations and speculation while referring to him as he."
+    },
+    {
+      "quote_id": "q00009",
+      "person_signal": "non_base",
+      "note": "The question is Call\u2019s direct speech; its attribution does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q00010",
+      "person_signal": "non_base",
+      "note": "A first-person statement explicitly attributed to Captain Scull."
+    },
+    {
+      "quote_id": "q00011",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the short speech beats do not provide enough narratorial context to identify the base person independently."
+    },
+    {
+      "quote_id": "q00012",
+      "person_signal": "unclear",
+      "note": "The passage begins with an unresolved he, so clipping removes the focal character and sufficient local framing."
+    },
+    {
+      "quote_id": "q00013",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Famous Shoes\u2019s listening, inference, and rejoicing in third person."
+    },
+    {
+      "quote_id": "q00014",
+      "person_signal": "third",
+      "note": "Although the initial referent is clipped, extended external narration diagnoses the character\u2019s condition and supplies family history in third person."
+    },
+    {
+      "quote_id": "q00015",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms belong to Buffalo Hump\u2019s speech; the brief introductory beat is nondiagnostic by itself."
+    },
+    {
+      "quote_id": "q00016",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns occur in Gus\u2019s direct speech."
+    },
+    {
+      "quote_id": "q00017",
+      "person_signal": "unmarked",
+      "note": "A bare description of the coyote and narrator speculation do not by themselves exclude a participating narrator."
+    },
+    {
+      "quote_id": "q00018",
+      "person_signal": "third",
+      "note": "Extended external narration presents Buffalo Hump\u2019s desire and predictions while naming him in third person."
+    },
+    {
+      "quote_id": "q00019",
+      "person_signal": "non_base",
+      "note": "The first-person statement is character speech rather than narration."
+    },
+    {
+      "quote_id": "q00020",
+      "person_signal": "unmarked",
+      "note": "The antecedent is clipped and the reflection could concern a character without revealing whether the narrator participates."
+    },
+    {
+      "quote_id": "q00021",
+      "person_signal": "third",
+      "note": "The narrator explicitly frames perceptions and remembered experiences as Augustus\u2019s way of thinking in third person."
+    },
+    {
+      "quote_id": "q00022",
+      "person_signal": "non_base",
+      "note": "First-person forms belong to Call and Gus in direct dialogue."
+    },
+    {
+      "quote_id": "q00023",
+      "person_signal": "non_base",
+      "note": "The first-person clause is Goyeto\u2019s direct speech."
+    },
+    {
+      "quote_id": "q00024",
+      "person_signal": "non_base",
+      "note": "The first- and second-person forms occur in an unattributed character monologue, not established base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/224350944/Comanche-Moon-A-Novel/276317690",
+      "title": "Comanche Moon: A Novel by Larry McMurtry",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained licensed ebook extract spans multiple opening chapters and shifts among Call, Long Bill, Scull, Buffalo Hump, Blue Duck, and Augustus through third-person narration and interior access."
+    },
+    {
+      "url": "https://dokumen.pub/the-novel-writers-toolkit-a-guide-to-writing-great-fiction-and-getting-it-published-1582972613-2003045052.html",
+      "title": "The Novel Writer\u2019s Toolkit: A Guide to Writing Great Fiction and Getting It Published",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The published writing guide explicitly uses Comanche Moon as an example of third-person shifting, explaining that McMurtry moves among characters\u2019 third-person viewpoints, sometimes paragraph by paragraph."
+    },
+    {
+      "url": "https://yorkspace.library.yorku.ca/bitstreams/6dcf4368-e34a-494b-a975-b488a003b612/download",
+      "title": "Nothing Wrong: Law and the Contemporary American Western",
+      "tier": "B",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A York University English dissertation analyzes the novel\u2019s late action and explicitly identifies Blue Duck\u2019s killing of Buffalo Hump as third-person narration before Gus and Call arrive, corroborating third person near the ending."
+    }
+  ],
+  "search_log": [
+    "Searched \"Comanche Moon Larry McMurtry excerpt first chapter\" and opened the sustained Everand ebook extract.",
+    "Searched \"Comanche Moon Larry McMurtry point of view third person narrator\" and \"Comanche Moon narration omniscient third person review\"; results included an explicit discussion in The Novel Writer\u2019s Toolkit.",
+    "Searched \"Comanche Moon Larry McMurtry Google Books excerpt\"; Google Books verified the edition but exposed only catalog information and limited-preview links in the accessible page.",
+    "Searched site:simonandschuster.com for a Comanche Moon excerpt; the official publisher page verified title, author, and edition but supplied synopsis rather than narrative prose.",
+    "Searched the opening sentence and \"Comanche Moon\" \"third-person\" McMurtry; found corroborating opening material and a York University dissertation discussing third-person narration late in the novel.",
+    "Discarded search results for Simon Webb\u2019s different novel titled Comanche Moon, the television adaptation, audiobook-performance reviews, plot summaries, and snippets that did not identify prose narrative person."
+  ],
+  "person_note": "The Goodreads passages repeatedly show a nonparticipating narrator entering the minds of Buffalo Hump, Blue Duck, Famous Shoes, Augustus, and other characters in third person. All visible narratorial I/we forms are confined to dialogue, and no evidence indicates a sustained first- or second-person section. A sustained licensed opening extract independently displays shifting third-person viewpoints; a published writing guide explicitly identifies that technique across Comanche Moon, and scholarly analysis confirms third-person narration near the ending. The main limitation is that the authorized prose source covers the opening rather than the entire novel, but the structural and late-book evidence resolves that scope gap without credible contradiction.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.227663+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f68e15e5ea753cd1f5731e43df44a955dc1f36538a2f79b88c1a62a4267b8aaa"
+  }
+}

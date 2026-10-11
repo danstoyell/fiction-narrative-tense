@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2022:THE BOYS FROM BILOXI|John Grisham",
+  "quotes": [
+    {
+      "quote_id": "q07049",
+      "person_signal": "non_base",
+      "note": "General aphorism about trial lawyers; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q07050",
+      "person_signal": "third",
+      "note": "Despite clipped boundaries, the sustained courtroom narration externally describes corporate representatives and an executive."
+    },
+    {
+      "quote_id": "q07051",
+      "person_signal": "third",
+      "note": "The quoted judge's first person is non-base, while the substantial trailing narration externally reports the jurors' collective thoughts."
+    },
+    {
+      "quote_id": "q07052",
+      "person_signal": "third",
+      "note": "A sustained action-and-setting sequence narrates a character externally as 'he' without a participating narrator."
+    },
+    {
+      "quote_id": "q07053",
+      "person_signal": "unmarked",
+      "note": "Story-world historical summary about the children contains no participating narrator, but this short sentence alone does not establish person."
+    },
+    {
+      "quote_id": "q07054",
+      "person_signal": "unmarked",
+      "note": "The exposition names story characters but is truncated and contains no independently diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q07055",
+      "person_signal": "unmarked",
+      "note": "A single externally described character is compatible with either first- or third-person framing when isolated."
+    },
+    {
+      "quote_id": "q07056",
+      "person_signal": "unmarked",
+      "note": "The sentence reports Fats's knowledge and conduct but does not by itself identify the controlling narrator."
+    },
+    {
+      "quote_id": "q07057",
+      "person_signal": "unmarked",
+      "note": "The brief, clipped physical description uses 'she' but provides too little context to establish the narrator's person."
+    },
+    {
+      "quote_id": "q07058",
+      "person_signal": "non_base",
+      "note": "First-person language occurs in character dialogue, not base narration."
+    },
+    {
+      "quote_id": "q07059",
+      "person_signal": "non_base",
+      "note": "'We,' 'I,' and 'your' belong to character speech and do not identify the narrator."
+    },
+    {
+      "quote_id": "q07060",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence externally describes 'he' but does not establish the controlling narrating position."
+    },
+    {
+      "quote_id": "q07061",
+      "person_signal": "third",
+      "note": "Extended narration follows several characters and legal actions externally, with no participating narrator framing the scene."
+    },
+    {
+      "quote_id": "q07062",
+      "person_signal": "unmarked",
+      "note": "The story-world metaphor contains no narrator reference and cannot independently identify person."
+    },
+    {
+      "quote_id": "q07063",
+      "person_signal": "unmarked",
+      "note": "The isolated summary about 'they' does not rule out an unseen participating narrator."
+    },
+    {
+      "quote_id": "q07064",
+      "person_signal": "non_base",
+      "note": "The passage is a multi-turn spoken exchange; its pronouns belong to the speakers."
+    },
+    {
+      "quote_id": "q07065",
+      "person_signal": "third",
+      "note": "Sustained courtroom narration moves externally among McClure, the jurors, and Hugh without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://jgrisham.com/the-boys-from-biloxi",
+      "title": "The Boys from Biloxi by John Grisham",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized Chapter 1 excerpt sustains external past-tense narration about Biloxi's residents and immigrant families, with no participating narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-boys-from-biloxi/styles.html",
+      "title": "John Grisham Writing Styles in The Boys from Biloxi",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies an omniscient third-person narrator, describes the narrator as separate from Keith and Hugh, and illustrates the claim from Chapter 2."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-boys-from-biloxi/study-guide/literary-elements",
+      "title": "The Boys from Biloxi Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The literary-elements guide explicitly classifies the novel's point of view as omniscient, objective third person."
+    },
+    {
+      "url": "https://www.supersummary.com/the-boys-from-biloxi/part-3-chapters-35-42-summary/",
+      "title": "The Boys from Biloxi Part 3, Chapters 35-42 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Interior chapter analysis explicitly discusses the omniscient third-person narrator and explains how the narration reveals information unavailable to Keith while shifting among several characters."
+    }
+  ],
+  "search_log": [
+    "Searched: \"John Grisham The Boys from Biloxi official excerpt first chapter\"; opened the authorized excerpt on the author's site.",
+    "Searched: \"The Boys from Biloxi point of view third person narrator\"; opened explicit whole-book descriptions from GradeSaver and BookRags.",
+    "Searched: \"The Boys from Biloxi excerpt Keith Rudy Hugh Malco\"; opened an interior Part 3 analysis from SuperSummary that explicitly discusses third-person narration.",
+    "Searched: \"The Boys from Biloxi Google Books preview narrative\"; Google Books results supplied catalog copy or unavailable/limited previews rather than usable sustained narration, so they were not used as person evidence."
+  ],
+  "person_note": "The authorized opening, explicit whole-book POV descriptions, and interior structural analysis consistently establish a nonparticipating omniscient third-person narrator. The longer Goodreads passages likewise narrate multiple characters externally. First- and second-person forms in the quote set occur only in dialogue, including the final farewell, and therefore do not indicate alternating base narration. Several short or clipped event quotes are conservatively unmarked, but no credible evidence suggests a participating narrator or sustained narration in another person.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_080",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T00:54:50.740256+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "36589d4a4cd6582e4c8b5201324137b14131f4ee106a4ea302aa27faec1a3726"
+  }
+}

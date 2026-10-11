@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:THE LITTLE LIAR|Mitch Albom",
+  "quotes": [
+    {
+      "quote_id": "q08079",
+      "person_signal": "non_base",
+      "note": "A general aphorism about lies; it contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q08080",
+      "person_signal": "non_base",
+      "note": "A maxim attributed in published commentary to Lazarre's local speech, not the controlling narrator's person."
+    },
+    {
+      "quote_id": "q08081",
+      "person_signal": "non_base",
+      "note": "Universal observation using generic you; it does not identify the story's narrator."
+    },
+    {
+      "quote_id": "q08082",
+      "person_signal": "non_base",
+      "note": "General claim about human behavior with no diagnostic narratorial pronoun."
+    },
+    {
+      "quote_id": "q08083",
+      "person_signal": "non_base",
+      "note": "Universal maxim rather than person-marked story narration."
+    },
+    {
+      "quote_id": "q08084",
+      "person_signal": "first",
+      "note": "The controlling personified narrator explicitly identifies itself with first-person statements: \"I am Truth.\""
+    },
+    {
+      "quote_id": "q08085",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison about madmen and spiders; no narrator-person evidence."
+    },
+    {
+      "quote_id": "q08086",
+      "person_signal": "non_base",
+      "note": "Aphorism about unspoken truths; no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q08087",
+      "person_signal": "non_base",
+      "note": "Aphoristic definition of a lie, without person-marked narration."
+    },
+    {
+      "quote_id": "q08088",
+      "person_signal": "non_base",
+      "note": "Universal statement about grief in war; it does not identify the narrator."
+    },
+    {
+      "quote_id": "q08089",
+      "person_signal": "non_base",
+      "note": "Essayistic generalization about evil rather than person-marked scene narration."
+    },
+    {
+      "quote_id": "q08090",
+      "person_signal": "non_base",
+      "note": "Attributed verse epigraph by James Fenton, not the novel's base narration."
+    },
+    {
+      "quote_id": "q08091",
+      "person_signal": "unmarked",
+      "note": "Specific event narration refers only to an unspecified \"it\" and does not expose narrator participation."
+    },
+    {
+      "quote_id": "q08092",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism about love, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08093",
+      "person_signal": "non_base",
+      "note": "Generic you/yourself in a moral maxim does not identify the base narrator."
+    },
+    {
+      "quote_id": "q08094",
+      "person_signal": "non_base",
+      "note": "Character dialogue with third-person speech tags; its pronouns do not identify the controlling narrator."
+    },
+    {
+      "quote_id": "q08095",
+      "person_signal": "non_base",
+      "note": "Universal reflection on loss; the generic examples do not expose narrator person."
+    },
+    {
+      "quote_id": "q08096",
+      "person_signal": "non_base",
+      "note": "Generic second-person reflection on omission and harmony, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q08097",
+      "person_signal": "non_base",
+      "note": "Aphoristic generalization without diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q08098",
+      "person_signal": "non_base",
+      "note": "Generic you describes universal human life, not a story protagonist addressed in second person."
+    },
+    {
+      "quote_id": "q08099",
+      "person_signal": "non_base",
+      "note": "Generic imperative recipe for scapegoating; it does not establish narrative person."
+    },
+    {
+      "quote_id": "q08100",
+      "person_signal": "unmarked",
+      "note": "Sustained narration about the Wolf uses third-person subjects, but the verified first-person Truth narrator can narrate other characters externally."
+    },
+    {
+      "quote_id": "q08101",
+      "person_signal": "unmarked",
+      "note": "Story-world historical exposition contains no narrator self-reference and is compatible with the established Truth narrator."
+    },
+    {
+      "quote_id": "q08102",
+      "person_signal": "non_base",
+      "note": "General statement about people in desperate moments; no diagnostic narrator reference."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "med",
+  "web_evidence": [
+    {
+      "url": "https://www.mitchalbom.com/books/the-little-liar/",
+      "title": "The Little Liar \u00bb Mitch Albom",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The author's official book page identifies the novel as narrated by the voice of Truth itself; the sampled self-identification by Truth establishes that voice as first person."
+    },
+    {
+      "url": "https://www.missionforward.us/episodes/truth-be-told-with-mitch-albom",
+      "title": "Truth Be Told with Mitch Albom \u2014 Mission Forward",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In the published interview transcript, Albom says he abandoned conventional third-person narration and chose Truth as narrator for the whole book."
+    },
+    {
+      "url": "https://www.mitchalbom.com/mitch-albom-book-excerpt-new-novel-the-little-liar-set-in-middle-of-holocaust/",
+      "title": "Mitch Albom book excerpt: New novel 'The Little Liar' set in middle of Holocaust",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "none",
+      "note": "The authorized sustained interior excerpt renders Nico, Udo, Sebastian, and Fannie in third person, but contains no autonomous narrator change; it is compatible with Truth recounting other characters' experiences."
+    },
+    {
+      "url": "https://www.christiancourier.ca/truth-and-absolution-in-the-aftermath-of-war/",
+      "title": "Truth and absolution in the aftermath of war",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The review explicitly describes Truth as a fifth character and a first-person voice navigating all four character narratives across forty years."
+    },
+    {
+      "url": "https://www.supersummary.com/the-little-liar/important-quotes/",
+      "title": "The Little Liar Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The structural commentary identifies Truth as the overarching narrator and explains the concluding revelation connecting that narrating voice to Fannie, a story participant."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Little Liar\" Mitch Albom narrator Truth first person and opened the author's official book page, an author interview transcript, and explicit critical descriptions.",
+    "Searched for authorized excerpts and opened Mitch Albom's sustained interior excerpt; it contains extensive third-person scene rendering but no evidence of a separate controlling narrator.",
+    "Searched \"The Little Liar\" first person Truth Albom and multiple narrators point of view; explicit sources consistently described one first-person Truth narrator, with no credible evidence of sustained base sections controlled by another person.",
+    "Checked Google Books/publisher metadata and review or study-guide results for whole-book structure; metadata corroborated narration by Truth, while SuperSummary supplied the ending-level identification of the overarching voice."
+  ],
+  "person_note": "The controlling narrator is the personified Truth, which introduces itself as \"I\" in q08084 and is described by Albom as the narrator of the whole book. Truth is treated as a character and ultimately connected to Fannie, so the controlling voice participates in the story under the methodology's definition of FIRST. The many aphorisms and generic uses of \"you\" are nondiagnostic, while third-person scenes about the other characters are recounted by that first-person controlling narrator rather than independently controlled sections. Confidence is medium because the decisive whole-book evidence is an author interview and reviews, while the authorized interior excerpt does not expose the narrator.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_084",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-16T02:57:03.130165+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d108923c2f9b3d3116a503f843154eb605ef8b34440fb38c513ecf3ab38a85bf"
+  }
+}

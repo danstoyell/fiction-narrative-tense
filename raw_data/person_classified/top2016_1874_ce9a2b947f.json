@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2016:1874",
+  "quotes": [
+    {
+      "quote_id": "q01312",
+      "person_signal": "unmarked",
+      "note": "Essayistic/free-indirect exposition uses universal examples but no participating narrator or sustained external scene."
+    },
+    {
+      "quote_id": "q01313",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01314",
+      "person_signal": "non_base",
+      "note": "Proverbial generalization is nondiagnostic."
+    },
+    {
+      "quote_id": "q01315",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism is nondiagnostic."
+    },
+    {
+      "quote_id": "q01316",
+      "person_signal": "non_base",
+      "note": "Generic you expresses a maxim, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q01317",
+      "person_signal": "third",
+      "note": "Sustained narration names Maya externally and renders her parental reaction through third-person free indirect discourse."
+    },
+    {
+      "quote_id": "q01318",
+      "person_signal": "non_base",
+      "note": "General reflection about social change; generic you does not identify the narrator."
+    },
+    {
+      "quote_id": "q01319",
+      "person_signal": "non_base",
+      "note": "General reflection is attributed to Maya only by a clipped trailing name and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01320",
+      "person_signal": "non_base",
+      "note": "Generic you describes soldiers generally, not a story-specific second-person protagonist."
+    },
+    {
+      "quote_id": "q01321",
+      "person_signal": "unmarked",
+      "note": "Scene-like third-person plurals occur without enough local context to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q01322",
+      "person_signal": "non_base",
+      "note": "Quoted dialogue and its speech tag do not establish base narrative person."
+    },
+    {
+      "quote_id": "q01323",
+      "person_signal": "non_base",
+      "note": "Standalone generalization is nondiagnostic."
+    },
+    {
+      "quote_id": "q01324",
+      "person_signal": "non_base",
+      "note": "Generic you appears in an essayistic reflection, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q01325",
+      "person_signal": "third",
+      "note": "Extended external description of Judith also refers to Maya by name, exposing third-person narration."
+    },
+    {
+      "quote_id": "q01326",
+      "person_signal": "unmarked",
+      "note": "A third-person character portrait alone could occur within narration of another person and is not conclusive."
+    },
+    {
+      "quote_id": "q01327",
+      "person_signal": "non_base",
+      "note": "Essayistic explanation with generic you does not identify narrative person."
+    },
+    {
+      "quote_id": "q01328",
+      "person_signal": "third",
+      "note": "The narrator names Maya externally and describes her sleep and unconscious across a complete sentence."
+    },
+    {
+      "quote_id": "q01329",
+      "person_signal": "non_base",
+      "note": "Quoted maxim is embedded material."
+    },
+    {
+      "quote_id": "q01330",
+      "person_signal": "non_base",
+      "note": "Conversational speech and generic you are not base narration."
+    },
+    {
+      "quote_id": "q01331",
+      "person_signal": "unmarked",
+      "note": "A short third-person speech tag is too limited to establish the controlling position."
+    },
+    {
+      "quote_id": "q01332",
+      "person_signal": "unmarked",
+      "note": "The framing speech tag is brief; the quotation itself is embedded speech."
+    },
+    {
+      "quote_id": "q01333",
+      "person_signal": "unclear",
+      "note": "Lost quotation boundaries and clipping prevent reliable separation of speech from narration."
+    },
+    {
+      "quote_id": "q01334",
+      "person_signal": "non_base",
+      "note": "Extended quoted speech contains rhetorical we and direct address, not narratorial person."
+    },
+    {
+      "quote_id": "q01335",
+      "person_signal": "non_base",
+      "note": "First-person and second-person pronouns belong to a character's speech."
+    },
+    {
+      "quote_id": "q01336",
+      "person_signal": "unmarked",
+      "note": "Two sentences about Maya and she are locally compatible with third person but insufficient alone to exclude a participating narrator."
+    },
+    {
+      "quote_id": "q01337",
+      "person_signal": "non_base",
+      "note": "Aphoristic generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q01338",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence and lacks enough context for attribution."
+    },
+    {
+      "quote_id": "q01339",
+      "person_signal": "unclear",
+      "note": "Severely clipped fragment cannot establish narrative person."
+    },
+    {
+      "quote_id": "q01340",
+      "person_signal": "non_base",
+      "note": "Generic you in a generalization is not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q01341",
+      "person_signal": "non_base",
+      "note": "Generic you describes soldiers collectively and functions as reflection rather than second-person base narration."
+    },
+    {
+      "quote_id": "q01342",
+      "person_signal": "unmarked",
+      "note": "Free-indirect judgment has no expressed narrator or externally named viewpoint character."
+    },
+    {
+      "quote_id": "q01343",
+      "person_signal": "non_base",
+      "note": "First-person self-identification is classified upstream as dialogue and is a local voice."
+    },
+    {
+      "quote_id": "q01344",
+      "person_signal": "non_base",
+      "note": "Direct-address language and quoted phrases belong to dialogue."
+    },
+    {
+      "quote_id": "q01345",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur in conversational dialogue."
+    },
+    {
+      "quote_id": "q01346",
+      "person_signal": "non_base",
+      "note": "Reported speech addressed to you is not second-person narration."
+    },
+    {
+      "quote_id": "q01347",
+      "person_signal": "non_base",
+      "note": "Clipped quoted exchange is dialogue."
+    },
+    {
+      "quote_id": "q01348",
+      "person_signal": "unmarked",
+      "note": "An external action is narrated, but the unnamed someone and single sentence do not establish controlling person."
+    },
+    {
+      "quote_id": "q01349",
+      "person_signal": "unmarked",
+      "note": "Generic you reflects a soldier's rule and is not sustained second-person narration; the passage does not otherwise identify person."
+    },
+    {
+      "quote_id": "q01350",
+      "person_signal": "unmarked",
+      "note": "The short she passage lacks its antecedent and is not independently diagnostic."
+    },
+    {
+      "quote_id": "q01351",
+      "person_signal": "non_base",
+      "note": "First-person forms and direct address occur wholly within dialogue."
+    },
+    {
+      "quote_id": "q01352",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows Maya by name, then as she, while externally describing her surroundings and actions."
+    },
+    {
+      "quote_id": "q01353",
+      "person_signal": "third",
+      "note": "The narrator names Maya externally and reports her actions and suspicion across several sentences."
+    },
+    {
+      "quote_id": "q01354",
+      "person_signal": "unmarked",
+      "note": "The narratorial we is a universal claim about human perspective, not a participating story narrator."
+    },
+    {
+      "quote_id": "q01355",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly dialogue; brief third-person tags are insufficient on their own."
+    },
+    {
+      "quote_id": "q01356",
+      "person_signal": "non_base",
+      "note": "Generic you states a maxim; the following references to soldiers do not expose the narrator."
+    },
+    {
+      "quote_id": "q01357",
+      "person_signal": "unmarked",
+      "note": "Generic you renders an experience apparently associated with Maya, but clipping leaves the local construction insufficiently diagnostic."
+    },
+    {
+      "quote_id": "q01358",
+      "person_signal": "third",
+      "note": "A long continuous scene repeatedly names Maya and uses she/her while externally narrating her actions and internal ordeal."
+    },
+    {
+      "quote_id": "q01359",
+      "person_signal": "third",
+      "note": "Sustained narration names Maya externally, reports her perceptions and history, and embeds clearly marked speech."
+    },
+    {
+      "quote_id": "q01360",
+      "person_signal": "non_base",
+      "note": "General description of popular assumptions is gnomic and does not identify the base narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.harlancoben.com/FoolMeOnce-excerpt.pdf",
+      "title": "Harlan Coben — Fool Me Once excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The author's authorized ten-page excerpt sustains external Maya/she narration throughout a complete early section, including her actions, memories, and perceptions."
+    },
+    {
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781784751111/9781784751111-sample.pdf",
+      "title": "Fool Me Once — Penguin Books sample",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "Penguin's authorized 41-page sample spans the opening and multiple early chapters, consistently narrating Maya and other characters externally in third person."
+    },
+    {
+      "url": "https://whatdoesonedowiththat.wordpress.com/2016/09/20/coban-harlan-fool-me-once-2016/",
+      "title": "Coban, Harlan: Fool Me Once (2016) — Literature Mistress",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A full-book review explicitly identifies a third-person narrator with access to Maya's thoughts and discusses that narratorial choice in detail."
+    },
+    {
+      "url": "https://www.supersummary.com/fool-me-once/chapters-31-34-summary/",
+      "title": "Fool Me Once Chapters 31-34 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "The chapter-specific study guide explicitly states that Chapter 34, 'Twenty-Five Years Later,' is told in Shane's first-person narration, in contrast with the preceding Maya-centered third-person narrative."
+    },
+    {
+      "url": "https://www.enotes.com/topics/fool-me-once/chapter-summaries/chapters-31-34",
+      "title": "Fool Me Once Chapters 31-34",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "none",
+      "note": "The chapter summary independently confirms the final twenty-five-year jump and Shane-centered reflection, but it paraphrases in third person and therefore does not independently establish the source chapter's grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"Fool Me Once Harlan Coben excerpt first chapter publisher\" and opened the author and Penguin authorized PDFs.",
+    "Searched \"Fool Me Once Harlan Coben point of view third person narration\" and opened the explicit whole-book narrator discussion.",
+    "Searched Google Books and publisher excerpt results; Google Books supplied preview/catalog discovery but no additional structural evidence used.",
+    "Checked the Penguin sample for chapter boundaries and interior text; it covers the opening plus multiple early chapters and remains consistently third person.",
+    "Searched for epistolary, frame, multiple-narrator, and alternating-person indications; the initial retry overlooked specific final-chapter evidence.",
+    "Audit follow-up opened SuperSummary's Chapters 31-34 page, which explicitly identifies Chapter 34 as Shane's first-person narration; corrected its tier from B to C.",
+    "Opened eNotes' Chapters 31-34 summary: it confirms the time jump and Shane focalization but does not explicitly state grammatical person, so it was retained only as contextual corroboration with supports none."
+  ],
+  "person_note": "The body of the novel is sustained third-person narration centered on Maya, supported by diagnostic quotes and authorized excerpts. A final chapter set twenty-five years later switches to Shane's first person, but that terminal framing exception is not a co-controlling base strand under the clarified rule. The book-level base narration is therefore THIRD.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_056",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-09T15:51:46.819261+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d3fcaca539886939aeab6c7c1bcaa5c76988d5e1ae9ff756b476f18340a85518"
+  }
+}

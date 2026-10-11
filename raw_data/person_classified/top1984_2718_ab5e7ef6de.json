@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1984:2718",
+  "quotes": [
+    {
+      "quote_id": "q00172",
+      "person_signal": "third",
+      "note": "Sustained narration enters Seward's understanding and disposition while referring to him externally."
+    },
+    {
+      "quote_id": "q00173",
+      "person_signal": "third",
+      "note": "The narrator reports Seward's private appreciation and comparison in third person."
+    },
+    {
+      "quote_id": "q00174",
+      "person_signal": "third",
+      "note": "Extended third-person narration presents Seward's sensations, realization, and interpretation of Lincoln."
+    },
+    {
+      "quote_id": "q00175",
+      "person_signal": "non_base",
+      "note": "A fragment of character speech with no diagnostic narratorial context."
+    },
+    {
+      "quote_id": "q00176",
+      "person_signal": "unmarked",
+      "note": "The first-person language belongs to Lincoln's speech; brief external action beats do not independently establish person."
+    },
+    {
+      "quote_id": "q00177",
+      "person_signal": "non_base",
+      "note": "Character speech, not base narration."
+    },
+    {
+      "quote_id": "q00178",
+      "person_signal": "unmarked",
+      "note": "First-person language occurs in dialogue; the short third-person speech beats are nondiagnostic."
+    },
+    {
+      "quote_id": "q00179",
+      "person_signal": "non_base",
+      "note": "A generalizing gnomic statement rather than story-specific person evidence."
+    },
+    {
+      "quote_id": "q00180",
+      "person_signal": "unmarked",
+      "note": "A single sentence about Mrs. Grant does not by itself distinguish third-person narration from an unseen participating narrator."
+    },
+    {
+      "quote_id": "q00181",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; its first- and second-person pronouns do not identify the narrator."
+    },
+    {
+      "quote_id": "q00182",
+      "person_signal": "third",
+      "note": "The narration directly reports Seward's wondering while referring to him externally."
+    },
+    {
+      "quote_id": "q00183",
+      "person_signal": "non_base",
+      "note": "Gnomic assertion without story-specific narrator evidence."
+    },
+    {
+      "quote_id": "q00184",
+      "person_signal": "third",
+      "note": "Beyond the dialogue, the passage externally narrates Seward and Lincoln and focalizes a comparison through Lincoln."
+    },
+    {
+      "quote_id": "q00185",
+      "person_signal": "unclear",
+      "note": "The quotation begins mid-sentence with its subject missing, leaving the relation between narration and dialogue clipped."
+    },
+    {
+      "quote_id": "q00186",
+      "person_signal": "unmarked",
+      "note": "The opening summary names Stanton and Lincoln externally, but the short context is insufficiently diagnostic; the remainder is speech."
+    },
+    {
+      "quote_id": "q00187",
+      "person_signal": "third",
+      "note": "Substantial narration reports Hay's self-appointed task and private inability to understand Lincoln before the dialogue."
+    },
+    {
+      "quote_id": "q00188",
+      "person_signal": "non_base",
+      "note": "First- and second-person pronouns belong to character dialogue."
+    },
+    {
+      "quote_id": "q00189",
+      "person_signal": "third",
+      "note": "Despite clipped speech at the start, the scene externally narrates Booth and Payne and reports Booth's private horror."
+    },
+    {
+      "quote_id": "q00190",
+      "person_signal": "non_base",
+      "note": "Clipped character dialogue without diagnostic base narration."
+    },
+    {
+      "quote_id": "q00191",
+      "person_signal": "third",
+      "note": "The narration reports Washburne's amazement and private reasoning in third person amid the dialogue."
+    },
+    {
+      "quote_id": "q00192",
+      "person_signal": "unclear",
+      "note": "The quotation is clipped at both ends, and the final narratorial clause is incomplete."
+    },
+    {
+      "quote_id": "q00193",
+      "person_signal": "third",
+      "note": "Extended narration enters Chase's evaluation and private ambition while referring to him externally."
+    },
+    {
+      "quote_id": "q00194",
+      "person_signal": "non_base",
+      "note": "Character speech with no narratorial context."
+    },
+    {
+      "quote_id": "q00195",
+      "person_signal": "unclear",
+      "note": "An incomplete fragment that cannot expose narrator person."
+    },
+    {
+      "quote_id": "q00196",
+      "person_signal": "unclear",
+      "note": "The event fragment lacks its subject and sufficient surrounding syntax."
+    },
+    {
+      "quote_id": "q00197",
+      "person_signal": "third",
+      "note": "The passage reports Seward's reaction and his private construction of Lincoln through external third-person narration."
+    },
+    {
+      "quote_id": "q00198",
+      "person_signal": "non_base",
+      "note": "Clipped character speech without diagnostic narration."
+    },
+    {
+      "quote_id": "q00199",
+      "person_signal": "non_base",
+      "note": "Character speech with only a nondiagnostic attribution beat."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/769304370/Lincoln-American-Chronicle-Series",
+      "title": "Lincoln: American Chronicle Series",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed ebook preview supplies a sustained opening narrated externally around Washburne, including access to his temper, caution, wishes, and perceptions, all in third person."
+    },
+    {
+      "url": "https://dl.tufts.edu/downloads/m613n9184",
+      "title": "Backlash Realism: The American Novel during the Long 1980s",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Seth Studer's Tufts dissertation analyzes Lincoln's complete narrative structure as omniscient narration with free-indirect discourse and explicitly identifies direct third-person passages and six principal third-person focal perspectives."
+    },
+    {
+      "url": "https://www.nybooks.com/articles/1988/04/28/gore-vidals-lincoln-an-exchange/",
+      "title": "Gore Vidal's 'Lincoln'?: An Exchange",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Vidal explains his Jamesian method: scenes are observed through individual characters' consciousnesses, while Lincoln is shown through those around him rather than by a participating narrator or Lincoln's own narration."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-lincoln/style.html",
+      "title": "Gore Vidal Writing Styles in Lincoln",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the novel as third-person, past-tense narration that shifts among characters' points of view."
+    }
+  ],
+  "search_log": [
+    "Searched \"Gore Vidal Lincoln novel point of view third person narrator\" and \"Gore Vidal Lincoln multiple points of view narration\"; found an explicit whole-book description and scholarly structural analysis.",
+    "Searched \"Gore Vidal Lincoln excerpt first chapter\" and exact opening phrases; located and opened a sustained licensed ebook preview beginning with Washburne.",
+    "Searched publisher, Google Books, and Hachette pages for extracts; Google Books exposed mainly metadata, while Penguin Random House and Hachette supplied synopsis-level descriptions rather than sustained readable prose.",
+    "Opened Vidal's New York Review of Books exchange and verified his own explanation of the novel's character-centered narrative method.",
+    "Checked for epistolary, frame, first-person, and alternating-person indications; found multiple focal characters but no sustained change away from third-person base narration."
+  ],
+  "person_note": "The diagnostic quotes repeatedly use external third-person narration with access to Seward's, Hay's, Chase's, Booth's, and Washburne's private perceptions. First- and second-person forms elsewhere are local dialogue, not narrator participation. The sustained opening independently agrees, and the Tufts whole-book analysis confirms that the shifting consciousnesses and occasional direct narration remain third person. Vidal's own account and the explicit study-guide description corroborate this structure. Multiple focal characters therefore do not constitute person alternation. The quote set is dialogue-heavy and the Tier A prose covers only the opening, but the whole-book scholarly evidence resolves that coverage limitation, and no credible contrary structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_023",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T20:04:07.649765+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "f49addb1bc29bed164766b3cfd6995d58aaec74fd4334699711642d08963560a"
+  }
+}

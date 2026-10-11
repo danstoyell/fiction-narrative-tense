@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:5341",
+  "quotes": [
+    {
+      "quote_id": "q00831",
+      "person_signal": "non_base",
+      "note": "Generic maxim using universal you; it does not identify the base narrator."
+    },
+    {
+      "quote_id": "q00832",
+      "person_signal": "non_base",
+      "note": "Direct speech; first- and second-person pronouns belong to a character."
+    },
+    {
+      "quote_id": "q00833",
+      "person_signal": "non_base",
+      "note": "Direct speech about relationships; its pronouns are not narratorial."
+    },
+    {
+      "quote_id": "q00834",
+      "person_signal": "unclear",
+      "note": "The clipped passage lacks boundaries needed to distinguish speech from local first-person reflection."
+    },
+    {
+      "quote_id": "q00835",
+      "person_signal": "third",
+      "note": "Sustained narration presents Julie externally as she while reporting her memories and feelings."
+    },
+    {
+      "quote_id": "q00836",
+      "person_signal": "third",
+      "note": "Julie is externally framed as she; the first-person fragments are free-direct renderings of her thoughts."
+    },
+    {
+      "quote_id": "q00837",
+      "person_signal": "unmarked",
+      "note": "Generic you is not a story-specific second-person protagonist and does not expose narrator participation."
+    },
+    {
+      "quote_id": "q00838",
+      "person_signal": "non_base",
+      "note": "This maxim occurs within Jim's embedded first-person letter in the prologue."
+    },
+    {
+      "quote_id": "q00839",
+      "person_signal": "third",
+      "note": "The narration presents Mike externally and reports what he hears, knows, and believes."
+    },
+    {
+      "quote_id": "q00840",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator presents Julie as she and supplies her realization."
+    },
+    {
+      "quote_id": "q00841",
+      "person_signal": "non_base",
+      "note": "Dialogue dominates; the brief speech tag is insufficient by itself to establish base person."
+    },
+    {
+      "quote_id": "q00842",
+      "person_signal": "third",
+      "note": "Sustained external narration follows Julie and Mike and reports Mike's recognition."
+    },
+    {
+      "quote_id": "q00843",
+      "person_signal": "non_base",
+      "note": "Henry's quoted thought is local character material, not base narration."
+    },
+    {
+      "quote_id": "q00844",
+      "person_signal": "non_base",
+      "note": "Generic relationship advice using you is gnomic rather than story-specific narration."
+    },
+    {
+      "quote_id": "q00845",
+      "person_signal": "non_base",
+      "note": "The dialogue-bucket passage uses universal you in a general reflection, not as a narrated protagonist."
+    },
+    {
+      "quote_id": "q00846",
+      "person_signal": "third",
+      "note": "The narrator presents a male character externally and reports his observations and knowledge."
+    },
+    {
+      "quote_id": "q00847",
+      "person_signal": "unmarked",
+      "note": "The short third-person fragment describes a couple but does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00848",
+      "person_signal": "unmarked",
+      "note": "A single external reference to she and he is insufficient to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q00849",
+      "person_signal": "third",
+      "note": "Mike is named externally while the narration renders his settled judgment."
+    },
+    {
+      "quote_id": "q00850",
+      "person_signal": "unmarked",
+      "note": "The comparison's generic you does not constitute sustained second-person narration."
+    },
+    {
+      "quote_id": "q00851",
+      "person_signal": "non_base",
+      "note": "A string of proverbial statements is gnomic and nondiagnostic."
+    },
+    {
+      "quote_id": "q00852",
+      "person_signal": "third",
+      "note": "Extended narration presents Julie and Singer externally; first- and second-person commands are embedded examples or thoughts."
+    },
+    {
+      "quote_id": "q00853",
+      "person_signal": "third",
+      "note": "The passage externally narrates the focal character and embeds her father's speech and her free-indirect reaction."
+    },
+    {
+      "quote_id": "q00854",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence about an unnamed he does not by itself establish the narrator's person."
+    },
+    {
+      "quote_id": "q00855",
+      "person_signal": "third",
+      "note": "Narrative beats externally present Mike and Julie and report Mike's private observation around their dialogue."
+    },
+    {
+      "quote_id": "q00856",
+      "person_signal": "unclear",
+      "note": "Clipping and absent boundaries prevent attribution of this third-person speculation to narration or thought."
+    },
+    {
+      "quote_id": "q00857",
+      "person_signal": "unclear",
+      "note": "The passage begins mid-sentence and offers too little structure to attribute its third-person references reliably."
+    },
+    {
+      "quote_id": "q00858",
+      "person_signal": "unclear",
+      "note": "The clipped first-person clause lacks boundaries and cannot be distinguished from character speech or thought."
+    },
+    {
+      "quote_id": "q00859",
+      "person_signal": "unmarked",
+      "note": "Impersonal setting description contains no participating narrator or story-specific you."
+    },
+    {
+      "quote_id": "q00860",
+      "person_signal": "non_base",
+      "note": "The visible material is character speech with a clipped speech beat; its pronouns do not identify base narration."
+    },
+    {
+      "quote_id": "q00861",
+      "person_signal": "unclear",
+      "note": "This mid-sentence action fragment is too clipped to establish its narrative structure or person."
+    },
+    {
+      "quote_id": "q00862",
+      "person_signal": "third",
+      "note": "Despite extensive dialogue, multiple narrative beats and the scene transition externally narrate Morrison, Pete, and the setting."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-7.2003.04-the-guardian.pdf",
+      "title": "The Guardian \u2014 Official Excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized excerpt frames Jim's signed first-person letter inside third-person prose, then sustains third-person narration of Julie throughout the opening chapter."
+    },
+    {
+      "url": "https://repositorio2.udelas.ac.pa/server/api/core/bitstreams/79dfa8c3-ffcd-4102-bf6a-8dc9f178bef2/content",
+      "title": "Literary Analysis of the Major Themes Introduced by Nicholas Sparks in His Novels A Walk to Remember, The Notebook, The Guardian, The Wedding, and The Last Song",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A university-hosted literary thesis explicitly identifies The Guardian's narrator as third-person omniscient after studying the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Guardian\" \"Nicholas Sparks\" excerpt and first chapter; opened the official Nicholas Sparks PDF and an authorized Bookreporter reprint.",
+    "Searched \"The Guardian\" \"Nicholas Sparks\" point of view, third person, and narrator; opened the university-repository thesis that explicitly describes the whole-book narrator.",
+    "Searched for epistolary, diary, frame-narrative, multiple-narrator, and alternating-POV descriptions; results supplied plot summaries and author writing notes but no credible evidence of sustained narration in another person.",
+    "Searched the distinctive q00834 and q00858 wording for contextual attribution; q00834 led only to the context-free Goodreads quotation page, while q00858 produced no relevant book passage."
+  ],
+  "person_note": "The event passages repeatedly use nonparticipating third-person narration and enter the minds of Julie, Mike, and other characters. The official opening independently confirms this structure and shows that Jim's first-person letter is embedded within a third-person frame. Other first-person wording occurs in dialogue, direct thought, generic reflection, or clips with missing boundaries; neither the sources nor the sustained passages indicate autonomous first- or second-person sections. The only remaining uncertainty is the precise local attribution of the clipped q00834 and q00858 passages, which does not affect the controlling third-person classification.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_039",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T20:53:26.967202+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "56d1f3cde7f32b1eb0d637faf1d8f3292e82f8c64002b4035bba8a2610a52081"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1943:2298",
+  "quotes": [
+    {
+      "quote_id": "q00229",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without a narrating character or story-specific viewpoint."
+    },
+    {
+      "quote_id": "q00230",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization; its third-person plural pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q00231",
+      "person_signal": "non_base",
+      "note": "Character speech, so its pronouns do not identify the base narration."
+    },
+    {
+      "quote_id": "q00232",
+      "person_signal": "third",
+      "note": "Sustained external family-history narration recounts Ned Broderick and his father from a nonparticipating position."
+    },
+    {
+      "quote_id": "q00233",
+      "person_signal": "unmarked",
+      "note": "A brief externally attributed thought is consistent with third person but is too short to establish the controlling narrator by itself."
+    },
+    {
+      "quote_id": "q00234",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial commentary, but it contains no diagnostic narrator-person marker."
+    },
+    {
+      "quote_id": "q00235",
+      "person_signal": "third",
+      "note": "Third-person scene narration and speech beats frame the son's long first-person direct thought; the embedded I is the character, not the narrator."
+    },
+    {
+      "quote_id": "q00236",
+      "person_signal": "non_base",
+      "note": "Dialogue with an external speech beat; the speakers' first- and second-person pronouns are local to speech."
+    },
+    {
+      "quote_id": "q00237",
+      "person_signal": "unmarked",
+      "note": "A clipped rhetorical question about John-Henry does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q00238",
+      "person_signal": "unmarked",
+      "note": "Bare third-person character references are compatible with either first- or third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.dumaurier.org/data/uploads/1797_187344505.pdf",
+      "title": "The Beginning of the End: The Prologue and Epilogues of Hungry Hill and The Glass-Blowers",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Narratologist Eva Leung explicitly identifies Hungry Hill as a heterodiegetic linear narrative comprising five books and an epilogue, establishing a nonparticipating narrator across the work."
+    },
+    {
+      "url": "https://bingebooks.com/book/hungry-hill",
+      "title": "Hungry Hill by Daphne du Maurier",
+      "tier": "C",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The sustained opening sample narrates John Brodrick externally as he travels, speaks, remembers, and thinks, with no participating narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"Hungry Hill\" \"Daphne du Maurier\" with excerpt, first chapter, point of view, narrator, first person, third person, frame, and epilogue terms.",
+    "Opened and reviewed Eva Leung's narratological conference paper, including its whole-book structural description and analysis of the epilogue.",
+    "Opened the BingeBooks sustained opening sample; Google Books and Hachette pages supplied only bibliographic or synopsis material, and a Russian translation excerpt was not used as English-language person evidence.",
+    "Targeted searches for alternating narration or a participating narrator found no credible contrary structural evidence."
+  ],
+  "person_note": "The base narration is third person: the diagnostic quotes use external family-history and scene narration, while the conspicuous first-person passage in q00235 is explicitly framed as a character's direct thought. The sustained opening independently shows the same external technique, and scholarly whole-book analysis calls the novel heterodiegetic across its five books and epilogue. No evidence indicates sustained first- or second-person base sections; the main limitation is that the accessible primary-text sample covers only the opening.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_005",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:07:55.846722+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "bb5ddc7e2dcf6dc3b55b5206ff6d0594c73c1a21554e1d31279e81f083c7b12b"
+  }
+}

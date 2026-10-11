@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2005:4206",
+  "quotes": [
+    {
+      "quote_id": "q01105",
+      "person_signal": "non_base",
+      "note": "Gnomic authorial generalization; the inclusive \u201cwe\u201d refers to people generally, not a participating narrator."
+    },
+    {
+      "quote_id": "q01106",
+      "person_signal": "non_base",
+      "note": "Aphoristic material attributed to Candle, not base narration."
+    },
+    {
+      "quote_id": "q01107",
+      "person_signal": "non_base",
+      "note": "Exact-text research restores the surrounding exchange and attributes this first-person speech to Liir."
+    },
+    {
+      "quote_id": "q01108",
+      "person_signal": "non_base",
+      "note": "Exact-text research shows this is Liir speaking to Candle, not narratorial \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q01109",
+      "person_signal": "non_base",
+      "note": "Gnomic advice using generic \u201cyou,\u201d not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q01110",
+      "person_signal": "non_base",
+      "note": "Abstract aphorism with no diagnostic base-narrator person."
+    },
+    {
+      "quote_id": "q01111",
+      "person_signal": "non_base",
+      "note": "The first person occurs in the Scarecrow\u2019s dialogue; the brief attribution is not sufficient by itself to establish narrator person."
+    },
+    {
+      "quote_id": "q01112",
+      "person_signal": "non_base",
+      "note": "Gnomic statement rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q01113",
+      "person_signal": "non_base",
+      "note": "Direct speech; \u201cus\u201d identifies the speakers, not the base narrator."
+    },
+    {
+      "quote_id": "q01114",
+      "person_signal": "third",
+      "note": "Targeted exact-text research recovers the source as \u201cAt least he was talking to himself\u201d; the Goodreads text corrupts \u201che\u201d to \u201ci\u201d and clips third-person narration."
+    },
+    {
+      "quote_id": "q01115",
+      "person_signal": "non_base",
+      "note": "Aphoristic advice with generic \u201cyou,\u201d not second-person narration of a protagonist."
+    },
+    {
+      "quote_id": "q01116",
+      "person_signal": "third",
+      "note": "Although most of the passage is Liir\u2019s first-person dialogue, the closing narratorial clause externally refers to him as \u201che\u201d and reports his later experience."
+    },
+    {
+      "quote_id": "q01117",
+      "person_signal": "non_base",
+      "note": "Philosophical generalization using universal \u201cwe,\u201d not a participating story narrator."
+    },
+    {
+      "quote_id": "q01118",
+      "person_signal": "non_base",
+      "note": "Gnomic catalogue; the final \u201cI\u201d is a hypothetical self-question rather than base-narrator participation."
+    },
+    {
+      "quote_id": "q01119",
+      "person_signal": "third",
+      "note": "Sustained scene narration presents Glinda externally as \u201cshe/her\u201d around marked dialogue, with no participating narrator."
+    },
+    {
+      "quote_id": "q01120",
+      "person_signal": "non_base",
+      "note": "Standalone aphorism with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q01121",
+      "person_signal": "non_base",
+      "note": "Essay-like philosophical exposition; its \u201cthey\u201d and hypothetical \u201cI\u201d illustrate a general theory of consciousness rather than narrator identity."
+    },
+    {
+      "quote_id": "q01122",
+      "person_signal": "non_base",
+      "note": "Full context places this sentence in Trism and Liir\u2019s dialogue; \u201cthey\u201d does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01123",
+      "person_signal": "third",
+      "note": "The base narration externally attributes the thought to Liir as \u201che\u201d; the inclusive \u201cwe\u201d belongs to the represented thought."
+    },
+    {
+      "quote_id": "q01124",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no diagnostic person."
+    },
+    {
+      "quote_id": "q01125",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim with no diagnostic person."
+    },
+    {
+      "quote_id": "q01126",
+      "person_signal": "third",
+      "note": "Third-person base narration explicitly attributes the subsequent first-person thought to Liir."
+    },
+    {
+      "quote_id": "q01127",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates Liir as \u201che\u201d and reports his uncertainty; quoted speech remains locally embedded."
+    },
+    {
+      "quote_id": "q01128",
+      "person_signal": "non_base",
+      "note": "Direct first-person speech, not base narration."
+    },
+    {
+      "quote_id": "q01129",
+      "person_signal": "non_base",
+      "note": "Despite its event bucket, full context shows a philosophical tangent using universal \u201cwe,\u201d not a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/1673/son-of-a-witch",
+      "title": "Son of a Witch Excerpt: Read free excerpt of Son of a Witch by Gregory Maguire",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized pages 1\u20138 sustain external narration of Oatsie and other characters as she/he/they; first-person wording is clearly marked as character thought."
+    },
+    {
+      "url": "https://citeseerx.ist.psu.edu/document?doi=923731bc046e71068216e5152a98f33f0b4ea2ae&repid=rep1&type=pdf",
+      "title": "Western Kentucky University thesis analyzing the Wicked novels and musical",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly analysis identifies Liir as the novel\u2019s focal perspective and reproduces extended passages that narrate him externally in the third person; support for grammatical person is partly inferential."
+    },
+    {
+      "url": "https://app.thestorygraph.com/reviews/ce5354c6-30db-40d2-8b1e-57353d05ef25",
+      "title": "Review of Wicked / Son of a Witch by hannaheugenie",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A completed-book review explicitly calls the novel\u2019s narration third person and discusses that narration across the book."
+    },
+    {
+      "url": "https://app.thestorygraph.com/book_reviews/4791d9f2-1742-41d1-987c-4aa75991b29c?sort=oldest",
+      "title": "Reviews of Son of a Witch",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "An independent completed-book review explicitly describes the book as having a third-person-limited voice."
+    },
+    {
+      "url": "https://www.supersummary.com/son-of-a-witch/part-3-chapter-5-part-4-summary/",
+      "title": "Son of a Witch Part 3, Chapter 5\u2013Part 4 Summary and Analysis",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "The guide quotes and analyzes late-book narrative prose in the third person, corroborating that the opening\u2019s person continues in the interior and ending."
+    },
+    {
+      "url": "https://www.publishersweekly.com/9780060548933",
+      "title": "Son of a Witch by Gregory Maguire",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The review establishes that the alternating chapters contain Liir\u2019s backstory and subsequent action\u2014temporal alternation rather than sustained sections in another grammatical person."
+    },
+    {
+      "url": "https://zanotowane.pl/1088/6338/",
+      "title": "Maguire, Gregory: Son of a Witch searchable transcription",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Unofficial transcription used only for local attribution and clipping checks: it identifies q01107 and q01108 as Liir\u2019s dialogue and restores q01114\u2019s corrupted \u201ci\u201d as narratorial \u201che.\u201d"
+    }
+  ],
+  "search_log": [
+    "Searched \u201cSon of a Witch Gregory Maguire excerpt first chapter\u201d and opened BookBrowse\u2019s permission-published excerpt covering pages 1\u20138.",
+    "Searched title with \u201cthird person,\u201d \u201cthird-person limited,\u201d \u201cnarrator,\u201d and \u201cpoint of view\u201d; found two explicit whole-book third-person descriptions on StoryGraph and a scholarly discussion identifying Liir\u2019s focal perspective.",
+    "Searched for interior and late-book evidence; SuperSummary\u2019s Part 3\u2013Part 4 analysis supplied a later third-person narrative passage.",
+    "Searched title with \u201cepistolary,\u201d \u201cdiary,\u201d \u201cframe narrative,\u201d \u201cmultiple narrators,\u201d and \u201calternating point of view\u201d; no credible evidence of epistolary form or person alternation appeared.",
+    "Opened Publishers Weekly and SuperSummary structural accounts; both describe alternation between present action and Liir\u2019s remembered backstory, not alternation of narrative person.",
+    "Ran exact-quote searches for \u201cBitter Love\u2026,\u201d \u201cI learned failure early,\u201d the Time Dragon passage, and the cold-shoulder quip; these resolved dialogue, gnomic material, and a corrupted pronoun in the Goodreads snippets.",
+    "Opened Google Books and Everand edition pages; they verified the HarperCollins work and offered opening-preview material but did not add diagnostic whole-book person evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and third person, usually focalized through Liir but also narrating Oatsie, Candle, Glinda, and others externally. Interior quote evidence repeatedly shows third-person scene and thought narration, while the authorized opening independently shows the same construction. The apparent first-person counterexamples are character dialogue, represented thought, universal gnomic \u201cwe/you,\u201d or\u2014in q01114\u2014a transcription error. Structural sources describe alternating present and remembered timelines, not alternating grammatical persons. The authorized prose source is limited to the opening, but later quote evidence, scholarly analysis, an interior study-guide passage, and multiple explicit whole-book descriptions corroborate it; no credible contrary person structure was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_042",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-04T05:27:56.362582+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5cac3561bf8313b0b3a00583fcbd69c0bb49c36e360dcc81b1ba602f1745ab23"
+  }
+}

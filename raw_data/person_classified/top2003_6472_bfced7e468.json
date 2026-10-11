@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:6472",
+  "quotes": [
+    {
+      "quote_id": "q00863",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; universal \u201cyou\u201d does not identify the story\u2019s narrator or a second-person protagonist."
+    },
+    {
+      "quote_id": "q00864",
+      "person_signal": "non_base",
+      "note": "Aphoristic maxim with generic \u201cyou,\u201d not sustained base narration."
+    },
+    {
+      "quote_id": "q00865",
+      "person_signal": "non_base",
+      "note": "Direct speech; its \u201cwe\u201d and second-person address belong to the speaker."
+    },
+    {
+      "quote_id": "q00866",
+      "person_signal": "third",
+      "note": "In the surrounding Mohammed scene, the narrator renders a character\u2019s reflection while referring to him externally as \u201che.\u201d"
+    },
+    {
+      "quote_id": "q00867",
+      "person_signal": "third",
+      "note": "Sustained external narration uses \u201che\u201d and \u201chis\u201d while presenting the character\u2019s travel, mission, and intentions without a participating narrator."
+    },
+    {
+      "quote_id": "q00868",
+      "person_signal": "third",
+      "note": "The attribution \u201cMohammed thought\u201d explicitly places the narrator outside the focal character while conveying his thoughts."
+    },
+    {
+      "quote_id": "q00869",
+      "person_signal": "non_base",
+      "note": "Direct speech; first-person plural language belongs to a character."
+    },
+    {
+      "quote_id": "q00870",
+      "person_signal": "non_base",
+      "note": "Direct speech containing generic advice and address, not second-person narration."
+    },
+    {
+      "quote_id": "q00871",
+      "person_signal": "non_base",
+      "note": "Direct speech; \u201cyou\u201d is conversational address."
+    },
+    {
+      "quote_id": "q00872",
+      "person_signal": "non_base",
+      "note": "Dialogue between characters; first- and second-person pronouns do not expose the base narrator."
+    },
+    {
+      "quote_id": "q00873",
+      "person_signal": "non_base",
+      "note": "The passage is direct speech with a brief speech tag; its \u201cwe\u201d does not identify narration."
+    },
+    {
+      "quote_id": "q00874",
+      "person_signal": "unmarked",
+      "note": "The only narratorial material is the brief beat \u201cDominic took the bait\u201d; a named subject alone is insufficient, and the remainder is speech."
+    },
+    {
+      "quote_id": "q00875",
+      "person_signal": "unclear",
+      "note": "An incomplete descriptive fragment lacks the context needed to identify its voice."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://tomclancy.com/images/tomclancy/site/contents/teeth_of_the_tiger_clancy.pdf",
+      "title": "The Teeth of the Tiger \u2014 official Tom Clancy excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The 23-page official excerpt sustains external third-person narration across the prologue and opening scenes, shifting focalization among Greengold, Brian Caruso, and Dominic Caruso while attributing their thoughts externally."
+    },
+    {
+      "url": "https://www.penguinrandomhouselibrary.com/book/?isbn=9780425197400",
+      "title": "The Teeth of the Tiger \u2014 Penguin Random House Library Marketing",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher\u2019s extended Chapter One excerpt narrates Hendley, Brian Caruso, and Dominic Caruso externally in third person, including explicitly attributed internal thoughts."
+    },
+    {
+      "url": "https://www.larsemmerichbooks.com/thriller-novels-comparing-the-teeth-of-the-tiger-tom-clancy-with-lars-emmerichs-monarch/",
+      "title": "Thriller Novels: Comparing The Teeth of the Tiger with Monarch",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This explicit narrative-style comparison describes The Teeth of the Tiger as using a third-person perspective."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Teeth of the Tiger\u201d with Tom Clancy plus excerpt, first chapter, publisher, point of view, narrator, and third-person terms.",
+    "Opened and inspected the official Tom Clancy 23-page PDF and Penguin Random House\u2019s sustained Chapter One excerpt; both consistently use third-person narration.",
+    "Searched specifically for first-person narration, epistolary form, multiple narrators, and alternating point of view; no credible evidence of sustained base narration in another grammatical person was found.",
+    "Checked Google Books and Open Library results, but their catalog descriptions and preview metadata did not independently establish narrative person.",
+    "Excluded Wikisource and Project Gutenberg results because they concern Maurice Leblanc\u2019s different novel with the same title."
+  ],
+  "person_note": "The controlling voice is a nonparticipating third-person narrator that shifts focalization among several characters and sometimes renders their thoughts. The interior quote sequence concerning Mohammed matches the externally attributed thought technique in the authorized opening excerpts. First-person forms occur only in dialogue, while the visible \u201cyou\u201d forms are generic maxims or conversational address, so neither supports first- or second-person base narration. Multiple focal characters and plot strands remain third person rather than constituting person alternation. The main limitation is that the authorized prose samples cover the opening rather than the entire book, but the interior Goodreads evidence and explicit whole-book description corroborate them, with no credible contrary structure found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_039",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-03T20:53:26.968544+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4ced504b1052fadd5e0985c6b9763593b454f559aa2a7ab67389d3e8cf7cc043"
+  }
+}

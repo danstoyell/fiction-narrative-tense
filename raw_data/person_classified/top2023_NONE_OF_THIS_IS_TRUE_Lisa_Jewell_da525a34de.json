@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:NONE OF THIS IS TRUE|Lisa Jewell",
+  "quotes": [
+    {
+      "quote_id": "q08213",
+      "person_signal": "unmarked",
+      "note": "Character-specific habitual statement using \u201cshe\u201d; alone it does not establish whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q08214",
+      "person_signal": "non_base",
+      "note": "General reflection with a conversational first-person hedge; it does not identify base narration."
+    },
+    {
+      "quote_id": "q08215",
+      "person_signal": "non_base",
+      "note": "Garbled direct speech and second-person insult, not controlling narration."
+    },
+    {
+      "quote_id": "q08216",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection about men rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q08217",
+      "person_signal": "non_base",
+      "note": "General aphoristic reflection about death; no narrator-person evidence."
+    },
+    {
+      "quote_id": "q08218",
+      "person_signal": "unmarked",
+      "note": "A single description of story-world characters as \u201cthey\u201d is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q08219",
+      "person_signal": "non_base",
+      "note": "Conversational interview-style speech containing generic \u201cyou\u201d and speaker \u201cI,\u201d not base narration."
+    },
+    {
+      "quote_id": "q08220",
+      "person_signal": "non_base",
+      "note": "Generalization with a conversational \u201cI guess\u201d hedge; nondiagnostic of the controlling narrator."
+    },
+    {
+      "quote_id": "q08221",
+      "person_signal": "non_base",
+      "note": "Confessional interview-style speech by a character, so its first person is local."
+    },
+    {
+      "quote_id": "q08222",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a female character\u2019s looking, recognition, and knowledge without a participating narrator."
+    },
+    {
+      "quote_id": "q08223",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q08224",
+      "person_signal": "unmarked",
+      "note": "A lone third-person summary about \u201cshe\u201d does not independently establish the narrator\u2019s participation."
+    },
+    {
+      "quote_id": "q08225",
+      "person_signal": "non_base",
+      "note": "First-person interview-style recollection by a character, not base narration."
+    },
+    {
+      "quote_id": "q08226",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment with no diagnostic narrating position."
+    },
+    {
+      "quote_id": "q08227",
+      "person_signal": "non_base",
+      "note": "Speech marked by the vocative \u201cNathan\u201d and conversational direct address."
+    },
+    {
+      "quote_id": "q08228",
+      "person_signal": "non_base",
+      "note": "In-world Netflix title card rather than narrative prose."
+    },
+    {
+      "quote_id": "q08229",
+      "person_signal": "non_base",
+      "note": "All-caps aphoristic slogan, not controlling narration."
+    },
+    {
+      "quote_id": "q08230",
+      "person_signal": "third",
+      "note": "Extended external narration reports a character\u2019s perceptions, judgments, bodily reaction, and action in third person."
+    },
+    {
+      "quote_id": "q08231",
+      "person_signal": "third",
+      "note": "Continuous third-person comparison characterizes Josie and her mother from an external narrating position."
+    },
+    {
+      "quote_id": "q08232",
+      "person_signal": "third",
+      "note": "Despite a clipped opening, the sustained passage externally reports the character\u2019s feeling and habitual behavior as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q08233",
+      "person_signal": "non_base",
+      "note": "In-world promotional or review copy, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q08234",
+      "person_signal": "third",
+      "note": "Scene narration names Josie and reports her perception and observation externally in third person."
+    },
+    {
+      "quote_id": "q08235",
+      "person_signal": "third",
+      "note": "Sustained scene action describes the character exclusively as \u201cshe\u201d from outside the story."
+    },
+    {
+      "quote_id": "q08236",
+      "person_signal": "third",
+      "note": "Continuous external scene narration follows the character\u2019s situation, action, and movement as \u201cshe.\u201d"
+    },
+    {
+      "quote_id": "q08237",
+      "person_signal": "non_base",
+      "note": "Quoted conversational speech; \u201cwe\u201d identifies the speaker and addressee, not the base narrator."
+    },
+    {
+      "quote_id": "q08238",
+      "person_signal": "third",
+      "note": "Third-person limited narration explicitly frames Alix\u2019s realization and its effect on her understanding."
+    },
+    {
+      "quote_id": "q08239",
+      "person_signal": "non_base",
+      "note": "An intact question-and-answer exchange whose pronouns belong to speakers."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguin.co.uk/discover/articles/lisa-jewell-none-of-this-is-true-extract",
+      "title": "Extract: None of This is True by Lisa Jewell",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The authorized publisher extract sustains third-person narration through the prologue and opening Josie sequence, including externally narrated perceptions and thoughts."
+    },
+    {
+      "url": "https://www.penguin.co.uk/discover/articles/extract-an-extra-chapter-from-none-of-this-is-true",
+      "title": "Extract: An Extra Chapter from None of This is True by Lisa Jewell",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "Penguin\u2019s authorized extra chapter, explicitly identified as Erin\u2019s perspective, remains sustained third-person limited narration."
+    },
+    {
+      "url": "https://www.simonandschuster.com/books/None-of-This-Is-True/Lisa-Jewell/9781982179014",
+      "title": "None of This Is True | Book by Lisa Jewell | Official Publisher Page",
+      "tier": "A",
+      "scope": "whole_book",
+      "supports": "none",
+      "note": "The publisher\u2019s author interview establishes the whole-book structure: traditional narrative presents Alix and Josie, while interview scripts occur locally within the Netflix-documentary material. It does not explicitly name grammatical person."
+    },
+    {
+      "url": "https://www.kirkusreviews.com/book-reviews/lisa-jewell/none-of-this-is-true/",
+      "title": "NONE OF THIS IS TRUE | Kirkus Reviews",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review describes present-tense narrative alternating with interview transcripts and reproduces third-person narrative prose, corroborating that first-person interview material is embedded rather than an alternate base person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-none-of-this-is-true/styles.html",
+      "title": "Jewell, Lisa Writing Styles in None of This Is True",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly identifies the novel as third-person limited omniscient, alternating focus between Alix and Josie, with podcast or documentary transcripts between focal sections."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cNone of This Is True\u201d Lisa Jewell excerpt and opened Penguin\u2019s authorized extract.",
+    "Searched \u201cNone of This Is True\u201d Lisa Jewell third person and point of view; opened the explicit BookRags POV description.",
+    "Searched for narrator, multiple-narrator, podcast, documentary, and alternating-POV structure; opened Simon & Schuster\u2019s publisher page and author interview.",
+    "Opened the Kirkus review to verify how interview transcripts relate to the surrounding narrative.",
+    "Opened Penguin\u2019s authorized extra chapter to test a later named perspective outside the opening.",
+    "A Penguin CDN PDF found through search used an unrelated ISBN/sample and yielded no usable Josie or opening passage, so it was excluded."
+  ],
+  "person_note": "The controlling prose is third-person limited, shifting focal attention chiefly between Josie and Alix while retaining the same grammatical person. Numerous event quotes expose sustained external narration and character interiority as \u201cshe,\u201d agreeing with Penguin\u2019s authorized opening and the explicit whole-book POV description. First-person and second-person material in the quote set belongs to dialogue, interviews, documentary transcripts, slogans, or promotional paratext. Those embedded media voices are structurally important but do not create sustained first- or second-person base sections, so the multiple perspectives do not warrant ALTERNATING. The main limitation is that the strongest authorized prose extract covers the opening, but the broader structural sources and distributed quote evidence resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_082",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:20:42.242183+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8c766ac0e07719536375dc90708c60b54338f31446933706d0ed6c23f7cbb65f"
+  }
+}

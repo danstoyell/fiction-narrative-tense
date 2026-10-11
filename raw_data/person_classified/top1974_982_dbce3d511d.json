@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1974:982",
+  "quotes": [
+    {
+      "quote_id": "q01947",
+      "person_signal": "non_base",
+      "note": "Gray Wolf's spoken maxim is local dialogue; the short speech tag does not establish the narrator's person."
+    },
+    {
+      "quote_id": "q01948",
+      "person_signal": "non_base",
+      "note": "Extended character speech, including its first-person pronouns, does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01949",
+      "person_signal": "third",
+      "note": "Sustained external narration follows the woman\u2019s actions and knowledge as her/she without a participating narrator."
+    },
+    {
+      "quote_id": "q01950",
+      "person_signal": "third",
+      "note": "Extended narration presents Reed\u2019s history, actions, preparation, perceptions, and conscience from a nonparticipating position."
+    },
+    {
+      "quote_id": "q01951",
+      "person_signal": "non_base",
+      "note": "General geological exposition is gnomic and contains no story-participating narrator."
+    },
+    {
+      "quote_id": "q01952",
+      "person_signal": "third",
+      "note": "The narrator retrospectively evaluates several historical figures from an external, nonparticipating position."
+    },
+    {
+      "quote_id": "q01953",
+      "person_signal": "unmarked",
+      "note": "This isolated sentence about 'he' is too short to distinguish third-person base narration from a first-person narrator describing someone else."
+    },
+    {
+      "quote_id": "q01954",
+      "person_signal": "third",
+      "note": "A sustained scene externally narrates McKeag and Haversham\u2019s actions, perceptions, and dialogue in third person."
+    },
+    {
+      "quote_id": "q01955",
+      "person_signal": "non_base",
+      "note": "This is a quoted verse presented as paratext, not the novel\u2019s base narration."
+    },
+    {
+      "quote_id": "q01956",
+      "person_signal": "third",
+      "note": "Research into the surrounding Lame Beaver section shows sustained external third-person narration; capitalized 'Our People' is the tribe\u2019s in-world self-designation, not narrator participation."
+    },
+    {
+      "quote_id": "q01957",
+      "person_signal": "unclear",
+      "note": "The quotation begins mid-sentence and lacks the antecedent and boundaries needed to attribute 'they' responsibly."
+    },
+    {
+      "quote_id": "q01958",
+      "person_signal": "first",
+      "note": "Despite the dialogue bucket, the outside-speech narration 'he told me' diagnostically exposes participating frame narrator Lewis Vernor."
+    },
+    {
+      "quote_id": "q01959",
+      "person_signal": "unmarked",
+      "note": "This impersonal historical commentary concerns institutions and players but does not identify whether the controlling narrator participates."
+    },
+    {
+      "quote_id": "q01960",
+      "person_signal": "non_base",
+      "note": "The generalizing we-statements are Paul Garrett\u2019s locally voiced opinion, not evidence of the base narrator."
+    },
+    {
+      "quote_id": "q01961",
+      "person_signal": "non_base",
+      "note": "A self-contained family aphorism does not identify the base narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://dokumen.pub/james-a-michener-a-critical-companion-1996-0313295387.html",
+      "title": "James A. Michener: A Critical Companion",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The scholarly critical study describes Vernor as a frame narrator, documents his personal first-person reports and commentaries after historical sections, and explains that he becomes a participant in the final chapter; the intervening historical narratives center externally narrated characters."
+    },
+    {
+      "url": "https://msjday.weebly.com/uploads/1/3/1/8/13180886/centennialch4scannedtext.pdf",
+      "title": "Centennial, Chapter 4 scanned text",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The sustained 'Many Coups of Lame Beaver' excerpt narrates Lame Beaver and other characters externally in third person while using capitalized 'Our People' as the Arapaho self-name."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-centennial/style.html",
+      "title": "James A. Michener Writing Styles in Centennial",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly characterizes the expansive historical story as third-person omniscient, corroborating the dominant person of the historical chapters, though it does not adequately account for Vernor\u2019s first-person frame material."
+    },
+    {
+      "url": "https://www.chasewoodruff.com/centenary-now/",
+      "title": "Centenary now: Modernism, James Michener and the crisis of the endless 1970s",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "The extended critical essay identifies Lewis Vernor as the novel\u2019s frame-story narrator and explains that Vernor enters the action in the final chapter, alongside the novel\u2019s long historical narrative stretches."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Centennial_(novel)",
+      "title": "Centennial (novel)",
+      "tier": "D",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Useful structural discovery: it describes fourteen chapters, the book-as-Vernor\u2019s-reports device, recurring editorial cautions, and present-day first and final chapters, but as a synopsis it is not decisive evidence."
+    }
+  ],
+  "search_log": [
+    "Searched: James Michener Centennial novel excerpt first chapter \"The Commission\" narrator; Centennial James Michener point of view first person third person narrator.",
+    "Searched: \"Caution to US Editors\" Centennial Vernor \"I\"; \"I considered that symbolic of today's west\" Centennial; \"The Commission\" \"Lewis Vernor\" Centennial \"I\".",
+    "Searched exact quote fragments including \"Our People were imprisoned within the most difficult\" and \"Las Ma\u00f1anitas\" \"he told me\" Centennial to resolve local voice and attribution.",
+    "Opened the scholarly Critical Companion discussion, the BookRags POV analysis, the long Centenary Now critical essay, the chapter-four scan, and structural summaries before using them.",
+    "Checked Penguin Random House and Google Books editions for an authorized sample; the publisher page advertised a sample but exposed no readable prose to the research interface, while Google Books provided only limited-preview metadata and contents."
+  ],
+  "person_note": "Centennial deliberately combines persons. Lewis Vernor is a participating first-person frame narrator and the putative author of personal reports and cautions; q01958 directly exposes that voice through 'he told me.' The large historical episodes are sustained third-person narratives, independently demonstrated by several Goodreads passages and the chapter-four web excerpt. The capitalized phrase 'Our People' belongs to the Arapaho-centered idiom of an otherwise externally narrated section, while other first-person forms in the sample are dialogue, aphorism, or verse. Because substantial first-person frame/report material surrounds and recurs among substantial third-person historical sections, ALTERNATING is more accurate than the simplified whole-book THIRD descriptions. No credible evidence of sustained second-person narration was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_018",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T05:55:49.957961+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "8caa1f865ec35476113a61264227d61720e59ce448a8c5a6cf4b622a47b86465"
+  }
+}

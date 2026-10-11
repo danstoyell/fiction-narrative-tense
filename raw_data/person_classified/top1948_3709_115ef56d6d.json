@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1948:3709",
+  "quotes": [
+    {
+      "quote_id": "q00397",
+      "person_signal": "unmarked",
+      "note": "The future-tense \u201cyou\u201d is a rhetorical address to the reader, not sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q00398",
+      "person_signal": "third",
+      "note": "An external narrator surveys the revelers as \u201cthey\u201d; \u201clet us behold\u201d invites the reader and does not make the narrator a character."
+    },
+    {
+      "quote_id": "q00399",
+      "person_signal": "non_base",
+      "note": "The direct address to \u201cJohn\u201d and collective historical \u201cwe\u201d indicate a local rhetorical voice rather than participating base narration."
+    },
+    {
+      "quote_id": "q00400",
+      "person_signal": "unmarked",
+      "note": "This impersonal exposition about a social code contains no narrator-participation evidence."
+    },
+    {
+      "quote_id": "q00401",
+      "person_signal": "non_base",
+      "note": "The universal, choral \u201cwe\u201d speaks for humanity in an epic formulation, not for a story-participating narrator."
+    },
+    {
+      "quote_id": "q00402",
+      "person_signal": "third",
+      "note": "Sustained narration refers externally to the soldier as \u201che\u201d and finally identifies him as Johnny Shawnessy while rendering his desires."
+    },
+    {
+      "quote_id": "q00403",
+      "person_signal": "third",
+      "note": "Free-indirect access to what \u201che couldn't imagine\u201d is embedded in sustained third-person narration."
+    },
+    {
+      "quote_id": "q00404",
+      "person_signal": "unmarked",
+      "note": "Metafictional description of Raintree County and its atlas does not grammatically identify the narrator."
+    },
+    {
+      "quote_id": "q00405",
+      "person_signal": "non_base",
+      "note": "Character speech addressing \u201cyou, dear boy\u201d is not second-person base narration."
+    },
+    {
+      "quote_id": "q00406",
+      "person_signal": "non_base",
+      "note": "The Professor's attributed speech and its first-person plurals are local dialogue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.abebooks.com/9781556527104/Raintree-County-6-Rediscovered-Classics-1556527101/plp",
+      "title": "Raintree County \u2014 publisher-authorized Chapter 1 excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "After an explicitly labeled in-world newspaper fragment, the authorized excerpt sustains external \u201che\u201d narration of John Shawnessy's dream, awakening, surroundings, memories, and plans."
+    },
+    {
+      "url": "https://core.ac.uk/download/213844142.pdf",
+      "title": "The Ross Lockridge, Jr. Archive",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The scholarly archive guide identifies four characters as receiving narrative point of view and explicitly says all four viewpoints use free indirect discourse, a third-person technique rather than participating first-person narration."
+    },
+    {
+      "url": "https://ssml.org/wp-content/uploads/2016/03/Midamerica_XIII_1986.pdf",
+      "title": "Habits of the Heart in Raintree County",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "This scholarly analysis describes the single-day frame and life-spanning flashbacks and quotes third-person narration from early, middle, and concluding portions of the novel."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cRaintree County\u201d with \u201cnarrator,\u201d \u201cpoint of view,\u201d \u201cthird person,\u201d and \u201comniscient narrator\u201d; most results were plot summaries, but the Ross Lockridge archive supplied explicit free-indirect-discourse evidence.",
+    "Searched for an excerpt or first chapter and opened the Chicago Review Press excerpt reproduced by permission on AbeBooks.",
+    "Searched Open Library and Internet Archive; the identified 1948 scan was borrow-only and did not provide usable open prose.",
+    "Searched scholarly sources and opened MidAmerica XIII, the Ross Lockridge archive guide, and academic criticism covering the novel's structure and passages.",
+    "Searched exact wording from the ambiguous first-person-plural quotes; results did not supply reliable surrounding context, so those local rhetorical passages were not treated as first-person base narration.",
+    "Targeted searches for epistolary, diary, frame narrative, multiple narrators, and alternating point of view found no credible evidence of sustained base sections in another grammatical person."
+  ],
+  "person_note": "The controlling narration is third person, primarily rendering John Shawnessy and several other focal characters through free indirect discourse. The quote sample's sustained scenes agree with the authorized opening and whole-book scholarly evidence. First-person plurals occur in an embedded newspaper voice, universal or national choruses, dialogue, and rhetorical apostrophe; they do not establish a participating narrator. The main limitation is that the authorized primary-text source covers only the opening, but the archive's whole-book structural statement and scholarship spanning the novel resolve that scope limitation without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_007",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T23:35:09.683294+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c713c1ae45fe36b76a934795bb421f4383a63f4bc034f1f0c75887f02621d13b"
+  }
+}

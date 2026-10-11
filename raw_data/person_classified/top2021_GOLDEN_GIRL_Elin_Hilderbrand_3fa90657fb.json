@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:GOLDEN GIRL|Elin Hilderbrand",
+  "quotes": [
+    {
+      "quote_id": "q06042",
+      "person_signal": "non_base",
+      "note": "An attributed Camus maxim; its first-person pronouns belong to the quotation, not the novel's narrator."
+    },
+    {
+      "quote_id": "q06043",
+      "person_signal": "unmarked",
+      "note": "Names Vivi and reports what she has learned, but this isolated sentence does not establish whether a participating narrator frames it."
+    },
+    {
+      "quote_id": "q06044",
+      "person_signal": "third",
+      "note": "Sustained external narration describes Willa's future and inner hope in the third person."
+    },
+    {
+      "quote_id": "q06045",
+      "person_signal": "non_base",
+      "note": "A general statement about sisters, not story-specific base narration."
+    },
+    {
+      "quote_id": "q06046",
+      "person_signal": "unclear",
+      "note": "A clipped noun phrase with no recoverable narrating position."
+    },
+    {
+      "quote_id": "q06047",
+      "person_signal": "non_base",
+      "note": "Character speech; the brief third-person attribution is insufficient to establish the base narrator."
+    },
+    {
+      "quote_id": "q06048",
+      "person_signal": "third",
+      "note": "Extended third-person narration projects a male character's emotional actions and recovery; the final clipping does not obscure the local person."
+    },
+    {
+      "quote_id": "q06049",
+      "person_signal": "non_base",
+      "note": "Extended character speech with only a brief external action beat."
+    },
+    {
+      "quote_id": "q06050",
+      "person_signal": "non_base",
+      "note": "A truncated generalization rather than diagnostic story narration."
+    },
+    {
+      "quote_id": "q06051",
+      "person_signal": "unmarked",
+      "note": "The clipped third-person clause may be base narration but lacks enough context to establish the narrating position."
+    },
+    {
+      "quote_id": "q06052",
+      "person_signal": "unmarked",
+      "note": "A truncated clause about Willa; a third-person subject alone is not diagnostic."
+    },
+    {
+      "quote_id": "q06053",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally follows Brett and another character through repeated activities."
+    },
+    {
+      "quote_id": "q06054",
+      "person_signal": "third",
+      "note": "Sustained external scene narration follows Vivi and Brett driving, parking, and kissing."
+    },
+    {
+      "quote_id": "q06055",
+      "person_signal": "unmarked",
+      "note": "A bare third-person biographical statement about Vivi is not independently diagnostic."
+    },
+    {
+      "quote_id": "q06056",
+      "person_signal": "non_base",
+      "note": "A general maxim about sisters, not story-specific narration."
+    },
+    {
+      "quote_id": "q06057",
+      "person_signal": "non_base",
+      "note": "The second person is direct address to Vivi within character speech, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q06058",
+      "person_signal": "non_base",
+      "note": "The first-person passage is Vivi's locally embedded direct reflection about her children, not the controlling third-person voice."
+    },
+    {
+      "quote_id": "q06059",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial listing of books and Vivi's preference, but it does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q06060",
+      "person_signal": "non_base",
+      "note": "A general definition and rhetorical question, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q06061",
+      "person_signal": "third",
+      "note": "Connected third-person hospital narration reports what the doctor told the family and interprets the wording without a participating narrator."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.litres.ru/book/elin-hildebrand/zolotaya-devochka-69727393/chitat-onlayn/",
+      "title": "\u0417\u043e\u043b\u043e\u0442\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430 \u2014 \u042d\u043b\u0438\u043d \u0425\u0438\u043b\u044c\u0434\u0435\u0431\u0440\u0430\u043d\u0434: licensed excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The licensed translated excerpt opens with the Martha section and sustains external third-person narration of Martha's actions and thoughts."
+    },
+    {
+      "url": "https://www.supersummary.com/golden-girl/chapters-1-10-summary/",
+      "title": "Golden Girl Chapters 1-10 Summary & Analysis",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The structural analysis explicitly identifies a third-person narrative voice, explains Vivi-centered focalization, and distinguishes it from the omniscient Nantucket chapters and other character perspectives."
+    },
+    {
+      "url": "https://www.turnanotherpage.org/single-post/golden-girl-by-elin-hilderbrand",
+      "title": "Golden Girl by Elin Hilderbrand",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The review explicitly describes the novel as third-person, mostly present-tense narration that moves among many character perspectives."
+    },
+    {
+      "url": "https://www.supersummary.com/golden-girl/important-quotes/",
+      "title": "Golden Girl Important Quotes with Page Numbers",
+      "tier": "C",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "Quoted passages from multiple interior chapters sustain third-person narration across Vivi, Carson, Willa, Marissa, and other focal characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"Golden Girl\" \"Elin Hilderbrand\" excerpt and first-chapter variants; found a licensed translated opening at LitRes.",
+    "Searched \"Golden Girl\" \"Elin Hilderbrand\" third person, point of view, narrator, and multiple points of view; found explicit structural discussion at SuperSummary and corroboration from Turn Another Page.",
+    "Opened the Hachette UK title page; its parsed \"Read Excerpt\" page exposed only catalog copy, so it was not used as person evidence.",
+    "Opened Google Books; it listed chapter headings but reported no preview available, so it was not used as prose evidence.",
+    "Searched exact text from the isolated first-person Goodreads quotation; results did not supply broader prose context, so it was reconciled as Vivi's local direct reflection using the independently established third-person structure."
+  ],
+  "person_note": "The controlling narration is third person, with shifting focalization among Vivi, her family, the Chief, Martha, and even Nantucket. Several Goodreads passages independently show sustained external third-person scene or interior narration, while the authorized opening and structural web analysis agree. The lone first-person event quotation is a local direct reflection by Vivi, comparable to represented thought within the surrounding third-person design, and does not form a sustained first-person section. No credible evidence indicates person-level alternation; the main limitation is that the Tier A excerpt covers only the opening, offset by whole-book structural evidence and interior quotations.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_074",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:20:51.293131+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "30990501536f86b98c5911ce84cba82a943508dd259f9e6b4cfb7f2f8875ac26"
+  }
+}

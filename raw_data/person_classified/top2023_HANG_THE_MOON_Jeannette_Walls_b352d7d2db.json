@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:HANG THE MOON|Jeannette Walls",
+  "quotes": [
+    {
+      "quote_id": "q08369",
+      "person_signal": "non_base",
+      "note": "General aphorism about law; it does not expose the story's narrator."
+    },
+    {
+      "quote_id": "q08370",
+      "person_signal": "first",
+      "note": "The narrating participant says that another character lent \u201cme\u201d books."
+    },
+    {
+      "quote_id": "q08371",
+      "person_signal": "non_base",
+      "note": "Universal second-person maxim, not sustained narration of a story-specific you."
+    },
+    {
+      "quote_id": "q08372",
+      "person_signal": "first",
+      "note": "The participating narrator reports her own present feeling as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q08373",
+      "person_signal": "non_base",
+      "note": "General statement about teachers, parents, and children; no base-person evidence."
+    },
+    {
+      "quote_id": "q08374",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about laws; its generic \u201cyou\u201d does not identify the narrator."
+    },
+    {
+      "quote_id": "q08375",
+      "person_signal": "non_base",
+      "note": "Chapter-opening aphorism without a diagnostic narrating participant."
+    },
+    {
+      "quote_id": "q08376",
+      "person_signal": "first",
+      "note": "The narrator contrasts what \u201cI thought\u201d with what \u201cI am\u201d now."
+    },
+    {
+      "quote_id": "q08377",
+      "person_signal": "non_base",
+      "note": "Universal advice about being a boss; repeated \u201cyou\u201d is generic."
+    },
+    {
+      "quote_id": "q08378",
+      "person_signal": "non_base",
+      "note": "Gnomic social commentary about white gloves and town women, without person evidence."
+    },
+    {
+      "quote_id": "q08379",
+      "person_signal": "first",
+      "note": "The participating narrator describes her group as \u201cwe\u201d and \u201cus.\u201d"
+    },
+    {
+      "quote_id": "q08380",
+      "person_signal": "non_base",
+      "note": "Character speech with an external speech tag; its wording does not identify base narration."
+    },
+    {
+      "quote_id": "q08381",
+      "person_signal": "first",
+      "note": "The narrator describes her own experience and concludes \u201cI\u2019m not one of them.\u201d"
+    },
+    {
+      "quote_id": "q08382",
+      "person_signal": "non_base",
+      "note": "Conversational reply about whiskey, not controlling narration."
+    },
+    {
+      "quote_id": "q08383",
+      "person_signal": "non_base",
+      "note": "Universal second-person aphorism, not a story-specific second-person narrative."
+    },
+    {
+      "quote_id": "q08384",
+      "person_signal": "non_base",
+      "note": "Direct address within character speech, not base second-person narration."
+    },
+    {
+      "quote_id": "q08385",
+      "person_signal": "first",
+      "note": "The narrator identifies her own memories with the possessive \u201cMy.\u201d"
+    },
+    {
+      "quote_id": "q08386",
+      "person_signal": "unmarked",
+      "note": "Possible narratorial observation about Eddie, but it contains no participating-narrator marker."
+    },
+    {
+      "quote_id": "q08387",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Sallie; pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q08388",
+      "person_signal": "unclear",
+      "note": "The clipped fragment lacks enough syntax or boundaries to determine its local voice."
+    },
+    {
+      "quote_id": "q08389",
+      "person_signal": "first",
+      "note": "The narrator directly states what \u201cI don\u2019t understand.\u201d"
+    },
+    {
+      "quote_id": "q08390",
+      "person_signal": "first",
+      "note": "The participating narrator reports what another character told \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q08391",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using collective \u201cwe women,\u201d not a specific narrating group."
+    },
+    {
+      "quote_id": "q08392",
+      "person_signal": "non_base",
+      "note": "Universal statement about any motherless girl; no diagnostic narrator appears."
+    },
+    {
+      "quote_id": "q08393",
+      "person_signal": "non_base",
+      "note": "A conversational turn; its first-person claims belong to local speech."
+    },
+    {
+      "quote_id": "q08394",
+      "person_signal": "first",
+      "note": "The narrator recounts what \u201cI used to think\u201d and what \u201cI see\u201d from present experience."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.everand.com/book/630516729/Hang-the-Moon-A-Novel",
+      "title": "Hang the Moon: A Novel \u2014 Book Preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "The licensed ebook preview supplies sustained prologue and Chapter 1 prose in which Sallie narrates her own actions and perceptions as I/we."
+    },
+    {
+      "url": "https://www.barnesandnoble.com/blog/poured-over-jeannette-walls-on-hang-the-moon",
+      "title": "Poured Over: Jeannette Walls on Hang the Moon",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In this author interview, Walls says the book clicked after she moved it into first-person present and discusses the voice as Sallie's."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-hang-the-moon/styles.html",
+      "title": "Jeannette Walls Writing Styles in Hang the Moon",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis explicitly identifies the novel as narrated from protagonist Sallie Kincaid's first-person perspective."
+    },
+    {
+      "url": "https://www.shelbipolk.com/blog/jeannette-walls-clings-to-the-truth-even-when-it-comes-to-fiction",
+      "title": "Jeannette Walls Clings to the Truth Even When It Comes to Fiction",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The interview profile reports that Walls changed the narration from third person to memoir-like first person and identifies the resulting voice as Sallie Kincaid."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cHang the Moon\u201d \u201cJeannette Walls\u201d excerpt and first chapter; found and opened the sustained Everand ebook preview.",
+    "Searched \u201cHang the Moon\u201d Jeannette Walls first person, narrator, and point of view; found and opened explicit whole-book descriptions from BookRags and an author interview at Barnes & Noble.",
+    "Searched for alternating narration, multiple narrators, epistolary structure, diary, and frame-narrative evidence; found no credible indication that the novel changes base person.",
+    "Opened the official Simon & Schuster book page; it verified the work and protagonist but did not explicitly establish narrative person.",
+    "Searched major review and library domains for further POV evidence; some newspaper and NPR pages were inaccessible or supplied only synopsis material."
+  ],
+  "person_note": "The event quotes repeatedly expose Sallie as a participating I/we narrator, while the dialogue and generic-you aphorisms are local or gnomic rather than competing narrative strands. A sustained authorized opening agrees, and multiple whole-book descriptions\u2014including Walls's own discussion of composing the novel in first-person present\u2014identify Sallie as the narrator. No source indicates sustained sections in another person. The only limitation is that the Tier A prose evidence covers the opening rather than the entire novel, but the distributed quote evidence and independent whole-book descriptions resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.271484+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "d23e3c6856300bb1dfd3c76a66620e5697505a34e9c67eea8834362e52bff889"
+  }
+}

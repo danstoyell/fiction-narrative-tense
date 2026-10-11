@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2003:509",
+  "quotes": [
+    {
+      "quote_id": "q00296",
+      "person_signal": "third",
+      "note": "The framing narration externally names and focalizes Chloe; the first- and second-person pronouns occur only inside her spoken prayer."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://files.tyndale.com/thpdata/firstChapters/978-1-4143-3500-1.pdf",
+      "title": "Armageddon: The Cosmic Battle of the Ages \u2014 Tyndale first-chapter excerpt",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized excerpt sustains third-person narration, entering Rayford's perceptions and thoughts before shifting to a separate third-person scene centered on Buck and Chloe."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-armageddon/style.html",
+      "title": "Tim LaHaye Writing Styles in Armageddon: The Cosmic Battle of the Ages",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly describes the story's overall point of view as omniscient and notes access to multiple characters' thoughts and prayers."
+    }
+  ],
+  "search_log": [
+    "Searched \"Armageddon\" \"Tim LaHaye\" \"Jerry B. Jenkins\" excerpt and first chapter; found and opened Tyndale's authorized 48-page PDF.",
+    "Searched \"Armageddon\" \"LaHaye\" \"Jenkins\" point of view, narrator, multiple narrators, and alternating narration; found and opened BookRags' explicit whole-book point-of-view discussion.",
+    "Checked Google Books and chapter-by-chapter study-guide pages for structural corroboration; Google Books supplied catalog and preview metadata rather than an explicit POV statement, while summaries remained consistent with multiple third-person focal characters and revealed no person alternation."
+  ],
+  "person_note": "The quote's narration treats Chloe externally in third person; its I/you language is confined to her prayer and is not narrator evidence. Independently, Tyndale's sustained authorized opening uses third-person narration across scenes centered on different characters, and the whole-book style analysis explicitly identifies an omniscient perspective. No credible evidence of sustained first- or second-person base sections was found; the opening-only scope of the Tier A excerpt is resolved by the whole-book structural source.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.236572+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "92fc108c357d801c125bb71f257acc3cb8d82b6980ab1ca671890b1e40829947"
+  }
+}

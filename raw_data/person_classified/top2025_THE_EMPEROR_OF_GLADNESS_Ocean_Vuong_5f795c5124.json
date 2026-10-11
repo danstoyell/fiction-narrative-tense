@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2025:THE EMPEROR OF GLADNESS|Ocean Vuong",
+  "quotes": [
+    {
+      "quote_id": "q10203",
+      "person_signal": "third",
+      "note": "The external narrator reports a male character's thought, exposing third-person base narration."
+    },
+    {
+      "quote_id": "q10204",
+      "person_signal": "non_base",
+      "note": "A gnomic statement without a story-specific narrating position."
+    },
+    {
+      "quote_id": "q10205",
+      "person_signal": "non_base",
+      "note": "Character dialogue and a speech beat; the pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q10206",
+      "person_signal": "non_base",
+      "note": "Sustained character speech rather than base narration."
+    },
+    {
+      "quote_id": "q10207",
+      "person_signal": "non_base",
+      "note": "Character speech using generic and directly addressed you."
+    },
+    {
+      "quote_id": "q10208",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to another character."
+    },
+    {
+      "quote_id": "q10209",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator frames and reports a male character's thoughts."
+    },
+    {
+      "quote_id": "q10210",
+      "person_signal": "third",
+      "note": "Extended external narration gives access to a male character's perception and desire."
+    },
+    {
+      "quote_id": "q10211",
+      "person_signal": "non_base",
+      "note": "The first-person phrasing is evidently local speech or quoted reflection, not controlling narration."
+    },
+    {
+      "quote_id": "q10212",
+      "person_signal": "non_base",
+      "note": "First- and second-person forms occur inside dialogue; the surrounding beat is not sufficiently diagnostic alone."
+    },
+    {
+      "quote_id": "q10213",
+      "person_signal": "third",
+      "note": "Extended external commentary follows a female character as she travels toward a nursing facility."
+    },
+    {
+      "quote_id": "q10214",
+      "person_signal": "non_base",
+      "note": "Dialogue containing direct and generic second-person address."
+    },
+    {
+      "quote_id": "q10215",
+      "person_signal": "non_base",
+      "note": "An isolated gnomic question without narrator-person evidence."
+    },
+    {
+      "quote_id": "q10216",
+      "person_signal": "non_base",
+      "note": "A character recounts a memory in first person within dialogue."
+    },
+    {
+      "quote_id": "q10217",
+      "person_signal": "unmarked",
+      "note": "Narratorial comparison uses generic you but does not identify narrator participation."
+    },
+    {
+      "quote_id": "q10218",
+      "person_signal": "non_base",
+      "note": "Gnomic second-person language, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q10219",
+      "person_signal": "third",
+      "note": "The narrator describes the boys externally before attributing speech to he."
+    },
+    {
+      "quote_id": "q10220",
+      "person_signal": "non_base",
+      "note": "Dialogue addressed by one character to another."
+    },
+    {
+      "quote_id": "q10221",
+      "person_signal": "third",
+      "note": "Sustained narration names Hai and externally reports his perception and feeling."
+    },
+    {
+      "quote_id": "q10222",
+      "person_signal": "non_base",
+      "note": "A character's first-person anecdote, including nested quoted dialogue."
+    },
+    {
+      "quote_id": "q10223",
+      "person_signal": "non_base",
+      "note": "Character speech with a third-person attribution beat."
+    },
+    {
+      "quote_id": "q10224",
+      "person_signal": "non_base",
+      "note": "Gnomic collective we is a general social reflection rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q10225",
+      "person_signal": "non_base",
+      "note": "Aphoristic character speech with an attribution beat."
+    },
+    {
+      "quote_id": "q10226",
+      "person_signal": "non_base",
+      "note": "First-person character speech, not the controlling narrator."
+    },
+    {
+      "quote_id": "q10227",
+      "person_signal": "non_base",
+      "note": "Direct dialogue using we and you."
+    },
+    {
+      "quote_id": "q10228",
+      "person_signal": "non_base",
+      "note": "Paratextual quotation rather than narration from the novel."
+    },
+    {
+      "quote_id": "q10229",
+      "person_signal": "third",
+      "note": "A sustained panoramic sentence narrates the HomeMarket workers collectively as they."
+    },
+    {
+      "quote_id": "q10230",
+      "person_signal": "first",
+      "note": "The opening's resident-like choral narrator identifies itself as we/us while directing a visitor through East Gladness."
+    },
+    {
+      "quote_id": "q10231",
+      "person_signal": "non_base",
+      "note": "Dialogue directly addressing a would-be writer."
+    },
+    {
+      "quote_id": "q10232",
+      "person_signal": "third",
+      "note": "The narrator names Hai and reports his consideration and questions from outside him."
+    },
+    {
+      "quote_id": "q10233",
+      "person_signal": "non_base",
+      "note": "First-person dialogue enclosed by third-person speech beats."
+    },
+    {
+      "quote_id": "q10234",
+      "person_signal": "third",
+      "note": "External narration follows Hai's action and supplies his history with Noah."
+    },
+    {
+      "quote_id": "q10235",
+      "person_signal": "third",
+      "note": "The narrator externally describes Russia's age and voice; generic you appears only in a comparison."
+    },
+    {
+      "quote_id": "q10236",
+      "person_signal": "third",
+      "note": "The narrator concludes a character's action as he said and lied; you is gnomic."
+    },
+    {
+      "quote_id": "q10237",
+      "person_signal": "third",
+      "note": "A nonparticipating narrator explicitly frames the boy's thought."
+    },
+    {
+      "quote_id": "q10238",
+      "person_signal": "third",
+      "note": "Third-person narration reports his thought and her response around quoted speech."
+    },
+    {
+      "quote_id": "q10239",
+      "person_signal": "first",
+      "note": "Research locates this story-specific we within the sustained choral first-person opening about East Gladness."
+    },
+    {
+      "quote_id": "q10240",
+      "person_signal": "unmarked",
+      "note": "A brief he-description is compatible with third person but too isolated to establish narratorial position."
+    },
+    {
+      "quote_id": "q10241",
+      "person_signal": "third",
+      "note": "The narrator externally reports what reminded a male character of the emperor hogs."
+    },
+    {
+      "quote_id": "q10242",
+      "person_signal": "unmarked",
+      "note": "The brief reference to their wounds lacks enough local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q10243",
+      "person_signal": "non_base",
+      "note": "Second-person wording occurs in character speech or generalized address."
+    },
+    {
+      "quote_id": "q10244",
+      "person_signal": "third",
+      "note": "Extended external narration follows his imagining, movement, searching, and perception."
+    },
+    {
+      "quote_id": "q10245",
+      "person_signal": "third",
+      "note": "Free-indirect questioning presents Hai's withheld history through third-person he."
+    },
+    {
+      "quote_id": "q10246",
+      "person_signal": "third",
+      "note": "The narrator situates a male character within his historical period using third person."
+    },
+    {
+      "quote_id": "q10247",
+      "person_signal": "non_base",
+      "note": "An isolated gnomic question without person evidence."
+    },
+    {
+      "quote_id": "q10248",
+      "person_signal": "unmarked",
+      "note": "Narratorial generic you does not cast a story-specific protagonist as you or reveal narrator participation."
+    },
+    {
+      "quote_id": "q10249",
+      "person_signal": "unmarked",
+      "note": "The short he-statement is consistent with third person but insufficient by itself to establish the narrator."
+    },
+    {
+      "quote_id": "q10250",
+      "person_signal": "non_base",
+      "note": "A gnomic maxim rather than diagnostic base narration."
+    },
+    {
+      "quote_id": "q10251",
+      "person_signal": "third",
+      "note": "The narrator externally characterizes New York's effect on the male focal character's grief."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/5006/page_number/1/the-emperor-of-gladness",
+      "title": "Excerpt from The Emperor of Gladness by Ocean Vuong",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A publisher-attributed sustained excerpt narrates the boy's actions, perceptions, and surroundings in third person."
+    },
+    {
+      "url": "https://www.supersummary.com/the-emperor-of-gladness/part-1-summary/",
+      "title": "The Emperor of Gladness Part 1 Summary & Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Structural analysis explicitly identifies a POV shift from first-person-plural direct address in Chapter 1 to limited third person thereafter."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-emperor-of-gladness/study-guide/summary-chapters-15",
+      "title": "The Emperor of Gladness Chapters 1\u20135 Summary and Analysis",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "Analysis describes the opening as a choral perspective using we/us and second-person visitor address, while stating that the rest is focalized through Hai."
+    },
+    {
+      "url": "https://observer.com/2026/07/author-ocean-vuong-interview-the-emporer-of-gladness/",
+      "title": "Ocean Vuong On Asking Questions Without Answers",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "Vuong characterizes his second novel as a real novel in third person, strongly confirming the dominant narrative mode, though this broad description does not separately discuss the choral opening."
+    },
+    {
+      "url": "https://apnews.com/article/emperor-gladness-ocean-vuong-review-oprah-3d0d7737733141c90957fb4710cba9de",
+      "title": "Book Review: Ocean Vuong takes existentialism to deeply intimate level in \u2018The Emperor of Gladness\u2019",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The AP review describes an omniscient narrator moving panoramically through East Gladness and into Hai's story, corroborating the novel's principal third-person narration."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Emperor of Gladness Ocean Vuong excerpt\u201d and opened a sustained publisher-attributed BookBrowse excerpt.",
+    "Searched Penguin Random House and publisher excerpt results; the PRH education page was indexed but its excerpt was not retrievable in the browser.",
+    "Searched \u201cThe Emperor of Gladness third person,\u201d \u201cnarrator point of view,\u201d and \u201cPOV shift.\u201d",
+    "Opened SuperSummary's Part 1 analysis, which explicitly distinguishes Chapter 1's first-person-plural direct address from the ensuing limited-third-person narrative.",
+    "Opened GradeSaver's Chapters 1\u20135 analysis, which identifies the opening's choral we/us and reader-directed you and contrasts it with the rest of the Hai-focalized narrative.",
+    "Opened an Observer interview in which Ocean Vuong calls the novel third person, and reconciled that whole-book shorthand with the separately documented choral opening.",
+    "Opened the AP review describing the narrator's omniscient panoramic movement through the town.",
+    "Searched for first-person-plural and ending-narrator evidence; results corroborated the choral introduction and predominantly third-person remainder, with no evidence of another sustained person shift."
+  ],
+  "person_note": "The base narration is sustained third person, focalized chiefly through Hai and other characters across the body of the novel. Chapter 1 uses a resident-like choral first-person plural voice that calls East Gladness \u201cour town\u201d and addresses the arriving reader, but this isolated introductory chapter does not override the core narrative under the base-narration rule. Numerous quote passages and an authorized interior excerpt establish the continuing third-person mode, while Vuong also describes the novel broadly as third person. Dialogue, aphorisms, and embedded recollections do not create additional base strands.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_091",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-19T22:18:21.645655+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "4e99e3f8a4829c305844496ea65d9f8a1074c527c5417522feba9faf2448d78c"
+  }
+}

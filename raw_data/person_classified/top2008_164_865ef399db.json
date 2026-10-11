@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2008:164",
+  "quotes": [
+    {
+      "quote_id": "q00454",
+      "person_signal": "first",
+      "note": "Florens's participating narration uses I; the scholarly analysis also identifies this line with her recurring first-person sections."
+    },
+    {
+      "quote_id": "q00455",
+      "person_signal": "unmarked",
+      "note": "The isolated reference to she does not exclude a participating narrator and lacks enough context to establish third person."
+    },
+    {
+      "quote_id": "q00456",
+      "person_signal": "non_base",
+      "note": "General maxim about dominion; it does not identify a story narrator."
+    },
+    {
+      "quote_id": "q00457",
+      "person_signal": "non_base",
+      "note": "The inclusive we is generic and gnomic, not a participating narrator's story-specific self-reference."
+    },
+    {
+      "quote_id": "q00458",
+      "person_signal": "first",
+      "note": "Florens narrates her own circumstances and attachment as I in a constitutive first-person section."
+    },
+    {
+      "quote_id": "q00459",
+      "person_signal": "unmarked",
+      "note": "Possible narrative reflection, but its impersonal construction does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00460",
+      "person_signal": "first",
+      "note": "This is Florens's constitutive written address to the blacksmith, not ordinary dialogue; the dialogue bucket appears to be an upstream mismatch."
+    },
+    {
+      "quote_id": "q00461",
+      "person_signal": "first",
+      "note": "The authorized opening excerpt places this sentence inside Florens's sustained first-person confession to the blacksmith."
+    },
+    {
+      "quote_id": "q00462",
+      "person_signal": "third",
+      "note": "Sustained external narration presents a female character as she, reports her thought, and reveals her private judgment without a participating frame."
+    },
+    {
+      "quote_id": "q00463",
+      "person_signal": "first",
+      "note": "Florens's mother narrates her own Middle Passage experience as I in the sustained final first-person section."
+    },
+    {
+      "quote_id": "q00464",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison involving the biblical Job; its third-person references do not identify the novel's narrator."
+    },
+    {
+      "quote_id": "q00465",
+      "person_signal": "first",
+      "note": "Florens's mother directly recounts her own choice in the novel's constitutive final first-person chapter, despite the dialogue bucket."
+    },
+    {
+      "quote_id": "q00466",
+      "person_signal": "non_base",
+      "note": "Embedded paraphrase of Job's story; its he and they references concern the biblical tale rather than base narrative person."
+    },
+    {
+      "quote_id": "q00467",
+      "person_signal": "first",
+      "note": "The authorized Chapter One excerpt confirms this is Florens's sustained first-person confession, not quoted character speech."
+    },
+    {
+      "quote_id": "q00468",
+      "person_signal": "first",
+      "note": "Florens's constitutive address to the blacksmith uses my to expose her participating narrative voice."
+    },
+    {
+      "quote_id": "q00469",
+      "person_signal": "non_base",
+      "note": "General maxim with a generic man; it provides no narrator-person evidence."
+    },
+    {
+      "quote_id": "q00470",
+      "person_signal": "non_base",
+      "note": "The blacksmith's locally quoted rebuke to Florens is character speech, not a second-person base narrative."
+    },
+    {
+      "quote_id": "q00471",
+      "person_signal": "first",
+      "note": "Florens narrates her own desire as I within her recurring first-person strand."
+    },
+    {
+      "quote_id": "q00472",
+      "person_signal": "unmarked",
+      "note": "The authorized excerpt locates this fragment in Florens's narration, but the clipped sentence itself contains no person marker."
+    },
+    {
+      "quote_id": "q00473",
+      "person_signal": "unmarked",
+      "note": "A single he sentence about a character is compatible with either first- or third-person narration."
+    },
+    {
+      "quote_id": "q00474",
+      "person_signal": "first",
+      "note": "Florens directly narrates her own motive as I while addressing the blacksmith in a constitutive first-person chapter."
+    },
+    {
+      "quote_id": "q00475",
+      "person_signal": "unmarked",
+      "note": "The isolated they sentence lacks a participating frame but is not sustained enough by itself to prove third-person narration."
+    },
+    {
+      "quote_id": "q00476",
+      "person_signal": "unmarked",
+      "note": "The sentence presents a man's perception as he, but a participating narrator could also describe him this way."
+    },
+    {
+      "quote_id": "q00477",
+      "person_signal": "third",
+      "note": "Sustained external narration follows a woman's shipboard perspective and the opposed groups as she and they without a participating narrator."
+    },
+    {
+      "quote_id": "q00478",
+      "person_signal": "unmarked",
+      "note": "The single statement about what Scully saw does not independently distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q00479",
+      "person_signal": "non_base",
+      "note": "The principal quoted material is an embedded public sign and verse, not a narrating voice."
+    },
+    {
+      "quote_id": "q00480",
+      "person_signal": "third",
+      "note": "The passage externally narrates Florens and Lina and discloses Lina's private knowledge across multiple clauses."
+    },
+    {
+      "quote_id": "q00481",
+      "person_signal": "first",
+      "note": "A participating narrator explicitly states what I know."
+    },
+    {
+      "quote_id": "q00482",
+      "person_signal": "unmarked",
+      "note": "The single sentence about the child and Lina's yearning does not by itself rule out a participating narrator."
+    },
+    {
+      "quote_id": "q00483",
+      "person_signal": "third",
+      "note": "This sustained free-indirect passage renders Lina's view of the arriving Europeans as they without a participating narrative frame."
+    },
+    {
+      "quote_id": "q00484",
+      "person_signal": "unclear",
+      "note": "The fragment and lost local boundaries leave it unresolved whether this is narration, thought, or speech."
+    },
+    {
+      "quote_id": "q00485",
+      "person_signal": "first",
+      "note": "The authorized opening excerpt confirms that we refers to Florens and her family within her base narration; the gnomic bucket appears to be an upstream mismatch."
+    },
+    {
+      "quote_id": "q00486",
+      "person_signal": "first",
+      "note": "Florens's mother narrates her own experience and imposed racial identity as I in the final first-person section."
+    },
+    {
+      "quote_id": "q00487",
+      "person_signal": "third",
+      "note": "Sustained external narration names Rebekka, reports her understanding and assumptions, and develops her free-indirect reflection."
+    },
+    {
+      "quote_id": "q00488",
+      "person_signal": "non_base",
+      "note": "Impersonal gnomic reflection on death and crisis; it does not identify narrator participation."
+    },
+    {
+      "quote_id": "q00489",
+      "person_signal": "unmarked",
+      "note": "The fragment describes fire without identifying a narrator and could be narration or locally rendered thought."
+    },
+    {
+      "quote_id": "q00490",
+      "person_signal": "unmarked",
+      "note": "The isolated he passage conveys a character's perception but does not independently establish a nonparticipating narrator."
+    }
+  ],
+  "person_label": "ALTERNATING",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.kcrw.com/pages/excerpt-from-a-mercy",
+      "title": "Excerpt from 'A Mercy'",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A sustained Chapter One excerpt credited to Knopf shows Florens narrating as I and addressing the blacksmith as you; it also supplies context for several clipped Goodreads quotations."
+    },
+    {
+      "url": "https://www.ejournals.ff.unsa.ba/index.php/radovi/issue/download/13/8",
+      "title": "Narrative Strategies in Toni Morrison's A Mercy",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Ksenija Kondali's scholarly article explicitly says Florens's recurring sections use first-person present narration while the intervening sections use third-person free-indirect narration in the past."
+    },
+    {
+      "url": "https://files7.design-editor.com/90/9083273/UploadedFiles/DBC699DE-ECD6-5C43-9A9F-3C7F176F6686.pdf",
+      "title": "The Powerful Writing Strategies of Assia Djebar and Toni Morrison: Differentiation of the Depictions of Otherness Through Literature",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Sanne Boersma's Utrecht University MA thesis describes A Mercy as multilayered: most characters' stories are in third person, while Florens's story is in first person."
+    },
+    {
+      "url": "https://www.coursehero.com/lit/A-Mercy/",
+      "title": "A Mercy Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Its explicit narrator overview says the novel switches between first-person and third-person narration, identifies Florens and her mother as the first-person narrators, and identifies the other character narratives as third person."
+    },
+    {
+      "url": "https://www.chipublib.org/characters-and-communities-in-a-mercy/",
+      "title": "Characters and Communities in A Mercy",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "ALTERNATING",
+      "note": "Chicago Public Library maps Florens's recurring address chapters, the intervening chapters centered on Jacob, Lina, Rebekka, Sorrow, Willard and Scully, and the final chapter addressed by Florens's mother, corroborating that these are sustained sections rather than isolated insertions."
+    }
+  ],
+  "search_log": [
+    "Searched: \"Toni Morrison A Mercy narrative structure first person third person chapters narrator\" and \"A Mercy Toni Morrison alternating first person third person scholarly\"; found Kondali's whole-book structural analysis.",
+    "Searched for authorized prose with \"A Mercy Toni Morrison excerpt publisher first chapter\" and the exact opening \"Don't be afraid. My telling can't hurt you\"; opened the Knopf-credited KCRW excerpt.",
+    "Searched: \"A Mercy Florens first person narration third-person chapters\" and opened Course Hero's explicit whole-book narrator overview and Chicago Public Library's chapter map.",
+    "Searched Google Books and publisher-oriented queries; Google Books exposed contents and bibliographic data but not enough accessible interior prose to classify the whole book, and a Cambridge Scholars sample returned no usable text.",
+    "Ran exact-quotation follow-ups for \"I welcomed the circling sharks\", \"She wants you here as much as I do\", \"I said you. Take you, my daughter\", and \"You are nothing but wilderness\" to distinguish the mother's and Florens's constitutive narration from the blacksmith's embedded speech."
+  ],
+  "person_note": "The novel contains sustained base sections in different grammatical persons. Florens repeatedly narrates in first person while addressing the blacksmith, and Florens's mother supplies another sustained first-person section at the end; multiple first-person narrators alone would still count as FIRST. However, those chapters alternate with sustained third-person free-indirect sections centered on Jacob, Lina, Rebekka, Sorrow, Willard, and Scully, so the book-level label is ALTERNATING. Several quotes bucketed as dialogue are actually parts of Florens's or her mother's constitutive address and were used as first-person evidence without changing their upstream buckets; the blacksmith's rebuke remains local speech. Goodreads supplies repeated first- and third-person passages, and multiple scholarly or explicit whole-book sources independently confirm the structure. The main residual uncertainty is attribution of a few clipped individual quotations, not the book-level alternation.",
+  "provenance": {
+    "run_id": "person_1996_2025_5peryear_sol_high_v2",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-29T05:30:44.243867+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "fc04b3eab4e2363fdb30e809bbb7672fed0bba9a8232159d853b38755d5093a4"
+  }
+}

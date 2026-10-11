@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:4361",
+  "quotes": [
+    {
+      "quote_id": "q04556",
+      "person_signal": "non_base",
+      "note": "First-person address occurs in dialogue, not base narration."
+    },
+    {
+      "quote_id": "q04557",
+      "person_signal": "non_base",
+      "note": "First-person proposal to an addressee is character speech."
+    },
+    {
+      "quote_id": "q04558",
+      "person_signal": "third",
+      "note": "Sustained external narration reports Emira's realization and future without a participating narrator."
+    },
+    {
+      "quote_id": "q04559",
+      "person_signal": "unmarked",
+      "note": "A single statement about Alex is compatible with either first- or third-person framing."
+    },
+    {
+      "quote_id": "q04560",
+      "person_signal": "unmarked",
+      "note": "Brief summary about Emira lacks enough local context to establish narrator participation."
+    },
+    {
+      "quote_id": "q04561",
+      "person_signal": "non_base",
+      "note": "The first- and second-person pronouns belong to tagged character speech."
+    },
+    {
+      "quote_id": "q04562",
+      "person_signal": "unmarked",
+      "note": "The garbled single-sentence summary about Emira is not independently diagnostic."
+    },
+    {
+      "quote_id": "q04563",
+      "person_signal": "non_base",
+      "note": "First-person language occurs entirely within tagged dialogue."
+    },
+    {
+      "quote_id": "q04564",
+      "person_signal": "third",
+      "note": "Sustained external narration enters Alix's knowledge and reactions without a participating narrator."
+    },
+    {
+      "quote_id": "q04565",
+      "person_signal": "unmarked",
+      "note": "This isolated story-world comparison contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q04566",
+      "person_signal": "unmarked",
+      "note": "The short statement about Emira does not independently identify narrator participation."
+    },
+    {
+      "quote_id": "q04567",
+      "person_signal": "unmarked",
+      "note": "The decontextualized pronoun and brief exposition do not establish narrative person."
+    },
+    {
+      "quote_id": "q04568",
+      "person_signal": "non_base",
+      "note": "This generalized maxim is not story-specific base narration."
+    },
+    {
+      "quote_id": "q04569",
+      "person_signal": "third",
+      "note": "Extended external narration reports Emira's prior experience and knowledge without a narrating character."
+    },
+    {
+      "quote_id": "q04570",
+      "person_signal": "third",
+      "note": "Despite damaged dialogue boundaries, the governing narration externally reports Emira's actions, doubt, and thought."
+    },
+    {
+      "quote_id": "q04571",
+      "person_signal": "non_base",
+      "note": "First-person statements are tagged character speech; the short beat is nondiagnostic."
+    },
+    {
+      "quote_id": "q04572",
+      "person_signal": "third",
+      "note": "External narration identifies Emira and reports successive emotions before a local first-person direct thought."
+    },
+    {
+      "quote_id": "q04573",
+      "person_signal": "unmarked",
+      "note": "The brief statement about Kelley is compatible with multiple narratorial frames."
+    },
+    {
+      "quote_id": "q04574",
+      "person_signal": "unmarked",
+      "note": "The main clause is nondiagnostic, while 'you' introduces a generic experience rather than a protagonist."
+    },
+    {
+      "quote_id": "q04575",
+      "person_signal": "non_base",
+      "note": "The passage is predominantly dialogue; its short action beats are not independently diagnostic."
+    },
+    {
+      "quote_id": "q04576",
+      "person_signal": "non_base",
+      "note": "The third-person comparison appears in colloquial character speech."
+    },
+    {
+      "quote_id": "q04577",
+      "person_signal": "unclear",
+      "note": "The clipped governing context leaves unresolved whether this is speech, thought, or narration."
+    },
+    {
+      "quote_id": "q04578",
+      "person_signal": "unmarked",
+      "note": "This fragment describes Emira but lacks sufficient framing to identify narrator participation."
+    },
+    {
+      "quote_id": "q04579",
+      "person_signal": "non_base",
+      "note": "The first-person questions are local speech or free direct thought, not base narration."
+    },
+    {
+      "quote_id": "q04580",
+      "person_signal": "non_base",
+      "note": "First-person language and the imperative belong to direct address in dialogue."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.ca/books/605904/such-a-fun-age-by-kiley-reid/9780525541905/excerpt",
+      "title": "Excerpt from Such a Fun Age: Reese's Book Club",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher's sustained opening excerpt narrates Emira externally in third person while presenting her perceptions and thoughts."
+    },
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9781526633941_A40660346/preview-9781526633941_A40660346.pdf",
+      "title": "Such a Fun Age \u2014 Bloomsbury Circus preview",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "A sustained 33-page preview of the Bloomsbury edition confirms third-person narration throughout the opening chapter."
+    },
+    {
+      "url": "https://women.eaas.eu/wp-content/uploads/2022/04/Ducker.pdf",
+      "title": "De-Constructing White Fragility through Alternating Focalization in Kiley Reid's Such a Fun Age",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "A scholarly narratological analysis explicitly identifies third-person narration alternating focalization between Emira and Alix across the novel."
+    },
+    {
+      "url": "https://www.litcharts.com/lit/such-a-fun-age",
+      "title": "Such a Fun Age Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The guide explicitly lists the novel's point of view as third person."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-such-a-fun-age/styles.html",
+      "title": "Kiley Reid Writing Styles in Such a Fun Age",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view section explicitly describes a third-person narrator focalizing several characters."
+    }
+  ],
+  "search_log": [
+    "Searched \"Such a Fun Age\" Kiley Reid excerpt, first chapter, publisher, and read an extract; opened Penguin Random House and Bloomsbury preview material.",
+    "Searched \"Such a Fun Age\" third person, point of view, narrator, alternating narration, and heterodiegetic.",
+    "Opened and reviewed the EAAS Women\u2019s Network Journal article, which explicitly analyzes whole-book third-person narration with alternating focalization.",
+    "Opened LitCharts and BookRags point-of-view descriptions as corroborating explicit sources.",
+    "Checked Penguin Random House and Booker/Bloomsbury book and reading-guide pages; synopsis grammar alone was not treated as person evidence.",
+    "Searches for Google Books and a Booker extract did not yield additional sustained diagnostic prose beyond the publisher previews."
+  ],
+  "person_note": "The controlling narrator is nonparticipating and uses close third-person narration, chiefly alternating focalization between Emira and Alix. Multiple substantial Goodreads passages independently expose external narration with access to their thoughts, while first-person forms in the sample occur in dialogue or free direct thought. Publisher excerpts confirm third person in the opening, and scholarly whole-book analysis explicitly confirms that the alternating perspectives remain third-person narration; they therefore do not warrant ALTERNATING. The only material limitation is that the authorized prose evidence covers the opening, but the interior quotes and whole-book scholarly account resolve that scope limitation.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_071",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T12:45:46.998568+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5d68b626374b38f274adeb6ab622f52cd8d20f96bdf4815a02828f4dc5a9e971"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2021:THE LOST APOTHECARY|Sarah Penner",
+  "quotes": [
+    {
+      "quote_id": "q06483",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection and universal second-person address; its closing reference to \u201cme\u201d is not enough to treat this aphoristic excerpt as diagnostic base narration."
+    },
+    {
+      "quote_id": "q06484",
+      "person_signal": "non_base",
+      "note": "Universal second-person advice or possibly unmarked speech, not sustained story-specific second-person narration."
+    },
+    {
+      "quote_id": "q06485",
+      "person_signal": "first",
+      "note": "Although speech dominates the quote, the external tag \u201cI interrupted\u201d directly exposes a participating first-person narrator."
+    },
+    {
+      "quote_id": "q06486",
+      "person_signal": "first",
+      "note": "The narratorial phrase \u201cTo me\u201d presents the participating narrator\u2019s personal view of history."
+    },
+    {
+      "quote_id": "q06487",
+      "person_signal": "non_base",
+      "note": "General observation about historical records, without diagnostic story narration."
+    },
+    {
+      "quote_id": "q06488",
+      "person_signal": "first",
+      "note": "\u201cI understood now\u201d and narrator-inclusive \u201cwe\u201d expose first-person reflection on a story-world realization."
+    },
+    {
+      "quote_id": "q06489",
+      "person_signal": "first",
+      "note": "The narrator evaluates her own past conduct through \u201cinjured me,\u201d establishing participation."
+    },
+    {
+      "quote_id": "q06490",
+      "person_signal": "first",
+      "note": "References to \u201cmy life\u201d and what \u201cI\u2019d been\u201d doing are diagnostic first-person base narration."
+    },
+    {
+      "quote_id": "q06491",
+      "person_signal": "non_base",
+      "note": "A clipped general maxim about truth, with no reliable narrator-person evidence."
+    },
+    {
+      "quote_id": "q06492",
+      "person_signal": "first",
+      "note": "The narrator\u2019s retrospective question uses participant-inclusive \u201cwe\u201d about suffering and secrecy."
+    },
+    {
+      "quote_id": "q06493",
+      "person_signal": "first",
+      "note": "\u201cTaught me\u201d anchors the reflection to the participating narrator\u2019s recent experiences."
+    },
+    {
+      "quote_id": "q06494",
+      "person_signal": "first",
+      "note": "The story-specific register is identified as \u201cmy register,\u201d exposing a participating narrator."
+    },
+    {
+      "quote_id": "q06495",
+      "person_signal": "first",
+      "note": "\u201cI would not\u201d states the participating narrator\u2019s story-world resolve."
+    },
+    {
+      "quote_id": "q06496",
+      "person_signal": "non_base",
+      "note": "Universal instructional \u201cyou\u201d is gnomic rather than sustained narration of a story-specific protagonist."
+    },
+    {
+      "quote_id": "q06497",
+      "person_signal": "unmarked",
+      "note": "This narratorial reflection contains no participating-narrator pronoun and does not independently distinguish first from third person."
+    },
+    {
+      "quote_id": "q06498",
+      "person_signal": "first",
+      "note": "Repeated narrator-inclusive \u201cwe\u201d reflects on actions within the narrator\u2019s story world."
+    },
+    {
+      "quote_id": "q06499",
+      "person_signal": "first",
+      "note": "\u201cHow had I only just learned\u201d directly exposes the participating narrator\u2019s realization."
+    },
+    {
+      "quote_id": "q06500",
+      "person_signal": "non_base",
+      "note": "Universal claim about women rather than diagnostic scene narration."
+    },
+    {
+      "quote_id": "q06501",
+      "person_signal": "first",
+      "note": "\u201cTo me\u201d and \u201cI realized now\u201d identify a participating first-person narrator."
+    },
+    {
+      "quote_id": "q06502",
+      "person_signal": "first",
+      "note": "\u201cMy mother\u201d and \u201cinstilling in me\u201d present the narrator\u2019s own backstory."
+    },
+    {
+      "quote_id": "q06503",
+      "person_signal": "first",
+      "note": "Despite an apparent transcription error at the opening, \u201creach out to me\u201d and \u201cI once had\u201d expose first-person narration."
+    },
+    {
+      "quote_id": "q06504",
+      "person_signal": "non_base",
+      "note": "General maxim about apothecaries, not diagnostic base narration."
+    },
+    {
+      "quote_id": "q06505",
+      "person_signal": "first",
+      "note": "Speech dominates, but the external action beat \u201cI finished tracing\u201d diagnostically exposes the scene\u2019s first-person narrator."
+    },
+    {
+      "quote_id": "q06506",
+      "person_signal": "non_base",
+      "note": "Standalone proverb without narrator-person evidence."
+    },
+    {
+      "quote_id": "q06507",
+      "person_signal": "first",
+      "note": "The narrator describes the consequences of her own killing and secrecy through repeated \u201cme.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.bookbrowse.com/excerpts/index.cfm/book_number/4220/the-lost-apothecary",
+      "title": "Excerpt from The Lost Apothecary by Sarah Penner",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "FIRST",
+      "note": "A permission-authorized, sustained Chapter 1 excerpt headed \u201cNella\u201d consistently narrates Nella\u2019s actions, perceptions, history, and secrets as \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d Its scope is limited to the opening narrator."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-lost-apothecary/styles.html",
+      "title": "Sarah Penner Writing Styles in The Lost Apothecary",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The point-of-view analysis explicitly identifies Nella, Eliza, and Caroline as the novel\u2019s three first-person narrators and gives first-person openings from all three strands."
+    },
+    {
+      "url": "https://chireviewofbooks.com/2021/03/02/the-indelible-mark-of-women-in-the-lost-apothecary/amp/",
+      "title": "The Indelible Mark of Women in \u201cThe Lost Apothecary\u201d",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In an author interview, the dual-timeframe structure is described as following three women; Penner confirms that Eliza narrates alongside Nella and that Eliza\u2019s scenes were deliberately told from Eliza\u2019s point of view. This corroborates the sustained multi-narrator structure, while the grammatical person is established by the excerpt and explicit POV source."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Lost Apothecary Sarah Penner official excerpt first chapter\u201d and \u201csite:harpercollins.com The Lost Apothecary excerpt Sarah Penner\u201d; found and opened the permission-authorized BookBrowse Chapter 1 excerpt, while the author and publisher-facing pages primarily supplied synopsis material.",
+    "Searched \u201cThe Lost Apothecary point of view first person multiple narrators\u201d and opened the BookRags point-of-view analysis explicitly identifying all three narrators as first person.",
+    "Searched \u201cSarah Penner The Lost Apothecary reading guide narrators Nella Eliza Caroline\u201d and opened the Chicago Review of Books author interview confirming the dual-timeframe, multi-narrator structure and Eliza\u2019s narration alongside Nella.",
+    "Searched exact opening phrases including \u201cI wasn't supposed to be in London alone,\u201d \u201cShe would come at daybreak,\u201d and \u201cI woke to a pain\u201d to test the three strands; results corroborated the cited first-person openings, but retail previews and synopsis-only pages were not treated as independent structural evidence.",
+    "Checked the author\u2019s official book page and library/retail results; they confirmed three women and two timelines but did not explicitly establish grammatical narrative person, so they were not used as person-supporting evidence."
+  ],
+  "person_note": "The book\u2019s controlling narration consists of alternating chapters by Nella, Eliza, and Caroline, but all three narrate as participating first-person speakers; multiple first-person narrators therefore yield FIRST, not ALTERNATING. Numerous event quotes independently expose \u201cI,\u201d \u201cme,\u201d \u201cmy,\u201d or participant-inclusive \u201cwe,\u201d including narratorial beats embedded in two dialogue-heavy quotations. Universal \u201cyou\u201d statements and standalone maxims are local gnomic material, not second-person base narration. The authorized opening establishes Nella\u2019s sustained first-person voice, and the whole-book POV analysis explicitly resolves the other two strands as first person; no credible contrary person evidence was found.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_076",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T18:15:45.635153+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "5d848c8652e67c366e028b594a81f49715cd16467307183629a96473f1e5ce7e"
+  }
+}

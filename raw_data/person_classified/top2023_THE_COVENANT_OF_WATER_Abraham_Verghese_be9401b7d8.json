@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2023:THE COVENANT OF WATER|Abraham Verghese",
+  "quotes": [
+    {
+      "quote_id": "q07784",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; no story-specific narrator is exposed."
+    },
+    {
+      "quote_id": "q07785",
+      "person_signal": "non_base",
+      "note": "Universal aphorism, not diagnostic narration."
+    },
+    {
+      "quote_id": "q07786",
+      "person_signal": "non_base",
+      "note": "Generic inclusive \u201cwe,\u201d not a participating narrator."
+    },
+    {
+      "quote_id": "q07787",
+      "person_signal": "non_base",
+      "note": "Isolated first-person aphorism/embedded quotation; whole-book evidence rules out base narration."
+    },
+    {
+      "quote_id": "q07788",
+      "person_signal": "third",
+      "note": "Sustained scene reflection refers to the focal character as \u201cshe\u201d without a participating narrator."
+    },
+    {
+      "quote_id": "q07789",
+      "person_signal": "non_base",
+      "note": "Gnomic quotation, not base narration."
+    },
+    {
+      "quote_id": "q07790",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment with no narrator-person evidence."
+    },
+    {
+      "quote_id": "q07791",
+      "person_signal": "non_base",
+      "note": "Gnomic personification, not story-specific narration."
+    },
+    {
+      "quote_id": "q07792",
+      "person_signal": "non_base",
+      "note": "Universal reflection, not diagnostic narration."
+    },
+    {
+      "quote_id": "q07793",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism."
+    },
+    {
+      "quote_id": "q07794",
+      "person_signal": "unmarked",
+      "note": "Possible narration about \u201cshe,\u201d but the short fragment alone does not establish narrator participation."
+    },
+    {
+      "quote_id": "q07795",
+      "person_signal": "non_base",
+      "note": "Aphoristic or spoken formulation, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q07796",
+      "person_signal": "non_base",
+      "note": "General maxim, not story-specific narration."
+    },
+    {
+      "quote_id": "q07797",
+      "person_signal": "non_base",
+      "note": "Generic \u201cyou\u201d in an aphorism, not sustained second-person narration."
+    },
+    {
+      "quote_id": "q07798",
+      "person_signal": "non_base",
+      "note": "Direct speech by a character; first-person pronouns belong to the speaker."
+    },
+    {
+      "quote_id": "q07799",
+      "person_signal": "unmarked",
+      "note": "The attribution names Philipose, while the quoted words are embedded speech; narrator person remains unexposed."
+    },
+    {
+      "quote_id": "q07800",
+      "person_signal": "non_base",
+      "note": "Generic maxim using inclusive \u201cwe.\u201d"
+    },
+    {
+      "quote_id": "q07801",
+      "person_signal": "unmarked",
+      "note": "Short character-focused fragment with \u201chis/he\u201d; insufficient alone to establish the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q07802",
+      "person_signal": "unmarked",
+      "note": "A single statement about \u201cshe\u201d does not by itself identify the controlling narrator."
+    },
+    {
+      "quote_id": "q07803",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural aphorism."
+    },
+    {
+      "quote_id": "q07804",
+      "person_signal": "non_base",
+      "note": "Generic advice using \u201cyou,\u201d not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q07805",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without diagnostic narrator-person evidence."
+    },
+    {
+      "quote_id": "q07806",
+      "person_signal": "non_base",
+      "note": "Direct address and first-person speech by a character."
+    },
+    {
+      "quote_id": "q07807",
+      "person_signal": "unclear",
+      "note": "The prayer is non-base speech, while a clipped third-person narration fragment follows with incomplete boundaries."
+    },
+    {
+      "quote_id": "q07808",
+      "person_signal": "non_base",
+      "note": "Direct character address; \u201cyou\u201d does not identify the narrator."
+    },
+    {
+      "quote_id": "q07809",
+      "person_signal": "third",
+      "note": "Sustained external narration focalized through a male character\u2019s body, memories, and perception."
+    },
+    {
+      "quote_id": "q07810",
+      "person_signal": "non_base",
+      "note": "Direct question using generic or addressed \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q07811",
+      "person_signal": "third",
+      "note": "Scene narration presents a female character\u2019s religious understanding externally, followed by embedded speech."
+    },
+    {
+      "quote_id": "q07812",
+      "person_signal": "unclear",
+      "note": "The clipped passage shifts abruptly between \u201che\u201d and \u201cher,\u201d preventing secure local attribution."
+    },
+    {
+      "quote_id": "q07813",
+      "person_signal": "non_base",
+      "note": "Generalized observation, not story-specific narration."
+    },
+    {
+      "quote_id": "q07814",
+      "person_signal": "unmarked",
+      "note": "Brief third-person exposition about Marx and religion does not independently establish narrator person."
+    },
+    {
+      "quote_id": "q07815",
+      "person_signal": "third",
+      "note": "Sustained scene narration follows \u201cshe,\u201d reports her thought, and contains no participating narrator."
+    },
+    {
+      "quote_id": "q07816",
+      "person_signal": "non_base",
+      "note": "Extended direct speech; first- and second-person pronouns belong to the speaker and addressee."
+    },
+    {
+      "quote_id": "q07817",
+      "person_signal": "non_base",
+      "note": "Religious maxim, not diagnostic narration."
+    },
+    {
+      "quote_id": "q07818",
+      "person_signal": "non_base",
+      "note": "Generic advice using impersonal \u201cone.\u201d"
+    },
+    {
+      "quote_id": "q07819",
+      "person_signal": "non_base",
+      "note": "Isolated first-person quip or direct thought; consistent third-person structure shows it is local rather than base narration."
+    },
+    {
+      "quote_id": "q07820",
+      "person_signal": "non_base",
+      "note": "First-person words are a character\u2019s embedded journal/direct thought, not the controlling narrator."
+    },
+    {
+      "quote_id": "q07821",
+      "person_signal": "unmarked",
+      "note": "Narratorial-looking fragment contains no participant or external-character reference that identifies person."
+    },
+    {
+      "quote_id": "q07822",
+      "person_signal": "non_base",
+      "note": "Direct address to Digby."
+    },
+    {
+      "quote_id": "q07823",
+      "person_signal": "non_base",
+      "note": "General rhetorical reflection using generic \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q07824",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about fathers and daughters."
+    },
+    {
+      "quote_id": "q07825",
+      "person_signal": "non_base",
+      "note": "General literary aphorism, not a narrated scene."
+    },
+    {
+      "quote_id": "q07826",
+      "person_signal": "unmarked",
+      "note": "Brief report of a character\u2019s self-description; too limited to establish narrator person."
+    },
+    {
+      "quote_id": "q07827",
+      "person_signal": "third",
+      "note": "Extended scene and environmental narration tracks Digby and other characters externally without a participating narrator."
+    },
+    {
+      "quote_id": "q07828",
+      "person_signal": "non_base",
+      "note": "Universal first-person-plural meditation, not story-specific narrator participation."
+    },
+    {
+      "quote_id": "q07829",
+      "person_signal": "non_base",
+      "note": "Generic second-person aphorism."
+    },
+    {
+      "quote_id": "q07830",
+      "person_signal": "unmarked",
+      "note": "Short scene description names Big Ammachi but does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q07831",
+      "person_signal": "unmarked",
+      "note": "Brief sensation and reflection lack enough context to identify the controlling narrator."
+    },
+    {
+      "quote_id": "q07832",
+      "person_signal": "non_base",
+      "note": "Speculative universal maxim, not base narration."
+    },
+    {
+      "quote_id": "q07833",
+      "person_signal": "non_base",
+      "note": "\u201cWe\u201d occurs inside explicitly attributed character thought; the tag alone is not diagnostic."
+    },
+    {
+      "quote_id": "q07834",
+      "person_signal": "non_base",
+      "note": "Gnomic religious statement."
+    },
+    {
+      "quote_id": "q07835",
+      "person_signal": "unmarked",
+      "note": "Short statement about \u201chers\u201d and her kitchen is insufficient alone to identify narrator person."
+    },
+    {
+      "quote_id": "q07836",
+      "person_signal": "non_base",
+      "note": "Extended direct speech with speaker-specific \u201cI,\u201d \u201cwe,\u201d and \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q07837",
+      "person_signal": "non_base",
+      "note": "Generic second-person maxim."
+    },
+    {
+      "quote_id": "q07838",
+      "person_signal": "non_base",
+      "note": "Rhetorical aphorism, not scene narration."
+    },
+    {
+      "quote_id": "q07839",
+      "person_signal": "non_base",
+      "note": "Biblical or sermon-like quotation, not base narration."
+    },
+    {
+      "quote_id": "q07840",
+      "person_signal": "non_base",
+      "note": "Gnomic fragment without narrator-person evidence."
+    },
+    {
+      "quote_id": "q07841",
+      "person_signal": "non_base",
+      "note": "General reflection, not story-specific narration."
+    },
+    {
+      "quote_id": "q07842",
+      "person_signal": "third",
+      "note": "Extended narration names Rune externally while directly accessing his changing perception and sensation."
+    },
+    {
+      "quote_id": "q07843",
+      "person_signal": "non_base",
+      "note": "Spoken exchange; the brief third-person speech tag is not sufficient by itself."
+    },
+    {
+      "quote_id": "q07844",
+      "person_signal": "non_base",
+      "note": "First-person direct speech by a character."
+    },
+    {
+      "quote_id": "q07845",
+      "person_signal": "non_base",
+      "note": "General family aphorism."
+    },
+    {
+      "quote_id": "q07846",
+      "person_signal": "unmarked",
+      "note": "Narratorial social summary contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q07847",
+      "person_signal": "third",
+      "note": "Sustained multi-character scene narration moves among external actions, memory, and Rune\u2019s interpretation."
+    },
+    {
+      "quote_id": "q07848",
+      "person_signal": "non_base",
+      "note": "Extended spoken address with generic \u201cwe\u201d and \u201cyou.\u201d"
+    },
+    {
+      "quote_id": "q07849",
+      "person_signal": "non_base",
+      "note": "Gnomic metaphor, not diagnostic narration."
+    },
+    {
+      "quote_id": "q07850",
+      "person_signal": "unmarked",
+      "note": "A rhetorical reflection and brief statement about Baby Mol do not alone establish narrator participation."
+    },
+    {
+      "quote_id": "q07851",
+      "person_signal": "non_base",
+      "note": "General rhetorical question, not story-specific narration."
+    },
+    {
+      "quote_id": "q07852",
+      "person_signal": "third",
+      "note": "Narration presents Big Ammachi externally and generalizes from her maternal action without a participating narrator."
+    },
+    {
+      "quote_id": "q07853",
+      "person_signal": "unmarked",
+      "note": "Brief statement about a male character\u2019s mother does not independently identify narrator person."
+    },
+    {
+      "quote_id": "q07854",
+      "person_signal": "unmarked",
+      "note": "A single externally described arrival is too short to establish the controlling narrator."
+    },
+    {
+      "quote_id": "q07855",
+      "person_signal": "non_base",
+      "note": "Sermon-like direct speech containing an embedded biblical quotation."
+    },
+    {
+      "quote_id": "q07856",
+      "person_signal": "unmarked",
+      "note": "Brief external action and commentary suggest third person but are too limited alone to be diagnostic."
+    },
+    {
+      "quote_id": "q07857",
+      "person_signal": "non_base",
+      "note": "Religious gnomic fragment."
+    },
+    {
+      "quote_id": "q07858",
+      "person_signal": "non_base",
+      "note": "Aphoristic fragment, not base narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://groveatlantic.com/book/covenant-of-water/",
+      "title": "The Covenant of Water | Grove Atlantic",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized opening sustains present-tense third-person narration through the unnamed bride\u2019s perceptions and her mother\u2019s actions."
+    },
+    {
+      "url": "https://www.oprahdaily.com/entertainment/books/a43557036/the-covenant-of-water-abraham-verghese-excerpt/",
+      "title": "Read This Sneak Peek from Oprah\u2019s 101st Book Club Pick",
+      "tier": "A",
+      "scope": "interior",
+      "supports": "THIRD",
+      "note": "A publisher-permitted 1933 Digby excerpt sustains third-person narration and accesses his perceptions and thoughts, independently corroborating the opening in an interior storyline."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-covenant-of-water/styles.html",
+      "title": "Abraham Verghese Writing Styles in Covenant of Water",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The study guide explicitly states that third-person omniscient narration remains consistent throughout the novel\u2019s seventy-year span."
+    },
+    {
+      "url": "https://www.gradesaver.com/the-covenant-of-water/study-guide/literary-elements",
+      "title": "The Covenant of Water Literary Elements",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The literary guide identifies a third-person omniscient narrator with shifting focalization through Big Ammachi, Digby, Philipose, and Mariamma."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Covenant of Water Abraham Verghese excerpt first chapter publisher\u201d and opened the Grove Atlantic authorized opening.",
+    "Searched \u201cThe Covenant of Water third person narrator\u201d and \u201cThe Covenant of Water point of view narration\u201d; opened explicit whole-book descriptions from BookRags and GradeSaver.",
+    "Searched the publisher domain for an excerpt and opened the Oprah Daily publisher-permitted interior Digby extract.",
+    "Searched \u201cThe Covenant of Water epistolary diary first person sections\u201d and found no credible evidence of sustained first-person base sections.",
+    "Searched exact first-person quote fragments including \u201cI have been bent and broken,\u201d \u201cI am so behind that yesterday catches up with tomorrow,\u201d and \u201cWhatever is next for me\u201d; results indicated isolated quotation, thought, or journal material rather than a first-person controlling narrator.",
+    "Reviewed a Barnes & Noble author interview discussing shifts among Big Ammachi\u2019s and Digby\u2019s viewpoints; it corroborated changing focalization but was not treated as grammatical-person evidence."
+  ],
+  "person_note": "The controlling narrator is nonparticipating third person, with omniscient or flexible limited focalization across several characters. The quote set repeatedly shows sustained third-person access to characters such as Digby, Rune, Big Ammachi, and Mariamma, and this agrees with authorized excerpts from both the opening and an interior Digby section. Independent whole-book guides explicitly describe third-person omniscient narration as consistent throughout. Isolated first-person lines are aphorisms, speech, direct thought, quotation, or journal material and therefore do not constitute autonomous first-person base sections. No credible evidence of alternating grammatical person was found; the only minor uncertainty is that many popularity-selected quotes are too short or gnomic to be individually diagnostic.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_083",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-15T04:32:21.532996+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "58aa3556141a0022d098b5f61670c9614b3223152c77448e738bf0310a6c92f6"
+  }
+}

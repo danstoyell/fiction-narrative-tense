@@ -1,0 +1,423 @@
+{
+  "schema_version": 1,
+  "sample_id": "top2020:6601",
+  "quotes": [
+    {
+      "quote_id": "q04364",
+      "person_signal": "unmarked",
+      "note": "Narratorial reflection uses a third-person possessive and generic you, but the clipped context does not identify the narrator."
+    },
+    {
+      "quote_id": "q04365",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; its generic you does not indicate narrative person."
+    },
+    {
+      "quote_id": "q04366",
+      "person_signal": "unmarked",
+      "note": "Describes an unnamed she and uses generic you, which alone cannot distinguish first- from third-person narration."
+    },
+    {
+      "quote_id": "q04367",
+      "person_signal": "non_base",
+      "note": "Character speech; first-person plural language belongs to the speaker."
+    },
+    {
+      "quote_id": "q04368",
+      "person_signal": "unmarked",
+      "note": "Generic-you comparison rather than sustained narration of a story-specific you."
+    },
+    {
+      "quote_id": "q04369",
+      "person_signal": "non_base",
+      "note": "Pronoun-free gnomic observation."
+    },
+    {
+      "quote_id": "q04370",
+      "person_signal": "non_base",
+      "note": "Generic aphorism whose your does not identify the base narrator."
+    },
+    {
+      "quote_id": "q04371",
+      "person_signal": "unmarked",
+      "note": "Possible free-indirect narration shifts from her to generic you, but the excerpt is too short to establish person independently."
+    },
+    {
+      "quote_id": "q04372",
+      "person_signal": "unmarked",
+      "note": "Generic-you reflection followed by third-person characters; no participating narrator is exposed."
+    },
+    {
+      "quote_id": "q04373",
+      "person_signal": "non_base",
+      "note": "Gnomic material with generic your and you."
+    },
+    {
+      "quote_id": "q04374",
+      "person_signal": "non_base",
+      "note": "Aphoristic generic-you statement."
+    },
+    {
+      "quote_id": "q04375",
+      "person_signal": "non_base",
+      "note": "Gnomic statement without diagnostic narrator pronouns."
+    },
+    {
+      "quote_id": "q04376",
+      "person_signal": "third",
+      "note": "Sustained narration names Stella, attributes supposition to her, and presents her consciousness from a nonparticipating position."
+    },
+    {
+      "quote_id": "q04377",
+      "person_signal": "non_base",
+      "note": "Gnomic statement; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q04378",
+      "person_signal": "non_base",
+      "note": "Pronoun-free aphorism."
+    },
+    {
+      "quote_id": "q04379",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you observation."
+    },
+    {
+      "quote_id": "q04380",
+      "person_signal": "non_base",
+      "note": "Generalized second-person maxim, not story-specific second-person narration."
+    },
+    {
+      "quote_id": "q04381",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question with generic you."
+    },
+    {
+      "quote_id": "q04382",
+      "person_signal": "third",
+      "note": "Narratorial reflection resolves into an externally narrated action by she, consistent with close third-person narration."
+    },
+    {
+      "quote_id": "q04383",
+      "person_signal": "non_base",
+      "note": "Direct character speech; its you does not identify the narrator."
+    },
+    {
+      "quote_id": "q04384",
+      "person_signal": "third",
+      "note": "Sustained access to her intention, knowledge, and feeling is presented by a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q04385",
+      "person_signal": "third",
+      "note": "The narrator comments externally on the Vignes twins and their shared belief."
+    },
+    {
+      "quote_id": "q04386",
+      "person_signal": "unmarked",
+      "note": "A single sentence about she does not independently rule out a participating narrator."
+    },
+    {
+      "quote_id": "q04387",
+      "person_signal": "unmarked",
+      "note": "Third-person life summary is compatible with third-person narration but lacks enough local context to be diagnostic alone."
+    },
+    {
+      "quote_id": "q04388",
+      "person_signal": "non_base",
+      "note": "Direct speech; the brief attribution does not independently establish base person."
+    },
+    {
+      "quote_id": "q04389",
+      "person_signal": "third",
+      "note": "The narrator surveys both twins' divergent lives and possibilities from outside either character."
+    },
+    {
+      "quote_id": "q04390",
+      "person_signal": "unmarked",
+      "note": "A comparison involving Stella contains no diagnostic narrator self-reference or sustained context."
+    },
+    {
+      "quote_id": "q04391",
+      "person_signal": "third",
+      "note": "The causal transition into what she tried to conceal presents close third-person access to a character's motivation."
+    },
+    {
+      "quote_id": "q04392",
+      "person_signal": "non_base",
+      "note": "Kennedy's direct speech; second-person forms address another character."
+    },
+    {
+      "quote_id": "q04393",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrative person."
+    },
+    {
+      "quote_id": "q04394",
+      "person_signal": "third",
+      "note": "Sustained narration presents her memories, Reese's reported explanation, and its meaning from close third person."
+    },
+    {
+      "quote_id": "q04395",
+      "person_signal": "third",
+      "note": "The narrator reports her physical response and then renders her thought in free-indirect third person."
+    },
+    {
+      "quote_id": "q04396",
+      "person_signal": "unmarked",
+      "note": "Expository narration uses generalized you; it does not cast a story protagonist as you."
+    },
+    {
+      "quote_id": "q04397",
+      "person_signal": "third",
+      "note": "Extended external summary of her life and privileges establishes nonparticipating third-person narration."
+    },
+    {
+      "quote_id": "q04398",
+      "person_signal": "third",
+      "note": "Generic you is embedded within narration of what she thought and experienced, exposing close third person."
+    },
+    {
+      "quote_id": "q04399",
+      "person_signal": "non_base",
+      "note": "Dialogue exchange; first- and second-person pronouns belong to the characters."
+    },
+    {
+      "quote_id": "q04400",
+      "person_signal": "non_base",
+      "note": "Pam's direct speech; we is spoken dialogue."
+    },
+    {
+      "quote_id": "q04401",
+      "person_signal": "unmarked",
+      "note": "A single third-person sentence lacks sufficient narratorial context."
+    },
+    {
+      "quote_id": "q04402",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you assertion."
+    },
+    {
+      "quote_id": "q04403",
+      "person_signal": "non_base",
+      "note": "Gnomic reflection without diagnostic narrator participation."
+    },
+    {
+      "quote_id": "q04404",
+      "person_signal": "non_base",
+      "note": "Dialogue; repeated you addresses another character."
+    },
+    {
+      "quote_id": "q04405",
+      "person_signal": "third",
+      "note": "Extended access to Stella's rationale is rendered as third-person free-indirect narration."
+    },
+    {
+      "quote_id": "q04406",
+      "person_signal": "non_base",
+      "note": "Quoted first-person speech, explicitly attributed to a character."
+    },
+    {
+      "quote_id": "q04407",
+      "person_signal": "non_base",
+      "note": "Direct speech attributed to a character; us and we are local to the speaker."
+    },
+    {
+      "quote_id": "q04408",
+      "person_signal": "third",
+      "note": "The narrator reports her imagination and speculative thoughts through close third-person narration."
+    },
+    {
+      "quote_id": "q04409",
+      "person_signal": "third",
+      "note": "Sustained narration enters his changed understanding while referring to him externally."
+    },
+    {
+      "quote_id": "q04410",
+      "person_signal": "third",
+      "note": "External description of Blake's colleagues shifts into the focal character's evaluative consciousness as she."
+    },
+    {
+      "quote_id": "q04411",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question with generic you."
+    },
+    {
+      "quote_id": "q04412",
+      "person_signal": "non_base",
+      "note": "Gnomic rhetorical question; you is generic."
+    },
+    {
+      "quote_id": "q04413",
+      "person_signal": "third",
+      "note": "The narrator directly reports a character's contrasting internal feelings as she."
+    },
+    {
+      "quote_id": "q04414",
+      "person_signal": "non_base",
+      "note": "Direct character speech; first-person plural forms belong to the speaker."
+    },
+    {
+      "quote_id": "q04415",
+      "person_signal": "third",
+      "note": "Sustained access to her sense of transformation and freedom is expressed through third-person free indirect discourse."
+    },
+    {
+      "quote_id": "q04416",
+      "person_signal": "unmarked",
+      "note": "External description of the twins is compatible with third person but is not independently decisive."
+    },
+    {
+      "quote_id": "q04417",
+      "person_signal": "unmarked",
+      "note": "A single metaphorical sentence about he does not establish the controlling narrator."
+    },
+    {
+      "quote_id": "q04418",
+      "person_signal": "third",
+      "note": "General reflection develops into sustained narration of her fascination and the group's activity from outside the character."
+    },
+    {
+      "quote_id": "q04419",
+      "person_signal": "non_base",
+      "note": "Gnomic observation without diagnostic narrator person."
+    },
+    {
+      "quote_id": "q04420",
+      "person_signal": "third",
+      "note": "The narrator names Jude, compares her with Stella, and characterizes her private disposition externally."
+    },
+    {
+      "quote_id": "q04421",
+      "person_signal": "non_base",
+      "note": "Direct speech by Willie Lee; you forms address people generically within dialogue."
+    },
+    {
+      "quote_id": "q04422",
+      "person_signal": "non_base",
+      "note": "Gnomic generic-you statement."
+    },
+    {
+      "quote_id": "q04423",
+      "person_signal": "third",
+      "note": "Sustained narration reports the townspeople's collective hopes, habits, surprise, and judgment from a nonparticipating position."
+    },
+    {
+      "quote_id": "q04424",
+      "person_signal": "unmarked",
+      "note": "They is followed by generic you; the short excerpt does not independently establish narrator participation."
+    },
+    {
+      "quote_id": "q04425",
+      "person_signal": "unmarked",
+      "note": "Likely free-indirect or represented thought, but clipping leaves its precise local attribution unresolved."
+    },
+    {
+      "quote_id": "q04426",
+      "person_signal": "unmarked",
+      "note": "A single biographical sentence about he is not sufficient evidence by itself."
+    },
+    {
+      "quote_id": "q04427",
+      "person_signal": "unmarked",
+      "note": "Named-character transformation is compatible with third person but does not alone identify the narrator."
+    },
+    {
+      "quote_id": "q04428",
+      "person_signal": "third",
+      "note": "Sustained scene narration externally tracks she and he while reporting her momentary thought."
+    },
+    {
+      "quote_id": "q04429",
+      "person_signal": "unmarked",
+      "note": "A single sentence about her desire lacks enough context to establish base person independently."
+    },
+    {
+      "quote_id": "q04430",
+      "person_signal": "non_base",
+      "note": "Gnomic comparison without diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q04431",
+      "person_signal": "non_base",
+      "note": "General aphorism without narrator-person evidence."
+    },
+    {
+      "quote_id": "q04432",
+      "person_signal": "non_base",
+      "note": "Gnomic observation; generic you is nondiagnostic."
+    },
+    {
+      "quote_id": "q04433",
+      "person_signal": "third",
+      "note": "Extended narration attributes a thought and destructive fantasy to her from close third person."
+    },
+    {
+      "quote_id": "q04434",
+      "person_signal": "unmarked",
+      "note": "A single sentence about what she loved is compatible with, but does not alone prove, third-person narration."
+    }
+  ],
+  "person_label": "THIRD",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://www.penguinrandomhouse.com/articles/vanishing-half-excerpt/",
+      "title": "Read an Excerpt of The Vanishing Half",
+      "tier": "A",
+      "scope": "opening",
+      "supports": "THIRD",
+      "note": "The publisher-authorized opening sustains external narration of Lou LeBon, the Mallard community, Desiree, and Stella, including close access to characters without a participating narrator."
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/tra-rgfe/assets/2554/The_Vanishing_Half_-_chapter_1.pdf",
+      "title": "The Vanishing Half \u2014 Chapter 1 excerpt",
+      "tier": "A",
+      "scope": "named_section",
+      "supports": "THIRD",
+      "note": "The typeset chapter excerpt sustains third-person narration across multiple scenes and focal characters, including Desiree and Early Jones."
+    },
+    {
+      "url": "https://www.supersummary.com/the-vanishing-half/summary/",
+      "title": "The Vanishing Half Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The whole-book guide explicitly identifies a limited third-person narrative whose focal point shifts among multiple characters and across time periods."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-vanishing-half/styles.html",
+      "title": "Brit Bennett Writing Styles in The Vanishing Half",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The point-of-view analysis explicitly describes third-person free-indirect narration that moves through Desiree, Stella, Jude, and Kennedy, with occasional omniscient scope."
+    },
+    {
+      "url": "https://www.shelf-awareness.com/readers/2020-06-02/the_vanishing_half.html",
+      "title": "The Vanishing Half",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "THIRD",
+      "note": "The professional review reports shifting viewpoints and timelines across several focal figures; read with the explicit POV sources, these are multiple third-person focalizations rather than changes of grammatical person."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Vanishing Half Brit Bennett official excerpt third person narration\" and opened the Penguin Random House excerpt.",
+    "Searched \"The Vanishing Half point of view third person narrator\" and opened explicit whole-book POV discussions from SuperSummary and BookRags.",
+    "Searched \"The Vanishing Half Brit Bennett excerpt publisher\" and opened the sustained typeset Chapter 1 PDF.",
+    "Searched \"The Vanishing Half narrative perspective multiple points of view\" and opened the Shelf Awareness review; multiple viewpoints were checked for possible person alternation.",
+    "Also reviewed publisher book-page and search results for narrator, frame, diary, epistolary, and alternating-person indications; no credible evidence of first-person, second-person, epistolary, or mixed-person base sections was found."
+  ],
+  "person_note": "The quote set repeatedly presents Stella, Desiree, Jude, Kennedy, Reese, Early, and other characters from a nonparticipating narrator's position, often through close free-indirect access to their thoughts. Numerous generic-you aphorisms are not sustained second-person narration, and all visible I/we passages occur in character dialogue. The authorized excerpts independently sustain third-person prose, while two explicit whole-book guides identify shifting limited/free-indirect third person. Reports of multiple narrators or viewpoints therefore describe changes in focal character, not changes in grammatical narrative person. The main scope limitation is that the authorized prose covers the opening/Chapter 1 rather than every section, but the distributed interior quotes and whole-book structural sources resolve that limitation without credible contrary evidence.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_073",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "web_search": "live",
+    "classified_at": "2026-09-13T13:09:00.340649+00:00",
+    "methodology_sha256": "d97b61a444e237d9d60d010c34b27e819249ae02eee0f3d3cbb8c209af1357b0",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "2a5633b762800e35264a619e196473b5c05f8c6010094ad6e88c4766f3e70a05"
+  }
+}

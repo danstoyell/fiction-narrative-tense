@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "batch": 2,
+    "model": "GPT-5 Codex",
+    "reasoning": "web-grounded narrative-person adjudication using the PERSON_METHODOLOGY.md label definitions and source hierarchy",
+    "research_date": "2026-08-25"
+  },
+  "records": [
+    {
+      "selection_row": 11,
+      "book": "GOLDEN GIRL",
+      "author": "Elin Hilderbrand",
+      "year": 2021,
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "Independent structural descriptions identify a third-person narrative voice that moves among characters, including Vivi and a Nantucket chapter. Changing focal characters does not introduce a first- or second-person narrating strand.",
+      "ambiguity": "The novel uses many focal perspectives and a personified-Nantucket chapter, but the available sources characterize the controlling narration as third person.",
+      "sources": [
+        {
+          "title": "Golden Girl Chapters 1-10 Summary & Analysis",
+          "url": "https://www.supersummary.com/golden-girl/chapters-1-10-summary/",
+          "source_type": "independent study guide",
+          "supports": "Explicitly identifies the novel's third-person narrative voice and says it follows Vivi and other figures."
+        },
+        {
+          "title": "Golden Girl by Elin Hilderbrand",
+          "url": "https://www.turnanotherpage.org/single-post/golden-girl-by-elin-hilderbrand",
+          "source_type": "independent review",
+          "supports": "Explicitly describes third-person POV and frequent shifts among character perspectives."
+        }
+      ]
+    },
+    {
+      "selection_row": 12,
+      "book": "A PAINTED HOUSE",
+      "author": "John Grisham",
+      "year": 2001,
+      "label": "FIRST",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "The publisher's opening excerpt has Luke's first-person possessives in continuous scene narration and identifies Luke Chandler as narrator; an independent study source also calls Luke the first-person narrator.",
+      "ambiguity": "None material; the primary excerpt directly establishes Luke's narrating I-voice.",
+      "sources": [
+        {
+          "title": "A Painted House — John Grisham",
+          "url": "https://www.hachette.com.au/john-grisham/a-painted-house",
+          "source_type": "publisher",
+          "supports": "Supplies the opening excerpt (including Luke's first-person reference) and identifies Luke Chandler as narrator."
+        },
+        {
+          "title": "A Painted House",
+          "url": "https://manuals.plus/m/3350ab77b9bf779eca555497611c39adac2be2fce0bab333330c14c3c5059c9c.pdf",
+          "source_type": "independent educational PDF",
+          "supports": "Explicitly calls Luke Chandler the first-person narrator."
+        }
+      ]
+    },
+    {
+      "selection_row": 13,
+      "book": "THE ROYAL BOX",
+      "author": "Frances Parkinson Keyes",
+      "year": 1954,
+      "label": "UNRESOLVED",
+      "gold_confidence": null,
+      "evidence_tier": "D",
+      "evidence_summary": "The located contemporary review and catalog/review descriptions establish a multi-character mystery but do not explicitly state narration person or provide sustained readable narrative text. That is not enough to infer a book-level narrator.",
+      "ambiguity": "Character-centered plot descriptions are compatible with either a first-person participant recounting events or third-person narration; no diagnostic primary excerpt was found.",
+      "searched_but_not_found": "Exact-title searches for 'narrator', 'point of view', 'Chapter I', Google Books, library/Open Library previews, scholarship, and contemporary reviews found bibliographic and plot material only; no lawful preview or credible explicit POV statement was located.",
+      "sources": [
+        {
+          "title": "THE ROYAL BOX",
+          "url": "https://www.kirkusreviews.com/book-reviews/a/frances-parkinson-keyes-2/the-royal-box/",
+          "source_type": "contemporary independent review",
+          "supports": "Establishes the book's multi-character mystery structure, but does not establish grammatical narrative person."
+        },
+        {
+          "title": "The Royal Box by Frances Parkinson Keyes",
+          "url": "https://www.goodreads.com/en/book/show/2234806.The_Royal_Box",
+          "source_type": "book listing and reader-review aggregation",
+          "supports": "Corroborates the named cast and murder premise, but provides no reliable explicit POV description."
+        }
+      ]
+    },
+    {
+      "selection_row": 14,
+      "book": "A BELL FOR ADANO",
+      "author": "John Hersey",
+      "year": 1944,
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "A contemporary serialized text excerpt narrates Joppolo externally in third person; an independent literary source additionally identifies an omniscient narrator focused on Joppolo. This is a third-person structure, not a participating narrator.",
+      "ambiguity": "The narrative is focalized around Joppolo, but both sources distinguish that focus from the omniscient narrator.",
+      "sources": [
+        {
+          "title": "John Hersey Writing Styles in A Bell for Adano",
+          "url": "https://www.bookrags.com/studyguide-a-bell-for-adano2/style.html",
+          "source_type": "independent study guide",
+          "supports": "Explicitly calls the narrator omniscient and explains its focus on Joppolo."
+        },
+        {
+          "title": "A Bell for Adano — syndicated chapter excerpt",
+          "url": "https://oregonnews.uoregon.edu/lccn/2025240345/1945-03-22/ed-1/seq-2.pdf",
+          "source_type": "contemporary newspaper serial excerpt",
+          "supports": "Provides direct text with Major Joppolo and Little Zito represented externally in scene narration."
+        }
+      ]
+    },
+    {
+      "selection_row": 15,
+      "book": "FROM A BUICK 8",
+      "author": "Stephen King",
+      "year": 2002,
+      "label": "FIRST",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "The publisher provides an opening extract; independent structural analysis identifies named narrator/then-now chapters, with Sandy as the principal storyteller and other officers supplying their accounts. A separate independent review explicitly identifies the book as first person with multiple points of view. Multiple autonomous narrators remain FIRST because the documented strands are first-person accounts, rather than different grammatical persons.",
+      "ambiguity": "The framing and flashbacks can make the narrator shifts feel layered, but sources consistently identify the voices as first-person accounts rather than a first/third alternation.",
+      "sources": [
+        {
+          "title": "From a Buick 8 by Stephen King",
+          "url": "https://www.hachette.co.uk/titles/stephen-king-3/from-a-buick-8/9781444708110/",
+          "source_type": "publisher excerpt and description",
+          "supports": "Provides the official opening extract and establishes the present-day Ned/Troop D frame."
+        },
+        {
+          "title": "Ghost story techniques in 'From a Buick 8'",
+          "url": "https://www.aesantana.com/post/2018/10/16/loss-and-grief-in-a-ghost-story-techniques-used-in-from-a-buick-8",
+          "source_type": "independent narrative analysis",
+          "supports": "Describes named narrator and then/now chapter titles, Sandy as main narrator, and other officers' accounts."
+        },
+        {
+          "title": "Talk Stephen King: From A Buick 8 Journal #1",
+          "url": "https://talkstephenking.blogspot.com/2012/06/from-buick-8-journal-1.html",
+          "source_type": "independent review",
+          "supports": "Explicitly says the book is told in first person with multiple points of view."
+        }
+      ]
+    },
+    {
+      "selection_row": 16,
+      "book": "THE WISH",
+      "author": "Nicholas Sparks",
+      "year": 2021,
+      "label": "ALTERNATING",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "The author's official excerpt narrates present-day Maggie externally in third person. An independent chapter analysis identifies the sustained Ocracoke flashback as Maggie's first-person telling to Mark. These are autonomous present and retrospective narrative strands in different grammatical persons.",
+      "ambiguity": "The first-person strand is framed as Maggie's story to Mark, but it is the novel's sustained flashback structure rather than an isolated document.",
+      "sources": [
+        {
+          "title": "The Wish Character Analysis",
+          "url": "https://www.supersummary.com/the-wish-nicholas-sparks/major-character-analysis/",
+          "source_type": "independent study guide",
+          "supports": "States that Maggie tells the story and recounts the 1995 events to Mark."
+        },
+        {
+          "title": "The Wish excerpt",
+          "url": "https://nicholassparks.com/wp-content/uploads/2022/09/excerpt-23.2021.09-the-wish.pdf",
+          "source_type": "official author excerpt",
+          "supports": "Provides sustained present-day third-person narration centered on Maggie."
+        },
+        {
+          "title": "The Wish Chapters 1-3 Summary & Analysis",
+          "url": "https://www.supersummary.com/the-wish-nicholas-sparks/chapters-1-3-summary/",
+          "source_type": "independent study guide",
+          "supports": "Explicitly identifies the Ocracoke flashback as Maggie's first-person embedded narrative to Mark."
+        }
+      ]
+    },
+    {
+      "selection_row": 17,
+      "book": "GRIFFIN & SABINE",
+      "author": "Nick Bantock",
+      "year": 1992,
+      "label": "FIRST",
+      "gold_confidence": "high",
+      "evidence_tier": "B",
+      "evidence_summary": "The entire narrative is presented as correspondence between Griffin and Sabine. The two autonomous epistolary voices are both first-person letter writers; they do not form an alternating mix of grammatical persons under this project's definition.",
+      "ambiguity": "The book has two correspondents, but multiplicity of first-person writers is not ALTERNATING unless the strands use different persons.",
+      "sources": [
+        {
+          "title": "An Open Letter to Nick Bantock",
+          "url": "https://www.researchgate.net/publication/327600795_An_Open_Letter_to_Nick_Bantock_OR_Letters_andas_Ephemeral_Desire_Transposition_and_Transpoetic_Possibility_within_Epistolary_Form_A_Critical_Approach_to_Contemporary_Letter_Narratives_in_Anglophone_Fi",
+          "source_type": "scholarly chapter",
+          "supports": "Describes the work as an epistolary novel and says its entire narrative consists of nineteen pieces of mail."
+        },
+        {
+          "title": "Special Delivery",
+          "url": "https://www.thestranger.com/books/special-delivery-19342069/",
+          "source_type": "independent newspaper review",
+          "supports": "Describes the physical letters and postcards exchanged between Griffin and Sabine."
+        }
+      ]
+    },
+    {
+      "selection_row": 18,
+      "book": "SAY YOU'LL REMEMBER ME",
+      "author": "Abby Jimenez",
+      "year": 2025,
+      "label": "FIRST",
+      "gold_confidence": "med",
+      "evidence_tier": "C",
+      "evidence_summary": "A publisher-affiliated extract opens in a speaker's first-person voice, and independent review sources establish that the novel has autonomous Samantha and Xavier POV chapters. Multiple first-person narrators retain the FIRST label because the persons do not differ across strands.",
+      "ambiguity": "Available evidence exposes first-person grammar and dual POV but lacks a stable official full sample for both speakers, so confidence is moderate.",
+      "sources": [
+        {
+          "title": "Read an extract from Say You'll Remember Me by Abby Jimenez",
+          "url": "https://www.yourswithlove.co.uk/blog/article/read-an-extract-from-say-you-ll-remember-me-by-abby-jimenez",
+          "source_type": "publisher-affiliated extract",
+          "supports": "Provides first-chapter text in a narrating I-voice, including the speaker's reference to 'our faces.'"
+        },
+        {
+          "title": "Reviews — Say You'll Remember Me",
+          "url": "https://app.thestorygraph.com/book_reviews/31dc2876-f7e8-4779-8f54-b3d83dc9b4f2?page=2",
+          "source_type": "reader-review aggregation",
+          "supports": "Independent reader review explicitly calls the book dual POV and identifies Samantha and Xavier."
+        },
+        {
+          "title": "Say You'll Remember Me",
+          "url": "https://www.goodreads.com/en/book/show/216498510",
+          "source_type": "reader-review aggregation",
+          "supports": "A separate reader review explicitly labels the novel 'Dual point of view.'"
+        }
+      ]
+    },
+    {
+      "selection_row": 19,
+      "book": "THE WORD",
+      "author": "Irving Wallace",
+      "year": 1972,
+      "label": "UNRESOLVED",
+      "gold_confidence": null,
+      "evidence_tier": "D",
+      "evidence_summary": "Google Books and a university-hosted genre account establish Steve Randall as the central character and show searchable third-person vocabulary, but neither offers enough directly inspectable narrative text to meet the evidence floor. No reliable lawful sustained preview or explicit POV analysis was found.",
+      "ambiguity": "Third-person plot summaries and character lists cannot distinguish external narration from a first-person narrator writing about Steve; abstention is required without diagnostic text.",
+      "searched_but_not_found": "Exact-title searches for 'narrator', 'point of view', 'first person', 'third person', chapter opening, Google Books queries, library/OverDrive samples, scholarship, and contemporary reviews found descriptions and metadata but no lawful sustained narrative preview or explicit credible POV classification.",
+      "sources": [
+        {
+          "title": "1972 The Word",
+          "url": "https://scalar.usc.edu/works/gospel-thrillers/media/1972-the-word",
+          "source_type": "university-hosted genre archive",
+          "supports": "Identifies Steve Randall as the novel's hero and outlines its multiple characters and plot, but does not explicitly establish grammar."
+        },
+        {
+          "title": "The Word",
+          "url": "https://books.google.com/books/about/The_Word.html?id=k82l5kCxoxwC",
+          "source_type": "Google Books publisher/bibliographic preview",
+          "supports": "Provides bibliographic confirmation and searchable-text terms, but no sustained inspectable narrative excerpt."
+        }
+      ]
+    },
+    {
+      "selection_row": 20,
+      "book": "THE ASSOCIATE",
+      "author": "John Grisham",
+      "year": 2009,
+      "label": "THIRD",
+      "gold_confidence": "high",
+      "evidence_tier": "A",
+      "evidence_summary": "An official publisher-authorized excerpt presents Kyle McAvoy externally in dialogue and scene narration. The publisher description likewise consistently refers to Kyle in the third person; no competing narrating voice is indicated.",
+      "ambiguity": "None material; the authorized sample directly shows an external narrator.",
+      "sources": [
+        {
+          "title": "Extract from The Associate by John Grisham",
+          "url": "https://static.booktopia.com.au/pdf/9781846050923-1.pdf",
+          "source_type": "publisher-authorized excerpt",
+          "supports": "Supplies the novel excerpt with Kyle represented externally in narration and dialogue attribution."
+        },
+        {
+          "title": "The Associate by John Grisham",
+          "url": "https://www.penguinrandomhouse.com/books/72152/the-associate-by-john-grisham/",
+          "source_type": "publisher",
+          "supports": "Official description consistently frames Kyle McAvoy as an externally narrated protagonist."
+        }
+      ]
+    }
+  ]
+}

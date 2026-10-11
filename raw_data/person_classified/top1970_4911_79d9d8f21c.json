@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1970:4911",
+  "quotes": [
+    {
+      "quote_id": "q01731",
+      "person_signal": "non_base",
+      "note": "Character speech; it does not expose the controlling narrator."
+    },
+    {
+      "quote_id": "q01732",
+      "person_signal": "non_base",
+      "note": "First-person wording occurs within character speech."
+    },
+    {
+      "quote_id": "q01733",
+      "person_signal": "non_base",
+      "note": "The I/we pronouns belong to a character's theological speech."
+    },
+    {
+      "quote_id": "q01734",
+      "person_signal": "first",
+      "note": "Narratorial me, our, and I place the participating narrator in the scene."
+    },
+    {
+      "quote_id": "q01735",
+      "person_signal": "non_base",
+      "note": "Character speech without an outside narratorial beat."
+    },
+    {
+      "quote_id": "q01736",
+      "person_signal": "non_base",
+      "note": "Gnomic observation with no diagnostic narrator."
+    },
+    {
+      "quote_id": "q01737",
+      "person_signal": "unclear",
+      "note": "The clipped fragment omits its subject and cannot identify the narrator."
+    },
+    {
+      "quote_id": "q01738",
+      "person_signal": "unmarked",
+      "note": "Scenic base narration contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q01739",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim rather than person-diagnostic narration."
+    },
+    {
+      "quote_id": "q01740",
+      "person_signal": "non_base",
+      "note": "Character speech; I does not identify the base narrator."
+    },
+    {
+      "quote_id": "q01741",
+      "person_signal": "first",
+      "note": "My and I occur in retrospective event narration by a participant."
+    },
+    {
+      "quote_id": "q01742",
+      "person_signal": "first",
+      "note": "The old-man frame explicitly establishes the participating I narrator."
+    },
+    {
+      "quote_id": "q01743",
+      "person_signal": "first",
+      "note": "Although clipped, the event narration visibly uses the narrator's my and I."
+    },
+    {
+      "quote_id": "q01744",
+      "person_signal": "first",
+      "note": "The narrator recounts his own learning as I."
+    },
+    {
+      "quote_id": "q01745",
+      "person_signal": "non_base",
+      "note": "First-person phrasing is contained within character speech."
+    },
+    {
+      "quote_id": "q01746",
+      "person_signal": "non_base",
+      "note": "Character speech without diagnostic outside narration."
+    },
+    {
+      "quote_id": "q01747",
+      "person_signal": "first",
+      "note": "The dialogue includes an outside narratorial beat, 'I made the same reply,' exposing the base voice."
+    },
+    {
+      "quote_id": "q01748",
+      "person_signal": "unmarked",
+      "note": "A brief sentence about he is compatible with either first- or third-person narration."
+    },
+    {
+      "quote_id": "q01749",
+      "person_signal": "first",
+      "note": "The speech tag 'I added bitterly' exposes the participating narrator."
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://d.lib.rochester.edu/camelot/text/interview-with-mary-stewart.html",
+      "title": "Interview with Mary Stewart",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "In a University of Rochester-hosted author interview, Stewart says she returned to first-person narrative and retained it until the Mordred novel The Wicked Day; she also explicitly identifies Merlin as the narrator recalling his youth in The Crystal Cave."
+    },
+    {
+      "url": "https://unitesi.unive.it/bitstream/20.500.14247/7205/1/836211-1219694.pdf",
+      "title": "Im-mortality: The Literary Death and Rebirth of King Arthur and His Kingdom",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "This Ca' Foscari University master's thesis identifies Stewart's chosen voice as a first-person narrator and analyzes Merlin's retrospective narration, quoting the novel's first-person opening."
+    },
+    {
+      "url": "https://sep.turbifycdn.com/ty/cdn/monkeynote/pmCrystalCaveSample.pdf",
+      "title": "The Crystal Cave by Mary Stewart \u2014 MonkeyNotes",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The study guide explicitly states that the entire point of view is first person and that Merlin is the narrator."
+    },
+    {
+      "url": "https://www.librarything.com/work/18211",
+      "title": "The Crystal Cave by Mary Stewart",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Distributed text snippets show first-person openings for the prologue and Books I\u2013III, Merlin's commentary on the chronicles at the opening of Book IV, and first-person narration in the ending."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-the-crystal-cave/style.html",
+      "title": "Mary Stewart Writing Styles in The Crystal Cave",
+      "tier": "C",
+      "scope": "named_section",
+      "supports": "ALTERNATING",
+      "note": "This guide describes both first- and third-person passages, citing Book IV, Chapter 1; however, it also says Merlin himself tells the third-person account of Ambrosius's exploits, indicating embedded historical storytelling rather than a separate controlling narrator."
+    }
+  ],
+  "search_log": [
+    "Searched \"The Crystal Cave\" \"Mary Stewart\" excerpt and first chapter; Hachette exposed a Read Excerpt control but only catalog copy was retrievable, while Open Library supplied only a one-line opening.",
+    "Searched \"The Crystal Cave\" first person, point of view, narrator, and narrated by; results included explicit whole-book descriptions and Mary Stewart's University of Rochester interview.",
+    "Searched academic and university domains for \"The Crystal Cave\" and first-person narration; opened the Ca' Foscari thesis and an Exeter scholarly article.",
+    "Searched \"The Crystal Cave\" third person, alternating point of view, and Book IV Chapter 1 to investigate the BookRags claim about historical passages.",
+    "Searched exact Book IV wording beginning \"The way the chronicles tell it\"; LibraryThing supplied openings for the prologue and all five named books.",
+    "Checked Hachette, Google Books, and Open Library for sustained authorized prose; their accessible pages did not provide a sustained readable extract."
+  ],
+  "person_note": "Merlin is the controlling retrospective narrator and a participant in the story. Multiple event quotes independently expose his I/my voice, especially the explicit old-man frame in q01742; dialogue and gnomic quotations were excluded, while the two isolated third-person scene fragments remain unmarked. The author interview, academic thesis, and whole-book study guide corroborate first-person narration. BookRags uses 'third person' for historical passages about events Merlin did not witness, chiefly Book IV, Chapter 1, but explicitly attributes that storytelling to Merlin; the named-book openings likewise preserve his retrospective framing. Those passages are therefore embedded historical recounting by the same participating narrator, not an autonomous third-person base section. The only minor uncertainty is the extent of those historical stretches, with no credible evidence of a separate controlling narrator.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_016",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-08-31T01:54:08.609428+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "c53f6b82f6d321631513b4125e97e2ed696a29e320777d5284e24cc4a71ea8ae"
+  }
+}

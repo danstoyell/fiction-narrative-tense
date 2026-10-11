@@ -1,0 +1,565 @@
+{
+  "schema_version": 1,
+  "sample_id": "top1986:6051",
+  "quotes": [
+    {
+      "quote_id": "q02754",
+      "person_signal": "non_base",
+      "note": "Character speech; its first- and second-person pronouns do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02755",
+      "person_signal": "non_base",
+      "note": "Upstream paratext; the isolated first-person line is not used as base narration evidence."
+    },
+    {
+      "quote_id": "q02756",
+      "person_signal": "non_base",
+      "note": "Paratextual exhortation rather than story-specific base narration."
+    },
+    {
+      "quote_id": "q02757",
+      "person_signal": "first",
+      "note": "The narrator recalls his own childhood using \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02758",
+      "person_signal": "non_base",
+      "note": "General reflection about beauty, classified upstream as gnomic."
+    },
+    {
+      "quote_id": "q02759",
+      "person_signal": "non_base",
+      "note": "Paratextual verse rather than controlling narration."
+    },
+    {
+      "quote_id": "q02760",
+      "person_signal": "non_base",
+      "note": "Gnomic statement with no narrative-person evidence."
+    },
+    {
+      "quote_id": "q02761",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about rape rather than a narrated scene."
+    },
+    {
+      "quote_id": "q02762",
+      "person_signal": "unmarked",
+      "note": "Possible narration about \u201cher,\u201d but the excerpt does not expose narrator participation."
+    },
+    {
+      "quote_id": "q02763",
+      "person_signal": "unmarked",
+      "note": "A third-person character description alone cannot distinguish first- from third-person base narration."
+    },
+    {
+      "quote_id": "q02764",
+      "person_signal": "non_base",
+      "note": "General maxim about families, classified as gnomic."
+    },
+    {
+      "quote_id": "q02765",
+      "person_signal": "non_base",
+      "note": "Unattributed character speech is not narrator-person evidence."
+    },
+    {
+      "quote_id": "q02766",
+      "person_signal": "first",
+      "note": "The participating narrator describes his own acts with repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02767",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about men and women."
+    },
+    {
+      "quote_id": "q02768",
+      "person_signal": "unmarked",
+      "note": "The bare third-person subject \u201che\u201d does not establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02769",
+      "person_signal": "non_base",
+      "note": "Gnomic maxim about forgiveness."
+    },
+    {
+      "quote_id": "q02770",
+      "person_signal": "first",
+      "note": "\u201cWe children,\u201d \u201cmy sister,\u201d and \u201cI\u201d identify a participating family narrator."
+    },
+    {
+      "quote_id": "q02771",
+      "person_signal": "first",
+      "note": "The narrator recounts his own life and thoughts as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02772",
+      "person_signal": "first",
+      "note": "\u201cEvery woman I had ever met\u201d exposes the narrator as a participant with personal experience."
+    },
+    {
+      "quote_id": "q02773",
+      "person_signal": "non_base",
+      "note": "Direct family dialogue without an external narratorial beat."
+    },
+    {
+      "quote_id": "q02774",
+      "person_signal": "first",
+      "note": "The scenic narration locates the narrator among the children through \u201cbehind us.\u201d"
+    },
+    {
+      "quote_id": "q02775",
+      "person_signal": "first",
+      "note": "The narrator explicitly watches his younger self and reflects using \u201cI,\u201d \u201cwe,\u201d and \u201chimself.\u201d"
+    },
+    {
+      "quote_id": "q02776",
+      "person_signal": "non_base",
+      "note": "Universal \u201cyou\u201d appears in a gnomic reflection, not sustained second-person story narration."
+    },
+    {
+      "quote_id": "q02777",
+      "person_signal": "first",
+      "note": "The narrator recounts the episode and identifies the speaker as \u201cmy grandmother.\u201d"
+    },
+    {
+      "quote_id": "q02778",
+      "person_signal": "non_base",
+      "note": "Dialogue pronouns and direct address do not identify the base narrator."
+    },
+    {
+      "quote_id": "q02779",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about childhood."
+    },
+    {
+      "quote_id": "q02780",
+      "person_signal": "first",
+      "note": "The narrator reports his own realization as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02781",
+      "person_signal": "unmarked",
+      "note": "Third-person description of \u201cshe\u201d does not independently reveal the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02782",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about violence."
+    },
+    {
+      "quote_id": "q02783",
+      "person_signal": "non_base",
+      "note": "Upstream paratext; the first-person lyric is not treated as controlling narration."
+    },
+    {
+      "quote_id": "q02784",
+      "person_signal": "first",
+      "note": "\u201cOur island\u201d and \u201cus\u201d place the narrator within the Wingo family history."
+    },
+    {
+      "quote_id": "q02785",
+      "person_signal": "unmarked",
+      "note": "Descriptive narration contains no diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02786",
+      "person_signal": "first",
+      "note": "\u201cWe would discover\u201d identifies a participating narrator among the family group."
+    },
+    {
+      "quote_id": "q02787",
+      "person_signal": "first",
+      "note": "The narrator explicitly calls the condition \u201cmy burden\u201d and refers to himself as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02788",
+      "person_signal": "non_base",
+      "note": "Paratextual embedded poem in Savannah\u2019s poetic voice, not the novel\u2019s base narrator."
+    },
+    {
+      "quote_id": "q02789",
+      "person_signal": "first",
+      "note": "Sustained autobiographical reflection repeatedly uses \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02790",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization about the American male."
+    },
+    {
+      "quote_id": "q02791",
+      "person_signal": "unmarked",
+      "note": "Personified description of Colleton lacks a diagnostic narrator reference."
+    },
+    {
+      "quote_id": "q02792",
+      "person_signal": "first",
+      "note": "\u201cWe\u201d and \u201cour real life\u201d place the narrator inside the childhood group."
+    },
+    {
+      "quote_id": "q02793",
+      "person_signal": "unmarked",
+      "note": "Third-person description of \u201cher\u201d alone does not establish base person."
+    },
+    {
+      "quote_id": "q02794",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about love."
+    },
+    {
+      "quote_id": "q02795",
+      "person_signal": "first",
+      "note": "The narrator describes what he became using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02796",
+      "person_signal": "first",
+      "note": "\u201cWe had made\u201d identifies participating plural narration."
+    },
+    {
+      "quote_id": "q02797",
+      "person_signal": "non_base",
+      "note": "Gnomic saying about a man\u2019s finite \u201cyeses.\u201d"
+    },
+    {
+      "quote_id": "q02798",
+      "person_signal": "non_base",
+      "note": "Gnomic cultural generalization rather than story-specific narration."
+    },
+    {
+      "quote_id": "q02799",
+      "person_signal": "first",
+      "note": "\u201cMaking me\u201d identifies the narrator as the affected participant."
+    },
+    {
+      "quote_id": "q02800",
+      "person_signal": "first",
+      "note": "Sustained autobiographical narration uses \u201cwe,\u201d \u201cme,\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02801",
+      "person_signal": "non_base",
+      "note": "Extended direct address to the father is character speech, not base-narrator evidence."
+    },
+    {
+      "quote_id": "q02802",
+      "person_signal": "first",
+      "note": "The narrator recounts his early adulthood through \u201cmy\u201d and repeated \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02803",
+      "person_signal": "first",
+      "note": "The narrator describes his childhood and perceptions using \u201cmy,\u201d \u201cI,\u201d and \u201cme.\u201d"
+    },
+    {
+      "quote_id": "q02804",
+      "person_signal": "unmarked",
+      "note": "A third-person statement about \u201cshe\u201d does not reveal whether the base narrator participates."
+    },
+    {
+      "quote_id": "q02805",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about losing and winning."
+    },
+    {
+      "quote_id": "q02806",
+      "person_signal": "first",
+      "note": "\u201cAs his children, we\u201d and \u201cmy father\u201d identify the narrator as a family participant."
+    },
+    {
+      "quote_id": "q02807",
+      "person_signal": "first",
+      "note": "The narrator evaluates his own father using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02808",
+      "person_signal": "non_base",
+      "note": "First-person character speech without an external narratorial frame."
+    },
+    {
+      "quote_id": "q02809",
+      "person_signal": "unmarked",
+      "note": "Third-person description of \u201cshe\u201d is insufficient to determine the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02810",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base, while the brief \u201che smiled\u201d beat is too limited to establish third-person narration."
+    },
+    {
+      "quote_id": "q02811",
+      "person_signal": "first",
+      "note": "The narrator describes what college taught \u201cme\u201d and identifies himself as \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02812",
+      "person_signal": "non_base",
+      "note": "Attributed paratextual quotation rather than base narration."
+    },
+    {
+      "quote_id": "q02813",
+      "person_signal": "first",
+      "note": "The narrator relates his personal coping strategy using \u201cme\u201d and \u201cmy world.\u201d"
+    },
+    {
+      "quote_id": "q02814",
+      "person_signal": "first",
+      "note": "Although dialogue-dominant, the external beat \u201cI said\u201d exposes the participating narrator."
+    },
+    {
+      "quote_id": "q02815",
+      "person_signal": "unmarked",
+      "note": "Third-person description of \u201cshe\u201d alone is nondiagnostic."
+    },
+    {
+      "quote_id": "q02816",
+      "person_signal": "unmarked",
+      "note": "Third-person description of \u201cshe\u201d does not establish narrator participation or nonparticipation."
+    },
+    {
+      "quote_id": "q02817",
+      "person_signal": "first",
+      "note": "The narrator discusses \u201cmy parents\u201d and states what \u201cI\u201d know."
+    },
+    {
+      "quote_id": "q02818",
+      "person_signal": "non_base",
+      "note": "Unattributed first-person character speech."
+    },
+    {
+      "quote_id": "q02819",
+      "person_signal": "non_base",
+      "note": "Unattributed first-person character speech rather than base narration."
+    },
+    {
+      "quote_id": "q02820",
+      "person_signal": "first",
+      "note": "The repeated external speech beats \u201cI said\u201d identify the participating narrator."
+    },
+    {
+      "quote_id": "q02821",
+      "person_signal": "non_base",
+      "note": "Gnomic generalization using collective \u201cour,\u201d not a narrated event."
+    },
+    {
+      "quote_id": "q02822",
+      "person_signal": "unmarked",
+      "note": "A named-character statement alone cannot establish third-person base narration."
+    },
+    {
+      "quote_id": "q02823",
+      "person_signal": "first",
+      "note": "Sustained personal narration about New York repeatedly uses \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02824",
+      "person_signal": "first",
+      "note": "External beats such as \u201cI asked\u201d and \u201cI said,\u201d plus Tom\u2019s identification, expose the participating narrator."
+    },
+    {
+      "quote_id": "q02825",
+      "person_signal": "first",
+      "note": "The narrator recounts his own marriage and conduct using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02826",
+      "person_signal": "first",
+      "note": "Extended autobiographical reflection identifies the speaker as Tom Wingo and repeatedly uses \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02827",
+      "person_signal": "unmarked",
+      "note": "Third-person description of \u201cshe\u201d does not independently identify the base person."
+    },
+    {
+      "quote_id": "q02828",
+      "person_signal": "first",
+      "note": "The narrator reports his own delight using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02829",
+      "person_signal": "unmarked",
+      "note": "The bare third-person subject \u201che\u201d is insufficient to establish a nonparticipating narrator."
+    },
+    {
+      "quote_id": "q02830",
+      "person_signal": "first",
+      "note": "The narrator explicitly recounts his childhood avoidance through \u201cme,\u201d \u201cmy,\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02831",
+      "person_signal": "non_base",
+      "note": "Direct speech addressed to Lowenstein without a narratorial beat."
+    },
+    {
+      "quote_id": "q02832",
+      "person_signal": "first",
+      "note": "External narration\u2014\u201cShe took my hand\u201d and \u201cI returned\u201d\u2014identifies the participating narrator."
+    },
+    {
+      "quote_id": "q02833",
+      "person_signal": "non_base",
+      "note": "Unattributed character speech rather than base narration."
+    },
+    {
+      "quote_id": "q02834",
+      "person_signal": "non_base",
+      "note": "Dialogue addresses Tom as \u201cyou\u201d; it is not sustained second-person narration."
+    },
+    {
+      "quote_id": "q02835",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about human suffering."
+    },
+    {
+      "quote_id": "q02836",
+      "person_signal": "first",
+      "note": "\u201cMy father\u201d and \u201cI thought\u201d place the narrator within the scene."
+    },
+    {
+      "quote_id": "q02837",
+      "person_signal": "first",
+      "note": "The narrator recounts his own life and forgiveness using \u201cmy\u201d and \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02838",
+      "person_signal": "non_base",
+      "note": "Unattributed first-person-plural dialogue."
+    },
+    {
+      "quote_id": "q02839",
+      "person_signal": "unclear",
+      "note": "The passage is clipped at both ends, leaving its local narrative boundaries unresolved."
+    },
+    {
+      "quote_id": "q02840",
+      "person_signal": "unmarked",
+      "note": "The speech is non-base, and the brief \u201cshe insisted\u201d beat does not establish narrator person."
+    },
+    {
+      "quote_id": "q02841",
+      "person_signal": "first",
+      "note": "The narrator describes sensory experience at \u201cmy home\u201d through \u201cmy nose.\u201d"
+    },
+    {
+      "quote_id": "q02842",
+      "person_signal": "non_base",
+      "note": "Gnomic statement about provincial experience."
+    },
+    {
+      "quote_id": "q02843",
+      "person_signal": "first",
+      "note": "Sustained narration uses \u201cour,\u201d \u201cwe,\u201d and \u201cI\u201d and identifies the narrator as Savannah\u2019s twin."
+    },
+    {
+      "quote_id": "q02844",
+      "person_signal": "first",
+      "note": "The narrator evaluates his parents\u2019 effects on \u201cus\u201d using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02845",
+      "person_signal": "unmarked",
+      "note": "The parents are described as \u201cthey,\u201d but this excerpt alone does not expose the narrator\u2019s person."
+    },
+    {
+      "quote_id": "q02846",
+      "person_signal": "first",
+      "note": "Sustained autobiographical reflection repeatedly uses \u201cI,\u201d \u201cme,\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02847",
+      "person_signal": "first",
+      "note": "The narrator recounts how his parents shaped him through repeated first-person references."
+    },
+    {
+      "quote_id": "q02848",
+      "person_signal": "non_base",
+      "note": "Upstream gnomic statement; \u201cmy mother\u201d does not turn the maxim into diagnostic event narration."
+    },
+    {
+      "quote_id": "q02849",
+      "person_signal": "non_base",
+      "note": "Unattributed first-person character speech."
+    },
+    {
+      "quote_id": "q02850",
+      "person_signal": "first",
+      "note": "\u201cAs her children, we\u201d identifies the narrator as one of the participating children."
+    },
+    {
+      "quote_id": "q02851",
+      "person_signal": "first",
+      "note": "The narrator states his own desire using \u201cI.\u201d"
+    },
+    {
+      "quote_id": "q02852",
+      "person_signal": "first",
+      "note": "The narrator reports what \u201cI learned\u201d during a meal he attended."
+    },
+    {
+      "quote_id": "q02853",
+      "person_signal": "first",
+      "note": "The narrator describes his own exhaustion and actions through repeated \u201cI\u201d and \u201cmy.\u201d"
+    },
+    {
+      "quote_id": "q02854",
+      "person_signal": "first",
+      "note": "The narrator recounts his observations and feelings using repeated \u201cI.\u201d"
+    }
+  ],
+  "person_label": "FIRST",
+  "person_confidence": "high",
+  "web_evidence": [
+    {
+      "url": "https://udspace.udel.edu/server/api/core/bitstreams/f4d8c95c-6683-46d6-ac9e-05dddb0c09e9/content",
+      "title": "Back Roads, a Novel in Progress: A Creative Thesis",
+      "tier": "B",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "A University of Delaware master\u2019s thesis annotated bibliography explicitly states that The Prince of Tides uses first-person narrative and flashbacks to follow the Wingo family story."
+    },
+    {
+      "url": "https://www.washingtonpost.com/archive/lifestyle/1995/07/21/waves-of-memory/f07dcbc1-945a-42e4-8610-1fad0ba52c98/",
+      "title": "Waves of Memory",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The Washington Post explicitly identifies Tom Wingo as the first-person narrator of The Prince of Tides while discussing Conroy\u2019s later work with editor Nan Talese."
+    },
+    {
+      "url": "https://www.supersummary.com/prince-of-tides/summary/",
+      "title": "Prince of Tides Summary and Study Guide",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "The whole-book guide states that the narrative is told from protagonist Tom Wingo\u2019s first-person viewpoint and frames his recollections as stories told to Susan Lowenstein."
+    },
+    {
+      "url": "https://www.bookrags.com/studyguide-prince-of-tides/style.html",
+      "title": "Pat Conroy Writing Styles in The Prince of Tides",
+      "tier": "C",
+      "scope": "whole_book",
+      "supports": "FIRST",
+      "note": "Its point-of-view analysis says the novel is told through Tom Wingo\u2019s eyes from his earliest life through the ending, with other characters\u2019 stories relayed by Tom."
+    }
+  ],
+  "search_log": [
+    "Searched \u201cThe Prince of Tides Pat Conroy excerpt first chapter narrator Tom Wingo,\u201d \u201cpoint of view,\u201d \u201cfirst person,\u201d and \u201cnarrated by\u201d; opened the resulting sources before use.",
+    "Checked Google Books editions and publisher/library preview routes. Google Books exposed contents and metadata but no readable sustained prose; OverDrive displayed sample controls and descriptions but its prose sample was not fetchable, so neither was used as Tier A person evidence.",
+    "Searched the exact phrase \u201cTom Wingo first-person narrator\u201d and opened the Washington Post, University of Delaware thesis, SuperSummary, BookRags, and eNotes results.",
+    "Searched academic and JSTOR material. Understanding Pat Conroy has a dedicated chapter on the novel, but the accessible preview did not expose its point-of-view discussion and was not used as person evidence.",
+    "Searched \u201cmultiple narrators,\u201d \u201cepistolary,\u201d \u201calternating point of view,\u201d and \u201cframe narrative.\u201d Results consistently described Tom\u2019s first-person narration framed as recollections told to Susan; no sustained competing base narrator was found."
+  ],
+  "person_note": "Tom Wingo is the controlling participating narrator in both the New York present and the extensive childhood flashbacks. Numerous event quotes independently expose his \u201cI,\u201d \u201cmy,\u201d and family-inclusive \u201cwe\u201d; third-person-only snippets describe other people from within Tom\u2019s account and therefore remain unmarked rather than establishing a separate third-person strand. Dialogue, gnomic material, paratext, and Savannah\u2019s embedded poem were not promoted to base narration. Academic and credible whole-book web descriptions independently identify Tom\u2019s first-person viewpoint, and targeted searches found no alternating narrator. No authorized sustained online excerpt was readable, but the convergent quote evidence and Tier B/C structural evidence make the remaining uncertainty minor.",
+  "provenance": {
+    "run_id": "person_all_nonabstain_024",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "high",
+    "web_search": "live",
+    "classified_at": "2026-09-01T15:39:25.055899+00:00",
+    "methodology_sha256": "f90d264438539a798bf7143b0401f5fb11c8e17b255ba0fac57dfdb3352e0431",
+    "prompt_sha256": "c341645357aea4711ef72a543740214eb770a5fb338b90d40e6fc845e3d6cd3c",
+    "quotes_sha256": "3fbe5387a9bef6bdc00364414a52a9f513e7be5496700d6c7562ea21bae9ce81"
+  }
+}
