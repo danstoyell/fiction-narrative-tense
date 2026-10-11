@@ -21,3 +21,6 @@ throttle_out.txt
 raw_data/batches/
 raw_data/person_runs/
 __pycache__/
+.DS_Store
+.formatting
+.claude/settings.json
